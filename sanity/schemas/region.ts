@@ -11,11 +11,34 @@ export const region = {
     },
     {
       name: 'slug',
-      title: 'Slug',
+      title: 'Slug (single segment)',
       type: 'slug',
+      description: 'Just this region\'s slug (e.g. "chambolle-musigny")',
       options: {
         source: 'name',
         maxLength: 96,
+      },
+      validation: (Rule: any) => Rule.required(),
+    },
+    {
+      name: 'fullSlug',
+      title: 'Full Slug Path',
+      type: 'string',
+      description: 'Complete path (e.g. "france/burgundy/cote-de-nuits/chambolle-musigny")',
+      validation: (Rule: any) => Rule.required(),
+    },
+    {
+      name: 'level',
+      title: 'Region Level',
+      type: 'string',
+      options: {
+        list: [
+          { title: 'Country', value: 'country' },
+          { title: 'Region', value: 'region' },
+          { title: 'Sub-Region', value: 'subregion' },
+          { title: 'Village', value: 'village' },
+          { title: 'Vineyard', value: 'vineyard' },
+        ],
       },
       validation: (Rule: any) => Rule.required(),
     },
@@ -26,16 +49,67 @@ export const region = {
       validation: (Rule: any) => Rule.required(),
     },
     {
+      name: 'parentRegion',
+      title: 'Parent Region',
+      type: 'reference',
+      to: [{ type: 'region' }],
+      description: 'The parent region in the hierarchy',
+    },
+    {
       name: 'description',
-      title: 'Description',
+      title: 'Short Description',
       type: 'text',
       rows: 4,
     },
     {
-      name: 'subRegions',
-      title: 'Sub-Regions',
+      name: 'content',
+      title: 'Full Content/Guide',
       type: 'array',
-      of: [{ type: 'string' }],
+      of: [
+        { type: 'block' },
+        {
+          type: 'image',
+          options: { hotspot: true },
+        },
+      ],
+      description: 'Full region guide content (converted from markdown)',
+    },
+    {
+      name: 'sidebarLinks',
+      title: 'Sidebar Links',
+      type: 'array',
+      of: [
+        {
+          type: 'object',
+          fields: [
+            {
+              name: 'name',
+              title: 'Name',
+              type: 'string',
+            },
+            {
+              name: 'slug',
+              title: 'Slug',
+              type: 'string',
+            },
+            {
+              name: 'classification',
+              title: 'Classification',
+              type: 'string',
+              options: {
+                list: [
+                  { title: 'Grand Cru', value: 'grand-cru' },
+                  { title: 'Premier Cru', value: 'premier-cru' },
+                  { title: 'Village', value: 'village' },
+                  { title: 'Regional', value: 'regional' },
+                  { title: 'Sub-Region', value: 'subregion' },
+                ],
+              },
+            },
+          ],
+        },
+      ],
+      description: 'Child regions or vineyards shown in sidebar',
     },
     {
       name: 'image',
@@ -56,7 +130,7 @@ export const region = {
   preview: {
     select: {
       title: 'name',
-      subtitle: 'country',
+      subtitle: 'fullSlug',
       media: 'image',
     },
   },
