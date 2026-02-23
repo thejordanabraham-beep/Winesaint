@@ -1,0 +1,45 @@
+{
+  "name": "Pomerol",
+  "established": "1936",
+  "description": "Small but prestigious appellation, home to Château Pétrus.",
+  "color": "#B22222",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.25,
+          44.95
+        ],
+        [
+          -0.15,
+          44.95
+        ],
+        [
+          -0.05,
+          44.88
+        ],
+        [
+          -0.05,
+          44.82
+        ],
+        [
+          -0.15,
+          44.78
+        ],
+        [
+          -0.25,
+          44.78
+        ],
+        [
+          -0.32,
+          44.85
+        ],
+        [
+          -0.25,
+          44.95
+        ]
+      ]
+    ]
+  }
+}

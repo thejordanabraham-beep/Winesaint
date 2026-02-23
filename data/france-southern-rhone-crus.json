@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Châteauneuf-du-Pape",
+    "appellationName": "Châteauneuf-du-Pape",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Gigondas",
+    "appellationName": "Gigondas",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Vacqueyras",
+    "appellationName": "Vacqueyras",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Rasteau",
+    "appellationName": "Rasteau",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Cairanne",
+    "appellationName": "Cairanne",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Vinsobres",
+    "appellationName": "Vinsobres",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Beaumes-de-Venise",
+    "appellationName": "Beaumes-de-Venise",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Lirac",
+    "appellationName": "Lirac",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Tavel",
+    "appellationName": "Tavel",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  }
+]

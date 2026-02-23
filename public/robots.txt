@@ -1,0 +1,44 @@
+# WineSaint robots.txt
+# Allow legitimate search engines, block AI scrapers and bad bots
+
+# Google, Bing, etc - allowed with crawl delay
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+Crawl-delay: 2
+Allow: /
+
+# Block AI training bots
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: cohere-ai
+User-agent: PerplexityBot
+User-agent: Omgilibot
+Disallow: /
+
+# Block common scrapers
+User-agent: SemrushBot
+User-agent: AhrefsBot
+User-agent: DotBot
+User-agent: MJ12bot
+User-agent: SeznamBot
+Disallow: /
+
+# Default rule for everyone else
+User-agent: *
+Crawl-delay: 10
+Allow: /
+
+# Protect API routes and admin areas
+User-agent: *
+Disallow: /api/
+Disallow: /studio/
+Disallow: /_next/
+Disallow: /admin/
+
+# Sitemap location (update when you create one)
+Sitemap: https://winesaint.com/sitemap.xml

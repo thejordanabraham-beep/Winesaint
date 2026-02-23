@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Santa Maddalena",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  },
+  {
+    "name": "Terlano",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  },
+  {
+    "name": "Valle Isarco",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  },
+  {
+    "name": "Valle Venosta",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  },
+  {
+    "name": "Colli di Bolzano",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  },
+  {
+    "name": "Meranese di Collina",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  },
+  {
+    "name": "Klausner Laitacher",
+    "appellationName": "Alto Adige",
+    "regionName": "Trentino-Alto Adige",
+    "classification": "subzone"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Borba",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Évora",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Granja-Amareleja",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Moura",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Portalegre",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Redondo",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Reguengos",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  },
+  {
+    "name": "Vidigueira",
+    "appellationName": "Alentejo",
+    "regionName": "Alentejo",
+    "classification": "subregion"
+  }
+]

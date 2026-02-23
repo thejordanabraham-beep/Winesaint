@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Casablanca Valley",
+    "slug": "casablanca-valley",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71.7,
+          -33.6
+        ],
+        [
+          -71,
+          -33.6
+        ],
+        [
+          -71,
+          -33
+        ],
+        [
+          -71.7,
+          -33
+        ],
+        [
+          -71.7,
+          -33.6
+        ]
+      ]
+    ]
+  }
+}

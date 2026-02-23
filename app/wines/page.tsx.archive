@@ -1,0 +1,122 @@
+import Link from 'next/link';
+import { client } from '@/lib/sanity/client';
+import { allWinesQuery } from '@/lib/sanity/queries';
+import { ScoreBadge } from '@/components/ui/ScoreBadge';
+
+interface Wine {
+  _id: string;
+  name: string;
+  slug: string;
+  vintage: number;
+  grapeVarieties: string[];
+  priceRange?: string;
+  priceUsd?: number;
+  criticAvg?: number;
+  producer: { name: string; slug: string } | null;
+  region: { name: string; slug: string; country: string } | null;
+  climat?: { name: string; classification?: string } | null;
+  latestReview?: { score: number };
+}
+
+async function getWines(): Promise<Wine[]> {
+  return await client.fetch(allWinesQuery);
+}
+
+export default async function WinesPage() {
+  const wines = await getWines();
+
+  return (
+    <div className="bg-[#FAF7F2] min-h-screen">
+      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+        {/* Header */}
+        <div className="mb-10">
+          <h1 className="font-serif text-4xl italic text-[#1C1C1C]">Wine Reviews</h1>
+          <p className="mt-3 text-gray-600">
+            Explore our collection of {wines.length} wines from around the world.
+          </p>
+        </div>
+
+        {/* Wine Grid */}
+        {wines.length === 0 ? (
+          <div className="text-center py-16 bg-white border-3 border-[#1C1C1C] rounded-lg">
+            <p className="text-gray-500 text-lg">No wines found in the database.</p>
+            <p className="text-gray-400 mt-2">Run the seed script to add sample data.</p>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {wines.map((wine) => (
+              <Link
+                key={wine._id}
+                href={`/wines/${wine.slug}`}
+                className="group fun-card bg-white border-3 border-[#1C1C1C] rounded-lg overflow-hidden"
+              >
+                {/* Wine Image Placeholder */}
+                <div className="aspect-[3/4] bg-gradient-to-br from-[#6d597a] to-[#457b9d] relative flex items-center justify-center">
+                  <div className="w-12 h-40 bg-white/20 rounded-sm" />
+
+                  {/* Score Badge */}
+                  {wine.criticAvg && (
+                    <div className="absolute top-3 right-3">
+                      <ScoreBadge score={wine.criticAvg} size="sm" />
+                    </div>
+                  )}
+
+                  {/* Price Tag */}
+                  {wine.priceUsd && (
+                    <div className="absolute bottom-3 left-3">
+                      <span className="bg-[#1C1C1C] text-white text-xs font-bold px-2 py-1 rounded">
+                        ${wine.priceUsd}
+                      </span>
+                    </div>
+                  )}
+                </div>
+
+                {/* Wine Info */}
+                <div className="p-4">
+                  <h3 className="font-serif text-lg italic text-[#1C1C1C] group-hover:text-[#722F37] transition-colors line-clamp-1">
+                    {wine.producer?.name || 'Unknown Producer'} {wine.climat?.name || wine.name} {wine.vintage}
+                  </h3>
+
+                  {wine.climat?.classification && (
+                    <p className="text-xs text-[#B8926A] uppercase tracking-wide mt-1">
+                      {wine.climat.classification === 'grand_cru' && 'Grand Cru'}
+                      {wine.climat.classification === 'premier_cru' && 'Premier Cru'}
+                      {wine.climat.classification === 'village' && 'Village'}
+                    </p>
+                  )}
+                  <p className="text-xs text-gray-400 mt-1">
+                    {(() => {
+                      if (!wine.region?.name) return 'Unknown Region';
+                      const country = wine.region?.country;
+                      if (!country || country === 'Unknown') return wine.region.name;
+                      return `${wine.region.name}, ${country}`;
+                    })()}
+                  </p>
+
+                  {/* Grapes */}
+                  {wine.grapeVarieties && wine.grapeVarieties.length > 0 && (
+                    <div className="mt-3 flex flex-wrap gap-1">
+                      {wine.grapeVarieties.slice(0, 2).map((grape) => (
+                        <span
+                          key={grape}
+                          className="text-xs bg-[#f4d35e]/30 text-[#1C1C1C] px-2 py-0.5 rounded"
+                        >
+                          {grape}
+                        </span>
+                      ))}
+                      {wine.grapeVarieties.length > 2 && (
+                        <span className="text-xs text-gray-400">
+                          +{wine.grapeVarieties.length - 2}
+                        </span>
+                      )}
+                    </div>
+                  )}
+                </div>
+              </Link>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}

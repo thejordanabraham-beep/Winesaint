@@ -1,0 +1,268 @@
+INSTRUCTIONS FOR CLAUDE DESKTOP:
+Please create a professional PowerPoint pitch deck (or PDF slides) with the following content. Format it with clean, modern design, use the wine color palette (#722F37 for primary, warm neutrals for backgrounds), and make it visually scannable for someone with ADHD. Each slide should have minimal text, clear headers, and visual hierarchy.
+
+---
+
+SLIDE 1: TITLE SLIDE
+Title: WineSaint
+Subtitle: The Comprehensive Wine Education Platform
+Tagline: "Making wine knowledge accessible to everyone"
+
+---
+
+SLIDE 2: THE PROBLEM
+Header: Wine Education is Broken
+
+Bullet points:
+• Wine is intimidating → Complex terminology keeps newcomers away
+• Existing platforms fall short:
+  - Wine Folly: Surface-level ($99/year)
+  - Wine Spectator: Paywalled ratings
+  - Vivino: Sales-focused (50M users, not educational)
+  - Wine Enthusiast: Expensive courses ($695)
+• Market gap: No FREE, comprehensive wine education platform
+
+---
+
+SLIDE 3: THE SOLUTION
+Header: WineSaint Ecosystem
+
+Three connected platforms:
+1. Web Platform (308 region pages, 39 countries)
+   - 5-level navigation: Country → Region → Sub-region → Village → Vineyard
+   - Deepest hierarchy in the industry
+2. François AI (RAG-powered wine expert)
+   - Like ChatGPT but trained on wine knowledge
+   - 24/7 expert answers
+3. Wine Notes (iOS app)
+   - Tasting notes on the go
+   - Already live on iOS
+
+Key differentiator: Completely FREE
+
+---
+
+SLIDE 4: WHAT WE'VE BUILT
+Header: Current State (Numbers)
+
+Content Scale:
+• 308 region pages across 39 countries
+• 78 comprehensive guides (2.9MB of content)
+• 5-level hierarchical navigation
+  - 39 Countries
+  - 45 Regions
+  - 67 Sub-regions
+  - 71 Villages
+  - 86 Individual Vineyards
+• Wine review database with scoring
+• Vintage charts
+• Articles & buying guides
+
+Tech: Next.js 16, Sanity CMS, TypeScript, 328 code files, production-ready
+
+---
+
+SLIDE 5: COMPETITIVE ADVANTAGE
+Header: Why WineSaint Wins
+
+Comparison table:
+| Feature          | WineSaint | Wine Folly | Wine Spectator | Vivino | Wine Enthusiast |
+|------------------|-----------|------------|----------------|--------|-----------------|
+| Price            | FREE      | $99/year   | Subscription   | Freemium | $695/course   |
+| Depth            | 5 levels, 308 pages | Maps only | Paywalled | Database | Certification |
+| AI Expert        | ✅ François | ❌ | ❌ | Basic | ❌ |
+| Mobile App       | ✅        | ❌          | ❌              | ✅      | ❌              |
+| Region Coverage  | 39 countries | ~30 regions | Limited | Database | Course-specific |
+| Learning Paths   | ✅        | ❌ (paid)   | ❌              | ❌      | ✅ (paid)      |
+
+Value Prop: "Wikipedia meets Khan Academy for Wine"
+
+---
+
+SLIDE 6: THE VISION
+Header: Save the Wine Industry
+
+Mission: Make wine education accessible, honest, and engaging for everyone
+
+Target Audiences:
+1. Curious Beginners (60%) - Intimidated, want approachable learning
+2. Enthusiast Learners (30%) - Know basics, want depth
+3. Serious Students (10%) - WSET candidates, professionals
+
+Market Opportunity:
+• 84M US wine drinkers
+• 25-30M interested in wine education
+• Even 0.1% capture = 25,000-30,000 users
+• Wine tourism: $10B+ annually
+• Global wine market: $364B
+
+---
+
+SLIDE 7: 12-MONTH ROADMAP
+Header: Three Phases
+
+PHASE 1 (Months 1-3): Foundation
+• Smart Content Connections (3-4 weeks)
+• Wine 101 Hub (4-6 weeks)
+• Content Gaps Integration (6-8 weeks)
+
+PHASE 2 (Months 4-6): Interactive Features
+• Wine Finder / Smart Search (6-8 weeks)
+• Comparison Tools (8-10 weeks)
+• Guided Learning Paths (4-6 weeks)
+
+PHASE 3 (Months 7-12): Mobile & Growth
+• Mobile-First Rebuild (12-16 weeks) - CRITICAL
+• Wine Notes Integration (6-8 weeks)
+• Social Features (later phase)
+
+---
+
+SLIDE 8: COSTS
+Header: Budget Breakdown
+
+Current Monthly Costs:
+• Hosting: $0-20
+• Sanity CMS: $0 (free tier)
+• François API: $50-150
+• Domain: $15/year
+• Apple Developer: $99/year
+TOTAL: $50-170/month
+
+Development Costs (if outsourced):
+• Phase 1 (3 months): $20,000-36,000
+• Phase 2 (3 months): $27,000-48,000
+• Phase 3 (6 months): $27,000-48,000
+12-Month Total: $74,000-132,000
+
+Alternative: In-house development (Jordan's time) = $0 but 6-12 months
+
+---
+
+SLIDE 9: MONETIZATION
+Header: Three Paths Forward
+
+Option 1: 501(c)(3) Nonprofit (RECOMMENDED)
+✅ Aligns with educational mission
+✅ Tax-deductible donations
+✅ Grant eligibility
+✅ "Free forever" credibility
+Setup: $2,000-5,000 | Annual: $1,000-2,000
+
+Option 2: Minimal Monetization (Revenue-Neutral)
+• Affiliate links: $200-500/month
+• Sponsored content: $500-2,000/month
+• Premium François tier: $500-1,500/month
+Net: $900-3,700/month → reinvest in platform
+
+Option 3: Hybrid
+Register nonprofit + minimal monetization during IRS approval
+
+---
+
+SLIDE 10: SUCCESS METRICS
+Header: What Winning Looks Like
+
+Year 1 Goals:
+• 10,000 monthly visitors
+• 100,000 page views/month
+• 5+ minute average session
+• 500 François conversations/week
+• 1,000 Wine Notes app downloads
+• 150+ total guides
+• Wine 101 Hub launched
+
+Year 3 Vision:
+• 100,000+ monthly visitors
+• Top 3 Google results for wine regions
+• Referenced by sommeliers & educators
+• Partnerships with wine schools (WSET)
+• Full mobile ecosystem (iOS + Android)
+
+---
+
+SLIDE 11: WHY NOW?
+Header: Perfect Timing
+
+Industry Trends:
+1. Wine consumption declining in younger generations
+   - Millennials/Gen Z intimidated by wine culture
+2. Wine education is gatekept
+   - Expensive certifications ($695+)
+   - Snobby culture, scattered paywalls
+3. AI revolution in education
+   - ChatGPT proved demand for conversational learning
+   - François = ChatGPT for wine (wasn't possible 5 years ago)
+
+WineSaint's Role:
+✓ Democratize wine knowledge
+✓ Remove intimidation
+✓ Build next generation of wine lovers
+
+---
+
+SLIDE 12: THE ASK
+Header: What We Need
+
+To Execute Phase 1 (Next 3 Months):
+
+Option A: Full Development Support
+• Budget: $25,000-40,000
+• Covers: Smart connections, Wine 101 Hub, content integration
+• Outcome: Platform 2x more valuable, ready for growth
+
+Option B: Operational Support
+• Budget: $500-1,000/month for 6-12 months
+• Covers: Hosting, API costs, minor outsourcing
+• Outcome: Jordan builds in-house, slower but sustainable
+
+Option C: Strategic Partnership
+• Contribution: Time, expertise, wine industry connections
+• Role: Advisor
+• Outcome: Credibility, sponsorships, user growth
+
+To Explore Nonprofit: $2,000-5,000 (legal setup)
+
+---
+
+SLIDE 13: NEXT STEPS
+Header: 30-90-360 Day Plan
+
+Next 30 Days:
+1. Decision on funding approach
+2. Fix map visualization issues
+3. Launch Wine 101 Hub (10 articles)
+4. SEO optimization
+5. Social media presence
+
+90-Day Milestones:
+✅ Smart content connections live
+✅ Wine 101 Hub (20 articles)
+✅ 1,000 monthly visitors
+✅ François handling 200+ queries/month
+✅ Nonprofit vs monetization decided
+
+12-Month Vision:
+✅ Mobile-first experience launched
+✅ 10,000+ monthly visitors
+✅ Recognized in wine education community
+✅ Revenue-neutral or nonprofit status
+
+---
+
+SLIDE 14: CLOSING SLIDE
+Header: The Vision
+
+"WineSaint in 3 Years"
+
+The place where anyone — from a curious beginner to a seasoned enthusiast — goes to learn about wine.
+
+Free, comprehensive, honest, and powered by AI.
+
+Mentioned by sommeliers, referenced by students, trusted by the wine community.
+
+The platform that helped save an industry by making it accessible.
+
+---
+
+Questions? Let's discuss.

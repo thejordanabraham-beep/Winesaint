@@ -1,0 +1,684 @@
+[
+  {
+    "region": "Burgundy Grand Crus - Côte de Nuits",
+    "examples": [
+      {
+        "input": "2019 Domaine de la Romanée-Conti Romanée-Conti Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine de la Romanée-Conti",
+          "appellation": "Vosne-Romanée",
+          "climat": "Romanée-Conti",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2018 DRC La Tâche Grand Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine de la Romanée-Conti",
+          "appellation": "Vosne-Romanée",
+          "climat": "La Tâche",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2020 Domaine Leroy Richebourg Grand Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Leroy",
+          "appellation": "Vosne-Romanée",
+          "climat": "Richebourg",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2017 Comte Liger-Belair La Romanée Grand Cru Monopole",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Comte Liger-Belair",
+          "appellation": "Vosne-Romanée",
+          "climat": "La Romanée",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Domaine François Lamarche La Grande Rue Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine François Lamarche",
+          "appellation": "Vosne-Romanée",
+          "climat": "La Grande Rue",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2018 Domaine Georges de Vogüé Musigny Grand Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine Georges de Vogüé",
+          "appellation": "Chambolle-Musigny",
+          "climat": "Musigny",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2020 Domaine Dujac Clos de la Roche Grand Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Dujac",
+          "appellation": "Morey-Saint-Denis",
+          "climat": "Clos de la Roche",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Domaine Ponsot Clos de la Roche Vieilles Vignes Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine Ponsot",
+          "appellation": "Morey-Saint-Denis",
+          "climat": "Clos de la Roche",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2017 Domaine des Lambrays Clos des Lambrays Grand Cru",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Domaine des Lambrays",
+          "appellation": "Morey-Saint-Denis",
+          "climat": "Clos des Lambrays",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2018 Mommessin Clos de Tart Monopole Grand Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Mommessin",
+          "appellation": "Morey-Saint-Denis",
+          "climat": "Clos de Tart",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Armand Rousseau Chambertin Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Armand Rousseau",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Chambertin",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2020 Domaine Leroy Chambertin Grand Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Leroy",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Chambertin",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2018 Armand Rousseau Chambertin-Clos de Bèze Grand Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Armand Rousseau",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Chambertin-Clos de Bèze",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Domaine Ponsot Griotte-Chambertin Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine Ponsot",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Griotte-Chambertin",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2017 Domaine Drouhin-Laroze Clos de Vougeot Grand Cru",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Domaine Drouhin-Laroze",
+          "appellation": "Vougeot",
+          "climat": "Clos de Vougeot",
+          "classification": "grand_cru"
+        }
+      }
+    ]
+  },
+  {
+    "region": "Burgundy Grand Crus - Côte de Beaune Whites",
+    "examples": [
+      {
+        "input": "2020 Domaine Ramonet Montrachet Grand Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Ramonet",
+          "appellation": "Puligny-Montrachet",
+          "climat": "Montrachet",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Domaine Leflaive Chevalier-Montrachet Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine Leflaive",
+          "appellation": "Puligny-Montrachet",
+          "climat": "Chevalier-Montrachet",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2020 Domaine Étienne Sauzet Bâtard-Montrachet Grand Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Étienne Sauzet",
+          "appellation": "Puligny-Montrachet",
+          "climat": "Bâtard-Montrachet",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2018 Pierre-Yves Colin-Morey Corton-Charlemagne Grand Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Pierre-Yves Colin-Morey",
+          "appellation": "Aloxe-Corton",
+          "climat": "Corton-Charlemagne",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Bonneau du Martray Corton-Charlemagne Grand Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Bonneau du Martray",
+          "appellation": "Aloxe-Corton",
+          "climat": "Corton-Charlemagne",
+          "classification": "grand_cru"
+        }
+      }
+    ]
+  },
+  {
+    "region": "Burgundy Premier Crus - Côte de Nuits",
+    "examples": [
+      {
+        "input": "2020 Domaine Leroy Chambolle-Musigny Les Amoureuses Premier Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Leroy",
+          "appellation": "Chambolle-Musigny",
+          "climat": "Les Amoureuses",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2019 Armand Rousseau Gevrey-Chambertin Clos Saint-Jacques Premier Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Armand Rousseau",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Clos Saint-Jacques",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2018 Domaine Fourrier Gevrey-Chambertin Les Cazetiers 1er Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine Fourrier",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Les Cazetiers",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2020 Robert Chevillon Nuits-Saint-Georges Les Vaucrains Premier Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Robert Chevillon",
+          "appellation": "Nuits-Saint-Georges",
+          "climat": "Les Vaucrains",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2019 Henri Gouges Nuits-Saint-Georges Les Saint-Georges 1er Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Henri Gouges",
+          "appellation": "Nuits-Saint-Georges",
+          "climat": "Les Saint-Georges",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2018 Domaine Méo-Camuzet Vosne-Romanée Aux Malconsorts Premier Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine Méo-Camuzet",
+          "appellation": "Vosne-Romanée",
+          "climat": "Aux Malconsorts",
+          "classification": "premier_cru"
+        }
+      }
+    ]
+  },
+  {
+    "region": "Burgundy Premier Crus - Côte de Beaune Whites",
+    "examples": [
+      {
+        "input": "2020 Domaine Étienne Sauzet Puligny-Montrachet Les Perrières Premier Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine Étienne Sauzet",
+          "appellation": "Puligny-Montrachet",
+          "climat": "Les Perrières",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2019 Coche-Dury Meursault Les Perrières 1er Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Coche-Dury",
+          "appellation": "Meursault",
+          "climat": "Les Perrières",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2020 Domaine des Comtes Lafon Meursault Les Genevrières Premier Cru",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Domaine des Comtes Lafon",
+          "appellation": "Meursault",
+          "climat": "Les Genevrières",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2018 Domaine Leflaive Puligny-Montrachet Les Pucelles 1er Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine Leflaive",
+          "appellation": "Puligny-Montrachet",
+          "climat": "Les Pucelles",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2019 Pierre-Yves Colin-Morey Chassagne-Montrachet Les Caillerets Premier Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Pierre-Yves Colin-Morey",
+          "appellation": "Chassagne-Montrachet",
+          "climat": "Les Caillerets",
+          "classification": "premier_cru"
+        }
+      }
+    ]
+  },
+  {
+    "region": "Burgundy Premier Crus - Côte de Beaune Reds",
+    "examples": [
+      {
+        "input": "2018 Domaine de la Romanée-Conti Corton Les Bressandes Premier Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine de la Romanée-Conti",
+          "appellation": "Beaune",
+          "climat": "Les Bressandes",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2019 Domaine de Courcel Pommard Les Rugiens 1er Cru",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine de Courcel",
+          "appellation": "Pommard",
+          "climat": "Les Rugiens",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2020 Comte Armand Pommard Clos des Épeneaux Premier Cru Monopole",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Comte Armand",
+          "appellation": "Pommard",
+          "climat": "Les Épenots",
+          "classification": "premier_cru"
+        }
+      },
+      {
+        "input": "2018 Marquis d'Angerville Volnay Clos des Ducs Monopole 1er Cru",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Marquis d'Angerville",
+          "appellation": "Volnay",
+          "climat": "Clos des Ducs",
+          "classification": "premier_cru"
+        }
+      }
+    ]
+  },
+  {
+    "region": "Barolo MGAs",
+    "examples": [
+      {
+        "input": "2016 Giacomo Conterno Barolo Monfortino Riserva Francia",
+        "expected": {
+          "vintage": 2016,
+          "producer": "Giacomo Conterno",
+          "appellation": "Barolo",
+          "climat": "Francia",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2017 Giuseppe Mascarello Barolo Monprivato",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Giuseppe Mascarello",
+          "appellation": "Barolo",
+          "climat": "Monprivato",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2018 Luciano Sandrone Barolo Cannubi Boschis",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Luciano Sandrone",
+          "appellation": "Barolo",
+          "climat": "Cannubi",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2016 Bruno Giacosa Barolo Rocche di Castiglione Falletto Riserva",
+        "expected": {
+          "vintage": 2016,
+          "producer": "Bruno Giacosa",
+          "appellation": "Barolo",
+          "climat": "Rocche di Castiglione",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2017 Elio Grasso Barolo Ginestra Vigna Casa Maté",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Elio Grasso",
+          "appellation": "Barolo",
+          "climat": "Ginestra",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2018 Aldo Conterno Barolo Bussia Cicala",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Aldo Conterno",
+          "appellation": "Barolo",
+          "climat": "Bussia",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2016 Roberto Voerzio Barolo Cerequio",
+        "expected": {
+          "vintage": 2016,
+          "producer": "Roberto Voerzio",
+          "appellation": "Barolo",
+          "climat": "Cerequio",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2017 Massolino Barolo Vigna Rionda Riserva",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Massolino",
+          "appellation": "Barolo",
+          "climat": "Vigna Rionda",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2018 Paolo Scavino Barolo Bric dël Fiasc",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Paolo Scavino",
+          "appellation": "Barolo",
+          "climat": "Ginestra",
+          "classification": "mga"
+        }
+      },
+      {
+        "input": "2016 Vietti Barolo Villero Riserva",
+        "expected": {
+          "vintage": 2016,
+          "producer": "Vietti",
+          "appellation": "Barolo",
+          "climat": "Villero",
+          "classification": "mga"
+        }
+      }
+    ]
+  },
+  {
+    "region": "German Mosel Grosses Gewächs",
+    "examples": [
+      {
+        "input": "2021 Weingut Clemens Busch Marienburg Fahrlay Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2021,
+          "producer": "Weingut Clemens Busch",
+          "appellation": "Pünderich",
+          "climat": "Marienburg Fahrlay",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2020 Egon Müller Scharzhofberg Riesling GG",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Egon Müller",
+          "appellation": "Wiltingen",
+          "climat": "Scharzhofberg",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2021 Joh. Jos. Prüm Wehlener Sonnenuhr Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2021,
+          "producer": "Joh. Jos. Prüm",
+          "appellation": "Wehlen",
+          "climat": "Wehlener Sonnenuhr",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2020 Dr. Loosen Erdener Prälat Riesling GG",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Dr. Loosen",
+          "appellation": "Erden",
+          "climat": "Erdener Prälat",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2021 Markus Molitor Ürziger Würzgarten Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2021,
+          "producer": "Markus Molitor",
+          "appellation": "Ürzig",
+          "climat": "Ürziger Würzgarten",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      }
+    ]
+  },
+  {
+    "region": "German Rheingau Grosses Gewächs",
+    "examples": [
+      {
+        "input": "2020 Georg Breuer Berg Schlossberg Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Georg Breuer",
+          "appellation": "Rüdesheim",
+          "climat": "Berg Schlossberg",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2019 Kloster Eberbach Steinberg Riesling GG",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Kloster Eberbach",
+          "appellation": "Hattenheim",
+          "climat": "Steinberg",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2021 August Kesseler Rüdesheimer Berg Schlossberg Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2021,
+          "producer": "August Kesseler",
+          "appellation": "Rüdesheim",
+          "climat": "Berg Schlossberg",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      }
+    ]
+  },
+  {
+    "region": "German Pfalz Grosses Gewächs",
+    "examples": [
+      {
+        "input": "2020 Bürklin-Wolf Forst Kirchenstück Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Bürklin-Wolf",
+          "appellation": "Forst",
+          "climat": "Kirchenstück",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2021 Reichsrat von Buhl Forst Pechstein Riesling GG",
+        "expected": {
+          "vintage": 2021,
+          "producer": "Reichsrat von Buhl",
+          "appellation": "Forst",
+          "climat": "Pechstein",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2020 Georg Mosbacher Forst Ungeheuer Riesling Grosses Gewächs",
+        "expected": {
+          "vintage": 2020,
+          "producer": "Georg Mosbacher",
+          "appellation": "Forst",
+          "climat": "Ungeheuer",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      },
+      {
+        "input": "2021 von Winning Deidesheim Kalkofen Riesling GG",
+        "expected": {
+          "vintage": 2021,
+          "producer": "von Winning",
+          "appellation": "Deidesheim",
+          "climat": "Kalkofen",
+          "classification": "grosses_gewachs",
+          "grape": "Riesling"
+        }
+      }
+    ]
+  },
+  {
+    "region": "Edge Cases & Variations",
+    "examples": [
+      {
+        "input": "DRC Romanée-Conti 2015",
+        "expected": {
+          "vintage": 2015,
+          "producer": "Domaine de la Romanée-Conti",
+          "appellation": "Vosne-Romanée",
+          "climat": "Romanée-Conti",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2017 Rousseau Chambertin",
+        "expected": {
+          "vintage": 2017,
+          "producer": "Armand Rousseau",
+          "appellation": "Gevrey-Chambertin",
+          "climat": "Chambertin",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "Leroy Musigny 2018",
+        "expected": {
+          "vintage": 2018,
+          "producer": "Domaine Leroy",
+          "appellation": "Chambolle-Musigny",
+          "climat": "Musigny",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "2019 Ramonet Le Montrachet",
+        "expected": {
+          "vintage": 2019,
+          "producer": "Domaine Ramonet",
+          "appellation": "Puligny-Montrachet",
+          "climat": "Montrachet",
+          "classification": "grand_cru"
+        }
+      },
+      {
+        "input": "Giacomo Conterno Barolo Francia 2013",
+        "expected": {
+          "vintage": 2013,
+          "producer": "Giacomo Conterno",
+          "appellation": "Barolo",
+          "climat": "Francia",
+          "classification": "mga"
+        }
+      }
+    ]
+  }
+]

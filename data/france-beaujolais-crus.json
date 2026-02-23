@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Saint-Amour",
+    "appellationName": "Saint-Amour",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Juliénas",
+    "appellationName": "Juliénas",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Chénas",
+    "appellationName": "Chénas",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Moulin-à-Vent",
+    "appellationName": "Moulin-à-Vent",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Fleurie",
+    "appellationName": "Fleurie",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Chiroubles",
+    "appellationName": "Chiroubles",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Morgon",
+    "appellationName": "Morgon",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Régnié",
+    "appellationName": "Régnié",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Côte de Brouilly",
+    "appellationName": "Côte de Brouilly",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  },
+  {
+    "name": "Brouilly",
+    "appellationName": "Brouilly",
+    "regionName": "Beaujolais",
+    "classification": "cru"
+  }
+]

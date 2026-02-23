@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Castellina",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Castelnuovo Berardenga",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Gaiole",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Greve",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Lamole",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Montefioralle",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Panzano",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Radda",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "San Casciano",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "San Donato in Poggio",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  },
+  {
+    "name": "Vagliagli",
+    "appellationName": "Chianti Classico",
+    "regionName": "Tuscany",
+    "classification": "uga"
+  }
+]

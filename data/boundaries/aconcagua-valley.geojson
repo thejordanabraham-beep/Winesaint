@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aconcagua Valley",
+    "slug": "aconcagua-valley",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71.2,
+          -33.4
+        ],
+        [
+          -70,
+          -33.4
+        ],
+        [
+          -70,
+          -32.3
+        ],
+        [
+          -71.2,
+          -32.3
+        ],
+        [
+          -71.2,
+          -33.4
+        ]
+      ]
+    ]
+  }
+}

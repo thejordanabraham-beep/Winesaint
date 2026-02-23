@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mazoyères-Chambertin",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Blanchot",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Bougros",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Les Clos",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Grenouilles",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Preuses",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Valmur",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Vaudésir",
+    "appellationName": "Chablis",
+    "regionName": "Chablis",
+    "classification": "grand_cru"
+  }
+]

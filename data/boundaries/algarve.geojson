@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Algarve"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -9,
+          36.9
+        ],
+        [
+          -7.4,
+          36.9
+        ],
+        [
+          -7.4,
+          37.6
+        ],
+        [
+          -9,
+          37.6
+        ],
+        [
+          -9,
+          36.9
+        ]
+      ]
+    ]
+  }
+}

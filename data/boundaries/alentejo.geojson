@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Alentejo"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -8.5,
+          37.5
+        ],
+        [
+          -6.7,
+          37.5
+        ],
+        [
+          -6.7,
+          39.2
+        ],
+        [
+          -8.5,
+          39.2
+        ],
+        [
+          -8.5,
+          37.5
+        ]
+      ]
+    ]
+  }
+}

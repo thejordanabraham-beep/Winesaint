@@ -1,0 +1,392 @@
+[
+  {
+    "mgaName": "Albesani",
+    "mgaSlug": "albesani",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Asili",
+    "mgaSlug": "asili",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Ausario",
+    "mgaSlug": "ausario",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Balluri",
+    "mgaSlug": "balluri",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Basarin",
+    "mgaSlug": "basarin",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Bernardot",
+    "mgaSlug": "bernardot",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Bordini",
+    "mgaSlug": "bordini",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Bric Micca",
+    "mgaSlug": "bric-micca",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Bricco di Neive",
+    "mgaSlug": "bricco-di-neive",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Bricco di Treiso",
+    "mgaSlug": "bricco-di-treiso",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Cà Grossa",
+    "mgaSlug": "ca-grossa",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Canova",
+    "mgaSlug": "canova",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Cars",
+    "mgaSlug": "cars",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Casot",
+    "mgaSlug": "casot",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Castellizzano",
+    "mgaSlug": "castellizzano",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Cavanna",
+    "mgaSlug": "cavanna",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Cole",
+    "mgaSlug": "cole",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Cottà",
+    "mgaSlug": "cotta",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Currà",
+    "mgaSlug": "curra",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Faset",
+    "mgaSlug": "faset",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Fausoni",
+    "mgaSlug": "fausoni",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Ferrere",
+    "mgaSlug": "ferrere",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Gaia-Principe",
+    "mgaSlug": "gaia-principe",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Gallina",
+    "mgaSlug": "gallina",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Garassino",
+    "mgaSlug": "garassino",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Giacone",
+    "mgaSlug": "giacone",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Giacosa",
+    "mgaSlug": "giacosa",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Manzola",
+    "mgaSlug": "manzola",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Marcarini",
+    "mgaSlug": "marcarini",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Marcorino",
+    "mgaSlug": "marcorino",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Martinenga",
+    "mgaSlug": "martinenga",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Meruzzano",
+    "mgaSlug": "meruzzano",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Montaribaldi",
+    "mgaSlug": "montaribaldi",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Montefico",
+    "mgaSlug": "montefico",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Montersino",
+    "mgaSlug": "montersino",
+    "commune": "san-rocco-seno-d-elvio",
+    "communeName": "San Rocco Seno d'Elvio"
+  },
+  {
+    "mgaName": "Montestefano",
+    "mgaSlug": "montestefano",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Muncagota",
+    "mgaSlug": "muncagota",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Nervo",
+    "mgaSlug": "nervo",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Ovello",
+    "mgaSlug": "ovello",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Pajè",
+    "mgaSlug": "paje",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Pajorè",
+    "mgaSlug": "pajore",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Pora",
+    "mgaSlug": "pora",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Rabajà",
+    "mgaSlug": "rabaja",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Rabajà-bas",
+    "mgaSlug": "rabaja-bas",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Rio Sordo",
+    "mgaSlug": "rio-sordo",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Rivetti",
+    "mgaSlug": "rivetti",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Rizzi",
+    "mgaSlug": "rizzi",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Roccalini",
+    "mgaSlug": "roccalini",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Rombone",
+    "mgaSlug": "rombone",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Roncaglie",
+    "mgaSlug": "roncaglie",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Roncagliette",
+    "mgaSlug": "roncagliette",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Ronchi",
+    "mgaSlug": "ronchi",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "San Cristoforo",
+    "mgaSlug": "san-cristoforo",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "San Giuliano",
+    "mgaSlug": "san-giuliano",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "San Stunet",
+    "mgaSlug": "san-stunet",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Secondine",
+    "mgaSlug": "secondine",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Serraboella",
+    "mgaSlug": "serraboella",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Serracapelli",
+    "mgaSlug": "serracapelli",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Serragrilli",
+    "mgaSlug": "serragrilli",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Starderi",
+    "mgaSlug": "starderi",
+    "commune": "neive",
+    "communeName": "Neive"
+  },
+  {
+    "mgaName": "Tre Stelle",
+    "mgaSlug": "tre-stelle",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Trifolera",
+    "mgaSlug": "trifolera",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Valeirano",
+    "mgaSlug": "valeirano",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  },
+  {
+    "mgaName": "Vallegrande",
+    "mgaSlug": "vallegrande",
+    "commune": "treiso",
+    "communeName": "Treiso"
+  },
+  {
+    "mgaName": "Vicenziana",
+    "mgaSlug": "vicenziana",
+    "commune": "barbaresco",
+    "communeName": "Barbaresco"
+  }
+]

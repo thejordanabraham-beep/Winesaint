@@ -1,0 +1,45 @@
+{
+  "name": "Médoc",
+  "established": "1936",
+  "description": "Home to many of Bordeaux's most famous estates, known for Cabernet Sauvignon-dominant blends.",
+  "color": "#8B0000",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.15,
+          45.45
+        ],
+        [
+          -0.85,
+          45.45
+        ],
+        [
+          -0.75,
+          45.25
+        ],
+        [
+          -0.75,
+          45.05
+        ],
+        [
+          -0.85,
+          44.95
+        ],
+        [
+          -1.05,
+          44.95
+        ],
+        [
+          -1.15,
+          45.15
+        ],
+        [
+          -1.15,
+          45.45
+        ]
+      ]
+    ]
+  }
+}

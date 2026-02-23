@@ -1,0 +1,69 @@
+{
+  "name": "Vacqueyras",
+  "slug": "vacqueyras",
+  "established": 1990,
+  "description": "Neighbor to Gigondas with similar terroir. Clay-limestone and sandy soils create wines with both power and finesse at excellent value.",
+  "color": "#CD853F",
+  "zoom": 13,
+  "totalAcreage": 3500,
+  "primaryGrapes": [
+    "Grenache",
+    "Syrah",
+    "Mourvèdre"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.955,
+          44.145
+        ],
+        [
+          4.985,
+          44.14
+        ],
+        [
+          5.005,
+          44.125
+        ],
+        [
+          5.012,
+          44.105
+        ],
+        [
+          5.005,
+          44.085
+        ],
+        [
+          4.985,
+          44.072
+        ],
+        [
+          4.958,
+          44.07
+        ],
+        [
+          4.935,
+          44.082
+        ],
+        [
+          4.925,
+          44.102
+        ],
+        [
+          4.93,
+          44.125
+        ],
+        [
+          4.942,
+          44.142
+        ],
+        [
+          4.955,
+          44.145
+        ]
+      ]
+    ]
+  }
+}

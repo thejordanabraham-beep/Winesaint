@@ -1,0 +1,33 @@
+## Overview
+
+The Yorkville Highlands AVA occupies a transitional position in southern Mendocino County, serving as a climatic bridge between Sonoma County's warmer Alexander Valley to the south and the distinctly cool Anderson Valley to the northwest. The appellation follows the corridor of Highway 128 as it winds through the Mayacamas Mountains, positioning it along one of Mendocino's most important viticultural corridors. This geographic placement makes Yorkville Highlands the first Mendocino AVA encountered when traveling north from Sonoma County.
+
+The region's defining characteristic is its elevation-dependent viticulture. Vineyards are planted on hillsides rather than valley floors, a necessity driven by the fog patterns that sweep through the area. This vertical orientation creates a complex mosaic of mesoclimates within the relatively small appellation, with aspect and elevation playing crucial roles in determining site suitability for different varieties.
+
+As part of the larger Mendocino AVA's western prong, Yorkville Highlands represents a distinct departure from the county's hot interior appellations. While it shares some climatic influences with neighboring Anderson Valley, particularly Pacific fog intrusion, it maintains its own identity through more pronounced diurnal temperature swings and specific frost challenges that shape both viticultural practices and wine styles.
+
+## Climate & Terroir
+
+Yorkville Highlands experiences significant Pacific Ocean influence despite not being directly coastal. Fog pushes inland from the Anderson Valley, settling into the valleys and lower elevations with regularity. This fog pattern creates one of the region's most significant viticultural challenges: frost risk in low-lying areas forces growers to establish vineyards on hillsides above the fog line. The result is a vineyard landscape that occupies elevated sites, typically on slopes where cold air drainage provides natural frost protection.
+
+The diurnal temperature variation in Yorkville Highlands exceeds that of Anderson Valley, with particularly cold nights contributing to extended hang time and acid retention in grapes. This dramatic day-to-night temperature swing—a consequence of elevation, inland positioning, and mountain topography—allows fruit to maintain natural acidity while achieving phenolic ripeness. The combination of warm days and cold nights creates conditions that differ markedly from both the cooler, more maritime Anderson Valley and the substantially warmer interior Mendocino appellations.
+
+The hillside vineyard sites occupy varied aspects and elevations within the mountainous terrain of the Mayacamas range. These elevated plantings benefit from well-drained soils and the moderating effects of altitude, which tempers what would otherwise be warmer temperatures at this latitude. The specific soil compositions vary across the appellation's hillsides, but the elevation and drainage characteristics universally influence vine vigor and fruit concentration.
+
+## Grape Varieties & Wine Styles
+
+The climatic parameters of Yorkville Highlands—moderate temperatures with significant cooling influence, high diurnal shifts, and elevated sites—create conditions suitable for varieties that benefit from extended ripening periods and acid retention. While comprehensive variety data for the appellation is limited, the region's position between warmer and cooler zones suggests versatility in grape selection. The cooling fog influence and cold nights align with quality production of varieties that require acid preservation, while the warm days provide sufficient heat accumulation for proper ripening.
+
+The elevation-dependent viticulture and dramatic temperature swings tend to produce wines with natural acid structure and concentrated flavors, a combination of the extended hang time and the stress factors associated with hillside growing. Wines from Yorkville Highlands generally reflect their transitional position: they show more concentration and structure than might be expected from purely cool-climate sites, yet retain the acid balance and aromatic complexity that Pacific influence provides.
+
+The appellation's character distinguishes it from Anderson Valley's distinctly cool-climate profile, where Pinot Noir and aromatic whites dominate, and from Mendocino's hot interior regions known for broad plantings of Cabernet Sauvignon and Chardonnay for commercial production. Yorkville Highlands occupies a middle ground that allows for a potentially wider variety spectrum than either extreme, though production volumes remain modest compared to these neighboring regions.
+
+## Notable Producers
+
+The Yorkville Highlands AVA maintains a relatively small production footprint, with limited numbers of producers focusing specifically on estate fruit from the appellation. The region's development has been constrained by the same factors affecting much of Mendocino County: distance from major population centers and the resulting challenges for direct-to-consumer sales and tourism. Specific producer information for the appellation is limited in widely available wine literature, reflecting both the region's modest size and its role as a source of fruit that may be bottled under broader Mendocino County designations rather than the specific AVA label.
+
+## What to Know
+
+Yorkville Highlands represents an important but under-recognized piece of Mendocino's viticultural puzzle. Wine students should understand this AVA primarily through its transitional character—it demonstrates how elevation, fog patterns, and diurnal temperature variation create distinct growing conditions within relatively short distances. The requirement for hillside plantings above the fog line illustrates a practical application of mesoclimate management in California viticulture. 
+
+The appellation's modest profile means wines specifically labeled as Yorkville Highlands AVA may be difficult to source compared to Anderson Valley or broader Mendocino designations. When encountered, these wines typically reflect the balance between concentration and freshness that the region's climate profile suggests, with the pronounced diurnal shifts contributing to acid retention and aromatic complexity. The region serves as an excellent case study in how California's diverse topography creates dramatically different growing conditions within a single county.

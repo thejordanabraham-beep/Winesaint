@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Côte-Rôtie",
+    "appellationName": "Côte-Rôtie",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Condrieu",
+    "appellationName": "Condrieu",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Château-Grillet",
+    "appellationName": "Château-Grillet",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Saint-Joseph",
+    "appellationName": "Saint-Joseph",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Crozes-Hermitage",
+    "appellationName": "Crozes-Hermitage",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Hermitage",
+    "appellationName": "Hermitage",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Cornas",
+    "appellationName": "Cornas",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  },
+  {
+    "name": "Saint-Péray",
+    "appellationName": "Saint-Péray",
+    "regionName": "Rhône Valley",
+    "classification": "cru"
+  }
+]

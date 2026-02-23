@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Asili",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cà Grossa",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cars",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cavanna",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cole",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Faset",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Martinenga",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Montaribaldi",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Montefico",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Montestefano",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Muncagota",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ovello",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pajè",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pora",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rabajà",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rabajà-bas",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rio Sordo",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Roccalini",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Roncaglie",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Roncagliette",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ronchi",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Secondine",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Tre Stelle",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Trifolera",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Vicenziana",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Albesani",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Balluri",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Basarin",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bordini",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bric Micca",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco di Neive",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Canova",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cottà",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Currà",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Fausoni",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gaia-Principe",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gallina",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Marcorino",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rivetti",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Cristoforo",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Giuliano",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Serraboella",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Serracapelli",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Serragrilli",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Starderi",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ausario",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bernardot",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco di Treiso",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Casot",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castellizzano",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ferrere",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Garassino",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Giacone",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Giacosa",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Manzola",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Marcarini",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Meruzzano",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Montersino",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Nervo",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pajorè",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rizzi",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rombone",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Stunet",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Valeirano",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Vallegrande",
+    "appellationName": "Barbaresco",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  }
+]

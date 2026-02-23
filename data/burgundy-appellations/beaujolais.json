@@ -1,0 +1,45 @@
+{
+  "name": "Beaujolais",
+  "established": "1936",
+  "description": "Home of Gamay, from simple Nouveau to age-worthy Crus.",
+  "color": "#DC143C",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.52,
+          46.25
+        ],
+        [
+          4.82,
+          46.25
+        ],
+        [
+          4.92,
+          46.02
+        ],
+        [
+          4.92,
+          45.82
+        ],
+        [
+          4.82,
+          45.75
+        ],
+        [
+          4.52,
+          45.75
+        ],
+        [
+          4.42,
+          45.95
+        ],
+        [
+          4.52,
+          46.25
+        ]
+      ]
+    ]
+  }
+}

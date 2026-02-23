@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Curicó Valley",
+    "slug": "curico-valley",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71.8,
+          -35.3
+        ],
+        [
+          -70.6,
+          -35.3
+        ],
+        [
+          -70.6,
+          -34.6
+        ],
+        [
+          -71.8,
+          -34.6
+        ],
+        [
+          -71.8,
+          -35.3
+        ]
+      ]
+    ]
+  }
+}

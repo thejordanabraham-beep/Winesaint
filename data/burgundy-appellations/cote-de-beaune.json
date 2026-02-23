@@ -1,0 +1,45 @@
+{
+  "name": "Côte de Beaune",
+  "established": "1936",
+  "description": "Southern Côte d'Or, famous for white Burgundy and some reds.",
+  "color": "#F5DEB3",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.72,
+          47.05
+        ],
+        [
+          4.92,
+          47.05
+        ],
+        [
+          5.02,
+          46.92
+        ],
+        [
+          5.02,
+          46.78
+        ],
+        [
+          4.92,
+          46.72
+        ],
+        [
+          4.72,
+          46.72
+        ],
+        [
+          4.62,
+          46.85
+        ],
+        [
+          4.72,
+          47.05
+        ]
+      ]
+    ]
+  }
+}

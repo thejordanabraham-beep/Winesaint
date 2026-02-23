@@ -1,0 +1,105 @@
+{
+  "name": "Crozes-Hermitage",
+  "slug": "crozes-hermitage",
+  "established": 1937,
+  "description": "The largest Northern Rhône appellation, surrounding the famous hill of Hermitage. Diverse terroirs from granite hills to alluvial plains.",
+  "color": "#C8A2C8",
+  "zoom": 12,
+  "totalAcreage": 4200,
+  "primaryGrapes": [
+    "Syrah",
+    "Marsanne",
+    "Roussanne"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.85,
+          45.14
+        ],
+        [
+          4.9,
+          45.135
+        ],
+        [
+          4.95,
+          45.12
+        ],
+        [
+          4.98,
+          45.095
+        ],
+        [
+          4.985,
+          45.06
+        ],
+        [
+          4.975,
+          45.02
+        ],
+        [
+          4.96,
+          44.985
+        ],
+        [
+          4.93,
+          44.96
+        ],
+        [
+          4.89,
+          44.955
+        ],
+        [
+          4.855,
+          44.965
+        ],
+        [
+          4.83,
+          44.98
+        ],
+        [
+          4.815,
+          45
+        ],
+        [
+          4.81,
+          45.025
+        ],
+        [
+          4.815,
+          45.045
+        ],
+        [
+          4.87,
+          45.048
+        ],
+        [
+          4.875,
+          45.075
+        ],
+        [
+          4.85,
+          45.088
+        ],
+        [
+          4.825,
+          45.095
+        ],
+        [
+          4.82,
+          45.115
+        ],
+        [
+          4.83,
+          45.135
+        ],
+        [
+          4.85,
+          45.14
+        ]
+      ]
+    ]
+  }
+}

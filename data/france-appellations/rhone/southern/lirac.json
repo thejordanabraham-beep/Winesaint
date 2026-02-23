@@ -1,0 +1,70 @@
+{
+  "name": "Lirac",
+  "slug": "lirac",
+  "established": 1947,
+  "description": "On the west bank opposite Châteauneuf-du-Pape. Produces excellent reds, whites, and rosés at great value.",
+  "color": "#B22222",
+  "zoom": 13,
+  "totalAcreage": 1800,
+  "primaryGrapes": [
+    "Grenache",
+    "Syrah",
+    "Mourvèdre",
+    "Cinsault"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.665,
+          44.055
+        ],
+        [
+          4.695,
+          44.05
+        ],
+        [
+          4.715,
+          44.038
+        ],
+        [
+          4.722,
+          44.018
+        ],
+        [
+          4.718,
+          43.998
+        ],
+        [
+          4.702,
+          43.982
+        ],
+        [
+          4.678,
+          43.978
+        ],
+        [
+          4.655,
+          43.988
+        ],
+        [
+          4.642,
+          44.008
+        ],
+        [
+          4.645,
+          44.032
+        ],
+        [
+          4.655,
+          44.048
+        ],
+        [
+          4.665,
+          44.055
+        ]
+      ]
+    ]
+  }
+}

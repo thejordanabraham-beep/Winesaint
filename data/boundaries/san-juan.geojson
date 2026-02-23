@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "San Juan"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -70,
+          -32.5
+        ],
+        [
+          -66,
+          -32.5
+        ],
+        [
+          -66,
+          -28.3
+        ],
+        [
+          -70,
+          -28.3
+        ],
+        [
+          -70,
+          -32.5
+        ]
+      ]
+    ]
+  }
+}

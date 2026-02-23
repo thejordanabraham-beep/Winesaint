@@ -1,0 +1,255 @@
+[
+  {
+    "input": "2020 Domaine Leroy Chambolle-Musigny Les Amoureuses Premier Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Leroy",
+      "appellation": "Chambolle-Musigny",
+      "climat": "Les Amoureuses",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine de la Romanée-Conti Romanée-Conti Grand Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine de la Romanée-Conti",
+      "appellation": "Vosne-Romanée",
+      "climat": "Romanée-Conti",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine de la Romanée-Conti La Tâche Grand Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine de la Romanée-Conti",
+      "appellation": "Vosne-Romanée",
+      "climat": "La Tâche",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Leflaive Puligny-Montrachet Les Pucelles 1er Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Leflaive",
+      "appellation": "Puligny-Montrachet",
+      "climat": "Les Pucelles",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2018 Domaine Armand Rousseau Chambertin Grand Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine Armand Rousseau",
+      "appellation": "Gevrey-Chambertin",
+      "climat": "Chambertin",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Ramonet Montrachet Grand Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Ramonet",
+      "appellation": "Puligny-Montrachet",
+      "climat": "Montrachet",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine Georges Roumier Bonnes-Mares Grand Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine Georges Roumier",
+      "appellation": "Chambolle-Musigny",
+      "climat": "Bonnes-Mares",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Hubert Lignier Clos de Vougeot Grand Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Hubert Lignier",
+      "appellation": "Vougeot",
+      "climat": "Clos de Vougeot",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2018 Domaine du Comte Liger-Belair La Romanée Grand Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine du Comte Liger-Belair",
+      "appellation": "Vosne-Romanée",
+      "climat": "La Romanée",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine d'Auvenay Chevalier-Montrachet Grand Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine d'Auvenay",
+      "appellation": "Puligny-Montrachet",
+      "climat": "Chevalier-Montrachet",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine Fourrier Gevrey-Chambertin Clos Saint-Jacques 1er Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine Fourrier",
+      "appellation": "Gevrey-Chambertin",
+      "climat": "Clos Saint-Jacques",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Coche-Dury Meursault Les Perrières Premier Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Coche-Dury",
+      "appellation": "Meursault",
+      "climat": "Les Perrières",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2018 Domaine Dujac Clos de la Roche Grand Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine Dujac",
+      "appellation": "Morey-Saint-Denis",
+      "climat": "Clos de la Roche",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine Ponsot Clos de la Roche Vieilles Vignes Grand Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine Ponsot",
+      "appellation": "Morey-Saint-Denis",
+      "climat": "Clos de la Roche",
+      "classification": "grand_cru",
+      "notes": "Vieilles Vignes designation"
+    }
+  },
+  {
+    "input": "2020 Domaine Méo-Camuzet Vosne-Romanée Aux Brûlées 1er Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Méo-Camuzet",
+      "appellation": "Vosne-Romanée",
+      "climat": "Aux Brûlées",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2018 Domaine Dugat-Py Charmes-Chambertin Grand Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine Dugat-Py",
+      "appellation": "Gevrey-Chambertin",
+      "climat": "Charmes-Chambertin",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine Marquis d'Angerville Volnay Caillerets 1er Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine Marquis d'Angerville",
+      "appellation": "Volnay",
+      "climat": "Caillerets",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Etienne Sauzet Puligny-Montrachet Champ Canet Premier Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Etienne Sauzet",
+      "appellation": "Puligny-Montrachet",
+      "climat": "Champ Canet",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2018 Domaine de Montille Pommard Rugiens 1er Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine de Montille",
+      "appellation": "Pommard",
+      "climat": "Rugiens",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2019 Domaine Jacques-Frédéric Mugnier Musigny Grand Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine Jacques-Frédéric Mugnier",
+      "appellation": "Chambolle-Musigny",
+      "climat": "Musigny",
+      "classification": "grand_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Comte Georges de Vogüé Musigny Vieilles Vignes Grand Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Comte Georges de Vogüé",
+      "appellation": "Chambolle-Musigny",
+      "climat": "Musigny",
+      "classification": "grand_cru",
+      "notes": "Vieilles Vignes designation"
+    }
+  },
+  {
+    "input": "2018 Domaine Faiveley Corton Clos des Cortons Faiveley Monopole Grand Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine Faiveley",
+      "appellation": "Aloxe-Corton",
+      "climat": "Corton",
+      "classification": "grand_cru",
+      "notes": "Monopole - Clos des Cortons Faiveley"
+    }
+  },
+  {
+    "input": "2019 Domaine Sylvain Cathiard Vosne-Romanée Malconsorts 1er Cru",
+    "expected": {
+      "vintage": 2019,
+      "producer": "Domaine Sylvain Cathiard",
+      "appellation": "Vosne-Romanée",
+      "climat": "Malconsorts",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2020 Domaine Pierre-Yves Colin-Morey Chassagne-Montrachet Les Caillerets 1er Cru",
+    "expected": {
+      "vintage": 2020,
+      "producer": "Domaine Pierre-Yves Colin-Morey",
+      "appellation": "Chassagne-Montrachet",
+      "climat": "Les Caillerets",
+      "classification": "premier_cru"
+    }
+  },
+  {
+    "input": "2018 Domaine Perrot-Minot Chambertin Grand Cru",
+    "expected": {
+      "vintage": 2018,
+      "producer": "Domaine Perrot-Minot",
+      "appellation": "Gevrey-Chambertin",
+      "climat": "Chambertin",
+      "classification": "grand_cru"
+    }
+  }
+]

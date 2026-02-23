@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Czamillonberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Grassnitzberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Kittenberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Nussberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Obegg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Sernauberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Kranachberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Zieregg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried"
+  },
+  {
+    "name": "Edelschuh",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried",
+    "village": "Leutschach"
+  },
+  {
+    "name": "Flamberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried",
+    "village": "Gamlitz"
+  },
+  {
+    "name": "Steinbach",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried",
+    "village": "Ehrenhausen"
+  },
+  {
+    "name": "Sulz",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried",
+    "village": "Gamlitz"
+  },
+  {
+    "name": "Hochgrassnitzberg",
+    "appellationName": "Südsteiermark DAC",
+    "regionName": "Steiermark",
+    "classification": "ried",
+    "village": "Kitzeck-Sausal"
+  }
+]

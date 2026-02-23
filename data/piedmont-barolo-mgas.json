@@ -1,0 +1,1064 @@
+[
+  {
+    "name": "Albarella",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bergeisa",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Boschetti",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco delle Viole",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco San Giovanni",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Brunate",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bussia",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cannubi",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cannubi Boschis",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cannubi Muscatel",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cannubi San Lorenzo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cannubi Valletta",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castellero",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cerequio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Coste di Rose",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Coste di Vergne",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Crosia",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Drucà",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Fossati",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "La Volta",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Le Coste",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Liste",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Monrobiolo di Bussia",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Paiagallo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Preda",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ravera",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rivassi",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ruè",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Lorenzo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Pietro",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Ponzio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Sarmassa",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Terlo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Vignane",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Zoccolaio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Zonchetta",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Zuncai",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Annunziata",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Arborina",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ascheri",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Berri",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bettolotti",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Boiolo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Chiesa",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Cogni",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Luciani",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Manescotto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Manzoni",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Rocca",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco San Biagio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Capalot",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Case Nere",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castagni",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ciocchini",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Conca",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Fossato",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Galina",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gattera",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Giachini",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "La Serra",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rive",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rocche dell'Annunziata",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rocchettevino",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Roere di Santa Maria",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Roggeri",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Roncaglie",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Giacomo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Santa Maria",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Sant'Anna",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Serra dei Turchi",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Serradenari",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Silio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Torriglione",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Arione",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Badarina",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Baudana",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Boscareto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Brea",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Voghera",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Briccolina",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Broglio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cappallotto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Carpegna",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cerrati",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cerretta",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Collaretto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Colombaro",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Costabella",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Damiano",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Falletto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Fontanafredda",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Francia",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gabutti",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gianetto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Lazzarito",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Le Turne",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Lirano",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Manocino",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Marenca",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Margheria",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Meriame",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ornato",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Parafada",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Prabon",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Prapò",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rivette",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Bernardo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Rocco",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Serra",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Sorano",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Teodoro",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Vignarionda",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Altenasso",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Rocche",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Brunella",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Codana",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Fiasco",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Mariondino",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Monprivato",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Montanello",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Parussi",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pernanno",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Piantà",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pira",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pugnane",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rocche di Castiglione",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Scarrone",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Solanotto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Valentino",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Villero",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Vignolo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco San Pietro",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bussia Dardi Le Rose",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bussia Vigna Fantini",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castelletto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castelletto Persiera",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castelletto Vigna Pressenda",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ginestra",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gramolere",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Le Coste di Monforte",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Mosconi",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Perno",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pressenda",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ravera di Monforte",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rocche di Castelletto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Giovanni",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Treturne",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Vigna Sorì Ginestra",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Boscatto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Breri",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Campasso",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Massara",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Monvigliero",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Neirane",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Pisapola",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Riva Rocca",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rocche dell'Olmo",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Rodasca",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "San Lorenzo di Verduno",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bergera-Pezzole",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Cerviano-Merli",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Ciocchini-Loschetto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Corini-Pallaretta",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Panerole",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Sottocastello di Novello",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bablino",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Borzone",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Canova",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Castello",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Garretti",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gustava",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "La Corte",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Raviole",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Gallaretto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "La Vigna",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Bricco Ambrogio",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  },
+  {
+    "name": "Mantoetto",
+    "appellationName": "Barolo",
+    "regionName": "Piedmont",
+    "classification": "mga"
+  }
+]

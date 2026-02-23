@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Annaberg",
+    "appellationName": "Kallstadt",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bürgergarten im Breumel",
+    "appellationName": "Haardt",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Felsenberg",
+    "appellationName": "Leistadt",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Freundstück",
+    "appellationName": "Forst a. d. Weinstraße",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Gaisböhl",
+    "appellationName": "Ruppertsberg",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Grainhübel",
+    "appellationName": "Deidesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Güldenwingert",
+    "appellationName": "Schweigen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg",
+    "appellationName": "Ungstein",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Heydenreich",
+    "appellationName": "Schweigen-Rechtenbach",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hohenmorgen",
+    "appellationName": "Deidesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hölle - Unterer Faulenberg",
+    "appellationName": "Gleisweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Idig",
+    "appellationName": "Königsbach",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Grossen Garten",
+    "appellationName": "Großkarlbach",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Sonnenschein",
+    "appellationName": "Siebeldingen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Sonnenschein-Ganz Horn",
+    "appellationName": "Siebeldingen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Jesuitengarten",
+    "appellationName": "Forst a. d. Weinstraße",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kalkberg",
+    "appellationName": "Duttweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kalkofen",
+    "appellationName": "Deidesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kalmit",
+    "appellationName": "Ilbesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kammerberg",
+    "appellationName": "Schweigen-Rechtenbach",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kastanienbusch",
+    "appellationName": "Birkweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kastanienbusch-Köppel",
+    "appellationName": "Birkweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kieselberg",
+    "appellationName": "Deidesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchberg",
+    "appellationName": "Ilbesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchenstück",
+    "appellationName": "Forst a. d. Weinstraße",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirschgarten",
+    "appellationName": "Laumersheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kostert",
+    "appellationName": "Schweigen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kreuzberg",
+    "appellationName": "Zellertal",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Langenmorgen",
+    "appellationName": "Deidesheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mandelberg",
+    "appellationName": "Birkweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mandelberg Am Speyrer Weg",
+    "appellationName": "Kirrweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mandelpfad",
+    "appellationName": "Dirmstein",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Meerspinne",
+    "appellationName": "Gimmeldingen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Michelsberg",
+    "appellationName": "Bad Dürkheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Michelsberg",
+    "appellationName": "Weyher in der Pfalz",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Münzberg",
+    "appellationName": "Godramstein",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Odinstal",
+    "appellationName": "Wachenheim a. d. Weinstraße",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Ölberg-Hart",
+    "appellationName": "Königsbach",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pechstein",
+    "appellationName": "Forst a. d. Weinstraße",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Philippsbrunnen",
+    "appellationName": "Zell",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rädling",
+    "appellationName": "Schweigen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Reiterpfad-An den Achtmorgen",
+    "appellationName": "Ruppertsberg",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Reiterpfad-Hofstück",
+    "appellationName": "Ruppertsberg",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Reiterpfad-In der Hohl",
+    "appellationName": "Ruppertsberg",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rosenkranz - Im Untern Kreuz",
+    "appellationName": "Böchingen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rosenkranz-Zinkelerde",
+    "appellationName": "Böchingen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sankt Paul",
+    "appellationName": "Schweigen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Saumagen",
+    "appellationName": "Kallstadt",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schäwer",
+    "appellationName": "Burrweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schild",
+    "appellationName": "Gimmeldingen",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schwarzer Herrgott",
+    "appellationName": "Zellertal",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sonnenberg",
+    "appellationName": "Leinsweiler",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sonnenberg",
+    "appellationName": "Schweigen-Rechtenbach",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Steinbuckel",
+    "appellationName": "Laumersheim",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Ungeheuer",
+    "appellationName": "Forst a. d. Weinstraße",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Vogelsang",
+    "appellationName": "Neustadt",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Weilberg",
+    "appellationName": "Ungstein",
+    "regionName": "Pfalz",
+    "classification": "grosses_gewachs"
+  }
+]

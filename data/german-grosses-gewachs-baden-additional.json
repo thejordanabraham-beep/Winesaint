@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Abtsberg Tannweg",
+    "appellationName": "Zell-Weierbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Alte Burg",
+    "appellationName": "Köndringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Altenberg Weingarten",
+    "appellationName": "Laufen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bassgeige Kähner",
+    "appellationName": "Oberbergen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bassgeige Steinriese",
+    "appellationName": "Oberbergen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bienenberg",
+    "appellationName": "Malterdingen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bienenberg Wildenstein",
+    "appellationName": "Malterdingen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Chorherrnhalde",
+    "appellationName": "Meersburg",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Dicker Franz",
+    "appellationName": "Sulzfeld",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Eichberg",
+    "appellationName": "Oberrotweil",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Eichelberg",
+    "appellationName": "Hilsbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Feuerberg Haslen",
+    "appellationName": "Burkheim",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Feuerberg Kesselberg",
+    "appellationName": "Burkheim",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Frauenberg",
+    "appellationName": "Mauchen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Goldenes Loch",
+    "appellationName": "Neuweier",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Heinberg",
+    "appellationName": "Tiefenbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Henkenberg",
+    "appellationName": "Oberrotweil",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg Lange Wingert",
+    "appellationName": "Leimen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg Oberklam",
+    "appellationName": "Leimen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg Spermen",
+    "appellationName": "Leimen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrentisch",
+    "appellationName": "Lahr",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Husarenkappe",
+    "appellationName": "Sulzfeld",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kapellenberg",
+    "appellationName": "Eichelberg",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchberg",
+    "appellationName": "Oberrotweil",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchgasse",
+    "appellationName": "Lahr",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Königsbecher",
+    "appellationName": "Odenheim",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kronenbühl Gottsacker",
+    "appellationName": "Lahr",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Leopoldsberg Buchberg",
+    "appellationName": "Bermatingen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Löchle",
+    "appellationName": "Sulzfeld",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mauerberg Mauerwein",
+    "appellationName": "Neuweier",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Neugesetz",
+    "appellationName": "Zell-Weierbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Oberer First",
+    "appellationName": "Reicholzheim",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pagode",
+    "appellationName": "Ihringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Plauelrain am Bühl",
+    "appellationName": "Durbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Plauelrain Stollenberg",
+    "appellationName": "Durbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schellenbrunnen",
+    "appellationName": "Tiefenbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schellenbrunnen Wormsberg",
+    "appellationName": "Tiefenbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Staufenberg Klingelberg",
+    "appellationName": "Durbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Staufenberg Sophienberg",
+    "appellationName": "Durbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schlossberg",
+    "appellationName": "Achkarren",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schlossberg",
+    "appellationName": "Hecklingen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schlossberg",
+    "appellationName": "Freiburg",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schlossgarten Villinger",
+    "appellationName": "Burkheim",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sommerhalde",
+    "appellationName": "Bombach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sonnenstück",
+    "appellationName": "Schliengen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Spiegelberg",
+    "appellationName": "Tiefenbach",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Steingrubenberg",
+    "appellationName": "Oberrotweil",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Vorderer Winklerberg",
+    "appellationName": "Ihringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Winklerberg Hinter Winklen",
+    "appellationName": "Ihringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Winklerberg Wanne",
+    "appellationName": "Ihringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Winklerberg Winklen",
+    "appellationName": "Ihringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Winklerberg Winklerfeld",
+    "appellationName": "Ihringen",
+    "regionName": "Baden",
+    "classification": "grosses_gewachs"
+  }
+]

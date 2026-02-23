@@ -1,0 +1,1184 @@
+[
+  {
+    "name": "Aldo's",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Alegría Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Alta Vista Vineyard",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Amann Ranch",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Anacleto Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Aparicio",
+    "appellationName": "Amador",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Armor Plate (Stellwagen)",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Bacchi Ranch",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Bacigalupi",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Barricia",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Beatty Ranch",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Bechthold",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Bedrock",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Belloni",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Benito Dusi",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Besson (Grenache)",
+    "appellationName": "Central Coast",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Besson (Zinfandel)",
+    "appellationName": "Central Coast",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Betty Ann Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Big Break Vineyard",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Brandlin Estate",
+    "appellationName": "Mt. Veeder",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Brecon Estate Vineyard",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Brovelli Ranch",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Canard Vineyard/Czapleski Vineyard",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Carlisle (Pelletti)",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Casa Nuestra",
+    "appellationName": "St. Helena",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Casa Pacini Vineyard",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Casa Santinamaria/Maggies Reserve",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Cazas Vineyard",
+    "appellationName": "Temecula Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Cederquist Vineyard",
+    "appellationName": "California",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Chalone Vineyard",
+    "appellationName": "Chalone",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Chen Vineyard",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Chianti Station (Seghesio)",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Choral's Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Church Block Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Coffaro",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Cole Ranch",
+    "appellationName": "Cole Ranch",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Compagni-Portis",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Cox",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Craighead Vineyards",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "D&D Ranch",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Dante Dusi Ranch",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "David Fulton",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Deaver (Mission)",
+    "appellationName": "Shenandoah Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Deaver (Zinfandel)",
+    "appellationName": "Shenandoah Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Di Stasio Vineyards",
+    "appellationName": "Shenandoah Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Dickerson Vineyard",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Dolinsek Ranch (Frati Ranch)",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Dommen Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Doña Marcelinas",
+    "appellationName": "Santa Rita Hills",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Eden Rift Vineyards - Dickinson Block",
+    "appellationName": "Cienega Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Ellison Vineyard (formerly Herron Vineyard)",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Enz Vineyard",
+    "appellationName": "Lime Kiln Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Ernesto Wickenden",
+    "appellationName": "Santa Maria Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Esola",
+    "appellationName": "Shenandoah Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Eva Martinelli Block",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Evangelho",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Falleri",
+    "appellationName": "Calistoga",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Fanucchi-Wood Road",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Fire Mountain Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Floodgate / Starscape Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Foppiano Vineyards - Block #3",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Forchini (DCV)",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Forchini (RRV)",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Fredericks (Weiss)",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Fredson Ranch",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Galleano-Cantu Ranch",
+    "appellationName": "Cucamonga Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Gaudi Carli",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Gibson Ranch",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Giorgi/Ferrari Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Giovanetti Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Gold Mine Ranch",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Grande",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Grandpa Bill Ranch",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Graziano Vincenzo Vineyard",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Guglielmo",
+    "appellationName": "Santa Clara Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hanzell Vineyards",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hartford",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hawkeye Ranch",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hayne Vineyard",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Haynes Vineyard",
+    "appellationName": "Coombsville",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Henderlong Nalle Vineyard",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "HMR (Hoffman Mountain Ranch)",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hofer Ranch",
+    "appellationName": "Cucamonga Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hooper Vineyard",
+    "appellationName": "Santa Cruz Mountains",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Hunter Vineyard",
+    "appellationName": "Temecula Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Ibarra-Young",
+    "appellationName": "Central Coast",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Jackass Hill",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Jackass Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Jackse",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Jimsomare",
+    "appellationName": "Santa Cruz Mountains",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Joaquin José Vineyard",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Justi Creek Vineyards Heritage Block (Mancuso)",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Katushas' Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Katz Vineyard",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Kirschenmann Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Kronos Vineyard",
+    "appellationName": "St. Helena",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Kuchan Estate Lepi Bregi Vineyard",
+    "appellationName": "Santa Clara Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Library",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Limerick Lane Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Lizzy James",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "LJ Zin",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Lolonis Family Vineyards & Winery, Inc.",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Lopez",
+    "appellationName": "Cucamonga Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Lyon Vineyard - Blocks 2 and 3",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Lytton Estate",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "MacDonald/Horton",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Maffei Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Mancini",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Maple",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Marian's (Mohr-Fry)",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Martinelli Road (Banfield)",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Massa Estate (formerly Durney Vineyards)",
+    "appellationName": "Carmel Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Mazzoni-Live Oak Vineyard",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "McCay Cellars Faith \"Lot 13\" Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Mohr-Fry",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Montafi Ranch",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Monte Bello",
+    "appellationName": "Santa Cruz Mountains",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Monte Rosso",
+    "appellationName": "Moon Mountain",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Montecillo Vineyard",
+    "appellationName": "Moon Mountain",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Mori Vineyard",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Morisoli Vineyard",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Mule Plane",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Nervo Ranch",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Nicolini Ranch",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Oakville Farmhouse Vineyard",
+    "appellationName": "Oakville",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Old Crane/G.B. Crane Vineyard",
+    "appellationName": "St. Helena",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Old Hill Ranch",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Old Kraft",
+    "appellationName": "St. Helena",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Old School Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Old Stake 1901 Vineyard",
+    "appellationName": "Kelsey Bench",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Pacini Vineyard",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Pagani Ranch",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Palisades Vineyard",
+    "appellationName": "Calistoga",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Papera Ranch (Carlo's)",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Parenti Vineyard",
+    "appellationName": "Solano County Green Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Pastori Vineyard",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Pato Vineyard",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Peroni Ranch",
+    "appellationName": "Amador",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Pesenti",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Picchetti",
+    "appellationName": "Santa Cruz Mountains",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Planchon",
+    "appellationName": "Contra Costa",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Puccini",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Puccioni",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "R.W. Moore",
+    "appellationName": "Coombsville",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rauser Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Ricetti Vineyard",
+    "appellationName": "Redwood Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rinaldi (Eschen)",
+    "appellationName": "Fiddletown",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rochioli Old Block - Jungle",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rocky Top (Sobon Estates)",
+    "appellationName": "Shenandoah Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rogers Vineyard",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rorick Heritage Vineyard",
+    "appellationName": "Sierra Foothills",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rossi Ranch",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rous",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Rue Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Russi Vineyard",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Saini",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Saint Marie Vineyard",
+    "appellationName": "Paso Robles",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Saitone",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Saucelito Canyon",
+    "appellationName": "Arroyo Grande Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Schmiedt - Dairy Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Schmiedt Vineyard (Carl Schmiedt)",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Schoolhouse Vineyard",
+    "appellationName": "California",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Seghesio Home Ranch",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Shadow Mountain",
+    "appellationName": "San Diego",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Sky Vineyards - 1973 St. George Block",
+    "appellationName": "Mt. Veeder",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Sodini",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Stags’ Leap Winery Block 5 - 'Ne Cede Malis'",
+    "appellationName": "Stags Leap District",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Stampede Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Star Valley Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Stony Hill Vineyard (1948 Block)",
+    "appellationName": "St. Helena",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Stubborn Scot",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Taylor Family Vineyard",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Teldeschi Ranch",
+    "appellationName": "Dry Creek Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Tofanelli",
+    "appellationName": "Napa Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Two Acres",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Under the Mountain",
+    "appellationName": "Santa Clara Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Valsecchi",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "van der Kamp Vineyard - Heritage Block",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Varozza",
+    "appellationName": "St. Helena",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Venturi",
+    "appellationName": "Mendocino",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Vineyard 101",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Wegat Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Wellington",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Wheeler Vineyard",
+    "appellationName": "San Benito",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Whitton Ranch (Geyserville)",
+    "appellationName": "Alexander Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Wildwood Vineyards",
+    "appellationName": "Sonoma Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "William G Micke Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Williams-Rossi Vineyard",
+    "appellationName": "Rutherford",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Winberrie",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Wirz Vineyard",
+    "appellationName": "Cienega Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Zeigler",
+    "appellationName": "Russian River Valley",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "ZinStar",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "The Original Grandpère Vineyard",
+    "appellationName": "Amador",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Alfred Frediani Vineyard",
+    "appellationName": "Calistoga",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Bender Family Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Soucie Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  },
+  {
+    "name": "Viola's Vineyard",
+    "appellationName": "Lodi",
+    "regionName": "California",
+    "classification": "historic_vineyard"
+  }
+]

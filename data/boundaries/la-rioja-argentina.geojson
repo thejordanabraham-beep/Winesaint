@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "La Rioja",
+    "slug": "la-rioja-argentina",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -69.2,
+          -31.5
+        ],
+        [
+          -65,
+          -31.5
+        ],
+        [
+          -65,
+          -27.5
+        ],
+        [
+          -69.2,
+          -27.5
+        ],
+        [
+          -69.2,
+          -31.5
+        ]
+      ]
+    ]
+  }
+}

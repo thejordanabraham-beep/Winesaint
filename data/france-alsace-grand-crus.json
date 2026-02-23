@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Schlossberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Altenberg de Bergbieten",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Altenberg de Bergheim",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Brand",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Eichberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Geisberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Gloeckelberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Goldert",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Hatschbourg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Hengst",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kanzlerberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kastelberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kessler",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kirchberg de Barr",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kirchberg de Ribeauvillé",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kitterlé",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Moenchberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Ollwiller",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Rangen",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Rosacker",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Saering",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Sommerberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Sonnenglanz",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Spiegel",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Wiebelsberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Altenberg de Wolxheim",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Bruderthal",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Engelberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Florimont",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Frankstein",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Froehn",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Furstentum",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Mambourg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Mandelberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Marckrain",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Muenchberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Osterberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Pfersigberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Pfingstberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Praelatenberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Schoenenbourg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Sporen",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Steinert",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Steingrubler",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Steinklotz",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Vorbourg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Wineck-Schlossberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Winzenberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Zinnkoepflé",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Zotzenberg",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Kaefferkopf",
+    "appellationName": "Alsace Grand Cru",
+    "regionName": "Alsace",
+    "classification": "grand_cru"
+  }
+]

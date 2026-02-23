@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Brindlbach",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Docterin",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Eichkogel",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Goldeck",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Igeln",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Kreuzer",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Mandelhöhe",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Pfarrgarten",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Spiegel",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Tümpfel",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Wiegen",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage"
+  },
+  {
+    "name": "Rosengartl",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Gumpoldskirchen"
+  },
+  {
+    "name": "Sonnenberg",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Perchtoldsdorf"
+  },
+  {
+    "name": "Hochberg",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Perchtoldsdorf"
+  },
+  {
+    "name": "Tatschenberg",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Tattendorf"
+  },
+  {
+    "name": "Haideberg",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Bad Vöslau"
+  },
+  {
+    "name": "Roter Berg",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Bad Vöslau"
+  },
+  {
+    "name": "Steinfelsen",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Sooß"
+  },
+  {
+    "name": "Johannesberg",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Traiskirchen"
+  },
+  {
+    "name": "Rot-Kreuz",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Pfaffstätten"
+  },
+  {
+    "name": "Steinriegel",
+    "appellationName": "Thermenregion DAC",
+    "regionName": "Lower Austria",
+    "classification": "erste_lage",
+    "village": "Baden"
+  }
+]

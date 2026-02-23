@@ -1,0 +1,49 @@
+{
+  "name": "Sauternes",
+  "established": "1936",
+  "description": "World-famous for luscious sweet wines made from botrytized grapes.",
+  "color": "#DAA520",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.45,
+          44.55
+        ],
+        [
+          -0.25,
+          44.55
+        ],
+        [
+          -0.15,
+          44.45
+        ],
+        [
+          -0.15,
+          44.35
+        ],
+        [
+          -0.25,
+          44.28
+        ],
+        [
+          -0.45,
+          44.28
+        ],
+        [
+          -0.55,
+          44.38
+        ],
+        [
+          -0.55,
+          44.48
+        ],
+        [
+          -0.45,
+          44.55
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+# Starderi MGA, Neive, Barbaresco
+
+## Introduction
+
+Starderi is one of the officially recognized menzioni geografiche aggiuntive (MGAs) within the commune of Neive in the Barbaresco denomination. Among the three principal townships of Barbaresco—Barbaresco, Treiso, and Neive—the latter has distinguished itself as "the township of four wines," producing not only Barbaresco from Nebbiolo but also Moscato, Barbera, and Dolcetto. Neive has undergone significant viticultural transformation in recent decades, with Nebbiolo plantings expanding dramatically from 140 hectares in 1995 to 265 hectares by the late 2010s, largely at the expense of Barbera and Dolcetto vineyards. This expansion reflects both the growing international prestige of Barbaresco and the commercial viability of Nebbiolo in this southeastern corner of the denomination.
+
+The formalization of Barbaresco's MGA system in 2007 represented a watershed moment for the denomination, preceding Barolo's similar classification by three years. This official registry of single vineyards sensibly retained almost all historically known vineyard sites, resisting the temptation to absorb lesser-known parcels into more famous names for commercial advantage. Starderi, as one of these recognized MGAs, forms part of Neive's mosaic of distinctive vineyard sites, contributing to the commune's complex terroir tapestry.
+
+## The Neive Context
+
+Understanding Starderi requires situating it within Neive's broader viticultural landscape. Historically, Nebbiolo consolidated its position in Neive only after the Second World War, making this commune's relationship with the variety somewhat younger than in Barbaresco proper. This relatively recent intensification of Nebbiolo cultivation has not diminished Neive's importance; rather, it has allowed producers to approach vineyard site selection and management with more contemporary understanding of terroir expression.
+
+Neive's most celebrated MGA is Santo Stefano, which gained prestige through the dedicated work of producers whose exacting standards helped establish the quality benchmarks for the entire zone. While Starderi may not share Santo Stefano's fame, it participates in the same geological and climatic characteristics that define Neive's southeastern position within Barbaresco, including the moderating influence of the Tanaro River valley and the complex interplay of Tortonian and Sant'Agata fossil marl soils that characterize different portions of the commune.
+
+## Terroir Considerations
+
+Barbaresco's soils can be broadly divided into two principal types, both of which may be present in various proportions throughout Neive's vineyard sites. The calcareous clay of the Tortonian epoch—similar to soils found in La Morra and Barolo commune in the Barolo zone—tends to produce more perfumed, fruit-driven expressions of Nebbiolo. The second type, the more compact Sant'Agata fossil marl resembling the soils of Monforte d'Alba and Serralunga d'Alba, generally yields more structured, tannic wines with greater density and aging potential.
+
+The specific soil composition, elevation, and aspect of individual MGAs within Neive create subtle but meaningful variations in wine character. Soil characteristics influence grape quality and wine individuality primarily through their governance of water supply to the vine and their effect on temperatures in and above the soil surface. These factors prove more influential than soil chemistry alone, provided that vine growth remains healthy and balanced.
+
+The Tanaro River's proximity to parts of Neive creates localized microclimatic effects, with some vineyard sites experiencing earlier Nebbiolo ripening than comparable elevations in Barolo. This earlier ripening potential has historically contributed to characterizations of Barbaresco as producing a lighter style than Barolo, though such generalizations oversimplify the considerable variation among individual MGAs and producer approaches.
+
+## Wine Characteristics and Style
+
+Wines from Neive MGAs, including Starderi, express Nebbiolo's signature characteristics—the tannins and acidity that define the variety—within the broader stylistic framework of Barbaresco. Young Barbaresco from any site is rarely an immediately pleasurable glass of wine, demanding either careful cellaring or patient appreciation of its austere youth. The perfumes of cherry, violets, and—with age—iron, tar, and orange peel that characterize Barbaresco emerge differently depending on terroir and winemaking approach.
+
+Contemporary Barbaresco production reflects an ongoing philosophical dialogue about extraction, aging vessels, and the balance between accessibility and longevity. The minimum aging requirements for Barbaresco—26 months total with at least 9 months in oak—are notably less than Barolo's 38 months (including 18 in oak), creating a persistent but misleading assumption that Barbaresco lacks comparable aging potential. In reality, well-made Barbaresco from serious MGAs develops magnificently over decades, its evolution simply following a different trajectory than its more powerful sibling from across the valley.
+
+Winemaking approaches in Barbaresco have evolved considerably since the 1970s and 1980s, when producers moved toward shorter macerations and French barrique aging in response to modern market preferences. More recently, an increasing number of producers have returned to extended maceration periods—often up to 40 days—and aging in large traditional oak casks rather than barriques, arguing that French oak can suppress Nebbiolo's delicate perfume. This return to traditional methods, often combined with organic or biodynamic viticultural practices, has produced highly original, long-lived wines with muscular structure and pronounced aromatics.
+
+## Production and Market Position
+
+The expansion of Barbaresco's planted area from 484 hectares in the early 1990s to 733 hectares by 2019 reflects growing global appreciation for the denomination. Neive's contribution to this expansion has been substantial, with its Nebbiolo plantings nearly doubling over two decades. This growth has brought both opportunities and challenges, as an increasing number of producers—from established estates to ambitious newcomers—compete for recognition in an increasingly crowded marketplace.
+
+Single-vineyard Barbaresco bottlings are a relatively recent phenomenon compared to Burgundy's centuries-old climat system. The first single-vineyard Barbaresco, Prunotto's Montestefano, appeared only in 1961, and the written record of cru designation in Barbaresco remains less firmly established than in some other European fine wine regions. The 2007 formalization of the MGA system provided crucial structure to this evolving landscape, offering consumers a reliable framework for understanding site-specific expressions while allowing individual producers to demonstrate the distinctive character of their holdings.
+
+## Conclusion
+
+Starderi represents one thread in the complex fabric of Neive's viticultural identity within Barbaresco. While it may not command the immediate recognition of the commune's most celebrated sites, its inclusion in the official MGA registry acknowledges its legitimacy as a distinct expression of place. As Barbaresco continues to refine its understanding of terroir and as producers explore the expressive potential of individual vineyard sites, MGAs like Starderi contribute to the denomination's diversity and depth. For wine enthusiasts seeking to understand Barbaresco beyond its most famous names, exploring the range of Neive's MGAs offers insight into the nuanced interplay of soil, climate, and human intervention that defines this remarkable winegrowing region.

@@ -1,0 +1,63 @@
+{
+  "name": "Cornas",
+  "slug": "cornas",
+  "established": 1938,
+  "description": "The most powerful wines of the Northern Rhône - 100% Syrah from sun-baked granite amphitheater. Dark, tannic, and exceptionally long-lived.",
+  "color": "#4B0082",
+  "zoom": 14,
+  "totalAcreage": 350,
+  "primaryGrapes": [
+    "Syrah"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.835,
+          44.975
+        ],
+        [
+          4.855,
+          44.97
+        ],
+        [
+          4.865,
+          44.958
+        ],
+        [
+          4.868,
+          44.94
+        ],
+        [
+          4.862,
+          44.925
+        ],
+        [
+          4.85,
+          44.915
+        ],
+        [
+          4.835,
+          44.918
+        ],
+        [
+          4.822,
+          44.928
+        ],
+        [
+          4.818,
+          44.945
+        ],
+        [
+          4.822,
+          44.962
+        ],
+        [
+          4.835,
+          44.975
+        ]
+      ]
+    ]
+  }
+}

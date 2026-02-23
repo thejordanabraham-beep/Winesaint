@@ -1,0 +1,45 @@
+{
+  "name": "Côte de Nuits",
+  "established": "1936",
+  "description": "Northern part of Côte d'Or, home to legendary Pinot Noir vineyards.",
+  "color": "#800020",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.85,
+          47.25
+        ],
+        [
+          5.05,
+          47.25
+        ],
+        [
+          5.12,
+          47.12
+        ],
+        [
+          5.12,
+          47.02
+        ],
+        [
+          5.05,
+          46.95
+        ],
+        [
+          4.85,
+          46.95
+        ],
+        [
+          4.78,
+          47.08
+        ],
+        [
+          4.85,
+          47.25
+        ]
+      ]
+    ]
+  }
+}

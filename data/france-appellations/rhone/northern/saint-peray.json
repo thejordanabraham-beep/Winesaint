@@ -1,0 +1,64 @@
+{
+  "name": "Saint-Péray",
+  "slug": "saint-peray",
+  "established": 1936,
+  "description": "The southernmost Northern Rhône AOC, exclusively white wines. Known for both still and traditional-method sparkling Marsanne/Roussanne.",
+  "color": "#E6E6FA",
+  "zoom": 14,
+  "totalAcreage": 200,
+  "primaryGrapes": [
+    "Marsanne",
+    "Roussanne"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.83,
+          44.92
+        ],
+        [
+          4.85,
+          44.915
+        ],
+        [
+          4.865,
+          44.905
+        ],
+        [
+          4.87,
+          44.888
+        ],
+        [
+          4.865,
+          44.87
+        ],
+        [
+          4.85,
+          44.862
+        ],
+        [
+          4.832,
+          44.865
+        ],
+        [
+          4.818,
+          44.875
+        ],
+        [
+          4.812,
+          44.892
+        ],
+        [
+          4.818,
+          44.908
+        ],
+        [
+          4.83,
+          44.92
+        ]
+      ]
+    ]
+  }
+}

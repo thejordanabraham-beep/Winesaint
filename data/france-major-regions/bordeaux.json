@@ -1,0 +1,70 @@
+{
+  "name": "Bordeaux",
+  "established": "1936",
+  "description": "The largest fine wine region in the world, famous for its red blends of Cabernet Sauvignon, Merlot, and Cabernet Franc.",
+  "color": "#722F37",
+  "zoom": 9,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.25,
+          45.35
+        ],
+        [
+          -0.85,
+          45.35
+        ],
+        [
+          -0.35,
+          45.25
+        ],
+        [
+          -0.15,
+          45.05
+        ],
+        [
+          -0.05,
+          44.85
+        ],
+        [
+          -0.05,
+          44.55
+        ],
+        [
+          -0.15,
+          44.35
+        ],
+        [
+          -0.35,
+          44.25
+        ],
+        [
+          -0.65,
+          44.25
+        ],
+        [
+          -0.95,
+          44.35
+        ],
+        [
+          -1.15,
+          44.55
+        ],
+        [
+          -1.25,
+          44.85
+        ],
+        [
+          -1.35,
+          45.15
+        ],
+        [
+          -1.25,
+          45.35
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+# Canova
+
+## Introduction
+
+Canova is one of the officially recognized Menzioni Geografiche Aggiuntive (MGAs) within the commune of La Morra in the Barolo DOCG. Situated in the western portion of the Barolo production zone, Canova represents one of the lesser-documented vineyard sites in La Morra's considerable viticultural landscape. While it may not command the immediate recognition of La Morra's most celebrated crus—Rocche dell'Annunziata, Brunate, or Cerequio—Canova nonetheless participates in the broader terroir characteristics that have made La Morra synonymous with a particular expression of Nebbiolo.
+
+The formal MGA system was introduced in 2010 within the regulations of Barolo DOCG, codifying both entire village designations and specified single vineyards or groups of vineyards. This system formalized what had long existed in oral tradition and in the practices of négociants who historically paid premium prices for grapes from privileged positions. Canova entered this official framework as one of La Morra's designated sites, though it remains among the more discreet members of this distinguished company.
+
+## Terroir
+
+Canova's fundamental character is shaped by its location within La Morra's geological framework. The commune sits west of the Alba-Barolo road that runs along the valley floor, a geographical division that corresponds to a clear demarcation in soil types across the Barolo zone. La Morra's vineyards, including Canova, are characterized by calcareous marls of the Tortonian epoch—relatively compact, more fertile soils that distinguish the western townships from the sandstone-dominant formations found in Castiglione Falletto, Monforte d'Alba, and Serralunga d'Alba to the east.
+
+These Tortonian marls represent a younger geological period within the Langhe's complex sedimentary history. The calcareous component—limestone-rich material—combined with clay-marl structures creates soils that typically offer good water retention while maintaining adequate drainage. This soil composition influences both vine vigor and the resulting wine profile in measurable ways. The moderate fertility of these marls, when combined with proper vineyard management and the discipline of Barolo's strict yield limitations (maximum 56 hectoliters per hectare), enables vines to achieve the regulated water stress necessary for quality Nebbiolo production.
+
+The topography and exposure of individual parcels within any MGA create further variation. La Morra's hills present varying elevations and aspects, factors that significantly influence mesoclimate, sun exposure, and the vine's annual growing cycle. The manner in which these physical attributes interact—slope angle, orientation, elevation, and the depth and composition of soil strata—dictates vine performance throughout the season and the ultimate character of the fruit.
+
+## Wine Characteristics
+
+Wines from Canova would be expected to express the broader stylistic tendencies associated with La Morra's Tortonian marl terroirs. Depending on the specific location and exposition of parcels within the MGA, these wines typically manifest as softer, fruitier, and more overtly aromatic expressions of Nebbiolo compared to the more structured, tannic profiles emerging from the sandstone-based vineyards of the eastern communes.
+
+This "softer" character should not be misconstrued as a lack of substance. Rather, it describes a textural approach where the tannins, while present and necessary for aging, integrate more readily and present with less aggressive extraction than their eastern counterparts. The aromatic profile tends toward floral notes—rose petal and violet are Nebbiolo's classic markers—along with red fruit expressions of cherry and raspberry, complemented by the variety's characteristic secondary notes of tar, dried herbs, and earth.
+
+The calcareous component in La Morra's soils often contributes a particular mineral tension to the wines, a saline or chalky quality that provides lift and prevents the fruit-forward character from becoming heavy or monotonous. This tension is essential to age-worthiness. While La Morra Barolos are sometimes suggested to be more approachable in their youth than wines from Serralunga, they nonetheless demand extended cellaring. Barolo's regulations require 38 months of aging before release, with at least 18 months in oak, but serious wines from any MGA—including Canova—benefit from an additional 10-15 years of bottle age to fully resolve their tannins and develop the complex tertiary aromatics that define mature Nebbiolo.
+
+## Context and Position
+
+Within La Morra's hierarchy of sites, Canova occupies a position outside the most historically celebrated trio of Rocche dell'Annunziata, Brunate, and Cerequio—vineyards that have enjoyed premium recognition in both written tradition (from 19th-century writers like Lorenzo Fantini through modern authorities such as Renato Ratti and Alessandro Masnaghetti) and in the commercial reality of higher prices paid for their fruit. This does not diminish Canova's legitimacy as an MGA or its capacity to produce serious wine; rather, it places it among the broader constellation of recognized sites that contribute to La Morra's and Barolo's overall quality and diversity.
+
+The movement toward single-vineyard bottlings, championed by producers like Angelo Gaja and Bruno Giacosa, brought increased attention to vineyard specificity. However, the tradition of blending wines from multiple vineyards—practiced by historic producers such as Bartolo Mascarello—reminds us that individual sites also function as components in a larger mosaic. Lesser-documented MGAs like Canova may serve both purposes: producing distinctive single-vineyard wines from dedicated producers and contributing to thoughtful blends that seek complexity through the combination of different terroir expressions.
+
+## Conclusion
+
+Canova represents an example of La Morra's viticultural breadth—a formally recognized site that participates in the commune's characteristic terroir while maintaining its own discrete identity. For wine enthusiasts seeking to understand Barolo's complexity beyond its most famous names, exploring lesser-known MGAs offers insight into the nuanced variations that distinguish one hillside from another, even within a single commune. The wines from such sites may not command the attention or prices of Barolo's aristocratic vineyards, but they nonetheless embody the fundamental qualities—soil, climate, tradition, and the Nebbiolo vine's remarkable ability to articulate place—that have made this small zone in Piedmont one of the world's most compelling wine regions.

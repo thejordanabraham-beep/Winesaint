@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Clisson",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Gorges",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Le Pallet",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Goulaine",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Château-Thébaud",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Monnières-Saint-Fiacre",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Mouzillon-Tillières",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Vallet",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "La Haye-Fouassière",
+    "appellationName": "Muscadet Sèvre et Maine",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  },
+  {
+    "name": "Champtoceaux",
+    "appellationName": "Muscadet Coteaux de la Loire",
+    "regionName": "Loire Valley",
+    "classification": "cru_communal"
+  }
+]

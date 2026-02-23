@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Neuquén",
+    "slug": "neuquen",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71,
+          -41
+        ],
+        [
+          -68.3,
+          -41
+        ],
+        [
+          -68.3,
+          -36.3
+        ],
+        [
+          -71,
+          -36.3
+        ],
+        [
+          -71,
+          -41
+        ]
+      ]
+    ]
+  }
+}

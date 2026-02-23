@@ -1,0 +1,74 @@
+[
+  {
+    "name": "An der Rabenlei",
+    "appellationName": "Bopparder Hamm",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bernstein - Am Lauerbaum",
+    "appellationName": "Engehöll",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Engelstein",
+    "appellationName": "Bopparder Hamm",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Fässerlay",
+    "appellationName": "Bopparder Hamm",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Feuerlay",
+    "appellationName": "Bopparder Hamm",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Hahn",
+    "appellationName": "Bacharach",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mandelstein",
+    "appellationName": "Bopparder Hamm",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Oelsberg",
+    "appellationName": "Oberwesel",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Ohlenberg",
+    "appellationName": "Bopparder Hamm",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Posten",
+    "appellationName": "Bacharach",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "St. Jost",
+    "appellationName": "Bacharach",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Wolfshöhle",
+    "appellationName": "Bacharach",
+    "regionName": "Mittelrhein",
+    "classification": "grosses_gewachs"
+  }
+]

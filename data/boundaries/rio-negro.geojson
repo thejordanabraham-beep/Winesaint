@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Río Negro",
+    "slug": "rio-negro",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71,
+          -42
+        ],
+        [
+          -62.5,
+          -42
+        ],
+        [
+          -62.5,
+          -37.5
+        ],
+        [
+          -71,
+          -37.5
+        ],
+        [
+          -71,
+          -42
+        ]
+      ]
+    ]
+  }
+}

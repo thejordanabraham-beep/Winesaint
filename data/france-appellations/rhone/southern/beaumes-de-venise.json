@@ -1,0 +1,69 @@
+{
+  "name": "Beaumes-de-Venise",
+  "slug": "beaumes-de-venise",
+  "established": 1945,
+  "description": "Famous for golden Muscat vin doux naturel, but also produces excellent dry reds from the Dentelles slopes.",
+  "color": "#FFE4B5",
+  "zoom": 13,
+  "totalAcreage": 1600,
+  "primaryGrapes": [
+    "Muscat",
+    "Grenache",
+    "Syrah"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          5.015,
+          44.14
+        ],
+        [
+          5.045,
+          44.135
+        ],
+        [
+          5.07,
+          44.12
+        ],
+        [
+          5.08,
+          44.1
+        ],
+        [
+          5.075,
+          44.08
+        ],
+        [
+          5.058,
+          44.065
+        ],
+        [
+          5.035,
+          44.062
+        ],
+        [
+          5.012,
+          44.072
+        ],
+        [
+          4.998,
+          44.09
+        ],
+        [
+          4.995,
+          44.112
+        ],
+        [
+          5.005,
+          44.132
+        ],
+        [
+          5.015,
+          44.14
+        ]
+      ]
+    ]
+  }
+}

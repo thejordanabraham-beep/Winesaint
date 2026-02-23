@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Mareuil-sur-Aÿ",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Tauxières",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Bergères-lès-Vertus",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Billy-le-Grand",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Bisseuil",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Cuis",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Grauves",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Trépail",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Vaudemange",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Vertus",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Villeneuve-Renneville",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Villers-Marmery",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Voipreux",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Chigny-les-Roses",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Ludes",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Montbré",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Rilly-la-Montagne",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Taissy",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Trois-Puits",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Avenay-Val-d'Or",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Champillon",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Cumières",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Hautvillers",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Mutigny",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Bezannes",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Chamery",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Coligny",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Cormontreuil",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Coulommes-la-Montagne",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Dizy",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Écueil",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Étrechy",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Jouy-lès-Reims",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Mesneux",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Pargny-lès-Reims",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Pierry",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Sacy",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Sermiers",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Villedommange",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Villers-Allerand",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Villers-aux-Nœuds",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Vrigny",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "premier_cru"
+  }
+]

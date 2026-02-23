@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Rapel Valley",
+    "slug": "rapel-valley",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71.8,
+          -34.9
+        ],
+        [
+          -70.3,
+          -34.9
+        ],
+        [
+          -70.3,
+          -33.7
+        ],
+        [
+          -71.8,
+          -33.7
+        ],
+        [
+          -71.8,
+          -34.9
+        ]
+      ]
+    ]
+  }
+}

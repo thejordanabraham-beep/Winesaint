@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tejo",
+    "slug": "tejo",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -9,
+          38.8
+        ],
+        [
+          -7.8,
+          38.8
+        ],
+        [
+          -7.8,
+          39.8
+        ],
+        [
+          -9,
+          39.8
+        ],
+        [
+          -9,
+          38.8
+        ]
+      ]
+    ]
+  }
+}

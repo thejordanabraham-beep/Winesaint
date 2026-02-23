@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Catamarca",
+    "slug": "catamarca",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -70,
+          -29.5
+        ],
+        [
+          -65,
+          -29.5
+        ],
+        [
+          -65,
+          -25
+        ],
+        [
+          -70,
+          -25
+        ],
+        [
+          -70,
+          -29.5
+        ]
+      ]
+    ]
+  }
+}

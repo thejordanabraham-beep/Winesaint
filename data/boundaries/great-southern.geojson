@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Great Southern",
+    "slug": "great-southern",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          116.5,
+          -35.5
+        ],
+        [
+          119.5,
+          -35.5
+        ],
+        [
+          119.5,
+          -33.5
+        ],
+        [
+          116.5,
+          -33.5
+        ],
+        [
+          116.5,
+          -35.5
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+## Overview
+
+Fiddletown AVA is located in Amador County within California's Sierra Foothills, adjoining the upper, eastern end of the California Shenandoah Valley AVA east of the town of Plymouth. This small appellation sits amid rolling meadows and patchy pine forest, representing some of the highest-elevation viticulture in Amador County with vineyard sites ranging up to 2,500 feet (approximately 760 meters). The region's viticultural history traces back to the mid-to-late 1800s during the California Gold Rush, when European immigrants-turned-prospectors planted vine cuttings from their homelands. While many vineyards were abandoned during Prohibition, viticulture experienced a renaissance beginning in the 1960s.
+
+The AVA is characterized by relatively few physical wineries within its boundaries, though Fiddletown fruit is highly sought after by producers throughout Amador County and beyond. The region has earned particular recognition for cultivating some of California's oldest Zinfandel vines, which continue to produce distinctive, concentrated fruit that reflects the area's unique combination of elevation, climate, and soil composition.
+
+## Climate & Terroir
+
+Fiddletown shares the Sierra Foothills' characteristic pattern of extreme diurnal temperature variation. Daytime temperatures regularly reach 35–40°C (95–104°F) during the growing season, but cool air descends from the Sierra Nevada mountains at night, creating significant temperature swings that help preserve acidity in the ripening fruit. This elevation-driven cooling effect is particularly pronounced in Fiddletown compared to lower-elevation Amador County sites, with the higher altitude naturally moderating sugar accumulation and extending hang time.
+
+The soils throughout Fiddletown are predominantly granitic in origin, derived from the decomposed granite characteristic of the Sierra Nevada foothills. These soils tend toward acidity and provide excellent drainage, forcing vines to develop deep root systems. The sandy clay loam texture retains sufficient moisture to sustain vines through California's dry summers while the well-drained nature prevents waterlogging and encourages concentration in the fruit. This soil composition contributes to the mineral backbone often detected in Fiddletown wines and influences both vine vigor and fruit character.
+
+## Grape Varieties & Wine Styles
+
+Zinfandel dominates Fiddletown's viticultural identity, with the AVA producing some of California's most age-worthy and structured expressions of this variety. The combination of old vines, high elevation, granitic soils, and significant diurnal shifts yields Zinfandels with concentrated dark fruit, firm tannin structure, notable acidity, and mineral complexity—characteristics that distinguish them from the often jammy, high-alcohol Zinfandels produced in warmer, lower-elevation California sites. These wines typically display more restraint and European-style structure compared to their counterparts from the valley floor.
+
+Beyond Zinfandel, Fiddletown's terroir has proven suitable for other varieties that benefit from the cooler temperatures and longer growing season afforded by elevation. The region's viticultural conditions—particularly the well-drained, slightly acidic soils and temperature moderation—create an environment where red varieties can achieve phenolic ripeness while maintaining natural acidity. The old-vine heritage of many Fiddletown vineyards also contributes to naturally lower yields and greater concentration, regardless of variety.
+
+## Notable Producers
+
+Few wineries maintain physical facilities within Fiddletown AVA boundaries, but the region's grapes are purchased by numerous producers throughout Amador County and the broader Sierra Foothills region. Wineries seeking authentic, terroir-driven fruit specifically source from Fiddletown's old-vine sites, valuing the structured, age-worthy character these vineyards impart. The AVA's reputation rests more on its role as a premium grape source than as a destination for wine tourism, with many bottles labeled "Fiddletown" produced by wineries physically located elsewhere in Amador County.
+
+## What to Know
+
+Fiddletown represents a distinctive expression of Sierra Foothills viticulture, offering wines—particularly Zinfandel—with greater structure, acidity, and aging potential than those from lower-elevation sites. Wine students should recognize Fiddletown as a source of old-vine fruit that produces more restrained, mineral-driven wines compared to the riper, more fruit-forward styles typical of warmer California appellations. The AVA's high elevation and granitic soils create conditions that yield wines with natural balance and the ability to develop complexity with bottle age. While production volumes are limited and prices vary depending on vine age and producer, Fiddletown wines generally command respect among those seeking authentic, terroir-expressive California wines that prioritize site character over commercial appeal.

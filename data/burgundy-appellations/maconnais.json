@@ -1,0 +1,45 @@
+{
+  "name": "Mâconnais",
+  "established": "1936",
+  "description": "Southernmost Burgundy region, known for Pouilly-Fuissé.",
+  "color": "#9ACD32",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.62,
+          46.55
+        ],
+        [
+          4.82,
+          46.55
+        ],
+        [
+          4.92,
+          46.35
+        ],
+        [
+          4.92,
+          46.15
+        ],
+        [
+          4.82,
+          46.05
+        ],
+        [
+          4.62,
+          46.05
+        ],
+        [
+          4.52,
+          46.25
+        ],
+        [
+          4.62,
+          46.55
+        ]
+      ]
+    ]
+  }
+}

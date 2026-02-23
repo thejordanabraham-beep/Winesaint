@@ -1,0 +1,45 @@
+{
+  "name": "Chablis",
+  "established": "1938",
+  "description": "Isolated northern outpost, producing steely, mineral Chardonnay.",
+  "color": "#FFFACD",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          3.72,
+          47.92
+        ],
+        [
+          3.92,
+          47.92
+        ],
+        [
+          4.02,
+          47.78
+        ],
+        [
+          4.02,
+          47.68
+        ],
+        [
+          3.92,
+          47.62
+        ],
+        [
+          3.72,
+          47.62
+        ],
+        [
+          3.62,
+          47.75
+        ],
+        [
+          3.72,
+          47.92
+        ]
+      ]
+    ]
+  }
+}

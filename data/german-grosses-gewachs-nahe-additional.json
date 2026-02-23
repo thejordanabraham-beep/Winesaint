@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Auf der Ley",
+    "appellationName": "Monzingen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bastei",
+    "appellationName": "Traisen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Brücke",
+    "appellationName": "Oberhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Burgberg",
+    "appellationName": "Dorsheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Dautenpflänzer",
+    "appellationName": "Münster-Sarmsheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Dellchen",
+    "appellationName": "Norheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Felsenberg",
+    "appellationName": "Schloßböckelheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Felseneck",
+    "appellationName": "Wallhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Felseneck",
+    "appellationName": "Bockenau",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Frühlingsplätzchen",
+    "appellationName": "Monzingen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Goldloch",
+    "appellationName": "Dorsheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Halenberg",
+    "appellationName": "Monzingen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hermannsberg",
+    "appellationName": "Niederhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hermannshöhle",
+    "appellationName": "Niederhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Kahlenberg",
+    "appellationName": "Bad Kreuznach",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Langenberg",
+    "appellationName": "Münster-Sarmsheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Mühlenberg",
+    "appellationName": "Roxheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Pitterberg",
+    "appellationName": "Münster-Sarmsheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "In der Rossel",
+    "appellationName": "Niederhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Johannisberg",
+    "appellationName": "Wallhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirschheck",
+    "appellationName": "Norheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Klamm",
+    "appellationName": "Niederhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Krötenpfuhl",
+    "appellationName": "Bad Kreuznach",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kupfergrube",
+    "appellationName": "Schloßböckelheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Leistenberg",
+    "appellationName": "Oberhausen an der Nahe",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mühlberg",
+    "appellationName": "Traisen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pittermännchen",
+    "appellationName": "Dorsheim",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rotenberg",
+    "appellationName": "Altenbamberg",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Steinberg",
+    "appellationName": "Niederhausen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Steinberg",
+    "appellationName": "Traisen",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Stromberg",
+    "appellationName": "Bockenau",
+    "regionName": "Nahe",
+    "classification": "grosses_gewachs"
+  }
+]

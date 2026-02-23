@@ -1,0 +1,74 @@
+{
+  "name": "Loire Valley",
+  "established": "1936",
+  "description": "A vast region along the Loire River, producing diverse wines from Sauvignon Blanc, Chenin Blanc, and Cabernet Franc.",
+  "color": "#7BA05B",
+  "zoom": 7,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -2.25,
+          47.55
+        ],
+        [
+          -1.45,
+          47.75
+        ],
+        [
+          -0.65,
+          47.65
+        ],
+        [
+          0.25,
+          47.55
+        ],
+        [
+          1.15,
+          47.45
+        ],
+        [
+          2.05,
+          47.35
+        ],
+        [
+          2.85,
+          47.15
+        ],
+        [
+          2.85,
+          46.95
+        ],
+        [
+          2.45,
+          46.85
+        ],
+        [
+          1.65,
+          46.85
+        ],
+        [
+          0.75,
+          46.95
+        ],
+        [
+          -0.15,
+          47.05
+        ],
+        [
+          -1.05,
+          47.15
+        ],
+        [
+          -1.85,
+          47.25
+        ],
+        [
+          -2.25,
+          47.55
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fumane",
+    "appellationName": "Valpolicella Classico",
+    "regionName": "Veneto",
+    "classification": "subzone"
+  },
+  {
+    "name": "Marano di Valpolicella",
+    "appellationName": "Valpolicella Classico",
+    "regionName": "Veneto",
+    "classification": "subzone"
+  },
+  {
+    "name": "Negrar di Valpolicella",
+    "appellationName": "Valpolicella Classico",
+    "regionName": "Veneto",
+    "classification": "subzone"
+  },
+  {
+    "name": "Sant'Ambrogio di Valpolicella",
+    "appellationName": "Valpolicella Classico",
+    "regionName": "Veneto",
+    "classification": "subzone"
+  },
+  {
+    "name": "San Pietro in Cariano",
+    "appellationName": "Valpolicella Classico",
+    "regionName": "Veneto",
+    "classification": "subzone"
+  }
+]

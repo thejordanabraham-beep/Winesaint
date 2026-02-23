@@ -1,0 +1,66 @@
+{
+  "name": "Rhône Valley",
+  "established": "1936",
+  "description": "Divided into Northern and Southern regions, known for Syrah, Grenache, and Mourvèdre.",
+  "color": "#5D3A3A",
+  "zoom": 8,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.55,
+          45.55
+        ],
+        [
+          4.95,
+          45.55
+        ],
+        [
+          5.05,
+          45.25
+        ],
+        [
+          5.05,
+          44.85
+        ],
+        [
+          4.95,
+          44.45
+        ],
+        [
+          4.85,
+          44.15
+        ],
+        [
+          4.65,
+          43.95
+        ],
+        [
+          4.35,
+          43.95
+        ],
+        [
+          4.15,
+          44.15
+        ],
+        [
+          4.05,
+          44.55
+        ],
+        [
+          4.15,
+          44.95
+        ],
+        [
+          4.35,
+          45.35
+        ],
+        [
+          4.55,
+          45.55
+        ]
+      ]
+    ]
+  }
+}

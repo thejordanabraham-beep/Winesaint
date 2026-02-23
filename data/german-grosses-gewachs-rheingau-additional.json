@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Baikenkopf",
+    "appellationName": "Rauenthal",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Berg Kaisersteinfels",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Berg Roseneck",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Berg Rottland",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Berg Schlossberg",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Dompräsenz",
+    "appellationName": "Hochheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Doosberg",
+    "appellationName": "Oestrich",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Gehrn Kesselring",
+    "appellationName": "Rauenthal",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Gräfenberg",
+    "appellationName": "Kiedrich",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Greiffenberg",
+    "appellationName": "Schloss Vollrads",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hasensprung",
+    "appellationName": "Winkel",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hassel",
+    "appellationName": "Hattenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hohenrain",
+    "appellationName": "Erbach",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hölle",
+    "appellationName": "Johannisberg",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Höllenberg",
+    "appellationName": "Assmannshausen",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hölle",
+    "appellationName": "Hochheim am Main",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Landberg",
+    "appellationName": "Heppenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Rothenberg",
+    "appellationName": "Rauenthal",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Jesuitengarten",
+    "appellationName": "Oestrich-Winkel",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Jungfer",
+    "appellationName": "Hallgarten",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kapellenberg",
+    "appellationName": "Lorch",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchenpfad",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchenstück im Stein",
+    "appellationName": "Hochheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Klaus",
+    "appellationName": "Johannisberg",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kläuserweg",
+    "appellationName": "Geisenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Königin Victoriaberg Dechantenruhe",
+    "appellationName": "Hochheim am Main",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Langenberg",
+    "appellationName": "Martinsthal",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Lenchen Eiserberg",
+    "appellationName": "Oestrich",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Lenchen",
+    "appellationName": "Oestrich-Winkel",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Marcobrunn",
+    "appellationName": "Erbach",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mäuerchen",
+    "appellationName": "Geisenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Morschberg",
+    "appellationName": "Geisenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Nonnberg Fuhshohl",
+    "appellationName": "Wicker",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Nonnberg Vier Morgen",
+    "appellationName": "Wicker",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Nussbrunnen",
+    "appellationName": "Hattenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pfaffenwies Röder",
+    "appellationName": "Lorch",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Reichestal",
+    "appellationName": "Hochheim am Main",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rödchen",
+    "appellationName": "Martinsthal",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rosengarten",
+    "appellationName": "Oestrich-Winkel",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rosengarten",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rothenberg",
+    "appellationName": "Geisenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sankt Nikolaus",
+    "appellationName": "Oestrich-Winkel",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schlenzenberg",
+    "appellationName": "Martinsthal",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Johannisberg",
+    "appellationName": "Johannisberg",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schlossberg",
+    "appellationName": "Schloss Vollrads",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schönhell",
+    "appellationName": "Hallgarten",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Seligmacher",
+    "appellationName": "Lorchhausen",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Siegelsberg",
+    "appellationName": "Erbach",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Steinberg Goldener Becher",
+    "appellationName": "Hattenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Unterer Bischofsberg",
+    "appellationName": "Rüdesheim am Rhein",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Walkenberg",
+    "appellationName": "Walluf",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Weiss Erd",
+    "appellationName": "Kostheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Wisselbrunnen",
+    "appellationName": "Hattenheim",
+    "regionName": "Rheingau",
+    "classification": "grosses_gewachs"
+  }
+]

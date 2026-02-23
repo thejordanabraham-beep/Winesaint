@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Aulerde",
+    "appellationName": "Westhofen",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Brudersberg",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Brunnenhäuschen",
+    "appellationName": "Westhofen",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bürgel",
+    "appellationName": "Flörsheim-Dalsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Burgweg",
+    "appellationName": "Bodenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Falkenberg",
+    "appellationName": "Dienheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Fenchelberg",
+    "appellationName": "Nackenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Frauenberg",
+    "appellationName": "Nieder-Flörsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Geiersberg",
+    "appellationName": "Dittelsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Glöck",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Heerkretz",
+    "appellationName": "Siefersheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg",
+    "appellationName": "Oppenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hipping",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Höllberg",
+    "appellationName": "Siefersheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Höllenbrand",
+    "appellationName": "Gundersheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Honigberg",
+    "appellationName": "Nieder-Hilbersheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Horn",
+    "appellationName": "Ingelheim am Rhein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hundertgulden",
+    "appellationName": "Appenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchberg",
+    "appellationName": "Bingen am Rhein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchenstück",
+    "appellationName": "Hohen-Sülzen",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchspiel",
+    "appellationName": "Westhofen",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kloppberg",
+    "appellationName": "Dittelsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kranzberg",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kreuz",
+    "appellationName": "Oppenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Leckerberg",
+    "appellationName": "Dittelsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Liebfrauenstift-Kirchenstück",
+    "appellationName": "Worms",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Morstein",
+    "appellationName": "Westhofen",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Oberer Hubacker",
+    "appellationName": "Flörsheim-Dalsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Ölberg",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Orbel",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pares",
+    "appellationName": "Ingelheim am Rhein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Paterberg",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pettenthal",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rothenberg",
+    "appellationName": "Nackenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sackträger",
+    "appellationName": "Oppenheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Scharlachberg",
+    "appellationName": "Bingen am Rhein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Westerhaus",
+    "appellationName": "Ingelheim am Rhein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Steinacker",
+    "appellationName": "Nieder-Hilbersheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Tafelstein",
+    "appellationName": "Dienheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Zehnmorgen",
+    "appellationName": "Nierstein",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Zellerweg am Schwarzen Herrgott",
+    "appellationName": "Mölsheim",
+    "regionName": "Rheinhessen",
+    "classification": "grosses_gewachs"
+  }
+]

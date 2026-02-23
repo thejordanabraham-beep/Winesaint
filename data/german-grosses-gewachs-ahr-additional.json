@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Alte Lay",
+    "appellationName": "Walporzheim",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Burggarten",
+    "appellationName": "Heimersheim",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Eck",
+    "appellationName": "Altenahr",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Gärkammer",
+    "appellationName": "Walporzheim",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg",
+    "appellationName": "Rech",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Im Kuckstein",
+    "appellationName": "Bad Neuenahr",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kräuterberg",
+    "appellationName": "Walporzheim",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Landskrone",
+    "appellationName": "Heimersheim",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Mönchberg",
+    "appellationName": "Mayschoß",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pfarrwingert",
+    "appellationName": "Dernau",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rosenthal",
+    "appellationName": "Ahrweiler",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schieferlay",
+    "appellationName": "Bad Neuenahr",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Silberberg",
+    "appellationName": "Ahrweiler",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sonnenberg",
+    "appellationName": "Bad Neuenahr",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Trotzenberg",
+    "appellationName": "Marienthal",
+    "regionName": "Ahr",
+    "classification": "grosses_gewachs"
+  }
+]

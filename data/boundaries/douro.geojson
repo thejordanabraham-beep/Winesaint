@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Douro",
+    "slug": "douro",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -8.2,
+          40.8
+        ],
+        [
+          -6.8,
+          40.8
+        ],
+        [
+          -6.8,
+          41.5
+        ],
+        [
+          -8.2,
+          41.5
+        ],
+        [
+          -8.2,
+          40.8
+        ]
+      ]
+    ]
+  }
+}

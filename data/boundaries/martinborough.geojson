@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Martinborough",
+    "slug": "martinborough",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          175.2,
+          -41.4
+        ],
+        [
+          175.8,
+          -41.4
+        ],
+        [
+          175.8,
+          -40.9
+        ],
+        [
+          175.2,
+          -40.9
+        ],
+        [
+          175.2,
+          -41.4
+        ]
+      ]
+    ]
+  }
+}

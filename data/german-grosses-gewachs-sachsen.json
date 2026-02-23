@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Königlicher Weinberg",
+    "appellationName": "Pillnitz",
+    "regionName": "Sachsen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Proschwitz",
+    "appellationName": "Rottewitz",
+    "regionName": "Sachsen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Proschwitz",
+    "appellationName": "Zadel",
+    "regionName": "Sachsen",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Proschwitz",
+    "appellationName": "Proschwitz",
+    "regionName": "Sachsen",
+    "classification": "grosses_gewachs"
+  }
+]

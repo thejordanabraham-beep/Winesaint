@@ -1,0 +1,70 @@
+{
+  "name": "Burgundy",
+  "established": "1936",
+  "description": "The spiritual home of Pinot Noir and Chardonnay, renowned for its complex terroir-driven wines.",
+  "color": "#8B0000",
+  "zoom": 8,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.55,
+          47.45
+        ],
+        [
+          4.95,
+          47.45
+        ],
+        [
+          5.15,
+          47.25
+        ],
+        [
+          5.25,
+          46.95
+        ],
+        [
+          5.15,
+          46.65
+        ],
+        [
+          4.95,
+          46.35
+        ],
+        [
+          4.75,
+          46.15
+        ],
+        [
+          4.55,
+          46.05
+        ],
+        [
+          4.35,
+          46.15
+        ],
+        [
+          4.25,
+          46.45
+        ],
+        [
+          4.25,
+          46.85
+        ],
+        [
+          4.35,
+          47.15
+        ],
+        [
+          4.45,
+          47.35
+        ],
+        [
+          4.55,
+          47.45
+        ]
+      ]
+    ]
+  }
+}

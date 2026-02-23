@@ -1,0 +1,71 @@
+{
+  "name": "Condrieu",
+  "slug": "condrieu",
+  "established": 1940,
+  "description": "Exclusive to Viognier, producing opulent white wines with stone fruit and floral aromatics. Steep granite slopes facing south and southeast.",
+  "color": "#F4D03F",
+  "zoom": 13,
+  "totalAcreage": 420,
+  "primaryGrapes": [
+    "Viognier"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.78,
+          45.455
+        ],
+        [
+          4.795,
+          45.45
+        ],
+        [
+          4.805,
+          45.44
+        ],
+        [
+          4.81,
+          45.42
+        ],
+        [
+          4.808,
+          45.395
+        ],
+        [
+          4.802,
+          45.375
+        ],
+        [
+          4.795,
+          45.36
+        ],
+        [
+          4.782,
+          45.365
+        ],
+        [
+          4.772,
+          45.38
+        ],
+        [
+          4.768,
+          45.4
+        ],
+        [
+          4.77,
+          45.425
+        ],
+        [
+          4.775,
+          45.445
+        ],
+        [
+          4.78,
+          45.455
+        ]
+      ]
+    ]
+  }
+}

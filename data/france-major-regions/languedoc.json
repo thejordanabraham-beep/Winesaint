@@ -1,0 +1,66 @@
+{
+  "name": "Languedoc-Roussillon",
+  "established": "1985",
+  "description": "The largest wine-producing region in France, offering excellent value wines.",
+  "color": "#C19A6B",
+  "zoom": 8,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.05,
+          43.85
+        ],
+        [
+          2.95,
+          43.85
+        ],
+        [
+          3.65,
+          43.65
+        ],
+        [
+          4.25,
+          43.45
+        ],
+        [
+          4.25,
+          43.15
+        ],
+        [
+          3.85,
+          42.85
+        ],
+        [
+          3.25,
+          42.65
+        ],
+        [
+          2.65,
+          42.55
+        ],
+        [
+          2.05,
+          42.65
+        ],
+        [
+          1.65,
+          42.95
+        ],
+        [
+          1.65,
+          43.35
+        ],
+        [
+          1.85,
+          43.65
+        ],
+        [
+          2.05,
+          43.85
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elquí Valley",
+    "slug": "elqui-valley",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -71.5,
+          -30.4
+        ],
+        [
+          -70,
+          -30.4
+        ],
+        [
+          -70,
+          -29.5
+        ],
+        [
+          -71.5,
+          -29.5
+        ],
+        [
+          -71.5,
+          -30.4
+        ]
+      ]
+    ]
+  }
+}

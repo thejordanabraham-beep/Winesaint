@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Achleiten",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Weissenkirchen",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Loibenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Dürnstein",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Kellerberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Dürnstein",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Klaus",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Weissenkirchen",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Singerriedel",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Spitz",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Steinriegl",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Weissenkirchen",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Schlossberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Dürnstein",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Kollmitz",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Joching",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Pichlpoint",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Joching",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Ritzling",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Weissenkirchen",
+    "tier": "most_famous"
+  },
+  {
+    "name": "1000-Eimerberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Spitz",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Atzberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Spitz",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Hochrain",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Wösendorf",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Kollmütz",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Wösendorf",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Harzenleiten",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "St. Michael",
+    "tier": "most_famous"
+  },
+  {
+    "name": "Axpoint",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Bruck",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Hinterhaus",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Höhereck",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Kirchweg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Liebenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Offenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Point",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Schön",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Steinterrassen",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Tausendeimerberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Spitz",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Terrassen",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Unterloiben",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Dürnstein",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Vorderseiber",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Zwerithaler",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Axberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Frauengarten",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Hollerin",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Kirnberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Kreuzberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "highly_regarded"
+  },
+  {
+    "name": "Kulm",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Mühlpoint",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Obere Steigen",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Pfaffenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Weitenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Burgberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Spitz",
+    "tier": "significant"
+  },
+  {
+    "name": "Vorder-Atzberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Spitz",
+    "tier": "significant"
+  },
+  {
+    "name": "Loibenschenke",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "village": "Dürnstein",
+    "tier": "significant"
+  },
+  {
+    "name": "Kammstein",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Dürrenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Steinbachberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Spitzerberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Maurachberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Eichengarten",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Schmeidberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  },
+  {
+    "name": "Rauhenberg",
+    "appellationName": "Wachau",
+    "regionName": "Lower Austria",
+    "classification": "rieda",
+    "tier": "significant"
+  }
+]

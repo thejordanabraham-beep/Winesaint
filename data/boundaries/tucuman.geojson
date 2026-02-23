@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Tucumán",
+    "slug": "tucuman",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -66.5,
+          -28
+        ],
+        [
+          -64.5,
+          -28
+        ],
+        [
+          -64.5,
+          -26
+        ],
+        [
+          -66.5,
+          -26
+        ],
+        [
+          -66.5,
+          -28
+        ]
+      ]
+    ]
+  }
+}

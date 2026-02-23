@@ -1,0 +1,49 @@
+{
+  "name": "Graves",
+  "established": "1937",
+  "description": "Known for both red wines and dry whites, including Pessac-Léognan.",
+  "color": "#6B4423",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.75,
+          44.85
+        ],
+        [
+          -0.45,
+          44.85
+        ],
+        [
+          -0.35,
+          44.65
+        ],
+        [
+          -0.35,
+          44.45
+        ],
+        [
+          -0.55,
+          44.35
+        ],
+        [
+          -0.75,
+          44.35
+        ],
+        [
+          -0.85,
+          44.55
+        ],
+        [
+          -0.85,
+          44.75
+        ],
+        [
+          -0.75,
+          44.85
+        ]
+      ]
+    ]
+  }
+}

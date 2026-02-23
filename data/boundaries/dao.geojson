@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dão",
+    "slug": "dao",
+    "source": "OSM+bbox"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -8.3,
+          40.1
+        ],
+        [
+          -7.4,
+          40.1
+        ],
+        [
+          -7.4,
+          40.8
+        ],
+        [
+          -8.3,
+          40.8
+        ],
+        [
+          -8.3,
+          40.1
+        ]
+      ]
+    ]
+  }
+}

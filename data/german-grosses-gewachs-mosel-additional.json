@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Abtsberg",
+    "appellationName": "Maximin Grünhaus",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Altenberg",
+    "appellationName": "Kanzem",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Apotheke",
+    "appellationName": "Trittenheim",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Apotheke im Neuberg",
+    "appellationName": "Trittenheim",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Auf der Rausch",
+    "appellationName": "Saarburg",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Augenscheiner",
+    "appellationName": "Trier",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Badstube",
+    "appellationName": "Bernkastel",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bockstein",
+    "appellationName": "Ockfen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Braune Kupp",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Braunfels",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Bruderberg",
+    "appellationName": "Maximin Grünhaus",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Doctor",
+    "appellationName": "Bernkastel-Kues",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Domherr",
+    "appellationName": "Piesport",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Domprobst",
+    "appellationName": "Graach an der Mosel",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Felsenkopf",
+    "appellationName": "Trittenheim",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Försterlay",
+    "appellationName": "Lösnich",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Geisberg",
+    "appellationName": "Ockfen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Goldberg",
+    "appellationName": "Wawern",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Goldtröpfchen",
+    "appellationName": "Neumagen-Dhron",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Gottesfuss",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Graben",
+    "appellationName": "Bernkastel-Kues",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Grafenberg",
+    "appellationName": "Piesport",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Häs'chen",
+    "appellationName": "Drohn",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg",
+    "appellationName": "Maximin Grünhaus",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Herrenberg",
+    "appellationName": "Serrig",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Himmelreich",
+    "appellationName": "Graach",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hofberg",
+    "appellationName": "Drohn",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hölle",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hörecker",
+    "appellationName": "Kanzem",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Hütte",
+    "appellationName": "Oberemmel",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "In der Sengerei",
+    "appellationName": "Dhron",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Johannisbrünnchen",
+    "appellationName": "Bernkastel-Kues",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Josephshöfer",
+    "appellationName": "Graach",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Juffer",
+    "appellationName": "Brauneberg",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Juffer Sonnenuhr",
+    "appellationName": "Brauneberg",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Juffer Sonnenuhr im Falkenberg",
+    "appellationName": "Brauneberg",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Karthäuserhofberg",
+    "appellationName": "Eitelsbach",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kätzchen",
+    "appellationName": "Monzel",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kehrnagel",
+    "appellationName": "Kasel",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kirchberg",
+    "appellationName": "Hatzenport",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kreuzwingert",
+    "appellationName": "Piesport",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kupp",
+    "appellationName": "Saarburg",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kupp",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kupp",
+    "appellationName": "Ayl",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kupp Neuenberg",
+    "appellationName": "Ayl",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Kupp Unterstenberg",
+    "appellationName": "Ayl",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Lambertskirch",
+    "appellationName": "Ayl",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Laurentiuslay",
+    "appellationName": "Leiwen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Lay",
+    "appellationName": "Bernkastel-Kues",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Layet",
+    "appellationName": "Mehring",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Leiterchen",
+    "appellationName": "Trittenheim",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Marienburg",
+    "appellationName": "Pünderich",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Niederberg Helden",
+    "appellationName": "Lieser",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Nies'chen",
+    "appellationName": "Kasel",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Ohligsberg",
+    "appellationName": "Wintrich",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Paulinshofberg",
+    "appellationName": "Kesten",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Prälat",
+    "appellationName": "Erden",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Pulchen",
+    "appellationName": "Filzen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rausch",
+    "appellationName": "Saarburg",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Ritterpfad",
+    "appellationName": "Wawern",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Rosenberg",
+    "appellationName": "Kinheim",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Röttgen",
+    "appellationName": "Winningen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Saarfeilser",
+    "appellationName": "Schoden",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Scharzhofberger",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Scharzhofberger Pergentsknopp",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Saarfelser Schlossberg",
+    "appellationName": "Serrig",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schloss Saarsteiner",
+    "appellationName": "Serrig",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schonfels",
+    "appellationName": "Ayl",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Schubertslay",
+    "appellationName": "Piesport",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sonnenuhr",
+    "appellationName": "Zeltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Sonnenuhr (Wehlen)",
+    "appellationName": "Wehlen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Stolzenberg",
+    "appellationName": "Hatzenport",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Treppchen",
+    "appellationName": "Erden",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Uhlen Blaufüsser Lay",
+    "appellationName": "Winningen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Uhlen Laubach",
+    "appellationName": "Winningen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Uhlen Roth Lay",
+    "appellationName": "Winningen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Volz",
+    "appellationName": "Wiltingen",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Würtzberg",
+    "appellationName": "Serrig",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  },
+  {
+    "name": "Würzgarten",
+    "appellationName": "Ürzig",
+    "regionName": "Mosel",
+    "classification": "grosses_gewachs"
+  }
+]

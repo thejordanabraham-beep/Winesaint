@@ -1,0 +1,884 @@
+[
+  {
+    "name": "Longeroies",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "En la Montagne",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "En Grands Vaux",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Charme aux Prêtres",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Boivin",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Grasses Têtes",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Le Clos de Jeu",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Favières",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Au Champ Salomon",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Le Clos",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Champs Perdrix",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Le Clos du Roy",
+    "appellationName": "Marsannay",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Arvelets",
+    "appellationName": "Fixin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Hervelets",
+    "appellationName": "Fixin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos du Chapitre",
+    "appellationName": "Fixin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Napoléon",
+    "appellationName": "Fixin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos de la Perrière",
+    "appellationName": "Fixin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Bossière",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Romanée",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Poissenot",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Estournelles Saint Jacques",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Varoilles",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Champonnet",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Lavaut Saint Jacques",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Craipillot",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Cazetiers",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Corbeaux",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos du Chapitre",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Issarts",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Saint Jacques",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Au Closeau",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Champeaux",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Perrière",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Petits Cazetiers",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Prieur",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Combe au Moine",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "En Ergot",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Goulots",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Petite Chapelle",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Combottes",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Cherbaudes",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Bel Air",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Fonteny",
+    "appellationName": "Gevrey-Chambertin",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Genavrières",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Monts Luisants",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Chaffots",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Baulet",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Blanchards",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Gruenchers",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Riotte",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Millandes",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Faconnières",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Charrières",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Ormes",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Charmes",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Cheseaux",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Chenevery",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Le Village",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Sorbès",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Sorbé",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Bussière",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Ruchots",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Côte Rôtie",
+    "appellationName": "Morey-Saint-Denis",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Véroilles",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Sentiers",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Baudes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Noirots",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Lavrottes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Fuées",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Feusselottes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Grands Murs",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Beaux Bruns",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Echanges",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Gruenchers",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Groseilles",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Combottes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Charmes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Plantes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Combottes",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Derrière la Grange",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Borniques",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Hauts Doix",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Chatelots",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Cras",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Carrières",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Chabiots",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Amoureuses",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Combe d'Orveau",
+    "appellationName": "Chambolle-Musigny",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Cras",
+    "appellationName": "Vougeot",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Vigne Blanche",
+    "appellationName": "Vougeot",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Petits Vougeots",
+    "appellationName": "Vougeot",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos de la Perrière",
+    "appellationName": "Vougeot",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Beaux Monts",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Brûlées",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Chaumes",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Réas",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Croix Rameau",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Cros Parentoux",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Au-Dessus des Malconsorts",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Gaudichots",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Malconsorts",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "En Orveaux",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Petits Monts",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Reignots",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Rouges",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Suchots",
+    "appellationName": "Vosne-Romanée",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Argillas",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Boudots",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Bousselots",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Chaignots",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Champs Perdrix",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Cras",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Murgers",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Perdrix",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Thorey",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Aux Vignerondes",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Chaines Carteaux",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Château Gris",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Arlot",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos de la Maréchale",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Argillières",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Corvées",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Corvées Pagets",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Forêts Saint-Georges",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Grandes Vignes",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos des Porrets-Saint-Georges",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Clos Saint-Marc",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "En la Perrière Noblot",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "La Richemone",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Argillières",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Cailles",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Chaboeufs",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Crots",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Damodes",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Didiers",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Hauts Pruliers",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Perrières",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Porrets-Saint-Georges",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Poulettes",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Procès",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Pruliers",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Saints-Georges",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Terres Blanches",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Vallerots",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Les Vaucrains",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Roncière",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  },
+  {
+    "name": "Rue de Chaux",
+    "appellationName": "Nuits-Saint-Georges",
+    "regionName": "Côte de Nuits",
+    "classification": "premier_cru"
+  }
+]

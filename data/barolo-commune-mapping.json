@@ -1,0 +1,1064 @@
+[
+  {
+    "mgaName": "Albarella",
+    "mgaSlug": "albarella",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Altenasso",
+    "mgaSlug": "altenasso",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Annunziata",
+    "mgaSlug": "annunziata",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Arborina",
+    "mgaSlug": "arborina",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Arione",
+    "mgaSlug": "arione",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Ascheri",
+    "mgaSlug": "ascheri",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Bablino",
+    "mgaSlug": "bablino",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Badarina",
+    "mgaSlug": "badarina",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Baudana",
+    "mgaSlug": "baudana",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Bergeisa",
+    "mgaSlug": "bergeisa",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Bergera-Pezzole",
+    "mgaSlug": "bergera-pezzole",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Berri",
+    "mgaSlug": "berri",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Bettolotti",
+    "mgaSlug": "bettolotti",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Boiolo",
+    "mgaSlug": "boiolo",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Borzone",
+    "mgaSlug": "borzone",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Boscareto",
+    "mgaSlug": "boscareto",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Boscatto",
+    "mgaSlug": "boscatto",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Boschetti",
+    "mgaSlug": "boschetti",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Brea",
+    "mgaSlug": "brea",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Breri",
+    "mgaSlug": "breri",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Bricco Ambrogio",
+    "mgaSlug": "bricco-ambrogio",
+    "commune": "roddi",
+    "communeName": "Roddi"
+  },
+  {
+    "mgaName": "Bricco Chiesa",
+    "mgaSlug": "bricco-chiesa",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Bricco Cogni",
+    "mgaSlug": "bricco-cogni",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Bricco delle Viole",
+    "mgaSlug": "bricco-delle-viole",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Bricco Luciani",
+    "mgaSlug": "bricco-luciani",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Bricco Manescotto",
+    "mgaSlug": "bricco-manescotto",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Bricco Manzoni",
+    "mgaSlug": "bricco-manzoni",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Bricco Rocca",
+    "mgaSlug": "bricco-rocca",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Bricco Rocche",
+    "mgaSlug": "bricco-rocche",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Bricco San Biagio",
+    "mgaSlug": "bricco-san-biagio",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Bricco San Giovanni",
+    "mgaSlug": "bricco-san-giovanni",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Bricco San Pietro",
+    "mgaSlug": "bricco-san-pietro",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Bricco Voghera",
+    "mgaSlug": "bricco-voghera",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Briccolina",
+    "mgaSlug": "briccolina",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Broglio",
+    "mgaSlug": "broglio",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Brunate",
+    "mgaSlug": "brunate",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Brunella",
+    "mgaSlug": "brunella",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Bussia",
+    "mgaSlug": "bussia",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Bussia Dardi Le Rose",
+    "mgaSlug": "bussia-dardi-le-rose",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Bussia Vigna Fantini",
+    "mgaSlug": "bussia-vigna-fantini",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Campasso",
+    "mgaSlug": "campasso",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Cannubi",
+    "mgaSlug": "cannubi",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Cannubi Boschis",
+    "mgaSlug": "cannubi-boschis",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Cannubi Muscatel",
+    "mgaSlug": "cannubi-muscatel",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Cannubi San Lorenzo",
+    "mgaSlug": "cannubi-san-lorenzo",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Cannubi Valletta",
+    "mgaSlug": "cannubi-valletta",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Canova",
+    "mgaSlug": "canova",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Capalot",
+    "mgaSlug": "capalot",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Cappallotto",
+    "mgaSlug": "cappallotto",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Carpegna",
+    "mgaSlug": "carpegna",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Case Nere",
+    "mgaSlug": "case-nere",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Castagni",
+    "mgaSlug": "castagni",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Castellero",
+    "mgaSlug": "castellero",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Castelletto",
+    "mgaSlug": "castelletto",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Castelletto Persiera",
+    "mgaSlug": "castelletto-persiera",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Castelletto Vigna Pressenda",
+    "mgaSlug": "castelletto-vigna-pressenda",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Castello",
+    "mgaSlug": "castello",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Cerequio",
+    "mgaSlug": "cerequio",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Cerrati",
+    "mgaSlug": "cerrati",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Cerretta",
+    "mgaSlug": "cerretta",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Cerviano-Merli",
+    "mgaSlug": "cerviano-merli",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Ciocchini",
+    "mgaSlug": "ciocchini",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Ciocchini-Loschetto",
+    "mgaSlug": "ciocchini-loschetto",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Codana",
+    "mgaSlug": "codana",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Collaretto",
+    "mgaSlug": "collaretto",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Colombaro",
+    "mgaSlug": "colombaro",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Conca",
+    "mgaSlug": "conca",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Corini-Pallaretta",
+    "mgaSlug": "corini-pallaretta",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Costabella",
+    "mgaSlug": "costabella",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Coste di Rose",
+    "mgaSlug": "coste-di-rose",
+    "commune": "diano-d-alba",
+    "communeName": "Diano d'Alba"
+  },
+  {
+    "mgaName": "Coste di Vergne",
+    "mgaSlug": "coste-di-vergne",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Crosia",
+    "mgaSlug": "crosia",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Damiano",
+    "mgaSlug": "damiano",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Drucà",
+    "mgaSlug": "druca",
+    "commune": "diano-d-alba",
+    "communeName": "Diano d'Alba"
+  },
+  {
+    "mgaName": "Falletto",
+    "mgaSlug": "falletto",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Fiasco",
+    "mgaSlug": "fiasco",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Fontanafredda",
+    "mgaSlug": "fontanafredda",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Fossati",
+    "mgaSlug": "fossati",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Fossato",
+    "mgaSlug": "fossato",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Francia",
+    "mgaSlug": "francia",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Gabutti",
+    "mgaSlug": "gabutti",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Galina",
+    "mgaSlug": "galina",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Gallaretto",
+    "mgaSlug": "gallaretto",
+    "commune": "diano-d-alba",
+    "communeName": "Diano d'Alba"
+  },
+  {
+    "mgaName": "Garretti",
+    "mgaSlug": "garretti",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Gattera",
+    "mgaSlug": "gattera",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Giachini",
+    "mgaSlug": "giachini",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Gianetto",
+    "mgaSlug": "gianetto",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Ginestra",
+    "mgaSlug": "ginestra",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Gramolere",
+    "mgaSlug": "gramolere",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Gustava",
+    "mgaSlug": "gustava",
+    "commune": "grinzane-cavour",
+    "communeName": "Grinzane Cavour"
+  },
+  {
+    "mgaName": "La Corte",
+    "mgaSlug": "la-corte",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "La Serra",
+    "mgaSlug": "la-serra",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "La Vigna",
+    "mgaSlug": "la-vigna",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "La Volta",
+    "mgaSlug": "la-volta",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Lazzarito",
+    "mgaSlug": "lazzarito",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Le Coste",
+    "mgaSlug": "le-coste",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Le Coste di Monforte",
+    "mgaSlug": "le-coste-di-monforte",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Le Turne",
+    "mgaSlug": "le-turne",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Lirano",
+    "mgaSlug": "lirano",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Liste",
+    "mgaSlug": "liste",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Manocino",
+    "mgaSlug": "manocino",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Mantoetto",
+    "mgaSlug": "mantoetto",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Marenca",
+    "mgaSlug": "marenca",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Margheria",
+    "mgaSlug": "margheria",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Mariondino",
+    "mgaSlug": "mariondino",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Massara",
+    "mgaSlug": "massara",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Meriame",
+    "mgaSlug": "meriame",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Monprivato",
+    "mgaSlug": "monprivato",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Monrobiolo di Bussia",
+    "mgaSlug": "monrobiolo-di-bussia",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Montanello",
+    "mgaSlug": "montanello",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Monvigliero",
+    "mgaSlug": "monvigliero",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Mosconi",
+    "mgaSlug": "mosconi",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Neirane",
+    "mgaSlug": "neirane",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Ornato",
+    "mgaSlug": "ornato",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Paiagallo",
+    "mgaSlug": "paiagallo",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Panerole",
+    "mgaSlug": "panerole",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Parafada",
+    "mgaSlug": "parafada",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Parussi",
+    "mgaSlug": "parussi",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Pernanno",
+    "mgaSlug": "pernanno",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Perno",
+    "mgaSlug": "perno",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Piantà",
+    "mgaSlug": "pianta",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Pira",
+    "mgaSlug": "pira",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Pisapola",
+    "mgaSlug": "pisapola",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Prabon",
+    "mgaSlug": "prabon",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Prapò",
+    "mgaSlug": "prapo",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Preda",
+    "mgaSlug": "preda",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Pressenda",
+    "mgaSlug": "pressenda",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Pugnane",
+    "mgaSlug": "pugnane",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Ravera",
+    "mgaSlug": "ravera",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Ravera di Monforte",
+    "mgaSlug": "ravera-di-monforte",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Raviole",
+    "mgaSlug": "raviole",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Riva Rocca",
+    "mgaSlug": "riva-rocca",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Rivassi",
+    "mgaSlug": "rivassi",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Rive",
+    "mgaSlug": "rive",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Rivette",
+    "mgaSlug": "rivette",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Rocche dell'Annunziata",
+    "mgaSlug": "rocche-dell-annunziata",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Rocche dell'Olmo",
+    "mgaSlug": "rocche-dell-olmo",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Rocche di Castelletto",
+    "mgaSlug": "rocche-di-castelletto",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Rocche di Castiglione",
+    "mgaSlug": "rocche-di-castiglione",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Rocchettevino",
+    "mgaSlug": "rocchettevino",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Rodasca",
+    "mgaSlug": "rodasca",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Roere di Santa Maria",
+    "mgaSlug": "roere-di-santa-maria",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Roggeri",
+    "mgaSlug": "roggeri",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Roncaglie",
+    "mgaSlug": "roncaglie",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Ruè",
+    "mgaSlug": "rue",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "San Bernardo",
+    "mgaSlug": "san-bernardo",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "San Giacomo",
+    "mgaSlug": "san-giacomo",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "San Giovanni",
+    "mgaSlug": "san-giovanni",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "San Lorenzo",
+    "mgaSlug": "san-lorenzo",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "San Lorenzo di Verduno",
+    "mgaSlug": "san-lorenzo-di-verduno",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "San Pietro",
+    "mgaSlug": "san-pietro",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "San Ponzio",
+    "mgaSlug": "san-ponzio",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "San Rocco",
+    "mgaSlug": "san-rocco",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Sant'Anna",
+    "mgaSlug": "sant-anna",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Santa Maria",
+    "mgaSlug": "santa-maria",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Sarmassa",
+    "mgaSlug": "sarmassa",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Scarrone",
+    "mgaSlug": "scarrone",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Serra",
+    "mgaSlug": "serra",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Serra dei Turchi",
+    "mgaSlug": "serra-dei-turchi",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Serradenari",
+    "mgaSlug": "serradenari",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Silio",
+    "mgaSlug": "silio",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Solanotto",
+    "mgaSlug": "solanotto",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Sorano",
+    "mgaSlug": "sorano",
+    "commune": "diano-d-alba",
+    "communeName": "Diano d'Alba"
+  },
+  {
+    "mgaName": "Sottocastello di Novello",
+    "mgaSlug": "sottocastello-di-novello",
+    "commune": "novello",
+    "communeName": "Novello"
+  },
+  {
+    "mgaName": "Teodoro",
+    "mgaSlug": "teodoro",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Terlo",
+    "mgaSlug": "terlo",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Torriglione",
+    "mgaSlug": "torriglione",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Treturne",
+    "mgaSlug": "treturne",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Valentino",
+    "mgaSlug": "valentino",
+    "commune": "verduno",
+    "communeName": "Verduno"
+  },
+  {
+    "mgaName": "Vigna Sorì Ginestra",
+    "mgaSlug": "vigna-sori-ginestra",
+    "commune": "monforte-d-alba",
+    "communeName": "Monforte d'Alba"
+  },
+  {
+    "mgaName": "Vignane",
+    "mgaSlug": "vignane",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Vignarionda",
+    "mgaSlug": "vignarionda",
+    "commune": "serralunga-d-alba",
+    "communeName": "Serralunga d'Alba"
+  },
+  {
+    "mgaName": "Vignolo",
+    "mgaSlug": "vignolo",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  },
+  {
+    "mgaName": "Villero",
+    "mgaSlug": "villero",
+    "commune": "castiglione-falletto",
+    "communeName": "Castiglione Falletto"
+  },
+  {
+    "mgaName": "Zoccolaio",
+    "mgaSlug": "zoccolaio",
+    "commune": "roddi",
+    "communeName": "Roddi"
+  },
+  {
+    "mgaName": "Zonchetta",
+    "mgaSlug": "zonchetta",
+    "commune": "la-morra",
+    "communeName": "La Morra"
+  },
+  {
+    "mgaName": "Zuncai",
+    "mgaSlug": "zuncai",
+    "commune": "barolo",
+    "communeName": "Barolo"
+  }
+]

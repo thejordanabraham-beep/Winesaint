@@ -1,0 +1,69 @@
+{
+  "name": "Gigondas",
+  "slug": "gigondas",
+  "established": 1971,
+  "description": "Nestled beneath the dramatic Dentelles de Montmirail, producing powerful, structured wines. Often called \"the son of Châteauneuf\" for similar quality.",
+  "color": "#8B0000",
+  "zoom": 13,
+  "totalAcreage": 3000,
+  "primaryGrapes": [
+    "Grenache",
+    "Syrah",
+    "Mourvèdre"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.995,
+          44.175
+        ],
+        [
+          5.025,
+          44.172
+        ],
+        [
+          5.05,
+          44.16
+        ],
+        [
+          5.062,
+          44.14
+        ],
+        [
+          5.058,
+          44.12
+        ],
+        [
+          5.042,
+          44.105
+        ],
+        [
+          5.018,
+          44.1
+        ],
+        [
+          4.995,
+          44.108
+        ],
+        [
+          4.978,
+          44.125
+        ],
+        [
+          4.975,
+          44.148
+        ],
+        [
+          4.982,
+          44.168
+        ],
+        [
+          4.995,
+          44.175
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Côte Chalonnaise",
+  "established": "1990",
+  "description": "South of Côte de Beaune, offering excellent value Burgundy.",
+  "color": "#CD853F",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.62,
+          46.85
+        ],
+        [
+          4.82,
+          46.85
+        ],
+        [
+          4.92,
+          46.68
+        ],
+        [
+          4.92,
+          46.52
+        ],
+        [
+          4.82,
+          46.45
+        ],
+        [
+          4.62,
+          46.45
+        ],
+        [
+          4.52,
+          46.62
+        ],
+        [
+          4.62,
+          46.85
+        ]
+      ]
+    ]
+  }
+}

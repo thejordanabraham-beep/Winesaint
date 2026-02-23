@@ -1,0 +1,70 @@
+{
+  "name": "Tavel",
+  "slug": "tavel",
+  "established": 1936,
+  "description": "France's most prestigious rosé-only appellation. Deep-colored, full-bodied rosés from sandy limestone. A favorite of Louis XIV.",
+  "color": "#FFB6C1",
+  "zoom": 13,
+  "totalAcreage": 2400,
+  "primaryGrapes": [
+    "Grenache",
+    "Cinsault",
+    "Clairette",
+    "Bourboulenc"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.685,
+          43.985
+        ],
+        [
+          4.712,
+          43.98
+        ],
+        [
+          4.728,
+          43.965
+        ],
+        [
+          4.732,
+          43.945
+        ],
+        [
+          4.725,
+          43.928
+        ],
+        [
+          4.705,
+          43.918
+        ],
+        [
+          4.68,
+          43.92
+        ],
+        [
+          4.658,
+          43.932
+        ],
+        [
+          4.648,
+          43.952
+        ],
+        [
+          4.655,
+          43.972
+        ],
+        [
+          4.67,
+          43.982
+        ],
+        [
+          4.685,
+          43.985
+        ]
+      ]
+    ]
+  }
+}

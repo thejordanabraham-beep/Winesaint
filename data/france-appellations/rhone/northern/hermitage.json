@@ -1,0 +1,69 @@
+{
+  "name": "Hermitage",
+  "slug": "hermitage",
+  "established": 1937,
+  "description": "The legendary granite hill overlooking Tain produces some of France's greatest wines. Famous lieux-dits include Les Bessards, Le Méal, L'Hermite, and Les Greffieux.",
+  "color": "#722F37",
+  "zoom": 14,
+  "totalAcreage": 340,
+  "primaryGrapes": [
+    "Syrah",
+    "Marsanne",
+    "Roussanne"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.825,
+          45.085
+        ],
+        [
+          4.845,
+          45.082
+        ],
+        [
+          4.865,
+          45.075
+        ],
+        [
+          4.87,
+          45.068
+        ],
+        [
+          4.868,
+          45.058
+        ],
+        [
+          4.858,
+          45.05
+        ],
+        [
+          4.84,
+          45.048
+        ],
+        [
+          4.825,
+          45.052
+        ],
+        [
+          4.815,
+          45.06
+        ],
+        [
+          4.812,
+          45.072
+        ],
+        [
+          4.818,
+          45.082
+        ],
+        [
+          4.825,
+          45.085
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Rasteau",
+  "slug": "rasteau",
+  "established": 2010,
+  "description": "Elevated to cru status in 2010 for dry reds. Clay-limestone terroir produces rich, concentrated wines with good aging potential.",
+  "color": "#A0522D",
+  "zoom": 13,
+  "totalAcreage": 2400,
+  "primaryGrapes": [
+    "Grenache",
+    "Syrah",
+    "Mourvèdre"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.965,
+          44.235
+        ],
+        [
+          4.998,
+          44.23
+        ],
+        [
+          5.025,
+          44.215
+        ],
+        [
+          5.038,
+          44.195
+        ],
+        [
+          5.035,
+          44.175
+        ],
+        [
+          5.018,
+          44.16
+        ],
+        [
+          4.992,
+          44.158
+        ],
+        [
+          4.968,
+          44.168
+        ],
+        [
+          4.952,
+          44.188
+        ],
+        [
+          4.95,
+          44.21
+        ],
+        [
+          4.958,
+          44.228
+        ],
+        [
+          4.965,
+          44.235
+        ]
+      ]
+    ]
+  }
+}

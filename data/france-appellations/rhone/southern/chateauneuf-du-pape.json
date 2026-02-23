@@ -1,0 +1,78 @@
+{
+  "name": "Châteauneuf-du-Pape",
+  "slug": "chateauneuf-du-pape",
+  "established": 1936,
+  "description": "The flagship of the Southern Rhône, named after the Avignon popes' summer residence. Famous for galets roulés (large rounded stones) and complex blends.",
+  "color": "#800080",
+  "zoom": 12,
+  "totalAcreage": 8000,
+  "primaryGrapes": [
+    "Grenache",
+    "Syrah",
+    "Mourvèdre",
+    "Cinsault"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.78,
+          44.08
+        ],
+        [
+          4.82,
+          44.085
+        ],
+        [
+          4.855,
+          44.075
+        ],
+        [
+          4.88,
+          44.06
+        ],
+        [
+          4.885,
+          44.035
+        ],
+        [
+          4.878,
+          44.01
+        ],
+        [
+          4.86,
+          43.99
+        ],
+        [
+          4.835,
+          43.98
+        ],
+        [
+          4.805,
+          43.982
+        ],
+        [
+          4.775,
+          43.995
+        ],
+        [
+          4.755,
+          44.015
+        ],
+        [
+          4.75,
+          44.04
+        ],
+        [
+          4.758,
+          44.062
+        ],
+        [
+          4.78,
+          44.08
+        ]
+      ]
+    ]
+  }
+}

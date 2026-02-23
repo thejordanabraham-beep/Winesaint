@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Dürrau",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site",
+    "village": "Horitschon",
+    "note": "Most famous Mittelburgenland site"
+  },
+  {
+    "name": "Szapary",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site"
+  },
+  {
+    "name": "Altenberg",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site"
+  },
+  {
+    "name": "Tannenberg",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site"
+  },
+  {
+    "name": "Hochäcker",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site",
+    "producer": "Weninger"
+  },
+  {
+    "name": "Bela Rex",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site",
+    "producer": "Gesellmann"
+  },
+  {
+    "name": "Saybritz",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site",
+    "village": "Lutzmannsburg",
+    "producer": "Moric"
+  },
+  {
+    "name": "Neckenmarkt",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site",
+    "village": "Neckenmarkt"
+  },
+  {
+    "name": "Deutschkreutz",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site",
+    "village": "Deutschkreutz"
+  },
+  {
+    "name": "Kirchweingärten",
+    "appellationName": "Mittelburgenland DAC",
+    "regionName": "Burgenland",
+    "classification": "vineyard_site"
+  }
+]

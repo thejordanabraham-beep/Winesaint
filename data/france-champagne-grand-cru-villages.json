@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Ambonnay",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Beaumont-sur-Vesle",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Bouzy",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Louvois",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Mailly-Champagne",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Puisieulx",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Sillery",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Verzenay",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Verzy",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Avize",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Chouilly",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Cramant",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Le Mesnil-sur-Oger",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Oger",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Oiry",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Aÿ",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  },
+  {
+    "name": "Tours-sur-Marne",
+    "appellationName": "Champagne",
+    "regionName": "Champagne",
+    "classification": "grand_cru"
+  }
+]

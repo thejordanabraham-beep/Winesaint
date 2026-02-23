@@ -1,0 +1,47 @@
+{
+  "name": "Château-Grillet",
+  "slug": "chateau-grillet",
+  "established": 1936,
+  "description": "One of France's smallest appellations - a single-estate AOC of just 3.8 hectares. The south-facing amphitheater produces exceptional age-worthy Viognier.",
+  "color": "#FFD700",
+  "zoom": 15,
+  "totalAcreage": 9,
+  "primaryGrapes": [
+    "Viognier"
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          4.79,
+          45.372
+        ],
+        [
+          4.796,
+          45.37
+        ],
+        [
+          4.798,
+          45.365
+        ],
+        [
+          4.795,
+          45.36
+        ],
+        [
+          4.788,
+          45.362
+        ],
+        [
+          4.786,
+          45.368
+        ],
+        [
+          4.79,
+          45.372
+        ]
+      ]
+    ]
+  }
+}

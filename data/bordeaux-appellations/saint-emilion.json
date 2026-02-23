@@ -1,0 +1,49 @@
+{
+  "name": "Saint-Émilion",
+  "established": "1936",
+  "description": "UNESCO World Heritage site, famous for Merlot-based wines.",
+  "color": "#A52A2A",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.25,
+          44.95
+        ],
+        [
+          -0.05,
+          44.95
+        ],
+        [
+          0.05,
+          44.85
+        ],
+        [
+          0.05,
+          44.75
+        ],
+        [
+          -0.05,
+          44.65
+        ],
+        [
+          -0.25,
+          44.65
+        ],
+        [
+          -0.35,
+          44.75
+        ],
+        [
+          -0.35,
+          44.85
+        ],
+        [
+          -0.25,
+          44.95
+        ]
+      ]
+    ]
+  }
+}

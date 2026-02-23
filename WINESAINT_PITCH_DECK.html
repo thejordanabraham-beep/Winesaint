@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WineSaint Pitch Deck</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 60px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #722F37;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 2em;
+            color: #722F37;
+            margin-top: 60px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #722F37;
+        }
+
+        h3 {
+            font-size: 1.5em;
+            color: #333;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
+        h4 {
+            font-size: 1.2em;
+            color: #555;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        p, li {
+            margin-bottom: 12px;
+            font-size: 1.05em;
+        }
+
+        ul, ol {
+            margin-left: 30px;
+            margin-bottom: 20px;
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 1.3em;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        .slide-break {
+            border-top: 2px dashed #ccc;
+            margin: 80px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+
+        th {
+            background: #722F37;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background: #f9f9f9;
+        }
+
+        .highlight {
+            background: #fff3cd;
+            padding: 20px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+
+        .success {
+            background: #d4edda;
+            padding: 20px;
+            border-left: 4px solid #28a745;
+            margin: 20px 0;
+        }
+
+        .warning {
+            background: #f8d7da;
+            padding: 20px;
+            border-left: 4px solid #dc3545;
+            margin: 20px 0;
+        }
+
+        .info {
+            background: #d1ecf1;
+            padding: 20px;
+            border-left: 4px solid #17a2b8;
+            margin: 20px 0;
+        }
+
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+
+        pre {
+            background: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        .emoji {
+            font-size: 1.3em;
+        }
+
+        strong {
+            color: #722F37;
+        }
+
+        a {
+            color: #722F37;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+
+            .container {
+                box-shadow: none;
+                padding: 20px;
+            }
+
+            .slide-break {
+                page-break-after: always;
+                border: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🍷 WineSaint Pitch Deck</h1>
+        <p class="subtitle">The Comprehensive Wine Education Platform</p>
+
+        <div class="slide-break"></div>
+
+        <h2>📊 SLIDE 1: The Opportunity</h2>
+
+        <h3>The Problem</h3>
+        <ul>
+            <li><strong>Wine is intimidating</strong> → Complex terminology, regions, classifications confuse newcomers</li>
+            <li><strong>Existing platforms fall short:</strong>
+                <ul>
+                    <li>Wine Folly: Visual but surface-level ($99/year subscription)</li>
+                    <li>Wine Spectator: Paywalled ratings, limited education</li>
+                    <li>Vivino: Commercial/sales-focused (50M users but not educational)</li>
+                    <li>Wine Enthusiast: Expensive certification courses ($695)</li>
+                </ul>
+            </li>
+            <li><strong>Gap in market:</strong> No comprehensive, FREE, deep wine education platform</li>
+        </ul>
+
+        <h3>The Solution: WineSaint</h3>
+        <div class="highlight">
+            <p><strong>"Making wine knowledge accessible to everyone — from curious beginners to serious enthusiasts"</strong></p>
+        </div>
+
+        <p>A unified ecosystem combining:</p>
+        <ul>
+            <li>✅ Deep educational content (not just ratings)</li>
+            <li>✅ AI-powered expertise (François)</li>
+            <li>✅ Comprehensive regional guides</li>
+            <li>✅ Practical tools (iOS app for tasting notes)</li>
+            <li>✅ <strong>Completely free</strong> educational mission</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>🏗️ SLIDE 2: What We've Built (Current State)</h2>
+
+        <h3>Three Connected Platforms</h3>
+
+        <h4>1. WineSaint Web Platform (Main Hub)</h4>
+        <p>📍 <strong>Live at:</strong> wine-reviews.vercel.app (or custom domain)</p>
+
+        <p><strong>Content Scale:</strong></p>
+        <ul>
+            <li><strong>308 region pages</strong> across <strong>39 wine-producing countries</strong></li>
+            <li><strong>5-level hierarchical navigation</strong> (deepest in the industry):
+                <pre>Country → Region → Sub-region → Village → Vineyard
+Example: France → Burgundy → Côte de Nuits → Vosne-Romanée → Romanée-Conti</pre>
+            </li>
+            <li><strong>78 comprehensive guides</strong> (2.9MB of expert content)</li>
+            <li><strong>Wine review database</strong> with scoring system</li>
+            <li><strong>Vintage charts</strong> for major regions</li>
+            <li><strong>Articles, buying guides, vintage reports</strong></li>
+        </ul>
+
+        <p><strong>Unique Hierarchy Breakdown:</strong></p>
+        <ul>
+            <li>39 Countries (Level 1)</li>
+            <li>45 Major Regions (Level 2)</li>
+            <li>67 Sub-regions (Level 3)</li>
+            <li>71 Villages (Level 4)</li>
+            <li>86 Individual Vineyards/Climats (Level 5)</li>
+        </ul>
+
+        <p><strong>Key Features:</strong></p>
+        <ul>
+            <li>🗺️ Interactive region explorer</li>
+            <li>📚 Curated learning paths (French Classics, Old World, New World)</li>
+            <li>⚡ Region comparison tools</li>
+            <li>📊 Power rankings (top-rated wines)</li>
+            <li>🎨 Modern, clean design (built with Next.js 16)</li>
+            <li>📱 Responsive (works on all devices)</li>
+        </ul>
+
+        <p><strong>Tech Stack:</strong></p>
+        <ul>
+            <li>Next.js 16 (React framework)</li>
+            <li>Sanity CMS (content management)</li>
+            <li>Vercel (hosting)</li>
+            <li>TypeScript</li>
+            <li>328 code files, production-ready</li>
+        </ul>
+
+        <h4>2. François - The Wine Expert AI (RAG System)</h4>
+
+        <p><strong>What is François?</strong></p>
+        <p>An AI sommelier powered by Retrieval-Augmented Generation (RAG) — like ChatGPT but trained specifically on wine expertise.</p>
+
+        <p><strong>Knowledge Base (WEG - Wine Expert Guide):</strong></p>
+        <ul>
+            <li>Vector database of wine articles, vintage charts, vineyard data</li>
+            <li>Intelligent reranking for accurate answers</li>
+            <li>Can answer questions about:
+                <ul>
+                    <li>Any wine region's characteristics</li>
+                    <li>Vintage quality and aging potential</li>
+                    <li>Food pairings</li>
+                    <li>Winemaking techniques</li>
+                    <li>Grape varieties and terroir</li>
+                </ul>
+            </li>
+        </ul>
+
+        <p><strong>Technical Details:</strong></p>
+        <ul>
+            <li>753 lines of Python code</li>
+            <li>API endpoint for web integration</li>
+            <li>Real-time conversational interface</li>
+            <li>Already integrated into WineSaint web chat page</li>
+        </ul>
+
+        <div class="info">
+            <p><strong>User Experience:</strong></p>
+            <p>Ask: <em>"What's the difference between Barolo and Barbaresco?"</em></p>
+            <p>François provides expert-level context, not just generic answers</p>
+            <p>Sources from curated wine knowledge, not random internet data</p>
+        </div>
+
+        <h4>3. Wine Notes - iOS Mobile App</h4>
+
+        <p><strong>Status:</strong> ✅ Live on iOS (via Xcode)</p>
+
+        <p><strong>Purpose:</strong> Personal wine tracking and tasting notes</p>
+
+        <p><strong>Features:</strong></p>
+        <ul>
+            <li>📝 Record tasting notes on the go</li>
+            <li>🍇 Structured wine descriptors and modifiers by category</li>
+            <li>📊 Export notes to Excel</li>
+            <li>🏷️ Wine lexicon for consistent terminology</li>
+            <li>📱 Native iOS app (React Native + Capacitor)</li>
+        </ul>
+
+        <p><strong>Integration Potential:</strong></p>
+        <p>Could sync with WineSaint web platform → users track tastings on mobile, access education on web</p>
+
+        <div class="slide-break"></div>
+
+        <h2>🎯 SLIDE 3: What Makes Us Different</h2>
+
+        <h3>Competitive Analysis</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Feature</th>
+                    <th>WineSaint</th>
+                    <th>Wine Folly</th>
+                    <th>Wine Spectator</th>
+                    <th>Vivino</th>
+                    <th>Wine Enthusiast</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Price</strong></td>
+                    <td>FREE</td>
+                    <td>$99/year</td>
+                    <td>Subscription</td>
+                    <td>Free (Premium $)</td>
+                    <td>$695/course</td>
+                </tr>
+                <tr>
+                    <td><strong>Depth</strong></td>
+                    <td>5-level hierarchy, 308 pages</td>
+                    <td>Maps + basic guides</td>
+                    <td>Articles (paywalled)</td>
+                    <td>Label scanner only</td>
+                    <td>Certification focus</td>
+                </tr>
+                <tr>
+                    <td><strong>AI Expert</strong></td>
+                    <td>✅ François (RAG)</td>
+                    <td>❌</td>
+                    <td>❌</td>
+                    <td>Basic recommendations</td>
+                    <td>❌</td>
+                </tr>
+                <tr>
+                    <td><strong>Educational Focus</strong></td>
+                    <td>✅ Primary mission</td>
+                    <td>Partial (sell books)</td>
+                    <td>Ratings-focused</td>
+                    <td>Commerce-focused</td>
+                    <td>Certification-focused</td>
+                </tr>
+                <tr>
+                    <td><strong>Mobile App</strong></td>
+                    <td>✅ Wine Notes</td>
+                    <td>❌</td>
+                    <td>❌</td>
+                    <td>✅ (50M users)</td>
+                    <td>❌</td>
+                </tr>
+                <tr>
+                    <td><strong>Region Coverage</strong></td>
+                    <td>39 countries, 308 pages</td>
+                    <td>~30 regions (maps)</td>
+                    <td>Limited free content</td>
+                    <td>Database only</td>
+                    <td>Course-specific</td>
+                </tr>
+                <tr>
+                    <td><strong>Learning Paths</strong></td>
+                    <td>✅ Curated paths</td>
+                    <td>❌ (courses sold separately)</td>
+                    <td>❌</td>
+                    <td>❌</td>
+                    <td>✅ (paid WSET)</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>Our Unique Value Proposition</h3>
+
+        <div class="success">
+            <p><strong>"Wikipedia meets Khan Academy for Wine"</strong></p>
+        </div>
+
+        <ol>
+            <li><strong>Deepest Navigation System</strong>
+                <ul>
+                    <li>Only platform with village-level + vineyard-level granularity</li>
+                    <li>Example: Explore all 9 Grand Crus of Gevrey-Chambertin individually</li>
+                </ul>
+            </li>
+            <li><strong>AI-Powered Expertise</strong>
+                <ul>
+                    <li>François answers questions 24/7 with expert-level context</li>
+                    <li>Not just search — conversational learning</li>
+                </ul>
+            </li>
+            <li><strong>Completely Free</strong>
+                <ul>
+                    <li>Educational mission, not commercial</li>
+                    <li>No paywalls, no subscriptions, no upsells</li>
+                </ul>
+            </li>
+            <li><strong>Comprehensive Ecosystem</strong>
+                <ul>
+                    <li>Web education + Mobile tracking + AI expert</li>
+                    <li>Seamless integration across platforms</li>
+                </ul>
+            </li>
+            <li><strong>Honest, Opinionated Voice</strong>
+                <ul>
+                    <li>"Napa: An Inconvenient Truth" (real article example)</li>
+                    <li>"Wine Ratings Are Made Up and the Points Don't Matter"</li>
+                    <li>Authentic, not corporate</li>
+                </ul>
+            </li>
+        </ol>
+
+        <div class="slide-break"></div>
+
+        <h2>🚀 SLIDE 4: Where We're Going (The Vision)</h2>
+
+        <h3>Mission Statement</h3>
+        <div class="highlight">
+            <p><strong>"Save the wine industry by making wine education accessible, honest, and engaging for everyone."</strong></p>
+        </div>
+
+        <h3>Target Audiences</h3>
+
+        <ol>
+            <li><strong>Curious Beginners</strong> (60% of potential users)
+                <ul>
+                    <li>Intimidated by wine terminology</li>
+                    <li>Want to learn without feeling judged</li>
+                    <li>Looking for approachable content</li>
+                </ul>
+            </li>
+            <li><strong>Enthusiast Learners</strong> (30%)
+                <ul>
+                    <li>Know basics, want depth</li>
+                    <li>Interested in regions, terroir, vintages</li>
+                    <li>Planning wine trips or building collections</li>
+                </ul>
+            </li>
+            <li><strong>Serious Students</strong> (10%)
+                <ul>
+                    <li>Studying for certifications (WSET, etc.)</li>
+                    <li>Industry professionals</li>
+                    <li>Deep regional knowledge seekers</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h3>Growth Potential</h3>
+
+        <p><strong>Wine Education Market:</strong></p>
+        <ul>
+            <li>Global wine market: $364B (2023)</li>
+            <li>Wine tourism: $10B+ annually</li>
+            <li>WSET (certification): 100,000+ candidates/year</li>
+            <li>Wine Folly users: Unknown, but $99 subscription successful</li>
+            <li>Vivino users: 50M (though not education-focused)</li>
+        </ul>
+
+        <p><strong>Addressable Market:</strong></p>
+        <ul>
+            <li>US wine drinkers: 84M adults</li>
+            <li>Interested in wine education: ~30-40% = <strong>25-30M potential users</strong></li>
+            <li>Even capturing 0.1% = <strong>25,000-30,000 users</strong> = significant impact</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>📋 SLIDE 5: The Roadmap (Next 12 Months)</h2>
+
+        <h3>PHASE 1: Foundation Enhancement (Months 1-3)</h3>
+        <p><em>"Make what we have even better"</em></p>
+
+        <h4>Priority Features (User-Approved)</h4>
+
+        <p><strong>1. Smart Content Connections</strong> ⚡ HIGHEST PRIORITY</p>
+        <ul>
+            <li><strong>What:</strong> Link related regions, wines, vintages across site</li>
+            <li><strong>Example:</strong> Barolo page → "Similar regions: Barbaresco, Brunello"</li>
+            <li><strong>Why:</strong> Keeps users exploring, builds knowledge connections</li>
+            <li><strong>Timeline:</strong> 3-4 weeks</li>
+            <li><strong>Cost:</strong> Development time only (no API costs)</li>
+        </ul>
+
+        <p><strong>2. Wine 101 Fundamentals Hub</strong> 📚 HIGH PRIORITY</p>
+        <ul>
+            <li><strong>What:</strong> Beginner-friendly section covering basics
+                <ul>
+                    <li>What is terroir?</li>
+                    <li>How to read wine labels</li>
+                    <li>Grape varieties explained</li>
+                    <li>Food pairing fundamentals</li>
+                </ul>
+            </li>
+            <li><strong>Why:</strong> Lowers barrier to entry for newcomers</li>
+            <li><strong>Timeline:</strong> 4-6 weeks</li>
+            <li><strong>Cost:</strong> François API usage for content generation (~$50-100)</li>
+        </ul>
+
+        <p><strong>3. Integrate Content Gaps</strong> 🔗 HIGH PRIORITY</p>
+        <ul>
+            <li><strong>What:</strong> Add producer profiles, grape variety pages, winemaking technique guides</li>
+            <li><strong>Where:</strong> Either in regional guides OR separate sections</li>
+            <li><strong>Why:</strong> Makes platform truly comprehensive</li>
+            <li><strong>Timeline:</strong> 6-8 weeks</li>
+            <li><strong>Cost:</strong> François generation (~$100-150)</li>
+        </ul>
+
+        <h3>PHASE 2: Interactive Features (Months 4-6)</h3>
+
+        <p><strong>4. Wine Finder / Smart Search</strong> 🔍</p>
+        <ul>
+            <li><strong>What:</strong> Advanced filtering system
+                <ul>
+                    <li>By experience level (beginner/intermediate/expert)</li>
+                    <li>By budget</li>
+                    <li>By flavor profile</li>
+                    <li>By region characteristics</li>
+                </ul>
+            </li>
+            <li><strong>Why:</strong> Helps users discover wines that match their preferences</li>
+            <li><strong>Timeline:</strong> 6-8 weeks</li>
+            <li><strong>Cost:</strong> Development only</li>
+        </ul>
+
+        <p><strong>5. Interactive Comparison Tools</strong> 📊 SPECTACULAR IDEA</p>
+        <ul>
+            <li><strong>What:</strong> Side-by-side region/vintage/wine comparisons
+                <ul>
+                    <li>Compare Barolo vs Barbaresco (climate, soil, price, aging)</li>
+                    <li>Compare 2019 vs 2020 Burgundy vintage</li>
+                    <li>Visual charts and data</li>
+                </ul>
+            </li>
+            <li><strong>Why:</strong> Makes learning tangible and engaging</li>
+            <li><strong>Challenges:</strong>
+                <ul>
+                    <li>Data normalization (regions describe things differently)</li>
+                    <li>Mobile UX (3-column comparison doesn't work on phones)</li>
+                    <li>Avoiding information overload</li>
+                </ul>
+            </li>
+            <li><strong>Timeline:</strong> 8-10 weeks (complex UX)</li>
+            <li><strong>Cost:</strong> Development + potential data API costs (~$200)</li>
+        </ul>
+
+        <p><strong>6. Guided Discovery / Learning Paths</strong> 🗺️</p>
+        <ul>
+            <li><strong>What:</strong> Personalized wine education journeys
+                <ul>
+                    <li>"New to wine? Start here" → 4-week beginner path</li>
+                    <li>"Explore Burgundy" → Structured deep-dive</li>
+                    <li>François-powered recommendations</li>
+                </ul>
+            </li>
+            <li><strong>Why:</strong> Gives direction to overwhelmed learners</li>
+            <li><strong>Timeline:</strong> 4-6 weeks</li>
+            <li><strong>Cost:</strong> François integration (minimal)</li>
+        </ul>
+
+        <h3>PHASE 3: Mobile & Expansion (Months 7-12)</h3>
+
+        <p><strong>7. Mobile-First Experience</strong> 📱 CRITICAL UNDERTAKING</p>
+        <ul>
+            <li><strong>What:</strong> Rebuild/optimize for mobile devices
+                <ul>
+                    <li>Responsive 5-level navigation</li>
+                    <li>Touch-optimized comparisons</li>
+                    <li>Fast loading on cellular</li>
+                    <li>Native app feel</li>
+                </ul>
+            </li>
+            <li><strong>Why:</strong> <strong>50%+ of wine learners use mobile devices</strong></li>
+            <li><strong>Challenges:</strong>
+                <ul>
+                    <li>Deep hierarchy navigation on small screens</li>
+                    <li>Preserving rich content in mobile format</li>
+                    <li>Performance optimization</li>
+                </ul>
+            </li>
+            <li><strong>Timeline:</strong> 12-16 weeks (MAJOR PROJECT)</li>
+            <li><strong>Cost:</strong> Dedicated development effort</li>
+            <li><strong>Note:</strong> This is essential for mass adoption</li>
+        </ul>
+
+        <p><strong>8. Wine Notes Integration</strong> 🔗</p>
+        <ul>
+            <li><strong>What:</strong> Connect iOS app to web platform
+                <ul>
+                    <li>Sync tasting notes across devices</li>
+                    <li>Access regional guides from within app</li>
+                    <li>François available in mobile app</li>
+                </ul>
+            </li>
+            <li><strong>Why:</strong> Seamless ecosystem = better user retention</li>
+            <li><strong>Timeline:</strong> 6-8 weeks</li>
+            <li><strong>Cost:</strong> Development + potential backend infrastructure</li>
+        </ul>
+
+        <p><strong>9. Social Features</strong> 👥 LATER PHASE</p>
+        <ul>
+            <li><strong>What:</strong> User reviews, community notes, discussion</li>
+            <li><strong>Why:</strong> Builds engagement and retention</li>
+            <li><strong>When:</strong> After educational content is complete</li>
+            <li><strong>Maintenance Cost:</strong> Moderation, infrastructure (~$200-500/month)</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>💰 SLIDE 6: Costs & Resources</h2>
+
+        <h3>Current Monthly Costs (Operational)</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Cost</th>
+                    <th>Purpose</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Vercel Hosting</strong></td>
+                    <td>$0-20</td>
+                    <td>Web platform hosting</td>
+                </tr>
+                <tr>
+                    <td><strong>Sanity CMS</strong></td>
+                    <td>$0 (free tier)</td>
+                    <td>Content database</td>
+                </tr>
+                <tr>
+                    <td><strong>OpenAI API (François)</strong></td>
+                    <td>~$50-150</td>
+                    <td>AI query responses</td>
+                </tr>
+                <tr>
+                    <td><strong>Domain</strong></td>
+                    <td>~$15/year</td>
+                    <td>winesaint.com (if registered)</td>
+                </tr>
+                <tr>
+                    <td><strong>Apple Developer</strong></td>
+                    <td>$99/year</td>
+                    <td>iOS app distribution</td>
+                </tr>
+                <tr>
+                    <td><strong>TOTAL</strong></td>
+                    <td><strong>~$50-170/month</strong></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>Development Costs (New Features)</h3>
+
+        <p><strong>Assumptions:</strong> Professional developer rate = $75-150/hour OR in-house development time</p>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Feature</th>
+                    <th>Timeline</th>
+                    <th>Development Cost (Est.)</th>
+                    <th>API/Other Costs</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Smart Content Connections</td>
+                    <td>3-4 weeks</td>
+                    <td>$5,000-8,000</td>
+                    <td>$0</td>
+                </tr>
+                <tr>
+                    <td>Wine 101 Hub</td>
+                    <td>4-6 weeks</td>
+                    <td>$6,000-12,000</td>
+                    <td>$50-100 (François)</td>
+                </tr>
+                <tr>
+                    <td>Content Gaps Integration</td>
+                    <td>6-8 weeks</td>
+                    <td>$9,000-16,000</td>
+                    <td>$100-150 (François)</td>
+                </tr>
+                <tr>
+                    <td>Wine Finder/Search</td>
+                    <td>6-8 weeks</td>
+                    <td>$9,000-16,000</td>
+                    <td>$0</td>
+                </tr>
+                <tr>
+                    <td>Comparison Tools</td>
+                    <td>8-10 weeks</td>
+                    <td>$12,000-20,000</td>
+                    <td>$200</td>
+                </tr>
+                <tr>
+                    <td>Guided Discovery</td>
+                    <td>4-6 weeks</td>
+                    <td>$6,000-12,000</td>
+                    <td>$0</td>
+                </tr>
+                <tr>
+                    <td>Mobile-First Rebuild</td>
+                    <td>12-16 weeks</td>
+                    <td>$18,000-32,000</td>
+                    <td>$0</td>
+                </tr>
+                <tr>
+                    <td>Wine Notes Integration</td>
+                    <td>6-8 weeks</td>
+                    <td>$9,000-16,000</td>
+                    <td>$500 (backend)</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="info">
+            <p><strong>Phase 1 Total (Months 1-3):</strong> $20,000-36,000 + $150-250 API</p>
+            <p><strong>Phase 2 Total (Months 4-6):</strong> $27,000-48,000 + $200</p>
+            <p><strong>Phase 3 Total (Months 7-12):</strong> $27,000-48,000 + $500</p>
+            <p><strong>12-Month Total:</strong> $74,000-132,000 (if outsourced)</p>
+            <p><strong>OR:</strong> In-house development (Jordan's time) = $0 but 6-12 months of focused work</p>
+        </div>
+
+        <div class="slide-break"></div>
+
+        <h2>💡 SLIDE 7: Monetization Strategy</h2>
+
+        <h3>Option 1: 501(c)(3) Nonprofit (RECOMMENDED)</h3>
+
+        <p><strong>Pros:</strong></p>
+        <ul>
+            <li>✅ Aligns with educational mission</li>
+            <li>✅ Tax-deductible donations</li>
+            <li>✅ Grant eligibility (wine industry foundations, education grants)</li>
+            <li>✅ Maintains "free forever" credibility</li>
+            <li>✅ No pressure to monetize/compromise UX</li>
+        </ul>
+
+        <p><strong>Cons:</strong></p>
+        <ul>
+            <li>⚠️ IRS application process (6-12 months, $600 fee)</li>
+            <li>⚠️ Annual reporting requirements (Form 990)</li>
+            <li>⚠️ Restrictions on for-profit activities</li>
+            <li>⚠️ Board of directors required</li>
+        </ul>
+
+        <p><strong>Setup Costs:</strong> ~$2,000-5,000 (legal + filing)</p>
+        <p><strong>Annual Costs:</strong> ~$1,000-2,000 (compliance + accounting)</p>
+
+        <p><strong>Funding Sources (if nonprofit):</strong></p>
+        <ul>
+            <li>Wine industry sponsorships (wineries, importers)</li>
+            <li>Educational grants</li>
+            <li>Individual donations (tax-deductible)</li>
+            <li>Potential partnerships with WSET, sommelier programs</li>
+        </ul>
+
+        <h3>Option 2: Minimal Monetization (Revenue-Neutral)</h3>
+
+        <p><strong>Goal:</strong> Cover operational costs only, stay lean and focused</p>
+
+        <p><strong>Revenue Streams (Non-Intrusive):</strong></p>
+
+        <ol>
+            <li><strong>Affiliate Links</strong> → Est. $200-500/month
+                <ul>
+                    <li>Link to wine retailers (Wine.com, Vivino marketplace)</li>
+                    <li>Honest recommendations, not pushy sales</li>
+                    <li>Clearly disclosed</li>
+                </ul>
+            </li>
+            <li><strong>Sponsored Content</strong> (Carefully Curated) → Est. $500-2,000/month
+                <ul>
+                    <li>"Featured Producer" profiles</li>
+                    <li>Vintage report sponsorships</li>
+                    <li>Full editorial control maintained</li>
+                    <li>Clear "Sponsored" labels</li>
+                </ul>
+            </li>
+            <li><strong>Premium François Tier</strong> (Optional) → Est. $500-1,500/month
+                <ul>
+                    <li>Free tier: 20 questions/month</li>
+                    <li>Premium: Unlimited + priority responses ($5-10/month)</li>
+                    <li>All educational content remains free</li>
+                </ul>
+            </li>
+        </ol>
+
+        <div class="success">
+            <p><strong>Potential Monthly Revenue:</strong> $1,200-4,000</p>
+            <p><strong>Monthly Costs:</strong> ~$200-300</p>
+            <p><strong>Net:</strong> $900-3,700/month = <strong>reinvest in platform</strong></p>
+            <p><strong>Philosophy:</strong> "Just enough to keep the lights on, never compromise user experience"</p>
+        </div>
+
+        <h3>Option 3: Hybrid Approach</h3>
+
+        <ul>
+            <li>Register as nonprofit (long-term credibility)</li>
+            <li>Use minimal monetization to cover costs while awaiting nonprofit status</li>
+            <li>Transition to grants/donations once 501(c)(3) approved</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>🎯 SLIDE 8: Success Metrics (What Does "Winning" Look Like?)</h2>
+
+        <h3>Year 1 Goals</h3>
+
+        <p><strong>Traffic Metrics:</strong></p>
+        <ul>
+            <li><strong>10,000 monthly visitors</strong> (organic search + word of mouth)</li>
+            <li><strong>100,000 page views/month</strong> (users exploring deeply)</li>
+            <li><strong>Average session: 5+ minutes</strong> (engaged learning)</li>
+            <li><strong>20% return visitors</strong> (people coming back to learn more)</li>
+        </ul>
+
+        <p><strong>Engagement Metrics:</strong></p>
+        <ul>
+            <li><strong>500 François conversations/week</strong> (AI expert being used)</li>
+            <li><strong>1,000 Wine Notes app downloads</strong> (mobile adoption)</li>
+            <li><strong>100 email subscribers</strong> (newsletter engagement)</li>
+        </ul>
+
+        <p><strong>Content Metrics:</strong></p>
+        <ul>
+            <li><strong>All 39 countries have regional guides</strong> (complete coverage)</li>
+            <li><strong>150+ total guides</strong> (double current amount)</li>
+            <li><strong>Wine 101 Hub launched</strong> with 20+ beginner articles</li>
+        </ul>
+
+        <p><strong>Impact Metrics:</strong></p>
+        <ul>
+            <li><strong>50+ user testimonials</strong> ("WineSaint helped me understand wine")</li>
+            <li><strong>5+ wine industry partnerships</strong> (recognition from professionals)</li>
+            <li><strong>Mentioned in 10+ wine blogs/media</strong> (credibility)</li>
+        </ul>
+
+        <h3>Year 3 Vision (The Big Picture)</h3>
+
+        <ul>
+            <li><strong>100,000+ monthly visitors</strong></li>
+            <li><strong>Top 3 Google results</strong> for "learn about [wine region]"</li>
+            <li><strong>Referenced by sommeliers</strong> and wine educators</li>
+            <li><strong>Partnerships with wine schools</strong> (WSET, sommelier programs)</li>
+            <li><strong>User-generated content</strong> (community reviews, tasting notes)</li>
+            <li><strong>Full mobile app</strong> ecosystem (iOS + Android)</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>🚧 SLIDE 9: Risks & Challenges</h2>
+
+        <h3>Technical Challenges</h3>
+
+        <p><strong>1. Map Visualization Issues</strong> (Current Problem)</p>
+        <ul>
+            <li><strong>Issue:</strong> Region shapes not displaying correctly, AVA/AOP organization problems</li>
+            <li><strong>Impact:</strong> Map feature incomplete, can't showcase terroir visually</li>
+            <li><strong>Solution:</strong> Needs GeoJSON troubleshooting, possibly partner with mapping specialist</li>
+            <li><strong>Timeline:</strong> 2-4 weeks to fix</li>
+            <li><strong>Cost:</strong> $2,000-5,000 if outsourced</li>
+        </ul>
+
+        <p><strong>2. Mobile Performance</strong></p>
+        <ul>
+            <li><strong>Issue:</strong> 5-level navigation + rich content = potential slow load on mobile</li>
+            <li><strong>Solution:</strong> Code splitting, image optimization, progressive loading</li>
+            <li><strong>Timeline:</strong> Part of Phase 3 mobile-first rebuild</li>
+        </ul>
+
+        <p><strong>3. Content Freshness</strong></p>
+        <ul>
+            <li><strong>Issue:</strong> Wine info changes (new vintages, producer updates)</li>
+            <li><strong>Solution:</strong> Regular François-powered updates, community contributions</li>
+            <li><strong>Cost:</strong> ~$100-200/month in API calls for updates</li>
+        </ul>
+
+        <h3>Market Challenges</h3>
+
+        <p><strong>1. Competing with Free Information</strong></p>
+        <ul>
+            <li><strong>Risk:</strong> "Why use WineSaint when I can Google it?"</li>
+            <li><strong>Mitigation:</strong> Superior organization, François AI, curated learning paths</li>
+            <li><strong>Edge:</strong> Google gives you 10 random links; WineSaint gives you a structured journey</li>
+        </ul>
+
+        <p><strong>2. Building Awareness</strong></p>
+        <ul>
+            <li><strong>Risk:</strong> "Nobody knows we exist"</li>
+            <li><strong>Mitigation:</strong> SEO optimization, social media presence, wine community partnerships</li>
+            <li><strong>Strategy:</strong> Content marketing (articles shared on Reddit, wine forums)</li>
+        </ul>
+
+        <p><strong>3. Monetization Pressure</strong></p>
+        <ul>
+            <li><strong>Risk:</strong> Running out of money before gaining traction</li>
+            <li><strong>Mitigation:</strong> Start with minimal costs, scale infrastructure as users grow</li>
+            <li><strong>Runway:</strong> Current costs ($50-170/month) are sustainable indefinitely</li>
+        </ul>
+
+        <h3>Execution Challenges</h3>
+
+        <p><strong>1. Development Bandwidth</strong></p>
+        <ul>
+            <li><strong>Issue:</strong> Ambitious roadmap requires significant development time</li>
+            <li><strong>Options:</strong>
+                <ul>
+                    <li>Jordan builds in-house (slower but free)</li>
+                    <li>Hire freelancer/contractor (faster but costly)</li>
+                    <li>Partner with CS students (internship program)</li>
+                </ul>
+            </li>
+        </ul>
+
+        <p><strong>2. Content Generation</strong></p>
+        <ul>
+            <li><strong>Issue:</strong> Creating 100+ guides is time-intensive</li>
+            <li><strong>Solution:</strong> François automation + editorial oversight</li>
+            <li><strong>Cost:</strong> ~$500-1,000 in API calls</li>
+        </ul>
+
+        <p><strong>3. Avoiding Feature Bloat</strong></p>
+        <ul>
+            <li><strong>Risk:</strong> "Do everything" leads to cluttered, confusing experience</li>
+            <li><strong>Mitigation:</strong> <strong>Focus > Features</strong> (your stated principle)</li>
+            <li><strong>Decision framework:</strong> "Does this help users learn about wine?" If no → don't build</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>🏆 SLIDE 10: Why Now? Why This Matters?</h2>
+
+        <h3>The Wine Industry Needs This</h3>
+
+        <p><strong>Current Trends:</strong></p>
+        <ol>
+            <li><strong>Wine consumption declining among younger generations</strong>
+                <ul>
+                    <li>Millennials/Gen Z intimidated by wine culture</li>
+                    <li>Prefer beer, spirits, cocktails (more approachable)</li>
+                </ul>
+            </li>
+            <li><strong>Wine education is gatekept</strong>
+                <ul>
+                    <li>Expensive certifications ($695+ for WSET)</li>
+                    <li>Snobby culture keeps newcomers away</li>
+                    <li>Information scattered across paywalls</li>
+                </ul>
+            </li>
+            <li><strong>AI revolution in education</strong>
+                <ul>
+                    <li>ChatGPT showed people want instant, conversational learning</li>
+                    <li>François = ChatGPT but actually knows wine deeply</li>
+                </ul>
+            </li>
+        </ol>
+
+        <div class="warning">
+            <p><strong>WineSaint's Role:</strong></p>
+            <ul>
+                <li><strong>Democratize wine knowledge</strong> → Make it accessible to everyone</li>
+                <li><strong>Remove intimidation</strong> → Honest, approachable content</li>
+                <li><strong>Build next generation of wine lovers</strong> → Keep industry alive</li>
+            </ul>
+        </div>
+
+        <h3>Competitive Timing</h3>
+
+        <ul>
+            <li>Wine Folly launched 2011 → became industry leader</li>
+            <li>Vivino launched 2010 → 50M users</li>
+            <li><strong>Opportunity window:</strong> No dominant free educational platform yet</li>
+            <li><strong>Edge:</strong> AI technology (François) wasn't possible 5 years ago</li>
+        </ul>
+
+        <h3>Personal Mission</h3>
+
+        <div class="highlight">
+            <p><strong>"This is for the love of the game"</strong> → Not a get-rich-quick scheme</p>
+            <ul>
+                <li>Passion project that could genuinely help people</li>
+                <li>Fill a real gap in wine education</li>
+                <li>Build something lasting and meaningful</li>
+                <li>Potential to become THE definitive wine learning platform</li>
+            </ul>
+        </div>
+
+        <div class="slide-break"></div>
+
+        <h2>📝 SLIDE 11: The Ask (What We Need)</h2>
+
+        <h3>To Execute Phase 1 (Next 3 Months)</h3>
+
+        <p><strong>Option A: Full Development Support</strong></p>
+        <ul>
+            <li><strong>Budget:</strong> $25,000-40,000</li>
+            <li><strong>Covers:</strong> Smart connections, Wine 101 Hub, content integration</li>
+            <li><strong>Timeline:</strong> 3 months</li>
+            <li><strong>Outcome:</strong> Platform 2x more valuable, ready for user growth</li>
+        </ul>
+
+        <p><strong>Option B: Operational Support</strong></p>
+        <ul>
+            <li><strong>Budget:</strong> $500-1,000/month</li>
+            <li><strong>Covers:</strong> Hosting, API costs, domain, minor outsourcing</li>
+            <li><strong>Timeline:</strong> 6-12 months</li>
+            <li><strong>Outcome:</strong> Jordan builds in-house, slower but sustainable</li>
+        </ul>
+
+        <p><strong>Option C: Strategic Partnership</strong></p>
+        <ul>
+            <li><strong>Contribution:</strong> Time, expertise, industry connections</li>
+            <li><strong>Role:</strong> Advisor, connector to wine industry professionals</li>
+            <li><strong>Outcome:</strong> Credibility, potential sponsorships, user growth</li>
+        </ul>
+
+        <h3>To Explore Nonprofit Status</h3>
+
+        <p><strong>Budget:</strong> $2,000-5,000 (legal setup)</p>
+        <p><strong>Timeline:</strong> 6-12 months for IRS approval</p>
+        <p><strong>Outcome:</strong> Tax-exempt status, grant eligibility, long-term sustainability</p>
+
+        <div class="slide-break"></div>
+
+        <h2>🎬 SLIDE 12: Next Steps</h2>
+
+        <h3>Immediate Actions (Next 30 Days)</h3>
+
+        <ol>
+            <li><strong>Decision on funding approach</strong>
+                <ul>
+                    <li>Operational support?</li>
+                    <li>Development budget?</li>
+                    <li>Bootstrap and build slowly?</li>
+                </ul>
+            </li>
+            <li><strong>Fix map visualization issues</strong> → Make terroir maps work</li>
+            <li><strong>Launch Wine 101 Hub</strong> → Start with 10 beginner articles</li>
+            <li><strong>SEO optimization</strong> → Ensure Google finds WineSaint</li>
+            <li><strong>Social media presence</strong> → Instagram, Twitter/X, Reddit</li>
+        </ol>
+
+        <h3>90-Day Milestones</h3>
+
+        <ul>
+            <li>✅ Smart content connections live</li>
+            <li>✅ Wine 101 Hub with 20 articles</li>
+            <li>✅ 1,000 monthly visitors</li>
+            <li>✅ François handling 200+ queries/month</li>
+            <li>✅ Decision made on nonprofit vs monetization</li>
+        </ul>
+
+        <h3>12-Month Vision</h3>
+
+        <ul>
+            <li>✅ Mobile-first experience launched</li>
+            <li>✅ 10,000+ monthly visitors</li>
+            <li>✅ Recognized in wine education community</li>
+            <li>✅ Revenue-neutral or nonprofit status secured</li>
+            <li>✅ Full feature roadmap complete</li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>📚 SLIDE 13: Appendix - Resources & References</h2>
+
+        <h3>Competitive Research Sources</h3>
+
+        <ul>
+            <li><a href="https://folly.ai/pr/dec-12-2024.php">Wine Folly+ Subscription</a> - $99/year premium features</li>
+            <li><a href="https://www.winespectator.com/tags/education">Wine Spectator Education</a> - Events and courses</li>
+            <li><a href="https://www.brainscape.com/academy/top-wine-apps/">Vivino Features Analysis</a> - App comparison</li>
+            <li><a href="https://wineenthusiastacademy.com/">Wine Enthusiast Academy</a> - WSET certification programs</li>
+        </ul>
+
+        <h3>Market Data</h3>
+
+        <ul>
+            <li>Global wine market size: $364B (2023)</li>
+            <li>US wine drinkers: 84M adults</li>
+            <li>WSET certification candidates: 100,000+/year</li>
+            <li>Vivino users: 50M</li>
+            <li>Wine tourism market: $10B+</li>
+        </ul>
+
+        <h3>Tech Stack Documentation</h3>
+
+        <ul>
+            <li>Next.js 16: <a href="https://nextjs.org/">https://nextjs.org/</a></li>
+            <li>Sanity CMS: <a href="https://www.sanity.io/">https://www.sanity.io/</a></li>
+            <li>OpenAI API (François): <a href="https://platform.openai.com/">https://platform.openai.com/</a></li>
+            <li>Vercel Hosting: <a href="https://vercel.com/">https://vercel.com/</a></li>
+        </ul>
+
+        <div class="slide-break"></div>
+
+        <h2>🍷 Final Slide: The Vision</h2>
+
+        <div class="success" style="font-size: 1.2em; padding: 40px;">
+            <p><strong>WineSaint in 3 Years:</strong></p>
+            <p><em>"The place where anyone — from a curious beginner to a seasoned enthusiast — goes to learn about wine.</em></p>
+            <p><em>Free, comprehensive, honest, and powered by AI.</em></p>
+            <p><em>Mentioned by sommeliers, referenced by students, trusted by the wine community.</em></p>
+            <p><em>The platform that helped save an industry by making it accessible."</em></p>
+        </div>
+
+        <h2 style="text-align: center; margin-top: 60px;">Questions? Let's discuss.</h2>
+
+        <div style="margin-top: 100px; padding-top: 40px; border-top: 1px solid #ccc; color: #666; font-size: 0.9em;">
+            <h3>Document Details</h3>
+            <ul>
+                <li><strong>Created:</strong> February 2026</li>
+                <li><strong>Version:</strong> 1.0</li>
+                <li><strong>Purpose:</strong> Investor/stakeholder pitch</li>
+                <li><strong>Audience:</strong> Non-technical, ADHD-friendly format</li>
+                <li><strong>Next Update:</strong> After Phase 1 completion (90 days)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

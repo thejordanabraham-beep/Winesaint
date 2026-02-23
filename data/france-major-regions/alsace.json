@@ -1,0 +1,62 @@
+{
+  "name": "Alsace",
+  "established": "1962",
+  "description": "A narrow strip along the Rhine, famous for aromatic white wines like Riesling and Gewürztraminer.",
+  "color": "#FFD700",
+  "zoom": 9,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.15,
+          49.05
+        ],
+        [
+          7.55,
+          49.05
+        ],
+        [
+          7.75,
+          48.75
+        ],
+        [
+          7.75,
+          48.35
+        ],
+        [
+          7.65,
+          48.05
+        ],
+        [
+          7.45,
+          47.75
+        ],
+        [
+          7.25,
+          47.55
+        ],
+        [
+          7.05,
+          47.55
+        ],
+        [
+          6.95,
+          47.85
+        ],
+        [
+          6.95,
+          48.25
+        ],
+        [
+          7.05,
+          48.65
+        ],
+        [
+          7.15,
+          49.05
+        ]
+      ]
+    ]
+  }
+}
