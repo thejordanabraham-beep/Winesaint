@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
 import { createClient } from '@sanity/client';
+import { LivexWidget } from '@/components/home/LivexWidget';
 
 const client = createClient({
   projectId: process.env.SANITY_PROJECT_ID!,
@@ -10,24 +11,22 @@ const client = createClient({
 });
 
 // Demo articles
-const featuredArticle = {
-  title: 'Napa: An Inconvenient Truth',
-  subtitle: 'The real threat to Napa isn\'t the thermometer—it\'s the balance sheet',
-  category: 'Analysis',
-  author: 'Wine Saint Editorial',
-  date: 'January 27, 2026',
-  slug: 'napa-inconvenient-truth',
-};
-
-const featuredVideo = {
-  title: 'The Ginger Fox of Pupillin',
-  category: 'Features',
-  subtitle: 'Domaine Bornard and the Jura Wine Renaissance',
-  author: 'Wine Saint Editorial',
-  slug: 'ginger-fox-pupillin',
-};
-
 const articles = [
+  {
+    title: 'Napa: An Inconvenient Truth',
+    subtitle: 'The real threat to Napa isn\'t the thermometer—it\'s the balance sheet',
+    category: 'Analysis',
+    author: 'Wine Saint Editorial',
+    date: 'January 27, 2026',
+    slug: 'napa-inconvenient-truth',
+  },
+  {
+    title: 'The Ginger Fox of Pupillin',
+    subtitle: 'Domaine Bornard and the Jura Wine Renaissance',
+    category: 'Features',
+    author: 'Wine Saint Editorial',
+    slug: 'ginger-fox-pupillin',
+  },
   {
     title: 'Wine Ratings Are Made Up and the Points Don\'t Matter',
     category: 'Opinion',
@@ -63,6 +62,7 @@ const vintageHighlights = [
 
 type PowerRanking = {
   score: number;
+  producerName: string;
   wineName: string;
   vintage: number | string;
   regionName: string;
@@ -74,6 +74,7 @@ export default async function Home() {
   const powerRankings: PowerRanking[] = await client.fetch(`
     *[_type == 'review' && defined(score) && defined(wine->slug.current)] | order(score desc)[0...4] {
       score,
+      'producerName': wine->producer->name,
       'wineName': wine->name,
       'vintage': wine->vintage,
       'regionName': wine->region->name,
@@ -83,53 +84,42 @@ export default async function Home() {
 
   return (
     <div className="bg-[#FAF7F2]">
-      {/* Featured Split Hero */}
-      <section className="border-b-3 border-[#1C1C1C]">
-        <div className="grid grid-cols-1 md:grid-cols-2">
-          {/* Left: Featured Article */}
-          <Link href={`/articles/${featuredArticle.slug}`} className="group relative">
-            <div className="aspect-[4/3] md:aspect-auto md:h-[400px] bg-gradient-to-br from-[#6d597a] to-[#457b9d] relative overflow-hidden">
-              <div className="absolute inset-0 flex items-end p-6 md:p-10">
-                <div>
-                  <span className="inline-block px-3 py-1 bg-[#f4d35e] text-[#1C1C1C] text-xs font-bold uppercase tracking-wider rounded-full mb-4">
-                    {featuredArticle.category}
-                  </span>
-                  <h2 className="font-serif text-2xl md:text-4xl italic text-white leading-tight group-hover:underline decoration-2">
-                    {featuredArticle.title}
-                  </h2>
-                  <p className="mt-3 text-white/80 max-w-md text-sm">
-                    {featuredArticle.subtitle}
-                  </p>
-                  <div className="mt-4 text-xs text-white/60">
-                    By {featuredArticle.author} · {featuredArticle.date}
-                  </div>
-                </div>
-              </div>
-            </div>
-          </Link>
+      {/* Hero Section */}
+      <section className="border-b-3 border-[#1C1C1C] bg-gradient-to-br from-[#722F37] to-[#6d597a]">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12 md:py-16">
+          <div className="text-center">
+            <h1 className="font-serif text-4xl md:text-6xl italic text-white mb-4">
+              #1 Wine Education Resource
+            </h1>
+            <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl mx-auto">
+              In depth guides, expert reviews, producer profiles, detailed maps and learning resources for experienced wine enthusiasts as well as those just getting started
+            </p>
 
-          {/* Right: Featured Article */}
-          <Link href={`/articles/${featuredVideo.slug}`} className="group relative">
-            <div className="aspect-[4/3] md:aspect-auto md:h-[400px] bg-gradient-to-br from-[#722F37] to-[#ff6b35] relative overflow-hidden">
-              {/* Content */}
-              <div className="absolute inset-0 flex items-end p-6 md:p-10">
-                <div>
-                  <span className="inline-block px-3 py-1 bg-[#1C1C1C] text-white text-xs font-bold uppercase tracking-wider rounded-full mb-4">
-                    {featuredVideo.category}
-                  </span>
-                  <h2 className="font-serif text-2xl md:text-4xl italic text-white leading-tight group-hover:underline decoration-2">
-                    {featuredVideo.title}
-                  </h2>
-                  <p className="mt-3 text-white/80 max-w-md text-sm">
-                    {featuredVideo.subtitle}
-                  </p>
-                  <div className="mt-4 text-xs text-white/60">
-                    By {featuredVideo.author}
-                  </div>
-                </div>
+            {/* Stats Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-4xl mx-auto mb-8">
+              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-4">
+                <div className="text-3xl md:text-4xl font-bold text-[#f4d35e] mb-1">2,500+</div>
+                <div className="text-white text-xs md:text-sm">In-Depth Wine Region & Vineyard Guides</div>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-4">
+                <div className="text-3xl md:text-4xl font-bold text-[#f4d35e] mb-1">10,000+</div>
+                <div className="text-white text-xs md:text-sm">Expert Wine Reviews</div>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-4">
+                <div className="text-3xl md:text-4xl font-bold text-[#f4d35e] mb-1">✓</div>
+                <div className="text-white text-xs md:text-sm">Maps, Educational Materials & Original Articles</div>
               </div>
             </div>
-          </Link>
+
+            {/* Additional Copy */}
+            <div className="max-w-3xl mx-auto">
+              <p className="text-white/80 text-lg leading-relaxed">
+                San Francisco's Premier Independent Wine Media. Wine Saint provides a full circle approach to wine education for experts and novices alike with an emphasis on California, small producers and good people.
+              </p>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -193,7 +183,7 @@ export default async function Home() {
                     <ScoreBadge score={wine.score} size="sm" />
                     <div className="flex-1 min-w-0">
                       <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate">
-                        {wine.wineName} {wine.vintage}
+                        {wine.producerName} {wine.wineName} {wine.vintage}
                       </p>
                       <p className="text-sm text-gray-500">{wine.regionName}</p>
                     </div>
@@ -208,6 +198,9 @@ export default async function Home() {
                 All Reviews
               </Link>
             </div>
+
+            {/* Liv-ex Widget */}
+            <LivexWidget />
 
             {/* Vintage Chart */}
             <div className="bg-[#f4d35e] border-3 border-[#1C1C1C] rounded-lg overflow-hidden">
@@ -292,9 +285,9 @@ export default async function Home() {
                       </div>
                     </div>
                     <div className="p-4">
-                      <h3 className="font-serif text-sm italic text-[#1C1C1C] group-hover:text-[#722F37] transition-colors line-clamp-1">
-                        {wine.wineName}
-                      </h3>
+                      <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate text-sm">
+                        {wine.producerName} {wine.wineName}
+                      </p>
                       <p className="text-xs text-gray-500 mt-1">{wine.vintage} · {wine.regionName}</p>
                     </div>
                   </div>
