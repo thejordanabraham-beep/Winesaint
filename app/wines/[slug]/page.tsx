@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { Metadata } from 'next';
 import { client } from '@/lib/sanity/client';
 import { wineBySlugQuery } from '@/lib/sanity/queries';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
@@ -154,6 +155,48 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const wine = await getWine(slug);
+
+  if (!wine) {
+    return {
+      title: 'Wine Not Found',
+    };
+  }
+
+  const fullTitle = `${wine.producer?.name} ${wine.name} ${wine.vintage}`;
+  const latestReview = wine.reviews?.[0];
+  const description = latestReview?.shortSummary || latestReview?.tastingNotes?.substring(0, 160) || `Expert review of ${fullTitle}`;
+
+  return {
+    title: `${fullTitle} - WineSaint Review`,
+    description,
+    openGraph: {
+      title: fullTitle,
+      description,
+      type: 'website',
+      url: `https://winesaint.com/wines/${slug}`,
+      siteName: 'WineSaint',
+      ...(latestReview && {
+        images: [
+          {
+            url: `https://winesaint.com/og-image.jpg`, // TODO: Add wine-specific images
+            width: 1200,
+            height: 630,
+            alt: fullTitle,
+          },
+        ],
+      }),
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: fullTitle,
+      description,
+    },
+  };
+}
+
 export default async function WineDetailPage({ params }: PageProps) {
   const { slug } = await params;
   const wine = await getWine(slug);
@@ -164,8 +207,70 @@ export default async function WineDetailPage({ params }: PageProps) {
 
   const latestReview = wine.reviews?.[0];
 
+  // Generate JSON-LD structured data for SEO
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: `${wine.producer?.name} ${wine.name} ${wine.vintage}`,
+    description: latestReview?.tastingNotes || `${wine.producer?.name} ${wine.name} from ${wine.vintage}`,
+    brand: {
+      '@type': 'Brand',
+      name: wine.producer?.name || 'Unknown Producer',
+    },
+    category: 'Wine',
+    ...(wine.priceUsd && {
+      offers: {
+        '@type': 'Offer',
+        price: wine.priceUsd,
+        priceCurrency: 'USD',
+      },
+    }),
+    ...(latestReview && {
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: latestReview.score,
+        bestRating: 100,
+        worstRating: 0,
+        ratingCount: wine.reviews?.length || 1,
+      },
+    }),
+    ...(wine.reviews && wine.reviews.length > 0 && {
+      review: wine.reviews.map((review) => ({
+        '@type': 'Review',
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: review.score,
+          bestRating: 100,
+          worstRating: 0,
+        },
+        author: {
+          '@type': 'Person',
+          name: review.reviewerName,
+        },
+        reviewBody: review.tastingNotes,
+        datePublished: review.reviewDate,
+      })),
+    }),
+    ...(wine.alcoholPercentage && {
+      additionalProperty: [
+        {
+          '@type': 'PropertyValue',
+          name: 'Alcohol Content',
+          value: `${wine.alcoholPercentage}%`,
+        },
+      ],
+    }),
+  };
+
   return (
-    <div className="bg-[#FAF7F2] min-h-screen">
+    <>
+      {/* Structured Data for SEO */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
+      <div className="bg-[#FAF7F2] min-h-screen">
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8">
@@ -456,5 +561,6 @@ export default async function WineDetailPage({ params }: PageProps) {
         </div>
       </div>
     </div>
+    </>
   );
 }
