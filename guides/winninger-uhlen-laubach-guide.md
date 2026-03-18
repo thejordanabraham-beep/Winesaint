@@ -17,7 +17,7 @@ Winninger Uhlen is one of the Mosel's most celebrated Einzellagen (single vineya
 - **Key producers** like Heymann-Löwenstein (who bottles all three Uhlen parcels separately)
 - **Powerful, mineral-driven Rieslings** with distinctive volcanic/slate character
 
-**However, I cannot write a guide in the requested style without proper research materials.** The Jura Guide's authority comes from specific data—soil percentages, elevation figures, geological timeframes, comparative analysis. Fabricating these details would violate the academic precision you're requesting.
+**However, I cannot write a guide in the requested style without proper research materials.** The Jura Guide's authority comes from specific data, soil percentages, elevation figures, geological timeframes, comparative analysis. Fabricating these details would violate the academic precision you're requesting.
 
 **Would you like me to:**
 1. Provide corrected research context about Winninger Uhlen Laubach?

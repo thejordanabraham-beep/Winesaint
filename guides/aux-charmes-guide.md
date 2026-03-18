@@ -6,7 +6,7 @@ Aux Charmes stands as one of Morey-Saint-Denis' most distinctive Premier Cru vin
 
 The vineyard sits in the southern portion of Morey-Saint-Denis, positioned between the village itself and the border with Gevrey-Chambertin. This location places Aux Charmes in direct proximity to some of Burgundy's most revered Grand Cru vineyards, including Clos de la Roche and Clos Saint-Denis, allowing it to benefit from similar geological formations while maintaining its own distinct terroir characteristics.
 
-Within the broader context of the Côte de Nuits, Aux Charmes occupies the middle slopes of the côte, positioned at an elevation that captures optimal sun exposure while benefiting from the protective influence of the Côte's eastern-facing escarpment. This positioning within the golden zone of Burgundian viticulture—neither too high on the slope where soils become thin and exposure extreme, nor too low where drainage becomes compromised—contributes significantly to the vineyard's ability to produce wines of exceptional quality and consistency.
+Within the broader context of the Côte de Nuits, Aux Charmes occupies the middle slopes of the côte, positioned at an elevation that captures optimal sun exposure while benefiting from the protective influence of the Côte's eastern-facing escarpment. This positioning within the golden zone of Burgundian viticulture, neither too high on the slope where soils become thin and exposure extreme, nor too low where drainage becomes compromised, contributes significantly to the vineyard's ability to produce wines of exceptional quality and consistency.
 
 ## Size
 

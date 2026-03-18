@@ -6,7 +6,7 @@ Clos du Chaigne stands as one of Rully's most distinguished Premier Cru climats,
 
 The climat sits within the broader Rully appellation, which forms part of the Côte Chalonnaise's northern tier alongside Bouzeron, Mercurey, Givry, and Montagny. This positioning places Clos du Chaigne in a transitional zone between the prestigious Côte d'Or to the north and the more expansive vineyard areas of the Mâconnais to the south. The vineyard's elevated position provides commanding views eastward across the Saône Valley toward the Jura Mountains, while being sheltered by the western hills that define the Côte Chalonnaise's characteristic topography.
 
-Geographically, Clos du Chaigne benefits from the same fundamental geological structure that underlies all of Burgundy's great vineyards—the ancient seabed formations that create the region's distinctive limestone-based soils. The climat's position on the mid-slope of Rully's vineyard-covered hillsides places it in the optimal zone for both drainage and sun exposure, characteristics that have contributed to its recognition as a Premier Cru site.
+Geographically, Clos du Chaigne benefits from the same fundamental geological structure that underlies all of Burgundy's great vineyards: the ancient seabed formations that create the region's distinctive limestone-based soils. The climat's position on the mid-slope of Rully's vineyard-covered hillsides places it in the optimal zone for both drainage and sun exposure, characteristics that have contributed to its recognition as a Premier Cru site.
 
 ## Size
 

@@ -12,7 +12,7 @@ The Premier Cru designation of Pointe d'Angles reflects centuries of recognition
 
 Pointe d'Angles encompasses approximately 1.83 hectares (4.52 acres), making it one of the smaller Premier Cru vineyards within Volnay's portfolio of classified sites. This relatively modest size is characteristic of Burgundy's fragmented vineyard landscape, where centuries of inheritance laws and land division have created a patchwork of small, precisely delineated parcels.
 
-The compact nature of Pointe d'Angles contributes significantly to its terroir uniformity, as the entire vineyard experiences similar geological, topographical, and climatic conditions. This consistency allows for a more cohesive expression of site character compared to larger vineyards that might encompass multiple soil types or varied exposures. The limited production from this small surface area—typically yielding between 600-800 cases annually depending on vintage conditions and producer yields—ensures that wines from Pointe d'Angles maintain their exclusivity and terroir-driven character.
+The compact nature of Pointe d'Angles contributes significantly to its terroir uniformity, as the entire vineyard experiences similar geological, topographical, and climatic conditions. This consistency allows for a more cohesive expression of site character compared to larger vineyards that might encompass multiple soil types or varied exposures. The limited production from this small surface area, typically yielding between 600-800 cases annually depending on vintage conditions and producer yields, ensures that wines from Pointe d'Angles maintain their exclusivity and terroir-driven character.
 
 ## Terroir & Geology
 
@@ -54,7 +54,7 @@ Site-specific challenges include managing the shallow soils that can stress vine
 
 ## Wine Character & Style
 
-Wines from Pointe d'Angles exhibit a distinctive aromatic profile that immediately identifies their Volnay origins while displaying unique characteristics attributable to this specific terroir. The aromatic spectrum typically opens with intense red fruit expressions—particularly cherry, raspberry, and cranberry—complemented by subtle floral notes of violet and rose petal that develop with proper cellar aging.
+Wines from Pointe d'Angles exhibit a distinctive aromatic profile that immediately identifies their Volnay origins while displaying unique characteristics attributable to this specific terroir. The aromatic spectrum typically opens with intense red fruit expressions (particularly cherry, raspberry, and cranberry) complemented by subtle floral notes of violet and rose petal that develop with proper cellar aging.
 
 The mineral backbone of Pointe d'Angles wines provides a defining structural element, expressing the limestone-rich terroir through chalky, saline undertones that become more pronounced with bottle age. This minerality integrates seamlessly with the fruit character, creating a sense of place that distinguishes these wines from those produced on different soil types within Volnay.
 

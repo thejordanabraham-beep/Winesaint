@@ -12,7 +12,7 @@ The climat's strategic position on the hillside offers an ideal combination of d
 
 Vaillons holds official Premier Cru status within the Chablis AOC hierarchy, positioning it between the village-level Petit Chablis and Chablis appellations and the prestigious seven Grand Cru vineyards. The climat encompasses several named lieux-dits or sub-parcels, each with distinct characteristics, including Châtains, Sécher, Beugnons, Les Lys, Mélinots, Roncières, and Épinotes. While these individual parcels can be bottled under their own names, they may also be labeled simply as "Vaillons Premier Cru," with Vaillons functioning as the umbrella designation.
 
-This hierarchical structure reflects the French concept of climat—a precisely delineated vineyard parcel with unique geological and climatic conditions that impart distinctive characteristics to the wines produced there.
+This hierarchical structure reflects the French concept of climat: a precisely delineated vineyard parcel with unique geological and climatic conditions that impart distinctive characteristics to the wines produced there.
 
 ### Size and Boundaries
 
@@ -32,7 +32,7 @@ Historical records show continuous viticulture in this area dating back to the m
 
 The geological identity of Vaillons is inseparable from the Kimmeridgian marl that defines premium Chablis terroir. This marine sedimentary rock formation, dating from the Late Jurassic period approximately 150-155 million years ago, consists of clay-limestone marls embedded with countless fossilized oyster shells (*Exogyra virgula*), known locally as "huîtres de Chablis." These ancient marine fossils are so abundant that they create distinctive white flecks throughout the gray-blue marl.
 
-The Kimmeridgian soil in Vaillons typically features a higher proportion of clay than the Grand Cru vineyards, with clay content ranging from 35-45% depending on position within the climat. This slightly higher clay content contributes to Vaillons' characteristic roundness and approachability compared to the more austere mineral signature of some Grand Cru sites. The limestone component provides excellent drainage while the clay offers water retention during dry periods—a critical balance in Chablis' continental climate.
+The Kimmeridgian soil in Vaillons typically features a higher proportion of clay than the Grand Cru vineyards, with clay content ranging from 35-45% depending on position within the climat. This slightly higher clay content contributes to Vaillons' characteristic roundness and approachability compared to the more austere mineral signature of some Grand Cru sites. The limestone component provides excellent drainage while the clay offers water retention during dry periods: a critical balance in Chablis' continental climate.
 
 ### Exposition and Slope
 
@@ -42,7 +42,7 @@ The varied slope gradient creates distinct microzones within Vaillons. The upper
 
 ### Altitude and Drainage
 
-The elevation range of 150-220 meters positions Vaillons in the sweet spot for Chablis viticulture—high enough to benefit from good air circulation and frost drainage, yet not so elevated as to delay ripening significantly. The hillside position ensures natural water drainage, preventing waterlogging while the clay component retains sufficient moisture to sustain the vines through summer dry spells.
+The elevation range of 150-220 meters positions Vaillons in the sweet spot for Chablis viticulture, high enough to benefit from good air circulation and frost drainage, yet not so elevated as to delay ripening significantly. The hillside position ensures natural water drainage, preventing waterlogging while the clay component retains sufficient moisture to sustain the vines through summer dry spells.
 
 This natural drainage is critical in Chablis, where spring rains can be abundant. The gentle to moderate slopes allow water to move through the vineyard without causing erosion, maintaining soil health and structure over time.
 
@@ -50,7 +50,7 @@ This natural drainage is critical in Chablis, where spring rains can be abundant
 
 What distinguishes Vaillons from other Premier Cru sites is its particular balance of clay and limestone, combined with its favorable exposition. While climats like Montée de Tonnerre (with similar southeast exposure) may show more pronounced minerality due to higher limestone content, Vaillons typically expresses a rounder, more immediately accessible character while maintaining the steely backbone that defines quality Chablis.
 
-The fossil content in Vaillons contributes to what many describe as a saline or marine quality in the wines—a subtle iodine-like minerality that connects the wine to its ancient seabed origins. The specific composition of the marl also influences pH and nutrient availability, contributing to Vaillons' characteristic balance between ripeness and acidity.
+The fossil content in Vaillons contributes to what many describe as a saline or marine quality in the wines: a subtle iodine-like minerality that connects the wine to its ancient seabed origins. The specific composition of the marl also influences pH and nutrient availability, contributing to Vaillons' characteristic balance between ripeness and acidity.
 
 ## Climate & Viticulture
 
@@ -60,7 +60,7 @@ Chablis exists at the northern limit of commercial viticulture in France, experi
 
 The Serein River valley creates localized temperature variations, with morning mists that can help moderate temperature swings during the growing season. However, this same moisture can increase frost risk in spring, one of the perpetual challenges facing Chablis vignerons.
 
-Average annual rainfall in the region is approximately 700-750mm, distributed relatively evenly throughout the year. The growing season (April through October) sees average temperatures of 14-16°C, with significant vintage variation. This climate produces wines with naturally high acidity and restrained alcohol levels—hallmarks of classic Chablis style.
+Average annual rainfall in the region is approximately 700-750mm, distributed relatively evenly throughout the year. The growing season (April through October) sees average temperatures of 14-16°C, with significant vintage variation. This climate produces wines with naturally high acidity and restrained alcohol levels, hallmarks of classic Chablis style.
 
 ### Frost Risk and Protection Methods
 
@@ -80,7 +80,7 @@ Vaillons-grown Chardonnay typically ripens to optimal physiological maturity at 
 
 Contemporary viticulture in Vaillons balances tradition with modern precision. Vine density typically ranges from 5,000 to 6,500 vines per hectare, trained on Guyot or Cordon systems. This relatively high density encourages competition among vines, limiting yields and concentrating flavor development.
 
-Leading producers increasingly adopt sustainable or organic practices, minimizing chemical inputs and promoting soil health through cover crops, compost application, and reduced tillage. Canopy management—leaf removal, shoot positioning, and crop thinning—helps ensure optimal sun exposure and air circulation while managing yields.
+Leading producers increasingly adopt sustainable or organic practices, minimizing chemical inputs and promoting soil health through cover crops, compost application, and reduced tillage. Canopy management (leaf removal, shoot positioning, and crop thinning) helps ensure optimal sun exposure and air circulation while managing yields.
 
 Harvest timing is crucial in Vaillons, as in all of Chablis. Producers must balance physiological ripeness (flavor development, seed maturity) with the preservation of acidity. Most quality-focused domaines harvest by hand, allowing selective picking and gentle fruit handling. Yields for Premier Cru are legally limited to 58 hectoliters per hectare, though conscientious producers often restrict yields further to 45-50 hl/ha.
 
@@ -88,9 +88,9 @@ Harvest timing is crucial in Vaillons, as in all of Chablis. Producers must bala
 
 ### Typical Flavor Profiles and Aromas
 
-Vaillons Premier Cru expresses a distinctive aromatic and flavor profile that sits between the mineral austerity of some Grand Cru sites and the fruit-forward character of certain village-level Chablis. The wines typically exhibit a core of citrus fruit—lemon, lime, and green apple—with white floral notes (acacia, white flowers) and subtle stone fruit hints (white peach, apricot) in riper vintages.
+Vaillons Premier Cru expresses a distinctive aromatic and flavor profile that sits between the mineral austerity of some Grand Cru sites and the fruit-forward character of certain village-level Chablis. The wines typically exhibit a core of citrus fruit (lemon, lime, and green apple) with white floral notes (acacia, white flowers) and subtle stone fruit hints (white peach, apricot) in riper vintages.
 
-The signature characteristic of Vaillons is its minerality, often described as wet stone, chalk, oyster shell, or sea spray. This saline-mineral backbone provides structure and definition while remaining approachable and integrated rather than aggressively austere. Herbal notes—fresh hay, chamomile, anise—frequently appear, along with subtle nutty qualities that develop with bottle age.
+The signature characteristic of Vaillons is its minerality, often described as wet stone, chalk, oyster shell, or sea spray. This saline-mineral backbone provides structure and definition while remaining approachable and integrated rather than aggressively austere. Herbal notes (fresh hay, chamomile, anise) frequently appear, along with subtle nutty qualities that develop with bottle age.
 
 The palate displays medium to medium-plus body with penetrating acidity that provides energy and length. The texture is notably refined, with a silky quality that distinguishes it from more angular expressions. The finish typically shows excellent length, with mineral and citrus notes persisting and evolving.
 
@@ -100,7 +100,7 @@ Within the Premier Cru hierarchy, Vaillons occupies a middle ground. Compared to
 
 Montmains, Vaillons' neighbor to the north, often shows more restraint and austerity, while climats like Beauroy can be fuller and richer. Vaucoupin, a smaller climat known for exceptional quality, frequently exceeds Vaillons in intensity and aging potential, though Vaillons offers more consistency across producers due to its larger size and varied holdings.
 
-The beauty of Vaillons lies in its accessibility without sacrifice of complexity—it offers genuine Premier Cru character at a slightly more approachable level than the most austere sites.
+The beauty of Vaillons lies in its accessibility without sacrifice of complexity, it offers genuine Premier Cru character at a slightly more approachable level than the most austere sites.
 
 ### Minerality, Acidity, and Body Characteristics
 
@@ -108,13 +108,13 @@ The minerality in Vaillons is persistent but not dominating, allowing fruit and 
 
 Acidity in Vaillons typically measures 6-8 g/L total acidity with pH around 3.0-3.3, providing structure and freshness without harsh tartness. This acid framework enables aging while maintaining immediate drinkability.
 
-Body falls in the medium range, with alcohol typically 12.5-13.5%—restrained by New World standards but providing sufficient weight to balance the acidity. The texture shows notable refinement, combining energy with a creamy quality that develops with barrel aging or extended lees contact.
+Body falls in the medium range, with alcohol typically 12.5-13.5%, restrained by New World standards but providing sufficient weight to balance the acidity. The texture shows notable refinement, combining energy with a creamy quality that develops with barrel aging or extended lees contact.
 
 ### How Terroir Shapes the Wine
 
 Every element of Vaillons' terroir contributes to the wine's character. The Kimmeridgian marl provides the mineral signature and pH balance that defines Chablis identity. The clay content adds texture and body. The fossil content may contribute to the saline quality. The southeast exposition ensures adequate ripeness without excessive alcohol. The elevation provides diurnal temperature variation that preserves acidity while developing aromatic complexity.
 
-This terroir expression is most transparent in wines vinified with minimal intervention—stainless steel or neutral oak, natural yeasts, and minimal sulfur—allowing the site characteristics to speak clearly.
+This terroir expression is most transparent in wines vinified with minimal intervention (stainless steel or neutral oak, natural yeasts, and minimal sulfur) allowing the site characteristics to speak clearly.
 
 ## Aging & Evolution
 
@@ -128,9 +128,9 @@ The aging potential derives from the wine's structural components: high acidity,
 
 Young Vaillons (1-3 years) typically emphasizes primary fruit and floral aromas with pronounced minerality and vibrant acidity. The wine may seem somewhat closed or tight, particularly in cooler vintages or with more restrained winemaking.
 
-In the medium term (4-8 years), Vaillons develops secondary characteristics—honey, beeswax, hazelnuts, and dried flowers—while maintaining citrus fruit core. The minerality becomes more integrated, and the texture gains complexity. This period often represents optimal drinking for many examples.
+In the medium term (4-8 years), Vaillons develops secondary characteristics (honey, beeswax, hazelnuts, and dried flowers) while maintaining citrus fruit core. The minerality becomes more integrated, and the texture gains complexity. This period often represents optimal drinking for many examples.
 
-With extended aging (10+ years), tertiary notes emerge—petrol, mushroom, truffle, brown butter, and spice—alongside evolved citrus (candied lemon, marmalade). The color deepens from pale green-gold to rich gold. The acidity remains vibrant but better integrated, and the overall impression becomes more harmonious and complex.
+With extended aging (10+ years), tertiary notes emerge (petrol, mushroom, truffle, brown butter, and spice) alongside evolved citrus (candied lemon, marmalade). The color deepens from pale green-gold to rich gold. The acidity remains vibrant but better integrated, and the overall impression becomes more harmonious and complex.
 
 ### Optimal Drinking Windows
 
@@ -150,7 +150,7 @@ Vintage variation in Chablis can be significant due to the marginal climate. Rec
 - **2020**: Concentrated, ripe, approachable with good structure
 - **2018**: Warm vintage producing generous wines with forward fruit
 - **2017**: Frost-reduced vintage with concentrated, structured wines
-- **2014**: Classic Chablis—mineral, tense, age-worthy
+- **2014**: Classic Chablis, mineral, tense, age-worthy
 - **2010**: Outstanding vintage combining ripeness with structure
 
 Challenging vintages (excessive rain, cold, or frost) may produce lighter wines or reduced quantities, but quality producers still craft compelling Vaillons.
@@ -198,7 +198,7 @@ Most quality producers use indigenous yeasts, minimal intervention, and judiciou
 
 ### Classic Pairings
 
-Vaillons' combination of minerality, acidity, and medium body makes it exceptionally versatile with food. The classic pairing remains **oysters**, particularly Gillardeau, Marennes-Oléron, or other minerally oysters—the wine's saline quality and bright acidity complement the oysters' brininess perfectly.
+Vaillons' combination of minerality, acidity, and medium body makes it exceptionally versatile with food. The classic pairing remains **oysters**, particularly Gillardeau, Marennes-Oléron, or other minerally oysters: the wine's saline quality and bright acidity complement the oysters' brininess perfectly.
 
 **Seafood preparations** showcase Vaillons beautifully:
 - Simply prepared fish (sole, turbot, halibut) with butter or light cream sauce
@@ -242,8 +242,8 @@ Remove the bottle from a standard refrigerator (4-6°C) about 20-30 minutes befo
 
 **Aged Vaillons (10+ years)**: Handle gently. If there is significant sediment, careful decanting is appropriate, but avoid prolonged air exposure which can fatigue old wines. Stand the bottle upright for 24 hours before serving to settle sediment.
 
-**Glassware**: Use a medium-sized white wine glass with a tulip shape—large enough to collect aromatics but not so large as to over-aerate the wine. Quality Burgundy or Chardonnay stems work excellently.
+**Glassware**: Use a medium-sized white wine glass with a tulip shape, large enough to collect aromatics but not so large as to over-aerate the wine. Quality Burgundy or Chardonnay stems work excellently.
 
 ---
 
-Vaillons Premier Cru represents Chablis at its most approachable yet still complex—a climat that embodies the region's essential character while remaining accessible to enthusiasts at various stages of their wine journey. Its combination of favorable exposition, classical Kimmeridgian terroir, and substantial size ensures consistency and availability that make it a cornerstone of Premier Cru Chablis. Whether enjoyed young with fresh oysters or aged with more complex preparations, Vaillons offers a compelling expression of place that captures both the minerality and elegance that have made Chablis celebrated for centuries.
+Vaillons Premier Cru represents Chablis at its most approachable yet still complex: a climat that embodies the region's essential character while remaining accessible to enthusiasts at various stages of their wine journey. Its combination of favorable exposition, classical Kimmeridgian terroir, and substantial size ensures consistency and availability that make it a cornerstone of Premier Cru Chablis. Whether enjoyed young with fresh oysters or aged with more complex preparations, Vaillons offers a compelling expression of place that captures both the minerality and elegance that have made Chablis celebrated for centuries.

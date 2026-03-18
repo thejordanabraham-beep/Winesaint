@@ -6,9 +6,9 @@ The answer lies in a confluence of geological accidents and viticultural wisdom 
 
 ## Geography: A Thermal Corridor with Guardrails
 
-Dry Creek Valley runs northwest to southeast for approximately 26 kilometers (16 miles), never exceeding 3 kilometers (2 miles) in width. This is not a subtle distinction. The valley's narrowness creates a natural wind tunnel that channels marine air from San Pablo Bay through the Russian River corridor, then northward along Dry Creek itself—a small tributary that flows south from Warm Springs Dam and Lake Sonoma.
+Dry Creek Valley runs northwest to southeast for approximately 26 kilometers (16 miles), never exceeding 3 kilometers (2 miles) in width. This is not a subtle distinction. The valley's narrowness creates a natural wind tunnel that channels marine air from San Pablo Bay through the Russian River corridor, then northward along Dry Creek itself: a small tributary that flows south from Warm Springs Dam and Lake Sonoma.
 
-The valley sits west of Alexander Valley, separated by a ridgeline that effectively blocks the latter's more extreme heat. To the west, the Coastal Range provides shelter from direct Pacific influence while still permitting fog penetration on cooler nights. This creates a microclimate that's warm enough to ripen Zinfandel fully but cool enough to preserve acidity—a balance that eluded many California regions during the high-alcohol era of the 1990s and 2000s.
+The valley sits west of Alexander Valley, separated by a ridgeline that effectively blocks the latter's more extreme heat. To the west, the Coastal Range provides shelter from direct Pacific influence while still permitting fog penetration on cooler nights. This creates a microclimate that's warm enough to ripen Zinfandel fully but cool enough to preserve acidity: a balance that eluded many California regions during the high-alcohol era of the 1990s and 2000s.
 
 Elevations range from approximately 30 meters (100 feet) on the valley floor to 450 meters (1,475 feet) in the Mayacamas foothills to the east. The diurnal temperature swing regularly exceeds 20°C (36°F) during the growing season, with nights frequently dipping below 10°C (50°F) even when daytime temperatures soar.
 
@@ -16,7 +16,7 @@ Elevations range from approximately 30 meters (100 feet) on the valley floor to 
 
 The conventional wisdom in premium California viticulture holds that hillside vineyards produce superior wines to valley floor plantings. Dry Creek Valley challenges this assumption.
 
-The valley floor consists primarily of gravel and sandy loam deposited by millennia of alluvial action from Dry Creek itself. These soils drain exceptionally well despite their low elevation—a crucial factor in preventing excessive vine vigor. The gravel content, in particular, absorbs and radiates heat during the day while cooling rapidly at night, contributing to the region's dramatic diurnal shifts.
+The valley floor consists primarily of gravel and sandy loam deposited by millennia of alluvial action from Dry Creek itself. These soils drain exceptionally well despite their low elevation: a crucial factor in preventing excessive vine vigor. The gravel content, in particular, absorbs and radiates heat during the day while cooling rapidly at night, contributing to the region's dramatic diurnal shifts.
 
 The benchlands and hillsides tell a different geological story. Here, soils turn redder and rockier, dominated by iron-rich volcanic material weathered from ancient Franciscan formation rocks. Drainage is even more pronounced, and vine stress increases accordingly. Yet unlike in Alexander Valley, where bench and hillside sites command clear quality premiums, Dry Creek Valley produces excellent wines from both topographies.
 
@@ -26,11 +26,11 @@ Why? The answer likely relates to water availability and vine age. Many of the v
 
 Dry Creek Valley's viticultural history begins in earnest in the 1870s. By 1881, the valley supported nearly 365 hectares (900 acres) of vines, planted primarily by German, French, Irish, and English settlers. An 1878 review in the Healdsburg Enterprise praised wines from Bloch and Colson, noting they had "finer flavor than from almost any other winery in the country" with "none of the bitter taste found in many wines."
 
-Then phylloxera arrived in the early 1880s, devastating the young wine industry. The replanting that followed coincided with a wave of Italian immigration around the turn of the century. These Italian families—names like Rafanelli, Pedroncelli, and Seghesio—made a fateful choice: they replanted primarily to Zinfandel, grafted onto St. George rootstock.
+Then phylloxera arrived in the early 1880s, devastating the young wine industry. The replanting that followed coincided with a wave of Italian immigration around the turn of the century. These Italian families (names like Rafanelli, Pedroncelli, and Seghesio) made a fateful choice: they replanted primarily to Zinfandel, grafted onto St. George rootstock.
 
 This decision would define the region for the next 140 years. Zinfandel, a Croatian variety (Crljenak Kaštelanski) that had found its way to California via Austrian nurseries, thrived in Dry Creek's warm days and cool nights. The St. George rootstock, meanwhile, proved remarkably long-lived, with many vines from the 1900-1920 era still in production today.
 
-Prohibition nearly ended this legacy. By 1933, only two wineries remained operational in Dry Creek Valley. Many vineyards were converted to prunes and other fruit crops. Others survived by selling grapes to home winemakers—a gray market that kept vines in the ground but brought no recognition to the region.
+Prohibition nearly ended this legacy. By 1933, only two wineries remained operational in Dry Creek Valley. Many vineyards were converted to prunes and other fruit crops. Others survived by selling grapes to home winemakers: a gray market that kept vines in the ground but brought no recognition to the region.
 
 ## The Modern Era: Stare, Sauvignon Blanc, and the 1983 AVA
 
@@ -38,7 +38,7 @@ Dry Creek Valley's modern wine industry begins with a single decision in 1972: D
 
 First, he championed the term "old vine" on his Zinfandel labels, helping commercialize what had been merely a viticultural curiosity. This marketing move gave economic value to the ancient vines that Italian families had maintained through decades of low prices and uncertain markets.
 
-Second—and more surprisingly—Stare positioned Dry Creek Valley as prime Sauvignon Blanc territory. He named his version Fumé Blanc, following Robert Mondavi's successful rebranding strategy in Napa. This was counterintuitive: Dry Creek Valley is warm, and Sauvignon Blanc is typically associated with cool climates. Yet the combination of warm days (for physiological ripeness and tropical fruit character) and cool nights (for acidity retention) produced Sauvignon Blancs with unusual depth and aging potential.
+Second, and more surprisingly. Stare positioned Dry Creek Valley as prime Sauvignon Blanc territory. He named his version Fumé Blanc, following Robert Mondavi's successful rebranding strategy in Napa. This was counterintuitive: Dry Creek Valley is warm, and Sauvignon Blanc is typically associated with cool climates. Yet the combination of warm days (for physiological ripeness and tropical fruit character) and cool nights (for acidity retention) produced Sauvignon Blancs with unusual depth and aging potential.
 
 Other wineries followed in the 1970s: Lambert Bridge, A. Rafanelli, and Lytton Springs, the latter acquired by Ridge Vineyards in 1991. Ridge's involvement brought international attention and technical rigor to Dry Creek Zinfandel, demonstrating that the variety could produce age-worthy wines of genuine complexity.
 
@@ -46,7 +46,7 @@ The AVA designation arrived in 1983, formalizing boundaries that winemakers had 
 
 ## The Zinfandel Question: Why Dry Creek Avoids the Jam Trap
 
-Dry Creek Valley Zinfandel is often characterized as jammy, with wines frequently reaching 15-16% alcohol or higher. This reputation is not entirely unearned—the region can produce overripe, Port-like wines when growers chase maximum ripeness.
+Dry Creek Valley Zinfandel is often characterized as jammy, with wines frequently reaching 15-16% alcohol or higher. This reputation is not entirely unearned: the region can produce overripe, Port-like wines when growers chase maximum ripeness.
 
 Yet the best examples avoid this trap through a combination of site selection, vine age, and picking decisions.
 
@@ -58,7 +58,7 @@ Yet the best examples avoid this trap through a combination of site selection, v
 
 **Picking Timing**: The best producers pick based on tannin ripeness and flavor development rather than sugar accumulation alone. This often means harvesting at 24-25° Brix rather than waiting for 26-27°, accepting slightly lower alcohol in exchange for better balance.
 
-Ridge's Lytton Springs bottling exemplifies this approach. Despite coming from one of the warmest sites in the appellation, it typically shows 14.5-15% alcohol—high by European standards but restrained for Dry Creek—with vibrant acidity and 20+ year aging potential.
+Ridge's Lytton Springs bottling exemplifies this approach. Despite coming from one of the warmest sites in the appellation, it typically shows 14.5-15% alcohol (high by European standards but restrained for Dry Creek) with vibrant acidity and 20+ year aging potential.
 
 ## Beyond Zinfandel: Sauvignon Blanc and the Diversity Question
 
@@ -66,7 +66,7 @@ Dry Creek Valley's reputation rests on Zinfandel, but the region's most interest
 
 The variety occupies a significant minority of plantings, concentrated on the valley floor where cooler air settles at night. The resulting wines split the difference between Loire Valley minerality and New Zealand tropical exuberance: ripe melon and citrus fruit supported by crisp acidity and, in the best examples, a stony, almost flinty character.
 
-Dry Creek Vineyard remains the benchmark, producing Fumé Blanc with enough structure to improve for 3-5 years in bottle—unusual for California Sauvignon Blanc. The key is picking at moderate ripeness (typically 21-22° Brix) and using a combination of stainless steel and neutral oak to add texture without overwhelming the fruit.
+Dry Creek Vineyard remains the benchmark, producing Fumé Blanc with enough structure to improve for 3-5 years in bottle, unusual for California Sauvignon Blanc. The key is picking at moderate ripeness (typically 21-22° Brix) and using a combination of stainless steel and neutral oak to add texture without overwhelming the fruit.
 
 Other varieties struggle to find identity here. Cabernet Sauvignon is grown, particularly at higher elevations in the Mayacamas foothills, but it rarely achieves the distinction of neighboring Alexander Valley examples. The wines are ripe and full-bodied but often lack aromatic complexity. Syrah shows more promise, particularly from hillside sites with volcanic soils, though plantings remain limited.
 
@@ -117,7 +117,7 @@ The 2019 vintage may be the finest of the past decade: cool growing season, mode
 
 ## Food Pairing: Beyond BBQ
 
-Dry Creek Zinfandel is often relegated to barbecue duty—a disservice to wines of genuine complexity. Better pairings include:
+Dry Creek Zinfandel is often relegated to barbecue duty: a disservice to wines of genuine complexity. Better pairings include:
 
 **For Old-Vine Zinfandel**:
 - Braised short ribs with porcini and polenta
@@ -145,7 +145,7 @@ The region's long history suggests adaptability. After all, this is an appellati
 
 ## Conclusion: The Case for Specificity
 
-Dry Creek Valley demonstrates that California can produce wines of place, not just wines of variety. The best Dry Creek Zinfandels don't just taste like Zinfandel—they taste like *Dry Creek* Zinfandel, with a distinctive combination of ripe fruit, savory complexity, and structural integrity that sets them apart from Russian River, Paso Robles, or Amador County examples.
+Dry Creek Valley demonstrates that California can produce wines of place, not just wines of variety. The best Dry Creek Zinfandels don't just taste like Zinfandel, they taste like *Dry Creek* Zinfandel, with a distinctive combination of ripe fruit, savory complexity, and structural integrity that sets them apart from Russian River, Paso Robles, or Amador County examples.
 
 This specificity comes from the interplay of geology, climate, vine age, and human decisions accumulated over 14 decades. It cannot be replicated elsewhere, which is precisely what makes it valuable.
 

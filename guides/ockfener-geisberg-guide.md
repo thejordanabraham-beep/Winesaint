@@ -1,10 +1,10 @@
 # Ockfener Geisberg: The Saar's Steepest Riesling Challenge
 
-The Ockfener Geisberg stands among the Saar Valley's most dramatic vineyard sites—a steep, south-facing slope that produces Riesling of piercing minerality and remarkable aging potential. This is not gentle terrain. The vineyard's incline demands hand-harvesting and constant vigilance against erosion, but the reward is wine of uncommon precision.
+The Ockfener Geisberg stands among the Saar Valley's most dramatic vineyard sites: a steep, south-facing slope that produces Riesling of piercing minerality and remarkable aging potential. This is not gentle terrain. The vineyard's incline demands hand-harvesting and constant vigilance against erosion, but the reward is wine of uncommon precision.
 
 ## Geography and Exposure
 
-Geisberg translates to "goat mountain," a name that accurately describes the vineyard's severe gradient. The site rises sharply above the village of Ockfen, positioned to capture maximum sunlight exposure—critical in the Saar's marginal climate. The south-facing aspect provides protection from cold northern winds while extending the growing season by several crucial weeks compared to less favorably situated sites.
+Geisberg translates to "goat mountain," a name that accurately describes the vineyard's severe gradient. The site rises sharply above the village of Ockfen, positioned to capture maximum sunlight exposure, critical in the Saar's marginal climate. The south-facing aspect provides protection from cold northern winds while extending the growing season by several crucial weeks compared to less favorably situated sites.
 
 The Saar represents the coolest sector of the Mosel wine region, with temperatures averaging 1-2°C lower than the Middle Mosel. This temperature differential becomes significant during ripening. In warmer vintages, Geisberg's wines achieve physiological ripeness while retaining the high natural acidity that defines great Saar Riesling. In cooler years, the site's superior exposure separates it from lesser vineyards that struggle to ripen adequately.
 
@@ -12,11 +12,11 @@ The Saar represents the coolest sector of the Mosel wine region, with temperatur
 
 The Geisberg's soil composition centers on gray and blue Devonian slate, formed approximately 400 million years ago. This is the same geological foundation found throughout the premium sites of the Mosel, but Geisberg contains notably higher iron content in its slate layers. Some viticulturists attribute the wine's distinctive steely character to this iron presence, though the direct correlation remains debated.
 
-The slate performs several viticultural functions: heat retention during cool nights, excellent drainage preventing waterlogged roots, and forcing vines to root deeply for water and nutrients. The shallow topsoil—rarely exceeding 30-40 centimeters before hitting bedrock—stresses the vines naturally, concentrating flavors without requiring aggressive canopy management.
+The slate performs several viticultural functions: heat retention during cool nights, excellent drainage preventing waterlogged roots, and forcing vines to root deeply for water and nutrients. The shallow topsoil (rarely exceeding 30-40 centimeters before hitting bedrock) stresses the vines naturally, concentrating flavors without requiring aggressive canopy management.
 
 ## Wine Characteristics: Precision Over Power
 
-Geisberg Rieslings display a characteristic austerity in youth. The wines typically show citrus peel, white peach, and pronounced wet stone minerality. The acidity is bracing—often measuring 8-9 grams per liter total acidity—providing a skeletal framework that requires years to flesh out.
+Geisberg Rieslings display a characteristic austerity in youth. The wines typically show citrus peel, white peach, and pronounced wet stone minerality. The acidity is bracing (often measuring 8-9 grams per liter total acidity) providing a skeletal framework that requires years to flesh out.
 
 This is not immediately gratifying wine. Geisberg demands patience. The best examples need 8-10 years to integrate their components, developing complex tertiary notes of petrol, beeswax, and dried herbs while the acid backbone softens to reveal underlying fruit concentration. In exceptional vintages, these wines can age for 20-30 years or longer.
 

@@ -2,63 +2,63 @@
 
 Nelson sits at the top of New Zealand's South Island, a compact viticultural pocket where the country's craft beer culture meets its most artisan-minded winemakers. This is not a region defined by volume or international fame. Instead, Nelson represents something rarer: a small, climatically privileged zone where producers have largely rejected the commercial imperatives that shaped Marlborough next door, opting instead for diversity, experimentation, and wines of genuine regional character.
 
-The numbers tell part of the story. Nelson accounts for less than 2% of New Zealand's total vineyard area—roughly 950 hectares compared to Marlborough's 26,000-plus. But this modest scale masks considerable ambition. While Marlborough built an empire on Sauvignon Blanc monoculture, Nelson's growers planted everything: Pinot Noir and Chardonnay, yes, but also Riesling, Pinot Gris, Grüner Veltliner, Albariño, even Montepulciano. The region claims the country's most diverse plantings, a viticultural hedge against both market forces and climatic uncertainty.
+The numbers tell part of the story. Nelson accounts for less than 2% of New Zealand's total vineyard area, roughly 950 hectares compared to Marlborough's 26,000-plus. But this modest scale masks considerable ambition. While Marlborough built an empire on Sauvignon Blanc monoculture, Nelson's growers planted everything: Pinot Noir and Chardonnay, yes, but also Riesling, Pinot Gris, Grüner Veltliner, Albariño, even Montepulciano. The region claims the country's most diverse plantings, a viticultural hedge against both market forces and climatic uncertainty.
 
-Geography explains much of this character. Nelson occupies a transitional position—warmer and sunnier than Marlborough, cooler and more maritime than Central Otago. The region wraps around Tasman Bay, with vineyards scattered across valleys and hillsides rather than concentrated on vast plains. This fragmentation has prevented the industrial consolidation that transformed other New Zealand regions. Most producers here farm fewer than 10 hectares. Many work alone or with family. The result feels more European than Antipodean: small estates, hands-on viticulture, wines that speak of specific sites rather than regional branding.
+Geography explains much of this character. Nelson occupies a transitional position, warmer and sunnier than Marlborough, cooler and more maritime than Central Otago. The region wraps around Tasman Bay, with vineyards scattered across valleys and hillsides rather than concentrated on vast plains. This fragmentation has prevented the industrial consolidation that transformed other New Zealand regions. Most producers here farm fewer than 10 hectares. Many work alone or with family. The result feels more European than Antipodean: small estates, hands-on viticulture, wines that speak of specific sites rather than regional branding.
 
 ## GEOLOGY: An Alluvial Mosaic on Ancient Basement
 
-Nelson's geological story begins, like much of New Zealand, with the collision of tectonic plates and the subsequent erosion of young mountains. The region sits on the northern edge of the South Island, where the Tasman Mountains—part of the Southern Alps system—descend toward the coast. Unlike the Wairau Valley in Marlborough, which formed as a major river system deposited gravels across a broad floodplain, Nelson's vineyard sites occupy smaller, more localized valleys where individual streams and rivers have laid down their own distinct alluvial patterns.
+Nelson's geological story begins, like much of New Zealand, with the collision of tectonic plates and the subsequent erosion of young mountains. The region sits on the northern edge of the South Island, where the Tasman Mountains (part of the Southern Alps system) descend toward the coast. Unlike the Wairau Valley in Marlborough, which formed as a major river system deposited gravels across a broad floodplain, Nelson's vineyard sites occupy smaller, more localized valleys where individual streams and rivers have laid down their own distinct alluvial patterns.
 
-The basement rock throughout the region consists primarily of Paleozoic and Mesozoic sedimentary sequences—greywacke, schist, and argillite—that form the Tasman Mountains. These rocks, ranging from 200 to 400 million years old, have weathered over millennia to produce clay-rich soils in some areas. But the soils that matter most for viticulture are younger, formed during the Quaternary period (the last 2.6 million years) through cycles of glaciation, river deposition, and coastal processes.
+The basement rock throughout the region consists primarily of Paleozoic and Mesozoic sedimentary sequences (greywacke, schist, and argillite) that form the Tasman Mountains. These rocks, ranging from 200 to 400 million years old, have weathered over millennia to produce clay-rich soils in some areas. But the soils that matter most for viticulture are younger, formed during the Quaternary period (the last 2.6 million years) through cycles of glaciation, river deposition, and coastal processes.
 
 ### The Waimea Plains and Moutere Hills
 
-The two principal viticultural zones demonstrate this geological diversity clearly. The Waimea Plains, stretching south and west from Nelson city, sit on relatively recent alluvial deposits—gravels, sands, and silts brought down by the Waimea River and its tributaries over the last 10,000 years. These soils tend toward free-draining gravels in some sites, heavier silt-loams in others. Water-holding capacity varies considerably across short distances, making site selection critical.
+The two principal viticultural zones demonstrate this geological diversity clearly. The Waimea Plains, stretching south and west from Nelson city, sit on relatively recent alluvial deposits, gravels, sands, and silts brought down by the Waimea River and its tributaries over the last 10,000 years. These soils tend toward free-draining gravels in some sites, heavier silt-loams in others. Water-holding capacity varies considerably across short distances, making site selection critical.
 
-The Moutere Hills, by contrast, occupy an elevated plateau to the southwest, rising 200-300 meters above sea level. Here the dominant soil type is the Moutere Gravel—a distinctive formation of clay-bound gravels and sands that geologists classify as part of the Moutere Depression sequence. These deposits, laid down between 1 and 3 million years ago, have since been uplifted and dissected by erosion. The Moutere Gravel presents a paradox: it drains freely due to its gravel content, yet the clay binder holds sufficient water to sustain vines through dry periods. This balance makes the Moutere Hills particularly suited to quality viticulture, though the clay component can create vigor management challenges in wet years.
+The Moutere Hills, by contrast, occupy an elevated plateau to the southwest, rising 200-300 meters above sea level. Here the dominant soil type is the Moutere Gravel: a distinctive formation of clay-bound gravels and sands that geologists classify as part of the Moutere Depression sequence. These deposits, laid down between 1 and 3 million years ago, have since been uplifted and dissected by erosion. The Moutere Gravel presents a paradox: it drains freely due to its gravel content, yet the clay binder holds sufficient water to sustain vines through dry periods. This balance makes the Moutere Hills particularly suited to quality viticulture, though the clay component can create vigor management challenges in wet years.
 
 ### Comparative Context: Nelson vs. Marlborough
 
-The contrast with Marlborough's geology is instructive. In the Wairau Valley, approximately 80% of vineyard soils consist of young, stony alluvium deposited by the Wairau River—extremely free-draining gravels with minimal clay content and low water-holding capacity. Irrigation is essentially mandatory. Nelson's soils, by comparison, show greater clay influence and better natural water retention. This means Nelson vineyards can often be dry-farmed, or require only supplemental irrigation during extreme drought.
+The contrast with Marlborough's geology is instructive. In the Wairau Valley, approximately 80% of vineyard soils consist of young, stony alluvium deposited by the Wairau River, extremely free-draining gravels with minimal clay content and low water-holding capacity. Irrigation is essentially mandatory. Nelson's soils, by comparison, show greater clay influence and better natural water retention. This means Nelson vineyards can often be dry-farmed, or require only supplemental irrigation during extreme drought.
 
-The Moutere Gravel, in particular, has no direct equivalent in Marlborough. Its combination of drainage and water retention creates growing conditions that allow for slower, more even ripening—critical for varieties like Pinot Noir and Chardonnay that benefit from extended hang time. The clay component also contributes to wines with greater textural weight and structural complexity compared to the leaner, more aromatic profiles typical of Marlborough's gravel sites.
+The Moutere Gravel, in particular, has no direct equivalent in Marlborough. Its combination of drainage and water retention creates growing conditions that allow for slower, more even ripening, critical for varieties like Pinot Noir and Chardonnay that benefit from extended hang time. The clay component also contributes to wines with greater textural weight and structural complexity compared to the leaner, more aromatic profiles typical of Marlborough's gravel sites.
 
-In the upper Moutere area, some vineyards sit on older, more weathered soils with higher clay content—closer to true clay-loams. These sites produce wines with more obvious structure and tannin, particularly in red varieties. Lower-lying areas near the coast feature younger alluvial soils with more sand and silt, yielding wines with brighter aromatics and less phenolic grip.
+In the upper Moutere area, some vineyards sit on older, more weathered soils with higher clay content, closer to true clay-loams. These sites produce wines with more obvious structure and tannin, particularly in red varieties. Lower-lying areas near the coast feature younger alluvial soils with more sand and silt, yielding wines with brighter aromatics and less phenolic grip.
 
 ## CLIMATE: The Sunshine Region with a Maritime Brake
 
-Nelson markets itself as New Zealand's "sunshine capital," recording approximately 2,400-2,500 hours of sunshine annually—comparable to Hawke's Bay and significantly more than Marlborough's 2,350 hours. But sunshine hours alone don't tell the climate story. Nelson's position on Tasman Bay creates a maritime influence that moderates temperatures and introduces complexity to an otherwise warm, sunny growing season.
+Nelson markets itself as New Zealand's "sunshine capital," recording approximately 2,400-2,500 hours of sunshine annually, comparable to Hawke's Bay and significantly more than Marlborough's 2,350 hours. But sunshine hours alone don't tell the climate story. Nelson's position on Tasman Bay creates a maritime influence that moderates temperatures and introduces complexity to an otherwise warm, sunny growing season.
 
 ### Temperature and Growing Season
 
 Growing season temperatures (October to April in the Southern Hemisphere) average 16.5-17.5°C across most vineyard sites, placing Nelson squarely in the "moderate" climate category using standard viticultural classifications. This is warmer than Marlborough (approximately 15.5-16.5°C) but cooler than Hawke's Bay (17.5-18.5°C). Growing degree days typically range from 1,200 to 1,350 (Celsius-based), sufficient for reliable ripening of early to mid-season varieties.
 
-The frost-free period generally runs from mid-October through late April—roughly 190-200 days. Spring frost poses a real threat, particularly in valley-floor sites where cold air pools. The 2019 season, which saw three consecutive nights of frost in early October across much of the South Island, affected Nelson less severely than Central Otago, but producers on valley floors still lost significant portions of their crop. Hillside sites in the Moutere Hills typically escape the worst frost damage due to better air drainage.
+The frost-free period generally runs from mid-October through late April, roughly 190-200 days. Spring frost poses a real threat, particularly in valley-floor sites where cold air pools. The 2019 season, which saw three consecutive nights of frost in early October across much of the South Island, affected Nelson less severely than Central Otago, but producers on valley floors still lost significant portions of their crop. Hillside sites in the Moutere Hills typically escape the worst frost damage due to better air drainage.
 
 ### Rainfall and Maritime Influence
 
-Annual rainfall varies considerably across the region's small geography. Nelson city and the coastal Waimea Plains receive approximately 900-1,000mm annually—similar to Marlborough's 650-700mm but distributed differently through the year. The Moutere Hills and inland valleys receive 1,100-1,300mm, with some elevated sites approaching 1,500mm in wet years.
+Annual rainfall varies considerably across the region's small geography. Nelson city and the coastal Waimea Plains receive approximately 900-1,000mm annually, similar to Marlborough's 650-700mm but distributed differently through the year. The Moutere Hills and inland valleys receive 1,100-1,300mm, with some elevated sites approaching 1,500mm in wet years.
 
-Critically, Nelson receives more summer rainfall than Marlborough. Where the Wairau Valley often experiences 60-80 day periods without measurable precipitation during January and February, Nelson typically sees periodic rain events throughout summer. This reduces water stress but increases disease pressure, particularly botrytis and powdery mildew. Canopy management becomes crucial—open canopies, careful leaf removal, and organic or biodynamic spray regimens dominate quality-focused viticulture here.
+Critically, Nelson receives more summer rainfall than Marlborough. Where the Wairau Valley often experiences 60-80 day periods without measurable precipitation during January and February, Nelson typically sees periodic rain events throughout summer. This reduces water stress but increases disease pressure, particularly botrytis and powdery mildew. Canopy management becomes crucial, open canopies, careful leaf removal, and organic or biodynamic spray regimens dominate quality-focused viticulture here.
 
-The maritime influence manifests in several ways. Sea breezes from Tasman Bay moderate afternoon temperatures during heat events, preventing the extreme spikes that can shut down photosynthesis. Diurnal temperature ranges average 10-12°C during ripening—narrower than Central Otago's 15-18°C but wider than Marlborough's 8-10°C. This provides sufficient cool-down at night to preserve acidity while allowing steady flavor development during warm days.
+The maritime influence manifests in several ways. Sea breezes from Tasman Bay moderate afternoon temperatures during heat events, preventing the extreme spikes that can shut down photosynthesis. Diurnal temperature ranges average 10-12°C during ripening, narrower than Central Otago's 15-18°C but wider than Marlborough's 8-10°C. This provides sufficient cool-down at night to preserve acidity while allowing steady flavor development during warm days.
 
-Wind presents both opportunity and challenge. The region lacks Marlborough's fierce nor'westers, but sea breezes can be strong enough to damage young shoots and flowers during spring. Most vineyards employ some form of shelter—hedgerows, tree belts, or natural topographic protection.
+Wind presents both opportunity and challenge. The region lacks Marlborough's fierce nor'westers, but sea breezes can be strong enough to damage young shoots and flowers during spring. Most vineyards employ some form of shelter, hedgerows, tree belts, or natural topographic protection.
 
 ### Climate Change Impacts
 
 Like all New Zealand regions, Nelson faces climate uncertainty. Average temperatures have risen approximately 0.8-1.0°C over the past 40 years, with warming most pronounced in spring and autumn. This extends the growing season and improves ripening reliability for later varieties, but it also increases the frequency of extreme weather events.
 
-Harvest dates have shifted earlier by 10-14 days since the 1990s. Varieties that once struggled to ripen—Syrah, Tempranillo, even some Italian varieties—now achieve full phenolic maturity in most years. But the shift brings complications. Earlier harvests mean ripening occurs during hotter periods, potentially leading to rapid sugar accumulation before flavor development completes. Some producers report challenges maintaining natural acidity in Chardonnay and Pinot Gris, varieties that once benefited from Nelson's moderate warmth.
+Harvest dates have shifted earlier by 10-14 days since the 1990s. Varieties that once struggled to ripen (Syrah, Tempranillo, even some Italian varieties) now achieve full phenolic maturity in most years. But the shift brings complications. Earlier harvests mean ripening occurs during hotter periods, potentially leading to rapid sugar accumulation before flavor development completes. Some producers report challenges maintaining natural acidity in Chardonnay and Pinot Gris, varieties that once benefited from Nelson's moderate warmth.
 
 Spring frost risk appears to be increasing rather than decreasing, a counterintuitive result of climate change. Warmer early spring temperatures promote earlier budburst, exposing young shoots to frost events that would have occurred before budburst in cooler decades. The 2019, 2020, and 2021 seasons all featured damaging spring frosts across parts of Nelson.
 
-Extreme rainfall events—short-duration, high-intensity storms—have become more common, particularly during late summer and harvest. These can split berries, dilute flavors, and trigger botrytis outbreaks. The 2017 and 2018 harvests both featured challenging wet periods that required careful fruit sorting and aggressive selection.
+Extreme rainfall events (short-duration, high-intensity storms) have become more common, particularly during late summer and harvest. These can split berries, dilute flavors, and trigger botrytis outbreaks. The 2017 and 2018 harvests both featured challenging wet periods that required careful fruit sorting and aggressive selection.
 
 ## GRAPES: Diversity as Philosophy
 
-Nelson's varietal mix reflects both practical adaptation to climate and a philosophical rejection of monoculture. No single variety dominates. Sauvignon Blanc accounts for roughly 35% of plantings—far less than Marlborough's 85%—followed by Pinot Noir (25%), Chardonnay (12%), Pinot Gris (10%), and Riesling (6%). The remaining 12% includes everything from Grüner Veltliner and Albariño to Syrah, Montepulciano, and Arneis.
+Nelson's varietal mix reflects both practical adaptation to climate and a philosophical rejection of monoculture. No single variety dominates. Sauvignon Blanc accounts for roughly 35% of plantings (far less than Marlborough's 85%) followed by Pinot Noir (25%), Chardonnay (12%), Pinot Gris (10%), and Riesling (6%). The remaining 12% includes everything from Grüner Veltliner and Albariño to Syrah, Montepulciano, and Arneis.
 
 ### Sauvignon Blanc: The Reluctant Standard-Bearer
 
@@ -66,7 +66,7 @@ Nelson Sauvignon Blanc exists in Marlborough's shadow, a position that has parad
 
 The variety performs well on both the free-draining Moutere Gravels and the heavier soils of the Waimea Plains, though the wines differ markedly. Moutere sites tend to produce Sauvignons with more textural weight, less overt herbaceousness, and flavors that lean toward stone fruit and citrus rather than passion fruit and capsicum. Waimea Plains sites, particularly those on lighter soils, yield brighter, more aromatic wines closer to the Marlborough model.
 
-Yields typically range from 8-12 tonnes per hectare, lower than Marlborough's commercial norm of 12-15 tonnes. Lower yields contribute to concentration but also reflect Nelson's more challenging disease pressure and occasional vintage variation. Harvest usually occurs in late March to early April, roughly two weeks later than Marlborough—a function of Nelson's slightly cooler nights and more even ripening.
+Yields typically range from 8-12 tonnes per hectare, lower than Marlborough's commercial norm of 12-15 tonnes. Lower yields contribute to concentration but also reflect Nelson's more challenging disease pressure and occasional vintage variation. Harvest usually occurs in late March to early April, roughly two weeks later than Marlborough: a function of Nelson's slightly cooler nights and more even ripening.
 
 Some producers have begun experimenting with skin contact, barrel fermentation, and extended lees aging for Sauvignon Blanc, techniques more common in the Loire than New Zealand. These wines show greater complexity and aging potential but remain niche products.
 
@@ -74,27 +74,27 @@ Some producers have begun experimenting with skin contact, barrel fermentation, 
 
 Pinot Noir represents Nelson's greatest qualitative ambition and most direct challenge to Central Otago's dominance of South Island Pinot. The variety occupies prime sites throughout the region, with the Moutere Hills considered particularly promising due to the clay-bound gravels' ability to moderate vigor and extend ripening.
 
-Nelson Pinot Noir tends toward a middle ground between Marlborough's lighter, more floral style and Central Otago's darker, more powerful expression. Alcohol levels typically range from 13-14%, with wines showing red cherry, red plum, and cranberry fruit characters alongside herbal notes—thyme, sage, dried flowers—that reflect the region's moderate warmth. Tannins are generally fine-grained rather than grippy, with a silky texture that suggests Burgundian influence in winemaking philosophy if not exact flavor profile.
+Nelson Pinot Noir tends toward a middle ground between Marlborough's lighter, more floral style and Central Otago's darker, more powerful expression. Alcohol levels typically range from 13-14%, with wines showing red cherry, red plum, and cranberry fruit characters alongside herbal notes (thyme, sage, dried flowers) that reflect the region's moderate warmth. Tannins are generally fine-grained rather than grippy, with a silky texture that suggests Burgundian influence in winemaking philosophy if not exact flavor profile.
 
 Clone selection plays a significant role. Early plantings favored the high-yielding UCD5 and UCD6 clones, but quality-focused producers have since established blocks of Dijon clones (114, 115, 667, 777) and heritage selections like Abel and Pommard. The Dijon clones, particularly 777, perform well on Nelson's clay-influenced soils, producing wines with good color density and structured tannins without excessive weight.
 
-Whole-bunch fermentation has become common, with inclusion rates ranging from 10% to 100% depending on vintage and producer philosophy. The practice adds aromatic complexity and structural definition but requires fully ripe stems—not always guaranteed in cooler years. Most producers employ a combination of new and used French oak, with new oak percentages typically 20-35%.
+Whole-bunch fermentation has become common, with inclusion rates ranging from 10% to 100% depending on vintage and producer philosophy. The practice adds aromatic complexity and structural definition but requires fully ripe stems, not always guaranteed in cooler years. Most producers employ a combination of new and used French oak, with new oak percentages typically 20-35%.
 
 ### Chardonnay: Underrated Potential
 
 Chardonnay occupies an odd position in Nelson: widely planted, consistently successful, yet rarely discussed in national or international contexts. The variety thrives on the Moutere Gravels, where the clay component provides sufficient water stress to concentrate flavors while the gravel ensures good drainage.
 
-Nelson Chardonnay typically shows white peach, nectarine, and citrus fruit characters with a saline, mineral edge that distinguishes it from the riper, more tropical profiles common in Hawke's Bay. Natural acidity levels are good—pH usually 3.2-3.4—allowing wines to age gracefully for 5-10 years. Alcohol levels range from 13-13.5%, moderate by New Zealand standards.
+Nelson Chardonnay typically shows white peach, nectarine, and citrus fruit characters with a saline, mineral edge that distinguishes it from the riper, more tropical profiles common in Hawke's Bay. Natural acidity levels are good, pH usually 3.2-3.4, allowing wines to age gracefully for 5-10 years. Alcohol levels range from 13-13.5%, moderate by New Zealand standards.
 
 Winemaking approaches vary. Some producers favor a Burgundian model: wild ferment, full malolactic conversion, extended lees aging (12-18 months), and moderate new oak (25-35%). Others prefer a cleaner, more fruit-forward style with partial or no malolactic, shorter lees contact, and minimal new oak. Both approaches produce compelling wines, though the former seems better suited to the region's natural acidity and structure.
 
-Harvest timing proves critical. Picked too early, Nelson Chardonnay can show green, underripe characters. Picked too late—a risk in warm years—it loses the tension and minerality that define the region's best examples. Most producers target 12.5-13% potential alcohol at harvest, usually in late March to mid-April.
+Harvest timing proves critical. Picked too early, Nelson Chardonnay can show green, underripe characters. Picked too late (a risk in warm years) it loses the tension and minerality that define the region's best examples. Most producers target 12.5-13% potential alcohol at harvest, usually in late March to mid-April.
 
 ### Riesling: The Hidden Gem
 
-Riesling may be Nelson's most underappreciated variety. The region's moderate temperatures, good diurnal range, and natural acidity retention create ideal conditions for Riesling in both dry and off-dry styles. Yet plantings remain limited—roughly 60 hectares across the region—and few producers focus on the variety.
+Riesling may be Nelson's most underappreciated variety. The region's moderate temperatures, good diurnal range, and natural acidity retention create ideal conditions for Riesling in both dry and off-dry styles. Yet plantings remain limited (roughly 60 hectares across the region) and few producers focus on the variety.
 
-The best Nelson Rieslings show intense citrus and stone fruit aromatics (lime, lemon, white peach, apricot) with a distinctive floral note—jasmine, honeysuckle—and a stony, almost flinty minerality on the finish. Acidity is brisk—typically 7-8 g/L total acidity—allowing for aging potential of 10-15 years in dry styles, even longer in sweeter wines.
+The best Nelson Rieslings show intense citrus and stone fruit aromatics (lime, lemon, white peach, apricot) with a distinctive floral note (jasmine, honeysuckle) and a stony, almost flinty minerality on the finish. Acidity is brisk (typically 7-8 g/L total acidity) allowing for aging potential of 10-15 years in dry styles, even longer in sweeter wines.
 
 Moutere Hills sites produce Rieslings with more weight and texture, while Waimea Plains sites yield brighter, more delicate wines. Botrytis-affected late-harvest and dessert Rieslings appear occasionally, though Nelson's summer rainfall makes botrytis less predictable than in regions with more reliable autumn conditions.
 
@@ -104,7 +104,7 @@ Stylistically, Nelson Riesling falls somewhere between Marlborough's lean, high-
 
 Pinot Gris became commercially important in Nelson during the variety's boom years of the 2000s and early 2010s. The variety ripens reliably, yields well (10-14 tonnes per hectare), and produces wines that appeal to the domestic market's preference for off-dry, fruit-forward whites.
 
-Quality varies enormously. Commercial examples tend toward 10-20 g/L residual sugar, moderate acidity, and simple pear and apple fruit characters—pleasant but forgettable. A handful of producers make more serious, Alsace-inspired versions: lower yields, dry or nearly dry, barrel-fermented, with more textural complexity and aging potential. These remain exceptions.
+Quality varies enormously. Commercial examples tend toward 10-20 g/L residual sugar, moderate acidity, and simple pear and apple fruit characters, pleasant but forgettable. A handful of producers make more serious, Alsace-inspired versions: lower yields, dry or nearly dry, barrel-fermented, with more textural complexity and aging potential. These remain exceptions.
 
 Climate change poses challenges for Pinot Gris in Nelson. The variety naturally produces wines with lower acidity than Riesling or Sauvignon Blanc, and warmer vintages can result in flabby, unbalanced wines even with careful viticulture. Some producers have begun harvesting earlier to preserve freshness, while others are questioning whether Pinot Gris remains viable as temperatures continue to rise.
 
@@ -112,7 +112,7 @@ Climate change poses challenges for Pinot Gris in Nelson. The variety naturally 
 
 Nelson's willingness to plant alternative varieties distinguishes it from New Zealand's more conservative regions. Grüner Veltliner, introduced in the early 2000s, has found a small but enthusiastic following. The variety performs well on Nelson's clay-influenced soils, producing wines with white pepper spice, citrus fruit, and good natural acidity. A few producers have also planted Albariño, which thrives in the maritime climate and produces wines with stone fruit and saline characters.
 
-On the red side, small plantings of Syrah, Tempranillo, Montepulciano, and even Nebbiolo exist. These varieties benefit from climate warming, achieving full ripeness in most years. Syrah, in particular, shows promise: wines display red and black fruit characters with cracked pepper and olive notes, moderate tannins, and good freshness—more Northern Rhône than Barossa in profile. Plantings remain tiny, but they suggest Nelson's potential for varieties beyond the Burgundian standards.
+On the red side, small plantings of Syrah, Tempranillo, Montepulciano, and even Nebbiolo exist. These varieties benefit from climate warming, achieving full ripeness in most years. Syrah, in particular, shows promise: wines display red and black fruit characters with cracked pepper and olive notes, moderate tannins, and good freshness, more Northern Rhône than Barossa in profile. Plantings remain tiny, but they suggest Nelson's potential for varieties beyond the Burgundian standards.
 
 ## WINES: Artisan Ethos, Diverse Expression
 
@@ -120,13 +120,13 @@ Nelson's wine styles resist easy categorization. Unlike Marlborough, which built
 
 ### White Wine Styles
 
-The dominant white wine style in Nelson is fresh, fruit-forward, and aromatic—Sauvignon Blanc, Pinot Gris, and Riesling vinified in stainless steel with minimal intervention beyond careful temperature control and sulfur management. These wines target the domestic market and export opportunities where New Zealand's reputation for clean, expressive aromatics opens doors.
+The dominant white wine style in Nelson is fresh, fruit-forward, and aromatic. Sauvignon Blanc, Pinot Gris, and Riesling vinified in stainless steel with minimal intervention beyond careful temperature control and sulfur management. These wines target the domestic market and export opportunities where New Zealand's reputation for clean, expressive aromatics opens doors.
 
 But a parallel track exists: more textural, complex whites that employ techniques borrowed from Burgundy, Alsace, and the natural wine movement. Barrel-fermented Chardonnay and Pinot Gris, skin-contact Riesling and Grüner Veltliner, extended lees aging, partial or full malolactic fermentation, and minimal sulfur additions all appear in Nelson with greater frequency than in most New Zealand regions.
 
 These wines challenge expectations. A skin-contact Grüner Veltliner might show amber color, grippy tannins, and oxidative notes alongside the variety's typical white pepper and citrus. A barrel-fermented Chardonnay might spend 18 months on full lees with no batonnage, developing autolytic complexity and a creamy texture that masks the wine's underlying tension.
 
-This stylistic diversity creates marketing challenges—Nelson lacks a clear "signature" wine—but it also attracts a certain type of consumer: those seeking individuality over consistency, expression over formula.
+This stylistic diversity creates marketing challenges (Nelson lacks a clear "signature" wine) but it also attracts a certain type of consumer: those seeking individuality over consistency, expression over formula.
 
 ### Red Wine Styles
 
@@ -150,7 +150,7 @@ Nelson does not have formal sub-appellations in the European sense, but several 
 
 ### Moutere Hills
 
-The elevated plateau southwest of Nelson city, characterized by Moutere Gravel soils—clay-bound gravels and sands. Altitude ranges from 200-350 meters. Key varieties: Pinot Noir, Chardonnay, Riesling. The area produces the region's most structured, age-worthy wines. Notable sites include Upper Moutere and the hills around Neudorf Vineyards.
+The elevated plateau southwest of Nelson city, characterized by Moutere Gravel soils, clay-bound gravels and sands. Altitude ranges from 200-350 meters. Key varieties: Pinot Noir, Chardonnay, Riesling. The area produces the region's most structured, age-worthy wines. Notable sites include Upper Moutere and the hills around Neudorf Vineyards.
 
 ### Waimea Plains
 
@@ -188,7 +188,7 @@ Difficult vintages typically involve:
 
 Recent challenging years include 2017 (wet harvest), 2019 (spring frost, variable ripening), and 2021 (cool, late season). Conversely, 2013, 2014, 2018, and 2020 are generally regarded as high-quality vintages across most varieties.
 
-Climate change appears to be increasing vintage variation rather than reducing it, with more frequent extreme weather events—both hot and cold—creating challenges for consistent quality.
+Climate change appears to be increasing vintage variation rather than reducing it, with more frequent extreme weather events (both hot and cold) creating challenges for consistent quality.
 
 ## KEY PRODUCERS
 
@@ -196,9 +196,9 @@ Nelson's producer landscape consists primarily of small, family-owned estates, w
 
 ### Neudorf Vineyards
 
-Founded in 1978 by Tim and Judy Finn, Neudorf stands as Nelson's most internationally recognized estate and one of New Zealand's quality benchmarks. The estate's Moutere vineyard, planted on clay-bound Moutere Gravels at approximately 250 meters elevation, produces Chardonnay and Pinot Noir that have aged gracefully for decades—rare in a country where most wines are consumed young.
+Founded in 1978 by Tim and Judy Finn, Neudorf stands as Nelson's most internationally recognized estate and one of New Zealand's quality benchmarks. The estate's Moutere vineyard, planted on clay-bound Moutere Gravels at approximately 250 meters elevation, produces Chardonnay and Pinot Noir that have aged gracefully for decades, rare in a country where most wines are consumed young.
 
-Neudorf's Moutere Chardonnay, first produced in 1989, established the template for serious New Zealand Chardonnay: barrel-fermented, full malolactic, extended lees aging, moderate new oak (typically 30-35%), and sufficient natural acidity to balance the wine's textural richness. The wine shows white peach, nectarine, and citrus fruit with a distinctive mineral, flinty edge and develops complex tertiary characters—honey, hazelnut, lanolin—after 5-10 years in bottle.
+Neudorf's Moutere Chardonnay, first produced in 1989, established the template for serious New Zealand Chardonnay: barrel-fermented, full malolactic, extended lees aging, moderate new oak (typically 30-35%), and sufficient natural acidity to balance the wine's textural richness. The wine shows white peach, nectarine, and citrus fruit with a distinctive mineral, flinty edge and develops complex tertiary characters (honey, hazelnut, lanolin) after 5-10 years in bottle.
 
 The estate's Moutere Pinot Noir, particularly from the Tom's Block and Home Block designates, demonstrates Nelson Pinot's potential for elegance and longevity. These wines typically include 20-30% whole bunches, spend 11 months in French oak (25-30% new), and show red cherry and cranberry fruit with savory, herbal complexity. Structure is fine-grained rather than powerful, with wines drinking well from 3-4 years but capable of aging 10-15 years.
 
@@ -208,7 +208,7 @@ Tim Finn's winemaking philosophy emphasizes minimal intervention: wild ferments,
 
 Nelson's largest family-owned winery, Seifried (pronounced "Sigh-freed") was established in 1973 by Austrian immigrants Hermann and Agnes Seifried. The estate farms approximately 150 hectares across multiple sites in the Waimea Plains and Moutere Hills, producing a range of wines from commercial to premium tiers.
 
-Seifried's significance lies partly in scale—the winery helped establish Nelson as a viable wine region during the 1970s and 1980s when most New Zealand production centered on Auckland and Hawke's Bay—but also in its commitment to varietal diversity. The estate produces Grüner Veltliner, Zweigelt, and other Austrian varieties alongside New Zealand standards, reflecting Hermann's heritage and the family's experimental mindset.
+Seifried's significance lies partly in scale: the winery helped establish Nelson as a viable wine region during the 1970s and 1980s when most New Zealand production centered on Auckland and Hawke's Bay, but also in its commitment to varietal diversity. The estate produces Grüner Veltliner, Zweigelt, and other Austrian varieties alongside New Zealand standards, reflecting Hermann's heritage and the family's experimental mindset.
 
 The premium Old Coach Road range, sourced from estate vineyards in the Moutere Hills, includes serious Riesling (both dry and sweet styles), Chardonnay, and Pinot Noir. The Riesling, in particular, demonstrates the variety's potential in Nelson: intense citrus and stone fruit aromatics, racy acidity (7-8 g/L), and a stony minerality that suggests the Moutere Gravel terroir.
 
@@ -226,11 +226,11 @@ Founded in 1990 by Andrew Greenhough and Jenny Wheeler, this small estate (appro
 
 The estate's Hope Vineyard Pinot Noir, from a site in the Moutere Hills, typically includes 50-80% whole bunches and sees minimal new oak (10-15%). The resulting wine is aromatic, savory, and structured, with prominent stem tannin and herbal notes that require 3-5 years to integrate. This style polarizes: some find it intellectually compelling and terroir-expressive; others consider it overly austere.
 
-Greenhough's skin-contact whites—particularly a Grüner Veltliner fermented and aged on skins for several months—push boundaries further. These wines show amber color, grippy tannins, and oxidative characters alongside the varieties' typical aromatics. They challenge conventional notions of white wine but demonstrate Nelson's openness to experimentation.
+Greenhough's skin-contact whites (particularly a Grüner Veltliner fermented and aged on skins for several months) push boundaries further. These wines show amber color, grippy tannins, and oxidative characters alongside the varieties' typical aromatics. They challenge conventional notions of white wine but demonstrate Nelson's openness to experimentation.
 
 ### Kina Beach Vineyard
 
-A small estate (approximately 5 hectares) near Tasman Bay, focusing on Chardonnay and Pinot Noir from coastal sites with strong maritime influence. The wines show a distinctive saline character—a result of proximity to the sea—alongside bright acidity and moderate alcohol levels.
+A small estate (approximately 5 hectares) near Tasman Bay, focusing on Chardonnay and Pinot Noir from coastal sites with strong maritime influence. The wines show a distinctive saline character (a result of proximity to the sea) alongside bright acidity and moderate alcohol levels.
 
 Kina Beach's Chardonnay, barrel-fermented with indigenous yeasts and aged on full lees for 12 months, demonstrates how site expression can override regional generalizations. The wine shows citrus and green apple fruit with oyster shell and sea spray notes, quite different from the riper, more peachy profile typical of Moutere Hills Chardonnay.
 
@@ -268,4 +268,4 @@ This guide draws on information from:
 
 ---
 
-*Nelson remains New Zealand's most artisan wine region—small in scale, diverse in ambition, and resistant to easy categorization. Whether this represents a sustainable model or a romantic anomaly in an increasingly consolidated industry remains to be seen. For now, it offers something rare: wines that reflect individual vision more than market imperatives, made by people who chose difficulty over formula.*
+*Nelson remains New Zealand's most artisan wine region, small in scale, diverse in ambition, and resistant to easy categorization. Whether this represents a sustainable model or a romantic anomaly in an increasingly consolidated industry remains to be seen. For now, it offers something rare: wines that reflect individual vision more than market imperatives, made by people who chose difficulty over formula.*

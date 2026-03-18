@@ -66,7 +66,7 @@ Meursault produces exclusively white wines from Chardonnay, with rare exceptions
 
 Classic Meursault displays a distinctive golden color with greenish highlights in youth, evolving to deeper gold with amber tones as it matures. The wine's visual density often exceeds that of other Burgundian whites, reflecting its characteristic richness and concentration. Premier Cru examples typically show greater color intensity and slower evolution compared to Village wines.
 
-The aromatic profile of Meursault centers on a complex interplay between fruit, floral, and mineral elements. Young wines typically display white orchard fruits—particularly apple and pear—combined with citrus notes of lemon and lime. Floral components include acacia, hawthorn, and white flowers, while mineral expressions range from wet limestone to more complex chalky and saline notes.
+The aromatic profile of Meursault centers on a complex interplay between fruit, floral, and mineral elements. Young wines typically display white orchard fruits (particularly apple and pear) combined with citrus notes of lemon and lime. Floral components include acacia, hawthorn, and white flowers, while mineral expressions range from wet limestone to more complex chalky and saline notes.
 
 As Meursault ages, the aromatic spectrum expands dramatically. Honeyed notes develop alongside toasted nuts, particularly hazelnuts and almonds. Butter and brioche characteristics emerge from malolactic fermentation and careful oak aging, while tertiary aromas include dried fruits, spices, and complex mineral expressions that can include gunflint and wet stone.
 
@@ -115,7 +115,7 @@ The vineyard's gentle southeast exposition provides consistent ripening conditio
 Genevrières wines epitomize classic Meursault character, combining substantial body with elegant mineral expression. The wines display excellent balance between power and finesse, making them accessible in youth while developing additional complexity with age. Peak maturity typically occurs between 6-12 years, with top examples aging gracefully for 15-20 years.
 
 ### Les Charmes
-Les Charmes covers 31 hectares across two separate parcels—Charmes-Dessus (upper Charmes) and Charmes-Dessous (lower Charmes)—each expressing slightly different terroir characteristics. The vineyard's varied soil composition creates stylistic diversity within the single Premier Cru designation.
+Les Charmes covers 31 hectares across two separate parcels (Charmes-Dessus (upper Charmes) and Charmes-Dessous (lower Charmes)) each expressing slightly different terroir characteristics. The vineyard's varied soil composition creates stylistic diversity within the single Premier Cru designation.
 
 Charmes-Dessus occupies higher elevation slopes with thinner soils and greater limestone content, producing wines with more mineral expression and aging potential. Charmes-Dessous features deeper, clay-rich soils that generate more immediately appealing wines with greater body and lower acidity.
 
@@ -194,7 +194,7 @@ Producer style significantly influences aging potential within the same vineyard
 
 ## 10. Market Position
 
-Meursault occupies a unique position within the global white Burgundy market, representing the perfect balance between quality, prestige, and relative accessibility compared to the most sought-after appellations. The appellation's substantial production volume—significantly larger than Puligny-Montrachet or Chassagne-Montrachet—provides greater market availability while maintaining premium positioning and pricing.
+Meursault occupies a unique position within the global white Burgundy market, representing the perfect balance between quality, prestige, and relative accessibility compared to the most sought-after appellations. The appellation's substantial production volume (significantly larger than Puligny-Montrachet or Chassagne-Montrachet) provides greater market availability while maintaining premium positioning and pricing.
 
 Pricing structures within Meursault reflect the established quality hierarchy between Village and Premier Cru wines. Village Meursault from reputable producers typically trades at 30-50% premium to generic Côte de Beaune blanc, while Premier Cru examples command 2-3 times Village prices. The most prestigious Premier Cru sites like Perrières can achieve pricing levels approaching Grand Cru wines from other regions.
 

@@ -10,7 +10,7 @@ The AVA's northern boundary follows the majestic Columbia River for approximatel
 
 ### Designation and Scale
 
-Officially designated as an American Viticultural Area on June 14, 2005, Horse Heaven Hills encompasses approximately 570,000 acres (roughly 890 square miles), making it one of Washington's larger sub-appellations. However, only a fraction of this total area—approximately 8,500-10,000 acres—is currently planted to vineyards, leaving substantial room for future development.
+Officially designated as an American Viticultural Area on June 14, 2005, Horse Heaven Hills encompasses approximately 570,000 acres (roughly 890 square miles), making it one of Washington's larger sub-appellations. However, only a fraction of this total area (approximately 8,500-10,000 acres) is currently planted to vineyards, leaving substantial room for future development.
 
 ### Proximity to Urban Centers
 
@@ -24,13 +24,13 @@ Horse Heaven Hills exemplifies the classic desert continental climate that defin
 
 **Temperature and Diurnal Variation**
 
-Summer daytime temperatures regularly reach 90-100°F during July and August, providing the heat accumulation necessary for ripening Bordeaux varieties and other warm-climate grapes. However, the region's defining climatic feature is its dramatic diurnal temperature shift—the difference between day and night temperatures. Evening temperatures can drop 40-50°F, with cool air draining off the surrounding highlands and flowing down from the Columbia River corridor.
+Summer daytime temperatures regularly reach 90-100°F during July and August, providing the heat accumulation necessary for ripening Bordeaux varieties and other warm-climate grapes. However, the region's defining climatic feature is its dramatic diurnal temperature shift: the difference between day and night temperatures. Evening temperatures can drop 40-50°F, with cool air draining off the surrounding highlands and flowing down from the Columbia River corridor.
 
 This substantial temperature swing proves crucial for maintaining natural acidity in grapes while sugars accumulate, resulting in wines with both ripeness and structural integrity. The extended daylight hours of the northern latitude (46°N) further enhance photosynthesis and flavor development during the growing season.
 
 **Wind Patterns**
 
-Perhaps no feature defines Horse Heaven Hills more than its legendary winds. Strong, persistent winds funnel through the Columbia River Gorge, sweeping across the vineyards with remarkable force, particularly during afternoon and evening hours. While these winds present viticultural challenges—requiring careful vineyard management and sturdy trellising systems—they provide significant benefits:
+Perhaps no feature defines Horse Heaven Hills more than its legendary winds. Strong, persistent winds funnel through the Columbia River Gorge, sweeping across the vineyards with remarkable force, particularly during afternoon and evening hours. While these winds present viticultural challenges (requiring careful vineyard management and sturdy trellising systems) they provide significant benefits:
 
 - Natural pest and disease control by creating an inhospitable environment for fungi and insects
 - Reduced need for chemical interventions
@@ -53,7 +53,7 @@ The topography consists of rolling hills and ridges with predominantly gradual s
 
 ### Geological Heritage
 
-The Horse Heaven Hills' distinctive terroir owes its character to a dramatic geological history, particularly the catastrophic Missoula Floods that swept across the Columbia Basin between 15,000 and 13,000 years ago. These repeated glacial outburst floods—among the largest known flood events on Earth—deposited the region's defining soil characteristics.
+The Horse Heaven Hills' distinctive terroir owes its character to a dramatic geological history, particularly the catastrophic Missoula Floods that swept across the Columbia Basin between 15,000 and 13,000 years ago. These repeated glacial outburst floods (among the largest known flood events on Earth) deposited the region's defining soil characteristics.
 
 ### Soil Composition
 
@@ -69,7 +69,7 @@ The AVA's soils predominantly consist of:
 
 - **Caliche layers**: Calcium carbonate deposits that form hardpan layers at varying depths, sometimes influencing root penetration and water retention.
 
-The predominant soil series include Warden silt loam, Scooteney very fine sandy loam, and Hezel very fine sandy loam—all characterized by alkaline pH (7.5-8.5), low organic matter, and excellent drainage.
+The predominant soil series include Warden silt loam, Scooteney very fine sandy loam, and Hezel very fine sandy loam, all characterized by alkaline pH (7.5-8.5), low organic matter, and excellent drainage.
 
 ### Viticultural Impact
 
@@ -106,7 +106,7 @@ Horse Heaven Hills has established itself as a premier source for multiple varie
 
 With approximately 8,500-10,000 acres under vine, Horse Heaven Hills represents roughly 15-18% of Washington State's total vineyard acreage. The region produces an estimated 40,000-50,000 tons of wine grapes annually, making it one of Washington's most productive AVAs in terms of total output.
 
-The majority of fruit—approximately 80-85%—is sold to wineries outside the immediate region, making Horse Heaven Hills a critical grape source for Washington's wine industry. Many of the state's most prestigious wines contain Horse Heaven Hills fruit, even if not labeled as such.
+The majority of fruit (approximately 80-85%) is sold to wineries outside the immediate region, making Horse Heaven Hills a critical grape source for Washington's wine industry. Many of the state's most prestigious wines contain Horse Heaven Hills fruit, even if not labeled as such.
 
 ### Growing Season Characteristics
 
@@ -116,7 +116,7 @@ The majority of fruit—approximately 80-85%—is sold to wineries outside the i
 
 **Harvest**: Harvest begins in late August for early-ripening white varieties and extends through October for late-ripening reds like Cabernet Sauvignon. The dry, stable weather provides flexibility in harvest timing, allowing grapes to hang for optimal ripeness.
 
-The region consistently achieves 2,700-3,000 Growing Degree Days (GDD) base 50°F, placing it in Region III on the Winkler Index—comparable to Bordeaux or northern Rhône Valley.
+The region consistently achieves 2,700-3,000 Growing Degree Days (GDD) base 50°F, placing it in Region III on the Winkler Index, comparable to Bordeaux or northern Rhône Valley.
 
 ### Viticultural Advantages and Challenges
 
@@ -188,7 +188,7 @@ Horse Heaven Hills wines distinguish themselves from other Columbia Valley sub-A
 
 **Versus Yakima Valley**: Horse Heaven Hills shows warmer-climate characteristics with fuller ripeness and body compared to the more moderate conditions of Yakima Valley appellations.
 
-The defining characteristics—bright acidity, savory herbal notes, firm structure, and mineral complexity—reflect the AVA's unique combination of heat, wind, elevation, and soils.
+The defining characteristics (bright acidity, savory herbal notes, firm structure, and mineral complexity) reflect the AVA's unique combination of heat, wind, elevation, and soils.
 
 ### Quality Levels and Pricing
 
@@ -289,6 +289,6 @@ Horse Heaven Hills appears well-positioned for continued success and growth in p
 
 **Challenges**: Water rights and availability, though currently secure, require ongoing management. Climate change impacts need monitoring and adaptation. Competition from other Washington AVAs and regions worldwide requires continuous quality improvement.
 
-The region's trajectory suggests Horse Heaven Hills will remain a cornerstone of Washington wine production while elevating its quality reputation. As vineyard sites mature, practices refine, and recognition grows, Horse Heaven Hills is poised to claim its place among Washington's—and America's—premier wine regions.
+The region's trajectory suggests Horse Heaven Hills will remain a cornerstone of Washington wine production while elevating its quality reputation. As vineyard sites mature, practices refine, and recognition grows, Horse Heaven Hills is poised to claim its place among Washington's (and America's) premier wine regions.
 
-The AVA's unique combination of warmth and cooling influences, distinctive soils, dramatic topography, and proven track record for quality create conditions that few regions can match. For wine professionals and enthusiasts seeking wines of structure, complexity, and regional character at reasonable prices, Horse Heaven Hills deserves close attention. The best wines from this windswept region along the Columbia River demonstrate that great terroir and thoughtful viticulture can produce wines of genuine distinction—a promise that the next decades will likely see fully realized.
+The AVA's unique combination of warmth and cooling influences, distinctive soils, dramatic topography, and proven track record for quality create conditions that few regions can match. For wine professionals and enthusiasts seeking wines of structure, complexity, and regional character at reasonable prices, Horse Heaven Hills deserves close attention. The best wines from this windswept region along the Columbia River demonstrate that great terroir and thoughtful viticulture can produce wines of genuine distinction: a promise that the next decades will likely see fully realized.

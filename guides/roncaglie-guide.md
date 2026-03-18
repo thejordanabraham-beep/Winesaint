@@ -1,0 +1,35 @@
+# Roncaglie MGA
+
+## Introduction
+
+Roncaglie is an officially designated Menzione Geografica Aggiuntiva (MGA) within the commune of La Morra, one of the five principal townships that comprise the Barolo DOCG zone in Piedmont's Langhe hills. While not among the most celebrated or historically documented crus of La Morra, which include the renowned Rocche dell'Annunziata, Brunate, and Cerequio (Roncaglie represents part of the broader tapestry of named vineyard sites that gained official recognition with the introduction of the MGA system in 2010.
+
+The MGA classification formalized what had long been understood through oral tradition and practical experience: that Barolo's hillside vineyards possess distinct identities shaped by their specific terroir. Roncaglie, like all La Morra MGAs, benefits from the commune's favorable positioning within the western section of the Barolo production zone, where soil composition and mesoclimate combine to produce wines with a distinctive profile compared to their counterparts in the eastern townships of Serralunga d'Alba and Monforte d'Alba.
+
+## Terroir
+
+Roncaglie shares the fundamental geological characteristics that define La Morra's viticultural landscape. The commune sits predominantly on calcareous marls of the Tortonian epoch, sedimentary soils laid down approximately 7-11 million years ago when the region lay beneath an ancient sea. These marls are relatively compact and more fertile compared to the Helvetian sandstones that dominate the eastern Barolo zone.
+
+This soil composition has profound implications for viticulture and wine style. The Tortonian marls, with their significant clay component and calcium carbonate content, provide good water retention while remaining sufficiently well-drained on La Morra's steep hillsides. The township's vineyards generally occupy elevations between 300 and 500 meters, positioned on south- to southwest-facing slopes that maximize sun exposure) critical for Nebbiolo's slow, extended ripening cycle in this marginal continental climate.
+
+The physical structure of these soils tends to be more giving than the compressed sandstones found across the valley. While this can translate to higher natural vigor and fertility (requiring careful canopy management to avoid excessive vegetative growth) it also contributes to the production of wines with a different aromatic and structural profile. The calcareous component, in particular, is often associated with enhanced perfume and a certain elegance in the finished wines.
+
+La Morra's western position within the Barolo zone also subjects its vineyards to slightly different climatic influences than the eastern communes. The proximity to the Tanaro River valley and the moderating effects of the broader valley system can create subtly different diurnal temperature variations and humidity patterns during the critical late-season ripening period.
+
+## Wine Characteristics
+
+Wines from Roncaglie, as with La Morra more broadly, tend to express what might be termed the more immediately accessible face of Barolo. While all fine Barolo shares certain immutable characteristics (a relatively light ruby color that evolves toward garnet and brick with age, high acidity and tannins, and the capacity for extended bottle development) the La Morra interpretation typically emphasizes aromatic expressiveness and textural refinement over sheer power and density.
+
+Depending on the specific location and exposition within Roncaglie, wines from this MGA would be expected to show the softer, fruitier, and more aromatic character associated with La Morra's Tortonian soils. The aromatic profile of Nebbiolo from these calcareous marls often displays pronounced floral notes (rose petals being a classic descriptor) alongside red fruit expressions of cherry and raspberry, with the sour cherry character that defines Nebbiolo particularly evident. Herbal nuances and dried flower notes contribute complexity, while with age, the wines develop the secondary and tertiary characteristics common to fine Barolo: tar, liquorice, tobacco, dried fruit, and earthy forest floor notes.
+
+The tannin structure, while still substantial and firmly in the Barolo idiom, tends toward a finer grain and more supple texture compared to the more muscular, iron-fisted wines produced from Serralunga's sandstone soils. This does not imply a lack of aging potential (La Morra Barolos can develop magnificently over decades) but rather suggests a different evolutionary arc, one where the wines may show well at an earlier stage while still possessing the structural integrity for long cellaring.
+
+The commune's wines often display what enthusiasts describe as elegance and finesse, terms that risk sounding like faint praise but which, in the context of Barolo, speak to a particular balance between power and precision, between concentration and lift. The high natural acidity of Nebbiolo, combined with the refined tannins and aromatic complexity encouraged by La Morra's terroir, produces wines of considerable sophistication.
+
+## Context and Significance
+
+Understanding Roncaglie requires appreciating its place within the broader evolution of Barolo's geographical consciousness. Historically, most prestigious producers prided themselves on blending wines from multiple vineyards to achieve complexity and house style (a practice continued by traditionalists such as the legendary Bartolo Mascarello. However, the movement toward single-vineyard bottlings, championed by pioneers including Angelo Gaja and Bruno Giacosa from the 1960s onward, gradually shifted focus toward site-specific expression.
+
+The 2010 introduction of the MGA system represented an attempt to bring order and official recognition to this proliferation of single-vineyard wines. The system identified entire villages, specified single vineyards of established reputation, and in some cases grouped multiple contiguous vineyard parcels under single MGA designations. Roncaglie's inclusion in this official registry confirms its status as a recognized site within the Barolo hierarchy, even if it has not achieved the historical renown or market recognition of the commune's most celebrated crus.
+
+For wine enthusiasts, Roncaglie represents an opportunity to explore La Morra's particular expression of Nebbiolo in what might be considered a more accessible format) both in terms of the wines' relative approachability compared to the most austere eastern-zone Barolos, and potentially in terms of price positioning relative to the most famous names. As with many of Barolo's lesser-known but officially recognized sites, Roncaglie offers a window into the denomination's remarkable diversity of terroir and the subtle variations that elevation, exposition, and soil can inscribe upon the Nebbiolo grape.

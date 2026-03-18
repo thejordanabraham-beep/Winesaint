@@ -6,13 +6,13 @@ Romanée-Saint-Vivant stands as one of Burgundy's most revered Grand Cru vineyar
 
 Located in the heart of the Côte d'Or, approximately 20 kilometers south of Dijon, Romanée-Saint-Vivant sits on the mid-slope of the Côte de Nuits escarpment. The vineyard occupies a strategic position immediately above the village of Vosne-Romanée, bordered by some of Burgundy's most prestigious climats. To the north, it neighbors Richebourg, while La Romanée lies to its south. The eastern boundary runs alongside the Premier Cru vineyard of Les Reignots, and to the west, it shares borders with Romanée-Conti.
 
-This positioning within the Côte de Nuits is crucial to understanding Romanée-Saint-Vivant's character. The Côte de Nuits stretches approximately 20 kilometers from Marsannay to Corgoloin, with Vosne-Romanée representing the geological and qualitative apex of this renowned slope. The vineyard's placement at roughly 260-280 meters elevation positions it perfectly within the "golden zone" where the greatest Burgundian terroirs converge—high enough to benefit from excellent drainage and sun exposure, yet protected from the harsh winds that affect higher elevations.
+This positioning within the Côte de Nuits is crucial to understanding Romanée-Saint-Vivant's character. The Côte de Nuits stretches approximately 20 kilometers from Marsannay to Corgoloin, with Vosne-Romanée representing the geological and qualitative apex of this renowned slope. The vineyard's placement at roughly 260-280 meters elevation positions it perfectly within the "golden zone" where the greatest Burgundian terroirs converge, high enough to benefit from excellent drainage and sun exposure, yet protected from the harsh winds that affect higher elevations.
 
 ## Size & Parcellation
 
 Romanée-Saint-Vivant encompasses 9.44 hectares (23.32 acres), making it the largest of the Romanée Grand Crus and one of the more substantial Grand Cru vineyards in Vosne-Romanée. Despite this relatively modest size by international standards, the vineyard's parcellation among multiple owners creates a complex ownership structure that reflects centuries of Burgundian inheritance laws and land division.
 
-The vineyard's most significant owner is Domaine de la Romanée-Conti (DRC), which controls approximately 5.29 hectares—roughly 56% of the total vineyard. This substantial holding makes Romanée-Saint-Vivant unique among DRC's portfolio properties, as it represents their largest single vineyard holding. The domaine acquired this portion through various purchases, most notably from the Marey-Monge family in 1988.
+The vineyard's most significant owner is Domaine de la Romanée-Conti (DRC), which controls approximately 5.29 hectares, roughly 56% of the total vineyard. This substantial holding makes Romanée-Saint-Vivant unique among DRC's portfolio properties, as it represents their largest single vineyard holding. The domaine acquired this portion through various purchases, most notably from the Marey-Monge family in 1988.
 
 Domaine Alain Hudelot-Noëllat holds approximately 1.16 hectares, representing one of the most significant non-DRC holdings within the vineyard. This parcel has been in the Hudelot family for generations and produces wines of exceptional quality that offer a fascinating counterpoint to DRC's interpretation of the terroir.
 
@@ -50,7 +50,7 @@ Rainfall patterns within Romanée-Saint-Vivant show subtle but important variati
 
 Temperature variations throughout the growing season show distinct patterns that favor Pinot Noir development. Spring warming occurs gradually due to the moderating influence of the limestone bedrock, reducing frost risk during budbreak. Summer temperatures remain relatively stable, with the eastern aspect preventing excessive heat accumulation during afternoon periods. Autumn cooling proceeds slowly, allowing for extended hang time crucial for developing the complex aromatics characteristic of great Burgundy.
 
-Diurnal temperature variation—the difference between daytime and nighttime temperatures—averages 12-15°C during the growing season, providing optimal conditions for maintaining acidity while achieving phenolic ripeness. This temperature swing is particularly pronounced during September and October, contributing to the development of the complex aromatic compounds that distinguish Romanée-Saint-Vivant.
+Diurnal temperature variation (the difference between daytime and nighttime temperatures) averages 12-15°C during the growing season, providing optimal conditions for maintaining acidity while achieving phenolic ripeness. This temperature swing is particularly pronounced during September and October, contributing to the development of the complex aromatic compounds that distinguish Romanée-Saint-Vivant.
 
 ## Viticulture
 
@@ -140,7 +140,7 @@ Several négociant houses maintain contracts for fruit from small growers within
 
 ## Historical Significance & Evolution
 
-The history of Romanée-Saint-Vivant spans over a millennium, with documented evidence tracing viticulture within this exceptional site to the early medieval period. The vineyard's name itself reflects this ancient heritage, combining "Romanée"—possibly derived from Roman origins or the local Burgundian dialect term for "slope"—with "Saint-Vivant," honoring the Benedictine Abbey of Saint-Vivant that played a crucial role in the vineyard's early development.
+The history of Romanée-Saint-Vivant spans over a millennium, with documented evidence tracing viticulture within this exceptional site to the early medieval period. The vineyard's name itself reflects this ancient heritage, combining "Romanée", possibly derived from Roman origins or the local Burgundian dialect term for "slope", with "Saint-Vivant," honoring the Benedictine Abbey of Saint-Vivant that played a crucial role in the vineyard's early development.
 
 The Abbey of Saint-Vivant, founded in the 9th century, established monastic viticulture within this privileged site as part of their broader agricultural and spiritual mission. The monks' meticulous record-keeping and systematic approach to vineyard management laid foundations for understanding terroir characteristics that continue to influence modern viticulture. Medieval documents from the abbey archives reference specific parcels within what is now Romanée-Saint-Vivant, indicating recognition of this site's exceptional quality from the earliest periods of documented Burgundian viticulture.
 
@@ -180,7 +180,7 @@ Vintage variation affects Romanée-Saint-Vivant similarly to other Burgundian si
 
 Producer differences create stylistic variations that affect aging trajectories and optimal drinking windows. DRC's low-yield, biodynamic approach typically produces wines requiring longer aging periods to achieve optimal integration, while other producers' techniques may create wines with earlier accessibility while maintaining long-term aging potential.
 
-Storage conditions significantly influence aging outcomes for Romanée-Saint-Vivant wines. Proper cellar conditions—consistent temperatures around 12-14°C, appropriate humidity levels, and minimal light exposure—are essential for optimal development. Well-stored bottles often exceed expected aging potential while poorly stored examples may deteriorate prematurely.
+Storage conditions significantly influence aging outcomes for Romanée-Saint-Vivant wines. Proper cellar conditions (consistent temperatures around 12-14°C, appropriate humidity levels, and minimal light exposure) are essential for optimal development. Well-stored bottles often exceed expected aging potential while poorly stored examples may deteriorate prematurely.
 
 ## Market Position & Collectibility
 

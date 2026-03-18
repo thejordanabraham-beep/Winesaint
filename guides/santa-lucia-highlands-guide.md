@@ -1,12 +1,12 @@
 # Santa Lucia Highlands: California's Wind-Sculpted Pinot Noir Terroir
 
-The Santa Lucia Highlands doesn't whisper. Its wines announce themselves with intensity—concentrated fruit, laser-cut acidity, and a structural backbone that separates serious Pinot Noir from mere prettiness. This is what happens when you plant vines on southeast-facing terraces where afternoon winds blow hard enough to flip grape leaves inside-out and force vine stomata to close mid-ripening.
+The Santa Lucia Highlands doesn't whisper. Its wines announce themselves with intensity, concentrated fruit, laser-cut acidity, and a structural backbone that separates serious Pinot Noir from mere prettiness. This is what happens when you plant vines on southeast-facing terraces where afternoon winds blow hard enough to flip grape leaves inside-out and force vine stomata to close mid-ripening.
 
 Stretching 30 kilometers (18 miles) along the western benchlands of the Salinas Valley, this AVA occupies a unique climatic sweet spot. Too close to Monterey Bay to be warm, too elevated to be truly cool, the region exists in perpetual tension between maritime assault and solar exposure. The result? Some of California's most structured, age-worthy Pinot Noir and Chardonnay.
 
 ## Geography and Orientation: The Terrace Advantage
 
-The Santa Lucia Highlands occupies a narrow band of alluvial terraces on the western side of the Salinas Valley, positioned between the valley floor (where industrial lettuce farming dominates) and the steep Santa Lucia mountain range. Vineyards climb from roughly 60 meters to 365 meters (200 to 1,200 feet) in elevation—not dramatic by mountain appellation standards, but critical here.
+The Santa Lucia Highlands occupies a narrow band of alluvial terraces on the western side of the Salinas Valley, positioned between the valley floor (where industrial lettuce farming dominates) and the steep Santa Lucia mountain range. Vineyards climb from roughly 60 meters to 365 meters (200 to 1,200 feet) in elevation, not dramatic by mountain appellation standards, but critical here.
 
 The southeast-facing orientation is everything. Morning sun hits these slopes directly, warming soils and initiating photosynthesis early. By afternoon, when temperatures should theoretically peak, maritime winds funnel up the Salinas Valley corridor from Monterey Bay, 24 kilometers (15 miles) to the northwest. This creates a diurnal temperature swing that rivals any cool-climate region in California, with summer afternoon temperatures often dropping 20-25°F (11-14°C) within hours.
 
@@ -16,29 +16,29 @@ This differs fundamentally from the Arroyo Seco AVA immediately to the south. Ar
 
 Viticulturists don't typically celebrate wind. But in the Santa Lucia Highlands, it's non-negotiable.
 
-Afternoon winds regularly exceed 20-30 mph during the growing season, strong enough to physically stress vines. When wind speed increases beyond certain thresholds, grapevine stomata—the pores that regulate gas exchange—close defensively to prevent excessive water loss. This slows photosynthesis and extends the ripening period, sometimes by weeks compared to more sheltered sites.
+Afternoon winds regularly exceed 20-30 mph during the growing season, strong enough to physically stress vines. When wind speed increases beyond certain thresholds, grapevine stomata (the pores that regulate gas exchange) close defensively to prevent excessive water loss. This slows photosynthesis and extends the ripening period, sometimes by weeks compared to more sheltered sites.
 
-The practical effect: physiological ripeness (flavor development, tannin maturity, seed lignification) can catch up to sugar accumulation. Grapes develop complexity without racing toward 15%+ alcohol levels. This is why Santa Lucia Highlands Pinot Noir often shows darker fruit concentration yet maintains 13.5-14% alcohol—a profile more common in Burgundy than California.
+The practical effect: physiological ripeness (flavor development, tannin maturity, seed lignification) can catch up to sugar accumulation. Grapes develop complexity without racing toward 15%+ alcohol levels. This is why Santa Lucia Highlands Pinot Noir often shows darker fruit concentration yet maintains 13.5-14% alcohol: a profile more common in Burgundy than California.
 
 The wind also suppresses disease pressure. Botrytis, powdery mildew, and other fungal issues that plague coastal California vineyards find little purchase here. Canopies dry quickly after morning fog, and air circulation remains constant.
 
 ## Soils: Decomposed Granite and the Drainage Imperative
 
-The region's soils derive primarily from decomposed granite—specifically, weathered material eroded from the Santa Lucia Range and deposited as alluvial fans over millennia. These are well-drained, sandy loam soils with gravel components, offering minimal water retention.
+The region's soils derive primarily from decomposed granite, specifically, weathered material eroded from the Santa Lucia Range and deposited as alluvial fans over millennia. These are well-drained, sandy loam soils with gravel components, offering minimal water retention.
 
 In most California regions, this would necessitate heavy irrigation. Here, the constant fog provides supplemental moisture through condensation, and the extended growing season allows vines to access water more efficiently. Most vineyards still irrigate (the Salinas Valley floor's agricultural dominance depends on Salinas River water), but at lower volumes than comparable warm-climate sites.
 
-Soil depth varies significantly by elevation and position on the terrace. Higher-elevation sites often feature shallower soils with more exposed rock, forcing vines to struggle—desirable for quality wine production. Lower terrace positions offer deeper soils, which can produce higher yields if not carefully managed.
+Soil depth varies significantly by elevation and position on the terrace. Higher-elevation sites often feature shallower soils with more exposed rock, forcing vines to struggle, desirable for quality wine production. Lower terrace positions offer deeper soils, which can produce higher yields if not carefully managed.
 
 This soil profile contrasts sharply with the Salinas Valley floor, where deeper, more fertile soils support high-volume viticulture. It's the difference between 2-4 tons per acre (premium Pinot Noir) and 8-12 tons per acre (commercial Chardonnay). The Santa Lucia Highlands' best producers cleave firmly to the former.
 
 ## Climate: The Fog-Wind-Sun Trinity
 
-The Santa Lucia Highlands experiences a Mediterranean climate modified almost beyond recognition by marine influence. Summer days begin with fog—dense, cold, and persistent. By mid-morning, fog typically burns off as the Salinas Valley heats and creates a low-pressure zone that draws in more marine air.
+The Santa Lucia Highlands experiences a Mediterranean climate modified almost beyond recognition by marine influence. Summer days begin with fog, dense, cold, and persistent. By mid-morning, fog typically burns off as the Salinas Valley heats and creates a low-pressure zone that draws in more marine air.
 
 This sets up the region's defining pattern: morning sun, afternoon wind, evening fog. Repeat for 140-160 days during the growing season.
 
-Growing degree days (GDD) using the Winkler scale place most of the AVA in Region I or cool Region II—similar to Carneros or the Russian River Valley. But raw GDD numbers don't capture the wind effect or the extended hang time. Harvest here often runs into late October or even November for Pinot Noir, while warmer regions finish by late September.
+Growing degree days (GDD) using the Winkler scale place most of the AVA in Region I or cool Region II, similar to Carneros or the Russian River Valley. But raw GDD numbers don't capture the wind effect or the extended hang time. Harvest here often runs into late October or even November for Pinot Noir, while warmer regions finish by late September.
 
 Frost risk is minimal due to elevation and air drainage, though spring frosts can occasionally threaten lower sites. The bigger concern is uneven ripening in the coolest years, when northern portions of the AVA struggle to fully ripen even Pinot Noir.
 
@@ -48,7 +48,7 @@ Not all Santa Lucia Highlands vineyards are created equal. A significant mesocli
 
 **Northern Section** (near Soledad): Coolest and windiest. Fog lingers longer, winds blow harder, temperatures stay lower. This is Pinot Noir and Chardonnay territory exclusively. Wines show higher acidity, more restrained fruit, and often more herbal or floral notes.
 
-**Central Section** (Gonzales area): The Goldilocks zone. Slightly warmer than the north, still thoroughly cool-climate, with the best balance of sun exposure and wind moderation. This is where the AVA's most acclaimed vineyards cluster—Rosella's, Garys', Pisoni, and others.
+**Central Section** (Gonzales area): The Goldilocks zone. Slightly warmer than the north, still thoroughly cool-climate, with the best balance of sun exposure and wind moderation. This is where the AVA's most acclaimed vineyards cluster. Rosella's, Garys', Pisoni, and others.
 
 **Southern Section** (transitioning toward Arroyo Seco): Warmer and more variable. Some sites can ripen Syrah successfully, and Chardonnay takes on riper, more tropical characteristics. The line between Santa Lucia Highlands and Arroyo Seco blurs here, both geographically and stylistically.
 
@@ -56,11 +56,11 @@ This gradient matters when tasting. A Pinot Noir from Rosella's Vineyard (centra
 
 ## Chardonnay: The Original Success Story
 
-Before Pinot Noir became the AVA's calling card, Chardonnay built the region's reputation. Planted since the 1960s, Chardonnay still represents a significant percentage of the 2,590 hectares (6,400 acres) under vine—though precise current figures hover around 40-45%, with Pinot Noir now claiming the majority.
+Before Pinot Noir became the AVA's calling card, Chardonnay built the region's reputation. Planted since the 1960s, Chardonnay still represents a significant percentage of the 2,590 hectares (6,400 acres) under vine, though precise current figures hover around 40-45%, with Pinot Noir now claiming the majority.
 
 Santa Lucia Highlands Chardonnay occupies a stylistic middle ground. It's not the tropical fruit bomb of warm-climate California, nor the austere mineral-driven style of Chablis. Instead, expect ripe stone fruit (white peach, nectarine), citrus (Meyer lemon), and a saline minerality that likely derives from marine aerosols carried by wind.
 
-Acidity is the defining characteristic. Natural acidity regularly sits at 7-8 g/L (as tartaric acid), allowing winemakers to use full malolactic fermentation and moderate oak without producing flabby wines. The best examples age surprisingly well—8-12 years is not uncommon for top bottlings.
+Acidity is the defining characteristic. Natural acidity regularly sits at 7-8 g/L (as tartaric acid), allowing winemakers to use full malolactic fermentation and moderate oak without producing flabby wines. The best examples age surprisingly well, 8-12 years is not uncommon for top bottlings.
 
 Key Chardonnay producers include:
 - **Pisoni Estate**: Rich yet focused, with pronounced salinity
@@ -73,13 +73,13 @@ Key Chardonnay producers include:
 If Chardonnay built the region, Pinot Noir defined it. The variety now dominates both acreage and reputation, producing wines that challenge Oregon and Sonoma Coast for California Pinot supremacy.
 
 Santa Lucia Highlands Pinot Noir typically shows:
-- **Dark fruit concentration**: Blackberry, black cherry, plum—darker than Russian River or Carneros
+- **Dark fruit concentration**: Blackberry, black cherry, plum, darker than Russian River or Carneros
 - **Firm structure**: Tannins are present and grippy, not soft or plush
 - **Vibrant acidity**: 6-7 g/L is common, providing freshness and age-worthiness
 - **Herbal/floral notes**: Dried herbs, sage, violet, rose petal
 - **Moderate alcohol**: 13.5-14.5% despite full ripeness
 
-This is not fruit-forward, drink-now Pinot. These wines demand food, benefit from decanting, and improve with 3-5 years of bottle age. The style is more Gevrey-Chambertin than Volnay—structured rather than ethereal.
+This is not fruit-forward, drink-now Pinot. These wines demand food, benefit from decanting, and improve with 3-5 years of bottle age. The style is more Gevrey-Chambertin than Volnay, structured rather than ethereal.
 
 Clone selection matters significantly. The region's best vineyards plant multiple Dijon clones (115, 667, 777) alongside heritage selections (Pommard, Swan). This diversity creates complexity and helps manage the long growing season's challenges.
 
@@ -101,7 +101,7 @@ These vineyards function almost as separate appellations. Knowledgeable consumer
 
 ## Syrah: The Third Way
 
-Syrah occupies a small but significant niche in the warmest, most sheltered sites. This is not Barossa Shiraz—expect 13.5-14% alcohol, pronounced black pepper and olive tannin, and firm acidity.
+Syrah occupies a small but significant niche in the warmest, most sheltered sites. This is not Barossa Shiraz, expect 13.5-14% alcohol, pronounced black pepper and olive tannin, and firm acidity.
 
 The best examples come from:
 - **Rosella's Vineyard** (warmest blocks)
@@ -112,7 +112,7 @@ Producers like Broc Cellars, Sandhi, and Copain have made compelling Santa Lucia
 
 ## Ownership Concentration: The Corporate Reality
 
-Large wine companies control significant Santa Lucia Highlands acreage. Jackson Family Wines, J. Lohr Vineyards, and Wente Family Estates own or lease substantial vineyard holdings. This isn't necessarily negative—these companies often farm well and sell grapes to quality-focused smaller producers.
+Large wine companies control significant Santa Lucia Highlands acreage. Jackson Family Wines, J. Lohr Vineyards, and Wente Family Estates own or lease substantial vineyard holdings. This isn't necessarily negative: these companies often farm well and sell grapes to quality-focused smaller producers.
 
 However, it creates a two-tier system: estate-bottled wines from family vineyards (Pisoni, Lucia, Roar) versus purchased-fruit wines from corporate-owned vineyards. Quality can be excellent in both categories, but the estate bottlings generally command higher prices and critical acclaim.
 
@@ -133,7 +133,7 @@ The region's natural acidity and firm tannins allow winemakers to avoid manipula
 
 ## The Riesling Question
 
-Riesling appears occasionally in the coolest northern sections, producing wines with piercing acidity and citrus-mineral character. However, plantings remain minimal—perhaps 1-2% of total acreage.
+Riesling appears occasionally in the coolest northern sections, producing wines with piercing acidity and citrus-mineral character. However, plantings remain minimal, perhaps 1-2% of total acreage.
 
 Why so little? Economics, primarily. Pinot Noir and Chardonnay command higher prices, and Riesling's reputation in California remains underdeveloped compared to Washington or the Finger Lakes. But the potential is real. Producers like Jolie-Laide and A Tribute to Grace have made compelling examples, suggesting Riesling could be the next frontier.
 
@@ -160,7 +160,7 @@ Why so little? Economics, primarily. Pinot Noir and Chardonnay command higher pr
 
 ## Food Pairing: Structure Demands Substance
 
-The region's wines aren't cocktail sippers. Their acidity and structure demand food—preferably rich food with fat and umami.
+The region's wines aren't cocktail sippers. Their acidity and structure demand food, preferably rich food with fat and umami.
 
 **Pinot Noir**:
 - Duck breast with cherry gastrique

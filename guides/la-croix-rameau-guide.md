@@ -54,7 +54,7 @@ Harvest timing at La Croix Rameau typically occurs in late September to early Oc
 
 Wines from La Croix Rameau exhibit a distinctive character that reflects both the terroir's unique geological composition and its position within the Vosne-Romanée hierarchy. These wines typically display remarkable aromatic complexity, combining the floral elegance associated with Vosne-Romanée with deeper, more structured elements that reflect the vineyard's limestone-clay terroir.
 
-The aromatic profile of La Croix Rameau Pinot Noir characteristically opens with red berry fruits—particularly cherry and raspberry—accompanied by floral notes of violet and rose petal. As the wines develop, more complex secondary aromatics emerge, including forest floor, truffle, and subtle spice elements derived from both terroir and careful winemaking. The limestone influence appears in a distinctive mineral backbone that provides lift and definition to the aromatic expression.
+The aromatic profile of La Croix Rameau Pinot Noir characteristically opens with red berry fruits (particularly cherry and raspberry) accompanied by floral notes of violet and rose petal. As the wines develop, more complex secondary aromatics emerge, including forest floor, truffle, and subtle spice elements derived from both terroir and careful winemaking. The limestone influence appears in a distinctive mineral backbone that provides lift and definition to the aromatic expression.
 
 On the palate, La Croix Rameau wines demonstrate remarkable balance between power and elegance. The tannin structure, influenced by the clay component in the soil, provides sufficient backbone for aging while maintaining the refinement expected from Premier Cru Vosne-Romanée. The wines typically show medium to medium-full body, with a silky texture that reflects the limestone terroir's influence on the grape's phenolic development.
 
@@ -68,9 +68,9 @@ Within the Vosne-Romanée Premier Cru hierarchy, La Croix Rameau occupies a dist
 
 When compared to Aux Malconsorts, widely considered among Vosne-Romanée's finest Premier Crus, La Croix Rameau wines generally display less immediate power but often show superior aging potential due to their limestone-influenced structure. The wines tend to be more restrained in youth, requiring additional cellaring to fully express their complexity.
 
-Relative to Les Beaux Monts, another prestigious Vosne-Romanée Premier Cru, La Croix Rameau produces wines with different textural qualities—typically showing more refined tannins and greater mineral precision, though perhaps less exotic aromatic complexity. The differences reflect variations in soil composition and microclimate between the two sites.
+Relative to Les Beaux Monts, another prestigious Vosne-Romanée Premier Cru, La Croix Rameau produces wines with different textural qualities, typically showing more refined tannins and greater mineral precision, though perhaps less exotic aromatic complexity. The differences reflect variations in soil composition and microclimate between the two sites.
 
-In comparison to the Grand Cru vineyards of Vosne-Romanée—La Tâche, Romanée-Conti, Richebourg, and La Romanée—La Croix Rameau wines naturally show less concentration and complexity but often display remarkable elegance and terroir expression that justifies their Premier Cru status. The wines can occasionally approach Grand Cru quality in exceptional vintages, particularly when produced by skilled vignerons who understand the vineyard's specific requirements.
+In comparison to the Grand Cru vineyards of Vosne-Romanée. La Tâche, Romanée-Conti, Richebourg, and La Romanée. La Croix Rameau wines naturally show less concentration and complexity but often display remarkable elegance and terroir expression that justifies their Premier Cru status. The wines can occasionally approach Grand Cru quality in exceptional vintages, particularly when produced by skilled vignerons who understand the vineyard's specific requirements.
 
 ## Notable Producers
 

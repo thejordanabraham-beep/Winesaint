@@ -4,7 +4,7 @@
 
 ### Location and Geography
 
-Montée de Tonnerre stands as one of Chablis' most celebrated Premier Cru climats, positioned strategically on the left bank of the Serein River. The vineyard sits directly across from the renowned Grand Cru hillside, occupying a privileged southwest-facing slope in the commune of Fyé, just outside the town of Chablis itself. This proximity to the Grand Crus is no coincidence—many experts consider Montée de Tonnerre to produce wines of near-Grand Cru quality, representing the pinnacle of Premier Cru expression.
+Montée de Tonnerre stands as one of Chablis' most celebrated Premier Cru climats, positioned strategically on the left bank of the Serein River. The vineyard sits directly across from the renowned Grand Cru hillside, occupying a privileged southwest-facing slope in the commune of Fyé, just outside the town of Chablis itself. This proximity to the Grand Crus is no coincidence, many experts consider Montée de Tonnerre to produce wines of near-Grand Cru quality, representing the pinnacle of Premier Cru expression.
 
 The climat extends along a steep, amphitheater-shaped hillside that rises dramatically from the valley floor. Its advantageous position captures maximum sunlight exposure while benefiting from the protective influences of the surrounding landscape.
 
@@ -18,7 +18,7 @@ The climat encompasses several smaller lieux-dits that may be bottled either und
 
 The name "Montée de Tonnerre" translates roughly to "Thunder Mountain" or "Thundering Ascent," though its etymology remains debated among historians. Some suggest it references the sound of carts rumbling up the steep slope during harvest, while others connect it to the thunderous reputation of wines produced here.
 
-Historical records document viticulture on this hillside dating back to medieval times, when Cistercian monks recognized the site's exceptional potential. The monks' meticulous observation and classification laid the foundation for understanding which parcels produced the finest wines—a recognition that continues today. By the 19th century, Montée de Tonnerre had already established itself among Chablis' most prestigious vineyards, with wines sought after in Paris and beyond.
+Historical records document viticulture on this hillside dating back to medieval times, when Cistercian monks recognized the site's exceptional potential. The monks' meticulous observation and classification laid the foundation for understanding which parcels produced the finest wines: a recognition that continues today. By the 19th century, Montée de Tonnerre had already established itself among Chablis' most prestigious vineyards, with wines sought after in Paris and beyond.
 
 The Premier Cru classification system formalized in 1967 officially recognized Montée de Tonnerre's status, though its reputation had been secure for centuries prior.
 
@@ -30,11 +30,11 @@ The magic of Montée de Tonnerre begins beneath the surface. The vineyard sits a
 
 This particular composition offers several viticultural advantages. The clay component retains sufficient moisture to sustain vines during dry periods, while the limestone provides excellent drainage and regulates water availability. The fossil content contributes mineral elements that many believe influence the wine's distinctive character. The soil's pale color reflects sunlight back onto the grape clusters, enhancing ripening while the porous structure encourages deep root penetration.
 
-In Montée de Tonnerre, the Kimmeridgian layer proves particularly thick and pure, with minimal topsoil covering—often just 30-40 centimeters of earth above the bedrock. This forces vine roots to penetrate deeply into the marl, creating stress that concentrates flavors and enhances the wine's mineral expression.
+In Montée de Tonnerre, the Kimmeridgian layer proves particularly thick and pure, with minimal topsoil covering, often just 30-40 centimeters of earth above the bedrock. This forces vine roots to penetrate deeply into the marl, creating stress that concentrates flavors and enhances the wine's mineral expression.
 
 ### Exposition and Slope
 
-Montée de Tonnerre's southwest-facing exposition ranks among its greatest assets. This orientation captures the afternoon sun, crucial in Chablis' cool continental climate for achieving optimal ripeness. The slope angle varies from moderate to steep—ranging from 10% to 30% in the steepest sections—providing natural drainage and preventing water accumulation around vine roots.
+Montée de Tonnerre's southwest-facing exposition ranks among its greatest assets. This orientation captures the afternoon sun, crucial in Chablis' cool continental climate for achieving optimal ripeness. The slope angle varies from moderate to steep (ranging from 10% to 30% in the steepest sections) providing natural drainage and preventing water accumulation around vine roots.
 
 The amphitheater-like configuration creates a natural sun trap, with the concave hillside capturing and concentrating warmth. Protected from cold northern winds by the higher ground behind it, the vineyard enjoys a mesoclimate several degrees warmer than flatter sites. This protection proves essential during the critical flowering and ripening periods.
 
@@ -48,7 +48,7 @@ Drainage flows naturally and efficiently down the slope, preventing waterlogging
 
 What distinguishes Montée de Tonnerre from other Premier Crus is the combination of factors that rarely align so perfectly elsewhere. The purity and depth of Kimmeridgian marl, the ideal southwest exposition, the protective topography, and the proximity to the Grand Cru hillside create a terroir capable of producing wines of exceptional precision and power.
 
-The fossil-rich marl here seems to impart an unmistakable saline quality to the wines—that characteristic "oyster shell" minerality that defines great Chablis. The steep slopes enforce low natural yields, concentrating flavors without requiring interventionist viticulture.
+The fossil-rich marl here seems to impart an unmistakable saline quality to the wines, that characteristic "oyster shell" minerality that defines great Chablis. The steep slopes enforce low natural yields, concentrating flavors without requiring interventionist viticulture.
 
 ## Climate & Viticulture
 
@@ -56,7 +56,7 @@ The fossil-rich marl here seems to impart an unmistakable saline quality to the 
 
 Chablis occupies one of France's northernmost quality wine regions, subject to a continental climate characterized by cold winters, warm summers, and significant diurnal temperature variation. Montée de Tonnerre's specific microclimate moderates these extremes somewhat, benefiting from its protected position and solar exposure.
 
-Spring arrives slightly earlier here than on less-favored sites, advancing bud break by several days. This can prove both advantageous and risky—earlier development extends the growing season but increases frost vulnerability. Summer temperatures on the slope can reach several degrees higher than the valley floor, crucial for phenolic ripeness. Autumn's cool nights preserve acidity while warm days complete sugar accumulation, creating wines of remarkable balance.
+Spring arrives slightly earlier here than on less-favored sites, advancing bud break by several days. This can prove both advantageous and risky, earlier development extends the growing season but increases frost vulnerability. Summer temperatures on the slope can reach several degrees higher than the valley floor, crucial for phenolic ripeness. Autumn's cool nights preserve acidity while warm days complete sugar accumulation, creating wines of remarkable balance.
 
 Annual rainfall averages approximately 700-750mm, with precipitation distributed fairly evenly throughout the year. The well-drained slopes shed excess moisture efficiently, reducing disease pressure and preventing dilution.
 
@@ -80,7 +80,7 @@ Vine age significantly influences quality. Many Montée de Tonnerre parcels cont
 
 Viticultural approaches in Montée de Tonnerre range from traditional to progressive, with increasing emphasis on sustainable and organic practices. Vine density typically ranges from 5,500 to 6,500 plants per hectare, promoting competition and limiting yields naturally.
 
-Pruning follows the Chablis tradition of Guyot simple or double, with strict bud counts to control crop levels. Yields for Premier Cru Chablis are legally capped at 58 hectoliters per hectare, though quality-focused producers often harvest significantly less—40-48 hl/ha in top vintages.
+Pruning follows the Chablis tradition of Guyot simple or double, with strict bud counts to control crop levels. Yields for Premier Cru Chablis are legally capped at 58 hectoliters per hectare, though quality-focused producers often harvest significantly less, 40-48 hl/ha in top vintages.
 
 Soil management varies: some producers maintain grass cover to encourage deep rooting and reduce erosion, while others practice careful tillage to eliminate competition and warm soils. Canopy management focuses on optimal sun exposure and air circulation while preventing overexposure that might compromise acidity.
 
@@ -90,11 +90,11 @@ Harvest timing proves critical. Producers walk a tightrope between physiological
 
 ### Typical Flavor Profiles and Aromas
 
-Montée de Tonnerre produces wines of remarkable precision and purity, characterized by a distinctive mineral backbone that defines the climat's signature. In youth, these wines display bright citrus notes—lemon zest, lime, and grapefruit—alongside green apple and white peach. The aromatic profile typically shows restraint rather than exuberance, with subtle white flower notes (acacia, hawthorn) and that characteristic gunflint or wet stone minerality.
+Montée de Tonnerre produces wines of remarkable precision and purity, characterized by a distinctive mineral backbone that defines the climat's signature. In youth, these wines display bright citrus notes (lemon zest, lime, and grapefruit) alongside green apple and white peach. The aromatic profile typically shows restraint rather than exuberance, with subtle white flower notes (acacia, hawthorn) and that characteristic gunflint or wet stone minerality.
 
 The palate reveals Montée de Tonnerre's true character: piercing acidity provides a steel frame supporting concentrated fruit, while the mineral component manifests as a saline, almost briny quality reminiscent of oyster shells and sea spray. There's a sense of tension and energy, a coiled spring quality that distinguishes great Chablis from merely good examples.
 
-Texture proves noteworthy—Montée de Tonnerre combines precision with substance, offering more weight and glycerin than many Premier Crus while maintaining laser-like focus. The finish extends impressively, with mineral notes lingering long after the fruit fades.
+Texture proves noteworthy. Montée de Tonnerre combines precision with substance, offering more weight and glycerin than many Premier Crus while maintaining laser-like focus. The finish extends impressively, with mineral notes lingering long after the fruit fades.
 
 ### Comparison to Other Chablis Premier Crus
 
@@ -106,11 +106,11 @@ Within Montée de Tonnerre itself, the constituent lieux-dits express subtle var
 
 ### Minerality, Acidity, and Body Characteristics
 
-The concept of minerality—controversial among wine scientists but intuitively understood by tasters—finds clear expression in Montée de Tonnerre. Whether derived from the fossilized marine sediments, the vine's interaction with limestone, or simply a sensory impression, the wines consistently display what tasters describe as mineral character: flinty, chalky, saline, and stony notes that form an essential component of the flavor profile.
+The concept of minerality (controversial among wine scientists but intuitively understood by tasters) finds clear expression in Montée de Tonnerre. Whether derived from the fossilized marine sediments, the vine's interaction with limestone, or simply a sensory impression, the wines consistently display what tasters describe as mineral character: flinty, chalky, saline, and stony notes that form an essential component of the flavor profile.
 
 Acidity defines the structure, typically registering in the high range (pH 3.0-3.2) but always integrated and balanced rather than harsh or aggressive. This acid backbone provides freshness even in riper vintages and enables extended aging.
 
-Body weight falls into the medium to medium-plus category—more substantial than generic Chablis or lesser Premier Crus, but retaining the tension and energy that separate Chablis from richer Chardonnay expressions elsewhere. Alcohol levels typically range from 12.5% to 13.5%, providing structure without heaviness.
+Body weight falls into the medium to medium-plus category, more substantial than generic Chablis or lesser Premier Crus, but retaining the tension and energy that separate Chablis from richer Chardonnay expressions elsewhere. Alcohol levels typically range from 12.5% to 13.5%, providing structure without heaviness.
 
 ### How Terroir Shapes the Wine
 
@@ -153,7 +153,7 @@ Vintage character significantly impacts Montée de Tonnerre's expression and agi
 
 **Cool vintages** (2014, 2021) yield more classic expressions with higher acidity, pronounced minerality, and potentially greater longevity, though they require patience.
 
-**Balanced vintages** (2017, 2022) offer ideal conditions, producing wines that combine concentration with structure and elegance—often the longest-lived examples.
+**Balanced vintages** (2017, 2022) offer ideal conditions, producing wines that combine concentration with structure and elegance, often the longest-lived examples.
 
 Frost-reduced vintages result in lower yields and concentrated wines, though production quantities decrease significantly.
 
@@ -163,7 +163,7 @@ Frost-reduced vintages result in lower yields and concentrated wines, though pro
 
 Domaine William Fèvre holds the largest stake in Montée de Tonnerre, with approximately 3.6 hectares including significant parcels in Chapelot and Pied d'Aloup. The domaine bottles these separately as well as a Montée de Tonnerre cuvée. Their approach combines traditional viticulture with modern precision, utilizing stainless steel fermentation and minimal oak aging (around 15-20% in large barrels).
 
-William Fèvre's Montée de Tonnerre represents a benchmark for the climat—powerful yet refined, with emphatic minerality and excellent aging potential. The estate's holdings include some of the climat's oldest vines, contributing to the wines' depth and complexity.
+William Fèvre's Montée de Tonnerre represents a benchmark for the climat, powerful yet refined, with emphatic minerality and excellent aging potential. The estate's holdings include some of the climat's oldest vines, contributing to the wines' depth and complexity.
 
 ### Domaine Raveneau
 
@@ -175,13 +175,13 @@ Raveneau's interpretation emphasizes precision, purity, and extraordinary depth.
 
 Domaine Louis Michel represents the pure, unoaked expression of Montée de Tonnerre. With approximately 2 hectares in the climat, they produce wines that showcase terroir unadorned by wood influence. Fermentation and aging occur entirely in stainless steel, preserving crystalline clarity and precise mineral expression.
 
-The Louis Michel style emphasizes tension, energy, and transparency—wines that speak directly of place rather than winemaking. Their Montée de Tonnerre requires several years to open but rewards patience with brilliant, focused expression.
+The Louis Michel style emphasizes tension, energy, and transparency, wines that speak directly of place rather than winemaking. Their Montée de Tonnerre requires several years to open but rewards patience with brilliant, focused expression.
 
 ### Samuel Billaud
 
 A relatively young producer who has quickly established an excellent reputation, Samuel Billaud works approximately 0.7 hectares in Montée de Tonnerre. His approach balances modern understanding with classical principles, using natural fermentation, extended lees aging, and minimal sulfur.
 
-Billaud's wines show distinctive personality—precise yet textured, mineral-driven but with aromatic complexity. They often display more immediate appeal than some traditional styles while maintaining aging potential.
+Billaud's wines show distinctive personality, precise yet textured, mineral-driven but with aromatic complexity. They often display more immediate appeal than some traditional styles while maintaining aging potential.
 
 ### Other Notable Producers
 
@@ -199,7 +199,7 @@ Billaud's wines show distinctive personality—precise yet textured, mineral-dri
 
 Montée de Tonnerre's combination of minerality, acidity, and texture makes it remarkably versatile at the table, particularly with seafood and shellfish:
 
-**Oysters** represent the iconic pairing—the wine's saline minerality and bracing acidity mirror and enhance the oceanic character of raw oysters, creating a synergy that epitomizes regional food-wine harmony. Both Brittany and Norman oysters work beautifully.
+**Oysters** represent the iconic pairing: the wine's saline minerality and bracing acidity mirror and enhance the oceanic character of raw oysters, creating a synergy that epitomizes regional food-wine harmony. Both Brittany and Norman oysters work beautifully.
 
 **Shellfish preparations** of all kinds suit Montée de Tonnerre: steamed mussels, clams in white wine sauce, lobster (especially simply prepared), scallops (raw, seared, or in cream sauce), and crab. The wine's acidity cuts through richness while its mineral character complements the sweet brininess of crustaceans.
 
@@ -235,4 +235,4 @@ If reduction (struck match, gunflint aromas) appears pronounced on opening, vigo
 
 ---
 
-Montée de Tonnerre represents Chablis at its most compelling—a climat where geology, geography, and generations of winegrowing expertise combine to produce wines of profound character and remarkable longevity. Whether enjoyed young for its crystalline purity and bracing energy or aged to reveal layers of complexity, Montée de Tonnerre offers a pure expression of Kimmeridgian terroir and Chardonnay's noble potential. For those seeking to understand great Chablis, this climat provides an essential reference point, a wine that captures both the region's classical rigor and its capacity for transcendent beauty.
+Montée de Tonnerre represents Chablis at its most compelling: a climat where geology, geography, and generations of winegrowing expertise combine to produce wines of profound character and remarkable longevity. Whether enjoyed young for its crystalline purity and bracing energy or aged to reveal layers of complexity, Montée de Tonnerre offers a pure expression of Kimmeridgian terroir and Chardonnay's noble potential. For those seeking to understand great Chablis, this climat provides an essential reference point, a wine that captures both the region's classical rigor and its capacity for transcendent beauty.

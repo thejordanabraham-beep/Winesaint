@@ -17,7 +17,7 @@ Rieslings from Erdener Treppchen are characterized by:
 - **Distinctive iron/mineral backbone** that sets them apart from blue slate sites
 - **Excellent aging potential**, developing complex tertiary characters over decades
 
-The red slate imparts a unique flavor profile that experienced tasters can identify blind—a certain muscular quality combined with mineral tension that differs markedly from the more delicate expressions of gray slate vineyards.
+The red slate imparts a unique flavor profile that experienced tasters can identify blind: a certain muscular quality combined with mineral tension that differs markedly from the more delicate expressions of gray slate vineyards.
 
 ## Notable Producers
 
@@ -35,7 +35,7 @@ The red slate imparts a unique flavor profile that experienced tasters can ident
 
 The medieval stairs remain visible in the vineyard today, a testament to centuries of continuous viticulture on these challenging slopes. The Romans likely planted vines here during their occupation of the Mosel Valley, and the site has remained in continuous production through every subsequent era of German winemaking.
 
-The red slate terroir of Treppchen represents a geological anomaly in the Mosel—a small pocket of iron-rich slate that creates a distinctive wine profile unlike any of its neighbors.
+The red slate terroir of Treppchen represents a geological anomaly in the Mosel: a small pocket of iron-rich slate that creates a distinctive wine profile unlike any of its neighbors.
 
 Sources:
 - [Dr. Loosen Erdener Treppchen](https://loosenbrosusa.com/wp-content/uploads/2024/11/Dr-Loosen-Erdener-Treppchen-Spatlese-2023-Info.pdf)

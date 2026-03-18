@@ -4,13 +4,13 @@
 
 The provided research context contains no information about Winninger Röttgen. Instead, it discusses Châteauneuf-du-Pape (Domaine de Ferrand), Burgundy's tenancy systems, Barolo's MGAs, and Domaine Roulot in Meursault. This is entirely unrelated to a Mosel vineyard site.
 
-Without accurate source material, I cannot produce the detailed, factually grounded guide this format demands. The Jura Guide style requires specific data—soil compositions, elevation measurements, geological history, producer practices—none of which is available in the research provided.
+Without accurate source material, I cannot produce the detailed, factually grounded guide this format demands. The Jura Guide style requires specific data (soil compositions, elevation measurements, geological history, producer practices) none of which is available in the research provided.
 
 ## What We Know (Minimal)
 
 Winninger Röttgen is an Einzellage (single vineyard site) within the Terrassenmosel subregion of Germany's Mosel valley. The village of Winningen sits in the Lower Mosel (Terrassenmosel), where the river creates dramatic terraced slopes before meeting the Rhine near Koblenz.
 
-The name "Röttgen" suggests cleared land (from *roden*, to clear), indicating historical forest conversion to viticulture—common in medieval Mosel development. The "-gen" diminutive suffix implies a smaller parcel, likely cultivated by a single family or monastery initially.
+The name "Röttgen" suggests cleared land (from *roden*, to clear), indicating historical forest conversion to viticulture, common in medieval Mosel development. The "-gen" diminutive suffix implies a smaller parcel, likely cultivated by a single family or monastery initially.
 
 ## The Terrassenmosel Context
 

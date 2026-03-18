@@ -1,20 +1,20 @@
 # Burgundy: The Heartland of Terroir
 
-Burgundy is not the largest wine region in France. It is not the most productive. It does not grow the most grape varieties. Yet it remains the most studied, most debated, and most obsessively analyzed wine region on Earth. Why? Because nowhere else does the concept of terroir—that ineffable connection between place and taste—express itself with such crystalline precision. A few hundred meters of vineyard can separate a €30 bottle from a €3,000 one. This is not hyperbole. This is Burgundy.
+Burgundy is not the largest wine region in France. It is not the most productive. It does not grow the most grape varieties. Yet it remains the most studied, most debated, and most obsessively analyzed wine region on Earth. Why? Because nowhere else does the concept of terroir (that ineffable connection between place and taste) express itself with such crystalline precision. A few hundred meters of vineyard can separate a €30 bottle from a €3,000 one. This is not hyperbole. This is Burgundy.
 
-The region stretches roughly 200 kilometers from Chablis in the north to Mâcon in the south, following a narrow limestone spine that formed in the Jurassic period, 200 to 145 million years ago. Unlike Bordeaux's sprawling estates or the Rhône's diverse topography, Burgundy is fundamentally about fragmentation—geologically, historically, and commercially. Understanding this fragmentation is essential to understanding everything else.
+The region stretches roughly 200 kilometers from Chablis in the north to Mâcon in the south, following a narrow limestone spine that formed in the Jurassic period, 200 to 145 million years ago. Unlike Bordeaux's sprawling estates or the Rhône's diverse topography, Burgundy is fundamentally about fragmentation, geologically, historically, and commercially. Understanding this fragmentation is essential to understanding everything else.
 
 ## GEOLOGY: The Jurassic Foundation
 
-Between 200 and 145 million years ago, the area now called Burgundy lay beneath a warm, shallow tropical sea. Marine organisms—ammonites, belemnites, oysters, and tiny planktonic creatures—lived, died, and accumulated on the seafloor. Their calcium-rich shells compressed into limestone. This is the bedrock of Burgundy's greatest vineyards.
+Between 200 and 145 million years ago, the area now called Burgundy lay beneath a warm, shallow tropical sea. Marine organisms (ammonites, belemnites, oysters, and tiny planktonic creatures) lived, died, and accumulated on the seafloor. Their calcium-rich shells compressed into limestone. This is the bedrock of Burgundy's greatest vineyards.
 
 But limestone alone does not explain Burgundy. The critical factor is the ratio of limestone to marl (clay with high calcium carbonate content). In Burgundy's Côte d'Or, approximately 80% of the base rock is limestone and 20% is marl. This inverts the proportions found in the Jura to the east, where roughly 80% is marl and only 20% is limestone. This distinction matters profoundly for drainage, water retention, and the resulting wine style.
 
 ### The Côte d'Or: A Geological Masterpiece
 
-The Côte d'Or—the "Golden Slope"—runs approximately 50 kilometers from Dijon south to Santenay. It is not a continuous escarpment but rather a series of limestone ridges interrupted by valleys (combes) that channel cold air down from the plateau above. The slope faces predominantly east and southeast, catching morning sun while avoiding the harshest afternoon heat.
+The Côte d'Or (the "Golden Slope") runs approximately 50 kilometers from Dijon south to Santenay. It is not a continuous escarpment but rather a series of limestone ridges interrupted by valleys (combes) that channel cold air down from the plateau above. The slope faces predominantly east and southeast, catching morning sun while avoiding the harshest afternoon heat.
 
-The soils here are extraordinarily complex. At the top of the slope, near the forest line, you find thin, rocky soils with high limestone content—poor for most agriculture but ideal for white wines, particularly Chardonnay. Mid-slope, where the Grand Cru and Premier Cru vineyards cluster, the soils deepen slightly and contain more marl, providing better water retention for Pinot Noir. At the bottom of the slope, alluvial deposits and heavier clays dominate—these are the village-level and regional appellations.
+The soils here are extraordinarily complex. At the top of the slope, near the forest line, you find thin, rocky soils with high limestone content, poor for most agriculture but ideal for white wines, particularly Chardonnay. Mid-slope, where the Grand Cru and Premier Cru vineyards cluster, the soils deepen slightly and contain more marl, providing better water retention for Pinot Noir. At the bottom of the slope, alluvial deposits and heavier clays dominate: these are the village-level and regional appellations.
 
 The most prized vineyards sit at elevations between 250 and 300 meters, where limestone debris from millennia of erosion has mixed with iron-rich oolite (small, rounded limestone pellets) and fossilized remains. The resulting soils are reddish-brown, well-drained, and mineral-rich. Geologist Michel Campy has documented how even within a single climat (vineyard parcel), soil composition can vary significantly based on ancient fault lines and erosion patterns.
 
@@ -22,23 +22,23 @@ The most prized vineyards sit at elevations between 250 and 300 meters, where li
 
 Chablis, 130 kilometers northwest of the Côte d'Or, sits on a different geological formation entirely. The bedrock here is Kimmeridgian marl, a specific type of limestone formed roughly 155 million years ago and named after the English village of Kimmeridge. This marl contains abundant fossilized oyster shells (Exogyra virgula), which are sometimes visible in the vineyard soils.
 
-Kimmeridgian marl is less pure than the limestone of the Côte d'Or—it contains more clay, which retains water and gives Chablis wines their characteristic tension and minerality. The cooler climate amplifies these effects, producing wines of razor-sharp acidity and restrained fruit character. The Grand Cru vineyards of Chablis all sit on a single southwest-facing slope above the Serein River, where the Kimmeridgian layer is thickest and most consistent.
+Kimmeridgian marl is less pure than the limestone of the Côte d'Or, it contains more clay, which retains water and gives Chablis wines their characteristic tension and minerality. The cooler climate amplifies these effects, producing wines of razor-sharp acidity and restrained fruit character. The Grand Cru vineyards of Chablis all sit on a single southwest-facing slope above the Serein River, where the Kimmeridgian layer is thickest and most consistent.
 
-Interestingly, the same Kimmeridgian formation extends across the English Channel to southern England, where it now supports a small but growing sparkling wine industry. The connection is not coincidental—both regions were part of the same ancient seabed.
+Interestingly, the same Kimmeridgian formation extends across the English Channel to southern England, where it now supports a small but growing sparkling wine industry. The connection is not coincidental, both regions were part of the same ancient seabed.
 
 ### Côte Chalonnaise and Mâconnais: Fragmented Limestone
 
-South of the Côte d'Or, the geology becomes more fragmented. The Côte Chalonnaise consists of isolated limestone outcrops separated by valleys and plains. The soils are more varied—some parcels have deep clay, others have thin limestone scree. This variability explains why the region produces good but rarely exceptional wines.
+South of the Côte d'Or, the geology becomes more fragmented. The Côte Chalonnaise consists of isolated limestone outcrops separated by valleys and plains. The soils are more varied, some parcels have deep clay, others have thin limestone scree. This variability explains why the region produces good but rarely exceptional wines.
 
-The Mâconnais, centered on Pouilly-Fuissé, features dramatic limestone crags rising abruptly from the valley floor. The Rocks of Solutré and Vergisson are the most visually striking, but numerous smaller hills provide well-exposed slopes for viticulture. The limestone here is harder and more compact than in the Côte d'Or, and the soils are generally deeper and more fertile. This suits Chardonnay well but makes Pinot Noir cultivation challenging—hence the Mâconnais is almost exclusively white wine country.
+The Mâconnais, centered on Pouilly-Fuissé, features dramatic limestone crags rising abruptly from the valley floor. The Rocks of Solutré and Vergisson are the most visually striking, but numerous smaller hills provide well-exposed slopes for viticulture. The limestone here is harder and more compact than in the Côte d'Or, and the soils are generally deeper and more fertile. This suits Chardonnay well but makes Pinot Noir cultivation challenging, hence the Mâconnais is almost exclusively white wine country.
 
 ## CLIMATE: Continental Challenges
 
-Burgundy has a continental climate with maritime influences. This means warm summers, cold winters, and significant seasonal temperature swings. The region sits at roughly 47°N latitude—the same as the northern Rhône but noticeably cooler due to its inland position and higher elevation.
+Burgundy has a continental climate with maritime influences. This means warm summers, cold winters, and significant seasonal temperature swings. The region sits at roughly 47°N latitude: the same as the northern Rhône but noticeably cooler due to its inland position and higher elevation.
 
 ### Temperature and Growing Season
 
-Average July temperatures in the Côte d'Or range from 19°C to 21°C, compared to 21°C to 23°C in Bordeaux. This difference might seem small, but it is significant for grape ripening. Pinot Noir and Chardonnay are early-ripening varieties, which is fortunate because Burgundy's growing season is relatively short. Harvest typically occurs in late September or early October, though climate change has shifted this earlier—now often mid-September or even late August in warm years.
+Average July temperatures in the Côte d'Or range from 19°C to 21°C, compared to 21°C to 23°C in Bordeaux. This difference might seem small, but it is significant for grape ripening. Pinot Noir and Chardonnay are early-ripening varieties, which is fortunate because Burgundy's growing season is relatively short. Harvest typically occurs in late September or early October, though climate change has shifted this earlier, now often mid-September or even late August in warm years.
 
 Winter temperatures regularly drop below freezing. January averages hover around 2°C to 3°C, and sub-zero nights are common. This cold forces vines into true dormancy, which is essential for their long-term health. However, it also creates spring frost risk when vines emerge from dormancy too early.
 
@@ -64,25 +64,25 @@ Some producers now purchase hail insurance, but premiums are expensive and cover
 
 Burgundy has warmed significantly over the past four decades. Harvest dates have advanced by roughly two weeks since the 1980s. Average alcohol levels in finished wines have risen from 12.5% to 13.5% or higher. Growers who once struggled to achieve full ripeness now worry about overripeness, loss of acidity, and jammy flavors that obscure terroir.
 
-This creates a paradox. Many of the viticultural advances that improved quality in the 1990s and 2000s—lower yields, better canopy management, later picking—were designed to achieve riper fruit. Now, with warmer temperatures, these same practices risk producing overly ripe wines. Producers are adapting by picking earlier, raising canopies to shade fruit, and in some cases replanting vineyards at higher elevations or on cooler north-facing slopes.
+This creates a paradox. Many of the viticultural advances that improved quality in the 1990s and 2000s (lower yields, better canopy management, later picking) were designed to achieve riper fruit. Now, with warmer temperatures, these same practices risk producing overly ripe wines. Producers are adapting by picking earlier, raising canopies to shade fruit, and in some cases replanting vineyards at higher elevations or on cooler north-facing slopes.
 
-Climate instability may be an even bigger concern than warming itself. The sequence of challenging vintages since 2013—frost in 2016 and 2021, hail in multiple years, drought in 2018 and 2019, rain in 2014—has tested producers' adaptability and financial resilience.
+Climate instability may be an even bigger concern than warming itself. The sequence of challenging vintages since 2013 (frost in 2016 and 2021, hail in multiple years, drought in 2018 and 2019, rain in 2014) has tested producers' adaptability and financial resilience.
 
 ## GRAPES: The Burgundian Quintet
 
-Burgundy is fundamentally a region of two grapes: Pinot Noir for red wines and Chardonnay for whites. These account for more than 90% of plantings. Three other varieties—Gamay, Aligoté, and Sauvignon Blanc (in Chablis)—play supporting roles. The simplicity is deceptive. Both Pinot Noir and Chardonnay are genetically complex, with numerous clones and mutations that affect vine behavior and wine style.
+Burgundy is fundamentally a region of two grapes: Pinot Noir for red wines and Chardonnay for whites. These account for more than 90% of plantings. Three other varieties (Gamay, Aligoté, and Sauvignon Blanc (in Chablis)) play supporting roles. The simplicity is deceptive. Both Pinot Noir and Chardonnay are genetically complex, with numerous clones and mutations that affect vine behavior and wine style.
 
 ### Pinot Noir: The Heartbreak Grape
 
 Pinot Noir is one of the oldest cultivated grape varieties, with DNA evidence suggesting it has been grown in Burgundy for at least 2,000 years. It is genetically unstable, mutating readily and producing numerous clones with different characteristics. This instability makes it difficult to cultivate but also allows it to express terroir with unusual clarity.
 
-**Viticulture**: Pinot Noir buds early, making it vulnerable to spring frost. It ripens relatively early (late September in Burgundy), which is advantageous in a cool climate but also means it can be caught by early autumn rains. The variety is susceptible to most major vine diseases: downy mildew, powdery mildew, grey rot, and fan leaf virus. Yields must be controlled—40 to 45 hectoliters per hectare is considered ideal for quality, though regulations allow higher yields for regional appellations.
+**Viticulture**: Pinot Noir buds early, making it vulnerable to spring frost. It ripens relatively early (late September in Burgundy), which is advantageous in a cool climate but also means it can be caught by early autumn rains. The variety is susceptible to most major vine diseases: downy mildew, powdery mildew, grey rot, and fan leaf virus. Yields must be controlled, 40 to 45 hectoliters per hectare is considered ideal for quality, though regulations allow higher yields for regional appellations.
 
-**Soil Preferences**: Pinot Noir performs best on limestone-rich soils with moderate clay content. Pure limestone drains too quickly and can stress the vines, while heavy clay retains too much water and produces dilute wines. The ideal balance—roughly 60% limestone and 40% clay—occurs mid-slope in the Côte d'Or, where the greatest red wine vineyards are located. Iron-rich oolite adds structure and color intensity.
+**Soil Preferences**: Pinot Noir performs best on limestone-rich soils with moderate clay content. Pure limestone drains too quickly and can stress the vines, while heavy clay retains too much water and produces dilute wines. The ideal balance (roughly 60% limestone and 40% clay) occurs mid-slope in the Côte d'Or, where the greatest red wine vineyards are located. Iron-rich oolite adds structure and color intensity.
 
 **Clonal Selection**: Burgundy has dozens of Pinot Noir clones, traditionally propagated by mass selection (taking cuttings from the best vines in a vineyard). In the 1970s and 1980s, French researchers developed high-yielding clones (777, 115, 114) that became widely planted. These clones produce consistent crops but are criticized for lacking complexity. Many top producers have returned to older, lower-yielding selections (Pommard, Dijon 667, 777) or plant field selections from their own vineyards.
 
-**Wine Style**: At its best, Burgundian Pinot Noir combines red fruit (cherry, raspberry, strawberry) with earthy, savory notes (mushroom, forest floor, leather) and a silky, fine-grained tannic structure. The wines are rarely deeply colored—translucent ruby is typical—and rely on aromatic complexity and texture rather than power. Aging potential varies: village wines peak at 5 to 10 years, Premier Crus at 10 to 20 years, and Grand Crus can develop for 30 years or more in top vintages.
+**Wine Style**: At its best, Burgundian Pinot Noir combines red fruit (cherry, raspberry, strawberry) with earthy, savory notes (mushroom, forest floor, leather) and a silky, fine-grained tannic structure. The wines are rarely deeply colored (translucent ruby is typical) and rely on aromatic complexity and texture rather than power. Aging potential varies: village wines peak at 5 to 10 years, Premier Crus at 10 to 20 years, and Grand Crus can develop for 30 years or more in top vintages.
 
 ### Chardonnay: The Blank Canvas
 
@@ -94,7 +94,7 @@ Chardonnay is a natural cross between Pinot and Gouais Blanc, an undistinguished
 
 **Clonal Selection**: Like Pinot Noir, Chardonnay has numerous clones. The Dijon clones (75, 76, 95, 96) are widely planted and produce balanced, aromatic wines. Older selections (Wente, See, Espiguette) are prized for their complexity but can be lower-yielding and more disease-prone.
 
-**Wine Style**: Chardonnay's neutrality makes it a perfect vehicle for terroir expression and winemaking choices. Chablis Chardonnay is lean, mineral, and citrus-driven, with little or no oak influence. Côte de Beaune Chardonnay is richer, with stone fruit flavors, nutty complexity from lees aging, and judicious oak integration. Mâconnais Chardonnay is fruit-forward and approachable, with apple and pear notes. The best examples balance fruit, acidity, texture, and oak seamlessly—no single element dominates.
+**Wine Style**: Chardonnay's neutrality makes it a perfect vehicle for terroir expression and winemaking choices. Chablis Chardonnay is lean, mineral, and citrus-driven, with little or no oak influence. Côte de Beaune Chardonnay is richer, with stone fruit flavors, nutty complexity from lees aging, and judicious oak integration. Mâconnais Chardonnay is fruit-forward and approachable, with apple and pear notes. The best examples balance fruit, acidity, texture, and oak seamlessly, no single element dominates.
 
 ### Aligoté: The Forgotten Burgundian
 
@@ -136,7 +136,7 @@ White winemaking in Burgundy varies more than red, with a spectrum of approaches
 
 **Fermentation**: Fermentation occurs in stainless steel tanks (common in Chablis) or oak barrels (common in the Côte de Beaune). Barrel fermentation integrates oak more subtly than barrel aging alone. Fermentation temperatures are cool (16°C to 20°C) to preserve aromatics. Malolactic fermentation is usually encouraged, softening acidity and adding buttery, creamy notes, though some Chablis producers block it to retain freshness.
 
-**Aging**: Aging on the lees (bâtonnage, or stirring the lees) is common in the Côte de Beaune, adding richness and a creamy mouthfeel. Aging lasts 10 to 18 months. As with reds, new oak use has declined—30% to 50% new oak is now typical for Premier Crus and Grand Crus, down from 70% to 100% in the 1990s.
+**Aging**: Aging on the lees (bâtonnage, or stirring the lees) is common in the Côte de Beaune, adding richness and a creamy mouthfeel. Aging lasts 10 to 18 months. As with reds, new oak use has declined, 30% to 50% new oak is now typical for Premier Crus and Grand Crus, down from 70% to 100% in the 1990s.
 
 **Bottling**: Whites are typically bottled 12 to 18 months after harvest. Some producers bottle earlier to preserve freshness (particularly in Chablis), while others age longer to develop complexity.
 
@@ -174,13 +174,13 @@ Key village appellations include:
 
 Premier Cru vineyards are designated sites within village appellations that historically produce superior wines. There are more than 600 Premier Crus in Burgundy, ranging in size from less than a hectare to more than 20 hectares. The wines must indicate both the village name and the Premier Cru vineyard name on the label (e.g., "Volnay 1er Cru Caillerets").
 
-Yield limits are slightly lower than village wines (typically 40 to 45 hectoliters per hectare for reds), and minimum alcohol levels are higher. Quality varies—some Premier Crus are nearly Grand Cru quality, while others are only marginally better than village wines.
+Yield limits are slightly lower than village wines (typically 40 to 45 hectoliters per hectare for reds), and minimum alcohol levels are higher. Quality varies, some Premier Crus are nearly Grand Cru quality, while others are only marginally better than village wines.
 
 ### Grand Cru (1.5% of Production)
 
-Grand Cru is the pinnacle of the Burgundian hierarchy. There are 33 Grand Crus, all located in the Côte d'Or (except for seven in Chablis). Grand Cru wines are labeled only with the vineyard name—no village name appears (e.g., "Chambertin," not "Gevrey-Chambertin Grand Cru Chambertin").
+Grand Cru is the pinnacle of the Burgundian hierarchy. There are 33 Grand Crus, all located in the Côte d'Or (except for seven in Chablis). Grand Cru wines are labeled only with the vineyard name, no village name appears (e.g., "Chambertin," not "Gevrey-Chambertin Grand Cru Chambertin").
 
-Grand Crus occupy the best mid-slope positions, with ideal exposure, drainage, and soil composition. Yield limits are the strictest (35 to 40 hectoliters per hectare), and minimum alcohol levels are the highest. Prices reflect this scarcity and prestige—Grand Crus routinely sell for hundreds or thousands of euros per bottle.
+Grand Crus occupy the best mid-slope positions, with ideal exposure, drainage, and soil composition. Yield limits are the strictest (35 to 40 hectoliters per hectare), and minimum alcohol levels are the highest. Prices reflect this scarcity and prestige. Grand Crus routinely sell for hundreds or thousands of euros per bottle.
 
 **Côte de Nuits Grand Crus** (all red except Musigny Blanc):
 Chambertin, Chambertin-Clos de Bèze, Chapelle-Chambertin, Charmes-Chambertin, Griotte-Chambertin, Latricières-Chambertin, Mazis-Chambertin, Mazoyères-Chambertin, Ruchottes-Chambertin (all in Gevrey-Chambertin); Clos de la Roche, Clos Saint-Denis, Clos des Lambrays, Clos de Tart (all in Morey-Saint-Denis); Bonnes-Mares (Chambolle-Musigny and Morey-Saint-Denis), Musigny (Chambolle-Musigny); Clos de Vougeot (Vougeot); Grands Échézeaux, Échézeaux (Flagey-Échézeaux); Romanée-Conti, La Romanée, Romanée-Saint-Vivant, Richebourg, La Tâche, La Grande Rue (all in Vosne-Romanée)
@@ -193,11 +193,11 @@ Blanchot, Bougros, Les Clos, Grenouilles, Preuses, Valmur, Vaudésir (all on a s
 
 ## HISTORICAL CONTEXT: Fragmentation and the Napoleonic Code
 
-Burgundy's fragmented ownership structure—the reason a single Grand Cru like Clos de Vougeot has more than 80 owners—stems from the French Revolution and the Napoleonic Code. Before 1789, most vineyards were owned by the Catholic Church (particularly the Cistercian and Benedictine orders) or the nobility. The Revolution confiscated these properties and sold them to the bourgeoisie and peasantry.
+Burgundy's fragmented ownership structure (the reason a single Grand Cru like Clos de Vougeot has more than 80 owners) stems from the French Revolution and the Napoleonic Code. Before 1789, most vineyards were owned by the Catholic Church (particularly the Cistercian and Benedictine orders) or the nobility. The Revolution confiscated these properties and sold them to the bourgeoisie and peasantry.
 
 The Napoleonic Code, enacted in 1804, mandated equal inheritance among all male heirs (later extended to women). Estates were divided and subdivided with each generation. A single hectare might be split among three or four children, who in turn split their shares among their children. Over two centuries, this process created the current patchwork of tiny holdings.
 
-This fragmentation has profound consequences. Most Burgundian domaines are small (6 hectares or less) and own parcels in multiple appellations. A typical domaine might have 0.25 hectares in a village appellation, 0.15 hectares in a Premier Cru, and 0.05 hectares in a Grand Cru—producing only a few hundred bottles of each wine annually. This scarcity drives prices and makes Burgundy a collector's market.
+This fragmentation has profound consequences. Most Burgundian domaines are small (6 hectares or less) and own parcels in multiple appellations. A typical domaine might have 0.25 hectares in a village appellation, 0.15 hectares in a Premier Cru, and 0.05 hectares in a Grand Cru, producing only a few hundred bottles of each wine annually. This scarcity drives prices and makes Burgundy a collector's market.
 
 Monopoles (single-owner vineyards) are rare and highly prized. Examples include Romanée-Conti (1.8 hectares, Domaine de la Romanée-Conti), La Tâche (6 hectares, Domaine de la Romanée-Conti), Clos de Tart (7.5 hectares, now owned by François Pinault's Artemis Domaines), and La Grande Rue (1.65 hectares, Domaine François Lamarche).
 
@@ -207,9 +207,9 @@ Burgundy has two types of producers: domaines and négociants. Understanding the
 
 **Domaines** are estate producers who own (or lease) vineyards and make wine exclusively from their own grapes. They are analogous to château-bottled wines in Bordeaux. Domaines range from tiny family operations producing a few hundred cases annually to larger estates like Domaine de la Romanée-Conti or Domaine Leflaive producing several thousand cases. Quality depends entirely on the skill of the vigneron and the quality of their vineyard holdings.
 
-**Négociants** purchase grapes, must, or finished wine from growers and blend, age, and bottle it under their own label. Historically, négociants dominated Burgundy—most small growers lacked the capital and expertise to bottle their own wines and sold their production to négociants. This began changing in the 1970s and 1980s as more growers started estate-bottling (mise en bouteille au domaine).
+**Négociants** purchase grapes, must, or finished wine from growers and blend, age, and bottle it under their own label. Historically, négociants dominated Burgundy, most small growers lacked the capital and expertise to bottle their own wines and sold their production to négociants. This began changing in the 1970s and 1980s as more growers started estate-bottling (mise en bouteille au domaine).
 
-Today, the négociant model has evolved. Some négociants (e.g., Bouchard Père et Fils, Louis Jadot, Joseph Drouhin) own significant vineyard holdings and operate much like domaines. Others (e.g., Maison Nicolas Potel, Benjamin Leroux) are micro-négociants who purchase small lots of grapes or wine from top growers and vinify them with minimal intervention. Quality varies enormously—some négociant wines are superb, others are mediocre blends from inferior vineyards.
+Today, the négociant model has evolved. Some négociants (e.g., Bouchard Père et Fils, Louis Jadot, Joseph Drouhin) own significant vineyard holdings and operate much like domaines. Others (e.g., Maison Nicolas Potel, Benjamin Leroux) are micro-négociants who purchase small lots of grapes or wine from top growers and vinify them with minimal intervention. Quality varies enormously, some négociant wines are superb, others are mediocre blends from inferior vineyards.
 
 In 2010, a notable example of Burgundy's fragmentation occurred when the esteemed Domaine Louis Carillon was divided between brothers Jacques and François Carillon. Such splits continue to reshape the region's producer landscape.
 
@@ -217,7 +217,7 @@ In 2010, a notable example of Burgundy's fragmentation occurred when the esteeme
 
 ### Vintage Variation
 
-Burgundy is highly vintage-sensitive. The marginal climate means that small differences in temperature, rainfall, and sunshine can dramatically affect quality and style. Generalizing is hazardous—a great year in the Côte de Nuits may be merely good in Chablis, and vice versa.
+Burgundy is highly vintage-sensitive. The marginal climate means that small differences in temperature, rainfall, and sunshine can dramatically affect quality and style. Generalizing is hazardous: a great year in the Côte de Nuits may be merely good in Chablis, and vice versa.
 
 **Recent Exceptional Vintages for Red Burgundy**: 2019, 2015, 2010, 2009, 2005, 2002, 1999, 1990
 **Recent Exceptional Vintages for White Burgundy**: 2019, 2014, 2010, 2008, 2007, 2004, 2002
@@ -261,7 +261,7 @@ Chablis, with its steely acidity, is the classic pairing for oysters and raw she
 
 ### Aging Potential
 
-Burgundy's aging potential is often underestimated, particularly for whites. Conventional wisdom holds that red Burgundy ages longer than white, but this is not always true—top white Burgundies can develop for decades.
+Burgundy's aging potential is often underestimated, particularly for whites. Conventional wisdom holds that red Burgundy ages longer than white, but this is not always true, top white Burgundies can develop for decades.
 
 - **Regional Reds**: Drink within 3 to 7 years
 - **Village Reds**: 5 to 10 years
@@ -285,7 +285,7 @@ Producers are adapting in various ways:
 - Experimenting with higher-elevation and cooler-aspect vineyards
 - Improving soil health through organic and biodynamic viticulture to increase vine resilience
 
-The region's fragmented ownership structure makes coordinated responses difficult. Each small grower must make their own decisions about clonal selection, trellising, harvest dates, and winemaking techniques. This diversity is a strength—it ensures experimentation and innovation—but it also means adaptation is uneven.
+The region's fragmented ownership structure makes coordinated responses difficult. Each small grower must make their own decisions about clonal selection, trellising, harvest dates, and winemaking techniques. This diversity is a strength (it ensures experimentation and innovation) but it also means adaptation is uneven.
 
 Economic pressures are also mounting. Burgundy prices have escalated dramatically over the past two decades, driven by global demand (particularly from Asia and the United States) and limited supply. Grand Cru prices are now accessible only to wealthy collectors, and even village wines from top producers command premium prices. This creates a two-tier market: a small number of elite producers whose wines are allocated and sold primarily through private networks, and a larger number of good but less-famous producers whose wines offer better value but less prestige.
 
@@ -312,4 +312,4 @@ For current vintage assessments and producer profiles, consult:
 
 ---
 
-*Burgundy is not a region to be understood quickly or completely. It rewards patience, study, and repeated tasting. The fragmentation that makes it frustrating—hundreds of producers, thousands of wines, endless vintage variation—is also what makes it endlessly fascinating. Nowhere else does the interplay of geology, climate, grape variety, and human skill express itself with such precision and complexity. This is the paradox and the promise of Burgundy.*
+*Burgundy is not a region to be understood quickly or completely. It rewards patience, study, and repeated tasting. The fragmentation that makes it frustrating (hundreds of producers, thousands of wines, endless vintage variation) is also what makes it endlessly fascinating. Nowhere else does the interplay of geology, climate, grape variety, and human skill express itself with such precision and complexity. This is the paradox and the promise of Burgundy.*

@@ -1,6 +1,6 @@
 # Kirchberg: Baden's Vineyard Mosaic
 
-The name "Kirchberg" translates to "church hill," and like many German vineyard designations bearing this ecclesiastical reference, multiple sites across Baden claim the name. This presents an immediate challenge: Kirchberg is not a singular, precisely delineated vineyard but rather a designation applied to several distinct sites scattered throughout Baden's diverse wine-growing zones. Understanding Kirchberg requires acknowledging this fragmentation and examining the common threads—and striking differences—that unite and distinguish these parcels.
+The name "Kirchberg" translates to "church hill," and like many German vineyard designations bearing this ecclesiastical reference, multiple sites across Baden claim the name. This presents an immediate challenge: Kirchberg is not a singular, precisely delineated vineyard but rather a designation applied to several distinct sites scattered throughout Baden's diverse wine-growing zones. Understanding Kirchberg requires acknowledging this fragmentation and examining the common threads (and striking differences) that unite and distinguish these parcels.
 
 ## The Geography Problem: Which Kirchberg?
 
@@ -8,13 +8,13 @@ Baden stretches nearly 400 kilometers from the Tauber River valley in the north 
 
 The most significant Kirchberg sites cluster in three areas:
 
-**Kaiserstuhl**: Here, Kirchberg parcels occupy the volcanic slopes of this extinct mountain range, rising abruptly from the Rhine plain. These sites typically face south to southwest, capturing maximum solar radiation in a region already blessed with Germany's highest average temperatures—annual means often exceed 11°C, comparable to Burgundy's Côte d'Or.
+**Kaiserstuhl**: Here, Kirchberg parcels occupy the volcanic slopes of this extinct mountain range, rising abruptly from the Rhine plain. These sites typically face south to southwest, capturing maximum solar radiation in a region already blessed with Germany's highest average temperatures, annual means often exceed 11°C, comparable to Burgundy's Côte d'Or.
 
 **Ortenau**: North of Kaiserstuhl, Kirchberg sites in this district benefit from the rain shadow of the Black Forest, creating a mesoclimate with reduced precipitation during the growing season. Elevations here range from 150 to 400 meters, with the best parcels positioned on mid-slope locations that balance warmth with cooling air drainage.
 
 **Kraichgau**: East of the Rhine valley proper, Kirchberg sites in this undulating landscape occupy the Muschelkalk (shell limestone) hills that define the region's geological character. These sites are generally cooler than their Kaiserstuhl counterparts, with greater diurnal temperature variation.
 
-This geographic dispersal means that "Kirchberg" functions less as a *terroir* designation in the Burgundian sense and more as a historical naming convention reflecting medieval ecclesiastical landholdings. The church's influence on German viticulture was profound—monastic orders identified and cultivated the finest slopes centuries before modern classification systems emerged.
+This geographic dispersal means that "Kirchberg" functions less as a *terroir* designation in the Burgundian sense and more as a historical naming convention reflecting medieval ecclesiastical landholdings. The church's influence on German viticulture was profound, monastic orders identified and cultivated the finest slopes centuries before modern classification systems emerged.
 
 ## Geological Complexity: From Volcanic Fire to Ancient Seas
 
@@ -22,21 +22,21 @@ The geological diversity among Kirchberg sites mirrors Baden's position at the i
 
 **Kaiserstuhl's Volcanic Legacy**
 
-Kirchberg parcels on the Kaiserstuhl rest on volcanic substrates deposited during the Miocene epoch, approximately 19 to 16 million years ago. The dominant soil type is *Löss*—wind-deposited loess that mantles the volcanic bedrock to depths of 10 to 30 meters in places. This deep, fine-grained sediment is exceptionally fertile yet well-draining, with high mineral content including potassium and magnesium.
+Kirchberg parcels on the Kaiserstuhl rest on volcanic substrates deposited during the Miocene epoch, approximately 19 to 16 million years ago. The dominant soil type is *Löss*, wind-deposited loess that mantles the volcanic bedrock to depths of 10 to 30 meters in places. This deep, fine-grained sediment is exceptionally fertile yet well-draining, with high mineral content including potassium and magnesium.
 
-Beneath the loess lies the volcanic foundation: basalt, tuff, and phonolite. Where erosion has stripped away the loess cover—typically on the steepest slopes—vines root directly into weathered volcanic material. These sites produce wines of distinct character: more structured, with pronounced mineral tension and darker fruit profiles compared to loess-dominated parcels.
+Beneath the loess lies the volcanic foundation: basalt, tuff, and phonolite. Where erosion has stripped away the loess cover (typically on the steepest slopes) vines root directly into weathered volcanic material. These sites produce wines of distinct character: more structured, with pronounced mineral tension and darker fruit profiles compared to loess-dominated parcels.
 
-The volcanic soils retain heat effectively, extending the growing season and enabling full phenolic ripeness even in marginal vintages. This heat retention can be a liability in extreme years—2003 and 2018 produced some overripe, flabby wines from lower-elevation Kaiserstuhl sites—but careful canopy management and harvest timing mitigate these risks.
+The volcanic soils retain heat effectively, extending the growing season and enabling full phenolic ripeness even in marginal vintages. This heat retention can be a liability in extreme years (2003 and 2018 produced some overripe, flabby wines from lower-elevation Kaiserstuhl sites) but careful canopy management and harvest timing mitigate these risks.
 
 **Kraichgau's Sedimentary Foundation**
 
 Kirchberg sites in Kraichgau occupy a different geological realm entirely. Here, Muschelkalk limestone from the Triassic period (approximately 240 million years ago) forms the bedrock. This shell-rich limestone, deposited when the region lay beneath a shallow sea, imparts a distinct mineral signature to the wines.
 
-The Muschelkalk weathers into clay-rich soils with embedded limestone fragments. These soils drain well on slopes but retain sufficient moisture to buffer against drought stress. The calcium carbonate content—often exceeding 40% in the topsoil—influences vine physiology, promoting thicker grape skins and higher natural acidity compared to volcanic sites.
+The Muschelkalk weathers into clay-rich soils with embedded limestone fragments. These soils drain well on slopes but retain sufficient moisture to buffer against drought stress. The calcium carbonate content (often exceeding 40% in the topsoil) influences vine physiology, promoting thicker grape skins and higher natural acidity compared to volcanic sites.
 
 **Ortenau's Granite Intrusions**
 
-Some Kirchberg parcels in Ortenau rest on weathered granite, an extension of the Black Forest's crystalline basement rock. These decomposed granite soils (*Verwitterungsgranit*) are sandy, acidic, and low in fertility—quite unlike the base-rich volcanic and limestone soils found elsewhere. Vines struggle more here, producing smaller berries with concentrated flavors and marked acidity.
+Some Kirchberg parcels in Ortenau rest on weathered granite, an extension of the Black Forest's crystalline basement rock. These decomposed granite soils (*Verwitterungsgranit*) are sandy, acidic, and low in fertility, quite unlike the base-rich volcanic and limestone soils found elsewhere. Vines struggle more here, producing smaller berries with concentrated flavors and marked acidity.
 
 ## Wine Character: Unity in Diversity
 
@@ -44,25 +44,25 @@ Given the geological and climatic variation among Kirchberg sites, describing a 
 
 **Pinot Varieties Dominate**
 
-Baden's reputation rests increasingly on Pinot varieties—Spätburgunder (Pinot Noir), Weissburgunder (Pinot Blanc), and Grauburgunder (Pinot Gris)—which collectively account for approximately 45% of the region's plantings. Kirchberg sites, particularly in Kaiserstuhl, excel with these varieties.
+Baden's reputation rests increasingly on Pinot varieties (Spätburgunder (Pinot Noir), Weissburgunder (Pinot Blanc), and Grauburgunder (Pinot Gris)) which collectively account for approximately 45% of the region's plantings. Kirchberg sites, particularly in Kaiserstuhl, excel with these varieties.
 
-Weissburgunder from Kaiserstuhl Kirchberg parcels tends toward full-bodied, textured wines with ripe stone fruit character—yellow plum, apricot, and white peach—balanced by moderate acidity. Many producers ferment these wines in large oak ovals (*Stückfässer*) or barriques, building weight and complexity without overwhelming the fruit. The style recalls Alsatian Pinot Blanc more than lean, mineral-driven German whites from cooler regions.
+Weissburgunder from Kaiserstuhl Kirchberg parcels tends toward full-bodied, textured wines with ripe stone fruit character (yellow plum, apricot, and white peach) balanced by moderate acidity. Many producers ferment these wines in large oak ovals (*Stückfässer*) or barriques, building weight and complexity without overwhelming the fruit. The style recalls Alsatian Pinot Blanc more than lean, mineral-driven German whites from cooler regions.
 
-Grauburgunder achieves particular distinction in Baden, and Kirchberg sites produce some of the region's most age-worthy examples. Skin contact is routine, extracting the variety's characteristic coppery-golden hues and phenolic structure. These wines are almost always dry (*trocken*), with alcohol levels frequently reaching 13.5-14.5%—substantial by German standards. Flavors range from baked apple and pear to exotic notes of quince, ginger, and smoke, particularly from volcanic soils.
+Grauburgunder achieves particular distinction in Baden, and Kirchberg sites produce some of the region's most age-worthy examples. Skin contact is routine, extracting the variety's characteristic coppery-golden hues and phenolic structure. These wines are almost always dry (*trocken*), with alcohol levels frequently reaching 13.5-14.5%, substantial by German standards. Flavors range from baked apple and pear to exotic notes of quince, ginger, and smoke, particularly from volcanic soils.
 
-Spätburgunder from warmer Kirchberg sites can achieve impressive concentration, with dark cherry, plum, and earthy complexity. The best examples balance Baden's natural ripeness with sufficient acidity to maintain freshness—a delicate equilibrium that separates compelling wines from heavy, extracted ones.
+Spätburgunder from warmer Kirchberg sites can achieve impressive concentration, with dark cherry, plum, and earthy complexity. The best examples balance Baden's natural ripeness with sufficient acidity to maintain freshness: a delicate equilibrium that separates compelling wines from heavy, extracted ones.
 
 **Riesling's Niche**
 
-Riesling occupies a smaller footprint in Baden compared to regions farther north, but Kirchberg sites in Ortenau and Kraichgau produce noteworthy examples. These wines typically express ripe stone fruit—peach, apricot, and nectarine—rather than the citrus and green apple notes characteristic of Mosel or Rheingau Riesling. Acidity is present but less razor-sharp, and the wines generally reach higher alcohol levels (12.5-13.5%).
+Riesling occupies a smaller footprint in Baden compared to regions farther north, but Kirchberg sites in Ortenau and Kraichgau produce noteworthy examples. These wines typically express ripe stone fruit (peach, apricot, and nectarine) rather than the citrus and green apple notes characteristic of Mosel or Rheingau Riesling. Acidity is present but less razor-sharp, and the wines generally reach higher alcohol levels (12.5-13.5%).
 
-The style recalls Alsatian Riesling more than classic German interpretations—not surprising given Baden's proximity to Alsace across the Rhine. However, there is little viticultural exchange between the regions; as one Baden winemaker notes, vintners on either side of the border rarely cross the river, despite their vineyards being visible from each other.
+The style recalls Alsatian Riesling more than classic German interpretations, not surprising given Baden's proximity to Alsace across the Rhine. However, there is little viticultural exchange between the regions; as one Baden winemaker notes, vintners on either side of the border rarely cross the river, despite their vineyards being visible from each other.
 
 ## Comparative Context: Baden's Position in German Wine
 
-Baden's classification as a EU Zone B region—the same designation as Champagne, Alsace, and the Loire Valley—sets it apart from most German wine regions, which fall into the cooler Zone A. This warmer classification has profound implications for viticulture and wine style.
+Baden's classification as a EU Zone B region (the same designation as Champagne, Alsace, and the Loire Valley) sets it apart from most German wine regions, which fall into the cooler Zone A. This warmer classification has profound implications for viticulture and wine style.
 
-While Mosel Riesling achieves greatness through tension between high acidity and delicate fruit, Baden wines pursue a different aesthetic: fuller body, riper fruit expression, and lower acid profiles. The proportion of *trocken* (dry) wines in Baden reaches approximately 65%—significantly higher than Mosel's 30% but reflective of the region's ability to achieve physiological ripeness without residual sugar for balance.
+While Mosel Riesling achieves greatness through tension between high acidity and delicate fruit, Baden wines pursue a different aesthetic: fuller body, riper fruit expression, and lower acid profiles. The proportion of *trocken* (dry) wines in Baden reaches approximately 65%, significantly higher than Mosel's 30% but reflective of the region's ability to achieve physiological ripeness without residual sugar for balance.
 
 Kirchberg sites, particularly in Kaiserstuhl, push this ripeness envelope further. Where a Rheingau Riesling from the Johannisberg or Rüdesheim slopes might achieve 12% alcohol with 8-10 g/l residual sugar for balance, a Baden Weissburgunder from Kirchberg regularly reaches 13.5% alcohol bone-dry, relying on texture and fruit concentration rather than sugar for palate weight.
 
@@ -92,11 +92,11 @@ The broader German wine law's *Prädikat* system, based on must weight at harves
 
 ## Historical Context: Ecclesiastical Origins
 
-The "Kirchberg" designation reflects medieval ecclesiastical landholding patterns across Germanic territories. Monastic orders—particularly Cistercians and Benedictines—identified and cultivated superior vineyard sites throughout Baden from the 12th century onward. These religious communities possessed the resources, knowledge, and long-term perspective necessary for viticulture in an era when wine production required substantial capital investment and patience.
+The "Kirchberg" designation reflects medieval ecclesiastical landholding patterns across Germanic territories. Monastic orders (particularly Cistercians and Benedictines) identified and cultivated superior vineyard sites throughout Baden from the 12th century onward. These religious communities possessed the resources, knowledge, and long-term perspective necessary for viticulture in an era when wine production required substantial capital investment and patience.
 
 Church ownership conveyed certain advantages: exemption from some feudal obligations, access to markets through ecclesiastical networks, and continuity of management across generations. The monks' meticulous record-keeping documented vineyard performance over decades, establishing which sites consistently produced superior wine.
 
-Following secularization in the early 19th century—when Napoleonic reforms transferred church properties to secular control—many Kirchberg sites fragmented into smaller holdings. This fragmentation persists today, with multiple growers often working parcels within a single Kirchberg site. The resulting diversity of winemaking approaches within nominally identical vineyard designations adds complexity to understanding Kirchberg's identity.
+Following secularization in the early 19th century (when Napoleonic reforms transferred church properties to secular control) many Kirchberg sites fragmented into smaller holdings. This fragmentation persists today, with multiple growers often working parcels within a single Kirchberg site. The resulting diversity of winemaking approaches within nominally identical vineyard designations adds complexity to understanding Kirchberg's identity.
 
 ## The Modern Renaissance
 
@@ -118,7 +118,7 @@ Balanced vintages with moderate temperatures and adequate rainfall (2016, 2019, 
 
 ## Conclusion: Fragmentation as Strength
 
-Kirchberg's lack of singular identity—its fragmentation across Baden's diverse landscape—might seem a weakness in an era that prizes precise terroir designation. Yet this diversity reflects Baden's essential character: a region too varied, too expansive, too geologically complex for simple categorization.
+Kirchberg's lack of singular identity (its fragmentation across Baden's diverse landscape) might seem a weakness in an era that prizes precise terroir designation. Yet this diversity reflects Baden's essential character: a region too varied, too expansive, too geologically complex for simple categorization.
 
 The name Kirchberg serves as a historical marker, connecting modern wines to centuries of monastic viticulture while allowing contemporary producers to express distinct terroirs through site-specific bottlings. Understanding Kirchberg requires moving beyond the designation itself to examine the particular geology, climate, and human choices shaping each wine.
 

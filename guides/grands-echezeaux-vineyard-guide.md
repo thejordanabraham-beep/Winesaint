@@ -24,7 +24,7 @@ The geological foundation of Grands Échezeaux reveals the complex interplay of 
 
 The soil composition varies subtly across the vineyard, creating distinct micro-terroirs within the Grand Cru boundary. The upper portions feature brown limestone soils with high calcium carbonate content and excellent drainage, while the middle sections contain slightly deeper soils with increased clay content, providing greater water retention during dry periods. The lower sections transition to slightly richer soils with more alluvial deposits, though still maintaining the limestone dominance crucial to quality.
 
-Soil depth varies from 40 to 80 centimeters across the vineyard, with the optimal zones featuring 50-60 centimeters of topsoil over fractured limestone bedrock. This depth provides adequate root penetration while ensuring excellent drainage—a critical factor in preventing excessive vigor and encouraging the vine stress necessary for concentration and complexity.
+Soil depth varies from 40 to 80 centimeters across the vineyard, with the optimal zones featuring 50-60 centimeters of topsoil over fractured limestone bedrock. This depth provides adequate root penetration while ensuring excellent drainage: a critical factor in preventing excessive vigor and encouraging the vine stress necessary for concentration and complexity.
 
 The vineyard faces primarily east-southeast, capturing the gentle morning sun while gaining protection from harsh western winds. The slope gradient ranges from 8 to 12 degrees, providing natural drainage while preventing erosion. This orientation and gradient create ideal photosynthetic conditions, allowing for gradual, even ripening while maintaining the natural acidity essential to great Burgundy.
 
@@ -66,7 +66,7 @@ Viticultural challenges specific to this site include managing the natural vigor
 
 Grands Échezeaux produces wines of extraordinary complexity and refinement, representing the pinnacle of Pinot Noir expression. The wines are characterized by their remarkable balance of power and elegance, combining the structure and depth expected from Grand Cru sites with the finesse and aromatic complexity that defines great Burgundy.
 
-Aromatically, Grands Échezeaux displays a complex bouquet that evolves dramatically with age. Young wines often exhibit intense red and black fruit aromatics—cherry, raspberry, and blackberry—intertwined with floral notes of violet and rose. As the wines mature, these primary fruit characteristics integrate with secondary aromatics including earth, forest floor, leather, and exotic spices such as cinnamon, clove, and white pepper.
+Aromatically, Grands Échezeaux displays a complex bouquet that evolves dramatically with age. Young wines often exhibit intense red and black fruit aromatics (cherry, raspberry, and blackberry) intertwined with floral notes of violet and rose. As the wines mature, these primary fruit characteristics integrate with secondary aromatics including earth, forest floor, leather, and exotic spices such as cinnamon, clove, and white pepper.
 
 The mineral signature of the limestone terroir manifests as a distinctive chalky, saline quality that provides backbone and length to the wine. This minerality becomes more pronounced with age, creating an ethereal quality that separates Grands Échezeaux from lesser sites.
 
@@ -74,7 +74,7 @@ On the palate, these wines demonstrate remarkable structure and depth. The tanni
 
 Textural qualities distinguish Grands Échezeaux from many other Grand Crus. The wines exhibit a silky, almost creamy mouthfeel that speaks to the site's unique terroir, while maintaining the energy and vibrancy essential to great Pinot Noir. This textural complexity develops further with age, as tannins integrate and the wine gains additional layers of complexity.
 
-The flavor profile typically encompasses multiple fruit spectrums simultaneously—red fruits providing elegance and lift, darker fruits contributing depth and richness, and tertiary flavors developing with age. Earth tones, including wet leaves, mushroom, and forest floor, emerge as the wines mature, creating the complex interplay between fruit, earth, and mineral that defines exceptional Burgundy.
+The flavor profile typically encompasses multiple fruit spectrums simultaneously, red fruits providing elegance and lift, darker fruits contributing depth and richness, and tertiary flavors developing with age. Earth tones, including wet leaves, mushroom, and forest floor, emerge as the wines mature, creating the complex interplay between fruit, earth, and mineral that defines exceptional Burgundy.
 
 Stylistically, Grands Échezeaux occupies a unique position among Burgundy Grand Crus, offering more immediate approachability than sites like La Tâche or Romanée-Conti while providing greater long-term complexity than more straightforward Grand Crus. The wines combine intensity with refinement, power with elegance, creating a drinking experience that satisfies both intellectually and hedonistically.
 
@@ -86,7 +86,7 @@ Compared to its immediate neighbor Échezeaux, Grands Échezeaux typically produ
 
 The relationship to Clos de Vougeot, located immediately to the north, reveals interesting contrasts. While Clos de Vougeot's large size creates significant variation within the vineyard, the finest sections of Clos de Vougeot can rival Grands Échezeaux for power and longevity. However, Grands Échezeaux typically shows greater consistency and elegance, with more refined tannin structure and better integration of oak and fruit.
 
-Comparing Grands Échezeaux to the legendary vineyards of Vosne-Romanée proper—Romanée-Conti, La Tâche, Richebourg, Romanée-Saint-Vivant, and La Romanée—reveals both similarities and distinctions. Grands Échezeaux shares the limestone-based minerality and structural complexity of these sites but typically exhibits a slightly more robust character with broader shoulders and greater immediate power.
+Comparing Grands Échezeaux to the legendary vineyards of Vosne-Romanée proper (Romanée-Conti, La Tâche, Richebourg, Romanée-Saint-Vivant, and La Romanée) reveals both similarities and distinctions. Grands Échezeaux shares the limestone-based minerality and structural complexity of these sites but typically exhibits a slightly more robust character with broader shoulders and greater immediate power.
 
 Romanée-Conti and La Tâche, both monopoles of Domaine de la Romanée-Conti, show greater ethereal qualities and more exotic aromatic profiles, while Grands Échezeaux offers more classic Burgundian characteristics with perhaps greater accessibility in youth. Richebourg shares some of Grands Échezeaux' power and structure but typically shows greater opulence and richness, while Romanée-Saint-Vivant tends toward greater elegance and finesse.
 

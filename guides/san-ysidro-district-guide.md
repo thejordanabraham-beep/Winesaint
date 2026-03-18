@@ -2,9 +2,9 @@
 
 ## The Anomaly
 
-San Ysidro District stands alone in American wine as perhaps the only AVA created for—and entirely owned by—a single entity. Established east of Gilroy in Santa Clara County, this sub-region of the Central Coast exists not as a collective of growers or a historical wine district, but as the California outpost of a New York winery. This is not typical California wine country. There are no tasting rooms, no wine trails, no weekend tourists navigating between boutique cellars.
+San Ysidro District stands alone in American wine as perhaps the only AVA created for (and entirely owned by) a single entity. Established east of Gilroy in Santa Clara County, this sub-region of the Central Coast exists not as a collective of growers or a historical wine district, but as the California outpost of a New York winery. This is not typical California wine country. There are no tasting rooms, no wine trails, no weekend tourists navigating between boutique cellars.
 
-The very existence of San Ysidro District raises fundamental questions about what an AVA should represent. Is it a geographical designation with shared terroir characteristics? A marketing tool? A historical artifact? Here, it functions primarily as a branding mechanism—a way to anchor California fruit to a specific place rather than the anonymous vastness of "Central Coast."
+The very existence of San Ysidro District raises fundamental questions about what an AVA should represent. Is it a geographical designation with shared terroir characteristics? A marketing tool? A historical artifact? Here, it functions primarily as a branding mechanism: a way to anchor California fruit to a specific place rather than the anonymous vastness of "Central Coast."
 
 ## Geographical Context: Where Vineyards Meet Silicon Valley
 
@@ -14,9 +14,9 @@ The Gilroy area represents one of the last agricultural holdouts in Santa Clara 
 
 ## The Terroir Question
 
-Discussing terroir in San Ysidro District requires acknowledging an uncomfortable reality: this is District 13 territory. In California's grape pricing districts—the state's official designations that determine what growers receive for their fruit—District 13 encompasses Gilroy alongside Fresno and parts of Tulare and Kings Counties in the San Joaquin Valley. To the south lies District 14, covering Kern County and commanding even lower prices. To the north, District 11 (Lodi) offers Chardonnay growers an extra $100 per ton—a meaningful premium in bulk wine economics.
+Discussing terroir in San Ysidro District requires acknowledging an uncomfortable reality: this is District 13 territory. In California's grape pricing districts: the state's official designations that determine what growers receive for their fruit. District 13 encompasses Gilroy alongside Fresno and parts of Tulare and Kings Counties in the San Joaquin Valley. To the south lies District 14, covering Kern County and commanding even lower prices. To the north, District 11 (Lodi) offers Chardonnay growers an extra $100 per ton: a meaningful premium in bulk wine economics.
 
-These pricing districts reflect perceived quality and market demand more than any inherent terroir characteristics, but they reveal how the broader wine industry categorizes this region. District 13 fruit typically flows into "Brand California"—the massive-volume wines that carry California appellations but no specific geographical identity.
+These pricing districts reflect perceived quality and market demand more than any inherent terroir characteristics, but they reveal how the broader wine industry categorizes this region. District 13 fruit typically flows into "Brand California", the massive-volume wines that carry California appellations but no specific geographical identity.
 
 ### Climate and Topography
 
@@ -28,11 +28,11 @@ The specific mesoclimate of San Ysidro District's vineyard parcels would depend 
 
 The geological substrate in this portion of Santa Clara County consists primarily of alluvial deposits and sedimentary soils derived from the surrounding Coast Range. These tend toward loamy compositions with variable drainage depending on specific vineyard locations. This stands in stark contrast to the ancient seabed limestone of the Santa Cruz Mountains to the west or the well-drained decomposed granite and shale of Paso Robles to the south.
 
-The soils here lack the dramatic geological story of California's more celebrated wine regions. No ancient volcanic activity, no uplifted marine terraces, no complex mosaics of limestone and schist. Instead, you find workable agricultural land—the kind that can support various crops and has done so for generations.
+The soils here lack the dramatic geological story of California's more celebrated wine regions. No ancient volcanic activity, no uplifted marine terraces, no complex mosaics of limestone and schist. Instead, you find workable agricultural land: the kind that can support various crops and has done so for generations.
 
 ## The Single-Grower Reality
 
-San Ysidro District functions as a vertically integrated operation: one owner, one set of vineyards, fruit destined for wines bottled under a New York label. This model has precedent in California—think of the corporate-owned vineyards throughout the Central Valley or Napa's single-estate properties—but it's unusual to see an entire AVA dedicated to such an arrangement.
+San Ysidro District functions as a vertically integrated operation: one owner, one set of vineyards, fruit destined for wines bottled under a New York label. This model has precedent in California, think of the corporate-owned vineyards throughout the Central Valley or Napa's single-estate properties, but it's unusual to see an entire AVA dedicated to such an arrangement.
 
 The ownership structure raises questions about AVA governance and purpose. Typically, AVAs emerge from collective action by multiple growers seeking recognition for a shared geographical identity. They represent consensus about boundaries, characteristics, and historical significance. San Ysidro District represents something different: a proprietary designation that happens to use the federal AVA system.
 
@@ -40,7 +40,7 @@ The ownership structure raises questions about AVA governance and purpose. Typic
 
 Without access to detailed vineyard management practices, we can only speculate about farming methods based on regional norms and the economics of District 13 viticulture. Large-scale operations in this pricing tier typically emphasize yield and reliability over the intensive canopy management and crop thinning associated with premium wine production.
 
-Irrigation is certainly employed—this is not dry-farmed territory. Mechanical harvesting likely handles at least some varieties, particularly those destined for higher-volume wines. Pest and disease pressure in California's Central Coast generally remains manageable compared to humid regions, allowing for relatively straightforward viticulture.
+Irrigation is certainly employed: this is not dry-farmed territory. Mechanical harvesting likely handles at least some varieties, particularly those destined for higher-volume wines. Pest and disease pressure in California's Central Coast generally remains manageable compared to humid regions, allowing for relatively straightforward viticulture.
 
 ## Wine Styles and Characteristics
 
@@ -84,7 +84,7 @@ Compare this to European wine regions, where AOC or DOC designations typically g
 
 ## What This Means for Wine Drinkers
 
-For consumers, San Ysidro District on a label communicates specificity—this wine comes from a particular place in California, not the anonymous "Central Coast" that stretches from San Francisco to Santa Barbara. Whether that specificity correlates with distinctive wine character remains an open question.
+For consumers, San Ysidro District on a label communicates specificity: this wine comes from a particular place in California, not the anonymous "Central Coast" that stretches from San Francisco to Santa Barbara. Whether that specificity correlates with distinctive wine character remains an open question.
 
 The wines likely deliver solid, commercial-quality expressions of their varieties at moderate price points. Expect competence rather than excitement, reliability rather than revelation. These are not wines that will convert skeptics to California's potential for terroir-driven viticulture. They are, however, probably well-made examples of fruit-forward California wine that deliver exactly what their target market expects.
 
@@ -110,7 +110,7 @@ Alternatively, if the New York winery successfully markets San Ysidro District a
 
 For those curious about San Ysidro District wines, seek out the New York winery's California offerings. Compare them to other Central Coast wines at similar price points to assess whether the specific district designation correlates with distinctive character.
 
-More broadly, San Ysidro District serves as a case study in American wine geography—how AVAs get created, what purposes they serve, and whether place-based designations always indicate meaningful terroir distinctions. It's a reminder that wine regions are human constructs, shaped by economic forces, regulatory frameworks, and marketing strategies as much as by geology and climate.
+More broadly, San Ysidro District serves as a case study in American wine geography, how AVAs get created, what purposes they serve, and whether place-based designations always indicate meaningful terroir distinctions. It's a reminder that wine regions are human constructs, shaped by economic forces, regulatory frameworks, and marketing strategies as much as by geology and climate.
 
 The district may never achieve the recognition of Napa Valley or the cult following of the Santa Rita Hills. But it exists, certified and official, a small piece of California wine geography that challenges our assumptions about what wine regions should be.
 

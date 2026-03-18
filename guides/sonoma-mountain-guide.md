@@ -2,45 +2,45 @@
 
 ## The Essential Contradiction
 
-Sonoma Mountain presents a geographical paradox that defines its winemaking identity. Established in 1985, this AVA sits on the *western* slopes of the Sonoma Valley, yet its vineyards face *east*—a crucial distinction that separates it from nearly every other premium California mountain appellation. While neighbors like Spring Mountain or Diamond Mountain capture afternoon heat, Sonoma Mountain's east-facing aspect means its grapes bask in early to midday light, then cool dramatically as shadows creep up the slopes each afternoon.
+Sonoma Mountain presents a geographical paradox that defines its winemaking identity. Established in 1985, this AVA sits on the *western* slopes of the Sonoma Valley, yet its vineyards face *east*, a crucial distinction that separates it from nearly every other premium California mountain appellation. While neighbors like Spring Mountain or Diamond Mountain capture afternoon heat, Sonoma Mountain's east-facing aspect means its grapes bask in early to midday light, then cool dramatically as shadows creep up the slopes each afternoon.
 
 This is not a subtle distinction. The orientation fundamentally alters ripening dynamics, allowing grapes to accumulate flavor compounds and phenolic ripeness at lower sugar levels than comparable mountain sites. The result: Bordeaux varieties, particularly Cabernet Sauvignon, that achieve structural complexity without the alcoholic weight that plagues many California mountain wines.
 
 ## Geography and Boundaries
 
-Sonoma Mountain AVA occupies a compact 5,000 acres on the eastern flanks of Sonoma Mountain itself, rising above the towns of Glen Ellen and Kenwood. The appellation is entirely contained within the larger Sonoma Valley AVA, functioning as a high-elevation counterpoint to the valley floor below. Vineyards climb from approximately 400 feet to 2,400 feet elevation, though most premium plantings concentrate between 1,200 and 1,800 feet—critically, above the fog line that blankets lower Sonoma Valley each morning.
+Sonoma Mountain AVA occupies a compact 5,000 acres on the eastern flanks of Sonoma Mountain itself, rising above the towns of Glen Ellen and Kenwood. The appellation is entirely contained within the larger Sonoma Valley AVA, functioning as a high-elevation counterpoint to the valley floor below. Vineyards climb from approximately 400 feet to 2,400 feet elevation, though most premium plantings concentrate between 1,200 and 1,800 feet, critically, above the fog line that blankets lower Sonoma Valley each morning.
 
 The AVA represents what federal regulators in 1985 considered "the westernmost point in Sonoma County warm enough to consistently ripen Cabernet Sauvignon." This designation reveals both the region's thermal advantages and its precarious position between maritime influence and continental warmth. Move further west toward the true Sonoma Coast, and Cabernet becomes untenable. Descend to the valley floor, and you lose the diurnal temperature swings that preserve acidity.
 
 ## Volcanic Foundations
 
-The soils of Sonoma Mountain tell a violent geological story. Unlike the sedimentary complexity of Napa Valley's benchlands or the ancient seabed deposits of Burgundy, Sonoma Mountain sits atop volcanic material ejected millions of years ago during the region's tumultuous formation. The dominant soil type is Hambright loam—a shallow, rocky profile derived from weathered basalt and volcanic ash.
+The soils of Sonoma Mountain tell a violent geological story. Unlike the sedimentary complexity of Napa Valley's benchlands or the ancient seabed deposits of Burgundy, Sonoma Mountain sits atop volcanic material ejected millions of years ago during the region's tumultuous formation. The dominant soil type is Hambright loam: a shallow, rocky profile derived from weathered basalt and volcanic ash.
 
 These soils share three critical characteristics:
 
 **Exceptional drainage**: Volcanic substrates shed water rapidly, forcing vines to root deeply and limiting vegetative vigor. In a region where California's Mediterranean climate delivers virtually no summer rainfall, this drainage capacity might seem counterintuitive. But spring rains can be substantial, and free-draining soils prevent waterlogging during the critical flowering and fruit set period.
 
-**Nutrient poverty**: Volcanic soils here contain limited organic matter and available nitrogen. Vines struggle—in the productive sense that yields remain naturally low, typically 2 to 3 tons per acre for Cabernet Sauvignon, compared to 4 to 6 tons on richer valley floors.
+**Nutrient poverty**: Volcanic soils here contain limited organic matter and available nitrogen. Vines struggle, in the productive sense that yields remain naturally low, typically 2 to 3 tons per acre for Cabernet Sauvignon, compared to 4 to 6 tons on richer valley floors.
 
 **Heat retention**: Dark volcanic rocks absorb solar radiation during the day and release it slowly at night, moderating the cooling effect of mountain air drainage. This thermal buffering extends the effective growing season and helps ensure complete phenolic ripeness even as sugar accumulation slows.
 
-The combination produces small berries with high skin-to-juice ratios—the fundamental building block of concentrated, age-worthy red wines.
+The combination produces small berries with high skin-to-juice ratios: the fundamental building block of concentrated, age-worthy red wines.
 
 ## The Thermal Paradox: Hot Days, Cold Nights
 
 Temperature defines Sonoma Mountain's personality. Vineyards planted above 1,200 feet escape the marine fog that floods the valley floor each night, pulled inland by the temperature differential between the warm interior and the cold Pacific Ocean. By 8 or 9 AM, valley floor vineyards remain shrouded in gray while Sonoma Mountain's slopes already receive full sun exposure.
 
-This early solar access extends the effective daylight hours for photosynthesis, allowing slower sugar accumulation while flavor compounds develop. Grapes might take an additional two to three weeks to reach harvest ripeness compared to valley floor sites—a significant extension of hang time that builds aromatic complexity.
+This early solar access extends the effective daylight hours for photosynthesis, allowing slower sugar accumulation while flavor compounds develop. Grapes might take an additional two to three weeks to reach harvest ripeness compared to valley floor sites: a significant extension of hang time that builds aromatic complexity.
 
-But the thermal advantage reverses after sunset. Cold air, being denser than warm air, drains downslope from the higher elevations of Sonoma Mountain's western peaks. This katabatic flow—the technical term for gravity-driven cold air movement—can drop nighttime temperatures 20 to 30°F below daytime highs, even during August and September. The diurnal temperature swing preserves malic acid, maintaining the structural backbone that allows Sonoma Mountain Cabernets to age for decades rather than collapsing into flabby fruit-forwardness.
+But the thermal advantage reverses after sunset. Cold air, being denser than warm air, drains downslope from the higher elevations of Sonoma Mountain's western peaks. This katabatic flow (the technical term for gravity-driven cold air movement) can drop nighttime temperatures 20 to 30°F below daytime highs, even during August and September. The diurnal temperature swing preserves malic acid, maintaining the structural backbone that allows Sonoma Mountain Cabernets to age for decades rather than collapsing into flabby fruit-forwardness.
 
 The numbers tell the story: During the critical month of September, valley floor sites might experience a 25°F diurnal swing (85°F high, 60°F low), while Sonoma Mountain vineyards routinely see 35°F swings (90°F high, 55°F low). That additional 10°F of cooling makes the difference between vibrant acidity and dull flatness.
 
 ## Cabernet Sauvignon: The Flagship Variety
 
-Approximately 60% of Sonoma Mountain's vineyard acreage is planted to Cabernet Sauvignon—a remarkable concentration for Sonoma County, where Pinot Noir and Chardonnay dominate most appellations. This focus reflects both historical accident and geological destiny.
+Approximately 60% of Sonoma Mountain's vineyard acreage is planted to Cabernet Sauvignon: a remarkable concentration for Sonoma County, where Pinot Noir and Chardonnay dominate most appellations. This focus reflects both historical accident and geological destiny.
 
-The modern era began in 1970 when Bob Steinhauer purchased property on the mountain and planted Cabernet Sauvignon, establishing what would become Steinhauer Vineyards. But the defining moment came in 1976 when Patrick Campbell founded Laurel Glen Vineyard at 1,100 feet elevation on a steep east-facing slope. Campbell's early vintages—particularly the 1981, 1984, and 1985—demonstrated that Sonoma Mountain could produce Cabernet Sauvignon with Bordeaux-like structure and restraint, a revelation in an era when California Cabernet often meant jammy, high-alcohol blockbusters.
+The modern era began in 1970 when Bob Steinhauer purchased property on the mountain and planted Cabernet Sauvignon, establishing what would become Steinhauer Vineyards. But the defining moment came in 1976 when Patrick Campbell founded Laurel Glen Vineyard at 1,100 feet elevation on a steep east-facing slope. Campbell's early vintages (particularly the 1981, 1984, and 1985) demonstrated that Sonoma Mountain could produce Cabernet Sauvignon with Bordeaux-like structure and restraint, a revelation in an era when California Cabernet often meant jammy, high-alcohol blockbusters.
 
 Laurel Glen's success established the template: Cabernet Sauvignon from Sonoma Mountain typically shows:
 
@@ -48,14 +48,14 @@ Laurel Glen's success established the template: Cabernet Sauvignon from Sonoma M
 - **Structural elements**: Firm but fine-grained tannins; alcohol levels between 13.5% and 14.5% rather than 15%+; bright acidity that frames rather than dominates
 - **Aging trajectory**: Closed and austere in youth, requiring 5 to 7 years to integrate; peak drinking between 10 and 25 years; graceful decline rather than sudden collapse
 
-This profile places Sonoma Mountain Cabernet closer to Pauillac or St. Julien than to Oakville or Rutherford. The comparison isn't stylistic mimicry—these are distinctly Californian wines—but rather a shared philosophy of restraint and structure.
+This profile places Sonoma Mountain Cabernet closer to Pauillac or St. Julien than to Oakville or Rutherford. The comparison isn't stylistic mimicry (these are distinctly Californian wines) but rather a shared philosophy of restraint and structure.
 
 ## Key Producers and Philosophical Approaches
 
 ### Laurel Glen Vineyard
 Founded 1976. Elevation: 1,100 feet. Acreage: 14 acres estate Cabernet Sauvignon.
 
-Patrick Campbell's original vision—Cabernet Sauvignon farmed organically, picked at moderate ripeness, aged in predominantly neutral oak—defined Sonoma Mountain's aesthetic for three decades. After Campbell's retirement, the property changed hands but maintains its philosophical core. The estate Cabernet remains the benchmark: structured, mineral-driven, built for extended cellaring.
+Patrick Campbell's original vision. Cabernet Sauvignon farmed organically, picked at moderate ripeness, aged in predominantly neutral oak, defined Sonoma Mountain's aesthetic for three decades. After Campbell's retirement, the property changed hands but maintains its philosophical core. The estate Cabernet remains the benchmark: structured, mineral-driven, built for extended cellaring.
 
 ### Benziger Family Winery
 Founded 1980. Elevation: 400-1,800 feet. Acreage: 85 acres across multiple estate vineyards.
@@ -75,13 +75,13 @@ The Fisher family's Wedding Vineyard occupies a unique position: technically in 
 ### Ravenswood (Historical Importance)
 Founded 1976 by Joel Peterson. Focus: Zinfandel.
 
-While Ravenswood became synonymous with Sonoma Zinfandel broadly, Peterson's early work sourced extensively from Sonoma Mountain's old-vine sites. His "no wimpy wines" philosophy—full extraction, minimal intervention, bold fruit—influenced a generation of California winemakers, even as the Sonoma Mountain aesthetic evolved toward restraint.
+While Ravenswood became synonymous with Sonoma Zinfandel broadly, Peterson's early work sourced extensively from Sonoma Mountain's old-vine sites. His "no wimpy wines" philosophy (full extraction, minimal intervention, bold fruit) influenced a generation of California winemakers, even as the Sonoma Mountain aesthetic evolved toward restraint.
 
 ## Beyond Cabernet: The Supporting Cast
 
 While Cabernet Sauvignon dominates, Sonoma Mountain's volcanic soils and thermal dynamics support other varieties:
 
-**Merlot** (approximately 15% of plantings): The same factors that moderate Cabernet's ripening—extended hang time, cool nights—allow Merlot to develop complexity beyond simple plummy fruit. Sonoma Mountain Merlot shows savory herb notes, structured tannins, and genuine aging potential.
+**Merlot** (approximately 15% of plantings): The same factors that moderate Cabernet's ripening (extended hang time, cool nights) allow Merlot to develop complexity beyond simple plummy fruit. Sonoma Mountain Merlot shows savory herb notes, structured tannins, and genuine aging potential.
 
 **Cabernet Franc** (5-8% of plantings): Increasingly bottled as a varietal rather than relegated to blending. The variety's natural herbaceousness finds balance here, expressing pencil shavings and violets rather than green pepper.
 
@@ -111,7 +111,7 @@ Understanding Sonoma Mountain requires context within Sonoma County's complex ap
 
 **Versus Mayacamas Mountains (Napa side)**: The Mayacamas range separates Sonoma from Napa, and appellations like Spring Mountain and Diamond Mountain occupy the eastern slopes. These Napa sites face west (opposite of Sonoma Mountain's east-facing aspect), receive afternoon heat, and typically produce more powerful, extracted Cabernets. Sonoma Mountain wines show more restraint and earlier drinkability.
 
-**Versus Russian River Valley**: The comparison seems absurd—Russian River is Pinot Noir and Chardonnay country, cool and fog-influenced. But the contrast illustrates Sonoma County's diversity: within 15 miles, you move from one of California's coolest regions to one of its warmest Cabernet-capable sites.
+**Versus Russian River Valley**: The comparison seems absurd. Russian River is Pinot Noir and Chardonnay country, cool and fog-influenced. But the contrast illustrates Sonoma County's diversity: within 15 miles, you move from one of California's coolest regions to one of its warmest Cabernet-capable sites.
 
 ## The Stylistic Evolution: From Power to Precision
 
@@ -175,7 +175,7 @@ The key: these wines want food. They're structured, tannic, and built for the ta
 
 ## The Future: Climate Change and Adaptation
 
-Sonoma Mountain faces an uncertain future as California warms. The region's historical advantage—being warm enough for Cabernet—may become a liability as temperatures rise. Average growing season temperatures have increased approximately 1.5°F since 1980, and projections suggest another 2-4°F increase by 2050.
+Sonoma Mountain faces an uncertain future as California warms. The region's historical advantage (being warm enough for Cabernet) may become a liability as temperatures rise. Average growing season temperatures have increased approximately 1.5°F since 1980, and projections suggest another 2-4°F increase by 2050.
 
 Producers are adapting:
 - Planting at higher elevations (expanding toward the 2,000-2,400 foot zone)
@@ -187,13 +187,13 @@ The irony: Sonoma Mountain may eventually become too warm for the Cabernet Sauvi
 
 ## Conclusion: California's Restrained Mountain
 
-Sonoma Mountain occupies a unique position in California wine: a mountain appellation that values restraint over power, structure over extraction, ageability over immediate gratification. In an era when many California Cabernets push toward 15% alcohol and fruit-forward accessibility, Sonoma Mountain maintains an alternative vision—one that prioritizes site expression and graceful aging.
+Sonoma Mountain occupies a unique position in California wine: a mountain appellation that values restraint over power, structure over extraction, ageability over immediate gratification. In an era when many California Cabernets push toward 15% alcohol and fruit-forward accessibility, Sonoma Mountain maintains an alternative vision, one that prioritizes site expression and graceful aging.
 
 The region remains small, with fewer than 20 producers bottling Sonoma Mountain-designated wines. This obscurity is both curse and blessing. Curse because the wines lack the marketing power and price premiums of Napa Valley mountain appellations. Blessing because the region avoids the speculation and trophy-hunting that can distort winemaking decisions.
 
 For those willing to cellar wines for a decade, to appreciate structure over immediate pleasure, to value precision over power, Sonoma Mountain offers some of California's most compelling Cabernet Sauvignon. These are wines that reward patience, that improve with air, that develop complex tertiary aromas after 15 or 20 years in bottle.
 
-They are, in short, the antithesis of modern California wine stereotypes—and all the more valuable for it.
+They are, in short, the antithesis of modern California wine stereotypes, and all the more valuable for it.
 
 ---
 

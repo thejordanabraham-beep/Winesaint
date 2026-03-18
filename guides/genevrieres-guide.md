@@ -16,7 +16,7 @@ The climat is divided into two main sections: Genevrières-Dessus (upper Genevri
 
 ## Terroir & Geology
 
-The geological foundation of Genevrières reveals the classic Burgundian limestone heritage that defines the Côte d'Or's greatest white wine sites. The bedrock consists primarily of Jurassic limestone from the Bathonian period, specifically the Dalle Nacrée formation that extends throughout this section of the Côte de Beaune. This hard limestone base provides essential mineral complexity while ensuring excellent drainage—a crucial factor in preventing waterlogged vines and concentrating flavors in the grapes.
+The geological foundation of Genevrières reveals the classic Burgundian limestone heritage that defines the Côte d'Or's greatest white wine sites. The bedrock consists primarily of Jurassic limestone from the Bathonian period, specifically the Dalle Nacrée formation that extends throughout this section of the Côte de Beaune. This hard limestone base provides essential mineral complexity while ensuring excellent drainage: a crucial factor in preventing waterlogged vines and concentrating flavors in the grapes.
 
 Above this limestone foundation lies a complex soil profile that varies subtly across different parcels within the climat. The topsoil typically consists of brown limestone soil mixed with varying proportions of clay and marl. The clay content, generally ranging from 15-25%, provides water retention capabilities during dry periods while contributing to the wines' characteristic richness and texture. The presence of iron-rich clay lends a distinctive reddish tint to certain sections of the vineyard, particularly noticeable after rain or cultivation.
 
@@ -24,7 +24,7 @@ The soil depth varies considerably across Genevrières, ranging from relatively 
 
 Genevrières enjoys a predominantly southeast-facing exposition, optimizing sun exposure throughout the growing season while providing some protection from harsh afternoon heat during summer months. The vineyard's slope gradient ranges from 3-8%, providing natural drainage while remaining gentle enough to prevent excessive erosion. The elevation varies from approximately 240 meters at the lower boundary to 280 meters at the upper reaches, positioning the vineyard in the optimal elevation zone for Chardonnay cultivation in Burgundy.
 
-Scattered throughout the soil profile are fossilized marine creatures—oysters, ammonites, and other shellfish—remnants from the Jurassic period when this region lay beneath ancient seas. These fossils contribute to the soil's calcium content and may influence the distinctive mineral character that defines Genevrières wines.
+Scattered throughout the soil profile are fossilized marine creatures (oysters, ammonites, and other shellfish) remnants from the Jurassic period when this region lay beneath ancient seas. These fossils contribute to the soil's calcium content and may influence the distinctive mineral character that defines Genevrières wines.
 
 ## Climate & Microclimate
 
@@ -60,7 +60,7 @@ Site-specific viticultural challenges include managing vine vigor in deeper soil
 
 Genevrières produces wines that epitomize the marriage of power and elegance that defines great Meursault Premier Cru. The wines display a distinctive character that combines the richness and texture associated with the commune while maintaining the mineral precision and aging potential expected from Premier Cru status.
 
-Aromatically, young Genevrières wines typically display intense white fruit characteristics—white peach, pear, and green apple—often accompanied by citrus notes of lemon zest and grapefruit. Floral elements frequently appear, particularly acacia, honeysuckle, and white flowers, creating a complex bouquet that evolves significantly with age. The mineral component manifests as wet stone, chalk, and saline notes that reflect the limestone terroir.
+Aromatically, young Genevrières wines typically display intense white fruit characteristics (white peach, pear, and green apple) often accompanied by citrus notes of lemon zest and grapefruit. Floral elements frequently appear, particularly acacia, honeysuckle, and white flowers, creating a complex bouquet that evolves significantly with age. The mineral component manifests as wet stone, chalk, and saline notes that reflect the limestone terroir.
 
 With barrel aging, which is standard practice for Premier Cru production, Genevrières develops additional layers of complexity. Subtle oak integration brings vanilla, butterscotch, and toasted hazelnut flavors while never overwhelming the fruit. The interplay between fruit, mineral, and oak elements creates a harmonious whole that distinguishes well-made Genevrières from simpler village wines.
 

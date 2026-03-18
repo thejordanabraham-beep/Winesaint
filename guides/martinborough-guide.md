@@ -2,7 +2,7 @@
 
 Martinborough produces some of the Southern Hemisphere's most compelling Pinot Noir from a postage stamp of vineyards smaller than Vosne-Romanée. This is not hyperbole. The region's planted area barely exceeds 800 hectares, yet it has established a reputation for Burgundian structure and longevity that defies its New World location. The secret lies in a confluence of marginal climate, free-draining terraces, and meticulous viticulture that would make a Côte d'Or vigneron nod in recognition.
 
-Located at the southern tip of New Zealand's North Island, roughly 80 kilometers northeast of Wellington, Martinborough sits in the Wairarapa district—a rain-shadowed valley protected by the Tararua and Rimutaka mountain ranges. While Marlborough dominates New Zealand wine production with industrial-scale Sauvignon Blanc, Martinborough operates at boutique scale with laser focus on Pinot Noir that speaks to site rather than shouts varietal character.
+Located at the southern tip of New Zealand's North Island, roughly 80 kilometers northeast of Wellington, Martinborough sits in the Wairarapa district: a rain-shadowed valley protected by the Tararua and Rimutaka mountain ranges. While Marlborough dominates New Zealand wine production with industrial-scale Sauvignon Blanc, Martinborough operates at boutique scale with laser focus on Pinot Noir that speaks to site rather than shouts varietal character.
 
 ## GEOLOGY
 
@@ -10,25 +10,25 @@ Located at the southern tip of New Zealand's North Island, roughly 80 kilometers
 
 Martinborough's geological foundation is refreshingly straightforward compared to the marine limestone complexity of Burgundy or the slate-schist patchwork of the Mosel. The region sits on Quaternary-age alluvial terraces deposited by the Ruamāhanga River and its tributaries over the past 10,000–140,000 years. These terraces form distinct levels at different elevations, each representing a period of river activity followed by downcutting as the river carved deeper into the landscape.
 
-The highest and oldest terraces—the Martinborough Terrace proper—date to approximately 140,000 years ago. These elevated platforms, sitting 10–30 meters above the current river level, contain deeply weathered gravels and sands that have undergone significant leaching. The result is extremely free-draining soils with low fertility—ideal for stress-inducing viticulture that concentrates flavors.
+The highest and oldest terraces (the Martinborough Terrace proper) date to approximately 140,000 years ago. These elevated platforms, sitting 10–30 meters above the current river level, contain deeply weathered gravels and sands that have undergone significant leaching. The result is extremely free-draining soils with low fertility, ideal for stress-inducing viticulture that concentrates flavors.
 
 ### Soil Composition: Stones, Sand, and Strategic Stress
 
-The dominant soil type is a stony silt loam over deep gravel beds, often extending 5–10 meters below the surface. These gravels consist primarily of greywacke—a hard, grey metamorphic rock composed of compacted sandstone and mudstone—washed down from the Tararua Ranges to the west. Greywacke is New Zealand's most common basement rock, formed during the Mesozoic era (250–65 million years ago) when layers of sediment accumulated on the ocean floor and were subsequently compressed and uplifted.
+The dominant soil type is a stony silt loam over deep gravel beds, often extending 5–10 meters below the surface. These gravels consist primarily of greywacke (a hard, grey metamorphic rock composed of compacted sandstone and mudstone) washed down from the Tararua Ranges to the west. Greywacke is New Zealand's most common basement rock, formed during the Mesozoic era (250–65 million years ago) when layers of sediment accumulated on the ocean floor and were subsequently compressed and uplifted.
 
-The stone content varies dramatically across vineyard sites. Some blocks contain 60–70% gravel by volume in the topsoil, creating what locals call "Martinborough concrete"—a matrix so rocky that digging post holes requires machinery. Other parcels feature finer silt loams with 30–40% stone content, offering slightly more water retention and earlier ripening.
+The stone content varies dramatically across vineyard sites. Some blocks contain 60–70% gravel by volume in the topsoil, creating what locals call "Martinborough concrete", a matrix so rocky that digging post holes requires machinery. Other parcels feature finer silt loams with 30–40% stone content, offering slightly more water retention and earlier ripening.
 
-Beneath the gravel layer lies a clay pan at varying depths—typically 1.5–3 meters down. This impermeable layer prevents deep drainage and creates a perched water table during wet periods, though the overlying gravels ensure surface water drains rapidly. Vine roots penetrate the gravel easily, seeking moisture and nutrients in the clay interface during dry periods. This geological structure provides natural irrigation buffering without waterlogging—a Goldilocks scenario for Pinot Noir.
+Beneath the gravel layer lies a clay pan at varying depths, typically 1.5–3 meters down. This impermeable layer prevents deep drainage and creates a perched water table during wet periods, though the overlying gravels ensure surface water drains rapidly. Vine roots penetrate the gravel easily, seeking moisture and nutrients in the clay interface during dry periods. This geological structure provides natural irrigation buffering without waterlogging: a Goldilocks scenario for Pinot Noir.
 
 ### Comparative Context: Martinborough vs. Central Otago
 
-While both regions produce acclaimed New Zealand Pinot Noir, their geological foundations differ fundamentally. Central Otago's vineyards sit on schist-derived soils—metamorphic rock that weathers into fine, mica-rich particles with better moisture retention. Martinborough's greywacke gravels drain faster and warm more quickly, creating earlier phenological development despite similar latitude.
+While both regions produce acclaimed New Zealand Pinot Noir, their geological foundations differ fundamentally. Central Otago's vineyards sit on schist-derived soils, metamorphic rock that weathers into fine, mica-rich particles with better moisture retention. Martinborough's greywacke gravels drain faster and warm more quickly, creating earlier phenological development despite similar latitude.
 
 The contrast mirrors the difference between Burgundy's limestone and Bordeaux's Médoc gravels, though Martinborough lacks the calcium carbonate that defines Côte d'Or terroir. The pH here ranges from 5.5–6.5, moderately acidic rather than alkaline. Some producers have experimented with lime applications to raise pH, though results remain debated.
 
 ### Terrace Variations and Microsite Selection
 
-Within Martinborough's compact growing area, terrace height creates meaningful distinctions. The highest, oldest terraces offer the deepest gravels and most extreme drainage—producing wines of tension and minerality with slower ripening. Lower terraces closer to the current river feature younger soils with slightly higher fertility and earlier ripening, yielding rounder, more immediately approachable wines.
+Within Martinborough's compact growing area, terrace height creates meaningful distinctions. The highest, oldest terraces offer the deepest gravels and most extreme drainage, producing wines of tension and minerality with slower ripening. Lower terraces closer to the current river feature younger soils with slightly higher fertility and earlier ripening, yielding rounder, more immediately approachable wines.
 
 The most prized sites occupy the transition zones between terrace levels, where topography creates natural amphitheaters that trap heat while maintaining good air drainage. Blocks like Ata Rangi's McCrone Vineyard and Dry River's Craighall Vineyard exploit these microclimatic sweet spots, combining warmth with the cooling influence of evening breezes funneled through the valley.
 
@@ -36,13 +36,13 @@ The most prized sites occupy the transition zones between terrace levels, where 
 
 ### Marginal and Proud of It
 
-Martinborough operates at the cool edge of viable Pinot Noir cultivation, with a growing season average temperature of approximately 16.5°C—firmly in the "cool climate" category by any classification system. This marginality is precisely the point. The region accumulates 1,100–1,200 growing degree days (Celsius, base 10°C), comparable to Burgundy's Côte d'Or (1,050–1,150 GDD) and significantly cooler than Marlborough (1,250–1,350 GDD).
+Martinborough operates at the cool edge of viable Pinot Noir cultivation, with a growing season average temperature of approximately 16.5°C, firmly in the "cool climate" category by any classification system. This marginality is precisely the point. The region accumulates 1,100–1,200 growing degree days (Celsius, base 10°C), comparable to Burgundy's Côte d'Or (1,050–1,150 GDD) and significantly cooler than Marlborough (1,250–1,350 GDD).
 
-The frost-free period typically runs from late October to late April—roughly 180 days—providing just enough time for Pinot Noir to reach phenolic maturity in favorable years. Spring frosts remain a genuine threat, with damaging events occurring roughly one year in four. The 2015 spring saw severe frost damage across multiple vineyards, reducing yields by 30–50% at some estates.
+The frost-free period typically runs from late October to late April (roughly 180 days) providing just enough time for Pinot Noir to reach phenolic maturity in favorable years. Spring frosts remain a genuine threat, with damaging events occurring roughly one year in four. The 2015 spring saw severe frost damage across multiple vineyards, reducing yields by 30–50% at some estates.
 
 ### The Rain Shadow Effect
 
-Annual rainfall averages 750–800 millimeters, but the distribution tells the real story. The Tararua and Rimutaka ranges block moisture-laden westerlies from the Tasman Sea, creating a pronounced rain shadow. Wellington, just 80 kilometers south, receives 1,250 millimeters annually—nearly 60% more precipitation.
+Annual rainfall averages 750–800 millimeters, but the distribution tells the real story. The Tararua and Rimutaka ranges block moisture-laden westerlies from the Tasman Sea, creating a pronounced rain shadow. Wellington, just 80 kilometers south, receives 1,250 millimeters annually, nearly 60% more precipitation.
 
 During the critical growing season (October–April), Martinborough receives only 300–350 millimeters of rain, with January and February often recording less than 40 millimeters each. This natural drought stress concentrates flavors and reduces disease pressure, though it necessitates supplemental irrigation in most vintages. The free-draining gravels amplify water stress, allowing precise irrigation management to control vigor and berry size.
 
@@ -52,7 +52,7 @@ Compare this to Burgundy's Côte d'Or, which receives 400–450 millimeters duri
 
 Wellington's notorious winds extend to Martinborough, though the valley location provides partial shelter. Prevailing northwesterlies during summer bring warm, dry air that accelerates ripening and desiccates disease spores. These winds can gust to 40–50 kilometers per hour on hot days, creating evapotranspiration stress that thickens grape skins and intensifies color extraction.
 
-The afternoon sea breeze—a cool southerly flow from the nearby Pacific coast—provides crucial diurnal temperature moderation. Summer days regularly reach 25–28°C, but temperatures plummet to 10–14°C overnight, creating diurnal swings of 12–16°C. This day-night oscillation preserves acidity while accumulating sugar and phenolic ripeness—the holy trinity of quality viticulture.
+The afternoon sea breeze (a cool southerly flow from the nearby Pacific coast) provides crucial diurnal temperature moderation. Summer days regularly reach 25–28°C, but temperatures plummet to 10–14°C overnight, creating diurnal swings of 12–16°C. This day-night oscillation preserves acidity while accumulating sugar and phenolic ripeness: the holy trinity of quality viticulture.
 
 Wind also serves as natural disease prevention. The constant air movement keeps canopies dry and reduces fungal pressure, allowing many producers to farm organically or biodynamically with minimal copper and sulfur applications. Ata Rangi, Dry River, and Escarpment all maintain organic or biodynamic certification, a testament to the climate's inherent disease resistance.
 
@@ -60,7 +60,7 @@ Wind also serves as natural disease prevention. The constant air movement keeps 
 
 Despite its small size, Martinborough experiences significant vintage variation. Cool, wet years like 2012 and 2017 challenge ripeness and require rigorous fruit selection. Warm, dry vintages like 2013, 2014, and 2018 produce wines of concentration and power, though excessive heat can push alcohol levels beyond ideal balance.
 
-The region's marginality provides a buffer against climate change impacts that threaten warmer regions. Average temperatures have risen approximately 0.8°C since the 1980s, shifting Martinborough from barely viable to comfortably cool for Pinot Noir. Harvest dates have advanced roughly 10 days over four decades, but the region still picks in late March to mid-April—similar timing to Burgundy's September harvest.
+The region's marginality provides a buffer against climate change impacts that threaten warmer regions. Average temperatures have risen approximately 0.8°C since the 1980s, shifting Martinborough from barely viable to comfortably cool for Pinot Noir. Harvest dates have advanced roughly 10 days over four decades, but the region still picks in late March to mid-April, similar timing to Burgundy's September harvest.
 
 However, increased weather volatility poses challenges. Spring frost events have intensified, and summer heat spikes can occur with little warning. The 2018 vintage saw unprecedented February heat, with temperatures exceeding 35°C for multiple days, causing sunburn and dehydration in exposed fruit. Canopy management has become increasingly critical to protect fruit while maintaining ripening momentum.
 
@@ -70,19 +70,19 @@ However, increased weather volatility poses challenges. Spring frost events have
 
 Pinot Noir accounts for approximately 55–60% of Martinborough's vineyard area, a proportion that would make any Burgundian feel at home. The variety arrived in New Zealand during the 1970s, with Martinborough's first commercial plantings occurring in 1980 when Clive Paton established Ata Rangi Vineyard after studying soil maps and climate data that suggested Burgundian parallels.
 
-Early clonal material came primarily from California's "suitcase clones"—Pinot Noir selections smuggled from Burgundy in the 1960s and propagated at UC Davis. These included UCD 5 and UCD 6, later identified as Dijon clones 113 and 114 respectively. The 1990s brought direct imports of Dijon clones (115, 667, 777) and Pommard selections, diversifying the genetic palette.
+Early clonal material came primarily from California's "suitcase clones", Pinot Noir selections smuggled from Burgundy in the 1960s and propagated at UC Davis. These included UCD 5 and UCD 6, later identified as Dijon clones 113 and 114 respectively. The 1990s brought direct imports of Dijon clones (115, 667, 777) and Pommard selections, diversifying the genetic palette.
 
-Modern Martinborough vineyards typically plant 3–5 clones in mixed blocks to hedge against vintage variation and build complexity. Dijon 115 provides perfume and early ripening; 667 adds structure and dark fruit; 777 contributes mid-palate flesh; Pommard delivers earthiness and age-worthiness. The Abel clone—a New Zealand selection from Martinborough itself—has gained popularity for its disease resistance and consistent cropping.
+Modern Martinborough vineyards typically plant 3–5 clones in mixed blocks to hedge against vintage variation and build complexity. Dijon 115 provides perfume and early ripening; 667 adds structure and dark fruit; 777 contributes mid-palate flesh; Pommard delivers earthiness and age-worthiness. The Abel clone (a New Zealand selection from Martinborough itself) has gained popularity for its disease resistance and consistent cropping.
 
 Vine density ranges from 3,000–5,500 vines per hectare, with the highest densities on the most vigorous sites to control yield and increase competition. Vertical shoot positioning (VSP) dominates, though some producers experiment with Scott Henry or lyre systems on deeper soils. Yields typically target 4–6 tons per hectare (28–42 hectoliters per hectare), significantly below New Zealand's national average but comparable to good Burgundy village-level production.
 
-The gravelly soils stress vines naturally, producing small berries with high skin-to-juice ratios. Berry weights average 0.8–1.2 grams in dry vintages, compared to 1.2–1.5 grams in regions with richer soils. This concentration shows in the wines' color intensity and structural backbone—Martinborough Pinot Noirs routinely display deeper hues and firmer tannins than their Marlborough counterparts.
+The gravelly soils stress vines naturally, producing small berries with high skin-to-juice ratios. Berry weights average 0.8–1.2 grams in dry vintages, compared to 1.2–1.5 grams in regions with richer soils. This concentration shows in the wines' color intensity and structural backbone. Martinborough Pinot Noirs routinely display deeper hues and firmer tannins than their Marlborough counterparts.
 
 ### Pinot Gris: The Serious Alternative
 
 Pinot Gris represents approximately 15–18% of plantings, producing wines that bear little resemblance to the commercial, off-dry style dominating New Zealand's export market. Martinborough Pinot Gris aims for Alsatian richness and texture, with extended lees contact, partial barrel fermentation, and dry finishing profiles.
 
-The variety thrives on Martinborough's terraces, developing phenolic ripeness without excessive alcohol. Typical wines reach 13–14% ABV with full flavor development, compared to 12.5–13% in cooler Marlborough. The gravelly soils contribute a textural grip—almost tannic structure—that distinguishes these wines from fruit-forward styles elsewhere.
+The variety thrives on Martinborough's terraces, developing phenolic ripeness without excessive alcohol. Typical wines reach 13–14% ABV with full flavor development, compared to 12.5–13% in cooler Marlborough. The gravelly soils contribute a textural grip (almost tannic structure) that distinguishes these wines from fruit-forward styles elsewhere.
 
 Clonal selection focuses on Alsatian material rather than Italian Pinot Grigio clones, targeting smaller berries and thicker skins. Harvest timing proves critical; picked too early, the wines lack flavor depth; too late, they lose acidity and develop phenolic bitterness. The narrow window typically opens in late March, 7–10 days before Pinot Noir.
 
@@ -92,13 +92,13 @@ Riesling occupies roughly 8–10% of vineyard area, producing wines of surprisin
 
 The gravels impart a stony, mineral character reminiscent of Mosel Riesling, though without slate's distinctive petrol notes. Instead, Martinborough Rieslings display lime zest, white flowers, and a saline quality that some attribute to wind-borne sea spray. The best examples age gracefully for 10–15 years, developing toast and honey complexity while retaining citrus core.
 
-Sauvignon Blanc (8–10% of plantings) diverges from Marlborough's aggressive tropical fruit style, offering more restraint and mineral tension. The warmer temperatures reduce methoxypyrazines—the compounds responsible for bell pepper and gooseberry aromas—while the gravelly soils add texture and length. Some producers barrel-ferment a portion for additional complexity, creating wines that reference Loire Valley Sancerre more than New Zealand's typical expression.
+Sauvignon Blanc (8–10% of plantings) diverges from Marlborough's aggressive tropical fruit style, offering more restraint and mineral tension. The warmer temperatures reduce methoxypyrazines (the compounds responsible for bell pepper and gooseberry aromas) while the gravelly soils add texture and length. Some producers barrel-ferment a portion for additional complexity, creating wines that reference Loire Valley Sancerre more than New Zealand's typical expression.
 
 Chardonnay (5–7% of area) remains a niche pursuit, though quality-focused producers craft compelling wines with Burgundian structure. The cool climate preserves acidity while the dry conditions concentrate flavors. Winemaking typically employs wild fermentation, barrel aging on lees, and partial malolactic conversion, producing wines of tension and minerality rather than tropical richness.
 
 ### Syrah: The Unexpected Success
 
-A small but growing contingent of producers (3–5% of plantings) has embraced Syrah, inspired by Northern Rhône examples. Martinborough's cool nights and warm days create Northern Rhône-like diurnal shifts, producing wines of peppery elegance rather than Australian power. Alcohol levels typically reach 13–13.5% ABV—moderate by Syrah standards—with vibrant acidity and savory complexity.
+A small but growing contingent of producers (3–5% of plantings) has embraced Syrah, inspired by Northern Rhône examples. Martinborough's cool nights and warm days create Northern Rhône-like diurnal shifts, producing wines of peppery elegance rather than Australian power. Alcohol levels typically reach 13–13.5% ABV (moderate by Syrah standards) with vibrant acidity and savory complexity.
 
 The variety ripens reliably in warm vintages but struggles in cool years, making it a riskier proposition than Pinot Noir. Producers typically plant on the warmest, most sheltered sites with maximum sun exposure. Whole-bunch fermentation is common, adding stem tannin structure and herbal complexity that reinforces the Northern Rhône parallel.
 
@@ -106,9 +106,9 @@ The variety ripens reliably in warm vintages but struggles in cool years, making
 
 ### Pinot Noir: Structure, Perfume, and Longevity
 
-Martinborough Pinot Noir occupies a stylistic middle ground between Burgundy's ethereal elegance and New World fruit density. The wines display red and black cherry fruit, often with violet and rose petal perfume, supported by firm but fine-grained tannins and bright acidity. The gravelly terroir contributes a stony, mineral undercurrent—not as pronounced as Morey-Saint-Denis limestone but present nonetheless.
+Martinborough Pinot Noir occupies a stylistic middle ground between Burgundy's ethereal elegance and New World fruit density. The wines display red and black cherry fruit, often with violet and rose petal perfume, supported by firm but fine-grained tannins and bright acidity. The gravelly terroir contributes a stony, mineral undercurrent, not as pronounced as Morey-Saint-Denis limestone but present nonetheless.
 
-Winemaking approaches vary, but common threads include partial whole-bunch fermentation (10–40% in most cases), wild yeast fermentation, and extended maceration times of 18–25 days. The whole bunches add structural complexity and savory notes without overwhelming fruit purity—a delicate balance that requires fully ripe stems to avoid green, stalky flavors.
+Winemaking approaches vary, but common threads include partial whole-bunch fermentation (10–40% in most cases), wild yeast fermentation, and extended maceration times of 18–25 days. The whole bunches add structural complexity and savory notes without overwhelming fruit purity: a delicate balance that requires fully ripe stems to avoid green, stalky flavors.
 
 Barrel aging typically lasts 10–16 months in French oak, with new oak percentages ranging from 15–35% depending on producer philosophy and vintage concentration. The best wines integrate oak seamlessly, using it as seasoning rather than dominant flavor. Cooler vintages see less new wood to preserve fruit expression; warmer years tolerate higher percentages.
 
@@ -126,7 +126,7 @@ Geography influences style as well. Wines from the highest, oldest terraces tend
 
 Martinborough Pinot Gris aims for vinous complexity rather than easy-drinking fruitiness. Extended lees contact (6–12 months) builds texture and body, creating wines with almost oily richness that coats the palate. Partial barrel fermentation (typically 20–40% of the blend) adds toasty complexity and structural backbone without overwhelming varietal character.
 
-The wines display ripe pear, quince, and stone fruit flavors with a distinctive phenolic grip—a slight tannic texture from skin contact and phenolic ripeness. This structure allows the wines to pair with richer foods and age gracefully for 5–8 years, developing honeyed complexity and nutty notes. Residual sugar remains low (0–4 grams per liter), creating a dry, food-friendly profile.
+The wines display ripe pear, quince, and stone fruit flavors with a distinctive phenolic grip: a slight tannic texture from skin contact and phenolic ripeness. This structure allows the wines to pair with richer foods and age gracefully for 5–8 years, developing honeyed complexity and nutty notes. Residual sugar remains low (0–4 grams per liter), creating a dry, food-friendly profile.
 
 ### Riesling: Dry, Mineral, and Age-Worthy
 
@@ -154,17 +154,17 @@ Despite the lack of official classification, certain vineyard sites have establi
 
 **Kusuda's Vineyard**: A tiny 2-hectare site planted to high-density (5,000 vines per hectare) Pinot Noir, managed biodynamically. The vineyard's eastern aspect provides morning sun while avoiding afternoon heat stress. The wines display Burgundian restraint and site-specific character, with production limited to 500–800 cases annually.
 
-**Martinborough Vineyard's Home Block**: The estate's original planting from 1980, featuring a mix of old-vine Pinot Noir clones including Abel and UCD selections. The site's central location provides balanced ripening without excessive heat or cool-climate austerity. The wines offer a benchmark Martinborough style—neither extreme power nor delicate transparency, but harmonious integration.
+**Martinborough Vineyard's Home Block**: The estate's original planting from 1980, featuring a mix of old-vine Pinot Noir clones including Abel and UCD selections. The site's central location provides balanced ripening without excessive heat or cool-climate austerity. The wines offer a benchmark Martinborough style, neither extreme power nor delicate transparency, but harmonious integration.
 
 ### The Gladstone Sub-Region
 
-North of Martinborough proper, Gladstone occupies a separate set of river terraces with slightly different soil composition. The gravels here contain more sandstone and less greywacke, creating slightly warmer, earlier-ripening conditions. The sub-region remains tiny—perhaps 50 hectares planted—but produces quality Pinot Noir with a rounder, more immediately accessible profile than Martinborough's firmer structure.
+North of Martinborough proper, Gladstone occupies a separate set of river terraces with slightly different soil composition. The gravels here contain more sandstone and less greywacke, creating slightly warmer, earlier-ripening conditions. The sub-region remains tiny (perhaps 50 hectares planted) but produces quality Pinot Noir with a rounder, more immediately accessible profile than Martinborough's firmer structure.
 
 ## VINTAGE VARIATION
 
 ### The Marginal Climate Challenge
 
-Martinborough's cool-climate position creates significant vintage variation, with ripeness and quality fluctuating more dramatically than in warmer, more stable regions. The difference between an ideal vintage and a challenging one can mean 200–300 growing degree days—equivalent to shifting an entire climate zone.
+Martinborough's cool-climate position creates significant vintage variation, with ripeness and quality fluctuating more dramatically than in warmer, more stable regions. The difference between an ideal vintage and a challenging one can mean 200–300 growing degree days, equivalent to shifting an entire climate zone.
 
 **Ideal Vintage Conditions**: Warm, dry growing seasons with moderate temperatures (22–26°C daytime highs) and cool nights (10–14°C lows). Spring frosts avoided, flowering completed successfully in December, and a dry, stable March-April allowing extended hang time. These conditions occurred in 2013, 2014, 2015, 2018, and 2019, producing wines of concentration, balance, and aging potential.
 
@@ -178,7 +178,7 @@ Martinborough's cool-climate position creates significant vintage variation, wit
 
 **2017**: A cool, wet vintage requiring careful vineyard management and fruit selection. Wines show lighter body, bright acidity, and red fruit character. The best examples offer charm and elegance despite lower concentration. Drink 2022–2030.
 
-**2016**: A very good vintage with balanced ripening and no extreme weather events. Wines display classic Martinborough structure—firm tannins, bright acidity, dark cherry fruit, and mineral undertones. Drink 2024–2032.
+**2016**: A very good vintage with balanced ripening and no extreme weather events. Wines display classic Martinborough structure, firm tannins, bright acidity, dark cherry fruit, and mineral undertones. Drink 2024–2032.
 
 **2015**: An outstanding vintage marred by spring frosts that reduced yields. The fruit that survived produced wines of exceptional concentration and structure. Wines are still tight and tannic in 2024, requiring 5–10 more years to reach peak. Drink 2028–2040.
 
@@ -204,13 +204,13 @@ Ata Rangi farms 32 hectares biodynamically (certified since 2012), embracing hol
 
 Founded in 1979 by scientist Neil McCallum, Dry River pioneered Martinborough viticulture alongside Ata Rangi. McCallum's analytical approach combined scientific rigor with intuitive winemaking, creating wines of precision and longevity. The estate changed hands in 2019 when McCallum sold to Wilco Lam, but the winemaking philosophy remains unchanged.
 
-Dry River's Pinot Noir comes from the Craighall Vineyard's extremely stony soils, producing wines of mineral intensity and structural backbone. The winemaking uses minimal intervention—wild fermentation, minimal new oak (20%), and no fining or filtration. The wines require patience, often needing 8–10 years to soften and reveal their complexity.
+Dry River's Pinot Noir comes from the Craighall Vineyard's extremely stony soils, producing wines of mineral intensity and structural backbone. The winemaking uses minimal intervention, wild fermentation, minimal new oak (20%), and no fining or filtration. The wines require patience, often needing 8–10 years to soften and reveal their complexity.
 
-The estate also produces exceptional Riesling, Pinot Gris, and Gewürztraminer, all crafted with the same precision and attention to terroir. The Riesling, fermented dry in neutral oak, ages remarkably well, developing toast and honey notes over 10–15 years. Production remains tiny—roughly 3,000 cases annually—and the wines command cult status among collectors.
+The estate also produces exceptional Riesling, Pinot Gris, and Gewürztraminer, all crafted with the same precision and attention to terroir. The Riesling, fermented dry in neutral oak, ages remarkably well, developing toast and honey notes over 10–15 years. Production remains tiny (roughly 3,000 cases annually) and the wines command cult status among collectors.
 
 ### Escarpment
 
-Established in 1998 by Larry McKenna, a veteran of Martinborough Vineyard and Ata Rangi, Escarpment focuses on single-vineyard Pinot Noir that expresses specific terroir. The estate farms three vineyards—Te Rehua, Kupe, and Pahi—each on different terrace levels with distinct soil profiles and microclimates.
+Established in 1998 by Larry McKenna, a veteran of Martinborough Vineyard and Ata Rangi, Escarpment focuses on single-vineyard Pinot Noir that expresses specific terroir. The estate farms three vineyards (Te Rehua, Kupe, and Pahi) each on different terrace levels with distinct soil profiles and microclimates.
 
 McKenna's winemaking emphasizes whole-bunch fermentation (30–50%), extended maceration (25–30 days), and moderate new oak (25–30%). The wines display savory complexity, firm tannins, and pronounced minerality, requiring 5–8 years to integrate. The Te Rehua bottling, from the highest, oldest terrace, represents Martinborough's most structured, age-worthy expression.
 
@@ -220,15 +220,15 @@ Escarpment also produces Pinot Gris, Chardonnay, and Riesling, all crafted with 
 
 Founded in 2004 by Japanese-born winemaker Hiroyuki Kusuda, this tiny operation produces some of Martinborough's most Burgundian Pinot Noir. Kusuda's 2-hectare vineyard, planted at high density (5,000 vines per hectare) and farmed biodynamically, yields just 500–800 cases annually.
 
-The winemaking follows Burgundian principles—100% whole-cluster fermentation, wild yeast, extended aging in French oak (30–40% new), and minimal intervention. The wines display remarkable elegance and restraint, with red fruit purity, silky tannins, and pronounced minerality. They age gracefully for 10–15 years, developing sous-bois and truffle complexity.
+The winemaking follows Burgundian principles, 100% whole-cluster fermentation, wild yeast, extended aging in French oak (30–40% new), and minimal intervention. The wines display remarkable elegance and restraint, with red fruit purity, silky tannins, and pronounced minerality. They age gracefully for 10–15 years, developing sous-bois and truffle complexity.
 
-Kusuda's approach represents the extreme end of Martinborough's quality spectrum—tiny production, meticulous viticulture, and uncompromising winemaking. The wines are difficult to obtain and command premium prices, but they demonstrate Martinborough's potential for world-class Pinot Noir.
+Kusuda's approach represents the extreme end of Martinborough's quality spectrum, tiny production, meticulous viticulture, and uncompromising winemaking. The wines are difficult to obtain and command premium prices, but they demonstrate Martinborough's potential for world-class Pinot Noir.
 
 ### Martinborough Vineyard
 
 Founded in 1980 alongside Ata Rangi and Dry River, Martinborough Vineyard helped establish the region's reputation. The estate farms 14 hectares, producing a range of wines from Pinot Noir, Pinot Gris, Riesling, and Chardonnay.
 
-The flagship Pinot Noir, sourced from the Home Block, displays classic Martinborough character—dark cherry fruit, firm tannins, and mineral backbone. The winemaking uses 20–30% whole bunches, wild fermentation, and 11 months in French oak (25% new). The wines offer excellent value and age-worthiness, developing complexity over 8–12 years.
+The flagship Pinot Noir, sourced from the Home Block, displays classic Martinborough character, dark cherry fruit, firm tannins, and mineral backbone. The winemaking uses 20–30% whole bunches, wild fermentation, and 11 months in French oak (25% new). The wines offer excellent value and age-worthiness, developing complexity over 8–12 years.
 
 The estate also produces single-vineyard Pinot Noirs from Te Tera and Nga Waka vineyards, each expressing distinct terroir. The Te Tera, from younger vines on deeper soils, shows more immediate fruit and softer tannins; the Nga Waka, from old vines on gravelly soils, displays greater structure and aging potential.
 
@@ -236,7 +236,7 @@ The estate also produces single-vineyard Pinot Noirs from Te Tera and Nga Waka v
 
 Located slightly north of Martinborough proper, Palliser Estate represents larger-scale quality production. The estate farms 80 hectares across multiple sites, producing a range of wines from Pinot Noir, Sauvignon Blanc, Pinot Gris, Riesling, and Chardonnay.
 
-The flagship Pinot Noir, labeled Palliser Estate, offers excellent value and consistent quality. The winemaking employs modern techniques—controlled fermentation, moderate new oak (25%), and careful blending to achieve house style consistency. The wines display approachable fruit, balanced structure, and 5–8 year aging potential.
+The flagship Pinot Noir, labeled Palliser Estate, offers excellent value and consistent quality. The winemaking employs modern techniques, controlled fermentation, moderate new oak (25%), and careful blending to achieve house style consistency. The wines display approachable fruit, balanced structure, and 5–8 year aging potential.
 
 Palliser also produces single-vineyard Pinot Noirs from Pencarrow and Block 5, showcasing specific terroir. The estate's size allows investment in modern winemaking equipment and sustainable practices, including solar power and water recycling.
 
@@ -244,17 +244,17 @@ Palliser also produces single-vineyard Pinot Noirs from Pencarrow and Block 5, s
 
 Founded in 1998 by Kai Schubert, a German-trained winemaker, Schubert Wines produces Pinot Noir and Syrah with European restraint and precision. The estate farms 9 hectares biodynamically, focusing on low yields (3–4 tons per hectare) and natural winemaking.
 
-The Pinot Noir, labeled Marion's Vineyard, employs 100% whole-cluster fermentation, wild yeast, and extended aging in French oak (30% new). The wines display savory complexity, firm tannins, and pronounced minerality—closer to Burgundy than New World fruit bombs. They require 5–10 years to soften and reveal their full potential.
+The Pinot Noir, labeled Marion's Vineyard, employs 100% whole-cluster fermentation, wild yeast, and extended aging in French oak (30% new). The wines display savory complexity, firm tannins, and pronounced minerality, closer to Burgundy than New World fruit bombs. They require 5–10 years to soften and reveal their full potential.
 
-Schubert's Syrah, labeled Block B, demonstrates Martinborough's potential for Northern Rhône-style wines. The wine shows peppery spice, savory herbs, and moderate alcohol (13–13.5% ABV), with firm tannins and bright acidity. Production remains tiny—roughly 1,000 cases annually—and the wines command cult status among sommeliers.
+Schubert's Syrah, labeled Block B, demonstrates Martinborough's potential for Northern Rhône-style wines. The wine shows peppery spice, savory herbs, and moderate alcohol (13–13.5% ABV), with firm tannins and bright acidity. Production remains tiny (roughly 1,000 cases annually) and the wines command cult status among sommeliers.
 
 ### Cambridge Road
 
-Founded in 2000 by Kiwi expatriate and former finance professional Darren Peacock, Cambridge Road produces Pinot Noir and Chardonnay from 3 hectares of estate vineyards. The operation remains tiny—500–700 cases annually—but the wines punch above their weight.
+Founded in 2000 by Kiwi expatriate and former finance professional Darren Peacock, Cambridge Road produces Pinot Noir and Chardonnay from 3 hectares of estate vineyards. The operation remains tiny (500–700 cases annually) but the wines punch above their weight.
 
 The Pinot Noir employs 30–40% whole bunches, wild fermentation, and 11 months in French oak (30% new). The wines display red fruit purity, silky tannins, and elegant structure, drinking well young but aging gracefully for 8–12 years. The Chardonnay, barrel-fermented with wild yeast and aged on lees for 11 months, shows Burgundian restraint and mineral tension.
 
-Cambridge Road's small scale allows meticulous attention to detail—hand-harvesting, berry sorting, and minimal intervention winemaking. The wines represent excellent value for their quality level, offering an accessible entry point to top-tier Martinborough Pinot Noir.
+Cambridge Road's small scale allows meticulous attention to detail, hand-harvesting, berry sorting, and minimal intervention winemaking. The wines represent excellent value for their quality level, offering an accessible entry point to top-tier Martinborough Pinot Noir.
 
 ## Sources and Further Reading
 

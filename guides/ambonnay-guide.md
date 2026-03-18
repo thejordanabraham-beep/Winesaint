@@ -1,14 +1,14 @@
 # Ambonnay: Champagne's Pinot Noir Powerhouse
 
-Ambonnay doesn't whisper. Among the grand cru villages of the Montagne de Reims, it stands apart—not for subtlety, but for the sheer structural authority of its pinot noir. While neighboring Bouzy often receives more attention, Ambonnay quietly produces some of Champagne's most age-worthy base wines, its 387 hectares of vineyards spread across a complex mosaic of soils that few producers have truly bothered to map. Until recently.
+Ambonnay doesn't whisper. Among the grand cru villages of the Montagne de Reims, it stands apart, not for subtlety, but for the sheer structural authority of its pinot noir. While neighboring Bouzy often receives more attention, Ambonnay quietly produces some of Champagne's most age-worthy base wines, its 387 hectares of vineyards spread across a complex mosaic of soils that few producers have truly bothered to map. Until recently.
 
 This is changing. A new generation of grower-producers has begun dissecting Ambonnay with Burgundian precision, bottling single parcels that reveal what the grandes maisons have known for decades: Ambonnay is not one terroir, but many.
 
 ## The Village Paradox
 
-Here's the contradiction at Ambonnay's heart: 80% of its vineyards are planted to pinot noir, yet its most distinctive characteristic may be how exceptionally its chardonnay performs. Eric Rodez, Ambonnay's mayor and a seventh-generation winegrower (his family arrived in 1757), notes that chardonnay plantings cluster among the village's oldest families—those with the historical knowledge to identify where this finicky variety actually thrives.
+Here's the contradiction at Ambonnay's heart: 80% of its vineyards are planted to pinot noir, yet its most distinctive characteristic may be how exceptionally its chardonnay performs. Eric Rodez, Ambonnay's mayor and a seventh-generation winegrower (his family arrived in 1757), notes that chardonnay plantings cluster among the village's oldest families: those with the historical knowledge to identify where this finicky variety actually thrives.
 
-The reason becomes clear when you examine the village's soil structure. Ambonnay sits on a series of ridges where erosion has exposed varying depths of topsoil over chalk bedrock. On the southeast-facing hillsides, centuries of erosion have worn away clay-rich topsoil, exposing what Rodez calls *terres blanches*—chalky, calcareous soils ideal for chardonnay. In contrast, the *terres noires* (darker, clay-rich soils) at the slope's base and in less-eroded sectors produce pinot noir of considerable power but struggle with chardonnay.
+The reason becomes clear when you examine the village's soil structure. Ambonnay sits on a series of ridges where erosion has exposed varying depths of topsoil over chalk bedrock. On the southeast-facing hillsides, centuries of erosion have worn away clay-rich topsoil, exposing what Rodez calls *terres blanches*, chalky, calcareous soils ideal for chardonnay. In contrast, the *terres noires* (darker, clay-rich soils) at the slope's base and in less-eroded sectors produce pinot noir of considerable power but struggle with chardonnay.
 
 "Pinot noir can grow well in *terres blanches*," Rodez explains, "but chardonnay can never do well in *terres noires*." This is not a subtle distinction. It explains why Ambonnay's chardonnay, when properly sited, displays a tension and minerality that rivals the Côte des Blancs, while its pinot noir from clay-rich sectors develops the muscular structure that grandes maisons prize for their prestige cuvées.
 
@@ -16,41 +16,41 @@ The reason becomes clear when you examine the village's soil structure. Ambonnay
 
 The soil diversity within Ambonnay's 956 acres would be unremarkable in Burgundy. In Champagne, where most maps still depict only village boundaries rather than individual parcels, it represents a frontier of terroir exploration.
 
-Near the border with Bouzy, the soils are notably poor—thin, rocky, and well-drained. Moving eastward toward Trépail, alluvial deposits at the slope's base create deeper, more fertile soils. These gradually thin as elevation increases, exposing more chalk. The gradient matters enormously. Deeper alluvial soils produce pinot noir with softer tannins and earlier accessibility. The eroded hillside sectors, by contrast, yield wines of greater structure and longevity—the kind that can anchor a blend for decades.
+Near the border with Bouzy, the soils are notably poor, thin, rocky, and well-drained. Moving eastward toward Trépail, alluvial deposits at the slope's base create deeper, more fertile soils. These gradually thin as elevation increases, exposing more chalk. The gradient matters enormously. Deeper alluvial soils produce pinot noir with softer tannins and earlier accessibility. The eroded hillside sectors, by contrast, yield wines of greater structure and longevity: the kind that can anchor a blend for decades.
 
-This soil complexity challenges the traditional Champagne classification system, which designated Ambonnay as 100% grand cru in 1919 without acknowledging internal variation. The échelle des crus (ladder of growths) rated entire villages, not individual vineyards. A hectare of deep alluvial soil near the village center receives the same grand cru designation as an eroded, chalk-rich parcel on the hillside—despite producing fundamentally different wines.
+This soil complexity challenges the traditional Champagne classification system, which designated Ambonnay as 100% grand cru in 1919 without acknowledging internal variation. The échelle des crus (ladder of growths) rated entire villages, not individual vineyards. A hectare of deep alluvial soil near the village center receives the same grand cru designation as an eroded, chalk-rich parcel on the hillside, despite producing fundamentally different wines.
 
 ## The Krug Perspective: Seventeen Ambonnays
 
-The grandes maisons understand this complexity intimately. At Krug, winemakers don't speak of "Ambonnay pinot noir" but rather "the seventeen Ambonnays"—seventeen different growers whose parcels express distinct identities. Olivier Krug articulated this to me during a tasting of vins clairs: "We have the Ambonnay of Jacques, of Antoine, of Benoît, and many others. All of them have different identities, and we want to preserve each of them."
+The grandes maisons understand this complexity intimately. At Krug, winemakers don't speak of "Ambonnay pinot noir" but rather "the seventeen Ambonnays", seventeen different growers whose parcels express distinct identities. Olivier Krug articulated this to me during a tasting of vins clairs: "We have the Ambonnay of Jacques, of Antoine, of Benoît, and many others. All of them have different identities, and we want to preserve each of them."
 
-Krug ferments these parcels separately in hundreds of small oak casks, maintaining the individual character of each site through the blending process. This approach—treating Ambonnay not as a monolithic grand cru but as a collection of distinct terroirs—represents the opposite of terroir dilution. It proves its value.
+Krug ferments these parcels separately in hundreds of small oak casks, maintaining the individual character of each site through the blending process. This approach (treating Ambonnay not as a monolithic grand cru but as a collection of distinct terroirs) represents the opposite of terroir dilution. It proves its value.
 
 Louis Roederer pursues similar precision, isolating specific Ambonnay parcels for Cristal. The house's obsessive attention to parcel identity stems from practical necessity: when you're blending wines meant to age for decades, you need to understand not just village character but site-specific behavior over time.
 
 ## The Marguet Revolution: Mapping the Lieux-Dits
 
-Few producers have explored Ambonnay's internal geography as systematically as Benoît Marguet. Beginning in the early 2010s, Marguet began bottling a series of single-parcel wines that function as a terroir map of the village. His approach combines Burgundian site-specificity with Champagne's traditional blending flexibility—he produces both village-level cuvées and eight distinct lieu-dit bottlings.
+Few producers have explored Ambonnay's internal geography as systematically as Benoît Marguet. Beginning in the early 2010s, Marguet began bottling a series of single-parcel wines that function as a terroir map of the village. His approach combines Burgundian site-specificity with Champagne's traditional blending flexibility, he produces both village-level cuvées and eight distinct lieu-dit bottlings.
 
-Two parcels stand out. **Les Bermonts** consists entirely of old-vine chardonnay planted close to Ambonnay village, on eroded hillside soils where chalk sits close to the surface. The wine displays piercing minerality and a tight, rose-petal aromatic profile—closer to Cramant than to the pinot-dominated Ambonnay stereotype.
+Two parcels stand out. **Les Bermonts** consists entirely of old-vine chardonnay planted close to Ambonnay village, on eroded hillside soils where chalk sits close to the surface. The wine displays piercing minerality and a tight, rose-petal aromatic profile, closer to Cramant than to the pinot-dominated Ambonnay stereotype.
 
-**Les Crayères** (literally "the chalk pits") sits on Ambonnay's eastern side, planted primarily to pinot noir on intensely calcareous soil. The name references the chalk's prominence: in some sectors, bedrock lies within 30 centimeters of the surface. The resulting pinot noir shows remarkable structural tension—broad-shouldered but not heavy, with a chalky grip that suggests decades of aging potential.
+**Les Crayères** (literally "the chalk pits") sits on Ambonnay's eastern side, planted primarily to pinot noir on intensely calcareous soil. The name references the chalk's prominence: in some sectors, bedrock lies within 30 centimeters of the surface. The resulting pinot noir shows remarkable structural tension, broad-shouldered but not heavy, with a chalky grip that suggests decades of aging potential.
 
-Marguet's village-level Ambonnay cuvées incorporate more chardonnay than you'd expect for a pinot-dominant village—typically 30-40% depending on vintage. This isn't stylistic whimsy but terroir logic: Ambonnay's *terres blanches* sectors produce chardonnay of such quality that excluding it would diminish the wine.
+Marguet's village-level Ambonnay cuvées incorporate more chardonnay than you'd expect for a pinot-dominant village, typically 30-40% depending on vintage. This isn't stylistic whimsy but terroir logic: Ambonnay's *terres blanches* sectors produce chardonnay of such quality that excluding it would diminish the wine.
 
 ## The Chardonnay Question
 
-The conventional wisdom holds that Ambonnay is a pinot noir village, full stop. This is wrong—or rather, incomplete. The 20% of Ambonnay planted to chardonnay punches well above its acreage.
+The conventional wisdom holds that Ambonnay is a pinot noir village, full stop. This is wrong, or rather, incomplete. The 20% of Ambonnay planted to chardonnay punches well above its acreage.
 
-Eric Rodez's family holdings include significant chardonnay parcels on the southeast-facing hillsides, where erosion has exposed chalk. His blanc de blancs from these sites rivals anything from Avize or Cramant—perhaps with slightly less overt richness but comparable mineral intensity and aging potential. The key difference lies in aspect: Ambonnay's southeast exposure provides slightly more warmth than the east-facing slopes of the Côte des Blancs, producing chardonnay with riper fruit character while maintaining tension.
+Eric Rodez's family holdings include significant chardonnay parcels on the southeast-facing hillsides, where erosion has exposed chalk. His blanc de blancs from these sites rivals anything from Avize or Cramant, perhaps with slightly less overt richness but comparable mineral intensity and aging potential. The key difference lies in aspect: Ambonnay's southeast exposure provides slightly more warmth than the east-facing slopes of the Côte des Blancs, producing chardonnay with riper fruit character while maintaining tension.
 
-The historical pattern of older families planting chardonnay isn't accidental. These families possessed the institutional knowledge—passed through generations—of where chardonnay could succeed. Newer plantings have tended toward pinot noir, both because it's more forgiving across Ambonnay's soil diversity and because market demand for grand cru pinot noir remains strong.
+The historical pattern of older families planting chardonnay isn't accidental. These families possessed the institutional knowledge (passed through generations) of where chardonnay could succeed. Newer plantings have tended toward pinot noir, both because it's more forgiving across Ambonnay's soil diversity and because market demand for grand cru pinot noir remains strong.
 
 ## Winemaking Approaches: Oak and Oxidation
 
 Ambonnay's structural wines invite oak aging more readily than the more delicate wines of the Côte des Blancs. Rodez ferments and ages portions of his wines in older barrels, seeking texture rather than obvious oak flavor. The goal is integration: oak should amplify Ambonnay's inherent power without overwhelming its chalky minerality.
 
-Marguet has experimented more radically, using a combination of stainless steel, concrete eggs, and neutral oak barrels depending on parcel and vintage. His lieu-dit wines typically see partial barrel fermentation, while his village cuvées blend tank and barrel components. The approach aims for precision rather than uniformity—each parcel receives the treatment that best expresses its character.
+Marguet has experimented more radically, using a combination of stainless steel, concrete eggs, and neutral oak barrels depending on parcel and vintage. His lieu-dit wines typically see partial barrel fermentation, while his village cuvées blend tank and barrel components. The approach aims for precision rather than uniformity, each parcel receives the treatment that best expresses its character.
 
 Oxidative handling remains rare in Ambonnay compared to the Côte des Blancs, where some producers embrace controlled oxidation to develop complexity. Ambonnay's producers generally prefer reductive winemaking that preserves fruit intensity and structural definition. The wines develop complexity through bottle age rather than oxidative élevage.
 
@@ -60,11 +60,11 @@ Ambonnay has been slower to adopt organic viticulture than villages like Avize o
 
 Rodez farms organically across his holdings, adapting treatments to specific soil types. In *terres blanches* sectors, where drainage is excellent, disease pressure remains manageable. The clay-rich *terres noires* require more vigilance, particularly in humid vintages when mildew pressure intensifies.
 
-Marguet practices biodynamic viticulture, treating each parcel according to its specific needs. He's experimented with cover crops, green manures, and minimal tillage to improve soil structure—particularly important in the compacted clay soils at the slope's base, where decades of tractor work have reduced porosity.
+Marguet practices biodynamic viticulture, treating each parcel according to its specific needs. He's experimented with cover crops, green manures, and minimal tillage to improve soil structure, particularly important in the compacted clay soils at the slope's base, where decades of tractor work have reduced porosity.
 
 ## Wine Characteristics: Power and Precision
 
-Ambonnay pinot noir displays a distinctive profile that splits the difference between Aÿ's opulence and Verzenay's austerity. Expect dark red fruit—cherry, raspberry, redcurrant—rather than the black fruit character of warmer regions. The wines show considerable tannic structure, particularly from hillside parcels, with a chalky, almost dusty texture that provides grip without harshness.
+Ambonnay pinot noir displays a distinctive profile that splits the difference between Aÿ's opulence and Verzenay's austerity. Expect dark red fruit (cherry, raspberry, redcurrant) rather than the black fruit character of warmer regions. The wines show considerable tannic structure, particularly from hillside parcels, with a chalky, almost dusty texture that provides grip without harshness.
 
 Acidity tends toward the moderate-to-high range, sufficient for aging but less piercing than in the Côte des Blancs. This balance of structure and ripeness makes Ambonnay pinot noir ideal for prestige cuvées meant to age 20-30 years or more.
 
@@ -124,11 +124,11 @@ These parcels lack official recognition in Champagne's appellation system, but g
 
 ## Food Pairing Considerations
 
-Ambonnay's structural wines demand substantial food. The pinot noir-based cuvées handle red meat better than most Champagnes—think duck breast, venison, or aged beef. The chalky tannins cut through fat while the wine's acidity refreshes.
+Ambonnay's structural wines demand substantial food. The pinot noir-based cuvées handle red meat better than most Champagnes, think duck breast, venison, or aged beef. The chalky tannins cut through fat while the wine's acidity refreshes.
 
 Chardonnay-based Ambonnay works beautifully with rich fish preparations: turbot with beurre blanc, lobster, or scallops in cream sauce. The wine's texture matches the dish's richness while its minerality prevents heaviness.
 
-Aged Ambonnay develops savory complexity that pairs with aged cheeses—Comté, Gruyère, or even washed-rind varieties. The wine's evolved character complements the cheese's umami notes without the sweetness clash that plagues many wine-and-cheese pairings.
+Aged Ambonnay develops savory complexity that pairs with aged cheeses. Comté, Gruyère, or even washed-rind varieties. The wine's evolved character complements the cheese's umami notes without the sweetness clash that plagues many wine-and-cheese pairings.
 
 ## The Future: Precision and Climate
 
@@ -138,7 +138,7 @@ The trend toward parcel-specific bottlings will likely accelerate. As more produ
 
 The chardonnay question remains open. Will warming temperatures make Ambonnay's *terres blanches* even more suitable for chardonnay, potentially shifting the village's identity? Or will pinot noir's dominance persist through inertia and market demand?
 
-What's certain is that Ambonnay will continue producing some of Champagne's most structured, age-worthy wines. The chalk ensures that. Whether the world recognizes the village's internal complexity—the seventeen Ambonnays, not one—depends on producers' willingness to bottle and market that complexity.
+What's certain is that Ambonnay will continue producing some of Champagne's most structured, age-worthy wines. The chalk ensures that. Whether the world recognizes the village's internal complexity (the seventeen Ambonnays, not one) depends on producers' willingness to bottle and market that complexity.
 
 The pioneers have started. The map is being drawn.
 

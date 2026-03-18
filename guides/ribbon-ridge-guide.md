@@ -2,7 +2,7 @@
 
 ## The Island Ridge
 
-Ribbon Ridge is not merely another sub-AVA in Oregon's crowded Willamette Valley. It is a geological anomaly—an island-like ridge rising approximately 200 meters from the Chehalem Valley floor, entirely surrounded by lower terrain. This distinctive topography creates one of the most protected and consistently warm growing environments in the entire Willamette Valley.
+Ribbon Ridge is not merely another sub-AVA in Oregon's crowded Willamette Valley. It is a geological anomaly: an island-like ridge rising approximately 200 meters from the Chehalem Valley floor, entirely surrounded by lower terrain. This distinctive topography creates one of the most protected and consistently warm growing environments in the entire Willamette Valley.
 
 The numbers tell part of the story. The AVA encompasses just 1,350 acres, of which only about 500 are planted to vines. This makes it one of the smallest designated wine regions in Oregon. Yet within this compact area, the combination of sedimentary soils, elevation protection, and mesoclimate consistency produces Pinot Noir with a distinctive profile that sets it apart from neighboring Dundee Hills, Eola-Amity Hills, or the broader Chehalem Mountains AVA that surrounds it.
 
@@ -12,15 +12,15 @@ Approved in 2005, Ribbon Ridge represents a relatively recent recognition of wha
 
 ### The Sedimentary Foundation
 
-Unlike much of the Willamette Valley, which showcases volcanic basalt soils from ancient lava flows, Ribbon Ridge is built almost entirely on marine sedimentary soils. Between 15 and 20 million years ago, this area lay beneath an ancient sea. The resulting sedimentary deposits—primarily siltstone and sandstone with layers of clay—create a fundamentally different growing environment than the volcanic soils that dominate regions like Dundee Hills just kilometers away.
+Unlike much of the Willamette Valley, which showcases volcanic basalt soils from ancient lava flows, Ribbon Ridge is built almost entirely on marine sedimentary soils. Between 15 and 20 million years ago, this area lay beneath an ancient sea. The resulting sedimentary deposits (primarily siltstone and sandstone with layers of clay) create a fundamentally different growing environment than the volcanic soils that dominate regions like Dundee Hills just kilometers away.
 
-This is not a subtle distinction. Sedimentary soils here drain differently, retain nutrients differently, and interact with vine roots in ways that directly influence wine character. The siltstone weathers into fine-grained soils with moderate water retention—not the free-draining volcanic basalt that stresses vines more aggressively, nor the water-retentive clay that can produce dilute wines in wet vintages.
+This is not a subtle distinction. Sedimentary soils here drain differently, retain nutrients differently, and interact with vine roots in ways that directly influence wine character. The siltstone weathers into fine-grained soils with moderate water retention, not the free-draining volcanic basalt that stresses vines more aggressively, nor the water-retentive clay that can produce dilute wines in wet vintages.
 
-The sedimentary matrix also contains significant deposits of what locals call "pisolites"—small, round, iron-rich concretions that resemble rusty buckshot. These iron-rich nodules may contribute to the particular minerality and structure found in Ribbon Ridge Pinot Noir, though the exact mechanism remains debated among winemakers.
+The sedimentary matrix also contains significant deposits of what locals call "pisolites", small, round, iron-rich concretions that resemble rusty buckshot. These iron-rich nodules may contribute to the particular minerality and structure found in Ribbon Ridge Pinot Noir, though the exact mechanism remains debated among winemakers.
 
 ### Topography and Elevation
 
-Vineyards on Ribbon Ridge are planted between 60 and 200 meters elevation—relatively low compared to some Willamette Valley sites. The ridge itself rises like a whale's back from the surrounding valley floor, with gentle slopes on all aspects. This creates numerous mesoclimates within the small AVA, as north-facing slopes receive less solar radiation than south-facing sites, and eastern exposures warm earlier in the day than western ones.
+Vineyards on Ribbon Ridge are planted between 60 and 200 meters elevation, relatively low compared to some Willamette Valley sites. The ridge itself rises like a whale's back from the surrounding valley floor, with gentle slopes on all aspects. This creates numerous mesoclimates within the small AVA, as north-facing slopes receive less solar radiation than south-facing sites, and eastern exposures warm earlier in the day than western ones.
 
 The surrounding Chehalem Mountains to the east and the Coast Range to the west serve as natural windbreaks, sheltering the ridge from the strongest Pacific weather systems. This protection is critical. While sites in the Van Duzer Corridor or Eola-Amity Hills experience regular afternoon winds that cool ripening grapes and extend hang time, Ribbon Ridge remains notably calmer and warmer through the growing season.
 
@@ -28,7 +28,7 @@ The surrounding Chehalem Mountains to the east and the Coast Range to the west s
 
 ### Growing Degree Days and Heat Accumulation
 
-Ribbon Ridge accumulates approximately 2,200-2,400 growing degree days (GDD) in an average vintage—placing it among the warmest sites in the northern Willamette Valley. For comparison, Dundee Hills typically records 2,000-2,200 GDD, while cooler sites in the Eola-Amity Hills may see only 1,900-2,100 GDD.
+Ribbon Ridge accumulates approximately 2,200-2,400 growing degree days (GDD) in an average vintage, placing it among the warmest sites in the northern Willamette Valley. For comparison, Dundee Hills typically records 2,000-2,200 GDD, while cooler sites in the Eola-Amity Hills may see only 1,900-2,100 GDD.
 
 This additional heat accumulation manifests in several ways. Harvest on Ribbon Ridge typically occurs 7-10 days earlier than in cooler Willamette Valley sites. Grapes achieve physiological ripeness at lower sugar levels, often reaching optimal phenolic maturity at 23-24° Brix rather than the 25-26° Brix common in cooler areas. The result is wines with moderate alcohol levels (typically 13.5-14.2% ABV) but complete tannin ripeness and developed flavor profiles.
 
@@ -36,7 +36,7 @@ This additional heat accumulation manifests in several ways. Harvest on Ribbon R
 
 Annual rainfall averages 100-115 centimeters, with the vast majority falling between October and May. Summer drought is the norm, but the sedimentary soils' moderate water retention helps vines through the dry season without the severe stress seen on free-draining volcanic sites.
 
-In particularly dry vintages like 2015 or 2021, some growers irrigate young vines, but established vineyards with deep root systems typically navigate summer without supplemental water. This moderate water stress—neither too severe nor too lenient—contributes to the balanced concentration found in Ribbon Ridge wines.
+In particularly dry vintages like 2015 or 2021, some growers irrigate young vines, but established vineyards with deep root systems typically navigate summer without supplemental water. This moderate water stress (neither too severe nor too lenient) contributes to the balanced concentration found in Ribbon Ridge wines.
 
 ## The Pinot Noir Profile: Density and Dark Fruit
 
@@ -44,13 +44,13 @@ In particularly dry vintages like 2015 or 2021, some growers irrigate young vine
 
 Many wine drinkers approach Oregon Pinot Noir expecting ethereal, high-toned wines in a Burgundian mode. Ribbon Ridge challenges this assumption. The combination of warm mesoclimate, sedimentary soils, and protected growing conditions produces Pinot Noir with notable density, darker fruit profiles, and structured tannins.
 
-Where Dundee Hills might give red cherry, cranberry, and rose petal, Ribbon Ridge tends toward black cherry, plum, and darker berry fruits. The tannin structure is more evident—not aggressive, but present and architectural. These are Pinot Noirs that benefit from 3-5 years of bottle age to integrate their components, rather than the 1-2 years sufficient for lighter-styled Oregon wines.
+Where Dundee Hills might give red cherry, cranberry, and rose petal, Ribbon Ridge tends toward black cherry, plum, and darker berry fruits. The tannin structure is more evident, not aggressive, but present and architectural. These are Pinot Noirs that benefit from 3-5 years of bottle age to integrate their components, rather than the 1-2 years sufficient for lighter-styled Oregon wines.
 
 The aromatic profile often includes savory elements: forest floor, turned earth, black tea, and dried herbs. In warmer vintages, notes of black olive, espresso, and dark chocolate can emerge. The wines typically show less overt floral character than cooler-climate Oregon sites, trading perfume for density and grip.
 
 ### Texture and Structure
 
-Perhaps the most distinctive characteristic of Ribbon Ridge Pinot Noir is texture. These wines possess a particular density and mid-palate weight that sets them apart. The mouthfeel is neither light and silky nor heavy and extracted, but rather occupies a middle ground—substantial without being ponderous.
+Perhaps the most distinctive characteristic of Ribbon Ridge Pinot Noir is texture. These wines possess a particular density and mid-palate weight that sets them apart. The mouthfeel is neither light and silky nor heavy and extracted, but rather occupies a middle ground, substantial without being ponderous.
 
 This textural character likely derives from multiple factors: the moderate water stress that concentrates flavors without desiccating grapes, the iron-rich sedimentary soils that may contribute to tannin polymerization, and the complete phenolic ripeness achieved through consistent heat accumulation.
 
@@ -60,13 +60,13 @@ This textural character likely derives from multiple factors: the moderate water
 
 Perhaps no producer is more synonymous with Ribbon Ridge than Beaux Frères, the estate established in 1988 by wine importer Robert Parker Jr.'s brother-in-law, Michael Etzel, and Parker himself (though Parker sold his shares in 2017). The estate's 32 hectares of Pinot Noir on the ridge's upper slopes helped establish the region's reputation for powerful, age-worthy wines.
 
-Beaux Frères practices biodynamic viticulture, with close-spaced vines (averaging 2,000-2,500 per hectare) and low yields (typically 2-3 tons per acre). The resulting wines are dense, structured, and built for cellaring—often requiring 5-7 years to show their best. The estate's Upper Terrace Vineyard, planted on particularly iron-rich sedimentary soils, produces some of the most concentrated Pinot Noir in Oregon.
+Beaux Frères practices biodynamic viticulture, with close-spaced vines (averaging 2,000-2,500 per hectare) and low yields (typically 2-3 tons per acre). The resulting wines are dense, structured, and built for cellaring, often requiring 5-7 years to show their best. The estate's Upper Terrace Vineyard, planted on particularly iron-rich sedimentary soils, produces some of the most concentrated Pinot Noir in Oregon.
 
 ### Brick House Vineyards
 
 Established in 1990, Brick House was among the first Oregon wineries to achieve full organic and biodynamic certification. Proprietor Doug Tunnell, a former CBS foreign correspondent, farms 16 hectares on Ribbon Ridge with a focus on soil health and biodiversity.
 
-The approach here contrasts with Beaux Frères' density: wider vine spacing (approximately 1,600 vines per hectare), no irrigation even for young vines, and minimal intervention in the cellar. Brick House wines show the darker fruit profile typical of Ribbon Ridge but with more elegant tannins and brighter acidity—proof that terroir expresses differently through varied viticultural lenses.
+The approach here contrasts with Beaux Frères' density: wider vine spacing (approximately 1,600 vines per hectare), no irrigation even for young vines, and minimal intervention in the cellar. Brick House wines show the darker fruit profile typical of Ribbon Ridge but with more elegant tannins and brighter acidity, proof that terroir expresses differently through varied viticultural lenses.
 
 ### Archery Summit
 
@@ -76,7 +76,7 @@ Archery Summit's winemaking emphasizes whole-cluster fermentation (typically 30-
 
 ### Patricia Green Cellars
 
-Winemaker Jim Anderson sources fruit from multiple Ribbon Ridge vineyards, vinifying them separately to showcase site differences. The Bonshaw Vineyard bottling, from a site on the ridge's western slope, demonstrates how aspect influences expression even within this small AVA—showing brighter fruit and more floral aromatics than southern-exposed sites.
+Winemaker Jim Anderson sources fruit from multiple Ribbon Ridge vineyards, vinifying them separately to showcase site differences. The Bonshaw Vineyard bottling, from a site on the ridge's western slope, demonstrates how aspect influences expression even within this small AVA, showing brighter fruit and more floral aromatics than southern-exposed sites.
 
 Patricia Green's approach uses native yeast fermentations, minimal sulfur additions, and no fining or filtration. This hands-off methodology allows Ribbon Ridge's terroir to speak clearly, producing wines with transparent fruit expression and notable aging potential.
 
@@ -88,7 +88,7 @@ The warm, protected climate of Ribbon Ridge allows successful cultivation of Pin
 
 Dijon clones 114, 115, 667, and 777 are widely planted, each contributing different aromatic and structural components. Clone 114 adds floral notes and bright acidity, 115 brings darker fruit and tannin, 667 contributes spice and complexity, while 777 provides mid-palate texture and early approachability.
 
-Rootstock selection focuses on controlling vigor in the fertile sedimentary soils. Riparia Gloire and 3309C are common choices, providing moderate vigor control without excessive restriction. Some newer plantings use 101-14, which offers better drought tolerance—increasingly relevant as climate change brings more variable precipitation patterns.
+Rootstock selection focuses on controlling vigor in the fertile sedimentary soils. Riparia Gloire and 3309C are common choices, providing moderate vigor control without excessive restriction. Some newer plantings use 101-14, which offers better drought tolerance, increasingly relevant as climate change brings more variable precipitation patterns.
 
 ### Canopy Management
 
@@ -106,7 +106,7 @@ In cooler vintages like 2011 or 2020, Ribbon Ridge's warmth advantage becomes mo
 
 ### Warm Vintages (2014, 2015, 2018, 2021)
 
-In warm years, Ribbon Ridge's heat accumulation can push ripeness toward the edge of what's optimal for Pinot Noir. The 2015 vintage, one of the warmest on record, produced wines with alcohol levels approaching 14.5% ABV and very ripe fruit profiles—black cherry, plum, and even fig notes.
+In warm years, Ribbon Ridge's heat accumulation can push ripeness toward the edge of what's optimal for Pinot Noir. The 2015 vintage, one of the warmest on record, produced wines with alcohol levels approaching 14.5% ABV and very ripe fruit profiles, black cherry, plum, and even fig notes.
 
 Skilled producers managed these conditions through earlier harvest (often in late August rather than September), whole-cluster inclusion for freshness, and gentle extraction to avoid over-concentration. The best 2015 Ribbon Ridge wines show opulent fruit balanced by savory complexity and structured tannins, though some examples tip toward overripeness.
 
@@ -114,7 +114,7 @@ Skilled producers managed these conditions through earlier harvest (often in lat
 
 Cool, wet vintages showcase Ribbon Ridge's advantages. The 2011 vintage challenged much of Oregon with late ripening and rain pressure, but Ribbon Ridge's protected mesoclimate and earlier phenology allowed most producers to harvest before autumn rains arrived.
 
-The resulting wines show brighter acidity, more red fruit character, and elegant structure—closer to the "classic Oregon" profile than typical Ribbon Ridge bottlings. The 2020 vintage, marked by cool temperatures and wildfire smoke concerns, produced surprisingly successful wines from Ribbon Ridge, as the protected location saw less smoke impact than more exposed sites.
+The resulting wines show brighter acidity, more red fruit character, and elegant structure, closer to the "classic Oregon" profile than typical Ribbon Ridge bottlings. The 2020 vintage, marked by cool temperatures and wildfire smoke concerns, produced surprisingly successful wines from Ribbon Ridge, as the protected location saw less smoke impact than more exposed sites.
 
 ### Ideal Vintages (2012, 2016, 2019)
 
@@ -128,7 +128,7 @@ While Pinot Noir dominates plantings (approximately 85% of vineyard area), small
 
 ### Chardonnay
 
-Roughly 10% of plantings are Chardonnay, which thrives in the warm mesoclimate. Ribbon Ridge Chardonnay tends toward riper fruit profiles—stone fruit, melon, and tropical notes—with fuller body than cooler-site examples. Producers like Beaux Frères and Brick House make compelling Chardonnay with notable texture and complexity, often using partial malolactic fermentation and neutral oak to preserve fruit purity while adding depth.
+Roughly 10% of plantings are Chardonnay, which thrives in the warm mesoclimate. Ribbon Ridge Chardonnay tends toward riper fruit profiles (stone fruit, melon, and tropical notes) with fuller body than cooler-site examples. Producers like Beaux Frères and Brick House make compelling Chardonnay with notable texture and complexity, often using partial malolactic fermentation and neutral oak to preserve fruit purity while adding depth.
 
 ### Pinot Gris and Pinot Blanc
 
@@ -178,7 +178,7 @@ Younger vintages (1-3 years old) benefit from slight chilling to 14-15°C, which
 
 ## The Future: Climate Change and Evolution
 
-Ribbon Ridge's warm mesoclimate, once an advantage for ripening Pinot Noir, may become a challenge as global temperatures rise. The 2021 vintage saw unprecedented heat waves, with temperatures exceeding 46°C in late June—conditions that stressed vines and accelerated ripening beyond optimal windows.
+Ribbon Ridge's warm mesoclimate, once an advantage for ripening Pinot Noir, may become a challenge as global temperatures rise. The 2021 vintage saw unprecedented heat waves, with temperatures exceeding 46°C in late June, conditions that stressed vines and accelerated ripening beyond optimal windows.
 
 Forward-thinking producers are adapting through several strategies:
 
@@ -196,7 +196,7 @@ Some producers view these challenges as opportunities to redefine Ribbon Ridge's
 
 Ribbon Ridge occupies a distinctive position in Oregon's wine landscape. Neither as elegant as Dundee Hills nor as powerful as some Eola-Amity sites, it offers something different: Pinot Noir with density, structure, and dark fruit intensity balanced by savory complexity and aging potential.
 
-The AVA's small size—just 500 planted acres—ensures production remains limited. This scarcity, combined with the region's established reputation, maintains strong demand and premium pricing. Yet for those seeking Oregon Pinot Noir with substance and longevity, Ribbon Ridge delivers a compelling expression of place.
+The AVA's small size (just 500 planted acres) ensures production remains limited. This scarcity, combined with the region's established reputation, maintains strong demand and premium pricing. Yet for those seeking Oregon Pinot Noir with substance and longevity, Ribbon Ridge delivers a compelling expression of place.
 
 The island ridge rises from the valley floor, protected and distinct, producing wines that reflect its geological uniqueness and mesoclimate advantages. This is not subtle wine. But it is distinctive, age-worthy, and unmistakably from this small corner of the Willamette Valley.
 

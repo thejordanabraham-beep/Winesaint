@@ -6,7 +6,7 @@ Clos du Roi stands as one of Beaune's most prestigious Premier Cru vineyards, oc
 
 The vineyard's location within the Côte de Beaune places it in the heart of Burgundy's most celebrated wine-producing region, where the geological and climatic conditions converge to create exceptional terroir for both Pinot Noir and Chardonnay. Clos du Roi benefits from the classic east-southeast exposure that characterizes many of Burgundy's finest sites, capturing the gentle morning light while being protected from the harsh afternoon sun and prevailing westerly winds by the forested hills that crown the Côte.
 
-Within the broader context of the Côte de Beaune, Clos du Roi represents the quintessential expression of Beaune's terroir—more structured and mineral-driven than many sites further south in the appellation, yet retaining the elegant, refined character that distinguishes Beaune from the more powerful wines of the Côte de Nuits to the north.
+Within the broader context of the Côte de Beaune, Clos du Roi represents the quintessential expression of Beaune's terroir, more structured and mineral-driven than many sites further south in the appellation, yet retaining the elegant, refined character that distinguishes Beaune from the more powerful wines of the Côte de Nuits to the north.
 
 ## Size
 
@@ -48,7 +48,7 @@ Site-specific challenges include the vineyard's susceptibility to spring frost d
 
 ## Wine Character & Style
 
-Wines from Clos du Roi exhibit the classic characteristics of Premier Cru Beaune while displaying distinctive personality traits that reflect the climat's unique terroir. The wines typically present a beautiful ruby color with garnet highlights, developing brick tones with age. The aromatic profile combines red fruit intensity—particularly cherry, raspberry, and red currant—with distinctive mineral and earthy undertones that reflect the limestone terroir.
+Wines from Clos du Roi exhibit the classic characteristics of Premier Cru Beaune while displaying distinctive personality traits that reflect the climat's unique terroir. The wines typically present a beautiful ruby color with garnet highlights, developing brick tones with age. The aromatic profile combines red fruit intensity (particularly cherry, raspberry, and red currant) with distinctive mineral and earthy undertones that reflect the limestone terroir.
 
 On the palate, Clos du Roi demonstrates remarkable structure and elegance, with firm but refined tannins that provide backbone without overwhelming the delicate fruit flavors. The wine's texture exhibits the silky quality characteristic of great Beaune, with sufficient weight and concentration to merit Premier Cru status while maintaining the finesse that distinguishes Côte de Beaune from Côte de Nuits expressions.
 

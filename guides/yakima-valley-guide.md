@@ -12,7 +12,7 @@ In terms of accessibility, the region is approximately 140 miles southeast of Se
 
 ## Climate & Geography
 
-The Yakima Valley's climate represents a textbook example of desert continental conditions moderated by latitude and elevation. Situated between the 46th and 47th parallels—the same latitudes as France's Burgundy and Bordeaux regions—the valley benefits from extended daylight hours during the growing season, with summer days stretching beyond 16 hours at the peak of the season.
+The Yakima Valley's climate represents a textbook example of desert continental conditions moderated by latitude and elevation. Situated between the 46th and 47th parallels (the same latitudes as France's Burgundy and Bordeaux regions) the valley benefits from extended daylight hours during the growing season, with summer days stretching beyond 16 hours at the peak of the season.
 
 The defining climatic feature is the pronounced rain shadow created by the Cascade Mountains to the west. These peaks intercept moisture-laden air from the Pacific Ocean, resulting in exceptionally low precipitation across the valley. Annual rainfall typically ranges from 6 to 9 inches, with some areas receiving as little as 5 inches. This arid climate necessitates irrigation but provides vintners with remarkable control over vine vigor and crop yields.
 
@@ -136,7 +136,7 @@ Several trends are reshaping the Yakima Valley wine landscape:
 
 **Future Outlook**:
 
-The Yakima Valley's future appears bright, though not without challenges. Climate change presents both opportunities and concerns—warmer temperatures may favor certain varieties while threatening others with excessive alcohol and reduced acidity. Water availability, always crucial in desert viticulture, will require continued attention and possibly significant infrastructure investment.
+The Yakima Valley's future appears bright, though not without challenges. Climate change presents both opportunities and concerns, warmer temperatures may favor certain varieties while threatening others with excessive alcohol and reduced acidity. Water availability, always crucial in desert viticulture, will require continued attention and possibly significant infrastructure investment.
 
 The region's established reputation, diverse terroir, and concentration of vineyard resources position it to remain central to Washington wine's continued evolution. As consumer interest in regional wines grows and the international wine community increasingly recognizes Washington's quality, the Yakima Valley's historic vineyards and distinctive sites will likely command increasing attention and premiums.
 
@@ -144,4 +144,4 @@ The development of the sub-AVAs has created more specific identity and marketing
 
 New generation winemakers and growers are bringing fresh perspectives while building on decades of accumulated knowledge. This combination of experience and innovation suggests the Yakima Valley's best wines may still lie ahead.
 
-For wine professionals and enthusiasts, the Yakima Valley represents both Washington wine history and its future—a region where established producers continue refining their craft while newcomers push boundaries, all working with distinctive terroir that produces wines of character, quality, and sense of place. Whether seeking value-driven everyday wines or collectible, age-worthy bottlings, the Yakima Valley delivers across the spectrum, making it essential territory for understanding American wine.
+For wine professionals and enthusiasts, the Yakima Valley represents both Washington wine history and its future: a region where established producers continue refining their craft while newcomers push boundaries, all working with distinctive terroir that produces wines of character, quality, and sense of place. Whether seeking value-driven everyday wines or collectible, age-worthy bottlings, the Yakima Valley delivers across the spectrum, making it essential territory for understanding American wine.

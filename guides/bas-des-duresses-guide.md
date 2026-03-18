@@ -64,13 +64,13 @@ Harvest timing in Bas des Duresses typically occurs from mid to late September, 
 
 Wines from Bas des Duresses display distinctive characteristics that reflect both the specific terroir and the commune's position within the Côte de Beaune hierarchy. The Pinot Noir wines exhibit a compelling combination of elegance and substance, showing more structure and minerality than typical village-level Auxey-Duresses while maintaining the approachable charm that characterizes the appellation.
 
-The red wines typically display medium ruby color with good concentration, developing attractive garnet hues with age. Aromatic profiles emphasize red fruit characteristics—cherry, raspberry, and strawberry—supported by subtle spice notes including cinnamon, clove, and white pepper. The limestone influence appears in mineral undertones that become more prominent with bottle aging, contributing to the wines' complexity and distinctiveness.
+The red wines typically display medium ruby color with good concentration, developing attractive garnet hues with age. Aromatic profiles emphasize red fruit characteristics (cherry, raspberry, and strawberry) supported by subtle spice notes including cinnamon, clove, and white pepper. The limestone influence appears in mineral undertones that become more prominent with bottle aging, contributing to the wines' complexity and distinctiveness.
 
 On the palate, Bas des Duresses Pinot Noir shows excellent balance between fruit concentration and structural elements. The tannin structure reflects the clay-limestone soils, providing sufficient backbone for aging while remaining approachable in youth. Acidity levels typically range from moderate to moderately high, contributing to food compatibility and aging potential.
 
 The wines demonstrate particular elegance in their texture, showing neither the power of neighboring Volnay nor the earthiness of Pommard, instead occupying a middle ground that emphasizes finesse and terroir expression. This textural quality, combined with persistent mineral undertones, creates wines of considerable sophistication and aging potential.
 
-Chardonnay from Bas des Duresses, while less common, exhibits the characteristic richness associated with Côte de Beaune white wines while maintaining the freshness and minerality that distinguish Premier Cru sites. These wines typically show stone fruit characteristics—peach, apricot, and pear—complemented by citrus notes and mineral complexity derived from the limestone soils.
+Chardonnay from Bas des Duresses, while less common, exhibits the characteristic richness associated with Côte de Beaune white wines while maintaining the freshness and minerality that distinguish Premier Cru sites. These wines typically show stone fruit characteristics (peach, apricot, and pear) complemented by citrus notes and mineral complexity derived from the limestone soils.
 
 The white wines benefit from the eastern exposure and limestone influence, developing complexity through lees contact and careful oak aging while retaining the natural acidity that ensures balance and longevity. Textural richness comes from the clay component in the soils, creating wines with both immediate appeal and aging potential.
 
@@ -82,7 +82,7 @@ Within the Auxey-Duresses commune, Bas des Duresses stands alongside Les Duresse
 
 The relationship between these two Premier Crus mirrors patterns found throughout Burgundy, where lower slope sites produce more approachable wines while upper slope vineyards yield more structured, age-worthy expressions. Bas des Duresses wines generally reach drinking maturity somewhat earlier than Les Duresses, though both sites produce wines with excellent aging potential.
 
-Compared to village-level Auxey-Duresses wines, Bas des Duresses displays greater concentration, complexity, and aging potential. The Premier Cru classification reflects superior terroir characteristics—better drainage, optimal exposure, superior soil composition—that translate directly into wine quality differences apparent both in youth and with bottle age.
+Compared to village-level Auxey-Duresses wines, Bas des Duresses displays greater concentration, complexity, and aging potential. The Premier Cru classification reflects superior terroir characteristics (better drainage, optimal exposure, superior soil composition) that translate directly into wine quality differences apparent both in youth and with bottle age.
 
 When compared to Premier Cru sites in neighboring communes, Bas des Duresses shows distinctive characteristics. Compared to Volnay Premier Crus, the wines typically exhibit more earthiness and mineral complexity while showing slightly less elegance and perfume. Against Meursault Premier Crus, Auxey-Duresses whites show more restraint and minerality while perhaps lacking some of the opulent richness associated with the more famous appellation.
 

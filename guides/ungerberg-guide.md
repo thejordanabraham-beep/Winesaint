@@ -1,6 +1,6 @@
 # Ungerberg: Neusiedlersee's Elevated Expression
 
-The Ungerberg vineyard rises above the humid flatlands that define much of the Neusiedlersee basin, offering a fundamentally different expression of this Austrian sweet wine heartland. While the region below is celebrated for its nobly rotten Trockenbeerenauslesen and Ausbruch wines—products of persistent fog and humidity from the Neusiedlersee lake—Ungerberg's elevated position creates conditions that favor both dry wine production and more structured sweet wines with pronounced acidity.
+The Ungerberg vineyard rises above the humid flatlands that define much of the Neusiedlersee basin, offering a fundamentally different expression of this Austrian sweet wine heartland. While the region below is celebrated for its nobly rotten Trockenbeerenauslesen and Ausbruch wines, products of persistent fog and humidity from the Neusiedlersee lake. Ungerberg's elevated position creates conditions that favor both dry wine production and more structured sweet wines with pronounced acidity.
 
 This is not a subtle distinction. The Ungerberg sits at a critical threshold where lake influence diminishes and continental characteristics intensify.
 
@@ -8,25 +8,25 @@ This is not a subtle distinction. The Ungerberg sits at a critical threshold whe
 
 ### Elevation and Aspect
 
-Ungerberg translates directly to "under mountain" or "lower mountain," a name that reveals its intermediate position in the region's topography. The vineyard occupies slopes at approximately 140-180 meters elevation—modest by Alpine standards but significant in the context of the Pannonian plain that surrounds Neusiedlersee. The lake itself sits at just 115 meters above sea level, making Ungerberg's 25-65 meter elevation gain meteorologically meaningful.
+Ungerberg translates directly to "under mountain" or "lower mountain," a name that reveals its intermediate position in the region's topography. The vineyard occupies slopes at approximately 140-180 meters elevation, modest by Alpine standards but significant in the context of the Pannonian plain that surrounds Neusiedlersee. The lake itself sits at just 115 meters above sea level, making Ungerberg's 25-65 meter elevation gain meteorologically meaningful.
 
 The aspect varies across the site, though south and southeast-facing slopes dominate, maximizing solar exposure during the critical ripening period from August through October. This orientation proves essential in a region where autumn fog can persist well into morning hours, delaying photosynthesis and extending the growing season.
 
 ### Soil Composition and Geology
 
-The soils of Ungerberg reflect its position at the transition between the Pannonian basin's alluvial deposits and the older geological formations of the Leithagebirge range to the west. The predominant soil type is a sandy loam over gravel beds, with pockets of heavier clay content in lower-lying sections. This composition offers excellent drainage—a critical factor distinguishing Ungerberg from the heavier, more water-retentive soils common in the Neusiedlersee basin proper.
+The soils of Ungerberg reflect its position at the transition between the Pannonian basin's alluvial deposits and the older geological formations of the Leithagebirge range to the west. The predominant soil type is a sandy loam over gravel beds, with pockets of heavier clay content in lower-lying sections. This composition offers excellent drainage: a critical factor distinguishing Ungerberg from the heavier, more water-retentive soils common in the Neusiedlersee basin proper.
 
 Beneath the topsoil lies a substrate of Tertiary-period sediments, primarily from the Miocene epoch (23-5.3 million years ago) when this region formed part of the Paratethys Sea. These marine deposits contribute minerals and structure to the soil profile, though they lack the limestone content found in neighboring Leithaberg to the west, where the Leitha Mountains introduce calcareous elements into the terroir.
 
-The sandy component of Ungerberg's soils—typically 40-60% by volume in the topsoil layer—provides several viticultural advantages. Sand warms quickly in spring, promoting early budbreak, and it forces vines to root deeply in search of water and nutrients. This stress factor, while requiring careful vineyard management, typically results in smaller berries with higher skin-to-juice ratios and more concentrated flavors.
+The sandy component of Ungerberg's soils (typically 40-60% by volume in the topsoil layer) provides several viticultural advantages. Sand warms quickly in spring, promoting early budbreak, and it forces vines to root deeply in search of water and nutrients. This stress factor, while requiring careful vineyard management, typically results in smaller berries with higher skin-to-juice ratios and more concentrated flavors.
 
 ### Microclimate Dynamics
 
 Ungerberg occupies a unique microclimate zone within Neusiedlersee. The vineyard sits high enough to escape the most persistent morning fog that blankets the lakeshore, yet remains close enough to benefit from the lake's moderating thermal influence. During the growing season, this positioning delivers approximately 1-2°C warmer daytime temperatures than lakeside vineyards, while nighttime temperatures remain only marginally cooler.
 
-This diurnal temperature variation—typically 12-15°C during September and October—preserves acidity in ripening grapes while allowing phenolic development to continue. The effect is particularly pronounced in white varieties like Riesling and Grüner Veltliner, which maintain their characteristic high acidity (6.5-8.5 g/L total acidity) even as sugar levels climb to 13-14% potential alcohol.
+This diurnal temperature variation (typically 12-15°C during September and October) preserves acidity in ripening grapes while allowing phenolic development to continue. The effect is particularly pronounced in white varieties like Riesling and Grüner Veltliner, which maintain their characteristic high acidity (6.5-8.5 g/L total acidity) even as sugar levels climb to 13-14% potential alcohol.
 
-Annual precipitation averages 550-600mm, placing Ungerberg in the lower range for Austrian viticulture but adequate given the region's relatively cool temperatures. The Neusiedlersee basin sits in a rain shadow created by the Alps to the west, and Ungerberg's slight elevation does little to increase moisture levels. Irrigation is rarely practiced here—Austrian wine law prohibits it for quality wine production—making the vineyard's natural water retention capacity crucial during dry years.
+Annual precipitation averages 550-600mm, placing Ungerberg in the lower range for Austrian viticulture but adequate given the region's relatively cool temperatures. The Neusiedlersee basin sits in a rain shadow created by the Alps to the west, and Ungerberg's slight elevation does little to increase moisture levels. Irrigation is rarely practiced here (Austrian wine law prohibits it for quality wine production) making the vineyard's natural water retention capacity crucial during dry years.
 
 ## Wine Character
 
@@ -34,9 +34,9 @@ Annual precipitation averages 550-600mm, placing Ungerberg in the lower range fo
 
 Ungerberg produces white wines with a distinctive tension between ripeness and acidity, a balance that separates them from both the fuller-bodied expressions of Austria's warmer regions and the laser-focused precision of cooler sites like the Wachau.
 
-**Riesling** from Ungerberg demonstrates the variety's classic stone fruit spectrum—white peach, apricot, nectarine—but with a tropical edge (passion fruit, pineapple) that emerges in warmer vintages. The wines typically reach 12.5-13.5% alcohol when vinified dry, with total acidity levels of 7-8.5 g/L. This combination creates wines with medium to full body and a rich, almost viscous texture that belies their technical dryness. The high acidity ensures aging potential of 10-20 years, during which the wines develop characteristic petrol notes, honeyed complexity, and nutty oxidative characters.
+**Riesling** from Ungerberg demonstrates the variety's classic stone fruit spectrum (white peach, apricot, nectarine) but with a tropical edge (passion fruit, pineapple) that emerges in warmer vintages. The wines typically reach 12.5-13.5% alcohol when vinified dry, with total acidity levels of 7-8.5 g/L. This combination creates wines with medium to full body and a rich, almost viscous texture that belies their technical dryness. The high acidity ensures aging potential of 10-20 years, during which the wines develop characteristic petrol notes, honeyed complexity, and nutty oxidative characters.
 
-**Grüner Veltliner** from this site tends toward the fuller-bodied end of the variety's spectrum. The sandy soils and warmer mesoclimate produce wines with ripe yellow apple and pear flavors, often with white pepper spice and a subtle herbal quality (fresh celery, garden herbs). Acidity remains high—6.5-7.5 g/L—but the wines show more weight and texture than examples from cooler regions. Alcohol levels typically range from 12.5-13.5%, and the wines can age gracefully for 5-10 years, developing toasted almond and dried fruit notes.
+**Grüner Veltliner** from this site tends toward the fuller-bodied end of the variety's spectrum. The sandy soils and warmer mesoclimate produce wines with ripe yellow apple and pear flavors, often with white pepper spice and a subtle herbal quality (fresh celery, garden herbs). Acidity remains high, 6.5-7.5 g/L, but the wines show more weight and texture than examples from cooler regions. Alcohol levels typically range from 12.5-13.5%, and the wines can age gracefully for 5-10 years, developing toasted almond and dried fruit notes.
 
 The key distinction in Ungerberg's white wines is their structural completeness. These are not delicate, aperitif-style wines but rather full-bodied expressions that maintain varietal character and freshness despite their ripeness. The sandy soils contribute to this profile, imparting a fine-grained tannin structure that adds grip and texture without heaviness.
 
@@ -44,7 +44,7 @@ The key distinction in Ungerberg's white wines is their structural completeness.
 
 While Ungerberg's elevation reduces the botrytis pressure that makes lower-lying Neusiedlersee sites ideal for TBA production, the vineyard still produces sweet wines in favorable years. The key difference lies in timing and style.
 
-Botrytis cinerea develops later and less uniformly on Ungerberg's slopes than in the fog-shrouded vineyards closer to the lake. This delayed noble rot infection means grapes typically accumulate higher sugar levels before botrytis concentrates them further, resulting in must weights that can reach 30-35° KMW (approximately 150-175° Oechsle) for Trockenbeerenauslese. The wines show less of the mushroom and honey character associated with heavily botrytized fruit, instead emphasizing dried fruit intensity (apricot, fig, candied citrus) with pronounced acidity—often 9-11 g/L in finished wines.
+Botrytis cinerea develops later and less uniformly on Ungerberg's slopes than in the fog-shrouded vineyards closer to the lake. This delayed noble rot infection means grapes typically accumulate higher sugar levels before botrytis concentrates them further, resulting in must weights that can reach 30-35° KMW (approximately 150-175° Oechsle) for Trockenbeerenauslese. The wines show less of the mushroom and honey character associated with heavily botrytized fruit, instead emphasizing dried fruit intensity (apricot, fig, candied citrus) with pronounced acidity, often 9-11 g/L in finished wines.
 
 This acidity level distinguishes Ungerberg's sweet wines from many Neusiedlersee examples, which can show 7-9 g/L. The additional acid provides better balance against residual sugar (typically 150-200 g/L for TBA) and extends aging potential to 30+ years.
 
@@ -54,7 +54,7 @@ This acidity level distinguishes Ungerberg's sweet wines from many Neusiedlersee
 
 The most instructive comparison places Ungerberg against the famous lakeside vineyards around Illmitz and Apetlon, where producers like Alois Kracher built international reputations for TBA and Ausbruch wines. These lower-elevation sites (115-125 meters) experience persistent autumn fog that promotes consistent botrytis development, making them ideal for sweet wine production but challenging for dry wine styles.
 
-Ungerberg's elevation advantage—typically 20-60 meters higher—means 30-45 fewer fog days during the critical September-November period. This reduces botrytis pressure and allows for reliable dry wine production, particularly in cooler vintages when lakeside vineyards struggle to achieve full ripeness without noble rot. The trade-off is less predictable sweet wine production; Ungerberg requires specific vintage conditions (warm, humid September followed by dry October) to develop concentrated botrytis, while lakeside sites produce sweet wines in most years.
+Ungerberg's elevation advantage (typically 20-60 meters higher) means 30-45 fewer fog days during the critical September-November period. This reduces botrytis pressure and allows for reliable dry wine production, particularly in cooler vintages when lakeside vineyards struggle to achieve full ripeness without noble rot. The trade-off is less predictable sweet wine production; Ungerberg requires specific vintage conditions (warm, humid September followed by dry October) to develop concentrated botrytis, while lakeside sites produce sweet wines in most years.
 
 The soil difference reinforces this distinction. Lakeside vineyards typically feature heavier soils with clay content of 30-50%, which retain moisture and promote botrytis development. Ungerberg's sandy loams (40-60% sand) drain quickly and warm rapidly, favoring phenolic ripeness and varietal expression over noble rot concentration.
 
@@ -70,7 +70,7 @@ In terms of red wine potential, Ungerberg's warmer temperatures and sandy soils 
 
 ### Variety Selection
 
-Ungerberg's terroir influences variety selection in predictable ways. Riesling occupies the steepest, best-drained slopes where the sandy soils force deep rooting and the elevation preserves acidity. Grüner Veltliner—which requires less water than Riesling to thrive—performs well on slightly lower slopes where clay content increases and water retention improves.
+Ungerberg's terroir influences variety selection in predictable ways. Riesling occupies the steepest, best-drained slopes where the sandy soils force deep rooting and the elevation preserves acidity. Grüner Veltliner (which requires less water than Riesling to thrive) performs well on slightly lower slopes where clay content increases and water retention improves.
 
 For red varieties, Zweigelt dominates plantings. This Austrian crossing (Blaufränkisch × St. Laurent) ripens reliably in Ungerberg's warm mesoclimate and produces wines with medium to full body, soft tannins, and red fruit character (cherry, raspberry, red plum). The sandy soils contribute to Zweigelt's characteristic approachability, yielding wines with fine-grained tannins and immediate appeal rather than the structured, age-worthy profiles achieved on heavier soils.
 
@@ -78,9 +78,9 @@ Blaufränkisch appears in smaller quantities, typically on cooler north-facing s
 
 ### Training Systems and Density
 
-Traditional training in Ungerberg follows the Lenz Moser system—a high, wide-canopy approach developed in Austria during the mid-20th century to facilitate mechanization. However, quality-focused producers have increasingly adopted denser plantings (4,000-6,000 vines/hectare versus 2,500-3,000 for Lenz Moser) with vertical shoot positioning (VSP) or Guyot training.
+Traditional training in Ungerberg follows the Lenz Moser system: a high, wide-canopy approach developed in Austria during the mid-20th century to facilitate mechanization. However, quality-focused producers have increasingly adopted denser plantings (4,000-6,000 vines/hectare versus 2,500-3,000 for Lenz Moser) with vertical shoot positioning (VSP) or Guyot training.
 
-The shift toward higher density reflects both quality considerations and practical realities. Dense plantings increase competition among vines, reducing vigor and promoting smaller berries with better concentration. On Ungerberg's sandy soils, which can encourage excessive vigor if water is available, this competition proves particularly beneficial. The VSP canopy management that accompanies dense planting also improves air circulation—crucial for managing disease pressure in years when humidity remains high despite the elevation advantage.
+The shift toward higher density reflects both quality considerations and practical realities. Dense plantings increase competition among vines, reducing vigor and promoting smaller berries with better concentration. On Ungerberg's sandy soils, which can encourage excessive vigor if water is available, this competition proves particularly beneficial. The VSP canopy management that accompanies dense planting also improves air circulation, crucial for managing disease pressure in years when humidity remains high despite the elevation advantage.
 
 ### Harvest Timing and Yield Management
 
@@ -94,7 +94,7 @@ Yield management proves critical to wine quality. Austrian wine law sets maximum
 
 ### White Wine Vinification
 
-The predominant winemaking philosophy for Ungerberg whites emphasizes preservation of primary fruit character and varietal expression. Most producers employ a brief period of skin contact—typically 4-12 hours at cool temperatures (8-12°C)—to extract aromatic precursors and texture-building compounds without extracting harsh phenolics.
+The predominant winemaking philosophy for Ungerberg whites emphasizes preservation of primary fruit character and varietal expression. Most producers employ a brief period of skin contact (typically 4-12 hours at cool temperatures (8-12°C)) to extract aromatic precursors and texture-building compounds without extracting harsh phenolics.
 
 Fermentation occurs in neutral vessels (stainless steel or large-format neutral oak) with temperature control to prevent loss of volatile aromatics. Target fermentation temperatures range from 15-18°C, which preserves the delicate fruit esters while allowing sufficient extraction of varietal character. Wild yeast fermentation has gained popularity among quality-focused producers, who argue it contributes complexity and better integrates the wine's components, though cultured yeast strains selected for aromatic expression remain common.
 
@@ -104,13 +104,13 @@ Lees contact varies by producer philosophy. Some rack wines off gross lees quick
 
 ### Sweet Wine Production
 
-Sweet wine vinification in Ungerberg follows Neusiedlersee traditions but with modifications reflecting the site's characteristics. Because botrytis develops less uniformly than in lower-lying sites, producers must sort carefully to separate nobly rotten berries from merely raisined fruit. This selection process—often requiring multiple passes through the vineyard—increases labor costs but ensures the complex, botrytis-driven character that distinguishes true TBA from simple late-harvest wine.
+Sweet wine vinification in Ungerberg follows Neusiedlersee traditions but with modifications reflecting the site's characteristics. Because botrytis develops less uniformly than in lower-lying sites, producers must sort carefully to separate nobly rotten berries from merely raisined fruit. This selection process (often requiring multiple passes through the vineyard) increases labor costs but ensures the complex, botrytis-driven character that distinguishes true TBA from simple late-harvest wine.
 
 Pressing proceeds slowly, as botrytis-affected grapes yield juice reluctantly. A pneumatic pressing cycle for TBA grapes might extend 6-8 hours, compared to 2-3 hours for healthy fruit. The resulting must shows extreme sugar concentration (30-35° KMW or higher) and high acidity, creating challenging fermentation conditions.
 
-Fermentation proceeds slowly—often 6-12 months—in small oak barrels (225-500L) or stainless steel tanks. The high sugar concentration and low pH stress yeast populations, leading to frequent stuck fermentations. Many producers inoculate multiple times with specialized yeast strains adapted to high-osmotic-pressure environments, while others allow wild yeasts to work at their own pace, accepting the risk of incomplete fermentation.
+Fermentation proceeds slowly (often 6-12 months) in small oak barrels (225-500L) or stainless steel tanks. The high sugar concentration and low pH stress yeast populations, leading to frequent stuck fermentations. Many producers inoculate multiple times with specialized yeast strains adapted to high-osmotic-pressure environments, while others allow wild yeasts to work at their own pace, accepting the risk of incomplete fermentation.
 
-The resulting wines typically show 5-9% alcohol with 150-200 g/L residual sugar and 9-11 g/L total acidity. This acid level—higher than many German TBAs (7-9 g/L) or Sauternes (4-6 g/L)—provides the structural backbone for decades of aging.
+The resulting wines typically show 5-9% alcohol with 150-200 g/L residual sugar and 9-11 g/L total acidity. This acid level (higher than many German TBAs (7-9 g/L) or Sauternes (4-6 g/L)) provides the structural backbone for decades of aging.
 
 ## Key Producers
 
@@ -128,7 +128,7 @@ Their Grüner Veltliner from Ungerberg appears in the "Leithaberg" designation, 
 
 ### Weingut Gesellmann
 
-Albert Gesellmann focuses primarily on red wine production, with Zweigelt and Blaufränkisch from Ungerberg forming the backbone of his range. The Gesellmann approach employs new oak more liberally than many Austrian producers—20-40% new barriques for top wines—creating a more international style while maintaining varietal character.
+Albert Gesellmann focuses primarily on red wine production, with Zweigelt and Blaufränkisch from Ungerberg forming the backbone of his range. The Gesellmann approach employs new oak more liberally than many Austrian producers (20-40% new barriques for top wines) creating a more international style while maintaining varietal character.
 
 The "Bela Rex" Zweigelt, while blending fruit from multiple sites, draws significantly from Ungerberg parcels. The wine demonstrates how the sandy soils contribute to Zweigelt's appeal: soft, fine-grained tannins, immediate red fruit accessibility, and medium body (typically 13-13.5% alcohol) that balances richness with freshness.
 
@@ -140,7 +140,7 @@ Ungerberg falls under the **Neusiedlersee DAC** designation, established in 2011
 
 **Reserve**: More complex wines requiring minimum 13% alcohol and 12 months aging before release. Reserve whites must be Chardonnay or Weissburgunder (Pinot Blanc); Reserve reds must be minimum 60% Zweigelt, blendable with Blaufränkisch, Pinot Noir, or St. Laurent. Oak aging is typical for Reserve wines, which target mid- to premium price points.
 
-Importantly, the Neusiedlersee DAC regulations do not cover Riesling or Grüner Veltliner—the varieties for which Ungerberg shows particular aptitude. Producers vinifying these varieties must label wines as "Burgenland" (the regional designation) or use the generic "Österreichischer Qualitätswein" category. This regulatory gap reflects the DAC system's focus on regional tradition (Zweigelt dominance) over terroir potential, a tension that affects marketing and consumer perception.
+Importantly, the Neusiedlersee DAC regulations do not cover Riesling or Grüner Veltliner: the varieties for which Ungerberg shows particular aptitude. Producers vinifying these varieties must label wines as "Burgenland" (the regional designation) or use the generic "Österreichischer Qualitätswein" category. This regulatory gap reflects the DAC system's focus on regional tradition (Zweigelt dominance) over terroir potential, a tension that affects marketing and consumer perception.
 
 Sweet wines fall outside the DAC system entirely, labeled instead under the traditional Prädikat system (Spätlese, Auslese, Beerenauslese, Ausbruch, Trockenbeerenauslese) that defines minimum must weights and production methods.
 

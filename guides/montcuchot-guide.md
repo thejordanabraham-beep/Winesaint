@@ -6,7 +6,7 @@ Montcuchot stands as one of the most respected Premier Cru vineyards within the 
 
 The vineyard's strategic positioning within the Côte Chalonnaise places it in a transitional zone between the more prestigious Côte d'Or to the north and the Mâconnais to the south. This geographical context is crucial to understanding Montcuchot's character, as it benefits from the refined winemaking traditions of northern Burgundy while expressing the slightly warmer, more generous style characteristic of the southern appellations.
 
-Montcuchot lies on the eastern-facing slopes of the Côte Chalonnaise, positioned to capture the morning sun while benefiting from protection against the harsh western winds that can sweep across this region. The vineyard's location within the broader Montagny appellation—which encompasses vineyards across the communes of Montagny-lès-Buxy, Buxy, Saint-Vallerin, and Jully-lès-Buxy—places it among the most favored sites for Chardonnay cultivation in this part of Burgundy.
+Montcuchot lies on the eastern-facing slopes of the Côte Chalonnaise, positioned to capture the morning sun while benefiting from protection against the harsh western winds that can sweep across this region. The vineyard's location within the broader Montagny appellation, which encompasses vineyards across the communes of Montagny-lès-Buxy, Buxy, Saint-Vallerin, and Jully-lès-Buxy, places it among the most favored sites for Chardonnay cultivation in this part of Burgundy.
 
 ## Size
 

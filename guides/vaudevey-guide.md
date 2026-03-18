@@ -26,13 +26,13 @@ The interaction between vine roots and Kimmeridgian marl creates the signature C
 
 Vaudevey produces wines that exemplify the classic Chablis Premier Cru profile: pristine, mineral-driven expressions of Chardonnay marked by pronounced acidity, lean structure, and remarkable purity. These wines showcase the transparent quality that allows terroir to speak clearly through the glass.
 
-The flavor profile typically opens with citrus notes—lemon zest, lime, and green apple dominate the aromatic spectrum. These primary fruit characteristics are complemented by distinctive mineral notes often described as flint, wet stone, chalk, or crushed seashells. White flowers, particularly acacia, frequently appear alongside subtle green herb nuances. In youth, Vaudevey wines display a taut, steely character with bright, sometimes razor-sharp acidity that can make them seem austere.
+The flavor profile typically opens with citrus notes, lemon zest, lime, and green apple dominate the aromatic spectrum. These primary fruit characteristics are complemented by distinctive mineral notes often described as flint, wet stone, chalk, or crushed seashells. White flowers, particularly acacia, frequently appear alongside subtle green herb nuances. In youth, Vaudevey wines display a taut, steely character with bright, sometimes razor-sharp acidity that can make them seem austere.
 
 The minerality in Vaudevey, as with Chablis generally, manifests as both aroma and texture. There's often a saline quality, a sense of stoniness that coats the palate and extends the finish. This mineral backbone provides structure and drives the wine's aging potential, gradually integrating with fruit and developing complexity over time.
 
 Compared to the more powerful Premier Crus like Montée de Tonnerre or the broader, more accessible style of Fourchaume, Vaudevey tends toward elegance and restraint. It typically shows less immediate richness than some of the more celebrated sites but compensates with precision and finesse. The body remains medium-light to medium, never heavy, with alcohol levels generally between 12.5-13.5%, maintaining the refreshing character essential to Chablis identity.
 
-The structure of Vaudevey wines is built on acidity rather than weight. This high natural acidity—often in the range of 6-7 g/L—provides both aging potential and food compatibility. The texture can be quite linear in youth, developing greater complexity and a slightly oily, glyceral quality with bottle age.
+The structure of Vaudevey wines is built on acidity rather than weight. This high natural acidity (often in the range of 6-7 g/L) provides both aging potential and food compatibility. The texture can be quite linear in youth, developing greater complexity and a slightly oily, glyceral quality with bottle age.
 
 Winemaking choices significantly influence the final character. Producers using stainless steel or neutral vessels preserve the pure, mineral-driven style, while those employing some oak aging (typically older barrels rather than new) add subtle textural complexity and spice notes without overwhelming the terroir expression.
 
@@ -70,13 +70,13 @@ Vaudevey's aging potential reflects its Premier Cru status and structural compon
 
 In youth (1-3 years), Vaudevey displays primary fruit characteristics and pronounced minerality but may seem tight or austere. This period suits those who appreciate lean, mineral-focused styles or when pairing with delicate seafood.
 
-The middle aging period (4-8 years) brings integration and complexity. The acidity softens slightly, mineral notes become more nuanced, and secondary characteristics emerge—honey, beeswax, hazelnut, and dried flowers. The texture gains depth and the finish extends. This period represents optimal drinking for many enthusiasts.
+The middle aging period (4-8 years) brings integration and complexity. The acidity softens slightly, mineral notes become more nuanced, and secondary characteristics emerge, honey, beeswax, hazelnut, and dried flowers. The texture gains depth and the finish extends. This period represents optimal drinking for many enthusiasts.
 
-Extended aging (10+ years) transforms Chablis Premier Cru into something different—golden in color, with developed tertiary aromas of petrol, mushroom, truffle, and oxidative notes balanced against the enduring mineral core. The acidity, while mellowed, still provides structure. These aged expressions pair beautifully with richer preparations and demonstrate why Chablis merits serious cellaring.
+Extended aging (10+ years) transforms Chablis Premier Cru into something different, golden in color, with developed tertiary aromas of petrol, mushroom, truffle, and oxidative notes balanced against the enduring mineral core. The acidity, while mellowed, still provides structure. These aged expressions pair beautifully with richer preparations and demonstrate why Chablis merits serious cellaring.
 
 Storage conditions matter significantly. Consistent cool temperatures (50-55°F/10-13°C), darkness, humidity around 70%, and minimal vibration preserve wine quality. Premium Chablis responds poorly to temperature fluctuations or warm storage.
 
-Serving temperature critically affects perception. Vaudevey should be served at 48-52°F (9-11°C)—cool but not cold. Over-chilling mutes aromatics and accentuates acidity, while serving too warm can make the wine seem flabby. Removing the bottle from refrigeration 10-15 minutes before serving typically achieves appropriate temperature.
+Serving temperature critically affects perception. Vaudevey should be served at 48-52°F (9-11°C), cool but not cold. Over-chilling mutes aromatics and accentuates acidity, while serving too warm can make the wine seem flabby. Removing the bottle from refrigeration 10-15 minutes before serving typically achieves appropriate temperature.
 
 Glassware should be quality white wine glasses with adequate bowl size to concentrate aromatics while maintaining freshness. Traditional Burgundy glasses work well, though some prefer tulip-shaped glasses that focus the delicate aromatics.
 
@@ -108,4 +108,4 @@ Vaudevey represents the depth and diversity of Chablis's Premier Cru designation
 
 For wine enthusiasts, exploring lesser-known climats like Vaudevey offers opportunities to discover excellent wines often at more accessible prices than the most famous names. These bottles demonstrate that quality in Chablis extends well beyond the handful of climats that dominate international attention.
 
-The future of Chablis, including sites like Vaudevey, faces challenges from climate change, economic pressures, and evolving markets. Yet the fundamental quality of the terroir and the dedication of producers suggest that these wines will continue to represent one of the world's most transparent, terroir-expressive white wines—a pure reflection of limestone, Chardonnay, and centuries of viticultural wisdom.
+The future of Chablis, including sites like Vaudevey, faces challenges from climate change, economic pressures, and evolving markets. Yet the fundamental quality of the terroir and the dedication of producers suggest that these wines will continue to represent one of the world's most transparent, terroir-expressive white wines: a pure reflection of limestone, Chardonnay, and centuries of viticultural wisdom.

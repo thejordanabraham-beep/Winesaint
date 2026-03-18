@@ -2,11 +2,11 @@
 
 ## Overview & Location
 
-Le Clos de Jeu stands as one of Marsannay's most distinguished Premier Cru vineyards, representing the northern gateway to the prestigious Côte de Nuits in Burgundy. Located within the commune of Marsannay-la-Côte, this climat occupies a strategic position that bridges the transition between the broader appellations to the north and the legendary wine villages that define the heart of the Côte de Nuits—Gevrey-Chambertin, Morey-Saint-Denis, Chambolle-Musigny, and their illustrious Grand Cru sites.
+Le Clos de Jeu stands as one of Marsannay's most distinguished Premier Cru vineyards, representing the northern gateway to the prestigious Côte de Nuits in Burgundy. Located within the commune of Marsannay-la-Côte, this climat occupies a strategic position that bridges the transition between the broader appellations to the north and the legendary wine villages that define the heart of the Côte de Nuits. Gevrey-Chambertin, Morey-Saint-Denis, Chambolle-Musigny, and their illustrious Grand Cru sites.
 
 The vineyard's positioning within Marsannay is particularly significant, as it sits in the southern portion of the commune, where the geological and climatic conditions begin to mirror those found in the more celebrated villages further south. This placement allows Le Clos de Jeu to capture many of the terroir characteristics that have made Côte de Nuits wines legendary, while maintaining its own distinct personality shaped by Marsannay's unique microclimate and soil composition.
 
-Geographically, Le Clos de Jeu benefits from the same fundamental slope structure that defines the entire Côte de Nuits—the escarpment that rises from the valley floor toward the forested plateau above. This consistent geological framework provides the drainage, exposure, and soil depth that are essential for producing wines of Premier Cru quality. The climat's position also places it within the optimal elevation band for viticulture in this region, neither too low where frost risk increases and soils become too rich, nor too high where exposure becomes excessive and soils too thin.
+Geographically, Le Clos de Jeu benefits from the same fundamental slope structure that defines the entire Côte de Nuits: the escarpment that rises from the valley floor toward the forested plateau above. This consistent geological framework provides the drainage, exposure, and soil depth that are essential for producing wines of Premier Cru quality. The climat's position also places it within the optimal elevation band for viticulture in this region, neither too low where frost risk increases and soils become too rich, nor too high where exposure becomes excessive and soils too thin.
 
 ## Size and Vineyard Structure
 
@@ -40,7 +40,7 @@ The mesoclimate created by Le Clos de Jeu's specific topography tends to advance
 
 ## Viticulture
 
-Le Clos de Jeu is planted exclusively to Pinot Noir, reflecting both the site's suitability for this variety and the market demand for red Burgundy from Premier Cru sites. The vineyard's terroir characteristics—well-draining limestone soils, favorable exposure, and optimal elevation—create ideal conditions for producing Pinot Noir of complexity and aging potential.
+Le Clos de Jeu is planted exclusively to Pinot Noir, reflecting both the site's suitability for this variety and the market demand for red Burgundy from Premier Cru sites. The vineyard's terroir characteristics (well-draining limestone soils, favorable exposure, and optimal elevation) create ideal conditions for producing Pinot Noir of complexity and aging potential.
 
 Vine age within the climat varies by parcel and producer, but significant portions of the vineyard contain vines between 35-50 years old, with some parcels featuring even older vines. This mature vine age contributes significantly to wine quality, as older vines typically produce smaller crops of more concentrated fruit with deeper root systems that access a broader range of soil nutrients and moisture.
 
@@ -54,7 +54,7 @@ Harvest timing in Le Clos de Jeu typically occurs 1-2 weeks earlier than in the 
 
 ## Wine Character & Style
 
-Wines from Le Clos de Jeu exhibit the elegance and complexity expected from a Premier Cru site while maintaining characteristics that distinguish them within the Marsannay appellation. The aromatic profile typically features intense red fruit characteristics—cherry, raspberry, and red currant—supported by subtle spice notes including cinnamon, clove, and white pepper. Floral elements, particularly rose petals and violets, often emerge with bottle age.
+Wines from Le Clos de Jeu exhibit the elegance and complexity expected from a Premier Cru site while maintaining characteristics that distinguish them within the Marsannay appellation. The aromatic profile typically features intense red fruit characteristics (cherry, raspberry, and red currant) supported by subtle spice notes including cinnamon, clove, and white pepper. Floral elements, particularly rose petals and violets, often emerge with bottle age.
 
 The mineral backbone provided by the limestone-rich soils manifests as a distinctive chalky or wet stone character that becomes more pronounced with cellaring. This minerality provides structure and longevity while adding complexity to the wine's aromatic and flavor profile.
 
@@ -90,7 +90,7 @@ The parcel structure within the climat creates opportunities for direct comparis
 
 The history of Le Clos de Jeu as a recognized vineyard site dates back several centuries, with the climat name appearing in historical documents from the 17th and 18th centuries. The "clos" designation indicates historical enclosure, suggesting that the site was recognized for its distinct qualities early in Burgundy's viticultural development.
 
-The vineyard's elevation to Premier Cru status occurred as part of the broader classification of Marsannay Premier Cru sites, recognizing the commune's potential for producing wines of exceptional quality. This classification acknowledged what local vignerons had understood for generations—that specific sites within Marsannay possessed terroir characteristics capable of producing wines rivaling those from more celebrated communes.
+The vineyard's elevation to Premier Cru status occurred as part of the broader classification of Marsannay Premier Cru sites, recognizing the commune's potential for producing wines of exceptional quality. This classification acknowledged what local vignerons had understood for generations, that specific sites within Marsannay possessed terroir characteristics capable of producing wines rivaling those from more celebrated communes.
 
 The historical reputation of Le Clos de Jeu was built on its consistent ability to ripen fruit reliably while maintaining the balance and complexity expected from premium Burgundian sites. This reliability, combined with the site's distinct terroir expression, earned recognition from négociants and eventually led to formal Premier Cru classification.
 

@@ -2,7 +2,7 @@
 
 ## The Paradox of Place
 
-Villers-Marmery occupies one of the strangest positions in Champagne's hierarchy. It's a premier cru village in the heart of the Montagne de Reims—Champagne's preeminent Pinot Noir territory—yet 98% of its vineyards are planted to Chardonnay. This is not a recent development or marketing gimmick. The eastern flank of the Montagne has been Chardonnay country for centuries, and Villers-Marmery represents its most extreme expression.
+Villers-Marmery occupies one of the strangest positions in Champagne's hierarchy. It's a premier cru village in the heart of the Montagne de Reims (Champagne's preeminent Pinot Noir territory) yet 98% of its vineyards are planted to Chardonnay. This is not a recent development or marketing gimmick. The eastern flank of the Montagne has been Chardonnay country for centuries, and Villers-Marmery represents its most extreme expression.
 
 The reason is simple geography. As the slope curves north from the grand cru villages of Ambonnay and Bouzy (which face south-southeast), it rotates to face due east. Pinot Noir needs maximum sunshine to ripen its late-maturing fruit. Chardonnay prefers the gentler morning sun. Where the aspect changes, so does the encépagement. This is terroir determinism at its most literal.
 
@@ -14,7 +14,7 @@ The Champenois have a word for this phenomenon: *ça pinotte*. It means "it acts
 
 Where Trépail produces wines with "salty chalkiness" and lean mineral tension, Villers-Marmery offers something altogether different: a tactile quality reminiscent of beeswax or preserved lemon. There's a waxy richness, a broader palate presence, notes of lemon curd and subtle earthiness. The wines are ripe and substantial, requiring several years to integrate their power.
 
-This character makes Villers-Marmery invaluable for blending. Deutz uses it as "one of the little secrets we have," adding judicious touches to both their vintage Blanc de Blancs and their prestige cuvée Amour de Deutz. The village provides body and complexity without sacrificing elegance—a rare combination.
+This character makes Villers-Marmery invaluable for blending. Deutz uses it as "one of the little secrets we have," adding judicious touches to both their vintage Blanc de Blancs and their prestige cuvée Amour de Deutz. The village provides body and complexity without sacrificing elegance: a rare combination.
 
 ## The Forest Divide: Villers-Marmery vs. Trépail
 
@@ -22,7 +22,7 @@ Villers-Marmery and Trépail are invariably discussed together. Both are premier
 
 A thick band of forest physically separates the two villages, and this delineation appears to mark a genuine terroir boundary. The differences are consistent enough that experienced tasters can distinguish them blind. Trépail's wines show higher acid, more pronounced chalk influence, and that characteristic saline edge. Villers-Marmery's wines are rounder, richer, more textured.
 
-The soil composition likely plays a role, though precise comparative analysis remains limited. Both villages sit on chalk—the Campanian chalk that underlies most of the Montagne de Reims—but topsoil depth and composition vary significantly within each commune. In Villers-Marmery, some parcels have almost no topsoil, exposing pure chalk, while others have deeper clay-limestone mixtures that promote richer, more substantial fruit.
+The soil composition likely plays a role, though precise comparative analysis remains limited. Both villages sit on chalk (the Campanian chalk that underlies most of the Montagne de Reims) but topsoil depth and composition vary significantly within each commune. In Villers-Marmery, some parcels have almost no topsoil, exposing pure chalk, while others have deeper clay-limestone mixtures that promote richer, more substantial fruit.
 
 ## The Cordon de Royat: Bent But Not Broken
 
@@ -34,11 +34,11 @@ The system also facilitates the hand labor that still characterizes much of Cham
 
 ## Microclimate and the Thermal Blanket
 
-The Montagne de Reims benefits from what locals call a "thermal blanket"—a microclimate created by the mountain's freestanding formation rising from the surrounding plain. Warm air circulates around the slopes, providing frost protection and extending the growing season. This protection is most pronounced on the Northern Montagne but extends around to the eastern villages.
+The Montagne de Reims benefits from what locals call a "thermal blanket", a microclimate created by the mountain's freestanding formation rising from the surrounding plain. Warm air circulates around the slopes, providing frost protection and extending the growing season. This protection is most pronounced on the Northern Montagne but extends around to the eastern villages.
 
 Villers-Marmery sits at the transition between the Northern and Eastern Montagne microzones, at elevations ranging from approximately 150 to 220 meters. The village itself clusters at around 180 meters, with vineyards spreading both upslope and down. The higher parcels tend to produce more mineral, tension-driven wines, while lower sites yield riper, more generous fruit.
 
-Frost remains a concern, particularly in the valley bottoms where cold air pools. The free-draining slopes suffer less damage than the plateau or depression areas. This drainage also regulates water supply during the growing season—a critical factor in wine quality. As Dr. Gérard Seguin demonstrated in Bordeaux, the best vineyard soils provide "well-regulated, moderately sufficient water supply" rather than either excess or deficit.
+Frost remains a concern, particularly in the valley bottoms where cold air pools. The free-draining slopes suffer less damage than the plateau or depression areas. This drainage also regulates water supply during the growing season: a critical factor in wine quality. As Dr. Gérard Seguin demonstrated in Bordeaux, the best vineyard soils provide "well-regulated, moderately sufficient water supply" rather than either excess or deficit.
 
 ## Key Parcels and Lieux-Dits
 
@@ -46,11 +46,11 @@ Unlike Burgundy, where individual climats are mapped, marketed, and obsessively 
 
 In Villers-Marmery, several lieux-dits stand out:
 
-**Champs d'Enfer** ("Fields of Hell"—a common French vineyard name, usually indicating difficult terrain): Located on the south side of the village, this parcel features stony, chalky soil with minimal topsoil. The chalk influence produces wines with pronounced minerality and aging potential.
+**Champs d'Enfer** ("Fields of Hell", a common French vineyard name, usually indicating difficult terrain): Located on the south side of the village, this parcel features stony, chalky soil with minimal topsoil. The chalk influence produces wines with pronounced minerality and aging potential.
 
-**Brocot**: Deeper soils here yield richer, more substantial wines with greater textural density. This is likely where the "ça pinotte" character reaches its apex—full-bodied Chardonnay with almost red-wine-like presence.
+**Brocot**: Deeper soils here yield richer, more substantial wines with greater textural density. This is likely where the "ça pinotte" character reaches its apex, full-bodied Chardonnay with almost red-wine-like presence.
 
-**Les Alouettes Saint-Betzs**: A warm vineyard with abundant chalk and little topsoil, producing ripe, complex fruit. The name "Les Alouettes" (the larks) suggests an exposed, high-altitude site—precisely the kind of location that benefits from the Montagne's thermal protection.
+**Les Alouettes Saint-Betzs**: A warm vineyard with abundant chalk and little topsoil, producing ripe, complex fruit. The name "Les Alouettes" (the larks) suggests an exposed, high-altitude site, precisely the kind of location that benefits from the Montagne's thermal protection.
 
 These parcels form the backbone of the village's finest wines, particularly the vintage-dated Spécial Club bottlings that represent each producer's best expression of terroir.
 
@@ -58,15 +58,15 @@ These parcels form the backbone of the village's finest wines, particularly the 
 
 If you want to understand Villers-Marmery's terroir, taste Arnaud Margaine's wines. Apart from a tiny parcel of Pinot Noir in neighboring Verzy, all of Margaine's holdings lie within Villers-Marmery. This makes him the village's most important estate producer and its most articulate terroir spokesman.
 
-Margaine's approach emphasizes site expression over stylistic intervention. He works his best parcels—Champs d'Enfer, Brocot, and Les Alouettes Saint-Betzs—separately, understanding their individual characters before blending. His vintage-dated Spécial Club represents the synthesis of these sites: ripe, complex, textured Chardonnay that requires several years to integrate its power.
+Margaine's approach emphasizes site expression over stylistic intervention. He works his best parcels (Champs d'Enfer, Brocot, and Les Alouettes Saint-Betzs) separately, understanding their individual characters before blending. His vintage-dated Spécial Club represents the synthesis of these sites: ripe, complex, textured Chardonnay that requires several years to integrate its power.
 
-The Spécial Club bottlings showcase Villers-Marmery's distinctive personality: that waxy richness, the preserved lemon character, the subtle earthiness beneath the fruit. These are not wines for immediate consumption. They need time—five years minimum, often ten or more—to reveal their complexity. When mature, they offer a compelling alternative to both the laser-focused precision of the Côte des Blancs and the broader, more oxidative style of the Aube.
+The Spécial Club bottlings showcase Villers-Marmery's distinctive personality: that waxy richness, the preserved lemon character, the subtle earthiness beneath the fruit. These are not wines for immediate consumption. They need time (five years minimum, often ten or more) to reveal their complexity. When mature, they offer a compelling alternative to both the laser-focused precision of the Côte des Blancs and the broader, more oxidative style of the Aube.
 
 ## The Blender's Secret Weapon
 
 Most Villers-Marmery Chardonnay never sees a village-specific label. It disappears into blends, where it performs essential structural work. The grandes maisons have long recognized its value.
 
-Deutz uses it in their vintage Blanc de Blancs and Amour de Deutz, where it provides body and complexity without overwhelming the blend's elegance. That "broad, slightly earthy note of lemon curd and spice" signals Villers-Marmery's presence—a textural richness that distinguishes these wines from pure Côte des Blancs bottlings.
+Deutz uses it in their vintage Blanc de Blancs and Amour de Deutz, where it provides body and complexity without overwhelming the blend's elegance. That "broad, slightly earthy note of lemon curd and spice" signals Villers-Marmery's presence: a textural richness that distinguishes these wines from pure Côte des Blancs bottlings.
 
 Other houses employ Villers-Marmery similarly: as a seasoning, a textural enhancer, a source of that elusive "ça pinotte" character. In a region where blending is art and science, Villers-Marmery offers a unique tool. It's Chardonnay with Pinot's body, Chardonnay with substance, Chardonnay that can stand up to the power of grand cru Pinot Noir in a blend.
 
@@ -80,13 +80,13 @@ Is this classification justified? The question matters less in Champagne than in
 
 Yet the classification seems reasonable. Villers-Marmery produces distinctive, high-quality Chardonnay with clear terroir expression and aging potential. It lacks the crystalline purity and electric tension of grand cru Côte des Blancs villages like Le Mesnil-sur-Oger or Cramant. But it offers something those villages cannot: textural richness, complexity, that unique "ça pinotte" character.
 
-In a rational classification system—one that recognized stylistic diversity rather than enforcing a single quality hierarchy—Villers-Marmery would hold premier cru status for producing excellent wines of a particular style. The current classification, however imperfect, reaches the right conclusion.
+In a rational classification system, one that recognized stylistic diversity rather than enforcing a single quality hierarchy. Villers-Marmery would hold premier cru status for producing excellent wines of a particular style. The current classification, however imperfect, reaches the right conclusion.
 
 ## Viticulture and Vineyard Management
 
 Villers-Marmery's growers face the same challenges as their counterparts throughout the Montagne de Reims: steep slopes, variable soil depth, frost risk, and the eternal struggle to achieve full ripeness in a marginal climate.
 
-The cordon de Royat training system addresses several of these challenges simultaneously. The low fruit zone captures radiated heat from the chalk, moderates temperature fluctuations, and facilitates hand labor on steep terrain. Shoot positioning and canopy management become critical—too much leaf cover reduces sun exposure and delays ripening, while too little exposes fruit to sunburn during hot summers.
+The cordon de Royat training system addresses several of these challenges simultaneously. The low fruit zone captures radiated heat from the chalk, moderates temperature fluctuations, and facilitates hand labor on steep terrain. Shoot positioning and canopy management become critical, too much leaf cover reduces sun exposure and delays ripening, while too little exposes fruit to sunburn during hot summers.
 
 Soil management varies by producer. Some maintain grass cover between rows to reduce erosion and encourage deep rooting. Others prefer bare soil to minimize water competition and maximize heat absorption. Both approaches can work, depending on site-specific conditions.
 
@@ -98,7 +98,7 @@ Villers-Marmery Chardonnay presents a distinctive flavor profile:
 
 **Aromatics**: Ripe citrus (lemon curd, preserved lemon), white flowers, subtle spice, occasional earthy notes. Less purely fruity than Côte des Blancs Chardonnay, with more complexity in the mid-palate.
 
-**Texture**: This is where Villers-Marmery distinguishes itself. The wines possess a waxy, almost tactile quality—that beeswax character that appears consistently across producers. They're broad and generous without being heavy, textured without being fat.
+**Texture**: This is where Villers-Marmery distinguishes itself. The wines possess a waxy, almost tactile quality, that beeswax character that appears consistently across producers. They're broad and generous without being heavy, textured without being fat.
 
 **Acidity**: Present but integrated, less prominent than in Trépail or the Côte des Blancs. The wines show balance rather than tension, harmony rather than electricity.
 
@@ -120,7 +120,7 @@ Villers-Marmery's textural richness and subtle earthiness suggest different food
 
 **Lobster or crab**: The wine's body and texture can handle richer shellfish preparations, particularly those with butter or cream sauces.
 
-**White truffle dishes**: The subtle earthiness in Villers-Marmery creates an intriguing pairing with white truffle—risotto, pasta, or eggs.
+**White truffle dishes**: The subtle earthiness in Villers-Marmery creates an intriguing pairing with white truffle, risotto, pasta, or eggs.
 
 Avoid overly delicate preparations that the wine's power might overwhelm. This is not Champagne for oysters or sashimi. It's Champagne for the table, for food with substance and complexity.
 
@@ -130,15 +130,15 @@ Avoid overly delicate preparations that the wine's power might overwhelm. This i
 
 **Deutz**: Uses Villers-Marmery as a key component in their vintage Blanc de Blancs and Amour de Deutz. Excellent examples of the terroir in a blending context.
 
-Beyond these, Villers-Marmery remains largely the domain of growers who sell their grapes to the grandes maisons. This isn't necessarily a loss—those grapes perform essential work in some of Champagne's finest blends. But it means that single-village Villers-Marmery remains relatively rare.
+Beyond these, Villers-Marmery remains largely the domain of growers who sell their grapes to the grandes maisons. This isn't necessarily a loss: those grapes perform essential work in some of Champagne's finest blends. But it means that single-village Villers-Marmery remains relatively rare.
 
 ## The Future of Villers-Marmery
 
-Climate change may enhance Villers-Marmery's position. As temperatures rise, the village's east-facing aspect—once a limitation requiring careful site selection and viticultural management—becomes an advantage. The morning sun provides sufficient ripening without the afternoon heat that can lead to overripeness and acid loss.
+Climate change may enhance Villers-Marmery's position. As temperatures rise, the village's east-facing aspect (once a limitation requiring careful site selection and viticultural management) becomes an advantage. The morning sun provides sufficient ripening without the afternoon heat that can lead to overripeness and acid loss.
 
 The Montagne de Reims has warmed significantly over the past three decades. Average temperatures have increased by approximately 1.1°C since 1990, and harvest dates have advanced by nearly two weeks. This warming benefits Chardonnay on east-facing slopes, allowing fuller ripeness while maintaining better acid balance than south-facing sites.
 
-Villers-Marmery may also benefit from growing interest in single-village and single-vineyard Champagnes. As consumers seek greater terroir specificity and transparency, villages like Villers-Marmery—with clear, distinctive characters—become more valuable. The grower-producer movement, which emphasizes site expression over house style, naturally highlights villages previously known only to blenders.
+Villers-Marmery may also benefit from growing interest in single-village and single-vineyard Champagnes. As consumers seek greater terroir specificity and transparency, villages like Villers-Marmery (with clear, distinctive characters) become more valuable. The grower-producer movement, which emphasizes site expression over house style, naturally highlights villages previously known only to blenders.
 
 Whether this potential materializes depends partly on producers' willingness to bottle and market single-village wines. Arnaud Margaine has shown the way, but the village needs more estate producers to establish its reputation among consumers.
 
@@ -146,19 +146,19 @@ Whether this potential materializes depends partly on producers' willingness to 
 
 The village itself offers little in the way of tourist infrastructure. This is working Champagne, not the manicured splendor of Épernay or the historic grandeur of Reims. The landscape is the attraction: those bent cordons marching up steep slopes, the thick forest separating Villers-Marmery from Trépail, the eastern views across the Champagne plain.
 
-For visitors interested in terroir rather than tasting room glamour, this is ideal. Appointments with Arnaud Margaine offer insight into serious, site-focused winemaking. The contrast with neighboring villages—Verzy's grand cru Pinot Noir, Trépail's lean Chardonnay—provides context for understanding Villers-Marmery's distinctive character.
+For visitors interested in terroir rather than tasting room glamour, this is ideal. Appointments with Arnaud Margaine offer insight into serious, site-focused winemaking. The contrast with neighboring villages (Verzy's grand cru Pinot Noir, Trépail's lean Chardonnay) provides context for understanding Villers-Marmery's distinctive character.
 
 The village lies approximately 20 kilometers south of Reims, accessible via the D26 and D26A roads. Plan for a full day exploring the eastern Montagne, including stops in Verzy, Verzenay, and Trépail for comparison.
 
 ## Conclusion: The Value of Difference
 
-Villers-Marmery matters because it's different. In a region dominated by blending, where uniformity often trumps individuality, the village produces Chardonnay with a distinctive, consistent character. That character—textured, rich, subtly earthy, "ça pinotte"—fills a specific role in Champagne's quality hierarchy.
+Villers-Marmery matters because it's different. In a region dominated by blending, where uniformity often trumps individuality, the village produces Chardonnay with a distinctive, consistent character. That character (textured, rich, subtly earthy, "ça pinotte") fills a specific role in Champagne's quality hierarchy.
 
 Is it the best Chardonnay in Champagne? No. The grand cru villages of the Côte des Blancs produce wines with greater purity, tension, and aging potential. But Villers-Marmery offers something those villages cannot: Chardonnay with presence, Chardonnay with body, Chardonnay that behaves like Pinot Noir.
 
 This makes it invaluable for blending and fascinating as a single-village wine. As Champagne continues its slow evolution toward greater terroir specificity, Villers-Marmery's distinctive voice deserves wider recognition. It's a premier cru village that earns its classification not through grand cru-like perfection but through consistent, distinctive quality.
 
-For those willing to look beyond the famous names and explore Champagne's quieter corners, Villers-Marmery rewards attention. Seek out Arnaud Margaine's Spécial Club. Taste it young, then taste it with a decade of age. You'll understand why the Champenois have a special word—"ça pinotte"—for what happens here.
+For those willing to look beyond the famous names and explore Champagne's quieter corners, Villers-Marmery rewards attention. Seek out Arnaud Margaine's Spécial Club. Taste it young, then taste it with a decade of age. You'll understand why the Champenois have a special word ("ça pinotte") for what happens here.
 
 ---
 

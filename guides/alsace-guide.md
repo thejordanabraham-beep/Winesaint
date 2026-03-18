@@ -1,40 +1,40 @@
 # Alsace: France's Germanic Paradox
 
-Alsace shouldn't work. A French region that speaks German dialects, makes varietal wines in tall bottles, and sits in one of Europe's driest rain shadows—it defies every stereotype about French wine. Yet this narrow 170-kilometer strip along the Rhine produces some of the world's most age-worthy Rieslings, the planet's most perfumed Gewürztraminers, and late-harvest wines that make Sauternes look understated.
+Alsace shouldn't work. A French region that speaks German dialects, makes varietal wines in tall bottles, and sits in one of Europe's driest rain shadows, it defies every stereotype about French wine. Yet this narrow 170-kilometer strip along the Rhine produces some of the world's most age-worthy Rieslings, the planet's most perfumed Gewürztraminers, and late-harvest wines that make Sauternes look understated.
 
-The numbers tell the story: With only 600mm of annual rainfall—less than half what falls on the western side of the Vosges Mountains—Alsace is drier than much of Bordeaux. Its continental climate swings from frigid winters to sun-baked summers. Its geology shifts every few hundred meters, creating a Mondrian-like mosaic of Triassic sandstone, Jurassic marl, and Muschelkalk limestone. This is not subtle terroir. This is geological chaos turned into vinous precision.
+The numbers tell the story: With only 600mm of annual rainfall, less than half what falls on the western side of the Vosges Mountains. Alsace is drier than much of Bordeaux. Its continental climate swings from frigid winters to sun-baked summers. Its geology shifts every few hundred meters, creating a Mondrian-like mosaic of Triassic sandstone, Jurassic marl, and Muschelkalk limestone. This is not subtle terroir. This is geological chaos turned into vinous precision.
 
-Alsace accounts for roughly 15,000 hectares of vines, producing approximately 1.1 million hectoliters annually—about 90% white wine. Unlike the rest of France, Alsace labels its wines by grape variety, not geography. This is both blessing and curse: clarity for consumers, but complexity buried beneath varietal names that obscure profound differences between, say, Riesling from granite versus limestone.
+Alsace accounts for roughly 15,000 hectares of vines, producing approximately 1.1 million hectoliters annually, about 90% white wine. Unlike the rest of France, Alsace labels its wines by grape variety, not geography. This is both blessing and curse: clarity for consumers, but complexity buried beneath varietal names that obscure profound differences between, say, Riesling from granite versus limestone.
 
 ## GEOLOGY: The Fault Line Advantage
 
 ### The Rift That Built Alsace
 
-Between 50 and 30 million years ago, the Rhine Graben—a massive geological rift valley—tore through what is now Alsace. This wasn't gentle subsidence. The valley floor dropped by up to 3,500 meters, creating the Rhine River plain and thrusting the Vosges Mountains upward on the western edge and the Black Forest on the eastern (German) side.
+Between 50 and 30 million years ago, the Rhine Graben (a massive geological rift valley) tore through what is now Alsace. This wasn't gentle subsidence. The valley floor dropped by up to 3,500 meters, creating the Rhine River plain and thrusting the Vosges Mountains upward on the western edge and the Black Forest on the eastern (German) side.
 
 This violent geology exposed rock layers spanning 200 million years. Where the Jura has relatively orderly east-west bands of limestone and marl (roughly 80% marl to 20% limestone), Alsace resembles a shattered mirror. Triassic sandstone sits next to Jurassic limestone, which abuts Oligocene conglomerate, often within a single vineyard.
 
-Consider Ribeauvillé, the geological heart of Alsace. Its fault zone split Triassic and Jurassic layers into what one geologist called "a remarkable, Mondrian-like mosaic." The age and composition change every few hundred meters: Muschelkalk limestone transitions to marl, then to pink Vosges sandstone (grès des Vosges), then to Keuper marl. This geological lottery explains why three grands crus cluster here: Geisberg, Kirchberg de Ribeauvillé, and Osterberg. The neighboring village of Hunawihr adds Rosacker, its Muschelkalk and Triassic limestone producing what many consider Alsace's finest Riesling terroir—Trimbach's Clos Sainte Hune being the proof.
+Consider Ribeauvillé, the geological heart of Alsace. Its fault zone split Triassic and Jurassic layers into what one geologist called "a remarkable, Mondrian-like mosaic." The age and composition change every few hundred meters: Muschelkalk limestone transitions to marl, then to pink Vosges sandstone (grès des Vosges), then to Keuper marl. This geological lottery explains why three grands crus cluster here: Geisberg, Kirchberg de Ribeauvillé, and Osterberg. The neighboring village of Hunawihr adds Rosacker, its Muschelkalk and Triassic limestone producing what many consider Alsace's finest Riesling terroir. Trimbach's Clos Sainte Hune being the proof.
 
 ### The Principal Soil Types
 
 **Granite**: Found primarily in the southern Haut-Rhin, particularly around Guebwiller and Thann. This crystalline rock from the Paleozoic era (300+ million years old) produces Rieslings and Gewürztraminers with pronounced minerality and citrus precision. The Grand Cru Rangen sits almost entirely on volcanic schist and granite, creating wines of almost painful intensity.
 
-**Limestone and Marl**: Jurassic-era limestone (calcaire) dominates the central vineyards, often intermixed with clay-rich marl. These sedimentary soils—deposited when Alsace lay beneath a shallow sea 160-180 million years ago—contain fossilized oysters and ammonites. The marl's clay content retains water during Alsace's dry summers, allowing vines to survive without irrigation (which remains illegal for AOC wines).
+**Limestone and Marl**: Jurassic-era limestone (calcaire) dominates the central vineyards, often intermixed with clay-rich marl. These sedimentary soils (deposited when Alsace lay beneath a shallow sea 160-180 million years ago) contain fossilized oysters and ammonites. The marl's clay content retains water during Alsace's dry summers, allowing vines to survive without irrigation (which remains illegal for AOC wines).
 
 **Muschelkalk**: This Triassic limestone (240 million years old), named for its shell fossils, appears in scattered pockets. It's particularly prized for Riesling, producing wines with saline minerality and extraordinary aging potential. Rosacker and portions of Kirchberg de Ribeauvillé sit on this ancient seabed.
 
-**Sandstone (Grès)**: The pink Vosges sandstone, formed from Triassic desert deposits, creates warm, early-ripening sites. These sandy soils drain rapidly and produce aromatic, perfumed wines—particularly successful for Gewürztraminer and Muscat.
+**Sandstone (Grès)**: The pink Vosges sandstone, formed from Triassic desert deposits, creates warm, early-ripening sites. These sandy soils drain rapidly and produce aromatic, perfumed wines, particularly successful for Gewürztraminer and Muscat.
 
 **Keuper Marl**: These multicolored Triassic marls (red, green, and grey) contain gypsum and clay. They're often dismissed as inferior, but thoughtful producers coax surprising complexity from these sites.
 
-**Alluvial Plains**: The flat Rhine valley floor consists of deep alluvial soils—gravel, sand, and clay deposited by rivers. These fertile sites produce high yields and simple wines, mostly for Crémant d'Alsace or basic AOC Alsace bottlings.
+**Alluvial Plains**: The flat Rhine valley floor consists of deep alluvial soils, gravel, sand, and clay deposited by rivers. These fertile sites produce high yields and simple wines, mostly for Crémant d'Alsace or basic AOC Alsace bottlings.
 
 ### Comparative Context
 
-Where Burgundy's Côte d'Or presents a relatively consistent limestone-marl gradient from hilltop to valley floor, Alsace offers no such predictability. A single hillside might contain five soil types. This explains why Alsace developed 51 grands crus—each representing a specific geological pocket—rather than Burgundy's hierarchical climat system.
+Where Burgundy's Côte d'Or presents a relatively consistent limestone-marl gradient from hilltop to valley floor, Alsace offers no such predictability. A single hillside might contain five soil types. This explains why Alsace developed 51 grands crus (each representing a specific geological pocket) rather than Burgundy's hierarchical climat system.
 
-The comparison to Germany's Pfalz region, just across the Rhine, is instructive. The Pfalz shares Alsace's geology—both sit on the Rhine Graben—but receives more rainfall and experiences cooler temperatures. Alsace's drier, warmer conditions push ripeness higher, producing fuller-bodied wines with more alcohol and less piercing acidity.
+The comparison to Germany's Pfalz region, just across the Rhine, is instructive. The Pfalz shares Alsace's geology (both sit on the Rhine Graben) but receives more rainfall and experiences cooler temperatures. Alsace's drier, warmer conditions push ripeness higher, producing fuller-bodied wines with more alcohol and less piercing acidity.
 
 ## CLIMATE: The Rain Shadow Effect
 
@@ -42,7 +42,7 @@ The comparison to Germany's Pfalz region, just across the Rhine, is instructive.
 
 Alsace sits at 47.5°-49°N latitude, roughly equivalent to Burgundy's Côte d'Or. But latitude tells only part of the story. Alsace's continental climate creates dramatic seasonal swings: winter temperatures regularly drop below -10°C, while summer days can exceed 35°C. This is not maritime moderation. This is continental extremism.
 
-The Vosges Mountains, rising to 1,424 meters at Grand Ballon, block Atlantic weather systems. Westerly winds dump rain on the mountains' western slopes—often exceeding 2,000mm annually—while Alsace, on the eastern (leeward) side, receives a miserly 600mm. Colmar, the region's driest city, averages just 500mm—less than many Mediterranean climates.
+The Vosges Mountains, rising to 1,424 meters at Grand Ballon, block Atlantic weather systems. Westerly winds dump rain on the mountains' western slopes (often exceeding 2,000mm annually) while Alsace, on the eastern (leeward) side, receives a miserly 600mm. Colmar, the region's driest city, averages just 500mm, less than many Mediterranean climates.
 
 This rain shadow effect is Alsace's defining climatic feature. Compare it to Burgundy's Côte d'Or (around 700mm) or Champagne (650mm), and Alsace emerges as France's driest wine region outside the Mediterranean. Summer drought becomes a real concern, particularly on sandy soils. Since irrigation remains prohibited for AOC wines, vines must root deeply into fractured rock to access water.
 
@@ -50,43 +50,43 @@ This rain shadow effect is Alsace's defining climatic feature. Compare it to Bur
 
 Rainfall distribution matters as much as total volume. Alsace receives its highest precipitation in summer (August averages 80mm), while harvest months (September-October) are typically dry. This pattern suits late-ripening varieties like Riesling and Gewürztraminer, allowing extended hang time without rot pressure.
 
-But May and June can be wet, threatening flowering and fruit set. Spring frost risk exists, though less severe than in Chablis or Champagne. The continental climate means rapid autumn cooling—temperatures can drop 10°C between September and October—concentrating acids and aromatics in the final ripening phase.
+But May and June can be wet, threatening flowering and fruit set. Spring frost risk exists, though less severe than in Chablis or Champagne. The continental climate means rapid autumn cooling (temperatures can drop 10°C between September and October) concentrating acids and aromatics in the final ripening phase.
 
 Hail represents a persistent threat. Violent summer storms, funneled by the Rhine valley, can devastate entire villages. The 2021 hailstorm that struck Ribeauvillé and Hunawihr destroyed up to 80% of some vineyards' crop.
 
 ### Climate Change Impacts
 
-Alsace's climate has warmed measurably over the past 40 years. Average growing season temperatures have increased by approximately 1.5°C since 1980. Harvest dates have advanced by two weeks. Alcohol levels have crept upward—12.5% was once standard for dry Riesling; today, 13-13.5% is common.
+Alsace's climate has warmed measurably over the past 40 years. Average growing season temperatures have increased by approximately 1.5°C since 1980. Harvest dates have advanced by two weeks. Alcohol levels have crept upward, 12.5% was once standard for dry Riesling; today, 13-13.5% is common.
 
 This warming trend has both benefits and challenges. Ripening is more reliable; vintages like 1984 or 1987, when Riesling struggled to reach 11% alcohol, are now rare. But excessive ripeness threatens varietal character. Gewürztraminer, already low in acidity, can become flabby and overblown. The challenge for producers is maintaining freshness and tension while working with riper fruit.
 
-Some producers have responded by harvesting earlier, seeking lower alcohols and higher acids. Others have embraced the warmth, producing richer, more powerful wines. This stylistic debate—freshness versus ripeness—defines contemporary Alsace.
+Some producers have responded by harvesting earlier, seeking lower alcohols and higher acids. Others have embraced the warmth, producing richer, more powerful wines. This stylistic debate (freshness versus ripeness) defines contemporary Alsace.
 
 ### Sunshine Hours
 
-Alsace enjoys approximately 1,800 hours of sunshine annually, comparable to Burgundy but significantly more than Champagne (1,650 hours). The long summer days at northern latitudes—sunset in late June occurs after 9:30 PM—extend the photosynthetic window, building sugar and flavor compounds while maintaining acidity through cool nights.
+Alsace enjoys approximately 1,800 hours of sunshine annually, comparable to Burgundy but significantly more than Champagne (1,650 hours). The long summer days at northern latitudes (sunset in late June occurs after 9:30 PM) extend the photosynthetic window, building sugar and flavor compounds while maintaining acidity through cool nights.
 
 ## GRAPES: The Noble Four and Supporting Cast
 
 ### Riesling: The Intellectual
 
-**Viticulture**: Riesling buds late (reducing frost risk) and ripens late, making it well-suited to Alsace's long growing season. It's vigorous and productive, requiring careful yield management—80 hl/ha is the legal maximum for AOC Alsace, but quality-focused producers target 50-60 hl/ha or less.
+**Viticulture**: Riesling buds late (reducing frost risk) and ripens late, making it well-suited to Alsace's long growing season. It's vigorous and productive, requiring careful yield management, 80 hl/ha is the legal maximum for AOC Alsace, but quality-focused producers target 50-60 hl/ha or less.
 
-**Soil Preferences**: Riesling excels on limestone, marl, and granite—essentially anything except heavy clay or overly fertile alluvial soils. The variety's deep root system accesses water and minerals from fractured bedrock. Muschelkalk limestone produces the most mineral-driven expressions; granite yields citrus precision; sandstone creates aromatic lift.
+**Soil Preferences**: Riesling excels on limestone, marl, and granite, essentially anything except heavy clay or overly fertile alluvial soils. The variety's deep root system accesses water and minerals from fractured bedrock. Muschelkalk limestone produces the most mineral-driven expressions; granite yields citrus precision; sandstone creates aromatic lift.
 
 **History**: Riesling's presence in Alsace dates to at least 1477, when Duke René of Lorraine praised the region's Riesling wines. By the 19th century, Riesling dominated Alsace's finest sites, though it represented a smaller percentage of total plantings than Sylvaner or Chasselas. Post-World War II replanting emphasized Riesling, which now accounts for approximately 22% of Alsace's vineyard area (3,400 hectares).
 
 **DNA and Parentage**: Genetic analysis reveals Riesling is a natural cross between Gouais Blanc (a medieval workhorse variety) and a wild Vitis vinifera vine from the Rhine valley. This makes Riesling a half-sibling to Chardonnay, which shares Gouais Blanc as a parent.
 
-**Wine Character**: Alsatian Riesling ranges from steely and bone-dry to unctuous and sweet (Vendange Tardive and Sélection de Grains Nobles). Dry examples show citrus (lime, grapefruit), white flowers, wet stone, and a saline minerality. Limestone sites produce more floral, delicate wines; granite yields more citrus and tension. Riesling's high acidity and extract allow decades of aging—the best examples improve for 20-30 years or more.
+**Wine Character**: Alsatian Riesling ranges from steely and bone-dry to unctuous and sweet (Vendange Tardive and Sélection de Grains Nobles). Dry examples show citrus (lime, grapefruit), white flowers, wet stone, and a saline minerality. Limestone sites produce more floral, delicate wines; granite yields more citrus and tension. Riesling's high acidity and extract allow decades of aging: the best examples improve for 20-30 years or more.
 
 ### Gewürztraminer: The Hedonist
 
-**Viticulture**: A pink-skinned mutation of Traminer (Savagnin Rose), Gewürztraminer ("spiced Traminer") is Alsace's most distinctive variety. It buds early (frost risk) and ripens early to mid-season. Yields are naturally low—50-60 hl/ha is typical—and the variety is prone to coulure (poor fruit set).
+**Viticulture**: A pink-skinned mutation of Traminer (Savagnin Rose), Gewürztraminer ("spiced Traminer") is Alsace's most distinctive variety. It buds early (frost risk) and ripens early to mid-season. Yields are naturally low (50-60 hl/ha is typical) and the variety is prone to coulure (poor fruit set).
 
 **Soil Preferences**: Gewürztraminer thrives on clay-rich marl and sandstone, which moderate its tendency toward low acidity. The variety struggles on limestone, where wines can become heavy and unbalanced. The Grand Cru Hengst, with its marl and limestone blend, produces particularly successful Gewürztraminer.
 
-**History**: Traminer likely originated in the village of Tramin (Termeno) in Italy's Alto Adige, arriving in Alsace during the Middle Ages. The aromatic "Gewürz" mutation was selected in Alsace, possibly in the 19th century. Today, Alsace accounts for roughly 2,700 hectares—about 18% of the region's plantings and the world's largest concentration of Gewürztraminer.
+**History**: Traminer likely originated in the village of Tramin (Termeno) in Italy's Alto Adige, arriving in Alsace during the Middle Ages. The aromatic "Gewürz" mutation was selected in Alsace, possibly in the 19th century. Today, Alsace accounts for roughly 2,700 hectares, about 18% of the region's plantings and the world's largest concentration of Gewürztraminer.
 
 **Wine Character**: This is not a subtle variety. Gewürztraminer explodes with lychee, rose petal, ginger, smoke, and exotic spices. The wines are full-bodied (13.5-14.5% alcohol is common), low in acidity, and intensely aromatic. Dry versions walk a tightrope between exotic allure and heavy oiliness; the best maintain tension through phenolic grip and residual CO2. Sweet versions (VT and SGN) can be transcendent, balancing unctuousness with spice and perfume.
 
@@ -94,11 +94,11 @@ Alsace enjoys approximately 1,800 hours of sunshine annually, comparable to Burg
 
 **Viticulture**: A grey-pink skinned mutation of Pinot Noir, Pinot Gris (formerly called Tokay d'Alsace until EU regulations forced the name change) buds and ripens mid-season. It's moderately vigorous and productive, with yields typically around 60-70 hl/ha.
 
-**Soil Preferences**: Pinot Gris adapts to various soils but excels on clay-limestone and marl, which provide structure and prevent flabbiness. The variety's naturally low acidity requires careful site selection—overly warm sites produce heavy, phenolic wines.
+**Soil Preferences**: Pinot Gris adapts to various soils but excels on clay-limestone and marl, which provide structure and prevent flabbiness. The variety's naturally low acidity requires careful site selection, overly warm sites produce heavy, phenolic wines.
 
 **History**: Pinot Gris arrived in Alsace from Burgundy, likely in the 17th or 18th century. The "Tokay" name referenced a supposed connection to Hungary's Tokaji, though this link is spurious. Today, Pinot Gris represents approximately 2,400 hectares (15% of plantings).
 
-**Wine Character**: Alsatian Pinot Gris produces full-bodied, rich wines with flavors of smoke, honey, baked apple, and mushroom. The variety's pink skins contribute phenolic texture and a golden-copper color. Styles range from dry (though rarely bone-dry) to richly sweet. The best examples balance opulence with freshness—a difficult feat given the variety's low natural acidity.
+**Wine Character**: Alsatian Pinot Gris produces full-bodied, rich wines with flavors of smoke, honey, baked apple, and mushroom. The variety's pink skins contribute phenolic texture and a golden-copper color. Styles range from dry (though rarely bone-dry) to richly sweet. The best examples balance opulence with freshness: a difficult feat given the variety's low natural acidity.
 
 ### Muscat: The Grapiest
 
@@ -108,11 +108,11 @@ Alsace enjoys approximately 1,800 hours of sunshine annually, comparable to Burg
 
 **History**: Muscat Blanc à Petits Grains is among the world's oldest cultivated varieties, likely domesticated in ancient Greece. It arrived in Alsace during the Middle Ages. Muscat Ottonel, bred in France's Loire Valley in 1839, was introduced to Alsace in the late 19th century. Together, they account for approximately 400 hectares (2-3% of plantings).
 
-**Wine Character**: Alsatian Muscat is almost always dry, unlike the sweet Muscats of southern France or Italy. The wines smell intensely of fresh grapes—orange blossom, lemon zest, and rose petal—but taste dry and refreshing. This disconnect between aroma and palate can confuse tasters. The best examples are aperitif wines of remarkable purity.
+**Wine Character**: Alsatian Muscat is almost always dry, unlike the sweet Muscats of southern France or Italy. The wines smell intensely of fresh grapes (orange blossom, lemon zest, and rose petal) but taste dry and refreshing. This disconnect between aroma and palate can confuse tasters. The best examples are aperitif wines of remarkable purity.
 
 ### Pinot Noir: The Red Outlier
 
-Alsace's only red variety, Pinot Noir accounts for approximately 1,600 hectares (10% of plantings). Historically, Alsatian Pinot Noir produced light, pale rosés. But climate warming and improved viticulture have enabled serious red wines. The best examples—from producers like Albert Mann, Meyer-Fonné, and Bott-Geyl—show cherry fruit, forest floor complexity, and silky texture. They won't be mistaken for Burgundy, but they're no longer apologetic.
+Alsace's only red variety, Pinot Noir accounts for approximately 1,600 hectares (10% of plantings). Historically, Alsatian Pinot Noir produced light, pale rosés. But climate warming and improved viticulture have enabled serious red wines. The best examples (from producers like Albert Mann, Meyer-Fonné, and Bott-Geyl) show cherry fruit, forest floor complexity, and silky texture. They won't be mistaken for Burgundy, but they're no longer apologetic.
 
 ### Supporting Varieties
 
@@ -122,25 +122,25 @@ Alsace's only red variety, Pinot Noir accounts for approximately 1,600 hectares 
 
 **Chasselas**: Once widespread, Chasselas has nearly disappeared from Alsace. It produces neutral wines and is mostly blended into basic AOC Alsace or Edelzwicker.
 
-**Klevener de Heiligenstein**: A pink-berried variant of Savagnin (not Gewürztraminer), this rare variety is grown almost exclusively around the village of Heiligenstein. It produces aromatic, spicy wines—a kind of halfway point between Gewürztraminer and Pinot Gris.
+**Klevener de Heiligenstein**: A pink-berried variant of Savagnin (not Gewürztraminer), this rare variety is grown almost exclusively around the village of Heiligenstein. It produces aromatic, spicy wines: a kind of halfway point between Gewürztraminer and Pinot Gris.
 
 ## WINES: Styles, Methods, and the Sweetness Dilemma
 
 ### Winemaking Philosophy
 
-Alsace winemaking prioritizes aromatic purity. The region's varieties—Riesling, Gewürztraminer, Muscat—are inherently aromatic, and winemaking aims to preserve, not transform, these primary fruit characters.
+Alsace winemaking prioritizes aromatic purity. The region's varieties (Riesling, Gewürztraminer, Muscat) are inherently aromatic, and winemaking aims to preserve, not transform, these primary fruit characters.
 
 Traditional producers ferment in large, old oak barrels (foudres), often 50-100 years old. These massive vessels (1,000-10,000 liters) provide gentle micro-oxygenation without imparting oak flavor. They're expensive to maintain but allow slow, natural fermentation and aging on fine lees.
 
 Modern producers increasingly use stainless steel, which offers temperature control and pristine fruit expression. Some producers employ both: steel for aromatic varieties (Muscat, Gewürztraminer), oak for structured varieties (Riesling, Pinot Gris).
 
-New oak is rare—perhaps 5% of producers use it, and then sparingly. The Alsatian philosophy rejects flavor additions; the wine should taste of grape and soil, not barrel.
+New oak is rare, perhaps 5% of producers use it, and then sparingly. The Alsatian philosophy rejects flavor additions; the wine should taste of grape and soil, not barrel.
 
 Malolactic fermentation is typically avoided, preserving the natural acidity that balances Alsace's ripe fruit. Wines are aged on fine lees (without stirring) for 6-18 months, adding texture without heaviness.
 
 ### The Sweetness Problem
 
-For decades, Alsace faced a labeling crisis: no indication of sweetness levels. A wine labeled simply "Riesling" might be bone-dry or off-dry or distinctly sweet, depending on the producer's house style. Consumers had to memorize individual producers' preferences—a barrier to entry for casual buyers.
+For decades, Alsace faced a labeling crisis: no indication of sweetness levels. A wine labeled simply "Riesling" might be bone-dry or off-dry or distinctly sweet, depending on the producer's house style. Consumers had to memorize individual producers' preferences: a barrier to entry for casual buyers.
 
 The issue stems from historical practice. Traditionally, Alsatian winemakers fermented to dryness or near-dryness. But in the 1970s-1990s, some producers began leaving significant residual sugar (10-30 g/l) to balance higher alcohols and soften acidity. They didn't label this sweetness, creating market confusion.
 
@@ -156,25 +156,25 @@ This represents a major philosophical shift toward transparency. Whether produce
 
 Vendange Tardive wines come from the four noble varieties (Riesling, Gewürztraminer, Pinot Gris, Muscat) harvested at minimum must weights of 244 g/l (95° Oechsle) for Riesling and Muscat, 270 g/l (105° Oechsle) for Gewürztraminer and Pinot Gris. Harvest typically occurs in late October or November.
 
-VT wines may or may not be affected by botrytis (noble rot). Those without botrytis show concentrated fruit—almost dried fruit intensity—with balancing acidity. Those with botrytis add honeyed, waxy complexity.
+VT wines may or may not be affected by botrytis (noble rot). Those without botrytis show concentrated fruit (almost dried fruit intensity) with balancing acidity. Those with botrytis add honeyed, waxy complexity.
 
-The wines range from off-dry to distinctly sweet, though not as unctuous as Sélection de Grains Nobles. They're powerful—13.5-15% alcohol is common—and can age for decades. Riesling VT often shows dried apricot, honey, and petrol; Gewürztraminer VT leans toward candied ginger and rose preserve.
+The wines range from off-dry to distinctly sweet, though not as unctuous as Sélection de Grains Nobles. They're powerful, 13.5-15% alcohol is common, and can age for decades. Riesling VT often shows dried apricot, honey, and petrol; Gewürztraminer VT leans toward candied ginger and rose preserve.
 
 ### Sélection de Grains Nobles (SGN): Noble Rot
 
 SGN represents Alsace's sweetest wines, harvested at minimum must weights of 276 g/l (105° Oechsle) for Riesling and Muscat, 306 g/l (117° Oechsle) for Gewürztraminer and Pinot Gris. These wines nearly always contain botrytis-affected grapes, picked berry by berry in multiple passes through the vineyard.
 
-Harvest can extend into late November or even December. Yields are minuscule—often 10-15 hl/ha. Fermentation is slow and difficult, sometimes taking months, and often stops naturally with significant residual sugar (80-150 g/l or more).
+Harvest can extend into late November or even December. Yields are minuscule, often 10-15 hl/ha. Fermentation is slow and difficult, sometimes taking months, and often stops naturally with significant residual sugar (80-150 g/l or more).
 
-SGN wines are rare and expensive—production occurs only in exceptional vintages (roughly 3-4 years per decade). They're intensely sweet but not cloying, balanced by high acidity and phenolic grip. The best examples age for 30-50 years or more, developing tertiary notes of dried fruits, honey, spice, and petrol.
+SGN wines are rare and expensive, production occurs only in exceptional vintages (roughly 3-4 years per decade). They're intensely sweet but not cloying, balanced by high acidity and phenolic grip. The best examples age for 30-50 years or more, developing tertiary notes of dried fruits, honey, spice, and petrol.
 
 ### Crémant d'Alsace: Sparkling Success
 
-Crémant d'Alsace, made via the traditional method (méthode traditionnelle), accounts for approximately 25% of Alsace's production—a dramatic increase from 5% in 1980. The appellation, established in 1976, permits Pinot Blanc, Auxerrois, Pinot Gris, Pinot Noir, Riesling, and Chardonnay.
+Crémant d'Alsace, made via the traditional method (méthode traditionnelle), accounts for approximately 25% of Alsace's production: a dramatic increase from 5% in 1980. The appellation, established in 1976, permits Pinot Blanc, Auxerrois, Pinot Gris, Pinot Noir, Riesling, and Chardonnay.
 
 Most Crémant is white, based on Pinot Blanc and Auxerrois, producing soft, easy-drinking sparklers. Rosé Crémant (from Pinot Noir) has grown in popularity. Some producers make serious, age-worthy Crémant from Riesling or Pinot Gris, though these remain niche.
 
-Crémant d'Alsace offers excellent value—quality rivals entry-level Champagne at half the price. It's become Alsace's cash cow, subsidizing lower-volume grand cru production.
+Crémant d'Alsace offers excellent value, quality rivals entry-level Champagne at half the price. It's become Alsace's cash cow, subsidizing lower-volume grand cru production.
 
 ### Blends: Edelzwicker and Gentil
 
@@ -182,7 +182,7 @@ Blended wines represent a small but traditional category. **Edelzwicker** (liter
 
 **Gentil** requires a minimum 50% noble varieties (Riesling, Gewürztraminer, Pinot Gris, Muscat) with each vinified separately before blending. It's theoretically superior to Edelzwicker, though market perception remains lukewarm.
 
-Some producers make serious, age-worthy blends from grand cru sites—Domaine Weinbach's "Cuvée Théo" blends Riesling, Gewürztraminer, and Pinot Gris from Schlossberg Grand Cru. But these remain rare; Alsace's identity is fundamentally varietal.
+Some producers make serious, age-worthy blends from grand cru sites. Domaine Weinbach's "Cuvée Théo" blends Riesling, Gewürztraminer, and Pinot Gris from Schlossberg Grand Cru. But these remain rare; Alsace's identity is fundamentally varietal.
 
 ## APPELLATIONS: A Hierarchy of Precision
 
@@ -198,7 +198,7 @@ Introduced in 2011, the Communales designation adds village names to AOC Alsace 
 
 Requirements are stricter than regional AOC: specified grape varieties, minimum vine density, controlled pruning and training, and higher ripeness levels (must weights). Yields for white wines drop to 72 hl/ha (versus 80 for AOC Alsace).
 
-Communales wines express primary fruit with terroir nuances—a middle ground between regional AOC and grand cru. Market adoption has been slow; many producers find the category redundant.
+Communales wines express primary fruit with terroir nuances: a middle ground between regional AOC and grand cru. Market adoption has been slow; many producers find the category redundant.
 
 ### AOC Alsace Lieux-Dits (Named Sites)
 
@@ -224,7 +224,7 @@ Defenders counter that Alsace's geology demands numerous, small-scale designatio
 
 - **Brand** (Turckheim): Granite and gneiss, producing structured, age-worthy Rieslings. Zind-Humbrecht and Josmeyer excel here.
 
-- **Rosacker** (Hunawihr): Muschelkalk limestone, home to Trimbach's Clos Sainte Hune—arguably Alsace's most famous Riesling.
+- **Rosacker** (Hunawihr): Muschelkalk limestone, home to Trimbach's Clos Sainte Hune, arguably Alsace's most famous Riesling.
 
 - **Geisberg, Kirchberg de Ribeauvillé, Osterberg** (Ribeauvillé): The geological fault zone's trio, each with distinct soils producing different expressions.
 
@@ -240,7 +240,7 @@ A separate appellation for traditional-method sparkling wines, established in 19
 
 ### Bottle Format and Labeling
 
-Alsace law mandates the "flûte d'Alsace"—a tall, slender bottle—for all AOC wines (except Crémant). This creates brand identity but invites confusion with German wines. Bag-in-box packaging is prohibited for AOC wines.
+Alsace law mandates the "flûte d'Alsace", a tall, slender bottle, for all AOC wines (except Crémant). This creates brand identity but invites confusion with German wines. Bag-in-box packaging is prohibited for AOC wines.
 
 Labels must include:
 - Appellation (Alsace, Alsace Grand Cru [name], Crémant d'Alsace)
@@ -249,7 +249,7 @@ Labels must include:
 - Vintage (for most wines)
 - Sweetness level (mandatory from 2021 vintage)
 
-Grand cru wines must include the specific grand cru name. Confusingly, some producers use lieu-dit names that resemble grand cru names but aren't—Trimbach's "Clos Sainte Hune" is from Rosacker Grand Cru but doesn't say so on the label.
+Grand cru wines must include the specific grand cru name. Confusingly, some producers use lieu-dit names that resemble grand cru names but aren't. Trimbach's "Clos Sainte Hune" is from Rosacker Grand Cru but doesn't say so on the label.
 
 ### Serving Temperature
 
@@ -293,9 +293,9 @@ Alsace's cuisine reflects its Franco-Germanic heritage: choucroute garnie (sauer
 
 **Unconventional Pairings**:
 
-Alsatian wines excel with Asian cuisines—the aromatic profiles and (sometimes) residual sugar complement complex spice blends. Try Gewürztraminer with Sichuan cuisine, Riesling with Vietnamese pho, or Pinot Gris with Japanese teriyaki.
+Alsatian wines excel with Asian cuisines: the aromatic profiles and (sometimes) residual sugar complement complex spice blends. Try Gewürztraminer with Sichuan cuisine, Riesling with Vietnamese pho, or Pinot Gris with Japanese teriyaki.
 
-VT and SGN wines pair with blue cheeses (Roquefort, Stilton), fruit-based desserts, and—controversially—can be drunk as aperitifs.
+VT and SGN wines pair with blue cheeses (Roquefort, Stilton), fruit-based desserts, and (controversially) can be drunk as aperitifs.
 
 ### Vintage Chart (2000-2023)
 
@@ -377,9 +377,9 @@ The drought issue intensifies. Alsace's 600mm annual rainfall, once adequate, no
 
 ### Market Positioning
 
-Alsace struggles with market perception. The Germanic bottle and varietal labeling invite comparisons to German wines, but Alsatian wines are fuller, riper, and (often) drier. The sweetness confusion—now partially addressed by mandatory labeling—damaged Alsace's reputation, particularly in export markets.
+Alsace struggles with market perception. The Germanic bottle and varietal labeling invite comparisons to German wines, but Alsatian wines are fuller, riper, and (often) drier. The sweetness confusion (now partially addressed by mandatory labeling) damaged Alsace's reputation, particularly in export markets.
 
-The region's diversity—51 grands crus, multiple varieties, varying sweetness levels—creates complexity that confounds casual consumers. Burgundy's complexity has cachet; Alsace's feels confusing. Simplifying the message while preserving diversity remains a challenge.
+The region's diversity (51 grands crus, multiple varieties, varying sweetness levels) creates complexity that confounds casual consumers. Burgundy's complexity has cachet; Alsace's feels confusing. Simplifying the message while preserving diversity remains a challenge.
 
 ### Organic and Biodynamic Leadership
 
@@ -397,7 +397,7 @@ Some producers advocate for a Burgundian-style monopole system, where single pro
 
 Alsace remains French wine's outlier: Germanic culture, varietal labeling, aromatic varieties, and tall bottles. It produces some of the world's finest Rieslings, yet struggles for recognition outside specialist circles. Its 51 grands crus represent geological precision, yet confuse consumers accustomed to simpler hierarchies.
 
-The region's strength lies in its diversity—geological, varietal, stylistic. The challenge is communicating that diversity without overwhelming the audience. As climate change pushes ripeness higher and drought stress intensifies, Alsace's winemakers must balance tradition with adaptation.
+The region's strength lies in its diversity, geological, varietal, stylistic. The challenge is communicating that diversity without overwhelming the audience. As climate change pushes ripeness higher and drought stress intensifies, Alsace's winemakers must balance tradition with adaptation.
 
 What's certain: Alsace produces wines of profound complexity and aging potential, often at prices that seem absurdly low compared to Burgundy or Champagne. For those willing to navigate the region's complexity, the rewards are substantial. This is not simple wine. But then, Alsace was never meant to be simple.
 

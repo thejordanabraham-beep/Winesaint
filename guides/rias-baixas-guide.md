@@ -1,8 +1,8 @@
 # Rías Baixas: Spain's Atlantic Answer to High-Acid White Wine
 
-Rías Baixas doesn't behave like the rest of Spain. While much of the Iberian Peninsula bakes under Mediterranean and continental heat, this northwest corner of Galicia receives Atlantic gales, persistent rain, and a climate closer to Brittany than Rioja. The result is Spain's most important white wine region—a place where Albariño produces wines of piercing acidity, saline minerality, and aromatic complexity that have nothing to do with the oxidative, high-alcohol stereotypes of Spanish white wine.
+Rías Baixas doesn't behave like the rest of Spain. While much of the Iberian Peninsula bakes under Mediterranean and continental heat, this northwest corner of Galicia receives Atlantic gales, persistent rain, and a climate closer to Brittany than Rioja. The result is Spain's most important white wine region: a place where Albariño produces wines of piercing acidity, saline minerality, and aromatic complexity that have nothing to do with the oxidative, high-alcohol stereotypes of Spanish white wine.
 
-This is not a recent invention. Albariño has been grown here for centuries, though its modern incarnation dates to the late 20th century. After phylloxera devastated the region, much of the vineyard land was replanted with hybrid varieties and high-yielding Palomino—the same grape that makes Sherry, but here producing thin, neutral wines. The revival began in earnest in the 1980s with the establishment of the DO in 1988. By 1991, production stood at a mere 3,500 hectoliters. Today, Rías Baixas produces approximately 250,000 hectoliters annually from just over 4,000 hectares—a seventy-fold increase that reflects both international demand and a return to quality viticulture.
+This is not a recent invention. Albariño has been grown here for centuries, though its modern incarnation dates to the late 20th century. After phylloxera devastated the region, much of the vineyard land was replanted with hybrid varieties and high-yielding Palomino: the same grape that makes Sherry, but here producing thin, neutral wines. The revival began in earnest in the 1980s with the establishment of the DO in 1988. By 1991, production stood at a mere 3,500 hectoliters. Today, Rías Baixas produces approximately 250,000 hectoliters annually from just over 4,000 hectares: a seventy-fold increase that reflects both international demand and a return to quality viticulture.
 
 The region's fragmented structure defines its character. Around 5,500 grape growers farm the vineyards, most working tiny plots of land. Cooperatives dominate production, with roughly 170 wineries ranging from small family operations to large producers like Bodegas Martín Códax, which works with over 300 growers. This small-scale grape growing continues a tradition established long before phylloxera, when vineyard ownership was divided among peasant farmers who sold fruit to local merchants.
 
@@ -10,9 +10,9 @@ The region's fragmented structure defines its character. Around 5,500 grape grow
 
 Rías Baixas sits on the western edge of the Iberian Massif, one of Europe's oldest geological formations. The bedrock is predominantly granite, formed during the Paleozoic Era between 540 and 250 million years ago. This ancient crystalline rock weathers slowly in the region's wet climate, breaking down into sandy, decomposed granite soils known locally as *xabre*.
 
-The texture of xabre is distinctive: coarse, well-drained, and relatively poor in organic matter. Granite-derived soils tend to be acidic (pH 5.0-6.0), which suits Albariño's natural vigor while contributing to the wine's characteristic acidity and mineral tension. The sandy texture provides excellent drainage—critical in a region that receives over 1,500mm of rainfall annually. Waterlogged soils would spell disaster for vine health, but the porous nature of decomposed granite allows excess water to percolate through quickly.
+The texture of xabre is distinctive: coarse, well-drained, and relatively poor in organic matter. Granite-derived soils tend to be acidic (pH 5.0-6.0), which suits Albariño's natural vigor while contributing to the wine's characteristic acidity and mineral tension. The sandy texture provides excellent drainage, critical in a region that receives over 1,500mm of rainfall annually. Waterlogged soils would spell disaster for vine health, but the porous nature of decomposed granite allows excess water to percolate through quickly.
 
-Not all of Rías Baixas is pure granite. In certain areas, particularly in the Val do Salnés subzone near the coast, alluvial deposits overlay the granite bedrock. These soils contain more clay and silt, with slightly better water retention. The result is wines with more body and texture, though still marked by the region's signature acidity. Further inland, in the Condado do Tea and O Rosal subzones along the Miño River, you'll find pockets of slate and schist—metamorphic rocks that also derive from ancient Paleozoic formations but impart a different mineral character, often described as more graphite-like or smoky.
+Not all of Rías Baixas is pure granite. In certain areas, particularly in the Val do Salnés subzone near the coast, alluvial deposits overlay the granite bedrock. These soils contain more clay and silt, with slightly better water retention. The result is wines with more body and texture, though still marked by the region's signature acidity. Further inland, in the Condado do Tea and O Rosal subzones along the Miño River, you'll find pockets of slate and schist, metamorphic rocks that also derive from ancient Paleozoic formations but impart a different mineral character, often described as more graphite-like or smoky.
 
 ### Comparative Context: Galicia vs. Vinho Verde
 
@@ -20,21 +20,21 @@ The geological similarity between Rías Baixas and its Portuguese neighbor Vinho
 
 ## CLIMATE: Maritime Dominance and the Rain Problem
 
-Rías Baixas experiences a maritime climate heavily influenced by the Atlantic Ocean. The region's name derives from the *rías*—drowned river valleys that form deep, fjord-like inlets along the coast. These estuaries funnel Atlantic weather systems inland, bringing moisture, moderate temperatures, and persistent humidity.
+Rías Baixas experiences a maritime climate heavily influenced by the Atlantic Ocean. The region's name derives from the *rías*, drowned river valleys that form deep, fjord-like inlets along the coast. These estuaries funnel Atlantic weather systems inland, bringing moisture, moderate temperatures, and persistent humidity.
 
-Annual rainfall averages 1,500-1,800mm, concentrated heavily in autumn and winter but present throughout the growing season. This is roughly three times the rainfall of Rioja or the Duero Valley. The wetness creates constant disease pressure, particularly for downy mildew (*Plasmopara viticola*) and powdery mildew (*Erysiphe necator*). Traditional viticulture adapted to these conditions through the *parral* or pergola system—training vines high off the ground on granite posts or wires, sometimes reaching two meters or more. This elevation improves air circulation around the clusters, reducing fungal infection, and keeps grapes away from soil splash during heavy rains.
+Annual rainfall averages 1,500-1,800mm, concentrated heavily in autumn and winter but present throughout the growing season. This is roughly three times the rainfall of Rioja or the Duero Valley. The wetness creates constant disease pressure, particularly for downy mildew (*Plasmopara viticola*) and powdery mildew (*Erysiphe necator*). Traditional viticulture adapted to these conditions through the *parral* or pergola system, training vines high off the ground on granite posts or wires, sometimes reaching two meters or more. This elevation improves air circulation around the clusters, reducing fungal infection, and keeps grapes away from soil splash during heavy rains.
 
-The parral system also maximizes sun exposure on the vine canopy while shading the clusters from direct sunlight—useful in a region where cloud cover is frequent but UV radiation can be intense when the sun breaks through. However, the system is labor-intensive, requiring hand harvesting and making mechanization nearly impossible. Modern vineyards increasingly use vertical trellising systems (VSP or Guyot), which reduce labor costs and improve grape quality through lower yields and better canopy management, though they require more vigilant spray programs.
+The parral system also maximizes sun exposure on the vine canopy while shading the clusters from direct sunlight, useful in a region where cloud cover is frequent but UV radiation can be intense when the sun breaks through. However, the system is labor-intensive, requiring hand harvesting and making mechanization nearly impossible. Modern vineyards increasingly use vertical trellising systems (VSP or Guyot), which reduce labor costs and improve grape quality through lower yields and better canopy management, though they require more vigilant spray programs.
 
 ### Temperature and Growing Season
 
-Summer temperatures are moderate, rarely exceeding 30°C, with average July highs around 24-26°C. Nights remain cool even in August, with temperatures often dropping to 14-16°C. This diurnal variation preserves acidity in the grapes—the defining characteristic of Rías Baixas wines. The growing season is long, with harvest typically occurring in September or early October, later than most Spanish regions despite the moderate heat accumulation.
+Summer temperatures are moderate, rarely exceeding 30°C, with average July highs around 24-26°C. Nights remain cool even in August, with temperatures often dropping to 14-16°C. This diurnal variation preserves acidity in the grapes: the defining characteristic of Rías Baixas wines. The growing season is long, with harvest typically occurring in September or early October, later than most Spanish regions despite the moderate heat accumulation.
 
 Frost is rarely a concern. The Atlantic's moderating influence keeps spring temperatures stable, and the region's proximity to sea level (most vineyards sit between 0 and 100 meters elevation) provides additional thermal mass. The greater threat comes from autumn rains during harvest, which can dilute flavors and trigger rot if grapes are left on the vine too long.
 
 ### Climate Change Impacts
 
-Like most European wine regions, Rías Baixas is experiencing climate shifts. Average temperatures have risen approximately 0.8-1.0°C over the past 30 years, and rainfall patterns have become less predictable. Some producers report earlier harvests by 10-14 days compared to the 1990s. The warming trend has generally been positive, improving phenolic ripeness and reducing the vegetal or green characters that plagued underripe Albariño in cooler years. However, the increased frequency of extreme weather events—intense summer heat spikes, violent storms—poses new challenges.
+Like most European wine regions, Rías Baixas is experiencing climate shifts. Average temperatures have risen approximately 0.8-1.0°C over the past 30 years, and rainfall patterns have become less predictable. Some producers report earlier harvests by 10-14 days compared to the 1990s. The warming trend has generally been positive, improving phenolic ripeness and reducing the vegetal or green characters that plagued underripe Albariño in cooler years. However, the increased frequency of extreme weather events (intense summer heat spikes, violent storms) poses new challenges.
 
 The region's inherent coolness provides a buffer against excessive warming. Even with a 2°C increase, Rías Baixas would remain firmly in the cool-climate category, suitable for high-acid white varieties. The greater concern is disease pressure: warmer, wetter conditions favor fungal pathogens, requiring more intensive vineyard management.
 
@@ -42,11 +42,11 @@ The region's inherent coolness provides a buffer against excessive warming. Even
 
 ### Albariño: The Atlantic White
 
-Albariño represents over 95% of plantings in Rías Baixas. This is not a diverse region; it is an Albariño monoculture, for better or worse. The variety's origins have been debated for decades. The popular myth—that Albariño descended from Riesling vines brought by Cistercian monks in the 12th century—is genetically impossible. DNA analysis shows no relationship between Albariño and Riesling.
+Albariño represents over 95% of plantings in Rías Baixas. This is not a diverse region; it is an Albariño monoculture, for better or worse. The variety's origins have been debated for decades. The popular myth (that Albariño descended from Riesling vines brought by Cistercian monks in the 12th century) is genetically impossible. DNA analysis shows no relationship between Albariño and Riesling.
 
 Instead, Albariño is indigenous to the Iberian Peninsula, with genetic links to other Galician varieties. It is identical to Portugal's Alvarinho and closely related to Loureiro, another Vinho Verde grape. Some ampelographers suggest Albariño may be a parent or sibling of Savagnin (Traminer), though this connection remains under investigation. What is certain is that Albariño has been cultivated in Galicia for centuries, well-adapted to the region's wet, maritime conditions.
 
-The vine is moderately vigorous with medium-sized, compact clusters. The berries are small with thick skins—an advantage in wet climates, as the skin provides protection against fungal penetration and berry splitting. Yields can be high if not controlled, particularly on the fertile soils near the coast. Traditional parral systems often produced 80-100 hl/ha or more. Modern quality-focused viticulture targets 50-60 hl/ha, with top estates achieving 40 hl/ha or less through green harvesting and severe pruning.
+The vine is moderately vigorous with medium-sized, compact clusters. The berries are small with thick skins: an advantage in wet climates, as the skin provides protection against fungal penetration and berry splitting. Yields can be high if not controlled, particularly on the fertile soils near the coast. Traditional parral systems often produced 80-100 hl/ha or more. Modern quality-focused viticulture targets 50-60 hl/ha, with top estates achieving 40 hl/ha or less through green harvesting and severe pruning.
 
 Albariño ripens in mid-to-late September, relatively late for Spain but appropriate for Rías Baixas' long, cool growing season. The variety retains acidity well, even in warmer years, with finished wines typically showing 6.5-8.0 g/L total acidity. This natural acidity is the grape's greatest asset, providing structure and aging potential rare in Spanish whites.
 
@@ -68,7 +68,7 @@ While Albariño dominates, DO regulations permit several other white varieties, 
 
 **Caiño Blanco** is an ancient Galician variety nearly extinct until recent revival efforts. It produces high-acid wines with green apple and mineral character, useful for adding structure to blends.
 
-Red varieties exist in tiny quantities—Caiño Tinto, Espadeiro, Mencía—but are insignificant commercially. Rías Baixas is a white wine region, and red production is negligible.
+Red varieties exist in tiny quantities (Caiño Tinto, Espadeiro, Mencía) but are insignificant commercially. Rías Baixas is a white wine region, and red production is negligible.
 
 ## WINES: Styles, Techniques, and Evolution
 
@@ -82,7 +82,7 @@ The aromatic profile includes lemon zest, white peach, green apple, and saline m
 
 ### Sur Lie and Lees-Aged Styles
 
-An increasing number of producers age Albariño on its lees (*sur lie*) for 6-12 months before bottling. The lees—dead yeast cells and other solids—contribute texture, weight, and complexity through autolysis, the breakdown of yeast cell walls. This process releases polysaccharides, which add a creamy, glyceric mouthfeel, and amino acids, which contribute savory, umami-like flavors.
+An increasing number of producers age Albariño on its lees (*sur lie*) for 6-12 months before bottling. The lees (dead yeast cells and other solids) contribute texture, weight, and complexity through autolysis, the breakdown of yeast cell walls. This process releases polysaccharides, which add a creamy, glyceric mouthfeel, and amino acids, which contribute savory, umami-like flavors.
 
 Lees-aged Albariño retains the variety's acidity and fruit character but gains a richer mid-palate and subtle nutty or brioche-like notes. Some producers stir the lees (*bâtonnage*) to increase extraction, while others leave them undisturbed. The technique is borrowed from Muscadet's *sur lie* tradition, though Albariño's more expressive aromatics make the style less austere.
 
@@ -92,13 +92,13 @@ A small but growing category of producers ferment or age Albariño in oak barrel
 
 Older barrels (3-5 years old) or large foudres (500-1,200 liters) are less intrusive, imparting subtle texture and oxidative notes without overt oakiness. Barrel fermentation, as opposed to fermentation in tank followed by barrel aging, integrates oak more seamlessly, as the fermenting wine extracts different compounds than finished wine.
 
-The best oak-aged Albariños show increased complexity and aging potential. They develop tertiary aromas—honey, beeswax, dried apricot—while retaining the variety's core acidity and minerality. These wines can age 10-15 years, evolving in a manner similar to white Burgundy or aged Chenin Blanc. However, the style remains niche, as most consumers associate Rías Baixas with bright, unoaked freshness.
+The best oak-aged Albariños show increased complexity and aging potential. They develop tertiary aromas (honey, beeswax, dried apricot) while retaining the variety's core acidity and minerality. These wines can age 10-15 years, evolving in a manner similar to white Burgundy or aged Chenin Blanc. However, the style remains niche, as most consumers associate Rías Baixas with bright, unoaked freshness.
 
 ### Blends and Experimental Wines
 
 A few producers blend Albariño with Treixadura, Loureiro, or Caiño Blanco to create more complex wines. These blends are more common in the Condado do Tea and O Rosal subzones, where the regulations allow higher percentages of secondary varieties. The blends often show more body and aromatic diversity than pure Albariño, though they sacrifice some of the variety's characteristic precision.
 
-Experimental winemaking—orange wines (extended skin contact), pét-nat (ancestral method sparkling), amphora aging—is emerging but remains marginal. The region's identity is so closely tied to classic Albariño that radical departures risk consumer confusion. Nonetheless, a younger generation of winemakers is exploring these techniques, seeking to differentiate their wines in an increasingly crowded market.
+Experimental winemaking (orange wines (extended skin contact), pét-nat (ancestral method sparkling), amphora aging) is emerging but remains marginal. The region's identity is so closely tied to classic Albariño that radical departures risk consumer confusion. Nonetheless, a younger generation of winemakers is exploring these techniques, seeking to differentiate their wines in an increasingly crowded market.
 
 ## APPELLATIONS: Subzones and Geographic Distinctions
 
@@ -114,7 +114,7 @@ Val do Salnés Albariño is the archetypal style: high acidity, pronounced miner
 
 Located inland along the Miño River, which forms the border with Portugal, Condado do Tea is warmer and drier than Val do Salnés. The subzone receives more continental influence, with slightly higher summer temperatures and less rainfall. Soils include granite but also schist and alluvial deposits along the riverbanks.
 
-Albariño from Condado do Tea shows riper fruit character—peach, apricot, melon—with softer acidity and fuller body (13.0-13.5% alcohol). The wines are more approachable in youth, less austere than Val do Salnés examples. Treixadura is more commonly grown here, and blends of Albariño and Treixadura are traditional. Some producers argue this subzone produces the most age-worthy wines, as the slightly lower acidity allows tertiary flavors to develop without the wine becoming too sharp.
+Albariño from Condado do Tea shows riper fruit character (peach, apricot, melon) with softer acidity and fuller body (13.0-13.5% alcohol). The wines are more approachable in youth, less austere than Val do Salnés examples. Treixadura is more commonly grown here, and blends of Albariño and Treixadura are traditional. Some producers argue this subzone produces the most age-worthy wines, as the slightly lower acidity allows tertiary flavors to develop without the wine becoming too sharp.
 
 ### O Rosal
 
@@ -186,7 +186,7 @@ Castro Martin represents the modern artisanal approach to Rías Baixas: small pr
 
 ### Bodegas Zárate
 
-Eulogio Pomares Zárate is a cult figure in Rías Baixas, farming 4 hectares of old-vine Albariño in the Val do Salnés subzone. His wines are fermented in old chestnut foudres and aged on lees for 12-18 months, producing Albariños of remarkable depth and complexity. The entry-level Zárate Albariño is already impressive, but the single-vineyard wines—El Palomar (from 60-year-old vines) and Tras da Viña—are extraordinary, showing layers of citrus, stone fruit, saline minerality, and subtle oxidative notes.
+Eulogio Pomares Zárate is a cult figure in Rías Baixas, farming 4 hectares of old-vine Albariño in the Val do Salnés subzone. His wines are fermented in old chestnut foudres and aged on lees for 12-18 months, producing Albariños of remarkable depth and complexity. The entry-level Zárate Albariño is already impressive, but the single-vineyard wines (El Palomar (from 60-year-old vines) and Tras da Viña) are extraordinary, showing layers of citrus, stone fruit, saline minerality, and subtle oxidative notes.
 
 Zárate's wines age beautifully, developing tertiary aromas of honey, beeswax, and dried apricot over 10-15 years. They challenge the perception of Albariño as a simple, early-drinking white, demonstrating the variety's potential for greatness.
 

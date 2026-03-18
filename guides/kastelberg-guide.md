@@ -48,7 +48,7 @@ The schist's warmth and drainage characteristics allow for later harvesting with
 
 ## Wine Character
 
-Kastelberg Riesling exhibits a distinctive profile that sets it apart from other Alsace Grand Cru sites. The wines display exceptional purity and precision, with a crystalline quality that reflects the schist foundation. Aromatic profiles typically emphasize citrus notes—lemon, lime, and grapefruit—alongside white flowers, particularly acacia and elderflower. With age, the wines develop more complex aromatics including petrol, honey, beeswax, and wet stone.
+Kastelberg Riesling exhibits a distinctive profile that sets it apart from other Alsace Grand Cru sites. The wines display exceptional purity and precision, with a crystalline quality that reflects the schist foundation. Aromatic profiles typically emphasize citrus notes (lemon, lime, and grapefruit) alongside white flowers, particularly acacia and elderflower. With age, the wines develop more complex aromatics including petrol, honey, beeswax, and wet stone.
 
 The minerality in Kastelberg Riesling is profound and multifaceted. Tasters frequently describe flinty, slate-like, or graphite characteristics, along with a distinctive saline quality that suggests the schist's influence. This mineral backbone provides structure and tension, balancing the wine's fruit intensity and creating a sense of energy and precision. The texture is typically sleek and linear rather than broad or weighty, with a steely spine that carries through the long finish.
 
@@ -86,7 +86,7 @@ The 19th century brought increased renown to Kastelberg, with the site regularly
 
 The renaissance of Kastelberg and other Alsace Grand Cru sites began in earnest during the 1970s and 1980s, driven by a generation of quality-focused vignerons committed to rediscovering and revitalizing the region's greatest terroirs. The establishment of the Alsace Grand Cru appellation in 1975, followed by the individual designation of specific sites including Kastelberg in 1983, provided official recognition of the vineyard's exceptional status.
 
-Within the Alsace wine hierarchy, Kastelberg occupies a prestigious position among connoisseurs and critics, though it remains less famous to casual consumers than larger, more widely distributed Grand Cru sites. This relative obscurity reflects the limited production—fewer than 20,000 bottles annually from the entire Grand Cru—and the wines' uncompromising character that requires patience and understanding to appreciate fully.
+Within the Alsace wine hierarchy, Kastelberg occupies a prestigious position among connoisseurs and critics, though it remains less famous to casual consumers than larger, more widely distributed Grand Cru sites. This relative obscurity reflects the limited production (fewer than 20,000 bottles annually from the entire Grand Cru) and the wines' uncompromising character that requires patience and understanding to appreciate fully.
 
 Kastelberg has earned particular respect among Riesling enthusiasts and terroir-focused critics who value precision, minerality, and aging potential over immediate approachability. The site represents an important counterpoint to richer, more voluptuous Grand Cru terroirs, demonstrating that greatness in wine can manifest as energy and tension rather than power and opulence.
 

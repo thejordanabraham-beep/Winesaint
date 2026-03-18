@@ -16,11 +16,11 @@ The Uhlen encompasses three officially recognized sectors, each with completely 
 
 **Laubach** - Gray slate soil creating wines that bridge the characteristics of the other two sectors
 
-This geological diversity within a single vineyard site allows for fascinating comparisons—wines from the same vintage, same producer, but different Uhlen sectors display markedly different personalities due solely to soil variation.
+This geological diversity within a single vineyard site allows for fascinating comparisons, wines from the same vintage, same producer, but different Uhlen sectors display markedly different personalities due solely to soil variation.
 
 ## Viticultural Challenge
 
-The Uhlen features some of Germany's steepest vineyard slopes. All work must be done by hand, with workers navigating the medieval stairways between terraces. Harvest requires particular skill and care on gradients where a misstep could be dangerous. This extreme difficulty is why many Terrassenmosel vineyards were abandoned in the 20th century—only the most dedicated producers continue cultivating these sites.
+The Uhlen features some of Germany's steepest vineyard slopes. All work must be done by hand, with workers navigating the medieval stairways between terraces. Harvest requires particular skill and care on gradients where a misstep could be dangerous. This extreme difficulty is why many Terrassenmosel vineyards were abandoned in the 20th century, only the most dedicated producers continue cultivating these sites.
 
 The dry stone walls perform crucial functions beyond creating flat planting surfaces: they absorb and radiate heat, moderate temperature swings, and manage water drainage on slopes that would otherwise shed rainfall too rapidly.
 
@@ -38,7 +38,7 @@ The Terrassenmosel's wines often show a unique combination of Mosel delicacy wit
 
 The Uhlen's terraced landscape has been recognized as a monument to German viticultural heritage. The site demonstrates both the dedication of medieval builders and the continuing commitment of modern vintners who maintain these extraordinary vineyards despite their extreme labor demands.
 
-Producers working the Uhlen preserve not just wine quality but an entire cultural landscape that might otherwise be lost to abandonment. The terraces represent irreplaceable historical architecture that cannot be rebuilt with modern methods—their preservation depends on continued viticulture.
+Producers working the Uhlen preserve not just wine quality but an entire cultural landscape that might otherwise be lost to abandonment. The terraces represent irreplaceable historical architecture that cannot be rebuilt with modern methods, their preservation depends on continued viticulture.
 
 ## Modern Recognition
 

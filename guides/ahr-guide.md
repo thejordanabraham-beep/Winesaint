@@ -2,7 +2,7 @@
 
 Germany's smallest quality wine region produces some of its most expensive reds. This is the Ahr Valley, where 560 hectares of vines cling to impossibly steep slopes in one of the world's most northerly red wine regions. The paradox is real: at 50.5°N latitude, the Ahr should struggle to ripen anything darker than Riesling. Instead, 83% of plantings are black varieties, dominated by Spätburgunder (Pinot Noir) that commands prices rivaling top Burgundy.
 
-The secret lies in a fortuitous combination of geology and topography. The Ahr River has carved a narrow, sheltered valley through ancient Devonian bedrock, creating south-facing amphitheaters of dark slate and greywacke that absorb and radiate heat. These are not the gentle slopes of the Mosel. Gradients regularly exceed 60%, forcing hand-harvesting and extreme vineyard labor. But the microclimate works. Growing degree days reach 2,800–3,000 in prime sites—enough for full phenolic ripeness in Pinot Noir, provided you're willing to wait until late October.
+The secret lies in a fortuitous combination of geology and topography. The Ahr River has carved a narrow, sheltered valley through ancient Devonian bedrock, creating south-facing amphitheaters of dark slate and greywacke that absorb and radiate heat. These are not the gentle slopes of the Mosel. Gradients regularly exceed 60%, forcing hand-harvesting and extreme vineyard labor. But the microclimate works. Growing degree days reach 2,800–3,000 in prime sites, enough for full phenolic ripeness in Pinot Noir, provided you're willing to wait until late October.
 
 This is not the Ahr of thirty years ago. In 1988, Stuart Pigott dismissed the region's reds as "presumptuous rosé" floating in a "puddle of mediocrity." Robert Parker was less charitable, writing off German Spätburgunder entirely as "abortive." They were responding to a tradition of late-harvested, sweet-style reds that dominated production through the 1980s. The transformation began in the 1990s, led by estates like Meyer-Näkel, Jean Stodden, and J.J. Adeneuer, who adopted dry fermentation, extended maceration, and new oak aging. Today, top Ahr Spätburgunder experiences international demand and acclaim, representing a rare example of slate-grown Pinot Noir outside the Mosel's white wine tradition.
 
@@ -22,7 +22,7 @@ The Ahr River's course follows a structural weakness in this ancient bedrock, ha
 
 ### Soil Development and Characteristics
 
-Soil depth on these steep slopes is minimal—typically 30–60 centimeters over bedrock. The soils are primarily **rendzinas**: shallow, dark, humus-rich soils developed directly on hard rock through weathering and organic matter accumulation. These skeletal soils contain 40–60% rock fragments, ensuring excellent drainage even in wet years.
+Soil depth on these steep slopes is minimal, typically 30–60 centimeters over bedrock. The soils are primarily **rendzinas**: shallow, dark, humus-rich soils developed directly on hard rock through weathering and organic matter accumulation. These skeletal soils contain 40–60% rock fragments, ensuring excellent drainage even in wet years.
 
 The high slate and greywacke content creates soils that are:
 - **Thermally advantageous**: Dark color absorbs and radiates heat, critical for ripening in a marginal climate
@@ -42,7 +42,7 @@ Additionally, the Ahr's greywacke component has no real equivalent in the Mosel'
 
 ### Continental with Maritime Moderation
 
-The Ahr experiences a transitional climate between maritime and continental influences. The region lies in the rain shadow of the Eifel highlands to the west and south, which block some Atlantic weather systems. Annual precipitation averages 600–700 millimeters, concentrated in summer months—higher than the Mosel (500–600mm) but lower than the Rheingau (700–800mm).
+The Ahr experiences a transitional climate between maritime and continental influences. The region lies in the rain shadow of the Eifel highlands to the west and south, which block some Atlantic weather systems. Annual precipitation averages 600–700 millimeters, concentrated in summer months, higher than the Mosel (500–600mm) but lower than the Rheingau (700–800mm).
 
 Mean annual temperature is approximately 10°C, with growing season (April–October) averages of 15–16°C. This places the Ahr in the cool to moderate climate category by standard classifications. However, these regional averages mask the critical microclimate variations within the valley.
 
@@ -98,7 +98,7 @@ Spätburgunder is synonymous with the modern Ahr. The variety's presence in Germ
 
 **Clonal Selection**: Ahr producers work primarily with traditional German selections and Dijon clones. The older German selections (Spätburgunder Klon Mariafeld, Assmanshausen) produce lower yields with smaller berries and more concentrated flavors, but are disease-prone. Dijon clones (115, 667, 777) offer disease resistance and consistent quality, though some producers argue they lack the complexity of traditional selections.
 
-**Viticulture**: Spätburgunder in the Ahr requires intensive vineyard management. Steep slopes necessitate hand labor for all operations. Vine density ranges from 5,000–7,000 vines/hectare on terraced sites to 8,000–10,000 vines/hectare on newer plantings with vertical trellising. Yields are strictly controlled—top estates target 35–45 hectoliters/hectare, well below the 75 hl/ha maximum for Qualitätswein.
+**Viticulture**: Spätburgunder in the Ahr requires intensive vineyard management. Steep slopes necessitate hand labor for all operations. Vine density ranges from 5,000–7,000 vines/hectare on terraced sites to 8,000–10,000 vines/hectare on newer plantings with vertical trellising. Yields are strictly controlled, top estates target 35–45 hectoliters/hectare, well below the 75 hl/ha maximum for Qualitätswein.
 
 Canopy management is critical. The humid valley environment requires aggressive leaf removal to promote air circulation and reduce disease pressure. However, excessive exposure can lead to sunburn in hot years. Producers increasingly practice selective leaf removal, maintaining some canopy on the afternoon sun side while opening the morning side completely.
 
@@ -200,7 +200,7 @@ Blanc de Noirs (white wine from red grapes) remains rare but is gaining interest
 
 ## APPELLATIONS: A Single-Region System
 
-The Ahr operates under a simplified appellation structure compared to regions like Burgundy or the Rheingau. The entire region constitutes a single **Anbaugebiet** (wine-growing region) under German wine law. Within this, there are no official sub-regions or Bereiche—the Ahr is too small to warrant subdivision.
+The Ahr operates under a simplified appellation structure compared to regions like Burgundy or the Rheingau. The entire region constitutes a single **Anbaugebiet** (wine-growing region) under German wine law. Within this, there are no official sub-regions or Bereiche: the Ahr is too small to warrant subdivision.
 
 ### Village Designations
 
@@ -323,7 +323,7 @@ Meyer-Näkel's approach combines Burgundian techniques with Ahr terroir. Extende
 
 **"G"**: Reserve wine from the best barrels in top vintages. Limited production. Extended aging. Collectors' wine.
 
-Meyer-Näkel's wines show darker fruit, firm tannins, and pronounced mineral character. They require patience—5+ years for top cuvées—but age gracefully for 15 years or more.
+Meyer-Näkel's wines show darker fruit, firm tannins, and pronounced mineral character. They require patience (5+ years for top cuvées) but age gracefully for 15 years or more.
 
 ### Weingut Jean Stodden
 

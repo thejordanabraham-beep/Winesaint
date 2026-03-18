@@ -1,34 +1,34 @@
 # Dundee Hills: Oregon's Volcanic Heartland
 
-The Dundee Hills AVA is where Oregon wine began—and where it continues to make its most compelling argument. When David Lett planted the Willamette Valley's first Pinot Noir vines here in 1965, he chose this specific terrain for reasons that remain valid today: red volcanic soils, elevated slopes that dodge frost, and a microclimate that ripens Pinot Noir without overripening it. This is not romantic storytelling. The Dundee Hills produces what many consider the Willamette Valley's most delicate and perfumed Pinot Noir—wines with a specific aromatic signature that distinguishes them from neighboring AVAs.
+The Dundee Hills AVA is where Oregon wine began, and where it continues to make its most compelling argument. When David Lett planted the Willamette Valley's first Pinot Noir vines here in 1965, he chose this specific terrain for reasons that remain valid today: red volcanic soils, elevated slopes that dodge frost, and a microclimate that ripens Pinot Noir without overripening it. This is not romantic storytelling. The Dundee Hills produces what many consider the Willamette Valley's most delicate and perfumed Pinot Noir, wines with a specific aromatic signature that distinguishes them from neighboring AVAs.
 
 The statistics tell part of the story. With 2,225 acres under vine across a 12,500-acre appellation, the Dundee Hills is the most densely planted region in Oregon. But density alone doesn't explain its reputation. The explanation lies beneath the surface.
 
 ## The Jory Soil Paradigm
 
-The original petition for this AVA requested the name "Red Hills of Dundee," and the reasoning was geological. The Dundee Hills are blanketed almost uniformly in Jory series soils—deep, iron-rich, well-drained volcanic soils that give the landscape its distinctive russet color. This is the defining characteristic of the appellation.
+The original petition for this AVA requested the name "Red Hills of Dundee," and the reasoning was geological. The Dundee Hills are blanketed almost uniformly in Jory series soils, deep, iron-rich, well-drained volcanic soils that give the landscape its distinctive russet color. This is the defining characteristic of the appellation.
 
-Jory soils formed from weathered basalt lava flows deposited during the Miocene epoch, roughly 15-17 million years ago. The iron oxides that give Jory its red color also influence vine behavior: these soils are low in fertility, forcing vines to struggle appropriately. They drain exceptionally well, even during Oregon's wet winters and springs. Root systems penetrate deep—often 10-15 feet—seeking nutrients in the fractured basalt below.
+Jory soils formed from weathered basalt lava flows deposited during the Miocene epoch, roughly 15-17 million years ago. The iron oxides that give Jory its red color also influence vine behavior: these soils are low in fertility, forcing vines to struggle appropriately. They drain exceptionally well, even during Oregon's wet winters and springs. Root systems penetrate deep (often 10-15 feet) seeking nutrients in the fractured basalt below.
 
-**The contrast with neighboring AVAs is stark.** Drive west into Yamhill-Carlton District and the red soils disappear, replaced by marine sedimentary soils—ancient ocean floor lifted by tectonic forces. Head north into Chehalem Mountains and you encounter a geological chaos: volcanic, sedimentary, and loess soils intermixed across the range. The Dundee Hills' geological uniformity is unusual for the Willamette Valley, where soil diversity typically defines appellation boundaries.
+**The contrast with neighboring AVAs is stark.** Drive west into Yamhill-Carlton District and the red soils disappear, replaced by marine sedimentary soils, ancient ocean floor lifted by tectonic forces. Head north into Chehalem Mountains and you encounter a geological chaos: volcanic, sedimentary, and loess soils intermixed across the range. The Dundee Hills' geological uniformity is unusual for the Willamette Valley, where soil diversity typically defines appellation boundaries.
 
 Does this uniformity translate to uniform wines? No. But it does establish a baseline character: Dundee Hills Pinot Noir tends toward aromatic intensity, red fruit dominance, and refined tannin structure rather than the darker fruit and earthier profiles found in sedimentary-soil AVAs.
 
 ## Elevation and Microclimate: The Practical Advantages
 
-The Dundee Hills rise from 200 feet above sea level at their base to 1,067 feet at their highest summit—the tallest point in the northern Willamette Valley's vine-growing terrain. Most vineyards sit between 250 and 700 feet, positioned on slopes with varying aspects and exposures.
+The Dundee Hills rise from 200 feet above sea level at their base to 1,067 feet at their highest summit: the tallest point in the northern Willamette Valley's vine-growing terrain. Most vineyards sit between 250 and 700 feet, positioned on slopes with varying aspects and exposures.
 
-This elevation matters practically. Valley floors accumulate cold air at night; hillside vineyards sit above these frost pockets. Air drainage is superior on slopes, reducing humidity and botrytis pressure during critical ripening periods. The hills lift vineyards out of the valley floor's vigorous, flood-deposited soils—fertile ground that produces vegetation, not quality wine grapes.
+This elevation matters practically. Valley floors accumulate cold air at night; hillside vineyards sit above these frost pockets. Air drainage is superior on slopes, reducing humidity and botrytis pressure during critical ripening periods. The hills lift vineyards out of the valley floor's vigorous, flood-deposited soils, fertile ground that produces vegetation, not quality wine grapes.
 
 The Dundee Hills run north-south with lateral ridges extending east-west, creating diverse mesoclimates within the appellation. South-facing slopes receive more direct sunlight and ripen earlier; north-facing sites stay cooler and extend hang time. East-facing vineyards catch morning sun but avoid afternoon heat spikes; west-facing sites benefit from longer afternoon warmth but face increased exposure to Pacific weather systems.
 
-**Temperature moderation is key.** The Willamette Valley and Burgundy's Côte d'Or both fall into Region I on the Winkler Scale (fewer than 2,500 growing degree days), but they achieve similar averages differently. Burgundy's season compresses into shorter, more intense summer heat spikes. The Willamette Valley's maritime influence—Pacific air flowing through the Coast Range gaps—extends the growing season and moderates temperature extremes. Pinot Noir ripens slowly here, accumulating flavor complexity without sugar spikes.
+**Temperature moderation is key.** The Willamette Valley and Burgundy's Côte d'Or both fall into Region I on the Winkler Scale (fewer than 2,500 growing degree days), but they achieve similar averages differently. Burgundy's season compresses into shorter, more intense summer heat spikes. The Willamette Valley's maritime influence (Pacific air flowing through the Coast Range gaps) extends the growing season and moderates temperature extremes. Pinot Noir ripens slowly here, accumulating flavor complexity without sugar spikes.
 
 ## The Historic Core: Legendary Sites and Pioneering Producers
 
-The Eyrie Vineyards' original planting in 1965 established the Dundee Hills as Oregon's Pinot Noir proving ground. David Lett's selection of this specific site—not just "Oregon" or "Willamette Valley," but these particular red hills—demonstrated viticultural instinct that subsequent decades validated. His son Jason now tends five Eyrie vineyard sites within the AVA, including the original South Block planting.
+The Eyrie Vineyards' original planting in 1965 established the Dundee Hills as Oregon's Pinot Noir proving ground. David Lett's selection of this specific site (not just "Oregon" or "Willamette Valley," but these particular red hills) demonstrated viticultural instinct that subsequent decades validated. His son Jason now tends five Eyrie vineyard sites within the AVA, including the original South Block planting.
 
-When Robert Drouhin of Maison Joseph Drouhin purchased 180 acres in the Dundee Hills in 1987 and declared his family would grow Pinot Noir in two places—Burgundy and Oregon—the decision carried weight. Burgundy's most respected négociant-éleveurs don't invest casually. His daughter Véronique Drouhin-Boss made Domaine Drouhin Oregon's first vintage in 1988, applying Burgundian techniques to Dundee Hills fruit. The estate's terraced vineyards and gravity-flow winery set standards for quality-focused Oregon production.
+When Robert Drouhin of Maison Joseph Drouhin purchased 180 acres in the Dundee Hills in 1987 and declared his family would grow Pinot Noir in two places (Burgundy and Oregon) the decision carried weight. Burgundy's most respected négociant-éleveurs don't invest casually. His daughter Véronique Drouhin-Boss made Domaine Drouhin Oregon's first vintage in 1988, applying Burgundian techniques to Dundee Hills fruit. The estate's terraced vineyards and gravity-flow winery set standards for quality-focused Oregon production.
 
 **The AVA's producer roster reads like Oregon wine history:**
 
@@ -45,7 +45,7 @@ Certain vineyard names carry premium pricing and collector demand. These sites h
 
 **Abbey Ridge**: Located on the southern end of the Dundee Hills, this vineyard's elevation (500-700 feet) and exposure produce structured, age-worthy Pinot Noir with darker fruit profiles than typical for the AVA.
 
-**Thomas Vineyard**: A cooler site that ripens later, producing wines with pronounced acidity and tension—closer to Burgundian structure than the riper, more fruit-forward style some associate with Oregon.
+**Thomas Vineyard**: A cooler site that ripens later, producing wines with pronounced acidity and tension, closer to Burgundian structure than the riper, more fruit-forward style some associate with Oregon.
 
 These vineyards demonstrate that even within the Jory soil paradigm, site-specific variation exists. Elevation, aspect, vine age, and farming practices create distinct wine profiles.
 
@@ -53,21 +53,21 @@ These vineyards demonstrate that even within the Jory soil paradigm, site-specif
 
 What does Dundee Hills Pinot Noir taste like? The question demands specificity.
 
-**Aromatic profile**: High-toned red fruits dominate—cherry, cranberry, raspberry—rather than the darker, blacker fruits found in warmer sites or sedimentary soils. Floral notes are prominent: rose petals, violet, sometimes lavender. Spice elements lean toward baking spices (cinnamon, clove) rather than peppery notes. With age, forest floor, mushroom, and truffle notes develop.
+**Aromatic profile**: High-toned red fruits dominate (cherry, cranberry, raspberry) rather than the darker, blacker fruits found in warmer sites or sedimentary soils. Floral notes are prominent: rose petals, violet, sometimes lavender. Spice elements lean toward baking spices (cinnamon, clove) rather than peppery notes. With age, forest floor, mushroom, and truffle notes develop.
 
-**Structure**: Tannins are typically fine-grained and silky rather than grippy or muscular. The Jory soils' iron content may contribute to a specific textural element—a subtle mineral grip beneath the fruit. Acidity is pronounced but integrated; the cool climate preserves natural acidity without requiring acidulation.
+**Structure**: Tannins are typically fine-grained and silky rather than grippy or muscular. The Jory soils' iron content may contribute to a specific textural element: a subtle mineral grip beneath the fruit. Acidity is pronounced but integrated; the cool climate preserves natural acidity without requiring acidulation.
 
-**Body and alcohol**: Moderate rather than heavy. Alcohol levels typically range from 13-14%, occasionally reaching 14.5% in warmer vintages. The wines feel energetic rather than weighty—this is not California Pinot Noir.
+**Body and alcohol**: Moderate rather than heavy. Alcohol levels typically range from 13-14%, occasionally reaching 14.5% in warmer vintages. The wines feel energetic rather than weighty: this is not California Pinot Noir.
 
 **Comparison to neighboring AVAs**: Yamhill-Carlton District Pinot Noir, grown on marine sedimentary soils, tends toward earthier, more savory profiles with darker fruit. Ribbon Ridge, with its sedimentary Willakenzie soils, produces wines with more obvious structure and tannic grip. Eola-Amity Hills, influenced by the Van Duzer wind corridor, shows more fruit concentration and power. The Dundee Hills occupies the aromatic, elegant end of the Willamette Valley spectrum.
 
 ## Viticulture in the Red Hills: Adapting to Volcanic Soils
 
-Jory soils present specific viticultural challenges and opportunities. Their low fertility naturally limits vine vigor—desirable for quality wine production. However, their depth (often 4-6 feet of topsoil over fractured basalt) allows vigorous rootstock to establish extensive root systems, which can lead to excessive vegetative growth if not managed.
+Jory soils present specific viticultural challenges and opportunities. Their low fertility naturally limits vine vigor, desirable for quality wine production. However, their depth (often 4-6 feet of topsoil over fractured basalt) allows vigorous rootstock to establish extensive root systems, which can lead to excessive vegetative growth if not managed.
 
 **Common viticultural practices include:**
 
-- **Vine spacing**: Typically 4-6 feet between vines, 6-8 feet between rows, achieving densities of 1,200-1,800 vines per acre—lower than Burgundy's 4,000+ vines per acre but appropriate for Oregon's vigor levels
+- **Vine spacing**: Typically 4-6 feet between vines, 6-8 feet between rows, achieving densities of 1,200-1,800 vines per acre, lower than Burgundy's 4,000+ vines per acre but appropriate for Oregon's vigor levels
 - **Trellising**: Vertical shoot positioning (VSP) dominates, though some producers experiment with Scott Henry or other divided-canopy systems
 - **Pruning**: Mix of cordon and cane pruning; cane pruning (Guyot) is more labor-intensive but offers better crop control
 - **Cover crops**: Essential for managing vigor and improving soil health; typical mixes include grasses, legumes, and brassicas
@@ -77,13 +77,13 @@ Jory soils present specific viticultural challenges and opportunities. Their low
 
 ## Clones and Rootstocks: The Genetic Foundation
 
-Oregon's Pinot Noir plantings initially relied on "suitcase clones"—selections brought illegally from Burgundy in the 1960s and 70s. These heritage selections, including Pommard and Wädenswil, still exist in older Dundee Hills vineyards.
+Oregon's Pinot Noir plantings initially relied on "suitcase clones", selections brought illegally from Burgundy in the 1960s and 70s. These heritage selections, including Pommard and Wädenswil, still exist in older Dundee Hills vineyards.
 
 Modern plantings employ diverse clonal selections:
 
 - **Dijon clones** (114, 115, 667, 777): Imported legally in the 1980s-90s, these produce aromatic, structured wines well-suited to Dundee Hills terroir
 - **Pommard**: A workhorse clone producing reliable crops with good color and structure
-- **Wädenswil**: Lower yields, smaller berries, intense aromatics—prized for quality-focused production
+- **Wädenswil**: Lower yields, smaller berries, intense aromatics, prized for quality-focused production
 - **Swan selection**: Propagated from Joseph Swan's California vineyard, popular for its aromatic intensity
 
 **Rootstock selection** focuses on managing Jory soils' depth and potential vigor. Common choices include:
@@ -92,7 +92,7 @@ Modern plantings employ diverse clonal selections:
 - **Riparia Gloire**: Low vigor, suited to fertile sites
 - **101-14**: Moderate vigor, widely adapted
 
-The trend toward field blends—mixing multiple clones in a single vineyard block—aims to increase complexity and hedge against vintage variation.
+The trend toward field blends (mixing multiple clones in a single vineyard block) aims to increase complexity and hedge against vintage variation.
 
 ## Winemaking Approaches: Minimal Intervention to Burgundian Technique
 
@@ -123,18 +123,18 @@ Other varieties exist in small quantities: Pinot Gris (typically made in a riche
 
 ## Vintage Variation: The Oregon Reality
 
-Oregon vintages vary significantly—more so than California, less so than Burgundy. The maritime climate brings vintage uncertainty that keeps growers humble.
+Oregon vintages vary significantly, more so than California, less so than Burgundy. The maritime climate brings vintage uncertainty that keeps growers humble.
 
 **Recent vintage character:**
 
-- **2022**: Cool, extended growing season; lower alcohol, high acidity, aromatic intensity—classic Dundee Hills style
+- **2022**: Cool, extended growing season; lower alcohol, high acidity, aromatic intensity, classic Dundee Hills style
 - **2021**: Heat dome event in late June stressed vines; quality varied by site and farming; better wines show concentration without heaviness
 - **2020**: Wildfire smoke impacted late-season fruit; early-picked wines avoided smoke taint
 - **2019**: Textbook vintage; balanced, structured wines with aging potential
 - **2018**: Warm, generous vintage; ripe fruit, approachable young but may lack aging tension
 - **2017**: Cool year; wines show elegance and restraint
 - **2016**: Warm vintage; powerful, concentrated wines
-- **2015**: Exceptional—warm but not hot, producing structured, complex wines with aging potential
+- **2015**: Exceptional, warm but not hot, producing structured, complex wines with aging potential
 
 **The pattern**: Warm vintages (2015, 2016, 2018) produce riper, more immediately approachable wines. Cool vintages (2017, 2022) yield more structured, age-worthy bottles that require patience. The best producers make outstanding wine in both scenarios, adapting techniques to vintage conditions.
 
@@ -165,7 +165,7 @@ For those wanting to understand Dundee Hills terroir through the glass:
 The wines' moderate body, pronounced acidity, and aromatic intensity make them versatile at the table.
 
 **Classic pairings:**
-- **Duck**: The traditional Burgundian pairing works perfectly—duck breast with cherry gastrique, duck confit, or roasted duck with root vegetables
+- **Duck**: The traditional Burgundian pairing works perfectly, duck breast with cherry gastrique, duck confit, or roasted duck with root vegetables
 - **Salmon**: Oregon's other famous product; grilled king salmon or slow-roasted Chinook salmon with herbs
 - **Mushrooms**: The wines' earthy undertones complement wild mushroom risotto, mushroom tart, or simple sautéed chanterelles
 - **Pork**: Roasted pork loin, pork tenderloin with fruit compote, or grilled pork chops
@@ -180,21 +180,21 @@ The wines' moderate body, pronounced acidity, and aromatic intensity make them v
 
 ## The Dundee Hills Today: Challenges and Evolution
 
-The AVA faces contemporary challenges. Land prices have skyrocketed—prime vineyard land now commands $75,000-150,000 per acre, limiting new development. Climate change brings earlier harvests (now typically mid-September versus late September/early October in the 1980s) and occasional heat extremes (the 2021 heat dome reached 116°F in Portland).
+The AVA faces contemporary challenges. Land prices have skyrocketed, prime vineyard land now commands $75,000-150,000 per acre, limiting new development. Climate change brings earlier harvests (now typically mid-September versus late September/early October in the 1980s) and occasional heat extremes (the 2021 heat dome reached 116°F in Portland).
 
 Water availability is increasingly uncertain. Summer drought has become more pronounced, making irrigation infrastructure essential for new plantings. Some producers are experimenting with dry farming on established sites, but young vines require supplemental water.
 
 **The positive evolution**: Farming has improved dramatically. The first generation of Oregon vintners learned on the job; today's generation benefits from UC Davis research, Burgundian consultation, and 50+ years of site-specific knowledge. Organic and biodynamic practices are mainstream rather than fringe. Clonal diversity and rootstock selection are informed by data rather than guesswork.
 
-Winemaking has become more precise. Temperature-controlled fermentation, sophisticated sorting equipment, and better barrel programs have raised baseline quality. The question is no longer whether Oregon can make great Pinot Noir—it's which sites and producers make the greatest wines.
+Winemaking has become more precise. Temperature-controlled fermentation, sophisticated sorting equipment, and better barrel programs have raised baseline quality. The question is no longer whether Oregon can make great Pinot Noir, it's which sites and producers make the greatest wines.
 
 ## Conclusion: The Argument Continues
 
-David Lett's original proposition—that the Dundee Hills could produce world-class Pinot Noir—has been proven. The 1975 Eyrie Vineyards South Block Pinot Noir's performance at the 1979 Gault-Millau Wine Olympiad (placing third among Burgundies, ahead of several grand crus) provided early evidence. Subsequent decades have confirmed it.
+David Lett's original proposition (that the Dundee Hills could produce world-class Pinot Noir) has been proven. The 1975 Eyrie Vineyards South Block Pinot Noir's performance at the 1979 Gault-Millau Wine Olympiad (placing third among Burgundies, ahead of several grand crus) provided early evidence. Subsequent decades have confirmed it.
 
-But the Dundee Hills' significance extends beyond validation. This AVA demonstrates that great wine requires specific places, not just favorable climates. The Jory soils, the elevation, the microclimate—these aren't incidental details. They're the foundation of a distinct wine style that couldn't be replicated elsewhere in the Willamette Valley, let alone outside Oregon.
+But the Dundee Hills' significance extends beyond validation. This AVA demonstrates that great wine requires specific places, not just favorable climates. The Jory soils, the elevation, the microclimate: these aren't incidental details. They're the foundation of a distinct wine style that couldn't be replicated elsewhere in the Willamette Valley, let alone outside Oregon.
 
-The wines' aromatic precision, structural elegance, and aging potential place them in conversation with Burgundy—not as imitations, but as parallel expressions of Pinot Noir's site-specific potential. That's the achievement worth celebrating.
+The wines' aromatic precision, structural elegance, and aging potential place them in conversation with Burgundy, not as imitations, but as parallel expressions of Pinot Noir's site-specific potential. That's the achievement worth celebrating.
 
 ---
 

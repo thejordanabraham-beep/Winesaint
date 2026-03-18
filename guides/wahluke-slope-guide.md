@@ -4,7 +4,7 @@
 
 The Wahluke Slope AVA represents one of Washington State's most distinctive and productive viticultural regions, occupying a unique position along the north bank of the Columbia River within the vast Columbia Valley AVA. Officially designated on January 6, 2006, this AVA encompasses approximately 81,000 acres, with over 8,600 acres currently under vine, making it one of the Columbia Valley's most significant grape-growing regions by planted acreage.
 
-Geographically, the Wahluke Slope stretches along a south-facing slope that runs roughly from Vantage in the west to the Hanford Reach in the east, bounded by the Saddle Mountains to the north and the Columbia River to the south. This positioning is crucial to the region's viticultural identity—the term "Wahluke" derives from a Yakama Nation word meaning "watering place," referencing the life-giving presence of the Columbia River in this otherwise arid desert landscape.
+Geographically, the Wahluke Slope stretches along a south-facing slope that runs roughly from Vantage in the west to the Hanford Reach in the east, bounded by the Saddle Mountains to the north and the Columbia River to the south. This positioning is crucial to the region's viticultural identity: the term "Wahluke" derives from a Yakama Nation word meaning "watering place," referencing the life-giving presence of the Columbia River in this otherwise arid desert landscape.
 
 The AVA lies approximately 150 miles east of Seattle and about 30 miles northeast of the Tri-Cities (Richland, Kennewick, and Pasco), placing it in the geographic heart of Washington wine country. The region sits within Grant County and falls entirely within the boundaries of the larger Columbia Valley AVA, which itself spans nearly 11 million acres across Washington and into Oregon.
 
@@ -12,7 +12,7 @@ The Wahluke Slope's isolation and relatively sparse development contribute to it
 
 ## Climate & Geography
 
-The Wahluke Slope possesses one of the most extreme and distinctive climates among Washington's AVAs, characterized by a desert continental climate with dramatic diurnal temperature shifts that prove ideal for premium grape production. This region consistently ranks among the warmest growing areas in Washington State, accumulating between 2,800 and 3,000 growing degree days (GDD) annually, placing it firmly in Region III on the Winkler scale—comparable to regions like Napa Valley or the Rhône Valley.
+The Wahluke Slope possesses one of the most extreme and distinctive climates among Washington's AVAs, characterized by a desert continental climate with dramatic diurnal temperature shifts that prove ideal for premium grape production. This region consistently ranks among the warmest growing areas in Washington State, accumulating between 2,800 and 3,000 growing degree days (GDD) annually, placing it firmly in Region III on the Winkler scale, comparable to regions like Napa Valley or the Rhône Valley.
 
 The defining climatic feature is the remarkable temperature swing between day and night. Summer days regularly reach 90-100°F, allowing grapes to develop full phenolic ripeness and sugar accumulation, while nighttime temperatures frequently drop 40-50°F, often dipping into the 50s even in mid-summer. This diurnal shift is crucial for preserving natural acidity in grapes, preventing the flabby, overripe characteristics that can plague warm-climate wines. The cool nights allow grapes to rest metabolically, maintaining freshness while continuing to build flavor complexity.
 
@@ -26,7 +26,7 @@ Wind is a significant factor, with consistent breezes flowing through the Columb
 
 ## Terroir & Soils
 
-The Wahluke Slope's terroir is fundamentally shaped by one of North America's most dramatic geological events: the Missoula Floods. Between 15,000 and 13,000 years ago, a series of catastrophic floods occurred when ice dams holding back Glacial Lake Missoula in present-day Montana repeatedly burst, sending massive volumes of water—at flows estimated to exceed all current rivers on Earth combined—across eastern Washington. These floods scoured the Columbia Basin, carved coulees and channels, and deposited vast quantities of sediment across the landscape.
+The Wahluke Slope's terroir is fundamentally shaped by one of North America's most dramatic geological events: the Missoula Floods. Between 15,000 and 13,000 years ago, a series of catastrophic floods occurred when ice dams holding back Glacial Lake Missoula in present-day Montana repeatedly burst, sending massive volumes of water (at flows estimated to exceed all current rivers on Earth combined) across eastern Washington. These floods scoured the Columbia Basin, carved coulees and channels, and deposited vast quantities of sediment across the landscape.
 
 The result is a soil profile unique among the world's wine regions: deep deposits of well-drained, low-fertility sandy loam mixed with wind-deposited loess and alluvial sediments. Wahluke Slope soils typically feature:
 
@@ -38,9 +38,9 @@ The result is a soil profile unique among the world's wine regions: deep deposit
 
 Soil depths typically range from 3 to 6 feet or more before reaching caliche layers or gravel beds, providing ample root zone for vine development. The pH generally runs between 7.0 and 8.5, alkaline but manageable with proper vineyard nutrition programs.
 
-The sandy, well-drained nature of these soils offers several viticultural advantages. Excellent drainage prevents waterlogging and allows precise irrigation control—crucial for managing vine vigor and fruit quality. The low nutrient content naturally restricts vegetative growth, directing vine energy toward fruit production rather than excessive canopy. The sandy texture also warms quickly in spring, promoting early season growth, and facilitates deep rooting as vines search for water and nutrients.
+The sandy, well-drained nature of these soils offers several viticultural advantages. Excellent drainage prevents waterlogging and allows precise irrigation control, crucial for managing vine vigor and fruit quality. The low nutrient content naturally restricts vegetative growth, directing vine energy toward fruit production rather than excessive canopy. The sandy texture also warms quickly in spring, promoting early season growth, and facilitates deep rooting as vines search for water and nutrients.
 
-These soils are phylloxera-free, allowing vines to be planted on their own roots rather than grafted rootstock—though many producers still use grafted vines to control vigor and optimize fruit quality. The mineralogy imparts subtle textural characteristics to wines, particularly a fine-grained tannic structure in reds and a mineral tension in whites that many winemakers attribute to the region's unique geology.
+These soils are phylloxera-free, allowing vines to be planted on their own roots rather than grafted rootstock, though many producers still use grafted vines to control vigor and optimize fruit quality. The mineralogy imparts subtle textural characteristics to wines, particularly a fine-grained tannic structure in reds and a mineral tension in whites that many winemakers attribute to the region's unique geology.
 
 ## Viticulture
 
@@ -56,7 +56,7 @@ Red varieties dominate plantings, capitalizing on the region's heat accumulation
 
 **Syrah** has emerged as a star variety, producing wines with blackberry, pepper, and grilled meat characteristics reminiscent of warm-climate Rhône wines but with Washington's signature acidity and freshness.
 
-**Riesling** represents the primary white variety, achieving full ripeness while retaining bright acidity—a combination that allows production of everything from bone-dry to dessert styles. Wahluke Slope Riesling typically shows ripe stone fruit and tropical notes with a distinctive mineral backbone.
+**Riesling** represents the primary white variety, achieving full ripeness while retaining bright acidity: a combination that allows production of everything from bone-dry to dessert styles. Wahluke Slope Riesling typically shows ripe stone fruit and tropical notes with a distinctive mineral backbone.
 
 **Chardonnay** performs well, producing ripe, generous wines with apple, pear, and tropical fruit characteristics suitable for various winemaking styles.
 
@@ -88,7 +88,7 @@ Challenges include water availability and cost (though generally reliable throug
 
 ## Wine Styles
 
-Wahluke Slope wines express a distinctive profile that sets them apart within Washington's diverse wine landscape—combining the power and ripeness of a warm climate with the structure, acidity, and freshness associated with Washington State viticulture.
+Wahluke Slope wines express a distinctive profile that sets them apart within Washington's diverse wine landscape, combining the power and ripeness of a warm climate with the structure, acidity, and freshness associated with Washington State viticulture.
 
 **Red Wines**
 
@@ -98,13 +98,13 @@ Wahluke Slope reds are characterized by generous, ripe fruit expression with sup
 
 **Cabernet Sauvignon**: Ripe and concentrated with cassis, blackberry, and dark cherry fruit layered with cedar, tobacco, and graphite notes. Compared to cooler regions like Red Mountain or Walla Walla, Wahluke Slope Cabernet shows more immediately accessible fruit with softer tannins, though serious examples display firm structure and aging potential of 10-15 years.
 
-**Syrah**: Perhaps the most exciting development, Wahluke Slope Syrah combines New World ripeness with Old World character—blackberry and blueberry fruit with olive tapenade, black pepper, smoked meat, and violets. These wines typically show more power than cool-climate Washington Syrah while maintaining varietal character, unlike overripe versions from hotter regions.
+**Syrah**: Perhaps the most exciting development, Wahluke Slope Syrah combines New World ripeness with Old World character, blackberry and blueberry fruit with olive tapenade, black pepper, smoked meat, and violets. These wines typically show more power than cool-climate Washington Syrah while maintaining varietal character, unlike overripe versions from hotter regions.
 
 **Red Blends**: Bordeaux-style blends are common, typically Cabernet Sauvignon-based with Merlot, Cabernet Franc, Malbec, and Petit Verdot providing complexity. These blends often represent excellent value, offering complexity and polish at accessible prices.
 
 **White Wines**
 
-**Riesling**: Wahluke Slope Riesling occupies a distinctive niche—riper and rounder than cool-climate versions from the Ancient Lakes or Yakima Valley, yet retaining bracing acidity and mineral character. Expect ripe peach, apricot, pineapple, and mango fruit with honeyed notes, underscored by citrus acidity and stony minerality. Styles range from bone-dry to late-harvest, with many producers crafting off-dry versions that balance fruit sweetness with refreshing acidity.
+**Riesling**: Wahluke Slope Riesling occupies a distinctive niche, riper and rounder than cool-climate versions from the Ancient Lakes or Yakima Valley, yet retaining bracing acidity and mineral character. Expect ripe peach, apricot, pineapple, and mango fruit with honeyed notes, underscored by citrus acidity and stony minerality. Styles range from bone-dry to late-harvest, with many producers crafting off-dry versions that balance fruit sweetness with refreshing acidity.
 
 **Chardonnay**: Ripe and generous with apple, pear, melon, and tropical fruit, capable of supporting oak aging and malolactic fermentation while retaining freshness. These Chardonnays show fuller body and richer texture than cooler Washington sites.
 
@@ -148,7 +148,7 @@ While Wahluke Slope functions primarily as a grape-growing region rather than a 
 
 **col solare**: This joint venture involving Tuscany's Marchesi Antinori sources some fruit from Wahluke Slope for their premium Bordeaux-style blends, lending international credibility to the region's quality.
 
-Numerous other Washington wineries—including Chateau Ste. Michelle, Columbia Crest, Charles Smith Wines, K Vintners, and many smaller producers—source significant fruit from Wahluke Slope vineyards, often producing vineyard-designated bottlings that showcase specific sites.
+Numerous other Washington wineries, including Chateau Ste. Michelle, Columbia Crest, Charles Smith Wines, K Vintners, and many smaller producers, source significant fruit from Wahluke Slope vineyards, often producing vineyard-designated bottlings that showcase specific sites.
 
 **Benchmark Wines**
 
@@ -171,7 +171,7 @@ Visitors can tour vineyard areas by car, observing the scale and scope of Wahluk
 
 Most Wahluke Slope wines are best experienced by visiting wineries in Woodinville, Walla Walla, or other Washington wine centers that source fruit from the region, or by seeking vineyard-designated bottlings at retail.
 
-The region's isolation—while challenging for tourism development—preserves its agricultural character and offers visitors willing to venture off the beaten path an authentic glimpse into the working landscape that supplies much of Washington's wine production.
+The region's isolation (while challenging for tourism development) preserves its agricultural character and offers visitors willing to venture off the beaten path an authentic glimpse into the working landscape that supplies much of Washington's wine production.
 
 **Development and Trends**
 
@@ -195,6 +195,6 @@ The Wahluke Slope's future appears bright. The region's combination of reliable 
 
 The region may see modest increases in winery development and tourism infrastructure, though its primary identity as a vineyard area will likely persist. Greater consumer awareness of Wahluke Slope as a distinct AVA with recognizable characteristics should drive increased vineyard designation on wine labels and enhanced market recognition.
 
-Climate change may actually benefit Wahluke Slope's standing—as traditionally cooler Washington regions warm, Wahluke Slope's experience with warm-climate viticulture and heat management positions it as a knowledge leader. The region's experimentation with Mediterranean and warm-climate varieties may prove prescient as the Washington wine industry adapts to changing conditions.
+Climate change may actually benefit Wahluke Slope's standing, as traditionally cooler Washington regions warm, Wahluke Slope's experience with warm-climate viticulture and heat management positions it as a knowledge leader. The region's experimentation with Mediterranean and warm-climate varieties may prove prescient as the Washington wine industry adapts to changing conditions.
 
-Ultimately, Wahluke Slope represents an essential component of Washington wine's success story—a reliable source of quality fruit that helps wineries maintain consistency across vintages while offering distinctive terroir expression when wines are crafted to showcase the region's unique characteristics. For wine professionals and enthusiasts, understanding Wahluke Slope provides crucial insight into Washington wine's present success and future potential.
+Ultimately, Wahluke Slope represents an essential component of Washington wine's success story: a reliable source of quality fruit that helps wineries maintain consistency across vintages while offering distinctive terroir expression when wines are crafted to showcase the region's unique characteristics. For wine professionals and enthusiasts, understanding Wahluke Slope provides crucial insight into Washington wine's present success and future potential.

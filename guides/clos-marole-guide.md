@@ -48,7 +48,7 @@ Rainfall distribution throughout the year generally favors quality viticulture, 
 
 ## Viticulture
 
-Clos Marole is planted exclusively to Pinot Noir, reflecting both traditional practice and the terroir's particular aptitude for Burgundy's noble red grape variety. The absence of Chardonnay plantings in this climat represents a conscious recognition that the site's characteristics—particularly its soil composition and exposition—optimize red wine production.
+Clos Marole is planted exclusively to Pinot Noir, reflecting both traditional practice and the terroir's particular aptitude for Burgundy's noble red grape variety. The absence of Chardonnay plantings in this climat represents a conscious recognition that the site's characteristics (particularly its soil composition and exposition) optimize red wine production.
 
 Vine age across Clos Marole varies considerably depending on replanting schedules and producer philosophy, with plants ranging from recently established vines to specimens approaching 60-80 years of age. The climat contains several parcels of old-vine Pinot Noir, some dating to the immediate post-phylloxera replanting period of the early 20th century, though most vines were established between 1950-1990.
 
@@ -68,7 +68,7 @@ Harvest timing in Clos Marole typically occurs during late September to early Oc
 
 Wines from Clos Marole exhibit the elegant complexity that distinguishes superior Côte Chalonnaise Pinot Noir, combining power with finesse in a style that bridges the ethereal wines of the Côte de Beaune with the more structured expressions found further south. The climat produces wines of remarkable consistency while allowing individual producer styles to emerge through different viticultural and winemaking approaches.
 
-The aromatic profile of Clos Marole Pinot Noir typically opens with bright red fruit characteristics—cherry, raspberry, and strawberry—underpinned by distinctive mineral notes that reflect the limestone-rich terroir. As the wines develop, secondary aromas emerge including violet, rose petal, and subtle spice elements such as white pepper and cinnamon.
+The aromatic profile of Clos Marole Pinot Noir typically opens with bright red fruit characteristics (cherry, raspberry, and strawberry) underpinned by distinctive mineral notes that reflect the limestone-rich terroir. As the wines develop, secondary aromas emerge including violet, rose petal, and subtle spice elements such as white pepper and cinnamon.
 
 With proper cellaring, tertiary aromatics develop complexity layers including forest floor, mushroom, leather, and game notes, while maintaining the fresh fruit core that defines quality Burgundy. The mineral expression intensifies with age, often manifesting as wet stone or chalk dust sensations that provide aromatic lift and complexity.
 

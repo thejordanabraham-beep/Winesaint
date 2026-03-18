@@ -4,9 +4,9 @@
 
 Charmes-Chambertin stands as one of the eight Grand Cru vineyards orbiting the legendary Le Chambertin in the commune of Gevrey-Chambertin, within Burgundy's prestigious Côte de Nuits. Located approximately 12 kilometers south of Dijon, this Grand Cru occupies a privileged position on the mid-slope of the Côte d'Or escarpment, where centuries of viticultural refinement have produced some of the world's most sought-after Pinot Noir.
 
-The vineyard extends along the eastern face of the slope, positioned between 280 and 320 meters in elevation. Charmes-Chambertin lies directly south of its more famous neighbor, Le Chambertin, and northwest of Mazoyères-Chambertin—with which it shares a unique legal arrangement allowing wines from Mazoyères to be sold under the Charmes-Chambertin appellation. This positioning places it squarely within what many consider the heart of Burgundy's greatest terroir, where the intersection of geology, climate, and human expertise reaches its apex.
+The vineyard extends along the eastern face of the slope, positioned between 280 and 320 meters in elevation. Charmes-Chambertin lies directly south of its more famous neighbor, Le Chambertin, and northwest of Mazoyères-Chambertin, with which it shares a unique legal arrangement allowing wines from Mazoyères to be sold under the Charmes-Chambertin appellation. This positioning places it squarely within what many consider the heart of Burgundy's greatest terroir, where the intersection of geology, climate, and human expertise reaches its apex.
 
-The vineyard's location within the broader Côte de Nuits context is crucial to understanding its character. The Côte de Nuits, stretching from Marsannay in the north to Corgoloin in the south, represents the northern half of the Côte d'Or and is renowned primarily for red wines from Pinot Noir. Within this 20-kilometer stretch, Gevrey-Chambertin holds a position of particular distinction, boasting nine Grand Cru appellations—more than any other commune in Burgundy.
+The vineyard's location within the broader Côte de Nuits context is crucial to understanding its character. The Côte de Nuits, stretching from Marsannay in the north to Corgoloin in the south, represents the northern half of the Côte d'Or and is renowned primarily for red wines from Pinot Noir. Within this 20-kilometer stretch, Gevrey-Chambertin holds a position of particular distinction, boasting nine Grand Cru appellations, more than any other commune in Burgundy.
 
 ## Size & Parcellation
 
@@ -16,7 +16,7 @@ The vineyard's parcellation reflects centuries of Burgundian inheritance laws an
 
 Among the most significant parcel owners are Domaine Armand Rousseau, which holds approximately 1.37 hectares in prime locations, and Domaine des Lambrays, with 1.07 hectares. Other notable proprietors include Domaine Denis Bachelet (1.02 hectares), Domaine Castagnier (0.95 hectares), and Domaine Dugat-Py (0.67 hectares). The Camus family, through various domaines, controls several significant parcels totaling over 2 hectares combined.
 
-This fragmentation means that even the largest producers craft only small quantities of Charmes-Chambertin—typically between 300 and 1,500 cases annually. The resulting scarcity contributes significantly to the wine's prestige and market value, as global demand far exceeds the limited supply from this exceptional terroir.
+This fragmentation means that even the largest producers craft only small quantities of Charmes-Chambertin, typically between 300 and 1,500 cases annually. The resulting scarcity contributes significantly to the wine's prestige and market value, as global demand far exceeds the limited supply from this exceptional terroir.
 
 ## Terroir & Geology
 
@@ -42,11 +42,11 @@ Wind patterns significantly influence the vineyard's microclimate. The prevailin
 
 Precipitation patterns interact favorably with the vineyard's drainage characteristics. Annual rainfall typically ranges from 700-800mm, with crucial dry periods during late summer allowing controlled water stress that intensifies flavor concentration. The limestone's buffering capacity moderates soil temperature fluctuations, maintaining consistent root zone conditions throughout the growing season.
 
-Compared to surrounding vineyards, Charmes-Chambertin experiences slightly warmer daytime temperatures than higher-elevation sites like Clos de Bèze, yet remains cooler than lower-slope appellations such as Gevrey-Chambertin Village. This positioning creates an optimal ripening window that preserves acidity while achieving full phenolic maturity—a balance crucial for age-worthy Grand Cru wines.
+Compared to surrounding vineyards, Charmes-Chambertin experiences slightly warmer daytime temperatures than higher-elevation sites like Clos de Bèze, yet remains cooler than lower-slope appellations such as Gevrey-Chambertin Village. This positioning creates an optimal ripening window that preserves acidity while achieving full phenolic maturity: a balance crucial for age-worthy Grand Cru wines.
 
 ## Viticulture
 
-Pinot Noir reigns supreme in Charmes-Chambertin, representing 100% of plantings within this red wine-only Grand Cru appellation. The vineyard's viticultural practices reflect centuries of refinement, with vine density typically ranging from 10,000 to 12,500 plants per hectare—significantly higher than most global wine regions but standard for Burgundy's quality-focused approach.
+Pinot Noir reigns supreme in Charmes-Chambertin, representing 100% of plantings within this red wine-only Grand Cru appellation. The vineyard's viticultural practices reflect centuries of refinement, with vine density typically ranging from 10,000 to 12,500 plants per hectare, significantly higher than most global wine regions but standard for Burgundy's quality-focused approach.
 
 Average vine age varies considerably among parcels, ranging from recently replanted sections with vines under 10 years old to centenarian plants that have survived phylloxera, wars, and changing ownership. Many of the finest parcels maintain vine ages between 35-60 years, considered optimal for balancing yield control with root development depth. These mature vines, with roots penetrating deep into the limestone bedrock, access mineral complexities impossible for younger plants to achieve.
 
@@ -60,9 +60,9 @@ Harvest timing demands exceptional precision, as the vineyard's diverse exposure
 
 ## Wine Character & Style
 
-Charmes-Chambertin produces wines of remarkable complexity that embody both power and elegance—hallmarks of great Burgundy. The aromatic profile typically opens with intense red fruit expressions: cherry, raspberry, and strawberry, often accompanied by floral notes of rose and violet that distinguish it from more austere neighboring Grand Crus.
+Charmes-Chambertin produces wines of remarkable complexity that embody both power and elegance, hallmarks of great Burgundy. The aromatic profile typically opens with intense red fruit expressions: cherry, raspberry, and strawberry, often accompanied by floral notes of rose and violet that distinguish it from more austere neighboring Grand Crus.
 
-With age, these primary fruit aromatics evolve into more complex secondary and tertiary characteristics. Mature Charmes-Chambertin develops earthy undertones of forest floor, truffle, and wet leaves, while mineral notes of limestone and iron become increasingly prominent. Spice elements—cinnamon, clove, and white pepper—emerge from both terroir expression and judicious oak aging.
+With age, these primary fruit aromatics evolve into more complex secondary and tertiary characteristics. Mature Charmes-Chambertin develops earthy undertones of forest floor, truffle, and wet leaves, while mineral notes of limestone and iron become increasingly prominent. Spice elements (cinnamon, clove, and white pepper) emerge from both terroir expression and judicious oak aging.
 
 The palate structure reveals the vineyard's geological foundation through firm but refined tannins that provide framework without overwhelming the wine's inherent elegance. Acidity levels typically range from 5.5-6.5 g/L, providing sufficient backbone for long-term aging while maintaining harmony with the fruit and mineral components.
 
@@ -82,9 +82,9 @@ Latricières-Chambertin, the smallest of the Gevrey Grand Crus, produces wines w
 
 The comparison with Mazoyères-Chambertin proves particularly relevant given their shared appellation rights. Mazoyères typically produces slightly lighter wines with more immediate charm, leading most producers to market these wines under the Charmes-Chambertin name for commercial advantage.
 
-Among Premier Cru comparisons, Clos Saint-Jacques—often considered equal to Grand Cru quality—produces wines with different character due to its northern exposure and distinct soil composition. While Clos Saint-Jacques emphasizes mineral precision and linear structure, Charmes-Chambertin offers broader, more enveloping fruit expression with comparable complexity.
+Among Premier Cru comparisons, Clos Saint-Jacques (often considered equal to Grand Cru quality) produces wines with different character due to its northern exposure and distinct soil composition. While Clos Saint-Jacques emphasizes mineral precision and linear structure, Charmes-Chambertin offers broader, more enveloping fruit expression with comparable complexity.
 
-Cazetiers, another top Premier Cru, typically shows more rustic, earth-driven character compared to Charmes-Chambertin's polished elegance. The Grand Cru status reflects not only superior terroir but also the ability to produce wines combining power with refinement—a balance that Premier Cru sites rarely achieve consistently.
+Cazetiers, another top Premier Cru, typically shows more rustic, earth-driven character compared to Charmes-Chambertin's polished elegance. The Grand Cru status reflects not only superior terroir but also the ability to produce wines combining power with refinement: a balance that Premier Cru sites rarely achieve consistently.
 
 ## Notable Producers & Their Parcels
 
@@ -116,7 +116,7 @@ The phylloxera crisis of the late 19th century devastated Charmes-Chambertin alo
 
 The establishment of the AOC system in 1936 formally recognized Charmes-Chambertin as a Grand Cru, codifying quality standards and production boundaries that had evolved through centuries of practical experience. This legal framework helped preserve the vineyard's reputation during the challenging mid-20th century period when industrialization threatened traditional viticultural practices.
 
-Notable vintages that established modern appreciation include 1947, 1949, and 1959—legendary years that demonstrated Charmes-Chambertin's aging potential. The 1961 vintage, though small due to frost damage, produced wines of exceptional concentration that remain benchmarks for the appellation's quality potential.
+Notable vintages that established modern appreciation include 1947, 1949, and 1959, legendary years that demonstrated Charmes-Chambertin's aging potential. The 1961 vintage, though small due to frost damage, produced wines of exceptional concentration that remain benchmarks for the appellation's quality potential.
 
 ## Aging Potential & Quality Levels
 

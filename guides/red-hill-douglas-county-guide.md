@@ -4,7 +4,7 @@
 
 The Red Hill Douglas County AVA represents one of Oregon's most distinctive and precisely defined viticultural areas, occupying a unique position in the state's evolving wine landscape. Located in southern Douglas County, approximately 10 miles northwest of the city of Roseburg, this compact AVA encompasses roughly 5,000 acres within the Umpqua Valley, though planted vineyard acreage remains significantly smaller.
 
-Officially designated on December 3, 2005, Red Hill Douglas County became Oregon's first AVA to be named after a specific soil series—the red-hued Jory soils that dominate the region's landscape and fundamentally influence its viticultural character. This designation marked an important milestone in Oregon's recognition of distinct terroir-driven growing regions beyond the Willamette Valley.
+Officially designated on December 3, 2005, Red Hill Douglas County became Oregon's first AVA to be named after a specific soil series: the red-hued Jory soils that dominate the region's landscape and fundamentally influence its viticultural character. This designation marked an important milestone in Oregon's recognition of distinct terroir-driven growing regions beyond the Willamette Valley.
 
 The AVA exists as a sub-appellation within the larger Umpqua Valley AVA, which was established in 1984 and spans approximately 1,200 square miles across Douglas County. Red Hill Douglas County occupies the northern portion of the Umpqua Valley, positioning it as a transitional zone between the cooler, marine-influenced Willamette Valley to the north and the warmer, more Mediterranean climate zones of the Rogue Valley to the south. This geographic positioning proves crucial to understanding the region's viticultural identity and the distinctive character of its wines.
 
@@ -26,7 +26,7 @@ Summer temperatures typically reach highs in the mid-80s to low-90s Fahrenheit, 
 
 ## Terroir & Soils
 
-The defining characteristic of Red Hill Douglas County—indeed, the feature that justified its AVA designation—is its distinctive soil profile dominated by red Jory and similar red clay loam soils. These soils provide the AVA with its name and fundamentally shape its viticultural identity.
+The defining characteristic of Red Hill Douglas County (indeed, the feature that justified its AVA designation) is its distinctive soil profile dominated by red Jory and similar red clay loam soils. These soils provide the AVA with its name and fundamentally shape its viticultural identity.
 
 Jory soils, classified as clayey-skeletal mixed mesic Palehumults, formed over millions of years through the weathering of ancient volcanic basalt flows. The characteristic red coloration results from high iron oxide content, a visual signature of the region's volcanic origins. These soils typically extend to depths of 4-6 feet or more, providing excellent structure and mineral content while presenting specific challenges for vine growth.
 
@@ -134,7 +134,7 @@ The future outlook for Red Hill Douglas County appears promising despite challen
 
 **Varietal identity** development, particularly with Tempranillo and Syrah, could establish Red Hill Douglas County as Oregon's reference point for these varieties, creating market differentiation and recognition beyond Pinot Noir competition.
 
-The region appears poised for continued, measured growth rather than explosive expansion. This trajectory may ultimately prove beneficial, allowing quality consolidation and reputation building without the growing pains associated with rapid development. Red Hill Douglas County's future likely involves deepening rather than widening—refining viticultural practices, establishing varietal benchmarks, and building lasting recognition for distinctive, terroir-driven wines that express a unique place within Oregon's diverse wine landscape.
+The region appears poised for continued, measured growth rather than explosive expansion. This trajectory may ultimately prove beneficial, allowing quality consolidation and reputation building without the growing pains associated with rapid development. Red Hill Douglas County's future likely involves deepening rather than widening, refining viticultural practices, establishing varietal benchmarks, and building lasting recognition for distinctive, terroir-driven wines that express a unique place within Oregon's diverse wine landscape.
 
 ---
 

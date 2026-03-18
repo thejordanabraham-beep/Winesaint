@@ -1,12 +1,12 @@
 # Madeira: The Indestructible Wine
 
-Madeira produces wines that can outlive empires. Bottles from the 18th century remain not just drinkable but vibrant, their acidity still piercing, their complexity still evolving. This is not hyperbole—it is documented fact. The island's fortified wines represent one of viticulture's most extreme expressions: grapes grown on near-vertical volcanic terraces, subjected to deliberate heating that would destroy any other wine, then aged in conditions that would ruin even the sturdiest Port or Sherry. The result? Wines of such resilience that they were once used as ballast on ships crossing the equator, improving with each voyage.
+Madeira produces wines that can outlive empires. Bottles from the 18th century remain not just drinkable but vibrant, their acidity still piercing, their complexity still evolving. This is not hyperbole, it is documented fact. The island's fortified wines represent one of viticulture's most extreme expressions: grapes grown on near-vertical volcanic terraces, subjected to deliberate heating that would destroy any other wine, then aged in conditions that would ruin even the sturdiest Port or Sherry. The result? Wines of such resilience that they were once used as ballast on ships crossing the equator, improving with each voyage.
 
-Located 520 kilometers off the coast of Morocco and 1,000 kilometers southwest of Lisbon, this Portuguese archipelago shouldn't work for viticulture at all. Yet it does—spectacularly. The island's unique combination of volcanic soils, subtropical humidity, dramatic elevation changes, and a winemaking process involving controlled oxidation and heat has created a category unto itself.
+Located 520 kilometers off the coast of Morocco and 1,000 kilometers southwest of Lisbon, this Portuguese archipelago shouldn't work for viticulture at all. Yet it does, spectacularly. The island's unique combination of volcanic soils, subtropical humidity, dramatic elevation changes, and a winemaking process involving controlled oxidation and heat has created a category unto itself.
 
 ## GEOLOGY: Volcanic Foundations and Basaltic Terraces
 
-Madeira is fundamentally a volcanic island, rising from the Atlantic floor through successive eruptions beginning approximately 5 million years ago. Unlike the sedimentary limestone and marl formations that dominate mainland European wine regions, Madeira's bedrock consists primarily of basalt—a dark, fine-grained volcanic rock formed from rapidly cooled lava flows.
+Madeira is fundamentally a volcanic island, rising from the Atlantic floor through successive eruptions beginning approximately 5 million years ago. Unlike the sedimentary limestone and marl formations that dominate mainland European wine regions, Madeira's bedrock consists primarily of basalt: a dark, fine-grained volcanic rock formed from rapidly cooled lava flows.
 
 ### Soil Composition and Formation
 
@@ -18,29 +18,29 @@ The volcanic origin creates soils with several distinctive characteristics:
 - **Mineral richness**: Volcanic soils supply abundant trace minerals, though the acidic pH can limit nutrient availability
 - **Variable depth**: Soil depth depends entirely on the degree of weathering and human intervention through terrace construction
 
-The **poios**—step-like terraces carved directly from basaltic bedrock—represent one of viticulture's most dramatic examples of human modification of terroir. These narrow platforms, often barely wide enough for a single row of vines, required centuries of backbreaking labor to construct. The terraces prevent erosion on slopes that can exceed 60% gradient while creating pockets of deeper soil where organic matter and weathered rock fragments accumulate.
+The **poios**, step-like terraces carved directly from basaltic bedrock, represent one of viticulture's most dramatic examples of human modification of terroir. These narrow platforms, often barely wide enough for a single row of vines, required centuries of backbreaking labor to construct. The terraces prevent erosion on slopes that can exceed 60% gradient while creating pockets of deeper soil where organic matter and weathered rock fragments accumulate.
 
 ### Comparative Context: Volcanic Viticulture
 
-Madeira shares its volcanic geology with several other wine regions, but the comparison reveals important distinctions. Santorini's volcanic soils are primarily pumice and ash—much lighter and more porous than Madeira's dense basalt. Mount Etna's soils show greater variation, with ash, pumice, and lava flows creating a patchwork of soil types at different elevations. The Canary Islands, Madeira's closest geological relatives, share similar basaltic foundations but lack Madeira's extreme elevation changes and moisture levels.
+Madeira shares its volcanic geology with several other wine regions, but the comparison reveals important distinctions. Santorini's volcanic soils are primarily pumice and ash, much lighter and more porous than Madeira's dense basalt. Mount Etna's soils show greater variation, with ash, pumice, and lava flows creating a patchwork of soil types at different elevations. The Canary Islands, Madeira's closest geological relatives, share similar basaltic foundations but lack Madeira's extreme elevation changes and moisture levels.
 
-The key difference lies in soil formation rate and character. Basalt weathers relatively slowly compared to ash or pumice, creating dense, mineral-rich soils rather than the lighter, sandier profiles found in ash-dominated volcanic regions. This density affects vine behavior—roots must work harder to penetrate, potentially stressing vines beneficially and concentrating flavors.
+The key difference lies in soil formation rate and character. Basalt weathers relatively slowly compared to ash or pumice, creating dense, mineral-rich soils rather than the lighter, sandier profiles found in ash-dominated volcanic regions. This density affects vine behavior, roots must work harder to penetrate, potentially stressing vines beneficially and concentrating flavors.
 
 ## CLIMATE: Subtropical Extremes and Elevation Salvation
 
-Madeira's climate presents a paradox: it sits at 32°N latitude—roughly equivalent to Casablanca in Morocco or San Diego in California—yet produces wines of remarkable acidity and structure. The answer lies in elevation, maritime influence, and the island's dramatic topography.
+Madeira's climate presents a paradox: it sits at 32°N latitude (roughly equivalent to Casablanca in Morocco or San Diego in California) yet produces wines of remarkable acidity and structure. The answer lies in elevation, maritime influence, and the island's dramatic topography.
 
 ### Temperature and Rainfall Patterns
 
 The island experiences a **mean annual temperature of 19°C (66°F)**, placing it firmly in hot-climate viticulture territory. Without modification, this would produce flabby, overripe wines lacking the acidity that defines quality Madeira. Elevation provides the crucial moderating effect.
 
-Madeira rises to over **1,800 meters (5,900 feet)**, with mountains almost perpetually shrouded in clouds as warm, moisture-laden oceanic air rises and condenses. This orographic effect creates extreme rainfall gradients. The island's summit receives nearly **3,000 mm (117 inches) annually**—over three times the precipitation in Funchal, the capital, on the southern coast.
+Madeira rises to over **1,800 meters (5,900 feet)**, with mountains almost perpetually shrouded in clouds as warm, moisture-laden oceanic air rises and condenses. This orographic effect creates extreme rainfall gradients. The island's summit receives nearly **3,000 mm (117 inches) annually**, over three times the precipitation in Funchal, the capital, on the southern coast.
 
 Vineyard elevations range from near sea level to approximately 800 meters, with most quality sites planted between 300-700 meters. This elevation range provides natural temperature variation, with each 100-meter gain in altitude dropping temperatures by roughly 0.6°C. Higher-elevation vineyards thus experience cooler growing conditions despite the subtropical latitude, preserving the acidity essential to Madeira's character.
 
 ### Maritime Influence and Humidity
 
-The Atlantic Ocean surrounds Madeira, creating a **maritime climate with low continentality**—minimal temperature variation between seasons. This differs markedly from continental regions like Burgundy or Champagne, where large seasonal swings create spring frost risk and rapid autumn cooling.
+The Atlantic Ocean surrounds Madeira, creating a **maritime climate with low continentality**, minimal temperature variation between seasons. This differs markedly from continental regions like Burgundy or Champagne, where large seasonal swings create spring frost risk and rapid autumn cooling.
 
 Madeira's maritime setting ensures:
 
@@ -52,7 +52,7 @@ The high humidity creates significant viticultural challenges. With abundant moi
 
 ### Climate Change Impacts
 
-Madeira faces unique climate change pressures. Rising temperatures at low elevations may push quality viticulture higher up the slopes, while increased rainfall intensity could exacerbate erosion on terraced vineyards. However, the island's elevation range provides a buffer unavailable to flatter wine regions. As lower vineyards become too warm, higher-elevation sites—currently too cool for optimal ripening—may become viable.
+Madeira faces unique climate change pressures. Rising temperatures at low elevations may push quality viticulture higher up the slopes, while increased rainfall intensity could exacerbate erosion on terraced vineyards. However, the island's elevation range provides a buffer unavailable to flatter wine regions. As lower vineyards become too warm, higher-elevation sites (currently too cool for optimal ripening) may become viable.
 
 Conversely, the island's reliance on traditional grape varieties adapted to specific elevation bands could create challenges. Sercial, which thrives in cooler, higher sites, may require even higher plantings, while lower-elevation Malvasia could face heat stress.
 
@@ -62,31 +62,31 @@ Viticulture on Madeira ranks among the world's most physically demanding. The co
 
 ### Vineyard Structure and Land Ownership
 
-The island's **vineyard land is highly fragmented**, with over 1,000 growers farming an average holding of just **0.3 hectares (0.7 acres)**. This represents one of Europe's most extreme examples of vineyard fragmentation—even Burgundy's parcellated landscape seems consolidated by comparison. Total vineyard area dedicated to Madeira DOC production stands at approximately **403 hectares (996 acres)**, split between Madeira island and neighboring Porto Santo.
+The island's **vineyard land is highly fragmented**, with over 1,000 growers farming an average holding of just **0.3 hectares (0.7 acres)**. This represents one of Europe's most extreme examples of vineyard fragmentation, even Burgundy's parcellated landscape seems consolidated by comparison. Total vineyard area dedicated to Madeira DOC production stands at approximately **403 hectares (996 acres)**, split between Madeira island and neighboring Porto Santo.
 
 The main viticultural communes are:
 
-- **Câmara de Lobos** (south coast): 149 hectares—the largest concentration
-- **São Vicente** (north coast): 111 hectares—benefiting from northern exposure
-- **Santana** (north coast): 53 hectares—higher elevation sites
+- **Câmara de Lobos** (south coast): 149 hectares (the largest concentration
+- **São Vicente** (north coast): 111 hectares) benefiting from northern exposure
+- **Santana** (north coast): 53 hectares, higher elevation sites
 
-This fragmentation means most producers operate as négociants rather than vineyard owners. Only two producers—**Henriques & Henriques** and **Madeira Wine Company**—own or rent vineyards, and these cover only small percentages of their production volumes. All producers buy grapes, often from hundreds of individual growers. Many employ agents who provide viticultural consultation and coordinate harvesting across numerous tiny plots.
+This fragmentation means most producers operate as négociants rather than vineyard owners. Only two producers (**Henriques & Henriques** and **Madeira Wine Company**) own or rent vineyards, and these cover only small percentages of their production volumes. All producers buy grapes, often from hundreds of individual growers. Many employ agents who provide viticultural consultation and coordinate harvesting across numerous tiny plots.
 
 ### Training Systems: The Latada
 
-The **latada** dominates Madeira's vineyards—a pergola-style training system similar to those found in Vinho Verde on the Portuguese mainland. Vines are trained on wires or stakes, creating a canopy **one to two meters (3.3 to 6.6 feet) above the ground**.
+The **latada** dominates Madeira's vineyards: a pergola-style training system similar to those found in Vinho Verde on the Portuguese mainland. Vines are trained on wires or stakes, creating a canopy **one to two meters (3.3 to 6.6 feet) above the ground**.
 
 This elevated canopy serves a crucial purpose: raising grapes above the humid ground level reduces fungal disease pressure. In Madeira's damp, subtropical climate, ground-level fruit would face devastating botrytis and mildew pressure. The latada allows air circulation beneath the canopy while providing some shading from intense sun.
 
-Vine density under latada systems ranges from **2,500 to 4,000 vines per hectare**—relatively low by European standards, reflecting the space required for the pergola structure and the challenging terrain.
+Vine density under latada systems ranges from **2,500 to 4,000 vines per hectare**, relatively low by European standards, reflecting the space required for the pergola structure and the challenging terrain.
 
 On flatter, lower-gradient sites, producers increasingly use **espalier** (vertical shoot positioning), which allows higher densities up to **5,000 vines per hectare** and easier canopy management. However, these sites represent a minority of Madeira's vineyard area.
 
 ### Viticultural Calendar and Harvest
 
-Pruning occurs in late February and early March—later than most European regions, reflecting the mild winter temperatures that allow extended dormancy periods. The subtropical latitude means budbreak occurs early, with flowering in May and véraison (color change) in July.
+Pruning occurs in late February and early March, later than most European regions, reflecting the mild winter temperatures that allow extended dormancy periods. The subtropical latitude means budbreak occurs early, with flowering in May and véraison (color change) in July.
 
-**Harvest is entirely manual**—an arduous process on terraces where workers must carry grapes down steep slopes in baskets. Harvest timing varies by variety and elevation:
+**Harvest is entirely manual**, an arduous process on terraces where workers must carry grapes down steep slopes in baskets. Harvest timing varies by variety and elevation:
 
 - **Sercial**: Latest to ripen, often harvested in September at higher elevations
 - **Verdelho**: Mid-season, typically August-September
@@ -94,7 +94,7 @@ Pruning occurs in late February and early March—later than most European regio
 - **Malvasia**: Earliest, late July-August at lower, warmer sites
 - **Tinta Negra**: Variable depending on intended style, July-September
 
-Annual grape production ranges from **3,500 to 4,000 metric tons**—a modest volume reflecting the island's small vineyard area and challenging growing conditions.
+Annual grape production ranges from **3,500 to 4,000 metric tons**, a modest volume reflecting the island's small vineyard area and challenging growing conditions.
 
 ## GRAPES: The Noble Four and Tinta Negra
 
@@ -102,12 +102,12 @@ Madeira's identity rests on five grape varieties, though historically the list w
 
 ### Sercial: The Acid Queen
 
-**Sercial** produces Madeira's driest, most acidic wines—styles labeled "extra dry" or "dry," though even these show some sweetness. The variety thrives in the island's coolest, highest-elevation sites, where extended hang time preserves its naturally high acidity while developing flavor complexity.
+**Sercial** produces Madeira's driest, most acidic wines, styles labeled "extra dry" or "dry," though even these show some sweetness. The variety thrives in the island's coolest, highest-elevation sites, where extended hang time preserves its naturally high acidity while developing flavor complexity.
 
-Ampelographic research suggests Sercial may be related to mainland Portuguese varieties, though its exact origins remain debated. The variety's small berries and thick skins provide some disease resistance—crucial in Madeira's humid climate.
+Ampelographic research suggests Sercial may be related to mainland Portuguese varieties, though its exact origins remain debated. The variety's small berries and thick skins provide some disease resistance, crucial in Madeira's humid climate.
 
 **Viticultural characteristics**:
-- Late ripening—requires extended growing season
+- Late ripening, requires extended growing season
 - Prefers higher elevations (500-700 meters) for acid retention
 - Moderate yields
 - Susceptible to botrytis in wet conditions
@@ -126,7 +126,7 @@ The same variety (or a close relative) appears in Australia, particularly on the
 - Relatively disease-resistant
 - Adapts to varied soil types
 
-Verdelho wines show more body and texture than Sercial, with flavors ranging from dried fruits and nuts to hints of smoke and caramel—the latter developing during aging and heating.
+Verdelho wines show more body and texture than Sercial, with flavors ranging from dried fruits and nuts to hints of smoke and caramel: the latter developing during aging and heating.
 
 ### Bual (Boal): The Sweet Spot
 
@@ -144,7 +144,7 @@ Bual wines show richer texture and darker color than drier styles, with flavors 
 
 ### Malvasia (Malmsey): The Sweet Extreme
 
-**Malvasia**—labeled as "Malmsey" in English-speaking markets—produces Madeira's richest, sweetest wines. Multiple Malvasia varieties exist throughout the Mediterranean, and Madeira likely grows several related biotypes, including Malvasia Cândida and Malvasia de São Jorge.
+**Malvasia**, labeled as "Malmsey" in English-speaking markets, produces Madeira's richest, sweetest wines. Multiple Malvasia varieties exist throughout the Mediterranean, and Madeira likely grows several related biotypes, including Malvasia Cândida and Malvasia de São Jorge.
 
 Malvasia thrives at the island's warmest, lowest-elevation sites, where it develops the highest sugar levels of the traditional varieties. These lower vineyards, closer to sea level, experience the warmest temperatures and earliest ripening.
 
@@ -154,7 +154,7 @@ Malvasia thrives at the island's warmest, lowest-elevation sites, where it devel
 - Moderate yields
 - More susceptible to fungal diseases due to thin skins
 
-Malmsey wines show the darkest color and richest texture, with residual sugar levels between **3.5-6.5° Baumé**. Flavors include caramel, molasses, coffee, dried fruits, and chocolate—yet the wines rarely taste cloying due to Madeira's characteristically high acidity. Like all quality Madeira from traditional varieties, Malmseys can age for a century or more.
+Malmsey wines show the darkest color and richest texture, with residual sugar levels between **3.5-6.5° Baumé**. Flavors include caramel, molasses, coffee, dried fruits, and chocolate, yet the wines rarely taste cloying due to Madeira's characteristically high acidity. Like all quality Madeira from traditional varieties, Malmseys can age for a century or more.
 
 ### Tinta Negra: The Workhorse
 
@@ -172,7 +172,7 @@ For decades, Tinta Negra wines were blended and sold under the noble variety nam
 
 ### Terrantez and Bastardo: The Ghosts
 
-**Terrantez** and **Bastardo** represent historic Madeira varieties nearly extinct on the island. Both produced distinctive wine styles—Terrantez yielding medium-dry wines of particular elegance, Bastardo creating medium-sweet wines with unique character.
+**Terrantez** and **Bastardo** represent historic Madeira varieties nearly extinct on the island. Both produced distinctive wine styles. Terrantez yielding medium-dry wines of particular elegance, Bastardo creating medium-sweet wines with unique character.
 
 Terrantez has made a modest comeback through replanting efforts by quality-focused producers, though quantities remain tiny. Bastardo remains extremely rare. Both varieties command high prices when bottled as single-variety wines, reflecting their scarcity and historical significance.
 
@@ -182,7 +182,7 @@ Madeira's winemaking process differs fundamentally from all other wines. The com
 
 ### Fermentation and Fortification
 
-Winemaking begins conventionally: grapes are crushed and fermented with natural or cultured yeasts. However, fermentation is arrested at a predetermined point by adding **aguardente**—a neutral grape spirit at approximately 96% alcohol.
+Winemaking begins conventionally: grapes are crushed and fermented with natural or cultured yeasts. However, fermentation is arrested at a predetermined point by adding **aguardente**, a neutral grape spirit at approximately 96% alcohol.
 
 The timing of fortification determines sweetness:
 
@@ -197,7 +197,7 @@ For sweeter styles, producers may also add **RCGM** (rectified concentrated grap
 
 ### The Heating Process: Estufa vs. Canteiro
 
-Madeira's defining characteristic is **maderization**—controlled heating that would destroy any other wine. This process originated accidentally when wines shipped through tropical climates improved rather than spoiled. Modern production replicates this heating through two methods:
+Madeira's defining characteristic is **maderization**, controlled heating that would destroy any other wine. This process originated accidentally when wines shipped through tropical climates improved rather than spoiled. Modern production replicates this heating through two methods:
 
 #### Estufa (Heated Tanks)
 
@@ -208,11 +208,11 @@ Estufa heating is used primarily for:
 - Tinta Negra-based wines
 - Wines destined for younger consumption (3-5 years old)
 
-The process accelerates oxidation and creates characteristic Madeira flavors—caramel, toffee, dried fruit—but can lack the complexity of canteiro aging.
+The process accelerates oxidation and creates characteristic Madeira flavors (caramel, toffee, dried fruit) but can lack the complexity of canteiro aging.
 
 #### Canteiro (Barrel Aging with Ambient Heat)
 
-The **canteiro** method relies on natural warmth in the lodges' upper floors, where barrels rest in hot attics. Wine ages in oak casks of various sizes—typically **600-650 liter pipes** or larger **tonéis**—for years or decades.
+The **canteiro** method relies on natural warmth in the lodges' upper floors, where barrels rest in hot attics. Wine ages in oak casks of various sizes (typically **600-650 liter pipes** or larger **tonéis**) for years or decades.
 
 Temperatures fluctuate seasonally but remain elevated, particularly in summer when attic temperatures can exceed 30°C. This gentle, extended heating combined with slow oxidation through barrel staves creates wines of far greater complexity than estufa heating.
 
@@ -235,7 +235,7 @@ Madeira's labeling system reflects aging duration and method:
 
 **Colheita**: Single-harvest wine aged minimum 5 years in cask, vintage-dated
 
-**Frasqueira** (Vintage Madeira): Single-variety, single-vintage wine aged minimum **20 years in cask** before bottling. These represent Madeira's pinnacle—wines of extraordinary complexity and longevity.
+**Frasqueira** (Vintage Madeira): Single-variety, single-vintage wine aged minimum **20 years in cask** before bottling. These represent Madeira's pinnacle, wines of extraordinary complexity and longevity.
 
 ### Historic Styles
 
@@ -259,11 +259,11 @@ Modern Madeira is produced across a defined sweetness range:
 - **Medium Sweet/Medium Rich**: 2.5-3.5° Baumé (typically Bual)
 - **Sweet/Rich**: 3.5-6.5° Baumé (typically Malvasia)
 
-Importantly, even wines labeled "dry" demonstrate noticeable sweetness—a characteristic of the fortification and heating process. Overlap exists between categories, and one producer's "dry" may be another's "medium dry."
+Importantly, even wines labeled "dry" demonstrate noticeable sweetness: a characteristic of the fortification and heating process. Overlap exists between categories, and one producer's "dry" may be another's "medium dry."
 
 ### Flavor Development and Aging
 
-Young Madeira shows primary fruit character—citrus, stone fruit, or dried fruit depending on variety and sweetness. As wine ages, particularly through canteiro method, flavors evolve:
+Young Madeira shows primary fruit character, citrus, stone fruit, or dried fruit depending on variety and sweetness. As wine ages, particularly through canteiro method, flavors evolve:
 
 **5-10 years**: Caramel, toffee, dried fruits emerge; primary fruit integrates
 
@@ -324,7 +324,7 @@ This consistency means vintage variation is less pronounced than in Burgundy, Bo
 
 ### Aging's Leveling Effect
 
-More significantly, Madeira's extended aging—particularly for vintage wines requiring minimum 20 years in cask—tends to level vintage differences. Two decades of oxidative aging in warm conditions creates such profound transformation that initial vintage characteristics fade into background.
+More significantly, Madeira's extended aging (particularly for vintage wines requiring minimum 20 years in cask) tends to level vintage differences. Two decades of oxidative aging in warm conditions creates such profound transformation that initial vintage characteristics fade into background.
 
 This doesn't mean vintage is irrelevant. Producers and collectors recognize certain vintages as exceptional:
 
@@ -349,7 +349,7 @@ Producers are monitoring these changes and adapting viticultural practices, incl
 
 ## KEY PRODUCERS
 
-Madeira's production is highly consolidated. Only **eight producers** operate on the island, with the largest three—**Justino's, Madeira Wine Company, and Henriques & Henriques**—dominating production.
+Madeira's production is highly consolidated. Only **eight producers** operate on the island, with the largest three (**Justino's, Madeira Wine Company, and Henriques & Henriques**) dominating production.
 
 ### Madeira Wine Company
 
@@ -360,7 +360,7 @@ The island's largest producer, **Madeira Wine Company** resulted from the 1913 m
 - **Leacock's**: Founded 1760; noted for Verdelho and medium-dry styles
 - **Miles**: Historic brand known for quality across all styles
 
-Madeira Wine Company owns approximately 45 hectares of vineyards—a substantial holding by island standards—but still purchases most grapes from independent growers. The company maintains extensive stocks of old wines, including 19th-century bottlings.
+Madeira Wine Company owns approximately 45 hectares of vineyards (a substantial holding by island standards) but still purchases most grapes from independent growers. The company maintains extensive stocks of old wines, including 19th-century bottlings.
 
 **Notable wines**: Blandy's 1920 Malmsey remains legendary for its complexity and vitality at over a century old. The company's Colheita and Frasqueira bottlings from the 1960s-1990s show exceptional quality.
 
@@ -368,7 +368,7 @@ The company operates from historic lodges in Funchal, maintaining traditional ca
 
 ### Henriques & Henriques
 
-Founded in 1850, **Henriques & Henriques** remains family-owned and operates as both producer and vineyard owner—unusual in Madeira's fragmented landscape. The company owns approximately 50 hectares of vineyards, providing better control over grape quality and site selection than pure négociant operations allow.
+Founded in 1850, **Henriques & Henriques** remains family-owned and operates as both producer and vineyard owner, unusual in Madeira's fragmented landscape. The company owns approximately 50 hectares of vineyards, providing better control over grape quality and site selection than pure négociant operations allow.
 
 The house is known for:
 - Traditional canteiro aging methods
@@ -434,15 +434,15 @@ All aging must be verified by IVBAM through regular inspections and documentatio
 
 ## MARKET AND TRADE
 
-Madeira production has declined dramatically from its 19th-century peak but stabilized in recent decades. In 2023, approximately **29,800 hectoliters** were sold—a modest volume reflecting the island's small size and labor-intensive production.
+Madeira production has declined dramatically from its 19th-century peak but stabilized in recent decades. In 2023, approximately **29,800 hectoliters** were sold: a modest volume reflecting the island's small size and labor-intensive production.
 
 ### Export Markets
 
 EU countries purchase **70.6% by volume** and **59% by value**, indicating somewhat lower average prices than non-EU markets. Top markets include:
 
-- **France**: 27.9% of volume—the largest market
-- **Portugal**: 20.6%—strong domestic consumption
-- **Germany**: 9.6%—traditional appreciation for fortified wines
+- **France**: 27.9% of volume: the largest market
+- **Portugal**: 20.6%, strong domestic consumption
+- **Germany**: 9.6%, traditional appreciation for fortified wines
 - **Belgium**: 4.5%
 
 Non-EU markets including the **UK, United States, Japan, and Switzerland** exert value far above their volume share, purchasing more premium aged wines and Frasqueiras.
@@ -463,13 +463,13 @@ This quality focus has elevated Madeira's reputation among serious wine professi
 
 ## CONCLUSION: Indestructibility and Value
 
-Madeira stands alone. No other wine undergoes such extreme production—deliberate heating that would ruin any other wine, decades of oxidative aging in warm conditions, all while maintaining vibrant acidity and developing extraordinary complexity.
+Madeira stands alone. No other wine undergoes such extreme production, deliberate heating that would ruin any other wine, decades of oxidative aging in warm conditions, all while maintaining vibrant acidity and developing extraordinary complexity.
 
-The result is wine of unmatched longevity. Bottles from the 1800s remain not just drinkable but vital, their acidity still piercing, their complexity still evolving. This indestructibility makes Madeira uniquely suited to extended cellaring and provides remarkable value—where else can you buy a 20-year-old wine for the price of a mid-level Burgundy?
+The result is wine of unmatched longevity. Bottles from the 1800s remain not just drinkable but vital, their acidity still piercing, their complexity still evolving. This indestructibility makes Madeira uniquely suited to extended cellaring and provides remarkable value, where else can you buy a 20-year-old wine for the price of a mid-level Burgundy?
 
 Yet Madeira remains underappreciated. Perhaps the category's fortified nature relegates it to dessert wine status in many minds, though dry Sercial and Verdelho pair brilliantly with food. Perhaps the heating process seems industrial, though canteiro aging is as artisanal as any winemaking practice. Perhaps the island's remote location keeps it off the wine tourism circuit.
 
-Whatever the reason, Madeira's obscurity is the informed drinker's gain. Few wines offer such quality, complexity, and aging potential at comparable prices. And fewer still can claim to be genuinely indestructible—wine that improves with sea voyages, survives centuries in bottle, and continues evolving long after other wines have faded.
+Whatever the reason, Madeira's obscurity is the informed drinker's gain. Few wines offer such quality, complexity, and aging potential at comparable prices. And fewer still can claim to be genuinely indestructible, wine that improves with sea voyages, survives centuries in bottle, and continues evolving long after other wines have faded.
 
 The volcanic island 1,000 kilometers from anywhere produces wine like nowhere else. That alone makes it worth understanding.
 

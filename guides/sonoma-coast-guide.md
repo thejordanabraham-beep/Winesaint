@@ -1,16 +1,16 @@
 # Sonoma Coast: The Most Contentious Appellation in California
 
-The Sonoma Coast AVA is not one place. It is a political construct masquerading as a geographical designation, encompassing nearly 500,000 acres—roughly half of Sonoma County. A vineyard perched on a windswept ridge three miles from the Pacific Ocean shares an appellation with another fifty miles inland, near San Pablo Bay, in sight of Napa County. In terroir terms, this verges on the preposterous.
+The Sonoma Coast AVA is not one place. It is a political construct masquerading as a geographical designation, encompassing nearly 500,000 acres, roughly half of Sonoma County. A vineyard perched on a windswept ridge three miles from the Pacific Ocean shares an appellation with another fifty miles inland, near San Pablo Bay, in sight of Napa County. In terroir terms, this verges on the preposterous.
 
-This is not hyperbole. The Sonoma Coast was created in 1987 largely through the efforts of Brice Jones of Sonoma-Cutrer, who needed to sweep his far-flung vineyard holdings—from Carneros to remote coastal sites—into a single appellation. The goal was practical: to label wines from Les Pierres Vineyard near Carneros as "Estate Bottled" while marketing them under the prestigious "coastal" designation. The word "coastal" carried supreme clout in California wine during the 1980s and 1990s, enough that Jess Jackson and Robert Mondavi petitioned unsuccessfully for a "California Coastal" appellation to encompass their entire coastal empires.
+This is not hyperbole. The Sonoma Coast was created in 1987 largely through the efforts of Brice Jones of Sonoma-Cutrer, who needed to sweep his far-flung vineyard holdings (from Carneros to remote coastal sites) into a single appellation. The goal was practical: to label wines from Les Pierres Vineyard near Carneros as "Estate Bottled" while marketing them under the prestigious "coastal" designation. The word "coastal" carried supreme clout in California wine during the 1980s and 1990s, enough that Jess Jackson and Robert Mondavi petitioned unsuccessfully for a "California Coastal" appellation to encompass their entire coastal empires.
 
 The result is an appellation so sprawling that it includes everything from the fog-choked ridges of Fort Ross-Seaview to the warmer benchlands of the Russian River Valley, from sea-level Petaluma Gap to mountain vineyards at 1,800 feet elevation. Understanding Sonoma Coast requires understanding this fundamental contradiction: the legal designation versus the "true" Sonoma Coast where pioneers farm the county's most extreme western stretches.
 
 ## The True Sonoma Coast: A Question of Authenticity
 
-For over a decade, a distinction has existed between the Sonoma Coast AVA (the political entity) and what insiders call the "true" Sonoma Coast—the westernmost portion of the county where maritime influence dominates viticulture. In 2010, a group of winemakers formalized this distinction by founding the West Sonoma Coast Vintners, drawing an unofficial boundary roughly along Highway 116, which cuts through former Gravenstein apple country.
+For over a decade, a distinction has existed between the Sonoma Coast AVA (the political entity) and what insiders call the "true" Sonoma Coast: the westernmost portion of the county where maritime influence dominates viticulture. In 2010, a group of winemakers formalized this distinction by founding the West Sonoma Coast Vintners, drawing an unofficial boundary roughly along Highway 116, which cuts through former Gravenstein apple country.
 
-The name was diplomatic finesse—a way to differentiate their extreme coastal sites without directly challenging fellow vintners over authenticity. As Carroll Kemp of Red Car Winery, one of the group's founders, noted, it avoided conflict while establishing clear identity. In 2022, this became official: the West Sonoma Coast AVA was approved, encompassing 141,846 acres along the coast from the Mendocino border to Bodega Bay.
+The name was diplomatic finesse: a way to differentiate their extreme coastal sites without directly challenging fellow vintners over authenticity. As Carroll Kemp of Red Car Winery, one of the group's founders, noted, it avoided conflict while establishing clear identity. In 2022, this became official: the West Sonoma Coast AVA was approved, encompassing 141,846 acres along the coast from the Mendocino border to Bodega Bay.
 
 This new appellation represents what most wine professionals mean when they discuss "Sonoma Coast" wines: Pinot Noir and Chardonnay grown within a few miles of the Pacific, shaped by biting winds, cold temperatures, and high elevation in the Coast Ranges. But even here, generalizations fail. The West Sonoma Coast itself contains multiple distinct zones, each with unique characteristics.
 
@@ -18,9 +18,9 @@ This new appellation represents what most wine professionals mean when they disc
 
 The defining feature of the true Sonoma Coast is proximity to the Pacific Ocean. Many vineyards sit just three to five miles from the coastline, at elevations ranging from 400 to 1,800 feet. This creates a climate regime fundamentally different from inland Sonoma County.
 
-The Petaluma Gap—a low point in the Coast Ranges—funnels cold Pacific air and fog inland with remarkable force. Wind speeds regularly exceed 20 mph during the growing season, with gusts reaching 40 mph or more. These winds are not gentle maritime breezes; they are aggressive, constant, and shaping forces that thicken grape skins, concentrate flavors, and extend hang time dramatically.
+The Petaluma Gap (a low point in the Coast Ranges) funnels cold Pacific air and fog inland with remarkable force. Wind speeds regularly exceed 20 mph during the growing season, with gusts reaching 40 mph or more. These winds are not gentle maritime breezes; they are aggressive, constant, and shaping forces that thicken grape skins, concentrate flavors, and extend hang time dramatically.
 
-Temperature differentials tell the story. While inland Russian River Valley sites might reach 85-90°F on summer afternoons, coastal ridgetop vineyards rarely exceed 70°F. Diurnal temperature swings are often modest—10-15°F rather than the 40-50°F swings found in continental climates—because nighttime temperatures remain relatively mild due to marine influence. The growing season is long and cool, with harvest often extending into late October or even November.
+Temperature differentials tell the story. While inland Russian River Valley sites might reach 85-90°F on summer afternoons, coastal ridgetop vineyards rarely exceed 70°F. Diurnal temperature swings are often modest (10-15°F rather than the 40-50°F swings found in continental climates) because nighttime temperatures remain relatively mild due to marine influence. The growing season is long and cool, with harvest often extending into late October or even November.
 
 Fog is omnipresent. Morning fog banks roll in from the Pacific, blanketing vineyards until late morning or early afternoon. This reduces sunlight hours and moderates temperatures, but also increases disease pressure. Growers must be vigilant about canopy management to prevent mildew and rot.
 
@@ -28,15 +28,15 @@ Annual rainfall averages 40-60 inches, significantly higher than inland Sonoma C
 
 ## Geology: Ancient Seabeds and Franciscan Complexity
 
-The Sonoma Coast sits atop the Franciscan Complex, a geologically chaotic assemblage of rocks formed between 150 and 20 million years ago through subduction of oceanic crust beneath the North American plate. This is not the orderly limestone-and-marl layering of Burgundy or Champagne. Instead, the Franciscan Complex is a mélange—literally a geological term for "mixture"—of sandstone, shale, chert, greenstone, and serpentinite jumbled together.
+The Sonoma Coast sits atop the Franciscan Complex, a geologically chaotic assemblage of rocks formed between 150 and 20 million years ago through subduction of oceanic crust beneath the North American plate. This is not the orderly limestone-and-marl layering of Burgundy or Champagne. Instead, the Franciscan Complex is a mélange (literally a geological term for "mixture") of sandstone, shale, chert, greenstone, and serpentinite jumbled together.
 
-Soils derived from this parent material are typically shallow, well-drained, and infertile. Goldridge sandy loam dominates many sites, particularly in the Sebastopol Hills and portions of the West Sonoma Coast. This soil series—named for the town of Goldridge—consists of fine sandy loam over clay subsoil, formed from weathered sandstone. It drains rapidly, stressing vines and concentrating flavors.
+Soils derived from this parent material are typically shallow, well-drained, and infertile. Goldridge sandy loam dominates many sites, particularly in the Sebastopol Hills and portions of the West Sonoma Coast. This soil series (named for the town of Goldridge) consists of fine sandy loam over clay subsoil, formed from weathered sandstone. It drains rapidly, stressing vines and concentrating flavors.
 
 Other sites feature Franciscan shale, which breaks down into thin, platy fragments. These soils are even more austere, offering minimal water retention and forcing vines to root deeply. The resulting wines show pronounced minerality and tension.
 
 In the northernmost reaches near Annapolis, soils transition to include more volcanic material and decomposed granite, reflecting the area's proximity to Mendocino County's geological formations. These soils tend to produce slightly more powerful, structured wines than the sandstone-derived Goldridge series.
 
-Serpentinite—California's state rock—appears in scattered outcroppings. This greenish, magnesium-rich rock is toxic to many plants but can yield distinctive wines when viticulture succeeds. However, most Sonoma Coast vineyards avoid serpentinite in favor of more hospitable substrates.
+Serpentinite (California's state rock) appears in scattered outcroppings. This greenish, magnesium-rich rock is toxic to many plants but can yield distinctive wines when viticulture succeeds. However, most Sonoma Coast vineyards avoid serpentinite in favor of more hospitable substrates.
 
 ## Viticultural Zones: From Annapolis to Bodega Bay
 
@@ -44,9 +44,9 @@ Serpentinite—California's state rock—appears in scattered outcroppings. This
 
 The northernmost section of the West Sonoma Coast begins at the Mendocino County line. Here, the landscape resembles Mendocino more than Sonoma: vineyards emerge from towering redwood forests, carved from land that 19th-century homesteaders used for grazing and apple orchards after the Gold Rush.
 
-Annapolis sits at higher elevations—often 1,200-1,800 feet—making it one of the coldest viticultural areas in California. Peay Vineyards, the pioneering estate here, reports that their site averages just 1,900 degree days (Winkler Region I, equivalent to Champagne). Harvest sometimes occurs in November.
+Annapolis sits at higher elevations (often 1,200-1,800 feet) making it one of the coldest viticultural areas in California. Peay Vineyards, the pioneering estate here, reports that their site averages just 1,900 degree days (Winkler Region I, equivalent to Champagne). Harvest sometimes occurs in November.
 
-The wines from Annapolis show extreme precision, bright acidity, and herbal notes—thyme, sage, bay laurel—that reflect the surrounding forest ecology. Pinot Noir rarely exceeds 13% alcohol and displays red fruit (cranberry, pomegranate) rather than black fruit. Chardonnay is steely and citrus-driven, with pronounced salinity.
+The wines from Annapolis show extreme precision, bright acidity, and herbal notes (thyme, sage, bay laurel) that reflect the surrounding forest ecology. Pinot Noir rarely exceeds 13% alcohol and displays red fruit (cranberry, pomegranate) rather than black fruit. Chardonnay is steely and citrus-driven, with pronounced salinity.
 
 Key producers: Peay Vineyards, Hirsch Vineyards (though technically in Fort Ross-Seaview, stylistically similar).
 
@@ -86,7 +86,7 @@ Pinot Noir and Chardonnay dominate the Sonoma Coast, accounting for approximatel
 
 ### Pinot Noir
 
-Sonoma Coast Pinot Noir—particularly from the West Sonoma Coast—displays remarkable transparency to site. The wines are typically:
+Sonoma Coast Pinot Noir (particularly from the West Sonoma Coast) displays remarkable transparency to site. The wines are typically:
 
 - **Light to medium-bodied**: 12.5-13.5% alcohol in the coolest sites, up to 14% in warmer pockets
 - **Bright acidity**: pH levels of 3.4-3.6, compared to 3.6-3.8 in warmer regions
@@ -199,7 +199,7 @@ Conversely, the Sonoma Coast may become one of California's few refuges for cool
 
 The West Sonoma Coast AVA's approval represents a crucial step toward clarity and authenticity. As consumers learn to distinguish between the sprawling Sonoma Coast AVA and the focused West Sonoma Coast AVA, the region's identity will sharpen. Expect further sub-AVA applications in coming years, particularly in Annapolis and the Freestone-Occidental area.
 
-The Sonoma Coast—the true Sonoma Coast—produces some of California's finest wines. They are not easy wines; they demand attention and reward patience. But for those seeking transparency, precision, and age-worthiness in California Pinot Noir and Chardonnay, few regions offer more.
+The Sonoma Coast (the true Sonoma Coast) produces some of California's finest wines. They are not easy wines; they demand attention and reward patience. But for those seeking transparency, precision, and age-worthiness in California Pinot Noir and Chardonnay, few regions offer more.
 
 ---
 

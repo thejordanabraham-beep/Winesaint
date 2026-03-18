@@ -40,13 +40,13 @@ The drainage characteristics prove particularly important during wet vintages, a
 
 ### Unique Terroir Characteristics
 
-What distinguishes Vosgros from other Chablis Premier Crus is the particular expression of its terroir—a combination of generous sun exposure, optimal drainage, and the specific composition of its Kimmeridgian soils. Compared to the left-bank Premier Crus like Montmains or Montée de Tonnerre, Vosgros typically produces wines with slightly more body and richness while maintaining the steely minerality essential to Chablis character. The climat's position and exposition allow for excellent phenolic ripeness, resulting in wines that balance power with elegance.
+What distinguishes Vosgros from other Chablis Premier Crus is the particular expression of its terroir: a combination of generous sun exposure, optimal drainage, and the specific composition of its Kimmeridgian soils. Compared to the left-bank Premier Crus like Montmains or Montée de Tonnerre, Vosgros typically produces wines with slightly more body and richness while maintaining the steely minerality essential to Chablis character. The climat's position and exposition allow for excellent phenolic ripeness, resulting in wines that balance power with elegance.
 
 ## 3. Climate & Viticulture
 
 ### Microclimate within Chablis
 
-Chablis occupies one of France's most marginal viticultural zones, situated at approximately 48 degrees north latitude—the same parallel as Champagne. Vosgros experiences a semi-continental climate characterized by cold winters, warm summers, and relatively limited rainfall concentrated in spring and autumn. The right-bank position of Vosgros provides some shelter from prevailing westerly winds, creating a microclimate marginally warmer and more protected than some other sectors.
+Chablis occupies one of France's most marginal viticultural zones, situated at approximately 48 degrees north latitude: the same parallel as Champagne. Vosgros experiences a semi-continental climate characterized by cold winters, warm summers, and relatively limited rainfall concentrated in spring and autumn. The right-bank position of Vosgros provides some shelter from prevailing westerly winds, creating a microclimate marginally warmer and more protected than some other sectors.
 
 Average annual temperatures hover around 11°C (52°F), with significant diurnal temperature variation during the growing season. This variation proves crucial for maintaining acidity while developing flavor complexity. The Serein River valley moderates temperature extremes to some degree, though Vosgros remains vulnerable to the climatic challenges that define viticulture in this region.
 
@@ -54,7 +54,7 @@ Average annual temperatures hover around 11°C (52°F), with significant diurnal
 
 Spring frost represents the most significant climatic threat to Vosgros, as it does throughout Chablis. The critical period extends from late March through mid-May, when tender young shoots are vulnerable to freezing temperatures. Devastating frosts in 1957, 1961, 1981, 2003, 2016, and 2017 have prompted producers to invest heavily in frost protection systems.
 
-Modern viticultural practices in Vosgros typically employ multiple frost protection strategies. Many producers have installed aspersion systems (sprinklers) that coat vines with water; as the water freezes, it releases latent heat that protects the developing buds. Others use smudge pots (chaufferettes)—small oil-burning heaters placed throughout the vineyard—or wind machines that mix warmer upper air with cold ground-level air. Some progressive producers combine multiple systems to ensure maximum protection of their valuable Premier Cru vineyards.
+Modern viticultural practices in Vosgros typically employ multiple frost protection strategies. Many producers have installed aspersion systems (sprinklers) that coat vines with water; as the water freezes, it releases latent heat that protects the developing buds. Others use smudge pots (chaufferettes), small oil-burning heaters placed throughout the vineyard, or wind machines that mix warmer upper air with cold ground-level air. Some progressive producers combine multiple systems to ensure maximum protection of their valuable Premier Cru vineyards.
 
 ### Chardonnay Expressions
 
@@ -80,15 +80,15 @@ As the wines develop in bottle, secondary and tertiary characteristics emerge: r
 
 Within the Premier Cru hierarchy, Vosgros occupies a stylistic position that distinguishes it from its peers. Compared to Montée de Tonnerre, often considered the finest Premier Cru and most Grand Cru-like in character, Vosgros tends to be slightly less intense and profound, though it offers exceptional value and accessibility. Against Mont de Milieu, Vosgros generally shows more body and richness, with perhaps less overt minerality.
 
-Relative to Fourchaume, another right-bank Premier Cru, Vosgros typically displays more power and structure, with fruit that leans toward yellow rather than green spectrum. Compared to Vaillons, Vosgros wines tend to be fuller-bodied with more generous mid-palate weight, though potentially less finesse. These distinctions, while real, are subtle—all Premier Cru Chablis share the fundamental characteristics of high acidity, mineral expression, and restrained fruit that define the appellation.
+Relative to Fourchaume, another right-bank Premier Cru, Vosgros typically displays more power and structure, with fruit that leans toward yellow rather than green spectrum. Compared to Vaillons, Vosgros wines tend to be fuller-bodied with more generous mid-palate weight, though potentially less finesse. These distinctions, while real, are subtle, all Premier Cru Chablis share the fundamental characteristics of high acidity, mineral expression, and restrained fruit that define the appellation.
 
 ### Minerality, Acidity, Body Characteristics
 
-Minerality—that ineffable quality that wine professionals debate but consumers recognize—finds clear expression in Vosgros. The wines possess a stony, saline, flinty character that seems to directly reflect the ancient seabed on which the vines grow. This minerality provides a skeletal framework around which other flavor components organize themselves.
+Minerality (that ineffable quality that wine professionals debate but consumers recognize) finds clear expression in Vosgros. The wines possess a stony, saline, flinty character that seems to directly reflect the ancient seabed on which the vines grow. This minerality provides a skeletal framework around which other flavor components organize themselves.
 
 Acidity in Vosgros typically measures between 6 and 8 grams per liter of tartaric acid, providing a vibrant, mouth-watering freshness that balances the wine's fruit and makes it exceptionally food-friendly. This acidity softens somewhat with age but remains a defining characteristic even in mature bottles.
 
-Body and texture represent areas where Vosgros distinguishes itself within Chablis. These wines typically show medium to medium-plus body—fuller than village-level Chablis and many other Premier Crus, though not as weighty as Grand Cru. The texture often displays a certain roundness or viscosity that coats the palate, a characteristic enhanced by batonnage (lees stirring) when employed and by the natural phenolic ripeness achieved in favorable vintages.
+Body and texture represent areas where Vosgros distinguishes itself within Chablis. These wines typically show medium to medium-plus body, fuller than village-level Chablis and many other Premier Crus, though not as weighty as Grand Cru. The texture often displays a certain roundness or viscosity that coats the palate, a characteristic enhanced by batonnage (lees stirring) when employed and by the natural phenolic ripeness achieved in favorable vintages.
 
 ### How Terroir Shapes the Wine
 
@@ -140,7 +140,7 @@ Several distinguished producers own parcels in Vosgros, each bringing different 
 
 ### Benchmark Bottlings
 
-Louis Michel's Vosgros stands as perhaps the benchmark for traditionalist expression—pure, mineral-driven, and age-worthy. Their approach demonstrates how Vosgros can express the stony austerity of classic Chablis while developing profound complexity with age.
+Louis Michel's Vosgros stands as perhaps the benchmark for traditionalist expression, pure, mineral-driven, and age-worthy. Their approach demonstrates how Vosgros can express the stony austerity of classic Chablis while developing profound complexity with age.
 
 Daniel Dampt's Vosgros represents an excellent middle ground, accessible in youth but rewarding patience, showing both the climat's generous character and its mineral backbone.
 
@@ -156,7 +156,7 @@ Most quality-oriented producers allow malolactic fermentation to proceed, soften
 
 Vosgros Premier Cru's combination of minerality, acidity, and moderate body makes it exceptionally versatile with food. Classic Chablis pairings prove ideal:
 
-**Oysters and raw shellfish**: The wine's saline minerality and bright acidity perfectly complement fresh oysters, creating a synergistic pairing that highlights both wine and food. The Kimmeridgian connection—oyster shells in the soil, oysters on the plate—creates a poetic harmony.
+**Oysters and raw shellfish**: The wine's saline minerality and bright acidity perfectly complement fresh oysters, creating a synergistic pairing that highlights both wine and food. The Kimmeridgian connection (oyster shells in the soil, oysters on the plate) creates a poetic harmony.
 
 **Cooked shellfish and crustaceans**: Lobster, crab, scallops, and shrimp preparations benefit from Vosgros's textural richness and mineral backbone. Butter-based preparations work beautifully, as the wine's acidity cuts through richness.
 
@@ -182,4 +182,4 @@ Mature Vosgros (10+ years) should be approached more carefully. Older bottles ma
 
 ---
 
-Vosgros represents the essence of Premier Cru Chablis: wines of precision, complexity, and remarkable aging potential that transparently express their ancient terroir. While perhaps less celebrated than Montée de Tonnerre or the Grand Crus, Vosgros offers exceptional value and authentic Chablis character. For wine enthusiasts seeking to understand how soil, climate, and tradition converge to create distinctive wines, Vosgros provides an ideal study—classically structured yet generous, mineral yet fruity, accessible yet age-worthy. In an era when Chardonnay is grown globally and often heavily manipulated, Vosgros reminds us of wine's fundamental purpose: to capture a specific place in a specific time, offering drinkers a genuine taste of terroir.
+Vosgros represents the essence of Premier Cru Chablis: wines of precision, complexity, and remarkable aging potential that transparently express their ancient terroir. While perhaps less celebrated than Montée de Tonnerre or the Grand Crus, Vosgros offers exceptional value and authentic Chablis character. For wine enthusiasts seeking to understand how soil, climate, and tradition converge to create distinctive wines, Vosgros provides an ideal study, classically structured yet generous, mineral yet fruity, accessible yet age-worthy. In an era when Chardonnay is grown globally and often heavily manipulated, Vosgros reminds us of wine's fundamental purpose: to capture a specific place in a specific time, offering drinkers a genuine taste of terroir.

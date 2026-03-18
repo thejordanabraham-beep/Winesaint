@@ -4,7 +4,7 @@
 
 Les Pendars stands as one of Montagny's most respected Premier Cru vineyards, representing the refined expression of Chardonnay within the Côte Chalonnaise's southern sector. Located in the heart of the Montagny appellation, this distinguished climat occupies prime vineyard real estate that exemplifies the unique character distinguishing the Côte Chalonnaise from its more famous neighbors to the north.
 
-Within Burgundy's hierarchical classification system, Les Pendars holds Premier Cru status, placing it among the elite vineyards of the Montagny commune. The vineyard's position within the Côte Chalonnaise—Burgundy's transitional zone between the prestigious Côte d'Or and the more expansive Mâconnais—provides it with a distinctive terroir profile that combines elements of both regions while maintaining its own unique identity.
+Within Burgundy's hierarchical classification system, Les Pendars holds Premier Cru status, placing it among the elite vineyards of the Montagny commune. The vineyard's position within the Côte Chalonnaise (Burgundy's transitional zone between the prestigious Côte d'Or and the more expansive Mâconnais) provides it with a distinctive terroir profile that combines elements of both regions while maintaining its own unique identity.
 
 Geographically, Les Pendars sits within the broader context of the Saône-et-Loire département, approximately 15 kilometers south of Chalon-sur-Saône. The vineyard benefits from the Côte Chalonnaise's characteristic east-facing slopes that descend toward the Saône valley, positioning it within the continental climate zone that defines eastern Burgundy's viticultural landscape.
 

@@ -1,32 +1,32 @@
 # Puglia: Italy's Bulk Wine Giant Awakens
 
-The heel of Italy's boot produces more wine than the entire nation of Australia. This is not hyperbole—Puglia's 89,991 hectares of vineyards make it one of Europe's most prolific wine regions. Yet until recently, almost none of this ocean of wine bore the region's name. Instead, it traveled north in tanker trucks, destined to add alcohol and body to anemic wines from cooler climates, or disappeared into the EU's infamous wine lake for compulsory distillation.
+The heel of Italy's boot produces more wine than the entire nation of Australia. This is not hyperbole. Puglia's 89,991 hectares of vineyards make it one of Europe's most prolific wine regions. Yet until recently, almost none of this ocean of wine bore the region's name. Instead, it traveled north in tanker trucks, destined to add alcohol and body to anemic wines from cooler climates, or disappeared into the EU's infamous wine lake for compulsory distillation.
 
-This is changing. Slowly, unevenly, but unmistakably. Behind the bulk wine façade lies a collection of indigenous varieties found nowhere else, growing in conditions that would make most European winemakers weep with envy. The challenge is that Puglia's viticultural infrastructure was built for quantity, not quality—and the transition is proving more difficult than simply deciding to make better wine.
+This is changing. Slowly, unevenly, but unmistakably. Behind the bulk wine façade lies a collection of indigenous varieties found nowhere else, growing in conditions that would make most European winemakers weep with envy. The challenge is that Puglia's viticultural infrastructure was built for quantity, not quality, and the transition is proving more difficult than simply deciding to make better wine.
 
 ## GEOLOGY: The Limestone Platform
 
 Puglia occupies the Apulian Platform, a massive carbonate structure that has remained tectonically stable for millions of years while the rest of the Italian peninsula buckled and folded during the formation of the Apennines. This geological calm means Puglia lacks the complex soil mosaic found in regions like Piedmont or Tuscany. Instead, limestone dominates.
 
-The predominant soil type is terra rossa—red clay formed from the weathering of limestone in warm, seasonally dry conditions. This iron-rich clay sits directly atop calcareous bedrock throughout much of the region. The depth of this red soil varies considerably: in some areas, vines must penetrate through several meters of clay to reach the fractured limestone below; in others, the limestone lies barely a meter down.
+The predominant soil type is terra rossa, red clay formed from the weathering of limestone in warm, seasonally dry conditions. This iron-rich clay sits directly atop calcareous bedrock throughout much of the region. The depth of this red soil varies considerably: in some areas, vines must penetrate through several meters of clay to reach the fractured limestone below; in others, the limestone lies barely a meter down.
 
 ### The Murge Plateau
 
-The central spine of Puglia is the Murge, a low limestone plateau (maximum elevation around 680 meters) that divides the region roughly in half. Here, the terra rossa is shallower, and exposed limestone outcrops are common. The Murge's porous limestone allows for excellent drainage—essential in a region where autumn rains can be intense when they arrive—and the fractured bedrock provides a reservoir of water accessible to deep-rooted vines during summer drought.
+The central spine of Puglia is the Murge, a low limestone plateau (maximum elevation around 680 meters) that divides the region roughly in half. Here, the terra rossa is shallower, and exposed limestone outcrops are common. The Murge's porous limestone allows for excellent drainage (essential in a region where autumn rains can be intense when they arrive) and the fractured bedrock provides a reservoir of water accessible to deep-rooted vines during summer drought.
 
 Castel del Monte DOC, situated on the western slopes of the Murge, exemplifies this geology. Vineyards here grow in red clay mixed with limestone fragments and outcrops of white calcareous rock. The calcium carbonate content helps maintain soil structure even with significant clay presence, preventing the compaction that would otherwise occur in pure clay soils during Puglia's wet winters.
 
 ### Salento Peninsula: Deeper Clay, Ancient Limestone
 
-Moving south to the Salento Peninsula—the heel itself—the terra rossa deepens considerably. In areas around Manduria and Salice Salentino, clay soils can extend three to four meters before reaching limestone. This deeper clay profile retains more water, which paradoxically becomes crucial during Puglia's increasingly hot, dry summers.
+Moving south to the Salento Peninsula (the heel itself) the terra rossa deepens considerably. In areas around Manduria and Salice Salentino, clay soils can extend three to four meters before reaching limestone. This deeper clay profile retains more water, which paradoxically becomes crucial during Puglia's increasingly hot, dry summers.
 
-The limestone beneath Salento formed during the Cretaceous period (approximately 145 to 66 million years ago) in warm, shallow seas. It's hard, compact limestone—not the friable chalk of Champagne or the marly limestone of Burgundy. Vine roots cannot penetrate this rock directly; they must find cracks and fissures. In well-established, old-vine vineyards, these root systems can extend remarkably deep, accessing water stored in the fractured bedrock during winter rains.
+The limestone beneath Salento formed during the Cretaceous period (approximately 145 to 66 million years ago) in warm, shallow seas. It's hard, compact limestone, not the friable chalk of Champagne or the marly limestone of Burgundy. Vine roots cannot penetrate this rock directly; they must find cracks and fissures. In well-established, old-vine vineyards, these root systems can extend remarkably deep, accessing water stored in the fractured bedrock during winter rains.
 
 ### Tavoliere Plain: Fertile Alluvium
 
-Northern Puglia contains the Tavoliere delle Puglie, one of Italy's largest plains. Here, the geology shifts from limestone to alluvial deposits—fertile soils formed from material washed down from the Apennines. These deep, rich soils are ideal for high-yielding viticulture, which explains why this area became ground zero for Puglia's bulk wine production. Fertility is not inherently problematic, but combined with irrigation, generous pruning, and high-cropping varieties like Sangiovese and Trebbiano, the result is dilute wine.
+Northern Puglia contains the Tavoliere delle Puglie, one of Italy's largest plains. Here, the geology shifts from limestone to alluvial deposits, fertile soils formed from material washed down from the Apennines. These deep, rich soils are ideal for high-yielding viticulture, which explains why this area became ground zero for Puglia's bulk wine production. Fertility is not inherently problematic, but combined with irrigation, generous pruning, and high-cropping varieties like Sangiovese and Trebbiano, the result is dilute wine.
 
-The contrast with neighboring Basilicata is instructive. Basilicata's volcanic soils—particularly around Vulture, where Aglianico thrives—provide natural vigor control through lower fertility and better drainage. Puglia's limestone and clay soils, especially on the fertile plain, require more rigorous vineyard management to achieve concentration.
+The contrast with neighboring Basilicata is instructive. Basilicata's volcanic soils (particularly around Vulture, where Aglianico thrives) provide natural vigor control through lower fertility and better drainage. Puglia's limestone and clay soils, especially on the fertile plain, require more rigorous vineyard management to achieve concentration.
 
 ## CLIMATE: Mediterranean Abundance and Its Discontents
 
@@ -36,19 +36,19 @@ Annual rainfall averages 500-600 millimeters across most of the region, comparab
 
 ### The Blessing of Low Disease Pressure
 
-The dry growing season means fungal disease pressure is remarkably low. Downy mildew, powdery mildew, and botrytis—the banes of wetter European regions—rarely trouble Puglian vineyards. This natural disease resistance made Puglia attractive for bulk wine production: you could farm cheaply, with minimal spraying, and still harvest a crop.
+The dry growing season means fungal disease pressure is remarkably low. Downy mildew, powdery mildew, and botrytis (the banes of wetter European regions) rarely trouble Puglian vineyards. This natural disease resistance made Puglia attractive for bulk wine production: you could farm cheaply, with minimal spraying, and still harvest a crop.
 
 This same advantage now benefits quality-minded producers. Lower disease pressure means organic and biodynamic viticulture is more feasible than in humid regions. Several estates have converted to organic farming without the yield losses or quality risks that would occur in, say, Bordeaux or Burgundy.
 
 ### Heat and Drought: The Growing Challenge
 
-Summer temperatures regularly exceed 35°C, and heatwaves above 40°C are increasingly common. Combined with minimal rainfall, this creates significant water stress. For old bush vines with deep root systems, this stress can be beneficial—forcing vines to dig deep, reducing yields naturally, and concentrating flavors. For younger, trellised vines with shallower roots, or for vines on the Tavoliere's deep alluvial soils, drought stress can become yield-limiting and quality-threatening.
+Summer temperatures regularly exceed 35°C, and heatwaves above 40°C are increasingly common. Combined with minimal rainfall, this creates significant water stress. For old bush vines with deep root systems, this stress can be beneficial, forcing vines to dig deep, reducing yields naturally, and concentrating flavors. For younger, trellised vines with shallower roots, or for vines on the Tavoliere's deep alluvial soils, drought stress can become yield-limiting and quality-threatening.
 
-Irrigation becomes a management tool, not a crutch. The question is not whether to irrigate, but when and how much. Over-irrigation—particularly late in the season—dilutes wine and delays ripening. Deficit irrigation, carefully timed, can maintain vine health while preserving concentration.
+Irrigation becomes a management tool, not a crutch. The question is not whether to irrigate, but when and how much. Over-irrigation (particularly late in the season) dilutes wine and delays ripening. Deficit irrigation, carefully timed, can maintain vine health while preserving concentration.
 
 ### The Moderating Breezes
 
-Coastal vineyards benefit from sea breezes that moderate extreme heat and provide diurnal temperature variation. Inland areas, particularly on the Murge Plateau, experience wider day-night temperature swings due to elevation and distance from the coast. These cooler nights help preserve acidity—crucial for varieties like Primitivo and Negroamaro, which naturally produce low-acid wines.
+Coastal vineyards benefit from sea breezes that moderate extreme heat and provide diurnal temperature variation. Inland areas, particularly on the Murge Plateau, experience wider day-night temperature swings due to elevation and distance from the coast. These cooler nights help preserve acidity, crucial for varieties like Primitivo and Negroamaro, which naturally produce low-acid wines.
 
 The winds also matter. The Tramontana (north wind) brings cooler, drier air from the Adriatic. The Scirocco (southeast wind) arrives from Africa, hot and sometimes humid, raising temperatures and occasionally carrying Saharan dust. The Maestrale (northwest wind) is cool and dry. Vineyard aspect and exposure to these winds influence mesoclimate significantly.
 
@@ -68,25 +68,25 @@ Primitivo accounts for approximately 14% of Puglia's vineyard area, making it th
 
 The name "Primitivo" derives from the Latin *primativus*, meaning "first to ripen." In Puglia's heat, this variety can reach full ripeness by mid-to-late August, allowing producers to harvest before autumn rains. This early ripening is both advantage and challenge. On one hand, it avoids weather risks; on the other, it means picking during the hottest part of the year, when grape temperatures can exceed 35°C at harvest, risking volatile acidity and stuck fermentations.
 
-Primitivo is early-budding, making it vulnerable to spring frost—less common in Puglia than in northern regions, but still a risk in inland, higher-elevation sites. The variety is prone to poor fruit set in cool, wet springs, which rarely occurs in Puglia but can decimate yields in marginal years. It's also susceptible to drought stress, despite the region's dry summers; established bush vines cope better than younger trellised plantings.
+Primitivo is early-budding, making it vulnerable to spring frost, less common in Puglia than in northern regions, but still a risk in inland, higher-elevation sites. The variety is prone to poor fruit set in cool, wet springs, which rarely occurs in Puglia but can decimate yields in marginal years. It's also susceptible to drought stress, despite the region's dry summers; established bush vines cope better than younger trellised plantings.
 
 **Soil Preferences**: Primitivo performs best in Puglia's terra rossa over limestone. The clay provides water retention during dry summers, while the underlying limestone offers drainage during wet winters and forces roots deep. On the Tavoliere's fertile alluvial soils, Primitivo yields generously but produces dilute wines. The variety's natural vigor requires poor to moderate fertility for quality.
 
-**Wine Characteristics**: At its best—from old bush vines on limestone-based soils, harvested at 14-15% potential alcohol rather than 16-17%—Primitivo produces wines with dark berry fruit, plum, spice, and a distinctive herbal note. The tannins are moderate, the acidity low to moderate. The challenge is that Primitivo accumulates sugar faster than phenolic ripeness, leading to high alcohol before flavors fully develop. Many producers pick early to preserve freshness, accepting slightly under-ripe tannins; others wait for phenolic maturity and accept 16%+ alcohol.
+**Wine Characteristics**: At its best, from old bush vines on limestone-based soils, harvested at 14-15% potential alcohol rather than 16-17%, Primitivo produces wines with dark berry fruit, plum, spice, and a distinctive herbal note. The tannins are moderate, the acidity low to moderate. The challenge is that Primitivo accumulates sugar faster than phenolic ripeness, leading to high alcohol before flavors fully develop. Many producers pick early to preserve freshness, accepting slightly under-ripe tannins; others wait for phenolic maturity and accept 16%+ alcohol.
 
-The variety's association with jammy, high-alcohol wines has damaged its reputation, but a new generation of producers is demonstrating Primitivo's potential for balance—if yields are controlled and harvest timing carefully judged.
+The variety's association with jammy, high-alcohol wines has damaged its reputation, but a new generation of producers is demonstrating Primitivo's potential for balance, if yields are controlled and harvest timing carefully judged.
 
 ### Negroamaro: The Workhorse
 
-Negroamaro is Puglia's signature red grape, accounting for approximately 12% of plantings and dominating the Salento Peninsula. The name likely derives from Latin *niger* (black) and Greek *mavro* (also black)—"black-black," referencing the deeply colored skins. Some sources suggest *amaro* refers to the variety's bitter tannins, though this etymology is disputed.
+Negroamaro is Puglia's signature red grape, accounting for approximately 12% of plantings and dominating the Salento Peninsula. The name likely derives from Latin *niger* (black) and Greek *mavro* (also black), "black-black," referencing the deeply colored skins. Some sources suggest *amaro* refers to the variety's bitter tannins, though this etymology is disputed.
 
-Unlike Primitivo, Negroamaro is mid-to-late ripening, typically harvested in September. This later maturity is advantageous in Puglia's heat, allowing a longer hang time without excessive sugar accumulation. The variety is vigorous and high-yielding, capable of producing 100+ hectoliters per hectare on fertile soils—explaining its historical use in bulk wine production.
+Unlike Primitivo, Negroamaro is mid-to-late ripening, typically harvested in September. This later maturity is advantageous in Puglia's heat, allowing a longer hang time without excessive sugar accumulation. The variety is vigorous and high-yielding, capable of producing 100+ hectoliters per hectare on fertile soils, explaining its historical use in bulk wine production.
 
 **Viticultural Characteristics**: Negroamaro is relatively drought-tolerant once established, making it well-suited to Salento's hot, dry summers. It's less prone to disease than many varieties, thanks to thick skins and loose clusters. However, it can suffer from sunburn in extreme heat if canopy management is inadequate. The variety responds well to bush training (*alberello*), which provides natural shading and vigor control.
 
 **Soil Preferences**: Negroamaro thrives in Salento's deep terra rossa soils. The clay's water retention is beneficial for this variety, which maintains acidity better than Primitivo even in hot conditions. On lighter, sandier soils near the coast, Negroamaro produces wines with less structure but more elegance.
 
-**Wine Characteristics**: Negroamaro produces deeply colored wines with black fruit (blackberry, black cherry), herbal notes (dried herbs, tobacco), and firm tannins. The variety's natural bitterness—whether this is truly part of the name's origin or not—provides a structural backbone that distinguishes it from the softer Primitivo. Acidity is moderate, sufficient to provide balance in most vintages. Negroamaro is often blended with Malvasia Nera di Lecce (a different variety despite the name similarity) to add aromatic complexity and soften tannins.
+**Wine Characteristics**: Negroamaro produces deeply colored wines with black fruit (blackberry, black cherry), herbal notes (dried herbs, tobacco), and firm tannins. The variety's natural bitterness (whether this is truly part of the name's origin or not) provides a structural backbone that distinguishes it from the softer Primitivo. Acidity is moderate, sufficient to provide balance in most vintages. Negroamaro is often blended with Malvasia Nera di Lecce (a different variety despite the name similarity) to add aromatic complexity and soften tannins.
 
 The variety ages well. Riserva bottlings with 24-36 months of aging, often in large Slavonian oak botti, develop complexity while retaining freshness. Unlike Primitivo, which can become pruny and flat with age, Negroamaro maintains structure.
 
@@ -94,15 +94,15 @@ The variety ages well. Riserva bottlings with 24-36 months of aging, often in la
 
 Nero di Troia is Puglia's third indigenous red variety, accounting for approximately 4% of plantings and concentrated in the northern Daunia region around Castel del Monte. Despite the name, DNA analysis shows no connection to the ancient city of Troy; the name likely refers to the town of Troia in northern Puglia.
 
-The variety ripens late—typically mid-to-late September in Puglia—and is vigorous and productive. It requires warm conditions to fully ripen, which it finds even in northern Puglia's slightly cooler climate. Nero di Troia is susceptible to powdery mildew and requires careful canopy management, but Puglia's dry summers mitigate disease pressure.
+The variety ripens late (typically mid-to-late September in Puglia) and is vigorous and productive. It requires warm conditions to fully ripen, which it finds even in northern Puglia's slightly cooler climate. Nero di Troia is susceptible to powdery mildew and requires careful canopy management, but Puglia's dry summers mitigate disease pressure.
 
-**Wine Characteristics**: Nero di Troia produces wines with bright red fruit (cherry, raspberry), floral notes (violet), and pronounced acidity—unusual in Puglian reds. The tannins are fine-grained but abundant, providing structure for aging. The combination of acidity and tannin gives Nero di Troia wines a more "northern" profile than Primitivo or Negroamaro, leading to comparisons with Nebbiolo (though the varieties are unrelated and the wines quite different in practice).
+**Wine Characteristics**: Nero di Troia produces wines with bright red fruit (cherry, raspberry), floral notes (violet), and pronounced acidity, unusual in Puglian reds. The tannins are fine-grained but abundant, providing structure for aging. The combination of acidity and tannin gives Nero di Troia wines a more "northern" profile than Primitivo or Negroamaro, leading to comparisons with Nebbiolo (though the varieties are unrelated and the wines quite different in practice).
 
 The variety's high acidity makes it valuable for blending, adding freshness to Primitivo or Negroamaro. As a varietal wine, Nero di Troia can be austere in youth, requiring several years to integrate tannins and develop complexity. The best examples come from Castel del Monte DOC, particularly from vineyards on the Murge Plateau's limestone soils.
 
 ### The International Varieties: Chardonnay and Pinot Grigio
 
-Chardonnay and Pinot Grigio have expanded rapidly in Puglia, planted primarily for bulk production. These grapes are harvested, often by machine, and the juice or wine is sold to large bottlers in northern Italy—particularly the Veneto—to satisfy international supermarket demand for inexpensive Italian white wine.
+Chardonnay and Pinot Grigio have expanded rapidly in Puglia, planted primarily for bulk production. These grapes are harvested, often by machine, and the juice or wine is sold to large bottlers in northern Italy (particularly the Veneto) to satisfy international supermarket demand for inexpensive Italian white wine.
 
 The wines are unremarkable. Puglia's heat and dry conditions produce Chardonnay with low acidity, high alcohol, and little varietal character. Pinot Grigio fares even worse, producing neutral wines lacking the crispness that defines the variety in cooler climates. Both varieties are explicitly allowed in several Puglian DOCs, a regulatory decision driven by market demand rather than quality considerations.
 
@@ -110,15 +110,15 @@ A few producers are attempting serious Chardonnay, using early harvesting, night
 
 ### Trebbiano: The White Bulk Variety
 
-Two forms of Trebbiano—Trebbiano Toscano and Trebbiano Giallo—account for significant white plantings, used primarily for bulk wine production. Trebbiano Toscano, Italy's most-planted white variety, produces high yields of neutral, low-acid wine. In Puglia's heat, it becomes even more characterless. Trebbiano Giallo is slightly better, with more aromatic potential, but remains a bulk variety.
+Two forms of Trebbiano (Trebbiano Toscano and Trebbiano Giallo) account for significant white plantings, used primarily for bulk wine production. Trebbiano Toscano, Italy's most-planted white variety, produces high yields of neutral, low-acid wine. In Puglia's heat, it becomes even more characterless. Trebbiano Giallo is slightly better, with more aromatic potential, but remains a bulk variety.
 
 ### Other Varieties: Malvasia, Bombino, and Fiano
 
-Malvasia Nera di Lecce (distinct from other Malvasias) is often blended with Negroamaro in Salento, adding aromatic lift. Bombino Bianco produces light, fresh whites in coastal areas. Fiano, though more associated with Campania, is grown in Puglia and produces the region's most interesting white wines—medium-bodied with stone fruit, melon, and moderate acidity.
+Malvasia Nera di Lecce (distinct from other Malvasias) is often blended with Negroamaro in Salento, adding aromatic lift. Bombino Bianco produces light, fresh whites in coastal areas. Fiano, though more associated with Campania, is grown in Puglia and produces the region's most interesting white wines, medium-bodied with stone fruit, melon, and moderate acidity.
 
 ## WINES: From Bulk to Boutique
 
-Puglia's wine production remains dominated by bulk wine and inexpensive bottlings. Co-operatives handle most winemaking, with grape-growers—not wine producers—as the norm. Many growers have begun bottling part of their production, but few have formal winemaking training, which shows in the wines.
+Puglia's wine production remains dominated by bulk wine and inexpensive bottlings. Co-operatives handle most winemaking, with grape-growers (not wine producers) as the norm. Many growers have begun bottling part of their production, but few have formal winemaking training, which shows in the wines.
 
 However, a quality tier is emerging. These producers share common approaches: drastically reduced yields, careful harvest timing, indigenous varieties, and minimal intervention in the cellar.
 
@@ -126,9 +126,9 @@ However, a quality tier is emerging. These producers share common approaches: dr
 
 Historically, Puglian viticulture meant bush vines (*alberello*) trained low to the ground. This training system, inherited from ancient Greek colonists, suited Puglia's conditions: the low canopy provided shade for fruit, reducing sunburn; the bush form offered natural vigor control on fertile soils; and the lack of trellising reduced costs.
 
-Many old-vine vineyards remain in *alberello*, particularly in Salento. These vines—often 50, 60, even 80+ years old—are Puglia's quality foundation. Their deep root systems access water unavailable to younger vines; their natural low yields concentrate flavors; their genetic diversity (old vineyards were often field selections, not clones) adds complexity.
+Many old-vine vineyards remain in *alberello*, particularly in Salento. These vines (often 50, 60, even 80+ years old) are Puglia's quality foundation. Their deep root systems access water unavailable to younger vines; their natural low yields concentrate flavors; their genetic diversity (old vineyards were often field selections, not clones) adds complexity.
 
-Unfortunately, EU subsidies in the 1990s and 2000s encouraged grubbing up vineyards to reduce overproduction. Many growers destroyed old bush vines while retaining high-yielding trellised plantings on fertile soils—exactly backwards for quality. The old vines that remain are increasingly valuable.
+Unfortunately, EU subsidies in the 1990s and 2000s encouraged grubbing up vineyards to reduce overproduction. Many growers destroyed old bush vines while retaining high-yielding trellised plantings on fertile soils, exactly backwards for quality. The old vines that remain are increasingly valuable.
 
 Winemaking traditionally involved large Slavonian oak *botti* for aging. These large casks (20-50 hectoliters) allow slow oxidation and tannin integration without adding oak flavor. Negroamaro and Nero di Troia, in particular, benefit from this aging, softening their tannins while developing complexity. Primitivo is less commonly aged in *botti*, as the variety's lower tannin and acidity make it less suited to oxidative aging.
 
@@ -146,13 +146,13 @@ Puglia produces significant quantities of rosato, particularly from Negroamaro. 
 
 ### The Yield Problem
 
-Even at DOC level, permitted yields in Puglia are excessive. Many DOCs allow 100+ hectoliters per hectare—double what quality-focused regions permit. This reflects Puglia's bulk wine heritage and the political influence of co-operatives and large producers who depend on volume.
+Even at DOC level, permitted yields in Puglia are excessive. Many DOCs allow 100+ hectoliters per hectare, double what quality-focused regions permit. This reflects Puglia's bulk wine heritage and the political influence of co-operatives and large producers who depend on volume.
 
 Quality producers ignore these limits, farming at 40-60 hectoliters per hectare or less. The gap between legal yields and quality yields is wider in Puglia than perhaps any other Italian region.
 
 ## APPELLATIONS: A Framework Awaiting Implementation
 
-Puglia has 32 DOCs and DOCGs as of 2022, but DOC production represents a tiny fraction of total output. The overarching IGT Puglia encompasses five regional IGTs—Daunia, Murgia, Valle d'Itria, Tarantino, and Salento—each divided into smaller DOCs.
+Puglia has 32 DOCs and DOCGs as of 2022, but DOC production represents a tiny fraction of total output. The overarching IGT Puglia encompasses five regional IGTs (Daunia, Murgia, Valle d'Itria, Tarantino, and Salento) each divided into smaller DOCs.
 
 ### Northern Puglia: Daunia
 
@@ -192,9 +192,9 @@ Puglia's vintage variation is less dramatic than in cooler, wetter regions. The 
 
 ### Ideal Conditions
 
-The best vintages balance summer heat with adequate water availability and dry conditions at harvest. Moderate summer temperatures (by Puglian standards—meaning daytime highs around 32-35°C rather than 38-40°C) allow slower, more even ripening. Some rainfall in July or early August can relieve drought stress without triggering disease. Dry, warm conditions in late August and September permit optimal harvest timing.
+The best vintages balance summer heat with adequate water availability and dry conditions at harvest. Moderate summer temperatures (by Puglian standards, meaning daytime highs around 32-35°C rather than 38-40°C) allow slower, more even ripening. Some rainfall in July or early August can relieve drought stress without triggering disease. Dry, warm conditions in late August and September permit optimal harvest timing.
 
-Cooler vintages—rare in Puglia—can produce wines with better acidity and freshness, particularly for Primitivo. However, if temperatures are too cool, Negroamaro and Nero di Troia may struggle to reach full ripeness.
+Cooler vintages (rare in Puglia) can produce wines with better acidity and freshness, particularly for Primitivo. However, if temperatures are too cool, Negroamaro and Nero di Troia may struggle to reach full ripeness.
 
 ### Challenging Conditions
 
@@ -204,7 +204,7 @@ Spring frost, though uncommon, can devastate yields when it occurs. The early-bu
 
 ### Recent Vintages
 
-Climate change is making Puglian vintages hotter and more erratic. Harvest dates have advanced significantly—Primitivo that once ripened in mid-September now often comes in during August. Extreme heat events (40°C+) are more frequent, stressing vines and sometimes causing photosynthesis to shut down during the hottest part of summer.
+Climate change is making Puglian vintages hotter and more erratic. Harvest dates have advanced significantly. Primitivo that once ripened in mid-September now often comes in during August. Extreme heat events (40°C+) are more frequent, stressing vines and sometimes causing photosynthesis to shut down during the hottest part of summer.
 
 Producers are adapting by seeking higher-elevation sites, managing canopies to shade fruit, and in some cases, harvesting earlier to preserve acidity, even if it means slightly under-ripe tannins.
 
@@ -214,7 +214,7 @@ Puglia's quality tier remains small, but several estates have demonstrated the r
 
 ### Primitivo Specialists
 
-**A-Mano** (Salento): Founded in 2001, A-Mano works with old-vine Primitivo and Negroamaro from multiple sites across Salento. The estate focuses on balance rather than power, harvesting earlier than most to preserve freshness. Their Primitivo bottlings typically show 14-14.5% alcohol—low for the variety in Puglia—with bright red fruit and herbal notes rather than jammy intensity.
+**A-Mano** (Salento): Founded in 2001, A-Mano works with old-vine Primitivo and Negroamaro from multiple sites across Salento. The estate focuses on balance rather than power, harvesting earlier than most to preserve freshness. Their Primitivo bottlings typically show 14-14.5% alcohol (low for the variety in Puglia) with bright red fruit and herbal notes rather than jammy intensity.
 
 **Masseria Li Veli** (Salice Salentino): This estate produces both Primitivo and Negroamaro from estate vineyards around Salice Salentino. The winemaking emphasizes large botti aging for structure without oak dominance. The Primitivo "Askos" comes from 60-year-old bush vines and shows the variety's potential for savory complexity.
 
@@ -232,7 +232,7 @@ Puglia's quality tier remains small, but several estates have demonstrated the r
 
 ### Estates Working Across Varieties
 
-**Gianfranco Fino** (Manduria): Fino produces some of Puglia's most sought-after (and expensive) wines from old-vine Primitivo. The "Es" bottling comes from 60-80-year-old bush vines in Manduria, harvested at full phenolic ripeness regardless of sugar levels—which often means 16%+ alcohol. The wines are powerful, concentrated, and polarizing: admirers praise their intensity and complexity; critics argue they're unbalanced and atypical. Regardless, Fino has demonstrated that Puglian wines can command premium prices.
+**Gianfranco Fino** (Manduria): Fino produces some of Puglia's most sought-after (and expensive) wines from old-vine Primitivo. The "Es" bottling comes from 60-80-year-old bush vines in Manduria, harvested at full phenolic ripeness regardless of sugar levels, which often means 16%+ alcohol. The wines are powerful, concentrated, and polarizing: admirers praise their intensity and complexity; critics argue they're unbalanced and atypical. Regardless, Fino has demonstrated that Puglian wines can command premium prices.
 
 **Agricole Vallone** (Brindisi): This family estate produces both Negroamaro and Malvasia Nera across multiple appellations. Their "Graticciaia" is a Negroamaro passito (dried-grape wine) that shows the variety's potential for sweetness balanced by its inherent structure and bitterness.
 
@@ -240,11 +240,11 @@ Puglia's quality tier remains small, but several estates have demonstrated the r
 
 Puglia's quality revolution faces structural challenges. The region's viticultural infrastructure was built for bulk production: co-operatives with industrial-scale equipment, grape-growers who sell by the ton rather than by quality, and a regulatory system that permits excessive yields and fails to protect terroir.
 
-Change requires investment in education—teaching growers to farm for quality rather than quantity—and in infrastructure for small-scale, quality-focused production. It requires stricter DOC regulations that meaningfully distinguish quality levels and protect specific terroirs. And it requires market development: convincing consumers that Puglia can produce wines worth seeking out, not just inexpensive bulk offerings.
+Change requires investment in education (teaching growers to farm for quality rather than quantity) and in infrastructure for small-scale, quality-focused production. It requires stricter DOC regulations that meaningfully distinguish quality levels and protect specific terroirs. And it requires market development: convincing consumers that Puglia can produce wines worth seeking out, not just inexpensive bulk offerings.
 
 The old-vine heritage is both opportunity and vulnerability. These ancient bush-vine vineyards represent Puglia's quality foundation, but they're labor-intensive, uneconomical at bulk wine prices, and vulnerable to grubbing when growers retire. Preserving them requires making quality wine economically viable.
 
-Puglia's indigenous varieties—Primitivo, Negroamaro, Nero di Troia—offer distinctiveness in an increasingly homogenized wine world. The challenge is demonstrating their quality potential while overcoming reputations built on bulk wine. The region's terroir—limestone soils, Mediterranean climate, low disease pressure—provides advantages. Whether Puglia can translate these advantages into a sustainable quality wine industry remains an open question.
+Puglia's indigenous varieties (Primitivo, Negroamaro, Nero di Troia) offer distinctiveness in an increasingly homogenized wine world. The challenge is demonstrating their quality potential while overcoming reputations built on bulk wine. The region's terroir (limestone soils, Mediterranean climate, low disease pressure) provides advantages. Whether Puglia can translate these advantages into a sustainable quality wine industry remains an open question.
 
 ## Sources and Further Reading
 

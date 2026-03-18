@@ -1,8 +1,8 @@
 # Penedès: Catalonia's Quiet Revolution
 
-Penedès doesn't shout. While Rioja commands attention with oak and tradition, and Priorat dazzles with power and price, Penedès has spent the last three decades quietly reinventing itself—twice. First came the sparkling wine boom that made Cava a global brand. Then, just as the region risked becoming synonymous with industrial fizz, a new generation began excavating forgotten indigenous varieties and rediscovering high-altitude vineyards. Today, Penedès produces everything from mass-market Cava to some of Spain's most compelling still wines, a duality that makes it both fascinating and frustratingly difficult to define.
+Penedès doesn't shout. While Rioja commands attention with oak and tradition, and Priorat dazzles with power and price, Penedès has spent the last three decades quietly reinventing itself, twice. First came the sparkling wine boom that made Cava a global brand. Then, just as the region risked becoming synonymous with industrial fizz, a new generation began excavating forgotten indigenous varieties and rediscovering high-altitude vineyards. Today, Penedès produces everything from mass-market Cava to some of Spain's most compelling still wines, a duality that makes it both fascinating and frustratingly difficult to define.
 
-The numbers tell part of the story: roughly 26,000 hectares under vine, stretching from the Mediterranean coast to elevations approaching 800 meters in the pre-Pyrenean foothills. Production volume exceeds 200 million bottles annually, with Cava accounting for approximately 95% of that figure. But volume obscures complexity. This is a region where limestone meets clay meets ancient marine deposits, where maritime breezes collide with continental temperature swings, and where Xarel·lo—a grape most consumers have never heard of—might be Spain's most underrated white variety.
+The numbers tell part of the story: roughly 26,000 hectares under vine, stretching from the Mediterranean coast to elevations approaching 800 meters in the pre-Pyrenean foothills. Production volume exceeds 200 million bottles annually, with Cava accounting for approximately 95% of that figure. But volume obscures complexity. This is a region where limestone meets clay meets ancient marine deposits, where maritime breezes collide with continental temperature swings, and where Xarel·lo (a grape most consumers have never heard of) might be Spain's most underrated white variety.
 
 ## GEOLOGY: Three Zones, Ancient Seas
 
@@ -10,25 +10,25 @@ Penedès divides naturally into three horizontal bands running parallel to the c
 
 ### Baix Penedès (Lower Penedès)
 
-The coastal strip, extending from sea level to roughly 250 meters elevation, sits on relatively young alluvial deposits and sandy soils. Between 5 and 2 million years ago, during the Pliocene epoch, this area formed the floor of a shallow sea that periodically advanced and retreated. The resulting soils are deep, fertile, and well-drained—too fertile, in fact, for quality viticulture. Most serious producers avoid the Baix Penedès, leaving it to high-volume operations focused on yield rather than concentration.
+The coastal strip, extending from sea level to roughly 250 meters elevation, sits on relatively young alluvial deposits and sandy soils. Between 5 and 2 million years ago, during the Pliocene epoch, this area formed the floor of a shallow sea that periodically advanced and retreated. The resulting soils are deep, fertile, and well-drained, too fertile, in fact, for quality viticulture. Most serious producers avoid the Baix Penedès, leaving it to high-volume operations focused on yield rather than concentration.
 
-The exception is the immediate coastal zone near Sitges, where calcareous deposits appear in pockets. Here, on thin soils over limestone bedrock, Malvasía de Sitges—the local name for Malvasia di Candia Aromatica—produces sweet wines of genuine interest, though production remains minuscule.
+The exception is the immediate coastal zone near Sitges, where calcareous deposits appear in pockets. Here, on thin soils over limestone bedrock, Malvasía de Sitges (the local name for Malvasia di Candia Aromatica) produces sweet wines of genuine interest, though production remains minuscule.
 
 ### Mitjà Penedès (Middle Penedès)
 
-This is Penedès's heartland, stretching from approximately 250 to 500 meters elevation. The geology becomes dramatically more interesting. During the Miocene epoch, roughly 23 to 5 million years ago, tectonic activity created a complex patchwork of sedimentary deposits. The dominant soil type is clay-limestone—what the French would call argilo-calcaire—with varying ratios of clay to calcium carbonate.
+This is Penedès's heartland, stretching from approximately 250 to 500 meters elevation. The geology becomes dramatically more interesting. During the Miocene epoch, roughly 23 to 5 million years ago, tectonic activity created a complex patchwork of sedimentary deposits. The dominant soil type is clay-limestone (what the French would call argilo-calcaire) with varying ratios of clay to calcium carbonate.
 
 In the lower reaches of the Mitjà, closer to 250 meters, clay content increases, producing deeper, more water-retentive soils. As elevation increases, limestone becomes more prevalent. Around Sant Sadurní d'Anoia, the epicenter of Cava production, the bedrock is predominantly calcareous, often appearing as hard limestone interspersed with softer marl layers. Fossil content is high; small marine shells and coral fragments appear regularly in vineyard soils, remnants of that ancient Miocene sea.
 
-The calcaire here differs from Burgundian limestone in two important ways. First, it's harder and more compact, forcing vine roots to exploit existing fractures rather than penetrating the rock itself. Second, it contains higher levels of magnesium—technically making some of it dolomitic limestone—which may contribute to the distinctive mineral tension in wines from sites like Subirats and Torrelavit.
+The calcaire here differs from Burgundian limestone in two important ways. First, it's harder and more compact, forcing vine roots to exploit existing fractures rather than penetrating the rock itself. Second, it contains higher levels of magnesium (technically making some of it dolomitic limestone) which may contribute to the distinctive mineral tension in wines from sites like Subirats and Torrelavit.
 
 ### Alt Penedès (Upper Penedès)
 
-Above 500 meters, the character shifts again. The Alt Penedès climbs into the foothills of the Ordal and Montserrat ranges, reaching nearly 800 meters in places. Here, the geology reflects the region's more violent tectonic past. Limestone remains dominant, but it's fractured and jumbled, interspersed with patches of schist and slate—metamorphic rocks that indicate ancient heat and pressure.
+Above 500 meters, the character shifts again. The Alt Penedès climbs into the foothills of the Ordal and Montserrat ranges, reaching nearly 800 meters in places. Here, the geology reflects the region's more violent tectonic past. Limestone remains dominant, but it's fractured and jumbled, interspersed with patches of schist and slate, metamorphic rocks that indicate ancient heat and pressure.
 
-These high-elevation sites, particularly around Mediona and Font-rubí, sit on shallow soils over fractured limestone bedrock. Total soil depth rarely exceeds 40-50 centimeters. Water-holding capacity is low, forcing vines to root deeply through cracks in the bedrock. In drought years—increasingly common—these vineyards suffer genuine stress, concentrating flavors but reducing yields dramatically.
+These high-elevation sites, particularly around Mediona and Font-rubí, sit on shallow soils over fractured limestone bedrock. Total soil depth rarely exceeds 40-50 centimeters. Water-holding capacity is low, forcing vines to root deeply through cracks in the bedrock. In drought years (increasingly common) these vineyards suffer genuine stress, concentrating flavors but reducing yields dramatically.
 
-The comparison to neighboring regions illuminates Penedès's geological identity. To the north, Priorat's famous llicorella (decomposed schist) creates an entirely different viticultural environment—poorer, more acidic, more dramatically draining. To the west, Conca de Barberà shares Penedès's calcareous character but lacks the elevation range and maritime influence. Penedès occupies a middle ground: calcareous enough for elegance and tension, but with sufficient clay to provide water retention and body.
+The comparison to neighboring regions illuminates Penedès's geological identity. To the north, Priorat's famous llicorella (decomposed schist) creates an entirely different viticultural environment, poorer, more acidic, more dramatically draining. To the west, Conca de Barberà shares Penedès's calcareous character but lacks the elevation range and maritime influence. Penedès occupies a middle ground: calcareous enough for elegance and tension, but with sufficient clay to provide water retention and body.
 
 ## CLIMATE: Mediterranean with Complications
 
@@ -36,7 +36,7 @@ On paper, Penedès is Mediterranean. In practice, it's more nuanced.
 
 The Baix Penedès experiences textbook Mediterranean conditions: mild, wet winters averaging 500-600mm annual rainfall, hot dry summers with temperatures regularly exceeding 30°C, and minimal frost risk. The Mediterranean Sea, just 20 kilometers from Sant Sadurní d'Anoia at the nearest point, moderates temperature extremes. Diurnal variation is modest, typically 10-12°C during the growing season.
 
-But as elevation increases, continental influences assert themselves. The Alt Penedès, particularly sites above 600 meters, experiences significantly cooler nights—diurnal swings of 15-18°C are common in August and September. Winter frosts become a real concern. Spring frost risk, while lower than in truly continental regions like Chablis, has increased in recent years as warmer springs trigger earlier budbreak.
+But as elevation increases, continental influences assert themselves. The Alt Penedès, particularly sites above 600 meters, experiences significantly cooler nights, diurnal swings of 15-18°C are common in August and September. Winter frosts become a real concern. Spring frost risk, while lower than in truly continental regions like Chablis, has increased in recent years as warmer springs trigger earlier budbreak.
 
 Annual rainfall varies dramatically by elevation and orientation. Coastal areas receive 500-550mm, adequate but not generous. The Mitjà Penedès sees 550-650mm, with most falling between October and April. The Alt Penedès, exposed to weather systems moving inland from the coast, can receive 700-800mm, though distribution is erratic. Drought stress is increasingly common in all three zones, particularly during July and August when rainfall often drops to near zero.
 
@@ -54,7 +54,7 @@ Drought is the more immediate concern. The region experienced severe water stres
 
 ## GRAPES: Indigenous Resilience
 
-Penedès grows the full catalog of international varieties—Chardonnay, Cabernet Sauvignon, Merlot, Syrah—and produces competent wines from them. But the region's identity lies in its indigenous varieties, particularly the white grapes that form the backbone of Cava.
+Penedès grows the full catalog of international varieties (Chardonnay, Cabernet Sauvignon, Merlot, Syrah) and produces competent wines from them. But the region's identity lies in its indigenous varieties, particularly the white grapes that form the backbone of Cava.
 
 ### Xarel·lo
 
@@ -62,11 +62,11 @@ This is Penedès's signature grape, accounting for roughly 25% of total planting
 
 The grape's thick skin provides good disease resistance, crucial in humid coastal zones. It handles drought stress reasonably well, though extended water deficit reduces berry size and can create excessive concentration. Xarel·lo shows strong affinity for calcareous soils; wines from limestone sites in the Mitjà Penedès display pronounced mineral character and saline notes.
 
-In Cava, Xarel·lo provides body and structure. In still wines—an increasingly important category—it offers something more interesting: a combination of weight and tension that recalls white Rhône varieties, with flavors of fennel, bitter almond, and stone fruit. Acidity is moderate, typically 5.5-6.5 g/L, but the wine's texture and salinity create a perception of freshness. The best examples age surprisingly well, developing tertiary notes of beeswax and dried herbs over 5-7 years.
+In Cava, Xarel·lo provides body and structure. In still wines (an increasingly important category) it offers something more interesting: a combination of weight and tension that recalls white Rhône varieties, with flavors of fennel, bitter almond, and stone fruit. Acidity is moderate, typically 5.5-6.5 g/L, but the wine's texture and salinity create a perception of freshness. The best examples age surprisingly well, developing tertiary notes of beeswax and dried herbs over 5-7 years.
 
 ### Macabeo (Viura)
 
-Known as Viura in Rioja, Macabeo accounts for roughly 20% of Penedès plantings. It buds and ripens early—a liability in frost-prone sites but an advantage in hot years when extended hang time can lead to flabbiness. The grape is naturally high in acidity, often reaching 7-8 g/L at harvest, making it invaluable for Cava production.
+Known as Viura in Rioja, Macabeo accounts for roughly 20% of Penedès plantings. It buds and ripens early: a liability in frost-prone sites but an advantage in hot years when extended hang time can lead to flabbiness. The grape is naturally high in acidity, often reaching 7-8 g/L at harvest, making it invaluable for Cava production.
 
 Macabeo is less site-specific than Xarel·lo, performing adequately on a wide range of soils. It's also less distinctive, producing neutral wines with apple and citrus flavors. In Cava blends, it provides freshness and lift. As a still varietal wine, Macabeo rarely excites, though a handful of producers working with old vines in the Alt Penedès have produced examples with genuine character.
 
@@ -80,13 +80,13 @@ Parellada is the lightest and most elegant of the three Cava varieties, contribu
 
 This red-skinned mutation of Xarel·lo nearly disappeared in the late 20th century. Fewer than 10 hectares remained in 2000. A concerted rescue effort, led by producers like Parés Baltà and Albet i Noya, has increased plantings to roughly 40 hectares, though it remains rare.
 
-Xarel·lo Vermell produces light-bodied red wines with high acidity and distinctive herbal character—thyme, rosemary, wild fennel. It's not a grape for power or concentration, but in a region dominated by overextracted reds, its freshness and drinkability are virtues. Most examples are best consumed within 2-3 years of vintage.
+Xarel·lo Vermell produces light-bodied red wines with high acidity and distinctive herbal character, thyme, rosemary, wild fennel. It's not a grape for power or concentration, but in a region dominated by overextracted reds, its freshness and drinkability are virtues. Most examples are best consumed within 2-3 years of vintage.
 
 ### Sumoll
 
 Another rescued indigenous variety, Sumoll (sometimes spelled Sumoi) produces pale, aromatic red wines reminiscent of Pinot Noir or Gamay. The grape is thin-skinned and disease-prone, requiring careful site selection and low yields. Total plantings remain under 100 hectares, concentrated in the Alt Penedès.
 
-Sumoll's revival reflects a broader trend in Penedès: a rejection of the international-variety monoculture that dominated the 1990s and 2000s, and a renewed interest in grapes that express local character. The wines are divisive—some critics find them too light and simple—but they offer a compelling alternative to the region's often heavy, oaky reds.
+Sumoll's revival reflects a broader trend in Penedès: a rejection of the international-variety monoculture that dominated the 1990s and 2000s, and a renewed interest in grapes that express local character. The wines are divisive (some critics find them too light and simple) but they offer a compelling alternative to the region's often heavy, oaky reds.
 
 ### International Varieties
 
@@ -108,7 +108,7 @@ The method is Champagne's: secondary fermentation in bottle, aging on lees, disg
 
 The traditional blend is Xarel·lo, Macabeo, and Parellada, though proportions vary widely. Xarel·lo provides body and texture, Macabeo contributes acidity and freshness, Parellada adds aromatics and finesse. Increasingly, producers are adding Chardonnay for premium cuvées, sometimes reaching 50-60% of the blend.
 
-Quality varies enormously. Industrial Cava—the stuff sold for €5 in supermarkets—is often thin, neutral, and excessively sweet (Brut legally allows up to 12 g/L residual sugar, and many producers max it out). At the other extreme, small-production Cava de Paraje Calificado can rival good grower Champagne in complexity, with extended lees aging developing brioche and almond notes over the base wine's citrus and mineral character.
+Quality varies enormously. Industrial Cava (the stuff sold for €5 in supermarkets) is often thin, neutral, and excessively sweet (Brut legally allows up to 12 g/L residual sugar, and many producers max it out). At the other extreme, small-production Cava de Paraje Calificado can rival good grower Champagne in complexity, with extended lees aging developing brioche and almond notes over the base wine's citrus and mineral character.
 
 The dosage debate mirrors Champagne's. Most producers add 6-10 g/L for Brut, arguing that Cava's naturally high acidity requires some balancing sweetness. A growing minority, particularly among the Corpinnat group (producers who left the Cava DO in 2019 to create their own certification), are producing Brut Nature wines (0-3 g/L residual sugar) that emphasize terroir and tension over immediate drinkability.
 
@@ -132,13 +132,13 @@ Garnatxa (Grenache) performs well in the warmer sites of the Mitjà Penedès, pr
 
 ### Fortified and Sweet Wines
 
-Malvasía de Sitges, a sweet wine made from air-dried Malvasia grapes, represents a tiny but historically significant category. Production is concentrated around the coastal town of Sitges, where a handful of producers continue the tradition. The wines are amber-colored, intensely aromatic (orange peel, honey, dried apricot), and quite sweet (100-150 g/L residual sugar). Quality can be high, but production is minuscule—perhaps 50,000 bottles annually across all producers.
+Malvasía de Sitges, a sweet wine made from air-dried Malvasia grapes, represents a tiny but historically significant category. Production is concentrated around the coastal town of Sitges, where a handful of producers continue the tradition. The wines are amber-colored, intensely aromatic (orange peel, honey, dried apricot), and quite sweet (100-150 g/L residual sugar). Quality can be high, but production is minuscule, perhaps 50,000 bottles annually across all producers.
 
 ## APPELLATIONS AND ZONES
 
 Penedès operates under the DO Penedès designation, established in 1960. Unlike Burgundy or the Jura, there's no hierarchy of village or single-vineyard appellations. The DO permits producers to indicate subzones (Baix, Mitjà, Alt) on labels, but few do.
 
-In 2019, a group of quality-focused Cava producers—including Gramona, Llopart, Nadal, Recaredo, and Torelló—left the DO Cava to form Corpinnat, a private certification emphasizing organic viticulture, estate-grown grapes, and traditional methods. All Corpinnat producers are based in Penedès, primarily around Sant Sadurní d'Anoia. The split reflects tensions between industrial and artisanal production that the Cava DO has struggled to resolve.
+In 2019, a group of quality-focused Cava producers (including Gramona, Llopart, Nadal, Recaredo, and Torelló) left the DO Cava to form Corpinnat, a private certification emphasizing organic viticulture, estate-grown grapes, and traditional methods. All Corpinnat producers are based in Penedès, primarily around Sant Sadurní d'Anoia. The split reflects tensions between industrial and artisanal production that the Cava DO has struggled to resolve.
 
 ### Key Villages and Areas
 
@@ -168,11 +168,11 @@ Spring frost (2017, 2021) and summer hail (2018) can cause localized damage, but
 
 ### Cava and Sparkling
 
-**Gramona**: Family-owned house in Sant Sadurní d'Anoia, producing approximately 500,000 bottles annually. Gramona was instrumental in elevating Cava quality, pioneering extended lees aging (their III Lustros sees 15 years) and single-vineyard bottlings. Their Celler Batlle is a Cava de Paraje Calificado from a 3.5-hectare plot of 50+ year-old Xarel·lo on limestone, aged 60 months minimum. The wines show genuine complexity—brioche, hazelnuts, citrus peel—and age gracefully.
+**Gramona**: Family-owned house in Sant Sadurní d'Anoia, producing approximately 500,000 bottles annually. Gramona was instrumental in elevating Cava quality, pioneering extended lees aging (their III Lustros sees 15 years) and single-vineyard bottlings. Their Celler Batlle is a Cava de Paraje Calificado from a 3.5-hectare plot of 50+ year-old Xarel·lo on limestone, aged 60 months minimum. The wines show genuine complexity (brioche, hazelnuts, citrus peel) and age gracefully.
 
 **Recaredo**: Exclusively produces Brut Nature Cava, refusing to add dosage. This uncompromising approach reveals terroir with unusual clarity. Their Turó d'en Mota, from a single plot in the Serral del Vell area, is among Penedès's most age-worthy sparkling wines, developing tertiary complexity over 10+ years. Recaredo left the Cava DO in 2019 to join Corpinnat.
 
-**Llopart**: Ancient estate (the family has been farming in Penedès since 1385) producing both Cava and still wines. Their Cava Leopardi is a blend of estate-grown Xarel·lo, Macabeo, and Parellada from vines averaging 40 years old, aged 36 months. The wine shows the classic Cava profile—citrus, almond, mineral—but with more depth and texture than most.
+**Llopart**: Ancient estate (the family has been farming in Penedès since 1385) producing both Cava and still wines. Their Cava Leopardi is a blend of estate-grown Xarel·lo, Macabeo, and Parellada from vines averaging 40 years old, aged 36 months. The wine shows the classic Cava profile (citrus, almond, mineral) but with more depth and texture than most.
 
 **Raventós i Blanc**: Left the Cava DO in 2012, long before the Corpinnat split, to focus on single-estate, terroir-driven sparkling wines. Their De Nit is 100% Parellada from high-elevation vineyards, producing a wine of unusual delicacy and floral aromatics. The estate's commitment to organic viticulture and minimal intervention has influenced a generation of younger producers.
 
@@ -184,7 +184,7 @@ Spring frost (2017, 2021) and summer hail (2018) can cause localized damage, but
 
 **Can Ràfols dels Caus**: Small estate in the Alt Penedès working primarily with international varieties but with a light touch. Their wines show restraint and balance, avoiding the overripeness and excessive oak that mars many Penedès reds.
 
-**Clos Lentiscus**: Coastal estate near Sitges working with Mediterranean varieties (Sumoll, Xarel·lo Vermell, Malvasia) and practicing radical non-intervention. The wines are polarizing—some find them too funky—but they represent an important alternative vision for Penedès, prioritizing vitality and drinkability over power and concentration.
+**Clos Lentiscus**: Coastal estate near Sitges working with Mediterranean varieties (Sumoll, Xarel·lo Vermell, Malvasia) and practicing radical non-intervention. The wines are polarizing (some find them too funky) but they represent an important alternative vision for Penedès, prioritizing vitality and drinkability over power and concentration.
 
 **Escoda-Sanahuja**: Biodynamic estate in Conca de Barberà (technically outside Penedès but closely related) producing benchmark examples of indigenous varieties. Their Sumoll is perhaps the finest expression of the variety, combining freshness with unexpected depth.
 

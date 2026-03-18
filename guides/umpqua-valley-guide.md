@@ -22,7 +22,7 @@ The Umpqua Valley's relationship to other Southern Oregon AVAs is primarily geog
 
 ### Climate Characteristics
 
-The Umpqua Valley occupies a climatically privileged position that allows for remarkable diversity in grape varieties. The region experiences what viticulturists classify as a modified marine climate with Mediterranean tendencies—distinctly warmer than the Willamette Valley to the north but cooler and more temperate than California's wine regions immediately to the south.
+The Umpqua Valley occupies a climatically privileged position that allows for remarkable diversity in grape varieties. The region experiences what viticulturists classify as a modified marine climate with Mediterranean tendencies, distinctly warmer than the Willamette Valley to the north but cooler and more temperate than California's wine regions immediately to the south.
 
 Summer daytime temperatures in the Umpqua Valley typically range from the mid-80s to low-90s Fahrenheit, with nighttime temperatures dropping into the 50s. This diurnal temperature variation proves essential for maintaining acidity in grapes while allowing for physiological ripeness. The region accumulates approximately 1,600 to 2,400 growing degree days (base 50°F) annually, depending on specific location within the valley. This places the Umpqua Valley in a range comparable to regions like the Northern Rhône, Burgundy, and parts of Bordeaux.
 
@@ -42,7 +42,7 @@ The valley floor consists of relatively flat to gently rolling terrain carved by
 
 ### Unique Geographic Features
 
-The Umpqua River system itself represents a defining geographic feature, creating microclimates along its course and providing the valley with its name and identity. The river's tributaries—including the South Umpqua River—create secondary valleys and drainage systems that further diversify the region's viticultural landscape.
+The Umpqua River system itself represents a defining geographic feature, creating microclimates along its course and providing the valley with its name and identity. The river's tributaries (including the South Umpqua River) create secondary valleys and drainage systems that further diversify the region's viticultural landscape.
 
 The convergence of three distinct geological provinces within the Umpqua Valley creates unusual diversity in soil types and topography. The region sits at the intersection of the Coast Range, the Klamath Mountains, and the Western Cascades, each contributing different geological materials and creating varied growing environments within a relatively compact area.
 
@@ -52,7 +52,7 @@ The convergence of three distinct geological provinces within the Umpqua Valley 
 
 The Umpqua Valley exhibits remarkable soil diversity, a direct result of its position at the convergence of multiple geological provinces. Soil types range from ancient marine sediments to volcanic materials, alluvial deposits, and weathered metamorphic rocks. This diversity allows different vineyard sites to express distinct characteristics and suits different grape varieties to specific locations.
 
-The valley floor predominantly features deep alluvial soils—deposits of clay, silt, and gravel carried by the Umpqua River system over millennia. These fertile soils, while productive, are generally considered less suitable for premium wine production due to their vigor-inducing characteristics. However, when managed appropriately through canopy management and controlled irrigation, valley floor sites can produce quality fruit, particularly for varieties benefiting from higher yields.
+The valley floor predominantly features deep alluvial soils, deposits of clay, silt, and gravel carried by the Umpqua River system over millennia. These fertile soils, while productive, are generally considered less suitable for premium wine production due to their vigor-inducing characteristics. However, when managed appropriately through canopy management and controlled irrigation, valley floor sites can produce quality fruit, particularly for varieties benefiting from higher yields.
 
 Hillside sites display considerably more varied soil profiles. Many hillside vineyards are planted on sedimentary soils derived from ancient marine deposits, characterized by sandstone, siltstone, and shale. These well-drained soils typically contain lower nutrient levels, naturally limiting vine vigor and encouraging smaller berry sizes with concentrated flavors.
 
@@ -80,7 +80,7 @@ Drainage proves particularly crucial in the Umpqua Valley's climate. While the r
 
 The Umpqua Valley's climatic versatility is reflected in the remarkable diversity of grape varieties successfully cultivated in the region. Unlike the Willamette Valley, which is overwhelmingly dominated by Pinot Noir, or California regions often focused on a narrow range of varieties, the Umpqua Valley supports both cool-climate and warm-climate grapes with equal success.
 
-**Pinot Noir** remains important in the Umpqua Valley, particularly on cooler hillside sites and in areas with stronger marine influence. Umpqua Pinot Noir typically shows riper fruit characteristics than Willamette Valley examples while maintaining adequate acidity and structural integrity. The wines often display darker fruit notes—black cherry and plum alongside red fruit—with fuller body and riper tannins.
+**Pinot Noir** remains important in the Umpqua Valley, particularly on cooler hillside sites and in areas with stronger marine influence. Umpqua Pinot Noir typically shows riper fruit characteristics than Willamette Valley examples while maintaining adequate acidity and structural integrity. The wines often display darker fruit notes (black cherry and plum alongside red fruit) with fuller body and riper tannins.
 
 **Tempranillo** has emerged as something of a signature variety for the region, thriving in the warmer, drier conditions that characterize many Umpqua Valley sites. The variety's tolerance for heat and drought, combined with its ability to maintain acidity in warm climates, makes it well-suited to the region. Umpqua Tempranillo produces wines with characteristic red fruit, leather, and tobacco notes, often with firmer structure than Spanish examples.
 
@@ -102,7 +102,7 @@ The Umpqua Valley growing season begins with bud break in early to mid-April, sl
 
 Flowering typically occurs in late May to early June, with the dry, warm conditions during this period generally ensuring good fruit set. The dry summer months reduce disease pressure from powdery mildew, botrytis, and other moisture-dependent pathogens, though vigilant canopy management remains necessary.
 
-Véraison—the onset of ripening when grapes begin to soften and change color—occurs in late July to early August. The period from véraison to harvest proves critical for developing phenolic ripeness and flavor complexity. The Umpqua Valley's warm days promote sugar accumulation and flavor development, while cool nights preserve acidity and allow for extended hang time without excessive sugar levels.
+Véraison (the onset of ripening when grapes begin to soften and change color) occurs in late July to early August. The period from véraison to harvest proves critical for developing phenolic ripeness and flavor complexity. The Umpqua Valley's warm days promote sugar accumulation and flavor development, while cool nights preserve acidity and allow for extended hang time without excessive sugar levels.
 
 Harvest timing varies considerably by variety and site, beginning in late August for early-ripening varieties and sparkling wine base, continuing through September for Pinot Noir and other early-to-mid season varieties, and extending into October for Tempranillo, Syrah, and late-ripening Bordeaux varieties.
 
@@ -128,7 +128,7 @@ While the Umpqua Valley resists easy categorization due to its varietal diversit
 
 **Syrah** from warmer Umpqua Valley sites produces wines that combine Northern Rhône structure and savory complexity with New World fruit intensity. These wines show blackberry, black olive, smoked meat, and white pepper characteristics, with full body and substantial tannin structure. The best examples demonstrate the balance between power and elegance that distinguishes quality Syrah.
 
-**Pinot Noir** from the Umpqua Valley occupies a distinctive position on the Oregon Pinot Noir spectrum. Compared to Willamette Valley Pinot Noir, Umpqua examples typically show riper fruit profiles—black cherry, plum, and black raspberry rather than exclusively red fruit—with fuller body, higher alcohol, and softer acidity. However, they maintain greater freshness and structure than California Pinot Noir from warmer regions, showing restraint in ripeness levels and preserving Pinot Noir's essential elegance and transparency.
+**Pinot Noir** from the Umpqua Valley occupies a distinctive position on the Oregon Pinot Noir spectrum. Compared to Willamette Valley Pinot Noir, Umpqua examples typically show riper fruit profiles (black cherry, plum, and black raspberry rather than exclusively red fruit) with fuller body, higher alcohol, and softer acidity. However, they maintain greater freshness and structure than California Pinot Noir from warmer regions, showing restraint in ripeness levels and preserving Pinot Noir's essential elegance and transparency.
 
 ### White Wine Styles
 
@@ -228,7 +228,7 @@ The Umpqua Valley's future appears to lie in continued development of its identi
 
 **Premium positioning**: The region's small scale and quality focus suggest future development will emphasize premium wines rather than volume production, potentially following the trajectory of regions like Paso Robles in establishing reputation for specific varieties.
 
-**Varietal identity**: While diversity characterizes the region, establishing stronger identity around varieties that perform distinctively well—particularly Tempranillo and Syrah—could help differentiate Umpqua Valley wines in the marketplace.
+**Varietal identity**: While diversity characterizes the region, establishing stronger identity around varieties that perform distinctively well (particularly Tempranillo and Syrah) could help differentiate Umpqua Valley wines in the marketplace.
 
 **Infrastructure development**: Continued investment in shared resources, tasting rooms, and wine tourism infrastructure could help raise the region's profile and support the economic viability of small producers.
 

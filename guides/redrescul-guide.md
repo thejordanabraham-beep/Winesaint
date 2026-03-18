@@ -37,7 +37,7 @@ Rainfall distribution within the climat follows the regional pattern, with most 
 
 ### Viticulture
 
-Redrescul is planted exclusively to Pinot Noir, reflecting the red wine focus that characterizes the majority of Savigny-lès-Beaune's Premier Cru sites. The vineyard's terroir characteristics—particularly the limestone-clay soil composition and favorable exposure—provide optimal conditions for this noble Burgundian variety.
+Redrescul is planted exclusively to Pinot Noir, reflecting the red wine focus that characterizes the majority of Savigny-lès-Beaune's Premier Cru sites. The vineyard's terroir characteristics (particularly the limestone-clay soil composition and favorable exposure) provide optimal conditions for this noble Burgundian variety.
 
 Vine age within Redrescul varies among the different parcels, with some sections containing vines planted in the 1960s and 1970s, while other areas have been more recently replanted with carefully selected Pinot Noir clones. The average vine age across the climat stands at approximately 35-40 years, providing the ideal balance between vigor and concentration that produces wines of exceptional complexity and depth.
 

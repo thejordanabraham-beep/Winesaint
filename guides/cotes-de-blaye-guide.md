@@ -1,16 +1,16 @@
 # Côtes de Blaye: Bordeaux's Expansive Merlot Territory
 
-Côtes de Blaye sprawls across more than 6,500 hectares of the Right Bank's northern reaches, making it substantially larger than its southern neighbor Bourg. This is not a region of dramatic topography or concentrated excellence. Instead, Blaye represents a gentler, more agricultural expression of the Gironde's limestone-clay terroir—a landscape where vines share space with mixed farming across rolling hills that lack the steep, defined slopes found just downriver.
+Côtes de Blaye sprawls across more than 6,500 hectares of the Right Bank's northern reaches, making it substantially larger than its southern neighbor Bourg. This is not a region of dramatic topography or concentrated excellence. Instead, Blaye represents a gentler, more agricultural expression of the Gironde's limestone-clay terroir: a landscape where vines share space with mixed farming across rolling hills that lack the steep, defined slopes found just downriver.
 
 The region's sheer size tells part of its story. Where Bourg compresses its vineyards into a more focused area of elevated terrain, Blaye spreads across a varied landscape that includes both prime vineyard sites and low-lying areas too close to the water table to sustain quality viticulture.
 
 ## Geography & Terroir
 
-The topography of Blaye ebbs and flows in gentle undulations rather than dramatic relief. Elevation varies across the appellation, but the overall character is one of accessible, rolling countryside. Some parcels sit dangerously close to the Gironde estuary, where proximity to the water table compromises drainage—a critical factor in a region built on clay.
+The topography of Blaye ebbs and flows in gentle undulations rather than dramatic relief. Elevation varies across the appellation, but the overall character is one of accessible, rolling countryside. Some parcels sit dangerously close to the Gironde estuary, where proximity to the water table compromises drainage: a critical factor in a region built on clay.
 
 Clay and limestone form the foundational soil structure throughout Blaye. This combination provides adequate water retention during dry periods while the limestone component offers sufficient drainage and contributes minerality to the wines. The clay content, however, makes site selection crucial. Parcels with better elevation and natural drainage produce markedly superior fruit.
 
-The climate follows typical Right Bank patterns—maritime influence from the Atlantic moderated by the Gironde, with the estuary providing thermal regulation. The region lacks the concentrated mesoclimates that define smaller, more prestigious appellations.
+The climate follows typical Right Bank patterns, maritime influence from the Atlantic moderated by the Gironde, with the estuary providing thermal regulation. The region lacks the concentrated mesoclimates that define smaller, more prestigious appellations.
 
 ## The Merlot Dominance
 
@@ -30,13 +30,13 @@ The system contrasts sharply with more coherent appellation structures elsewhere
 
 Blaye produces Merlot-dominated red wines that express the region's clay-limestone terroir through medium-bodied structure and accessible fruit profiles. These are not wines built for extended cellaring or profound complexity. The clay component contributes body and a certain roundness, while limestone adds structure and prevents the wines from becoming flabby.
 
-Quality varies substantially across the appellation's large geographic footprint. The best sites—those with proper elevation, drainage, and exposition—can produce wines with genuine character and balance. Lower-lying parcels or those with excessive clay tend toward heaviness and lack of definition.
+Quality varies substantially across the appellation's large geographic footprint. The best sites (those with proper elevation, drainage, and exposition) can produce wines with genuine character and balance. Lower-lying parcels or those with excessive clay tend toward heaviness and lack of definition.
 
 The small percentage of white wine production focuses primarily on Sauvignon Blanc and Sémillon, though these wines rarely achieve the distinction found in dedicated white wine appellations across the Gironde.
 
 ## Blaye vs. Bourg: A Study in Contrasts
 
-The comparison with Côtes de Bourg illuminates what makes Blaye distinct—or rather, less distinct. Bourg concentrates its production in a smaller area with more pronounced topography and better-defined vineyard sites. Cabernet Sauvignon performs more reliably in Bourg's terroir, allowing for more complex blending options.
+The comparison with Côtes de Bourg illuminates what makes Blaye distinct, or rather, less distinct. Bourg concentrates its production in a smaller area with more pronounced topography and better-defined vineyard sites. Cabernet Sauvignon performs more reliably in Bourg's terroir, allowing for more complex blending options.
 
 Blaye's larger size and gentler terrain create a more diffuse identity. The region lacks the concentrated quality sites that give Bourg its elevated reputation among Right Bank appellations. Where Bourg can claim a certain consistency of character across its production, Blaye's wines vary more dramatically based on specific site selection and producer ambition.
 

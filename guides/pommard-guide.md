@@ -60,7 +60,7 @@ The typical Pommard wine exhibits deep ruby to garnet coloration with notable in
 
 Aromatically, Pommard wines present complex profiles combining dark fruit characteristics with distinctive mineral and earthy undertones. Primary fruit aromatics include blackberry, black cherry, and dark plum, often accompanied by secondary notes of violet, rose petal, and forest floor. The terroir influence manifests through mineral expressions ranging from iron and wet stone to more subtle limestone-derived chalky notes.
 
-The palate structure of Pommard wines represents their most distinguishing characteristic within the Côte de Beaune. These wines display full body with substantial tannin frameworks that provide aging potential often exceeding that of neighboring appellations. The tannins exhibit a distinctive character—firm and substantial yet refined, avoiding the rustic harshness that can affect other powerful Burgundies.
+The palate structure of Pommard wines represents their most distinguishing characteristic within the Côte de Beaune. These wines display full body with substantial tannin frameworks that provide aging potential often exceeding that of neighboring appellations. The tannins exhibit a distinctive character, firm and substantial yet refined, avoiding the rustic harshness that can affect other powerful Burgundies.
 
 Acidity levels in Pommard wines maintain excellent balance despite the full-bodied structure, typically ranging from 5.5-6.5 g/L total acidity. This acidity preservation results from the limestone-rich soils and favorable exposition that allows complete ripening while maintaining freshness. The pH levels generally fall between 3.6-3.8, providing structural backbone and contributing to aging potential.
 

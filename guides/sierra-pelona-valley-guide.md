@@ -2,7 +2,7 @@
 
 The Sierra Pelona Valley doesn't exist.
 
-At least not in any official wine appellation sense. What you're likely seeking is information about **Sierra Pelona**, a mountain range in Los Angeles County that has no established viticultural significance, or perhaps you've confused this with one of the Sierra Foothills' actual sub-regions. This presents an instructive opportunity to clarify what the Sierra Foothills actually contains—and what it doesn't.
+At least not in any official wine appellation sense. What you're likely seeking is information about **Sierra Pelona**, a mountain range in Los Angeles County that has no established viticultural significance, or perhaps you've confused this with one of the Sierra Foothills' actual sub-regions. This presents an instructive opportunity to clarify what the Sierra Foothills actually contains, and what it doesn't.
 
 ## The Geography Problem
 
@@ -20,7 +20,7 @@ The **Sierra Foothills AVA**, established in 1987, encompasses approximately 2,6
 
 **Fiddletown AVA** (1983): Amador County's coolest sub-region, famous for old-vine Zinfandel from vines planted in the 1880s-1920s.
 
-**California Shenandoah Valley AVA** (1983): Not to be confused with Virginia's Shenandoah Valley—this 11,000-acre region in Amador County produces powerhouse Zinfandel from red volcanic soils.
+**California Shenandoah Valley AVA** (1983): Not to be confused with Virginia's Shenandoah Valley: this 11,000-acre region in Amador County produces powerhouse Zinfandel from red volcanic soils.
 
 **North Yuba AVA** (1985): The smallest and most obscure, at just 22,548 acres in Yuba County, with fewer than ten bonded wineries.
 
@@ -30,9 +30,9 @@ None of these is Sierra Pelona Valley.
 
 Understanding why Sierra Pelona isn't a wine region requires understanding what makes the actual Sierra Foothills work. Elevation is everything.
 
-The Sierra Foothills' vineyards typically range from 1,200 to 3,500 feet above sea level. This vertical distribution creates profound diurnal temperature variation—often 40-50°F between day and night during the growing season. At 2,500 feet in Fair Play, for instance, August days regularly hit 95°F while nights plunge to 50°F. This temperature swing preserves acidity while allowing phenolic ripeness, the holy grail for varieties like Syrah, Grenache, and Barbera.
+The Sierra Foothills' vineyards typically range from 1,200 to 3,500 feet above sea level. This vertical distribution creates profound diurnal temperature variation, often 40-50°F between day and night during the growing season. At 2,500 feet in Fair Play, for instance, August days regularly hit 95°F while nights plunge to 50°F. This temperature swing preserves acidity while allowing phenolic ripeness, the holy grail for varieties like Syrah, Grenache, and Barbera.
 
-The soils tell an equally specific story. The Sierra Nevada's western slopes expose a complex geological layer cake: decomposed granite dominates at higher elevations, providing excellent drainage and forcing vines to root deeply. Volcanic soils—remnants of ancient eruptions—appear in pockets throughout Amador County, particularly in Shenandoah Valley. These iron-rich red soils produce Zinfandel of particular intensity and structure.
+The soils tell an equally specific story. The Sierra Nevada's western slopes expose a complex geological layer cake: decomposed granite dominates at higher elevations, providing excellent drainage and forcing vines to root deeply. Volcanic soils (remnants of ancient eruptions) appear in pockets throughout Amador County, particularly in Shenandoah Valley. These iron-rich red soils produce Zinfandel of particular intensity and structure.
 
 Clay loam appears at lower elevations, retaining more water and producing riper, more approachable wines. The soil variation within even a single sub-region can be dramatic. In El Dorado, you'll find granite-based vineyards at 3,000 feet producing taut, mineral-driven Syrah, while clay-influenced sites at 1,800 feet yield rounder, more voluptuous expressions.
 
@@ -40,7 +40,7 @@ Clay loam appears at lower elevations, retaining more water and producing riper,
 
 The Sierra Foothills' wine industry emerged directly from the Gold Rush. Between 1849 and 1860, California's population exploded from roughly 100,000 to 380,000. Those miners needed to drink something. By 1860, Amador County alone had over 100 wineries. El Dorado County followed suit.
 
-This wasn't fine wine production—it was bulk wine for a thirsty workforce. But it established viticultural knowledge, planted vines (many of which still produce today), and created an infrastructure that survived Prohibition, barely. When the California wine renaissance began in the 1970s, the Sierra Foothills had something crucial: old vines and institutional memory.
+This wasn't fine wine production, it was bulk wine for a thirsty workforce. But it established viticultural knowledge, planted vines (many of which still produce today), and created an infrastructure that survived Prohibition, barely. When the California wine renaissance began in the 1970s, the Sierra Foothills had something crucial: old vines and institutional memory.
 
 Regions without this historical foundation face a steeper climb. Establishing a wine region from scratch requires not just suitable climate and soil, but investment, expertise, and market interest. The Sierra Pelona range has none of these prerequisites.
 
@@ -48,7 +48,7 @@ Regions without this historical foundation face a steeper climb. Establishing a 
 
 Even if Sierra Pelona Valley existed as a wine region, we'd need to ask: who's making wine there? A region's identity emerges from its producers' collective work.
 
-In the actual Sierra Foothills, producers like **Scholium Project** (Abe Schoener's experimental winery in Suisun Valley, though sourcing from Sierra Foothills), **Forlorn Hope** (Matthew Rorick's archaeological wine project reviving obscure varieties), and **Terre Rouge** (Bill Easton's Rhône-focused estate in Shenandoah Valley) have defined what Sierra Foothills wine can be. These aren't bulk producers—they're thoughtful winemakers exploring the region's potential for structured, age-worthy wines.
+In the actual Sierra Foothills, producers like **Scholium Project** (Abe Schoener's experimental winery in Suisun Valley, though sourcing from Sierra Foothills), **Forlorn Hope** (Matthew Rorick's archaeological wine project reviving obscure varieties), and **Terre Rouge** (Bill Easton's Rhône-focused estate in Shenandoah Valley) have defined what Sierra Foothills wine can be. These aren't bulk producers, they're thoughtful winemakers exploring the region's potential for structured, age-worthy wines.
 
 **Skinner Vineyards** in El Dorado demonstrates the region's Rhône potential, producing Grenache and Syrah that could stand alongside Paso Robles' best. **Shake Ridge Ranch** supplies fruit to numerous premium producers, its high-elevation vineyards (2,000-2,800 feet) yielding concentrated yet balanced fruit.
 
@@ -56,7 +56,7 @@ Without producers, there is no region. Sierra Pelona has no winemaking tradition
 
 ## The Terroir That Isn't: What Sierra Pelona Lacks
 
-Terroir requires more than theoretically suitable climate. It demands the interaction of geology, pedology, topography, and climate—refined through human intervention over time.
+Terroir requires more than theoretically suitable climate. It demands the interaction of geology, pedology, topography, and climate, refined through human intervention over time.
 
 The Sierra Pelona range, while mountainous and Mediterranean in climate, lacks several key elements:
 
@@ -66,7 +66,7 @@ The Sierra Pelona range, while mountainous and Mediterranean in climate, lacks s
 
 **Aspect variation**: The Sierra Nevada's western slopes offer diverse exposures and elevation bands within relatively compact areas. Sierra Pelona's geography is less conducive to the micro-regional variation that creates interesting wine regions.
 
-**Proximity to markets and expertise**: The Sierra Foothills sits roughly 100-150 miles from San Francisco and Sacramento, close enough for weekend wine tourism and technical consultation. Sierra Pelona is closer to Los Angeles, but Los Angeles' wine industry infrastructure is concentrated elsewhere—Paso Robles, Santa Barbara, even Temecula.
+**Proximity to markets and expertise**: The Sierra Foothills sits roughly 100-150 miles from San Francisco and Sacramento, close enough for weekend wine tourism and technical consultation. Sierra Pelona is closer to Los Angeles, but Los Angeles' wine industry infrastructure is concentrated elsewhere. Paso Robles, Santa Barbara, even Temecula.
 
 ## If You Must: Theoretical Viticulture in Sierra Pelona
 
@@ -74,7 +74,7 @@ Hypothetically, if someone planted vines in the Sierra Pelona range, what might 
 
 **Elevation**: Sites above 2,000 feet would be essential for diurnal temperature variation. The range's lower elevations are simply too hot.
 
-**Varieties**: Rhône varieties—Syrah, Grenache, Mourvèdre—would be logical choices, as they are throughout California's warmer mountain regions. Tempranillo might work. Zinfandel, California's default warm-climate variety, would likely succeed but would differentiate little from existing regions.
+**Varieties**: Rhône varieties (Syrah, Grenache, Mourvèdre) would be logical choices, as they are throughout California's warmer mountain regions. Tempranillo might work. Zinfandel, California's default warm-climate variety, would likely succeed but would differentiate little from existing regions.
 
 **Aspect**: North- and east-facing slopes would moderate heat accumulation. South- and west-facing sites would bake.
 
@@ -94,7 +94,7 @@ This is what a sub-region looks like. Sierra Pelona has none of this infrastruct
 
 ## The Verdict: Why Precision Matters in Wine Geography
 
-Wine regions aren't arbitrary. They emerge from the interaction of natural conditions, human effort, and market forces over time. The Sierra Foothills exists because geology, history, and contemporary winemaking align. Its sub-regions—El Dorado, Fair Play, Fiddletown, Shenandoah Valley—represent meaningful distinctions in terroir and wine style.
+Wine regions aren't arbitrary. They emerge from the interaction of natural conditions, human effort, and market forces over time. The Sierra Foothills exists because geology, history, and contemporary winemaking align. Its sub-regions (El Dorado, Fair Play, Fiddletown, Shenandoah Valley) represent meaningful distinctions in terroir and wine style.
 
 Sierra Pelona Valley represents none of this. It's either a geographical error, a confusion of mountain ranges, or perhaps wishful thinking about a region that might someday exist but currently doesn't.
 

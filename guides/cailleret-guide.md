@@ -6,7 +6,7 @@ Cailleret stands as one of Chassagne-Montrachet's most distinguished Premier Cru
 
 The vineyard sits approximately 8 kilometers southwest of the town of Beaune, nestled within the broader Côte de Beaune's golden slope that has defined Burgundian excellence for over a millennium. Cailleret's location places it within the heart of Burgundy's white wine country, where Chardonnay reaches some of its most sublime expressions on the planet.
 
-Geographically, Cailleret occupies the mid-slope position that characterizes many of Burgundy's finest Premier Cru sites. The vineyard benefits from its proximity to Chassagne-Montrachet's Grand Cru appellations—Montrachet, Bâtard-Montrachet, and Criots-Bâtard-Montrachet—while maintaining its own distinct terroir characteristics that set it apart from these legendary neighbors.
+Geographically, Cailleret occupies the mid-slope position that characterizes many of Burgundy's finest Premier Cru sites. The vineyard benefits from its proximity to Chassagne-Montrachet's Grand Cru appellations (Montrachet, Bâtard-Montrachet, and Criots-Bâtard-Montrachet) while maintaining its own distinct terroir characteristics that set it apart from these legendary neighbors.
 
 The climat extends across gently sloping terrain that captures optimal sun exposure while benefiting from the natural drainage provided by the Côte de Beaune's geological structure. This positioning within Chassagne-Montrachet's Premier Cru hierarchy reflects centuries of viticultural observation and classification, recognizing Cailleret's consistent ability to produce wines of exceptional quality and distinctive character.
 
@@ -108,7 +108,7 @@ The vineyard achieved formal recognition as a Premier Cru in 1936 with the estab
 
 Historical records indicate that Cailleret maintained its reputation through the challenging periods of the 19th and early 20th centuries, including the phylloxera crisis and two world wars that devastated much of Burgundy's viticultural heritage. The climats survived these difficulties due to the dedication of local vignerons who recognized its exceptional potential.
 
-The classification as Premier Cru formalized what local knowledge had long recognized—that Cailleret possessed terroir characteristics capable of producing wines distinctly superior to village-level Chassagne-Montrachet while maintaining its own identity separate from the commune's Grand Cru vineyards.
+The classification as Premier Cru formalized what local knowledge had long recognized, that Cailleret possessed terroir characteristics capable of producing wines distinctly superior to village-level Chassagne-Montrachet while maintaining its own identity separate from the commune's Grand Cru vineyards.
 
 Throughout its classified history, Cailleret has maintained consistent quality levels that justify its Premier Cru status, with wines regularly demonstrating the complexity, aging potential, and terroir specificity required for this classification level.
 

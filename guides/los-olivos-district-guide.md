@@ -2,13 +2,13 @@
 
 The Los Olivos District doesn't behave like the rest of Santa Barbara County. While the Sta. Rita Hills chase Burgundian dreams and the Santa Maria Valley perfects coastal Chardonnay, this inland sub-region operates on a different frequency entirely. Here, fifteen miles from the Pacific, the maritime influence weakens. Temperatures rise. The viticultural calculus shifts.
 
-This is Rhône territory—or at least, that's the prevailing narrative. The reality proves more complex.
+This is Rhône territory, or at least, that's the prevailing narrative. The reality proves more complex.
 
 ## Geographic Context: Where Cool Meets Warm
 
 The Los Olivos District occupies the transitional zone between Santa Barbara's fog-dominated western valleys and the warmer, more continental eastern reaches. It sits roughly in the center of the Santa Ynez Valley, bracketed by cooler Ballard Canyon to the southwest and warmer Happy Canyon of Santa Barbara to the east. Los Olamos lies to the northwest, still catching more marine air.
 
-This positioning matters. The district experiences what viticulturists call a "Goldilocks climate"—warm enough to ripen Syrah and Grenache reliably, cool enough to maintain acidity and aromatic complexity. Summer daytime temperatures regularly reach 85-95°F (29-35°C), but nighttime lows can drop to 50-55°F (10-13°C). This diurnal swing—often 35-40°F—separates Los Olivos from California's truly hot regions.
+This positioning matters. The district experiences what viticulturists call a "Goldilocks climate", warm enough to ripen Syrah and Grenache reliably, cool enough to maintain acidity and aromatic complexity. Summer daytime temperatures regularly reach 85-95°F (29-35°C), but nighttime lows can drop to 50-55°F (10-13°C). This diurnal swing (often 35-40°F) separates Los Olivos from California's truly hot regions.
 
 The marine layer still reaches here, but inconsistently. Some mornings bring fog that burns off by 10 AM. Others start clear. This variability creates vintage variation uncommon in more uniformly cool or warm regions.
 
@@ -16,15 +16,15 @@ The marine layer still reaches here, but inconsistently. Some mornings bring fog
 
 Most discussions of Los Olivos focus on climate. This misses half the story.
 
-The district's soils derive primarily from the Paso Robles Formation, deposited during the Miocene and Pliocene epochs (roughly 23 to 2.6 million years ago). These sedimentary soils contain high percentages of calcareous material—calcium carbonate concentrations often exceed 15-20% in the upper soil horizons. Clay content varies significantly, from sandy loams with 8-12% clay to heavier loams approaching 25-30%.
+The district's soils derive primarily from the Paso Robles Formation, deposited during the Miocene and Pliocene epochs (roughly 23 to 2.6 million years ago). These sedimentary soils contain high percentages of calcareous material, calcium carbonate concentrations often exceed 15-20% in the upper soil horizons. Clay content varies significantly, from sandy loams with 8-12% clay to heavier loams approaching 25-30%.
 
-Compare this to Ballard Canyon, where the Botella series dominates—clay loam soils with better water retention and cooler soil temperatures. Or Happy Canyon, where alluvial fans create gravelly, free-draining conditions. Los Olivos occupies a middle ground: enough clay to prevent drought stress in most years, enough calcium carbonate to moderate vigor and enhance minerality.
+Compare this to Ballard Canyon, where the Botella series dominates, clay loam soils with better water retention and cooler soil temperatures. Or Happy Canyon, where alluvial fans create gravelly, free-draining conditions. Los Olivos occupies a middle ground: enough clay to prevent drought stress in most years, enough calcium carbonate to moderate vigor and enhance minerality.
 
 Elevation ranges from approximately 600 to 1,200 feet (180-365 meters). This seems modest, but aspect and slope matter more than absolute height. South-facing slopes receive significantly more solar radiation, creating mesoclimates capable of ripening even Cabernet Sauvignon. North-facing sites stay 3-5°F cooler, favoring aromatic whites and lighter reds.
 
 ## The Variety Question: Beyond Syrah
 
-**The Rhône Dominance—and Its Limits**
+**The Rhône Dominance, and Its Limits**
 
 Yes, Syrah performs well here. The variety finds sufficient warmth for phenolic ripeness without the baked, jammy character that plagues California's Central Valley. Grenache, Mourvèdre, and Cinsault also ripen reliably, producing wines with the structure and savory complexity associated with quality Southern Rhône bottlings.
 
@@ -34,11 +34,11 @@ But the "Rhône variety" designation oversimplifies. Los Olivos isn't the Southe
 
 The district's potential for white wines remains underexplored. Roussanne and Grenache Blanc ripen beautifully, developing the waxy texture and herbal complexity these varieties can achieve. Viognier avoids the flabbiness that plagues the grape in warmer regions, maintaining enough acidity to stay refreshing.
 
-More intriguing: aromatic varieties. Vermentino shows particular promise, its citrus and herb notes intensifying in the calcareous soils. Early plantings of Fiano suggest the variety's almond and pear character translates well. Even Chenin Blanc—rare in Santa Barbara—produces wines with concentration and aging potential.
+More intriguing: aromatic varieties. Vermentino shows particular promise, its citrus and herb notes intensifying in the calcareous soils. Early plantings of Fiano suggest the variety's almond and pear character translates well. Even Chenin Blanc (rare in Santa Barbara) produces wines with concentration and aging potential.
 
 **Cabernet Franc: The Sleeper Variety**
 
-Several producers have planted Cabernet Franc, particularly on warmer sites. The results challenge assumptions about what works in Santa Barbara. The variety ripens to 13-14% alcohol while maintaining pronounced pyrazine character—green pepper, tobacco leaf—that reads as varietal authenticity rather than underripeness. Tannin structure develops fully without the harsh astringency that marks cooler-climate attempts.
+Several producers have planted Cabernet Franc, particularly on warmer sites. The results challenge assumptions about what works in Santa Barbara. The variety ripens to 13-14% alcohol while maintaining pronounced pyrazine character (green pepper, tobacco leaf) that reads as varietal authenticity rather than underripeness. Tannin structure develops fully without the harsh astringency that marks cooler-climate attempts.
 
 This shouldn't surprise. Loire Valley Cabernet Franc ripens at similar temperatures to Los Olivos, and the calcareous soils echo those of Chinon and Bourgueil. The district may prove better suited to this variety than to Pinot Noir.
 
@@ -54,7 +54,7 @@ The calcareous soils complicate water management. Calcium carbonate can create l
 
 The intense sunlight requires careful canopy work. Leaf removal must balance sun exposure for ripening against sunburn risk. Many growers maintain fuller canopies than in cooler regions, relying on cluster thinning rather than leaf pulling to manage crop levels.
 
-Vertical shoot positioning dominates, though some producers experiment with sprawling systems for Grenache and Mourvèdre. These varieties evolved in the mistral-blown Southern Rhône, where gobelet training keeps clusters close to the heat-retaining ground. In Los Olivos, the opposite problem exists—too much heat—making taller canopies advantageous.
+Vertical shoot positioning dominates, though some producers experiment with sprawling systems for Grenache and Mourvèdre. These varieties evolved in the mistral-blown Southern Rhône, where gobelet training keeps clusters close to the heat-retaining ground. In Los Olivos, the opposite problem exists (too much heat) making taller canopies advantageous.
 
 ## Winemaking Approaches: Restraint and Extraction
 
@@ -62,13 +62,13 @@ The district's warm temperatures create a winemaking paradox: grapes achieve phy
 
 **Whole-Cluster Fermentation**
 
-Syrah and Grenache frequently undergo partial or complete whole-cluster fermentation. The stems contribute tannin structure and aromatic complexity while moderating alcohol perception. This technique works in Los Olivos because stems lignify fully—in cooler regions, green stems add harsh, vegetal notes.
+Syrah and Grenache frequently undergo partial or complete whole-cluster fermentation. The stems contribute tannin structure and aromatic complexity while moderating alcohol perception. This technique works in Los Olivos because stems lignify fully, in cooler regions, green stems add harsh, vegetal notes.
 
 The practice isn't universal. Some winemakers argue that Los Olivos fruit already possesses sufficient structure, making stem inclusion unnecessary. The debate continues.
 
 **Aging Vessels**
 
-Large-format oak—500-liter puncheons, 600-liter demi-muids, even concrete eggs—has become standard. The goal: gentle oxidation without overwhelming oak flavor. Los Olivos fruit tends toward exuberance; aggressive new oak amplifies rather than complements.
+Large-format oak (500-liter puncheons, 600-liter demi-muids, even concrete eggs) has become standard. The goal: gentle oxidation without overwhelming oak flavor. Los Olivos fruit tends toward exuberance; aggressive new oak amplifies rather than complements.
 
 Several producers use amphora for white wines, particularly Roussanne and Grenache Blanc. The porous clay moderates the wines' richness while enhancing texture. Results vary depending on amphora type and size, but the best examples show remarkable precision.
 
@@ -78,7 +78,7 @@ Several producers use amphora for white wines, particularly Roussanne and Grenac
 
 The Stolpman family has farmed in Los Olivos since the 1990s, establishing the district's reputation for Rhône varieties. Their estate vineyard, Ballard Canyon Ranch (despite the name, it lies partially in Los Olivos District), demonstrates the region's potential across multiple varieties.
 
-The "Angeli" bottling—100% estate Sangiovese—challenges assumptions about what works here. Fermented in concrete and aged in large Slavonian oak, it produces a wine closer to Chianti Classico than California Sangiovese, with bright cherry fruit, savory herbs, and firm tannins. Alcohol typically stays below 13.5%, remarkable for the variety in California.
+The "Angeli" bottling (100% estate Sangiovese) challenges assumptions about what works here. Fermented in concrete and aged in large Slavonian oak, it produces a wine closer to Chianti Classico than California Sangiovese, with bright cherry fruit, savory herbs, and firm tannins. Alcohol typically stays below 13.5%, remarkable for the variety in California.
 
 Their Syrah bottlings, particularly the "Estate" and "Hilltops," showcase whole-cluster fermentation's impact. Expect white pepper, olive tapenade, and dark fruit, with tannins that grip without astringency. These are not fruit bombs.
 
@@ -86,7 +86,7 @@ Their Syrah bottlings, particularly the "Estate" and "Hilltops," showcase whole-
 
 Joey Tensley sources from multiple Santa Barbara vineyards but maintains strong Los Olivos connections. His "Colson Canyon Vineyard" Syrah comes from a site at approximately 1,000 feet elevation, where calcareous soils and cool nights produce wines of remarkable aromatic complexity.
 
-The wines see minimal new oak—typically 15-20%—and undergo extended aging in neutral barrels. This allows the site's character to emerge: black olive, cured meat, cracked pepper, with fruit playing a supporting role. These are Syrahs for Burgundy lovers.
+The wines see minimal new oak (typically 15-20%) and undergo extended aging in neutral barrels. This allows the site's character to emerge: black olive, cured meat, cracked pepper, with fruit playing a supporting role. These are Syrahs for Burgundy lovers.
 
 **Tercero Wines**
 
@@ -140,7 +140,7 @@ Los Olivos experiences more vintage variation than Santa Barbara's coastal regio
 
 **Cool Vintages** (2010, 2011, 2019): Extended hang time, lower alcohol, more savory character. Aromatic whites particularly excel. Grenache can struggle to ripen fully; Syrah and Mourvèdre perform better.
 
-**Balanced Vintages** (2012, 2013, 2016, 2018, 2021): Moderate temperatures, consistent marine influence. These years produce the district's most complete wines—ripe fruit with aromatic complexity and structural integrity.
+**Balanced Vintages** (2012, 2013, 2016, 2018, 2021): Moderate temperatures, consistent marine influence. These years produce the district's most complete wines, ripe fruit with aromatic complexity and structural integrity.
 
 ## The Future: Unexplored Potential
 
@@ -201,7 +201,7 @@ Los Olivos wines demand food. Their savory character, firm tannins, and moderate
 
 ## Conclusion: Identity in Formation
 
-Los Olivos District lacks the clear identity of Sta. Rita Hills or the established reputation of Santa Maria Valley. This is not a weakness. The district's transitional character—between cool and warm, coastal and inland, established and experimental—creates space for discovery.
+Los Olivos District lacks the clear identity of Sta. Rita Hills or the established reputation of Santa Maria Valley. This is not a weakness. The district's transitional character (between cool and warm, coastal and inland, established and experimental) creates space for discovery.
 
 The best wines from Los Olivos don't taste like anywhere else in California. They're too structured for Paso Robles, too ripe for the Sta. Rita Hills, too bright for Napa. They occupy their own category, defined by calcareous soils, diurnal temperature swings, and winemakers willing to embrace restraint in a warm climate.
 

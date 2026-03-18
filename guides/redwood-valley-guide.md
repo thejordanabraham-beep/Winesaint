@@ -4,13 +4,13 @@
 
 Redwood Valley doesn't announce itself with marketing fanfare or trophy Cabernets commanding three-figure price tags. Instead, this sub-region of Mendocino operates as it has since Italian immigrants first planted vines here in the late 19th century: quietly, pragmatically, and with a focus on red varieties that thrive in its peculiar mesoclimate. 
 
-The defining feature of Redwood Valley is not what you'd expect from an inland appellation located roughly 15 miles north of Ukiah. While neighboring Potter Valley sits 200 to 300 feet higher in elevation and concentrates on white varieties, Redwood Valley—despite its lower elevation and warmer daytime temperatures—manages to produce structured, balanced red wines. The reason? A critical break in the coastal ridgeline that funnels marine air directly into the valley, creating a cooling influence that prevents the thermal monotony typical of California's inland regions.
+The defining feature of Redwood Valley is not what you'd expect from an inland appellation located roughly 15 miles north of Ukiah. While neighboring Potter Valley sits 200 to 300 feet higher in elevation and concentrates on white varieties, Redwood Valley (despite its lower elevation and warmer daytime temperatures) manages to produce structured, balanced red wines. The reason? A critical break in the coastal ridgeline that funnels marine air directly into the valley, creating a cooling influence that prevents the thermal monotony typical of California's inland regions.
 
-This is not a subtle distinction. The marine intrusion fundamentally alters the growing season, extending hang time and preserving acidity in varieties like Zinfandel, Cabernet Sauvignon, Petite Sirah, Syrah, and Barbera—the latter a direct legacy of those Italian founding families.
+This is not a subtle distinction. The marine intrusion fundamentally alters the growing season, extending hang time and preserving acidity in varieties like Zinfandel, Cabernet Sauvignon, Petite Sirah, Syrah, and Barbera: the latter a direct legacy of those Italian founding families.
 
 ## Geography and Geological Context
 
-Redwood Valley AVA was established in 1997, though viticulture here predates most of California's celebrated regions. The appellation encompasses approximately 22,400 acres in northern Mendocino County, stretching along the Russian River drainage north of Lake Mendocino. Only a fraction of this total acreage—roughly 2,500 acres—is actually planted to vines, with the remainder comprised of oak woodlands, grasslands, and the valley's namesake redwood groves that cluster along riparian corridors.
+Redwood Valley AVA was established in 1997, though viticulture here predates most of California's celebrated regions. The appellation encompasses approximately 22,400 acres in northern Mendocino County, stretching along the Russian River drainage north of Lake Mendocino. Only a fraction of this total acreage (roughly 2,500 acres) is actually planted to vines, with the remainder comprised of oak woodlands, grasslands, and the valley's namesake redwood groves that cluster along riparian corridors.
 
 The valley floor sits at elevations ranging from 700 to 1,000 feet above sea level, significantly lower than Potter Valley to the east (which ranges from 900 to 1,300 feet) but still elevated enough to avoid the fog accumulation that plagues lower-lying areas closer to the Pacific. This positioning proves critical: Redwood Valley receives the benefits of marine air without the excessive moisture and light reduction that fog brings.
 
@@ -38,11 +38,11 @@ The climate data reveals Redwood Valley's hybrid character. Growing season tempe
 
 The marine air intrusion typically begins in late afternoon, as the Central Valley heats up and creates a low-pressure system that pulls cool Pacific air inland. The gap in the coastal mountains acts as a funnel, channeling this marine layer directly into Redwood Valley. By evening, temperatures can drop 40°F or more, a diurnal shift that rivals Napa Valley's Calistoga while maintaining the acidity preservation of cooler regions.
 
-This daily thermal reset prevents the "cooked" flavors that plague many warm-climate California reds. Grapes achieve physiological ripeness—complete lignification of seeds, polymerization of tannins—without the sugar accumulation that leads to alcohols exceeding 15%.
+This daily thermal reset prevents the "cooked" flavors that plague many warm-climate California reds. Grapes achieve physiological ripeness (complete lignification of seeds, polymerization of tannins) without the sugar accumulation that leads to alcohols exceeding 15%.
 
 ## The Italian Legacy: Varietal Focus and Cultural Heritage
 
-The story of Redwood Valley viticulture begins with Italian immigrants in the 1880s and 1890s, primarily from Tuscany and Piedmont, who recognized the valley's potential for the varieties they knew from home. These families—names like Barra, Graziano, and others—planted Zinfandel (which they often called "Black St. Peters"), Barbera, Petite Sirah, and Carignane for bulk wine production and home consumption.
+The story of Redwood Valley viticulture begins with Italian immigrants in the 1880s and 1890s, primarily from Tuscany and Piedmont, who recognized the valley's potential for the varieties they knew from home. These families (names like Barra, Graziano, and others) planted Zinfandel (which they often called "Black St. Peters"), Barbera, Petite Sirah, and Carignane for bulk wine production and home consumption.
 
 This heritage persists in the region's varietal makeup today:
 
@@ -57,7 +57,7 @@ This heritage persists in the region's varietal makeup today:
 
 ### Zinfandel: The Historical Anchor
 
-Redwood Valley's Zinfandel plantings include some of Mendocino County's oldest vines, with several parcels dating to the 1910s and 1920s. These head-trained, dry-farmed vines produce yields of just 1.5 to 2.5 tons per acre—roughly one-third the output of modern trellised vineyards.
+Redwood Valley's Zinfandel plantings include some of Mendocino County's oldest vines, with several parcels dating to the 1910s and 1920s. These head-trained, dry-farmed vines produce yields of just 1.5 to 2.5 tons per acre, roughly one-third the output of modern trellised vineyards.
 
 The style differs markedly from the jammy, high-alcohol Zinfandels of Lodi or Paso Robles. Redwood Valley examples typically show:
 - Alcohol levels of 14-14.8% (versus 15-16% in warmer regions)
@@ -71,7 +71,7 @@ Charlie Barra, whose family has farmed in Redwood Valley since 1955, produces be
 
 While Zinfandel represents heritage, Cabernet Sauvignon drives contemporary commercial interest. Planted extensively in the 1990s and 2000s, Redwood Valley Cabernet occupies a stylistic middle ground between Napa Valley's power and the herbaceous character that can afflict cooler regions.
 
-The marine influence proves crucial here. Daytime heat allows complete flavor ripening—eliminating green pepper pyrazines—while nighttime cooling preserves the acidity that provides structure. The result is Cabernet with:
+The marine influence proves crucial here. Daytime heat allows complete flavor ripening (eliminating green pepper pyrazines) while nighttime cooling preserves the acidity that provides structure. The result is Cabernet with:
 - Cassis and black cherry fruit, not the jammy character of hotter sites
 - Integrated tannins from extended hang time without dehydration
 - Alcohol typically 13.8-14.5%, moderate by California standards
@@ -88,7 +88,7 @@ Syrah, by contrast, shows the region's cooling influence more explicitly. Unlike
 
 ### Barbera: The Underappreciated Treasure
 
-Perhaps no variety better expresses Redwood Valley's Italian heritage than Barbera. While plantings remain modest—roughly 125 acres valley-wide—the quality can be exceptional. Barbera's naturally high acidity (often 7-8 g/L) and low tannin structure make it ideal for the region's warm days and cool nights.
+Perhaps no variety better expresses Redwood Valley's Italian heritage than Barbera. While plantings remain modest (roughly 125 acres valley-wide) the quality can be exceptional. Barbera's naturally high acidity (often 7-8 g/L) and low tannin structure make it ideal for the region's warm days and cool nights.
 
 Graziano Family of Wines, operated by fourth-generation grower Gregory Graziano, produces Barbera from vines planted by his grandfather in the 1940s. These wines show:
 - Bright cherry and pomegranate fruit
@@ -107,7 +107,7 @@ Charlie and Martha Barra farm 200 acres in Redwood Valley, with certified organi
 **Wines to seek:**
 - Barra of Mendocino Redwood Valley Zinfandel (from 1945 plantings)
 - Girasole Vineyard Petite Sirah (demonstrates aging potential)
-- Pinot Noir (yes, Pinot grows here in cooler pockets—rarely seen but compelling)
+- Pinot Noir (yes, Pinot grows here in cooler pockets, rarely seen but compelling)
 
 ### Graziano Family of Wines
 
@@ -175,7 +175,7 @@ Redwood Valley producers generally employ restrained winemaking compared to othe
 
 ## The Organic and Biodynamic Movement
 
-Redwood Valley has emerged as a center for organic and biodynamic viticulture in California. Approximately 40% of vineyard acreage is certified organic—among the highest percentages in the state. Several factors drive this:
+Redwood Valley has emerged as a center for organic and biodynamic viticulture in California. Approximately 40% of vineyard acreage is certified organic, among the highest percentages in the state. Several factors drive this:
 
 1. **Low disease pressure:** The dry growing season (May through October typically sees less than 2 inches of rain) reduces fungal disease, making organic farming viable
 2. **Cultural heritage:** Italian farming traditions emphasized working with nature rather than against it
@@ -202,7 +202,7 @@ The challenge is partly self-inflicted: many growers sell fruit to larger produc
 
 Like many California wine regions, Redwood Valley faces questions of succession. The Italian families that established viticulture here are now in their third, fourth, or fifth generations. Not all descendants wish to continue farming, and land values make it difficult for young growers to enter the region.
 
-Conservation easements and agricultural trusts may preserve vineyard land, but the cultural knowledge—which vines to plant where, when to irrigate, how to manage old vines—can be lost in a single generation.
+Conservation easements and agricultural trusts may preserve vineyard land, but the cultural knowledge (which vines to plant where, when to irrigate, how to manage old vines) can be lost in a single generation.
 
 ## Wines to Seek: A Buyer's Guide
 
@@ -259,7 +259,7 @@ The moderate alcohol levels (typically 13.5-14.5%) mean these wines won't overwh
 
 ## Visiting Redwood Valley
 
-Redwood Valley offers a low-key alternative to Napa's tasting room circus. Most wineries operate by appointment, and the emphasis is on conversation rather than commerce. The valley's rural character—sheep grazing between vine rows, redwoods along creek beds, family homes adjacent to cellars—provides insight into California wine before it became an industry.
+Redwood Valley offers a low-key alternative to Napa's tasting room circus. Most wineries operate by appointment, and the emphasis is on conversation rather than commerce. The valley's rural character (sheep grazing between vine rows, redwoods along creek beds, family homes adjacent to cellars) provides insight into California wine before it became an industry.
 
 **Recommended visits:**
 - Barra of Mendocino: Family-operated, educational tours of organic vineyards
@@ -272,7 +272,7 @@ Plan visits during harvest (September-October) to see the valley at its most act
 
 Redwood Valley will never be Napa Valley. It lacks the capital investment, the celebrity winemakers, the architectural trophy wineries. What it offers instead is authenticity: family farms producing distinctive wines from a unique mesoclimate, sold at prices that reflect farming costs rather than brand premiums.
 
-The marine air corridor that defines the region's climate creates red wines with balance increasingly rare in California: ripe fruit without jammy excess, structure without harshness, alcohol levels that allow a second glass. The Italian heritage persists not just in varietal selection but in philosophy—wine as part of life, not apart from it.
+The marine air corridor that defines the region's climate creates red wines with balance increasingly rare in California: ripe fruit without jammy excess, structure without harshness, alcohol levels that allow a second glass. The Italian heritage persists not just in varietal selection but in philosophy, wine as part of life, not apart from it.
 
 For consumers weary of homogenized, high-alcohol California reds, Redwood Valley offers an alternative. The wines taste of somewhere specific, made by people with generational knowledge of their land. In an era of corporate consolidation and focus-grouped wines, this matters.
 

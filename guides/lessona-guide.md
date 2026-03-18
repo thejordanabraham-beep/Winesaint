@@ -6,7 +6,7 @@
 
 Lessona is a distinguished and historically significant wine appellation nestled in the northeastern reaches of Piedmont's Alto Piemonte region. Specifically located in the province of Biella, Lessona occupies the hillsides surrounding the small commune of the same name, positioned between the more famous appellations of Gattinara to the north and Bramaterra to the east. The appellation sits at the southern foothills of the Alps, where Monte Rosa's imposing massif creates a dramatic backdrop to these ancient vineyards.
 
-The zone is remarkably compact—among the smallest appellations in all of Piedmont—covering approximately 50 hectares of classified vineyard land. This intimate scale has preserved Lessona's artisanal character and maintained its reputation as a connoisseur's wine, produced in quantities that rarely satisfy demand among those who have discovered its singular charms.
+The zone is remarkably compact (among the smallest appellations in all of Piedmont) covering approximately 50 hectares of classified vineyard land. This intimate scale has preserved Lessona's artisanal character and maintained its reputation as a connoisseur's wine, produced in quantities that rarely satisfy demand among those who have discovered its singular charms.
 
 ### Historical Significance and Development
 
@@ -32,7 +32,7 @@ The DOCG regulations stipulate:
 
 ### Specific Soil Types
 
-Lessona's geological foundation represents one of its most distinctive attributes and the primary factor differentiating it from other Alto Piemonte appellations. The soils are predominantly composed of **volcanic porphyry**—specifically marine sediments mixed with porphyritic rock of volcanic origin—overlaid with glacial deposits carried down from Monte Rosa during successive ice ages.
+Lessona's geological foundation represents one of its most distinctive attributes and the primary factor differentiating it from other Alto Piemonte appellations. The soils are predominantly composed of **volcanic porphyry**, specifically marine sediments mixed with porphyritic rock of volcanic origin, overlaid with glacial deposits carried down from Monte Rosa during successive ice ages.
 
 This porphyry composition creates a reddish, iron-rich soil locally called "terreno rosso" (red earth), which is visible in vineyard profiles throughout the zone. The volcanic component provides excellent drainage, moderate fertility, and a distinctive mineral signature in the wines. The glacial deposits contribute sand, gravel, and small stones that further enhance drainage and heat retention.
 
@@ -40,7 +40,7 @@ The soils are notably acidic (pH typically 4.5-5.5) and rich in iron, magnesium,
 
 ### Vineyard Sites and Exposure
 
-The classified vineyard sites of Lessona occupy hillsides ranging from gentle slopes to more pronounced inclines, with the best sites positioned on south to southeast-facing exposures. These orientations maximize sunlight exposure during the growing season—critical for successfully ripening Nebbiolo in this northerly location.
+The classified vineyard sites of Lessona occupy hillsides ranging from gentle slopes to more pronounced inclines, with the best sites positioned on south to southeast-facing exposures. These orientations maximize sunlight exposure during the growing season, critical for successfully ripening Nebbiolo in this northerly location.
 
 The most historically significant vineyard sites include:
 - **San Sebastiano allo Zoppo**: Perhaps the most celebrated vineyard, known for exceptional exposure and ideal soil composition
@@ -51,19 +51,19 @@ The natural amphitheater-like formation of certain hillsides creates mesoclimate
 
 ### Altitude and Microclimate
 
-Lessona's vineyards are situated at altitudes ranging from approximately 250 to 400 meters above sea level—higher than many other Nebbiolo zones but still moderate within the Alto Piemonte context. This elevation provides crucial diurnal temperature variation, with warm days followed by cool nights that preserve acidity and aromatic complexity in the grapes.
+Lessona's vineyards are situated at altitudes ranging from approximately 250 to 400 meters above sea level, higher than many other Nebbiolo zones but still moderate within the Alto Piemonte context. This elevation provides crucial diurnal temperature variation, with warm days followed by cool nights that preserve acidity and aromatic complexity in the grapes.
 
 The climate is continental with significant alpine influence. Monte Rosa's proximity creates a rain shadow effect, providing the zone with less precipitation than might be expected. The Alps also moderate temperature extremes, preventing the most severe frosts while cooling summer heat. Average annual rainfall is approximately 1,000-1,200mm, concentrated in spring and autumn.
 
-Growing season temperatures are cooler than in southern Piedmont, with harvest typically occurring 2-3 weeks later than in Barolo or Barbaresco. This extended hang time in cooler conditions allows Nebbiolo to develop aromatic complexity while maintaining fresh acidity—a hallmark of Lessona's style.
+Growing season temperatures are cooler than in southern Piedmont, with harvest typically occurring 2-3 weeks later than in Barolo or Barbaresco. This extended hang time in cooler conditions allows Nebbiolo to develop aromatic complexity while maintaining fresh acidity: a hallmark of Lessona's style.
 
 Fog and morning mists are common, particularly in autumn, contributing to the distinctive terroir expression. The porous, well-drained soils prevent water stagnation even during rainy periods, reducing disease pressure.
 
 ### How Terroir Shapes Wine Character
 
-Lessona's unique geological and climatic conditions produce Nebbiolo wines of remarkable elegance and aromatic sophistication. The volcanic porphyry soils contribute distinctive mineral notes—often described as iron, wet stone, or crushed rock—that form a core around which the wine's fruit and floral elements revolve.
+Lessona's unique geological and climatic conditions produce Nebbiolo wines of remarkable elegance and aromatic sophistication. The volcanic porphyry soils contribute distinctive mineral notes (often described as iron, wet stone, or crushed rock) that form a core around which the wine's fruit and floral elements revolve.
 
-The combination of acidic soils, moderate altitude, and extended growing season yields wines with naturally high acidity, moderate alcohol (typically 13-14%), and sophisticated tannin structure. Unlike the more powerful, structured Nebbiolo wines from southern Piedmont, Lessona expresses a lighter touch—emphasizing transparency, perfume, and finesse over sheer power.
+The combination of acidic soils, moderate altitude, and extended growing season yields wines with naturally high acidity, moderate alcohol (typically 13-14%), and sophisticated tannin structure. Unlike the more powerful, structured Nebbiolo wines from southern Piedmont, Lessona expresses a lighter touch, emphasizing transparency, perfume, and finesse over sheer power.
 
 ## 3. Viticulture
 
@@ -71,7 +71,7 @@ The combination of acidic soils, moderate altitude, and extended growing season 
 
 Nebbiolo, known locally as **Spanna**, forms the backbone of Lessona DOCG, constituting a minimum of 85% of any blend. This focus on Nebbiolo mono-varietal or near-mono-varietal wines distinguishes Lessona from some neighboring appellations where traditional field blends might include higher percentages of complementary varieties.
 
-The permitted complementary varieties—**Vespolina** and **Bonarda Novarese** (Uva Rara)—can comprise up to 15% combined. These indigenous grapes serve specific functions:
+The permitted complementary varieties (**Vespolina** and **Bonarda Novarese** (Uva Rara)) can comprise up to 15% combined. These indigenous grapes serve specific functions:
 
 **Vespolina** contributes aromatic lift, spicy notes, and bright acidity while softening Nebbiolo's tannic grip. Its perfumed character adds complexity to the wine's bouquet.
 
@@ -83,7 +83,7 @@ Many producers craft 100% Nebbiolo wines, viewing the variety as fully capable o
 
 The Nebbiolo cultivated in Lessona belongs to various clonal selections, some of which have evolved specifically in Alto Piemonte over centuries. These northern Nebbiolo biotypes exhibit distinct characteristics compared to the Lampia, Michet, and Rosé clones common in Barolo and Barbaresco.
 
-Alto Piemonte Nebbiolo—whether called Spanna or Nebbiolo—tends toward:
+Alto Piemonte Nebbiolo (whether called Spanna or Nebbiolo) tends toward:
 - Smaller, more compact bunches
 - Slightly smaller berries with higher skin-to-juice ratios
 - Earlier ripening capability (relative to southern clones)
@@ -91,7 +91,7 @@ Alto Piemonte Nebbiolo—whether called Spanna or Nebbiolo—tends toward:
 - More pronounced aromatic complexity
 - Lighter color extraction
 
-Many historic vineyards contain massal selections—field selections propagated from the best-performing vines over generations. These represent invaluable genetic diversity and site-specific adaptation. Contemporary replanting efforts increasingly focus on preserving these heritage clones rather than introducing standardized commercial selections.
+Many historic vineyards contain massal selections, field selections propagated from the best-performing vines over generations. These represent invaluable genetic diversity and site-specific adaptation. Contemporary replanting efforts increasingly focus on preserving these heritage clones rather than introducing standardized commercial selections.
 
 ### Blending Regulations
 
@@ -109,7 +109,7 @@ Vineyard density varies from 3,500 to 5,000 vines per hectare, with tighter spac
 
 Sustainable and organic viticulture has gained adherents, with several producers farming organically or biodynamically. The well-drained porphyry soils and relatively dry growing season facilitate organic approaches by reducing disease pressure.
 
-Harvest timing is critical. Lessona producers typically wait for complete phenolic ripeness—when seeds are brown and tannins are soft—rather than chasing high sugar levels. This patience yields wines with moderate alcohol and sophisticated tannin profiles.
+Harvest timing is critical. Lessona producers typically wait for complete phenolic ripeness (when seeds are brown and tannins are soft) rather than chasing high sugar levels. This patience yields wines with moderate alcohol and sophisticated tannin profiles.
 
 ## 4. Wine Production
 
@@ -131,7 +131,7 @@ Lessona winemaking philosophy generally embraces **tradition balanced with moder
 
 Some contemporary producers incorporate small percentages of smaller barrels (barriques or tonneaux) for added complexity, though heavy new oak is generally avoided as incongruous with Lessona's elegant style.
 
-**Aging on the lees** with periodic stirring has gained adherents for adding texture and complexity without additional extraction. Extended post-bottling aging before release—beyond DOCG minimums—is increasingly common among quality-focused producers.
+**Aging on the lees** with periodic stirring has gained adherents for adding texture and complexity without additional extraction. Extended post-bottling aging before release (beyond DOCG minimums) is increasingly common among quality-focused producers.
 
 ### Aging Requirements
 
@@ -155,7 +155,7 @@ Beyond the normale and Riserva designations, producers create quality hierarchie
 
 Lessona expresses Nebbiolo's noble character through a distinctly northern Italian lens, emphasizing **elegance, perfume, and transparency** over power. The classic Lessona profile features:
 
-**Aromatic complexity**: Red cherry, wild strawberry, rose petal, violet, alpine herbs (juniper, thyme), dried flowers, tar, and tobacco. The volcanic terroir contributes distinctive mineral notes—wet stone, iron, blood orange—that anchor the aromatic profile.
+**Aromatic complexity**: Red cherry, wild strawberry, rose petal, violet, alpine herbs (juniper, thyme), dried flowers, tar, and tobacco. The volcanic terroir contributes distinctive mineral notes (wet stone, iron, blood orange) that anchor the aromatic profile.
 
 **Palate structure**: Medium-bodied with vibrant acidity and refined tannins. The texture is silky rather than grippy, with iron-inflected minerality providing backbone. Alcohol typically remains moderate (13-14%), contributing to the wine's elegance and drinkability.
 
@@ -175,7 +175,7 @@ Within Alto Piemonte, Lessona occupies a distinctive position:
 
 **Versus Boca**: Boca shares volcanic porphyry soils and similar elegance, making these appellations stylistic cousins. Lessona typically shows slightly richer fruit and more generous mid-palate.
 
-The common thread connecting these appellations is **elegance, aromatic complexity, and transparency**—characteristics distinguishing Alto Piemonte Nebbiolo from southern expressions.
+The common thread connecting these appellations is **elegance, aromatic complexity, and transparency**, characteristics distinguishing Alto Piemonte Nebbiolo from southern expressions.
 
 ### Comparison to Barolo/Barbaresco
 
@@ -189,7 +189,7 @@ Compared to southern Piedmont's famous appellations, Lessona offers a distinctly
 
 **Food compatibility**: Higher acidity and lighter body make Lessona more versatile with food, particularly excellent with lighter preparations, game birds, and aged cheeses.
 
-Think of Lessona as **Nebbiolo in its most refined, transparent form**—emphasizing site expression and varietal character over power or concentration.
+Think of Lessona as **Nebbiolo in its most refined, transparent form**, emphasizing site expression and varietal character over power or concentration.
 
 ### Aging Potential and Evolution
 
@@ -219,7 +219,7 @@ The volcanic terroir appears to impart remarkable aging potential, with older vi
 
 ### Historic vs Modern Producers
 
-The **historic producers**—particularly those connected to the Sella family—serve as guardians of Lessona's heritage and custodians of the most significant vineyard sites. Their approach tends toward traditional winemaking with large botti aging and extended elevage.
+The **historic producers**, particularly those connected to the Sella family, serve as guardians of Lessona's heritage and custodians of the most significant vineyard sites. Their approach tends toward traditional winemaking with large botti aging and extended elevage.
 
 **Modern producers** have brought renewed energy, often incorporating organic/biodynamic viticulture, more precise vinification techniques, and marketing sophistication. However, even newer projects in Lessona tend to embrace the appellation's elegant, terroir-focused style rather than imposing extracted, modern-international approaches.
 
@@ -238,11 +238,11 @@ This balance between tradition and evolution has been crucial to Lessona's renai
 
 Lessona wines pair magnificently with the hearty, rustic cuisine of northern Piedmont:
 
-**Paniscia**: The signature dish of the Vercelli-Biella area—a rich risotto made with borlotti beans, salami, and red wine. The dish's earthiness and richness complement Lessona's structure and acidity.
+**Paniscia**: The signature dish of the Vercelli-Biella area: a rich risotto made with borlotti beans, salami, and red wine. The dish's earthiness and richness complement Lessona's structure and acidity.
 
 **Brasato al Barolo**: Though traditionally made with Barolo, beef braised in Nebbiolo wine is spectacular with Lessona, creating a harmonious wine-food echo.
 
-**Game birds**: Pheasant, guinea fowl, and quail—either roasted or in rich preparations—highlight Lessona's elegance without overwhelming its moderate body.
+**Game birds**: Pheasant, guinea fowl, and quail (either roasted or in rich preparations) highlight Lessona's elegance without overwhelming its moderate body.
 
 **Aged cheeses**: Particularly Toma Piemontese, Castelmagno, and aged Gorgonzola, which bridge the wine's fruit and savory characteristics.
 
@@ -258,7 +258,7 @@ Lessona wines pair magnificently with the hearty, rustic cuisine of northern Pie
 
 **Glassware**: Large-bowled Burgundy-style glasses showcase Lessona's aromatic complexity and elegant structure better than traditional Bordeaux shapes.
 
-**Service progression**: Lessona works beautifully in the middle of a meal progression—after lighter wines but before more powerful reds—or can anchor an entire evening paired with progressively richer courses.
+**Service progression**: Lessona works beautifully in the middle of a meal progression (after lighter wines but before more powerful reds) or can anchor an entire evening paired with progressively richer courses.
 
 ### Vintage Considerations
 
@@ -276,8 +276,8 @@ The best producers maintain quality across vintages through rigorous selection a
 
 ## Conclusion
 
-Lessona represents **Nebbiolo at its most refined and transparent**—a wine that prioritizes elegance, aromatic complexity, and terroir expression over power or extraction. The appellation's unique volcanic porphyry soils, moderate altitude, and alpine-influenced climate produce wines of distinctive mineral character, vibrant acidity, and remarkable aging potential.
+Lessona represents **Nebbiolo at its most refined and transparent**, a wine that prioritizes elegance, aromatic complexity, and terroir expression over power or extraction. The appellation's unique volcanic porphyry soils, moderate altitude, and alpine-influenced climate produce wines of distinctive mineral character, vibrant acidity, and remarkable aging potential.
 
 Though small in production, Lessona occupies an outsized position in the pantheon of great Italian wines, offering connoisseurs an alternative vision of Nebbiolo that emphasizes finesse and site-specificity. The recent DOCG elevation acknowledges both historical significance and contemporary quality, positioning Lessona for continued evolution while preserving its essential character.
 
-For wine enthusiasts seeking to explore beyond Barolo and Barbaresco, Lessona offers profound rewards—wines of subtlety, complexity, and genuine distinction that reveal the extraordinary diversity possible within a single grape variety when expressed through exceptional terroir.
+For wine enthusiasts seeking to explore beyond Barolo and Barbaresco, Lessona offers profound rewards, wines of subtlety, complexity, and genuine distinction that reveal the extraordinary diversity possible within a single grape variety when expressed through exceptional terroir.

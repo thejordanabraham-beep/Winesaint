@@ -1,14 +1,14 @@
 # Maximin Grünhauser Abtsberg: The Ruwer's Monastic Masterpiece
 
-The Abtsberg—"Abbot's Hill"—is not merely a great vineyard. It is the historical and qualitative apex of the Ruwer Valley, a steep amphitheater of Devonian slate that has produced some of Germany's most profound Rieslings for over a millennium.
+The Abtsberg ("Abbot's Hill") is not merely a great vineyard. It is the historical and qualitative apex of the Ruwer Valley, a steep amphitheater of Devonian slate that has produced some of Germany's most profound Rieslings for over a millennium.
 
 ## Geography and Terroir
 
 The Abtsberg rises directly behind the von Schubert family's manor house in Mertesdorf, approximately 8 kilometers from where the Ruwer meets the Mosel. This is a sheltered, south-southwest-facing bowl that captures and holds sunlight with unusual efficiency for this cool tributary valley.
 
-The vineyard spans roughly 18 hectares between 180 and 280 meters elevation. The slope gradient reaches 60% in sections—steep enough to demand hand labor and specialized equipment, but this pitch is precisely what makes the site exceptional. Cold air drains rapidly downslope, reducing frost risk and extending the growing season by critical days in both spring and autumn.
+The vineyard spans roughly 18 hectares between 180 and 280 meters elevation. The slope gradient reaches 60% in sections, steep enough to demand hand labor and specialized equipment, but this pitch is precisely what makes the site exceptional. Cold air drains rapidly downslope, reducing frost risk and extending the growing season by critical days in both spring and autumn.
 
-The bedrock is blue Devonian slate, formed approximately 400 million years ago when this region lay beneath a tropical sea. This slate weathers into thin, mineral-rich soils with exceptional drainage—rarely exceeding 40 centimeters depth in the steepest sections. Water stress is common in dry vintages despite the Ruwer's reputation for rain. The slate's heat retention capacity creates a microclimate several degrees warmer than the valley floor, essential for ripening in this marginal climate where the growing season averages 30 days shorter than the Middle Mosel.
+The bedrock is blue Devonian slate, formed approximately 400 million years ago when this region lay beneath a tropical sea. This slate weathers into thin, mineral-rich soils with exceptional drainage, rarely exceeding 40 centimeters depth in the steepest sections. Water stress is common in dry vintages despite the Ruwer's reputation for rain. The slate's heat retention capacity creates a microclimate several degrees warmer than the valley floor, essential for ripening in this marginal climate where the growing season averages 30 days shorter than the Middle Mosel.
 
 ## Monastic Origins and Modern Context
 
@@ -18,7 +18,7 @@ This continuity matters. Unlike many German estates fragmented by inheritance la
 
 ## Wine Characteristics
 
-Abtsberg Rieslings display a tension between power and delicacy that distinguishes them from both Saar and Mosel wines. The slate imparts a pronounced mineral edge—graphite, wet stone, flint—more austere than the Saar's floral character, more structured than the Middle Mosel's fruit-forward generosity.
+Abtsberg Rieslings display a tension between power and delicacy that distinguishes them from both Saar and Mosel wines. The slate imparts a pronounced mineral edge (graphite, wet stone, flint) more austere than the Saar's floral character, more structured than the Middle Mosel's fruit-forward generosity.
 
 Acidity is piercing, typically 8-9 g/L in Kabinett wines, providing the backbone for decades of development. The best Auslesen from warm vintages like 1976, 1983, and 2005 remain vibrant after 40+ years. Prädikat levels range from razor-sharp Kabinett (typically 8-9% alcohol) through Spätlese to occasional Auslese in exceptional years; Trockenbeerenauslese is rare, produced perhaps twice per decade.
 
@@ -34,7 +34,7 @@ Abtsberg's superior exposition and drainage make it the most reliable site in th
 
 Weingut Maximin Grünhaus (von Schubert family) is the sole producer. Current proprietor Maximin von Schubert represents the sixth generation, maintaining traditional practices: spontaneous fermentation in large old Fuder casks, minimal intervention, extended lees contact. The estate produces wines across the Prädikat spectrum, with production weighted toward Kabinett and Spätlese in most vintages.
 
-The estate's monopole status allows for micro-parcel vinification. Specific sections of Abtsberg—the steepest upper slopes, for instance—may be harvested and bottled separately as Auslese in exceptional years, though these distinctions appear on auction lists rather than standard releases.
+The estate's monopole status allows for micro-parcel vinification. Specific sections of Abtsberg (the steepest upper slopes, for instance) may be harvested and bottled separately as Auslese in exceptional years, though these distinctions appear on auction lists rather than standard releases.
 
 ---
 

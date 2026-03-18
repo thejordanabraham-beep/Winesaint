@@ -6,7 +6,7 @@ Königsbecher sits within Baden, Germany's warmest and sunniest wine region, ben
 
 ## Geography & Terroir
 
-Königsbecher's precise location within Baden's sprawling geography shapes everything about its character. Baden encompasses nine distinct Bereiche (districts), each with markedly different conditions. The region's southern latitude—comparable to Burgundy's Côte d'Or—combines with continental influence to create growing conditions that diverge dramatically from the Mosel or Rheingau.
+Königsbecher's precise location within Baden's sprawling geography shapes everything about its character. Baden encompasses nine distinct Bereiche (districts), each with markedly different conditions. The region's southern latitude (comparable to Burgundy's Côte d'Or) combines with continental influence to create growing conditions that diverge dramatically from the Mosel or Rheingau.
 
 The vineyard likely occupies south or southwest-facing slopes, the preferred exposition throughout Baden for optimal ripening without excessive heat stress. Elevation matters significantly here. Lower sites in Baden's warmest pockets, particularly around the extinct volcanic Kaiserstuhl, regularly produce Spätburgunder (Pinot Noir) with 14% alcohol and concentrated, almost New World fruit intensity. Higher elevation sites and those with greater air circulation produce wines with more tension and definition.
 
@@ -14,25 +14,25 @@ The vineyard likely occupies south or southwest-facing slopes, the preferred exp
 
 Without specific geological surveys of Königsbecher itself, we can contextualize through Baden's broader soil patterns. The region's terroir divides roughly into three categories:
 
-**Volcanic soils** dominate Kaiserstuhl, where weathered basalt and volcanic tuff produce the region's most powerful wines—full-bodied Spätburgunder with smoky, mineral-inflected dark fruit and Weissburgunder (Pinot Blanc) with substantial texture.
+**Volcanic soils** dominate Kaiserstuhl, where weathered basalt and volcanic tuff produce the region's most powerful wines, full-bodied Spätburgunder with smoky, mineral-inflected dark fruit and Weissburgunder (Pinot Blanc) with substantial texture.
 
-**Calcareous soils** characterize the Bereiche of Tuniberg and Breisgau, creating wines with higher natural acidity and more delicate fruit expression. These limestone and marl-rich sites produce Spätburgunder that more closely resembles Burgundian templates—lighter in extraction, more transparent in fruit character, with pronounced mineral lift.
+**Calcareous soils** characterize the Bereiche of Tuniberg and Breisgau, creating wines with higher natural acidity and more delicate fruit expression. These limestone and marl-rich sites produce Spätburgunder that more closely resembles Burgundian templates, lighter in extraction, more transparent in fruit character, with pronounced mineral lift.
 
 **Loess and sedimentary deposits** appear throughout Baden's flatter areas and lower slopes, typically yielding higher volumes of fruit with less distinctive character.
 
-If Königsbecher produces wines of distinction—and the "King's Chalice" designation suggests historical significance—it likely possesses either volcanic or calcareous foundations. The limestone sites deserve particular attention. In cooler growing regions, calcareous soil is prized for its heat retention. In Baden, already warm, these soils function differently: they provide crucial acidity retention and aromatic precision that prevents wines from becoming flabby or overripe.
+If Königsbecher produces wines of distinction (and the "King's Chalice" designation suggests historical significance) it likely possesses either volcanic or calcareous foundations. The limestone sites deserve particular attention. In cooler growing regions, calcareous soil is prized for its heat retention. In Baden, already warm, these soils function differently: they provide crucial acidity retention and aromatic precision that prevents wines from becoming flabby or overripe.
 
 ## Wine Character & Style
 
-The wines from Königsbecher will reflect Baden's general stylistic direction while expressing site-specific nuance. Understanding Baden's current identity crisis—or rather, identity evolution—is essential context.
+The wines from Königsbecher will reflect Baden's general stylistic direction while expressing site-specific nuance. Understanding Baden's current identity crisis (or rather, identity evolution) is essential context.
 
 For decades, Baden pursued a Burgundian model with almost religious fervor. Dijon clones of Pinot Noir dominated new plantings. Barrique aging became standard. The goal was clear: make German Burgundy. This approach produced some excellent wines but also revealed limitations. Baden is simply too warm for many Dijon clones, which were selected for Burgundy's cooler conditions. The result was often wines with excessive alcohol, low acidity, and fruit that bordered on jammy.
 
-The current generation is recalibrating. Swiss Mariafeld clones and newly selected German clones—bred for quality rather than yield—are receiving fresh attention. Oak usage continues, but with greater restraint. Black Forest oak (essentially Vosges oak, separated only by national borders) appears alongside French barrels, adding textural complexity without overwhelming fruit.
+The current generation is recalibrating. Swiss Mariafeld clones and newly selected German clones (bred for quality rather than yield) are receiving fresh attention. Oak usage continues, but with greater restraint. Black Forest oak (essentially Vosges oak, separated only by national borders) appears alongside French barrels, adding textural complexity without overwhelming fruit.
 
 ### Red Wines: Spätburgunder
 
-If Königsbecher produces Spätburgunder—and given Baden's reputation, this seems likely—the wines should express medium to full body with complex dark fruit character. Expect black cherry, plum, and dark berry fruits, potentially with smoky or mineral inflections depending on soil type. Alcohol levels typically range from 13-14%, occasionally higher in warm vintages.
+If Königsbecher produces Spätburgunder (and given Baden's reputation, this seems likely) the wines should express medium to full body with complex dark fruit character. Expect black cherry, plum, and dark berry fruits, potentially with smoky or mineral inflections depending on soil type. Alcohol levels typically range from 13-14%, occasionally higher in warm vintages.
 
 The best examples balance Baden's natural ripeness with structural integrity. This means sufficient acidity to provide lift and aging potential, tannins that are ripe but present, and fruit that remains defined rather than collapsing into generic sweetness. Oak influence varies by producer philosophy, ranging from subtle integration to more pronounced vanilla and toast notes.
 
@@ -44,17 +44,17 @@ Baden permits Weissburgunder, Grauburgunder (Pinot Gris), and Chardonnay as Gros
 
 **Grauburgunder** has achieved more success in Baden than elsewhere in Germany. These wines are typically dry and golden in color. Skin contact is routine, drawing out Pinot Gris's coppery tones and adding textural complexity. Grosse Lage Grauburgunder is rarely produced outside Baden, and here it is almost always dry. (Sweeter styles, when made, are usually labeled under the synonym Ruländer.)
 
-**Riesling** occupies relatively small acreage in Baden—only 59% of plantings are white varieties, and Müller-Thurgau still claims significant space for inexpensive blends. However, some high-quality, fuller-bodied Riesling is produced at all Prädikat levels, particularly in Ortenau and Kraichgau. These wines recall Alsace's proximity, showing ripe stone fruit, substantial body, and lower acidity than Mosel or Rheingau examples.
+**Riesling** occupies relatively small acreage in Baden, only 59% of plantings are white varieties, and Müller-Thurgau still claims significant space for inexpensive blends. However, some high-quality, fuller-bodied Riesling is produced at all Prädikat levels, particularly in Ortenau and Kraichgau. These wines recall Alsace's proximity, showing ripe stone fruit, substantial body, and lower acidity than Mosel or Rheingau examples.
 
 ## Classification & VDP Status
 
 Baden's VDP (Verband Deutscher Prädikatsweingüter) classification system mirrors Burgundy's hierarchy: Gutswein (regional wine), Ortswein (village wine), Erste Lage (Premier Cru equivalent), and Grosse Lage (Grand Cru equivalent). Whether Königsbecher holds Grosse Lage or Erste Lage status would indicate its historical and qualitative standing within the region.
 
-The VDP's permitted varieties for Grosse Lage wines throughout Baden—Spätburgunder, Weissburgunder, Grauburgunder, Riesling, and Chardonnay—reflect the region's Burgundian aspirations while acknowledging its warmer reality. This is a broader palette than most German regions permit at the highest level, recognition that Baden's conditions suit multiple varieties.
+The VDP's permitted varieties for Grosse Lage wines throughout Baden (Spätburgunder, Weissburgunder, Grauburgunder, Riesling, and Chardonnay) reflect the region's Burgundian aspirations while acknowledging its warmer reality. This is a broader palette than most German regions permit at the highest level, recognition that Baden's conditions suit multiple varieties.
 
 ## Comparison to Neighboring Sites
 
-Understanding Königsbecher requires contextualizing it within Baden's internal diversity. The differences between Baden's sub-regions are profound—more significant than the variations within many entire wine regions.
+Understanding Königsbecher requires contextualizing it within Baden's internal diversity. The differences between Baden's sub-regions are profound, more significant than the variations within many entire wine regions.
 
 **Kaiserstuhl**, the extinct volcano, produces Baden's most powerful wines. Steep, south-facing slopes of volcanic soil create Spätburgunder with high alcohol, complex smoky ripe fruit flavors, and substantial body. If Königsbecher sits in or near Kaiserstuhl, expect wines in this fuller-bodied style.
 
@@ -90,13 +90,13 @@ The opportunity: Baden can ripen varieties that struggle elsewhere in Germany. S
 
 The challenge: warmth without flabbiness. Baden's wines must maintain acidity and freshness in a climate that naturally produces ripe, generous fruit. This requires careful site selection (elevation, exposition, soil type), appropriate clone selection, and precise harvest timing. Pick too early and the wines lack flavor development. Pick too late and they become alcoholic and unbalanced.
 
-The best Baden sites—and if Königsbecher merits its royal name, it likely numbers among them—solve this paradox through natural advantages: calcareous soils that retain acidity, elevation that moderates heat, or volcanic substrates that add mineral complexity and prevent simple fruit sweetness.
+The best Baden sites (and if Königsbecher merits its royal name, it likely numbers among them) solve this paradox through natural advantages: calcareous soils that retain acidity, elevation that moderates heat, or volcanic substrates that add mineral complexity and prevent simple fruit sweetness.
 
 ## Vintage Considerations
 
 Baden's warm, dry climate creates relatively consistent vintage conditions compared to Germany's cooler regions. The rain shadow from the Vosges Mountains ensures adequate sunshine and low disease pressure in most years. However, vintage variation still matters.
 
-Cooler vintages with moderate rainfall produce the most balanced wines, maintaining acidity while still achieving full ripeness. Excessively hot, dry years—increasingly common with climate change—can produce wines with high alcohol and low acidity, particularly from lower-elevation sites.
+Cooler vintages with moderate rainfall produce the most balanced wines, maintaining acidity while still achieving full ripeness. Excessively hot, dry years (increasingly common with climate change) can produce wines with high alcohol and low acidity, particularly from lower-elevation sites.
 
 The region's low rainfall (often under 600mm annually in the driest areas) makes drought stress an increasing concern. Older vines with deep root systems handle dry conditions better, accessing water and nutrients from deeper soil layers. Younger vines on shallow soils can struggle, producing wines with hard tannins and concentrated but unbalanced fruit.
 

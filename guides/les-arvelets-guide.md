@@ -56,13 +56,13 @@ Site-specific challenges include spring frost risk, particularly in lower-lying 
 
 Les Arvelets produces Pinot Noir wines distinguished by their mineral precision, elegant structure, and distinctive aromatic complexity that reflects Fixin's cooler growing conditions. The wines typically display medium body with well-integrated tannins that provide structure without overwhelming the fruit expression.
 
-Aromatic characteristics frequently include red berry fruits—particularly raspberry, cranberry, and red cherry—complemented by distinctive floral notes of violet and rose petal. The cooler climate contributes to pronounced herbal undertones, with thyme, bay leaf, and dried Mediterranean herbs appearing regularly. As wines mature, secondary aromas develop including leather, forest floor, and game, while tertiary development reveals truffle, dried fruit, and complex spice elements.
+Aromatic characteristics frequently include red berry fruits (particularly raspberry, cranberry, and red cherry) complemented by distinctive floral notes of violet and rose petal. The cooler climate contributes to pronounced herbal undertones, with thyme, bay leaf, and dried Mediterranean herbs appearing regularly. As wines mature, secondary aromas develop including leather, forest floor, and game, while tertiary development reveals truffle, dried fruit, and complex spice elements.
 
 The palate typically demonstrates excellent balance between fruit concentration and mineral structure. Acidity remains vibrant throughout the wine's development, providing both freshness in youth and aging potential for extended cellaring. Tannin structure tends toward elegance rather than power, with fine-grained tannins that integrate smoothly as wines mature.
 
 Mineral expression proves particularly distinctive in Les Arvelets wines, with limestone-derived characteristics including wet stone, chalk dust, and subtle salinity appearing consistently across different producers and vintages. This mineral foundation provides both immediate appeal and long-term complexity development.
 
-Textural qualities emphasize finesse over power, with wines displaying silky mouthfeel in optimal vintages while maintaining sufficient structure for serious contemplation. The combination of elevation, limestone soils, and cool climate creates wines of notable tension—a dynamic balance between fruit richness and mineral restraint that defines quality Burgundian Pinot Noir.
+Textural qualities emphasize finesse over power, with wines displaying silky mouthfeel in optimal vintages while maintaining sufficient structure for serious contemplation. The combination of elevation, limestone soils, and cool climate creates wines of notable tension: a dynamic balance between fruit richness and mineral restraint that defines quality Burgundian Pinot Noir.
 
 Color intensity varies by vintage and producer style, generally displaying medium-deep ruby coloration in youth, evolving toward garnet and brick tones with extended aging. The wines maintain color stability well due to the favorable acidity levels and phenolic balance achieved through careful viticulture.
 

@@ -56,7 +56,7 @@ Harvest timing in Champ Chevrey typically occurs during the second or third week
 
 Wines from Champ Chevrey exhibit a distinctive character that perfectly captures Savigny-les-Beaune's unique position within the Côte de Beaune hierarchy. The limestone-dominated terroir produces Pinot Noir of exceptional elegance and mineral precision, combining the accessibility and charm typical of Côte de Beaune wines with a structural backbone and aging potential that rivals more famous appellations.
 
-The aromatic profile typically opens with bright red fruit characteristics, particularly cherry, raspberry, and wild strawberry, complemented by distinctive floral notes of violet and rose petal. As the wine develops, secondary aromatics emerge including subtle spice elements—white pepper, cinnamon, and clove—along with mineral undertones that reflect the limestone bedrock. Earthy components including forest floor, dried herbs, and occasionally truffle notes appear with bottle age, creating remarkable complexity and depth.
+The aromatic profile typically opens with bright red fruit characteristics, particularly cherry, raspberry, and wild strawberry, complemented by distinctive floral notes of violet and rose petal. As the wine develops, secondary aromatics emerge including subtle spice elements (white pepper, cinnamon, and clove) along with mineral undertones that reflect the limestone bedrock. Earthy components including forest floor, dried herbs, and occasionally truffle notes appear with bottle age, creating remarkable complexity and depth.
 
 On the palate, Champ Chevrey demonstrates exceptional balance between fruit concentration and structural elements. The attack typically shows fresh red fruit flavors supported by vibrant acidity that provides both energy and aging potential. Mid-palate development reveals the wine's true character, with concentrated fruit flavors expanding to show depth and complexity while maintaining the elegant restraint that defines quality Burgundy.
 
@@ -78,7 +78,7 @@ The relationship with Les Marconnets, located on similar limestone-rich soils, p
 
 Compared to the southern sector Premier Crus like Les Serpentières and Les Rouvrettes, Champ Chevrey produces wines of notably different character. The northern location creates cooler growing conditions that promote acidity retention and elegant fruit expression, while the southern sites tend toward riper, more immediately appealing fruit character with softer structure.
 
-Within the broader Côte de Beaune context, Champ Chevrey shares certain characteristics with Premier Crus from Beaune and Pommard, particularly in terms of structure and aging potential. However, the distinctive Savigny character—combining elegance with mineral precision—clearly distinguishes these wines from their neighbors, creating a unique style that represents exceptional value within the Burgundy hierarchy.
+Within the broader Côte de Beaune context, Champ Chevrey shares certain characteristics with Premier Crus from Beaune and Pommard, particularly in terms of structure and aging potential. However, the distinctive Savigny character (combining elegance with mineral precision) clearly distinguishes these wines from their neighbors, creating a unique style that represents exceptional value within the Burgundy hierarchy.
 
 ## Notable Producers
 

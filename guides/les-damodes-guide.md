@@ -6,7 +6,7 @@ Les Damodes stands as one of Nuits-Saint-Georges' most distinctive Premier Cru v
 
 The vineyard's location places it within the geological sweet spot of the Côte de Nuits, where the interplay of Jurassic limestone substrates and Quaternary slope deposits creates the complex soil profiles that define great Burgundian terroir. Les Damodes sits at a strategic elevation that captures optimal sun exposure while maintaining the cool-climate conditions essential for elegant Pinot Noir expression. Its position within the broader Nuits-Saint-Georges appellation connects it to a winemaking tradition spanning over a millennium, while its specific terroir characteristics distinguish it as a unique expression within this diverse commune.
 
-The climat's boundaries are precisely delineated within the INAO classification system, ensuring that only wines produced from this specific parcel can bear the prestigious "Nuits-Saint-Georges Premier Cru Les Damodes" designation. This geographical specificity reflects the fundamental Burgundian principle of terroir—the belief that precise location, combined with traditional winemaking practices, creates wines of distinctive character that cannot be replicated elsewhere.
+The climat's boundaries are precisely delineated within the INAO classification system, ensuring that only wines produced from this specific parcel can bear the prestigious "Nuits-Saint-Georges Premier Cru Les Damodes" designation. This geographical specificity reflects the fundamental Burgundian principle of terroir: the belief that precise location, combined with traditional winemaking practices, creates wines of distinctive character that cannot be replicated elsewhere.
 
 ## Size
 
@@ -16,7 +16,7 @@ The hectarage of Les Damodes is divided among several proprietors, following the
 
 ## Terroir & Geology
 
-The geological foundation of Les Damodes reflects the complex sedimentary history of the Côte d'Or, built upon layers of Middle Jurassic limestone dating to the Bathonian and Bajocian periods. The bedrock consists primarily of hard limestone rich in fossilized marine organisms, providing excellent drainage while maintaining sufficient water retention for vine health during dry periods. Above this limestone foundation, a layer of marl—a mixture of limestone and clay—creates the immediate rooting zone that influences vine nutrition and water uptake.
+The geological foundation of Les Damodes reflects the complex sedimentary history of the Côte d'Or, built upon layers of Middle Jurassic limestone dating to the Bathonian and Bajocian periods. The bedrock consists primarily of hard limestone rich in fossilized marine organisms, providing excellent drainage while maintaining sufficient water retention for vine health during dry periods. Above this limestone foundation, a layer of marl (a mixture of limestone and clay) creates the immediate rooting zone that influences vine nutrition and water uptake.
 
 The soil profile typically features 30-60 centimeters of topsoil characterized by a brown limestone-clay mixture with significant stone content. This rocky composition ensures rapid drainage while the clay component provides essential water and nutrient retention. The high percentage of limestone fragments throughout the soil profile contributes to the mineral expression characteristic of Les Damodes wines, while the clay content varies across different sections of the vineyard, creating subtle variations in vine vigor and fruit character.
 

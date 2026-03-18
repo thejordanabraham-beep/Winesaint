@@ -4,7 +4,7 @@
 
 Aux Vignerondes stands as one of Nuits-Saint-Georges' most distinctive Premier Cru vineyards, occupying a privileged position within the southern sector of this renowned Côte de Nuits commune. Located on the hillside above the village center, this climat represents the careful delineation of terroir that has made Burgundy the world's most precise viticultural region.
 
-The vineyard sits strategically positioned between other notable Premier Crus, forming part of the continuous band of classified vineyard land that defines Nuits-Saint-Georges' reputation for producing structured, age-worthy Pinot Noir. Within the broader context of the Côte de Nuits, Aux Vignerondes occupies the middle ground both geographically and stylistically—south of the ethereal elegance found in Gevrey-Chambertin and Chambolle-Musigny, yet north of the more muscular expressions typical of the Côte de Beaune.
+The vineyard sits strategically positioned between other notable Premier Crus, forming part of the continuous band of classified vineyard land that defines Nuits-Saint-Georges' reputation for producing structured, age-worthy Pinot Noir. Within the broader context of the Côte de Nuits, Aux Vignerondes occupies the middle ground both geographically and stylistically, south of the ethereal elegance found in Gevrey-Chambertin and Chambolle-Musigny, yet north of the more muscular expressions typical of the Côte de Beaune.
 
 The climat's position within the Nuits-Saint-Georges appellation places it firmly in the southern section of the commune, where the geological formations begin their transition toward the characteristics found further south in Premeaux-Prissey. This positioning creates a unique terroir profile that captures elements of both the classic Nuits-Saint-Georges character and hints of the more structured wines found in the southern reaches of the appellation.
 
@@ -22,7 +22,7 @@ The soil profile demonstrates remarkable complexity, with the upper layers consi
 
 The slope characteristics of Aux Vignerondes contribute significantly to its terroir expression. The vineyard faces predominantly east-southeast, capturing optimal morning sun exposure while avoiding excessive afternoon heat. The gradient averages 8-12% slope, sufficient to ensure natural drainage while remaining gentle enough to prevent excessive erosion. This orientation and slope combination creates ideal conditions for gradual grape ripening and the development of complex flavor compounds.
 
-Elevation ranges from approximately 250-280 meters above sea level, positioning the vineyard in the optimal altitude band for Burgundian viticulture. This elevation provides protection from frost while ensuring adequate temperature variation between day and night—a crucial factor in maintaining acidity and developing aromatic complexity in Pinot Noir.
+Elevation ranges from approximately 250-280 meters above sea level, positioning the vineyard in the optimal altitude band for Burgundian viticulture. This elevation provides protection from frost while ensuring adequate temperature variation between day and night: a crucial factor in maintaining acidity and developing aromatic complexity in Pinot Noir.
 
 The underlying geological formation belongs to the Comblanchien limestone series, known for producing wines with excellent mineral expression and aging potential. This bedrock imparts a distinctive chalky minerality that becomes more pronounced as wines age, contributing to the long-term development potential that characterizes Premier Cru Burgundies.
 
@@ -50,7 +50,7 @@ Site-specific challenges include the management of clay content during wet years
 
 ## Wine Character & Style
 
-Wines from Aux Vignerondes exhibit a distinctive character that bridges the gap between power and elegance, showcasing the complexity that defines Premier Cru Nuits-Saint-Georges. The aromatic profile typically opens with red fruit expressions—cherry, raspberry, and strawberry—underpinned by subtle earth tones and mineral notes that reflect the limestone terroir.
+Wines from Aux Vignerondes exhibit a distinctive character that bridges the gap between power and elegance, showcasing the complexity that defines Premier Cru Nuits-Saint-Georges. The aromatic profile typically opens with red fruit expressions (cherry, raspberry, and strawberry) underpinned by subtle earth tones and mineral notes that reflect the limestone terroir.
 
 As the wines develop, secondary aromas emerge, including forest floor, dried herbs, and gentle spice notes reminiscent of cinnamon and clove. The limestone influence becomes more apparent with age, contributing a chalky minerality that adds complexity and length to the finish. These aromatic developments typically become noticeable after 5-7 years of bottle aging and continue evolving for decades in well-made examples.
 
@@ -92,7 +92,7 @@ The stylistic variations among producers reflect different philosophical approac
 
 The historical record of Aux Vignerondes traces back to medieval monastic viticulture, when religious communities first identified the site's potential for producing superior wines. Documentary evidence from the 14th century references vineyard parcels in this location, though the precise climat boundaries evolved over subsequent centuries as understanding of terroir differences increased.
 
-The name "Vignerondes" itself reflects the historical association with vignerons—the skilled vineyard workers who developed the techniques necessary to maximize this terroir's potential. This nomenclature indicates the site's long-standing reputation for requiring careful cultivation to achieve optimal results, distinguishing it from easier sites that could produce acceptable wines with less attention to detail.
+The name "Vignerondes" itself reflects the historical association with vignerons: the skilled vineyard workers who developed the techniques necessary to maximize this terroir's potential. This nomenclature indicates the site's long-standing reputation for requiring careful cultivation to achieve optimal results, distinguishing it from easier sites that could produce acceptable wines with less attention to detail.
 
 Classification as Premier Cru occurred during the official appellation establishment in 1936, when the Institut National des Appellations d'Origine formally recognized the site's distinctive qualities. The classification process involved extensive tasting comparisons and terroir analysis, confirming that wines from Aux Vignerondes consistently demonstrated the complexity and aging potential required for Premier Cru status.
 

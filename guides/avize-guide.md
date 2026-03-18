@@ -6,19 +6,19 @@ This is not merely a marketing distinction. The terroir differences between thes
 
 ## The Terroir Paradox
 
-The common narrative positions Avize as uniformly chalky. This is wrong—or rather, incomplete.
+The common narrative positions Avize as uniformly chalky. This is wrong, or rather, incomplete.
 
 Avize's 280 hectares of grand cru vineyards actually display significant geological variation within the village boundaries. While the village sits squarely on the Campanian chalk that defines the Côte des Blancs, the depth of topsoil and the proportion of clay varies dramatically from parcel to parcel. Some vineyards feature nearly pure chalk with minimal topsoil, producing wines of laser-like focus. Others contain substantial clay deposits that yield broader, more textured expressions.
 
-This variation isn't random. The upper slopes, particularly in lieux-dits like Les Robarts and La Voie d'Épernay, contain heavier clay soils that produce what Pascal Agrapart describes as "baritone" wines—broadly built Chardonnays with weight and richness. Move downslope to parcels like La Fosse, and the chalk dominates, sometimes sitting within centimeters of the surface. Here the wines turn soprano: high-pitched, mineral-driven, almost ascetic in their purity.
+This variation isn't random. The upper slopes, particularly in lieux-dits like Les Robarts and La Voie d'Épernay, contain heavier clay soils that produce what Pascal Agrapart describes as "baritone" wines, broadly built Chardonnays with weight and richness. Move downslope to parcels like La Fosse, and the chalk dominates, sometimes sitting within centimeters of the surface. Here the wines turn soprano: high-pitched, mineral-driven, almost ascetic in their purity.
 
-The elevation range matters too. Avize's vineyards span roughly 90 to 200 meters above sea level, with most premium parcels occupying the midslope positions between 120 and 180 meters. This positioning provides optimal drainage while maintaining access to moisture during dry periods—the "well-regulated, moderately sufficient water supply" that Dr. Gérard Seguin identified as crucial for quality viticulture.
+The elevation range matters too. Avize's vineyards span roughly 90 to 200 meters above sea level, with most premium parcels occupying the midslope positions between 120 and 180 meters. This positioning provides optimal drainage while maintaining access to moisture during dry periods: the "well-regulated, moderately sufficient water supply" that Dr. Gérard Seguin identified as crucial for quality viticulture.
 
 ## Key Lieux-Dits: A Geological Survey
 
 Understanding Avize requires understanding its specific parcels. The village contains numerous named lieux-dits, but several stand out for their distinct characteristics and the quality of wine they produce.
 
-**La Fosse** represents Avize at its most mineral. This parcel features exceptionally pure chalk with minimal topsoil coverage. Some sections contain vines planted in 1959 that Agrapart farms entirely by horse to preserve the soil structure. The resulting wines—like Agrapart's Vénus—show marked finesse and complexity, with a chalky signature that feels almost tactile on the palate.
+**La Fosse** represents Avize at its most mineral. This parcel features exceptionally pure chalk with minimal topsoil coverage. Some sections contain vines planted in 1959 that Agrapart farms entirely by horse to preserve the soil structure. The resulting wines (like Agrapart's Vénus) show marked finesse and complexity, with a chalky signature that feels almost tactile on the palate.
 
 **Chemin de Plivot and Chemin de Flavigny** occupy warmer positions with slightly more topsoil over the chalk bedrock. Vines here date from the 1950s and 1960s, and the combination of vine age and terroir produces wines that balance grand cru finesse with approachability. Larmandier-Bernier's Les Chemins d'Avize, sourced from these parcels, demonstrates this equilibrium: finer and more multifaceted than wines from neighboring Vertus, yet less austere than the purest Cramant expressions.
 
@@ -30,11 +30,11 @@ The practical implication? When tasting grower Champagnes from Avize, ask which 
 
 What unifies Avize despite its internal variation? Several consistent markers:
 
-**Mineral intensity**: Even the clay-influenced wines show pronounced chalky minerality. Tasters frequently describe graphite, wet stone, or crushed oyster shell. This isn't fanciful—the chalk's influence on must composition and fermentation is measurable, affecting pH, nutrient availability, and the development of specific aromatic compounds.
+**Mineral intensity**: Even the clay-influenced wines show pronounced chalky minerality. Tasters frequently describe graphite, wet stone, or crushed oyster shell. This isn't fanciful: the chalk's influence on must composition and fermentation is measurable, affecting pH, nutrient availability, and the development of specific aromatic compounds.
 
 **Structural finesse**: Avize Chardonnays typically show more elegance than power, with fine-grained textures rather than overt richness. The wines build vertically rather than horizontally on the palate.
 
-**Moderate ripeness**: The mesoclimate allows reliable ripening without excessive sugar accumulation. Harvest typically occurs in mid-September, with potential alcohol levels around 10-10.5% before chapitalization—ideal for maintaining freshness in Champagne production.
+**Moderate ripeness**: The mesoclimate allows reliable ripening without excessive sugar accumulation. Harvest typically occurs in mid-September, with potential alcohol levels around 10-10.5% before chapitalization, ideal for maintaining freshness in Champagne production.
 
 **Aging potential**: The combination of natural acidity (often 8-9 g/L total acidity) and mineral structure provides excellent aging capacity. Well-made Avize blanc de blancs can evolve for 20-30 years, developing honeyed complexity while retaining their mineral core.
 
@@ -42,13 +42,13 @@ What unifies Avize despite its internal variation? Several consistent markers:
 
 To understand Avize's position, consider its relationship to adjacent grands crus:
 
-**Avize vs. Cramant**: Cramant sits immediately south, at similar elevations but with slightly warmer mesoclimate exposure. Cramant wines typically show more immediate richness and power—think Puligny-Montrachet to Avize's Chassagne-Montrachet. Cramant's Butte de Saran, with its southeast exposure and deep chalk, produces some of the Côte des Blancs' most powerful Chardonnays. Avize offers more restraint and structural complexity.
+**Avize vs. Cramant**: Cramant sits immediately south, at similar elevations but with slightly warmer mesoclimate exposure. Cramant wines typically show more immediate richness and power, think Puligny-Montrachet to Avize's Chassagne-Montrachet. Cramant's Butte de Saran, with its southeast exposure and deep chalk, produces some of the Côte des Blancs' most powerful Chardonnays. Avize offers more restraint and structural complexity.
 
 **Avize vs. Le Mesnil-sur-Oger**: Le Mesnil sits at the southern end of the Côte des Blancs at higher elevations (up to 230 meters) with cooler temperatures and later ripening. Le Mesnil wines are famously austere in youth, requiring extended aging to become approachable. Avize is more immediately expressive, with better balance between minerality and fruit.
 
-**Avize vs. Oger**: Oger, positioned between Avize and Le Mesnil, produces wines of intermediate character—more generous than Le Mesnil, less structured than Avize. Oger's slightly warmer sites yield riper fruit flavors.
+**Avize vs. Oger**: Oger, positioned between Avize and Le Mesnil, produces wines of intermediate character, more generous than Le Mesnil, less structured than Avize. Oger's slightly warmer sites yield riper fruit flavors.
 
-**Avize vs. Vertus**: Vertus marks the southern terminus of the Côte des Blancs proper, with more varied geology including some premier cru parcels. The best Vertus sites approach grand cru quality but typically lack Avize's mineral intensity. Larmandier-Bernier's Terre de Vertus, from shallow-topsoil sites where chalk nears the surface, shows "racy, vivid, almost electric minerality"—but even this exceptional Vertus lacks the multifaceted complexity of their Avize bottling.
+**Avize vs. Vertus**: Vertus marks the southern terminus of the Côte des Blancs proper, with more varied geology including some premier cru parcels. The best Vertus sites approach grand cru quality but typically lack Avize's mineral intensity. Larmandier-Bernier's Terre de Vertus, from shallow-topsoil sites where chalk nears the surface, shows "racy, vivid, almost electric minerality", but even this exceptional Vertus lacks the multifaceted complexity of their Avize bottling.
 
 ## The Grower Revolution: Avize's Leading Estates
 
@@ -60,7 +60,7 @@ Pascal Agrapart farms 12 hectares across Avize, Cramant, Oger, and Oiry, but his
 
 His Avize-focused cuvées demonstrate the village's range. **L'Avizoise** (roughly €70-90) comes from clay-heavy upper slopes, showing breadth and texture. **Vénus** (€120-150) sources from the purest chalk sections of La Fosse, displaying crystalline precision. The **Millésime** bottlings (€80-100) blend parcels to show Avize's complete personality.
 
-Agrapart's wines require patience. They often show reductive notes in youth—struck match, flint—that blow off with air or age. Give them five years minimum; they reward with 20+.
+Agrapart's wines require patience. They often show reductive notes in youth (struck match, flint) that blow off with air or age. Give them five years minimum; they reward with 20+.
 
 ### Larmandier-Bernier
 
@@ -68,7 +68,7 @@ Pierre Larmandier farms 16 hectares biodynamically across Vertus, Avize, Cramant
 
 **Les Chemins d'Avize** (€90-110) represents his Avize expression: thrilling finesse combined with grand cru complexity, "less rich and more nakedly chalky" than his Cramant bottling but more refined than his Vertus. The wine sees partial oak fermentation and extended lees aging with no malolactic fermentation, preserving Avize's natural tension.
 
-Larmandier's biodynamic farming—including preparations, cover crops, and the elimination of synthetic treatments—aims to enhance the chalk's expression in the wine. Whether this works remains debatable, but his wines undeniably show exceptional clarity and site-specificity.
+Larmandier's biodynamic farming (including preparations, cover crops, and the elimination of synthetic treatments) aims to enhance the chalk's expression in the wine. Whether this works remains debatable, but his wines undeniably show exceptional clarity and site-specificity.
 
 ### Other Notable Producers
 
@@ -94,11 +94,11 @@ Avize's growers share certain practices while maintaining individual philosophie
 
 The chalk's high pH (typically 7.5-8.5) and excellent drainage reduce disease pressure, making organic viticulture more feasible than in wetter, more acidic regions. However, the shallow topsoil and exposed chalk limit vigor naturally, requiring careful nutrient management.
 
-**Harvest Timing**: Picking decisions reflect philosophy. Conservative producers harvest at 9.5-10% potential alcohol, preserving maximum acidity. Others wait for 10.5-11%, accepting lower acidity for increased phenolic ripeness and texture. Climate change has shifted harvest dates earlier—from late September in the 1980s to mid-September currently—while increasing potential alcohol levels.
+**Harvest Timing**: Picking decisions reflect philosophy. Conservative producers harvest at 9.5-10% potential alcohol, preserving maximum acidity. Others wait for 10.5-11%, accepting lower acidity for increased phenolic ripeness and texture. Climate change has shifted harvest dates earlier (from late September in the 1980s to mid-September currently) while increasing potential alcohol levels.
 
 **Fermentation**: Practices vary widely. Traditionalists use neutral oak foudres or barrels, believing wood integration enhances texture without adding flavor. Modernists prefer stainless steel to preserve fruit purity. Some, like Selosse, use new or lightly-used barriques, courting oxidation and oak influence.
 
-Malolactic fermentation is debated. Blocking malo preserves acidity and tension—crucial for Avize's style. Allowing malo softens the wines, making them more immediately approachable. Most growers block malo in their top cuvées, allow it in entry-level wines.
+Malolactic fermentation is debated. Blocking malo preserves acidity and tension, crucial for Avize's style. Allowing malo softens the wines, making them more immediately approachable. Most growers block malo in their top cuvées, allow it in entry-level wines.
 
 **Lees Aging**: Extended lees contact is universal for quality production. Minimum aging for vintage Champagne is three years; Avize growers typically age five to eight years before disgorgement. The lees autolysis contributes texture, complexity, and reductive protection, allowing the wines to develop without oxidation.
 
@@ -112,9 +112,9 @@ Avize's mesoclimate provides relative consistency, but vintage variation remains
 
 **Cool Vintages** (2008, 2012, 2014): Higher acidity, tighter structure, pronounced minerality. These require extended aging but reward patience with exceptional complexity. Avize shines in cool years, maintaining ripeness while maximizing tension.
 
-**Balanced Vintages** (2002, 2008, 2013, 2019): Moderate ripeness with good acidity. These represent Avize's ideal expression—structured yet generous, mineral yet fruited. They age predictably over 20-30 years.
+**Balanced Vintages** (2002, 2008, 2013, 2019): Moderate ripeness with good acidity. These represent Avize's ideal expression, structured yet generous, mineral yet fruited. They age predictably over 20-30 years.
 
-**Aging Evolution**: Young Avize blanc de blancs (0-5 years) shows citrus, white flowers, and pronounced minerality. Mid-age (5-15 years) develops brioche, almond, and honeyed notes while retaining mineral core. Mature (15-30 years) wines show oxidative complexity—dried fruits, nuts, mushroom—balanced by persistent acidity.
+**Aging Evolution**: Young Avize blanc de blancs (0-5 years) shows citrus, white flowers, and pronounced minerality. Mid-age (5-15 years) develops brioche, almond, and honeyed notes while retaining mineral core. Mature (15-30 years) wines show oxidative complexity (dried fruits, nuts, mushroom) balanced by persistent acidity.
 
 The chalk's influence on aging is measurable. High pH must and wine resist oxidation better than low pH equivalents. The mineral content may also contribute antioxidant effects, though research remains preliminary.
 
@@ -169,17 +169,17 @@ Adaptation strategies include:
 - **Earlier harvest**: Picking at lower potential alcohol to preserve acidity
 - **Canopy management**: Increased shading protects grapes from sun exposure
 
-The chalk's natural advantages—high pH, excellent drainage, thermal regulation—position Avize well for adaptation. The village will likely maintain its quality level even as its specific characteristics evolve.
+The chalk's natural advantages (high pH, excellent drainage, thermal regulation) position Avize well for adaptation. The village will likely maintain its quality level even as its specific characteristics evolve.
 
 ## Conclusion: Why Avize Matters
 
 In an era of globalized wine, where Chardonnay from California to Australia pursues similar flavor profiles, Avize offers something irreplaceable: a specific expression of place, refined over centuries, that cannot be replicated elsewhere.
 
-The combination of Campanian chalk, moderate mesoclimate, and generations of accumulated knowledge produces wines of unique character. They balance intellectual interest with sensory pleasure—wines you can think about or simply enjoy.
+The combination of Campanian chalk, moderate mesoclimate, and generations of accumulated knowledge produces wines of unique character. They balance intellectual interest with sensory pleasure, wines you can think about or simply enjoy.
 
 For the serious Champagne drinker, understanding Avize is essential. It represents the Côte des Blancs at its most complete: structured enough for aging, accessible enough for immediate pleasure, mineral enough to satisfy purists, generous enough to pair with food.
 
-Start with an entry-level bottling from Franck Bonville or De Sousa. Once the style clicks, explore single-parcel expressions from Agrapart or Larmandier-Bernier. The investment—both financial and temporal—rewards.
+Start with an entry-level bottling from Franck Bonville or De Sousa. Once the style clicks, explore single-parcel expressions from Agrapart or Larmandier-Bernier. The investment (both financial and temporal) rewards.
 
 This is Champagne at its most transparent, its most terroir-driven, its most profound. This is Avize.
 

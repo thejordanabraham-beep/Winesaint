@@ -1,6 +1,6 @@
 # Herrschaftsberg: Württemberg's Hidden Contender
 
-The Herrschaftsberg vineyard sits in Württemberg, a region that most wine professionals overlook—and that's a mistake. While Germany's wine conversation orbits around the Rheingau, Mosel, and Pfalz, Württemberg quietly produces more red wine than any other German region. The Herrschaftsberg represents a microcosm of what makes this area compelling: a convergence of continental climate, Keuper geology, and a winemaking culture that prioritizes local consumption over international acclaim.
+The Herrschaftsberg vineyard sits in Württemberg, a region that most wine professionals overlook, and that's a mistake. While Germany's wine conversation orbits around the Rheingau, Mosel, and Pfalz, Württemberg quietly produces more red wine than any other German region. The Herrschaftsberg represents a microcosm of what makes this area compelling: a convergence of continental climate, Keuper geology, and a winemaking culture that prioritizes local consumption over international acclaim.
 
 This is not a vineyard for casual drinkers seeking easy answers. The wines demand attention and reward patience.
 
@@ -8,21 +8,21 @@ This is not a vineyard for casual drinkers seeking easy answers. The wines deman
 
 ### Location and Topography
 
-Herrschaftsberg occupies south-facing slopes in the Neckar River valley, the arterial waterway that defines Württemberg's viticultural landscape. The vineyard name translates roughly to "lordship mountain" or "estate hill," suggesting historical significance tied to noble land ownership—a common pattern in German viticulture where the best sites were claimed by aristocracy and church.
+Herrschaftsberg occupies south-facing slopes in the Neckar River valley, the arterial waterway that defines Württemberg's viticultural landscape. The vineyard name translates roughly to "lordship mountain" or "estate hill," suggesting historical significance tied to noble land ownership: a common pattern in German viticulture where the best sites were claimed by aristocracy and church.
 
 The Neckar valley creates a sheltered mesoclimate within Württemberg's broader continental framework. Elevations in the region typically range from 200 to 400 meters, with the steeper vineyard sites benefiting from enhanced drainage and sun exposure. South-facing aspects are critical here; Württemberg sits at roughly 49°N latitude, making solar radiation a limiting factor for ripening. Every degree of slope angle matters.
 
 ### Soil Composition and Geology
 
-The defining characteristic of Herrschaftsberg—and much of Württemberg—is Keuper geology. This Middle Triassic formation dates to approximately 235-200 million years ago, when the region experienced alternating marine and terrestrial depositional environments. The result is a complex layer cake of marlstone, claystone, sandstone, and gypsum beds.
+The defining characteristic of Herrschaftsberg (and much of Württemberg) is Keuper geology. This Middle Triassic formation dates to approximately 235-200 million years ago, when the region experienced alternating marine and terrestrial depositional environments. The result is a complex layer cake of marlstone, claystone, sandstone, and gypsum beds.
 
-Keuper soils differ fundamentally from the limestone-dominated terroirs of Burgundy or the slate of the Mosel. The marl component provides moderate water retention without the heavy clay character that would delay ripening. Sandstone layers improve drainage on steeper sections. Gypsum—calcium sulfate—appears in scattered deposits and contributes mineral sulfates that some producers believe enhance aromatic complexity, though this remains debated.
+Keuper soils differ fundamentally from the limestone-dominated terroirs of Burgundy or the slate of the Mosel. The marl component provides moderate water retention without the heavy clay character that would delay ripening. Sandstone layers improve drainage on steeper sections. Gypsum (calcium sulfate) appears in scattered deposits and contributes mineral sulfates that some producers believe enhance aromatic complexity, though this remains debated.
 
 The soil pH tends toward neutral to slightly alkaline (7.0-7.5), contrasting with the acidic slate soils of northern German regions. This affects vine nutrition and microbial activity in the root zone. Keuper's relatively high nutrient availability means vigorous growth requires careful canopy management to avoid shading and underripeness.
 
 ## Climate and Viticultural Challenges
 
-Württemberg experiences a continental climate with cold winters and warm summers, but the Neckar valley provides crucial moderation. Average growing season temperatures hover around 15-16°C—marginal for red varieties but workable with proper site selection and vineyard management.
+Württemberg experiences a continental climate with cold winters and warm summers, but the Neckar valley provides crucial moderation. Average growing season temperatures hover around 15-16°C, marginal for red varieties but workable with proper site selection and vineyard management.
 
 The region receives approximately 650-750mm of annual rainfall, concentrated in summer months. This creates disease pressure, particularly for Spätburgunder (Pinot Noir) and other thin-skinned varieties. Botrytis and peronospora (downy mildew) require vigilant canopy work and, increasingly, organic fungicide programs as conventional chemistry faces regulatory restriction.
 
@@ -38,7 +38,7 @@ Württemberg's varietal mix reflects its red wine focus: approximately 70% of pl
 
 **Spätburgunder (Pinot Noir)**: Increasingly planted as quality ambitions rise. Württemberg Spätburgunder tends toward fuller body and riper fruit profiles than Burgundian models, reflecting both climate and stylistic preference.
 
-**Riesling**: The white minority. Württemberg Riesling from Keuper soils shows different character than Mosel or Rheingau examples—less razor-edged acidity, more textural weight, earthy mineral notes rather than pure fruit and slate.
+**Riesling**: The white minority. Württemberg Riesling from Keuper soils shows different character than Mosel or Rheingau examples, less razor-edged acidity, more textural weight, earthy mineral notes rather than pure fruit and slate.
 
 On a site like Herrschaftsberg, plantings likely emphasize Lemberger and Spätburgunder, with possible Riesling on the highest, coolest sections where acidity retention is assured.
 
@@ -46,7 +46,7 @@ On a site like Herrschaftsberg, plantings likely emphasize Lemberger and Spätbu
 
 ### Red Wines: Lemberger Dominance
 
-Lemberger from Herrschaftsberg-quality sites produces wines of genuine complexity. Expect dark cherry and blackberry fruit with savory overlays: dried herbs, black pepper, tobacco leaf. The Keuper terroir contributes an earthy, mineral undertone—not the wet stone character of slate, but something more like dried clay and crushed rock.
+Lemberger from Herrschaftsberg-quality sites produces wines of genuine complexity. Expect dark cherry and blackberry fruit with savory overlays: dried herbs, black pepper, tobacco leaf. The Keuper terroir contributes an earthy, mineral undertone, not the wet stone character of slate, but something more like dried clay and crushed rock.
 
 Tannin structure is firm but not aggressive, with sufficient fruit density to balance. Acidity remains pronounced even in warm vintages, typically 6.5-7.5 g/L, providing aging potential of 8-12 years for top examples. The wines show best with 3-5 years of bottle age, when primary fruit integrates with developing tertiary complexity.
 
@@ -56,11 +56,11 @@ Alcohol levels have risen with climate change and ripeness-focused viticulture. 
 
 Württemberg Spätburgunder occupies an identity space between Burgundy and Baden. The wines lack the ethereal delicacy of Côte d'Or Pinot Noir but offer more structure and intensity than many international examples. From sites like Herrschaftsberg, expect medium to full body, ripe red fruit (cherry, raspberry, plum), integrated oak when used, and moderate tannins.
 
-The Keuper influence appears as a subtle earthiness—less mushroom and forest floor than Burgundy, more mineral and herb. Some producers pursue whole-cluster fermentation and minimal intervention to enhance complexity, though this remains less common than in Baden or international Pinot Noir regions.
+The Keuper influence appears as a subtle earthiness, less mushroom and forest floor than Burgundy, more mineral and herb. Some producers pursue whole-cluster fermentation and minimal intervention to enhance complexity, though this remains less common than in Baden or international Pinot Noir regions.
 
 ### Riesling: The Textured Alternative
 
-When planted on Herrschaftsberg-type sites, Riesling develops differently than in Germany's classic regions. The Keuper marl provides more nutrient availability and water retention than slate or limestone, resulting in wines with greater body and texture. Acidity, while still pronounced, sits at lower levels than Mosel Riesling—typically 7-8 g/L rather than 8-10 g/L.
+When planted on Herrschaftsberg-type sites, Riesling develops differently than in Germany's classic regions. The Keuper marl provides more nutrient availability and water retention than slate or limestone, resulting in wines with greater body and texture. Acidity, while still pronounced, sits at lower levels than Mosel Riesling, typically 7-8 g/L rather than 8-10 g/L.
 
 Flavor profiles emphasize stone fruit (peach, apricot) and citrus with earthy, mineral undertones. The wines lack the laser precision of Mosel but offer compensating richness and food compatibility. Most Württemberg Riesling is fermented dry (trocken), reflecting the regional and national shift toward drier styles since the late 1980s.
 
@@ -68,13 +68,13 @@ Flavor profiles emphasize stone fruit (peach, apricot) and citrus with earthy, m
 
 Württemberg's vineyard landscape is fragmented, with numerous small sites rather than vast contiguous slopes. Neighboring vineyards to Herrschaftsberg likely share similar Keuper geology but may differ in elevation, aspect, or specific soil composition.
 
-Sites with higher sandstone content produce lighter, more aromatic wines with less tannic structure—suitable for Trollinger and early-drinking styles. Those with deeper marl layers favor Lemberger and Spätburgunder, providing the water retention needed for phenolic ripeness without excessive alcohol.
+Sites with higher sandstone content produce lighter, more aromatic wines with less tannic structure, suitable for Trollinger and early-drinking styles. Those with deeper marl layers favor Lemberger and Spätburgunder, providing the water retention needed for phenolic ripeness without excessive alcohol.
 
 Compared to Baden's volcanic Kaiserstuhl or limestone-rich Tuniberg, Württemberg sites like Herrschaftsberg produce wines with less obvious mineral character but greater earthy complexity. The wines sit stylistically between Baden's power and Franken's austerity.
 
 ## Viticultural Practices and Quality Evolution
 
-Württemberg viticulture has undergone significant transformation since 2000. The region's cooperative dominance—approximately 80% of production flows through cooperative cellars—historically prioritized volume over quality. However, a new generation of estate producers has emerged, focusing on site-specific wines and lower yields.
+Württemberg viticulture has undergone significant transformation since 2000. The region's cooperative dominance (approximately 80% of production flows through cooperative cellars) historically prioritized volume over quality. However, a new generation of estate producers has emerged, focusing on site-specific wines and lower yields.
 
 Modern vineyard management emphasizes:
 

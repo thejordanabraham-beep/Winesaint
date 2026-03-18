@@ -6,7 +6,7 @@ Le Clos stands as one of Marsannay's most distinguished Premier Cru vineyards, o
 
 Positioned on the eastern-facing slopes of the Côte d'Or escarpment, Le Clos benefits from the ideal exposition that characterizes the finest vineyards of the Côte de Nuits. The vineyard sits approximately 250-280 meters above sea level, nestled between the village proper and the steeper slopes that rise toward the Montagne de la Côte. This strategic location places it within the optimal band of elevation where the marriage of drainage, sun exposure, and protection from harsh weather conditions creates exceptional terroir.
 
-The climat's location within Marsannay is particularly significant given the commune's unique position as the northern sentinel of the Côte de Nuits. Unlike its more famous neighbors to the south—Gevrey-Chambertin, Morey-Saint-Denis, and Chambolle-Musigny—Marsannay has long been considered a source of excellent value and emerging quality. Le Clos, however, has consistently demonstrated that the commune can produce wines of Premier Cru caliber, justifying its classification and establishing itself as a benchmark for Marsannay's potential.
+The climat's location within Marsannay is particularly significant given the commune's unique position as the northern sentinel of the Côte de Nuits. Unlike its more famous neighbors to the south. Gevrey-Chambertin, Morey-Saint-Denis, and Chambolle-Musigny. Marsannay has long been considered a source of excellent value and emerging quality. Le Clos, however, has consistently demonstrated that the commune can produce wines of Premier Cru caliber, justifying its classification and establishing itself as a benchmark for Marsannay's potential.
 
 ## Size
 

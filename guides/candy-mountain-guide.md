@@ -30,7 +30,7 @@ The arid climate offers significant advantages for viticulture, including minima
 
 ### Topography and Elevation
 
-The defining geographic feature of this AVA is, naturally, Candy Mountain itself—an anticlinal fold that rises dramatically from the surrounding plain. The southern-facing slopes that comprise the AVA receive optimal solar exposure, maximizing heat accumulation and creating one of the warmest mesoclimates in Washington wine country.
+The defining geographic feature of this AVA is, naturally, Candy Mountain itself: an anticlinal fold that rises dramatically from the surrounding plain. The southern-facing slopes that comprise the AVA receive optimal solar exposure, maximizing heat accumulation and creating one of the warmest mesoclimates in Washington wine country.
 
 The elevation range of 850-1,300 feet provides several viticultural advantages. Higher elevations receive increased air circulation, reducing frost risk during critical spring and fall periods. The slopes ensure excellent air drainage, with cold air settling into lower areas while vineyard sites remain several degrees warmer. Additionally, the gradient allows for site-specific matching of grape varieties to microclimates, with earlier-ripening varieties at higher, cooler sites and heat-loving varieties at lower, warmer positions.
 
@@ -63,7 +63,7 @@ The gravelly subsoils, composed primarily of basalt cobbles with some granite an
 
 ### Impact on Viticulture
 
-The well-drained, relatively infertile soils naturally limit vine vigor, producing small berries with high skin-to-juice ratios—ideal for concentrated, complex wines. The soil's heat retention properties extend the effective growing season, ensuring even late-ripening varieties achieve full maturity. The stress imposed by these conditions, when carefully managed through irrigation, produces wines with exceptional structure, depth, and aging potential.
+The well-drained, relatively infertile soils naturally limit vine vigor, producing small berries with high skin-to-juice ratios, ideal for concentrated, complex wines. The soil's heat retention properties extend the effective growing season, ensuring even late-ripening varieties achieve full maturity. The stress imposed by these conditions, when carefully managed through irrigation, produces wines with exceptional structure, depth, and aging potential.
 
 ## Viticulture
 
@@ -90,7 +90,7 @@ The growing season on Candy Mountain typically begins with budbreak in early to 
 
 Flowering occurs in late May to early June, with the warm, dry conditions ensuring excellent fruit set. Véraison (color change) typically begins in early to mid-August, with harvest commencing in late September for earlier varieties and extending through late October or even early November for Cabernet Sauvignon from cooler sites.
 
-The accumulation of Growing Degree Days (GDD) typically reaches 3,000-3,400 (Fahrenheit, base 50°F) by season's end, placing the region firmly in Region III on the Winkler Index—comparable to Napa Valley's warmer sites. This heat accumulation ensures even traditionally late-ripening varieties achieve full phenolic maturity.
+The accumulation of Growing Degree Days (GDD) typically reaches 3,000-3,400 (Fahrenheit, base 50°F) by season's end, placing the region firmly in Region III on the Winkler Index, comparable to Napa Valley's warmer sites. This heat accumulation ensures even traditionally late-ripening varieties achieve full phenolic maturity.
 
 ### Viticultural Advantages and Challenges
 
@@ -116,7 +116,7 @@ The accumulation of Growing Degree Days (GDD) typically reaches 3,000-3,400 (Fah
 
 Candy Mountain AVA has rapidly established a reputation for producing powerful, structured red wines with distinctive character that sets them apart from other Columbia Valley sub-appellations.
 
-**Cabernet Sauvignon** from Candy Mountain displays remarkable density and concentration, with flavor profiles emphasizing dark fruits (blackberry, black currant, black cherry), graphite minerality, espresso, dark chocolate, and subtle herbal notes. The wines show exceptional tannic structure—firm but refined—with the intensity to support extended aging. Compared to Red Mountain Cabernet (located across the valley), Candy Mountain expressions tend toward slightly more power and ripeness while maintaining impressive balance.
+**Cabernet Sauvignon** from Candy Mountain displays remarkable density and concentration, with flavor profiles emphasizing dark fruits (blackberry, black currant, black cherry), graphite minerality, espresso, dark chocolate, and subtle herbal notes. The wines show exceptional tannic structure (firm but refined) with the intensity to support extended aging. Compared to Red Mountain Cabernet (located across the valley), Candy Mountain expressions tend toward slightly more power and ripeness while maintaining impressive balance.
 
 **Syrah** achieves a compelling middle ground between Northern Rhône elegance and New World intensity. Expect blackberry, grilled meat, black olive, cracked black pepper, and violet aromatics, with full body and assertive but polished tannins. The warm climate produces ripe, glycerin-rich textures while elevation preserves essential freshness.
 
@@ -184,8 +184,8 @@ The future appears exceptionally bright for Candy Mountain AVA. As young vineyar
 
 Climate projections suggesting warmer conditions may benefit the region by extending the growing season and ensuring consistent ripeness, though water availability will require careful management. The proven track record of producing world-class wines positions Candy Mountain to command premium prices and critical acclaim.
 
-As Washington State wine continues gaining international recognition, Candy Mountain stands poised to become synonymous with the state's finest red wines—a true premier cru district within the Columbia Valley's grand cru landscape. For collectors, enthusiasts, and investors, wines from this young but proven AVA represent an opportunity to experience Washington wine at its most compelling, with decades of evolution ahead.
+As Washington State wine continues gaining international recognition, Candy Mountain stands poised to become synonymous with the state's finest red wines: a true premier cru district within the Columbia Valley's grand cru landscape. For collectors, enthusiasts, and investors, wines from this young but proven AVA represent an opportunity to experience Washington wine at its most compelling, with decades of evolution ahead.
 
 ---
 
-*The Candy Mountain AVA exemplifies the ongoing discovery and refinement of Washington State's wine industry—a region where geological history, mesoclimate, and human expertise converge to create wines of distinctive character and exceptional quality. As this young appellation matures, it promises to write an important chapter in American wine's evolving story.*
+*The Candy Mountain AVA exemplifies the ongoing discovery and refinement of Washington State's wine industry: a region where geological history, mesoclimate, and human expertise converge to create wines of distinctive character and exceptional quality. As this young appellation matures, it promises to write an important chapter in American wine's evolving story.*

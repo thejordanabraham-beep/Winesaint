@@ -66,7 +66,7 @@ Harvest timing in Les Talmettes typically falls in mid to late September, depend
 
 Wines from Les Talmettes exhibit a distinctive style that reflects both the specific terroir characteristics and the broader Savigny-lès-Beaune appellation identity. These Premier Cru expressions typically demonstrate greater depth, complexity, and aging potential compared to village-level wines from the commune.
 
-The aromatic profile of Les Talmettes wines shows remarkable complexity, typically opening with red fruit characteristics—cherry, raspberry, and red currant—often accompanied by subtle floral notes of violet and rose. As the wines develop, secondary aromatics emerge, including earth tones, forest floor, and mineral notes that reflect the limestone-rich terroir.
+The aromatic profile of Les Talmettes wines shows remarkable complexity, typically opening with red fruit characteristics (cherry, raspberry, and red currant) often accompanied by subtle floral notes of violet and rose. As the wines develop, secondary aromatics emerge, including earth tones, forest floor, and mineral notes that reflect the limestone-rich terroir.
 
 Structural characteristics demonstrate the classic balance sought in great Burgundy. The limestone-derived minerality provides a backbone that supports fruit expression while contributing to the wine's aging potential. Tannin structure tends toward elegance rather than power, with fine-grained tannins that integrate well with the fruit components.
 

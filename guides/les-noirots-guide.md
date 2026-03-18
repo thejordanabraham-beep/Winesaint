@@ -6,13 +6,13 @@ Les Noirots stands as one of Chambolle-Musigny's most respected Premier Cru vine
 
 The vineyard's positioning within Chambolle-Musigny places it in an area renowned for producing some of Burgundy's most elegant and refined Pinot Noir expressions. Les Noirots borders several other Premier Cru vineyards, creating a mosaic of exceptional terroirs that have been recognized for their individual characteristics for centuries. The climat extends across the mid-slope section of the Côte de Nuits escarpment, benefiting from the ideal exposure and elevation that has made this region synonymous with world-class winemaking.
 
-Within the broader context of the Côte de Nuits, Les Noirots represents the archetypal Chambolle-Musigny style—wines of exceptional finesse, aromatic complexity, and structural elegance that distinguish them from the more powerful expressions found in neighboring communes like Gevrey-Chambertin or Morey-Saint-Denis.
+Within the broader context of the Côte de Nuits, Les Noirots represents the archetypal Chambolle-Musigny style, wines of exceptional finesse, aromatic complexity, and structural elegance that distinguish them from the more powerful expressions found in neighboring communes like Gevrey-Chambertin or Morey-Saint-Denis.
 
 ## Size
 
 Les Noirots encompasses approximately 2.85 hectares (7.04 acres), making it a moderately-sized Premier Cru within the Chambolle-Musigny appellation. This relatively intimate scale is characteristic of Burgundy's fragmented vineyard structure, where centuries of inheritance laws and historical divisions have created numerous small, precisely defined parcels.
 
-The compact size of Les Noirots contributes to its homogeneous terroir characteristics while allowing for intimate vineyard management practices. The limited production from this climat—typically yielding between 700 and 900 cases annually across all producers—ensures that bottles from Les Noirots remain relatively rare in the global marketplace, adding to their desirability among Burgundy collectors and enthusiasts.
+The compact size of Les Noirots contributes to its homogeneous terroir characteristics while allowing for intimate vineyard management practices. The limited production from this climat (typically yielding between 700 and 900 cases annually across all producers) ensures that bottles from Les Noirots remain relatively rare in the global marketplace, adding to their desirability among Burgundy collectors and enthusiasts.
 
 ## Terroir & Geology
 

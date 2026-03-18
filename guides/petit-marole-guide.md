@@ -4,7 +4,7 @@
 
 Petit Marole stands as one of Givry's most distinguished Premier Cru vineyards, representing the refined expression of the Côte Chalonnaise's winemaking prowess. Located within the commune of Givry in Burgundy's Côte Chalonnaise sub-region, this climat occupies a privileged position that has been recognized for centuries as producing wines of exceptional quality and distinctive character.
 
-The vineyard is strategically positioned on the hillsides surrounding the village of Givry, approximately 20 kilometers north of Chalon-sur-Saône and roughly 15 kilometers south of the famous Côte de Beaune. This placement within the Côte Chalonnaise—Burgundy's often-overlooked southern extension—allows Petit Marole to benefit from both the regional terroir characteristics and the specific microclimate conditions that define this transitional zone between the prestigious Côte d'Or and the more expansive Mâconnais.
+The vineyard is strategically positioned on the hillsides surrounding the village of Givry, approximately 20 kilometers north of Chalon-sur-Saône and roughly 15 kilometers south of the famous Côte de Beaune. This placement within the Côte Chalonnaise (Burgundy's often-overlooked southern extension) allows Petit Marole to benefit from both the regional terroir characteristics and the specific microclimate conditions that define this transitional zone between the prestigious Côte d'Or and the more expansive Mâconnais.
 
 The climat's location within Givry's Premier Cru hierarchy places it among the commune's most respected vineyard sites, sharing company with other notable Premier Crus such as Clos Salomon, En Choué, and La Grande Berge. The vineyard's positioning reflects the careful site selection that has characterized Burgundian viticulture for over a millennium, with monks and subsequent generations of vignerons identifying and cultivating the most favorable expositions and soil compositions.
 
@@ -12,7 +12,7 @@ Givry itself represents one of the four principal appellations of the Côte Chal
 
 ## Size
 
-The Petit Marole Premier Cru encompasses approximately 4.2 hectares (10.4 acres) of vineyard land, making it a moderately sized climat within Givry's Premier Cru portfolio. This scale represents the typical dimensions of many Burgundian Premier Cru sites—substantial enough to support multiple producers while remaining sufficiently compact to maintain terroir uniformity and quality consistency.
+The Petit Marole Premier Cru encompasses approximately 4.2 hectares (10.4 acres) of vineyard land, making it a moderately sized climat within Givry's Premier Cru portfolio. This scale represents the typical dimensions of many Burgundian Premier Cru sites, substantial enough to support multiple producers while remaining sufficiently compact to maintain terroir uniformity and quality consistency.
 
 The vineyard's parcellation follows traditional Burgundian patterns, with multiple proprietors holding various plots within the climat boundaries. This division reflects centuries of inheritance practices and land transactions that have shaped Burgundy's complex ownership structure. The fragmented ownership pattern, while challenging from a marketing perspective, contributes to the diversity of winemaking approaches and stylistic interpretations that characterize the climat's wines.
 

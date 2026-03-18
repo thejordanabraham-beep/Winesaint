@@ -1,6 +1,6 @@
 # Hilltops: Australia's High-Altitude Elegance
 
-Hilltops sits at a crossroads of Australian wine identity. This is not a region that shouts for attention with blockbuster fruit or international celebrity. Instead, it whispers sophistication through elevation, through diurnal range, through wines that balance ripeness with restraint—a combination increasingly rare on the Australian continent as temperatures climb.
+Hilltops sits at a crossroads of Australian wine identity. This is not a region that shouts for attention with blockbuster fruit or international celebrity. Instead, it whispers sophistication through elevation, through diurnal range, through wines that balance ripeness with restraint: a combination increasingly rare on the Australian continent as temperatures climb.
 
 Located in the Southern Tablelands of New South Wales, approximately 370 kilometers southwest of Sydney, Hilltops occupies terrain between 400 and 680 meters above sea level. This altitude matters profoundly. While much of inland Australia bakes under relentless heat, Hilltops enjoys a temperate continental climate that produces wines with genuine finesse, particularly from Shiraz and the region's unexpected champion, Cabernet Sauvignon.
 
@@ -14,11 +14,11 @@ The geological story of Hilltops unfolds across two dominant parent materials: s
 
 The base geology consists primarily of Ordovician and Silurian sedimentary sequences laid down between 485 and 420 million years ago. During this period, the region lay beneath a shallow sea, accumulating layers of marine sediments that would eventually become shale, mudstone, and sandstone. These sedimentary rocks weather into clay-rich soils with varying proportions of sand and silt depending on the original parent material.
 
-The shales, particularly prevalent in the northern portions of the region around Young, break down into heavy clay soils with good water-holding capacity but requiring careful management to avoid compaction and poor drainage. These soils are argillaceous—meaning clay-dominant—with pH levels typically ranging from 5.5 to 6.5, moderately acidic compared to the limestone-rich soils of regions like Chablis or Champagne.
+The shales, particularly prevalent in the northern portions of the region around Young, break down into heavy clay soils with good water-holding capacity but requiring careful management to avoid compaction and poor drainage. These soils are argillaceous (meaning clay-dominant) with pH levels typically ranging from 5.5 to 6.5, moderately acidic compared to the limestone-rich soils of regions like Chablis or Champagne.
 
 ### Volcanic Contributions
 
-More interesting from a viticultural perspective are the basalt-derived soils scattered throughout Hilltops. These volcanic intrusions occurred during the Tertiary period, roughly 40 to 60 million years ago, when volcanic activity was widespread across eastern Australia. The basalt weathers into red-brown loamy soils rich in iron oxides—hence the characteristic red earth visible in many vineyards.
+More interesting from a viticultural perspective are the basalt-derived soils scattered throughout Hilltops. These volcanic intrusions occurred during the Tertiary period, roughly 40 to 60 million years ago, when volcanic activity was widespread across eastern Australia. The basalt weathers into red-brown loamy soils rich in iron oxides, hence the characteristic red earth visible in many vineyards.
 
 These volcanic soils offer several viticultural advantages. First, they provide excellent drainage while maintaining adequate moisture retention through their clay component. Second, they are naturally fertile but not excessively so, encouraging moderate vine vigor. Third, the iron content may contribute to the distinctive mineral character found in Hilltops reds, though this connection remains more observational than scientifically proven.
 
@@ -28,11 +28,11 @@ The basalt soils are not uniformly distributed. They appear as scattered patches
 
 Soil depth varies considerably across Hilltops, from shallow profiles of 30-40 centimeters over bedrock on hilltops and upper slopes, to deeper accumulations exceeding one meter in valley positions. The shallow soils naturally restrict yields and encourage deeper rooting where cracks and fissures in the underlying rock permit penetration.
 
-Drainage is generally good to excellent on slopes and ridgetops, adequate to poor in valley floors where clay accumulation can create waterlogging issues in wet years. The region's undulating topography—a result of millions of years of erosion carving into the ancient seabed—provides ample opportunity to select well-drained sites.
+Drainage is generally good to excellent on slopes and ridgetops, adequate to poor in valley floors where clay accumulation can create waterlogging issues in wet years. The region's undulating topography (a result of millions of years of erosion carving into the ancient seabed) provides ample opportunity to select well-drained sites.
 
 ### Comparative Context
 
-Unlike the terra rossa over limestone found in Coonawarra, or the ancient weathered granites of the Barossa, Hilltops presents a more complex geological picture. The combination of sedimentary and volcanic parent materials resembles certain areas of Oregon's Willamette Valley, though the Australian site is significantly older geologically. The clay-rich sedimentary soils share characteristics with the Kimmeridgian marl of Chablis—both marine in origin, both clay-dominant—but Hilltops lacks the distinctive fossil content and limestone component that defines Chablis terroir.
+Unlike the terra rossa over limestone found in Coonawarra, or the ancient weathered granites of the Barossa, Hilltops presents a more complex geological picture. The combination of sedimentary and volcanic parent materials resembles certain areas of Oregon's Willamette Valley, though the Australian site is significantly older geologically. The clay-rich sedimentary soils share characteristics with the Kimmeridgian marl of Chablis (both marine in origin, both clay-dominant) but Hilltops lacks the distinctive fossil content and limestone component that defines Chablis terroir.
 
 ## CLIMATE: The Altitude Advantage
 
@@ -42,19 +42,19 @@ Hilltops enjoys a temperate continental climate that stands in marked contrast t
 
 The region records an average growing season temperature (April to October in the Southern Hemisphere) of approximately 17.5°C, placing it firmly in the "moderate" category using standard viticultural classifications. This is significantly cooler than the Barossa Valley (19-20°C) or McLaren Vale (19.5°C), and comparable to Margaret River or the Yarra Valley.
 
-Growing degree days typically range from 1,400 to 1,600 (Celsius scale), depending on specific site elevation and exposure. This accumulation allows full phenolic ripeness for varieties like Shiraz and Cabernet Sauvignon while maintaining natural acidity—a balance increasingly difficult to achieve in warming climates.
+Growing degree days typically range from 1,400 to 1,600 (Celsius scale), depending on specific site elevation and exposure. This accumulation allows full phenolic ripeness for varieties like Shiraz and Cabernet Sauvignon while maintaining natural acidity: a balance increasingly difficult to achieve in warming climates.
 
 Diurnal temperature variation is pronounced, particularly during the ripening period from February through April. Daytime maxima regularly reach 28-32°C, while nighttime temperatures drop to 10-14°C. These swings of 15-20°C preserve aromatic compounds and fix color in red varieties while slowing the loss of malic acid that can leave wines flabby in warmer regions.
 
 ### Frost Risk
 
-Spring frost presents a genuine hazard in Hilltops. The frost-free period typically extends from late October to early April, a window of approximately 165-175 days. Late spring frosts—occurring in October or early November after budburst—can devastate young shoots, reducing yields significantly or eliminating crops entirely in severe years.
+Spring frost presents a genuine hazard in Hilltops. The frost-free period typically extends from late October to early April, a window of approximately 165-175 days. Late spring frosts (occurring in October or early November after budburst) can devastate young shoots, reducing yields significantly or eliminating crops entirely in severe years.
 
 Cold air drainage becomes critical in site selection. Valley floors and low-lying areas act as frost pockets where cold air accumulates on still nights. Vineyard sites on mid-slopes benefit from air movement that prevents frost formation, while hilltop sites, though exposed to wind, generally stay above the frost layer.
 
 ### Rainfall and Water Availability
 
-Annual rainfall averages 620-650 millimeters across most of the region, with considerable year-to-year variation. This places Hilltops in a transitional zone—neither truly dry like the Riverland (200-250mm) nor reliably wet like Tasmania's Tamar Valley (750-900mm).
+Annual rainfall averages 620-650 millimeters across most of the region, with considerable year-to-year variation. This places Hilltops in a transitional zone, neither truly dry like the Riverland (200-250mm) nor reliably wet like Tasmania's Tamar Valley (750-900mm).
 
 The rainfall distribution follows a summer-dominant pattern typical of eastern Australia, with January and February often receiving substantial precipitation from thunderstorm activity. This summer rain, while beneficial for maintaining vine health, increases disease pressure, particularly for downy mildew and botrytis in susceptible varieties.
 
@@ -70,7 +70,7 @@ Like most Australian wine regions, Hilltops faces warming trends. Average temper
 
 However, Hilltops' elevation provides a buffer unavailable to lower-altitude regions. Where areas like the Barossa struggle to maintain acid levels and moderate alcohol, Hilltops still produces balanced wines in most vintages. The region may actually benefit from modest warming, achieving full ripeness more consistently while retaining the structural elements that define its style.
 
-The greater threat comes from increased rainfall variability—more frequent drought years interspersed with extreme rainfall events. This volatility complicates vineyard management and challenges the region's predominantly dry-grown viticultural approach.
+The greater threat comes from increased rainfall variability, more frequent drought years interspersed with extreme rainfall events. This volatility complicates vineyard management and challenges the region's predominantly dry-grown viticultural approach.
 
 ## GRAPES: Shiraz, Cabernet, and Supporting Cast
 
@@ -78,7 +78,7 @@ Hilltops has established its reputation on two red varieties: Shiraz and Caberne
 
 ### Shiraz: The Regional Signature
 
-Shiraz represents roughly 45% of Hilltops plantings and produces the region's most distinctive wines. These are not the opulent, high-alcohol Shiraz of the Barossa or McLaren Vale, nor the peppery, cool-climate expressions of Victoria's Macedon Ranges. Hilltops Shiraz occupies a middle ground—ripe but restrained, structured but approachable.
+Shiraz represents roughly 45% of Hilltops plantings and produces the region's most distinctive wines. These are not the opulent, high-alcohol Shiraz of the Barossa or McLaren Vale, nor the peppery, cool-climate expressions of Victoria's Macedon Ranges. Hilltops Shiraz occupies a middle ground, ripe but restrained, structured but approachable.
 
 **Viticultural Characteristics**
 
@@ -90,21 +90,21 @@ Clonal selection has evolved significantly since the 1980s. Early plantings reli
 
 **Wine Characteristics**
 
-Hilltops Shiraz typically shows dark berry fruit—blackberry, black cherry, mulberry—with moderate alcohol levels of 13.5-14.5%. The best examples display savory complexity: black olive, cured meat, cracked black pepper, and a distinctive mineral edge that likely reflects the basalt influence.
+Hilltops Shiraz typically shows dark berry fruit (blackberry, black cherry, mulberry) with moderate alcohol levels of 13.5-14.5%. The best examples display savory complexity: black olive, cured meat, cracked black pepper, and a distinctive mineral edge that likely reflects the basalt influence.
 
 Tannin structure is firm but fine-grained, providing aging potential without the astringency that can plague Shiraz from warmer regions. Acidity remains present, typically 6.0-6.5 g/L, sufficient to balance the fruit without creating angular wines.
 
-Oak handling varies by producer, but the regional trend favors restraint—18-24 months in 25-35% new French oak is common among quality producers. This allows the fruit and structural elements to speak without oak dominating the conversation.
+Oak handling varies by producer, but the regional trend favors restraint, 18-24 months in 25-35% new French oak is common among quality producers. This allows the fruit and structural elements to speak without oak dominating the conversation.
 
 ### Cabernet Sauvignon: The Unexpected Excellence
 
-Cabernet Sauvignon occupies approximately 30% of Hilltops plantings and may represent the region's greatest viticultural asset. The variety achieves full phenolic ripeness while maintaining the structural integrity that makes Cabernet age-worthy—a combination difficult to achieve in many Australian regions.
+Cabernet Sauvignon occupies approximately 30% of Hilltops plantings and may represent the region's greatest viticultural asset. The variety achieves full phenolic ripeness while maintaining the structural integrity that makes Cabernet age-worthy: a combination difficult to achieve in many Australian regions.
 
 **Viticultural Characteristics**
 
 Cabernet's later ripening cycle suits Hilltops' moderate climate. The variety typically harvests in late March or early April, taking full advantage of the extended ripening period and pronounced diurnal variation during autumn. This slow maturation allows flavor development to catch up with sugar accumulation, avoiding the green, herbaceous characters that plague Cabernet in cooler regions or the jammy, overripe notes from warmer areas.
 
-The variety shows a marked preference for the better-drained sites—upper slopes with basalt-derived soils or shallow sedimentary profiles over bedrock. On these sites, vine vigor moderates naturally, and the stress encourages smaller berries with higher skin-to-juice ratios, concentrating color and tannin.
+The variety shows a marked preference for the better-drained sites, upper slopes with basalt-derived soils or shallow sedimentary profiles over bedrock. On these sites, vine vigor moderates naturally, and the stress encourages smaller berries with higher skin-to-juice ratios, concentrating color and tannin.
 
 Cabernet's small, thick-skinned berries resist disease pressure better than Shiraz, an advantage during wet ripening periods. The variety also tolerates the region's occasional spring frosts better than early-budding varieties like Chardonnay.
 
@@ -112,7 +112,7 @@ Cabernet's small, thick-skinned berries resist disease pressure better than Shir
 
 Hilltops Cabernet Sauvignon displays classic varietal markers: blackcurrant, cassis, dried herbs, and cedar. What distinguishes the regional expression is the balance between fruit ripeness and structural elements. Alcohol levels typically range from 13.5-14.5%, moderate by contemporary Australian standards.
 
-The tannin profile deserves particular attention. Hilltops Cabernet shows fine-grained, persistent tannins that provide framework without hardness. This tannic structure, combined with natural acidity of 6.0-6.5 g/L, creates wines with genuine aging potential—15-20 years for the best examples.
+The tannin profile deserves particular attention. Hilltops Cabernet shows fine-grained, persistent tannins that provide framework without hardness. This tannic structure, combined with natural acidity of 6.0-6.5 g/L, creates wines with genuine aging potential, 15-20 years for the best examples.
 
 The wines show stylistic affinity with quality Médoc, particularly Cru Bourgeois from communes like Moulis or Listrac. Both regions produce Cabernet-dominant wines with firm structure, moderate alcohol, and savory complexity, though Hilltops expressions typically show riper fruit and softer acidity.
 
@@ -132,7 +132,7 @@ Merlot appears both as a varietal wine and as a blending component for Cabernet.
 
 ## WINES: Structure and Restraint
 
-Hilltops wine style centers on balance—a term overused in wine writing but genuinely applicable here. The region produces red wines that combine Australian fruit ripeness with structural elements more commonly associated with European regions.
+Hilltops wine style centers on balance: a term overused in wine writing but genuinely applicable here. The region produces red wines that combine Australian fruit ripeness with structural elements more commonly associated with European regions.
 
 ### Red Wine Production
 
@@ -140,13 +140,13 @@ Most quality-focused producers employ similar winemaking protocols for Shiraz an
 
 Fermentation occurs in a mix of stainless steel, concrete, and open-top wooden fermenters, depending on producer preference and intended style. Temperature control is standard, with most fermentations peaking at 28-32°C to extract color and tannin while preserving aromatics.
 
-Maceration periods vary from 10-14 days for more approachable styles to 21-28 days for age-worthy wines. Extended maceration—keeping the wine on skins after fermentation completes—has become more common, softening tannins through polymerization without extracting additional harsh compounds.
+Maceration periods vary from 10-14 days for more approachable styles to 21-28 days for age-worthy wines. Extended maceration (keeping the wine on skins after fermentation completes) has become more common, softening tannins through polymerization without extracting additional harsh compounds.
 
 Malolactic fermentation occurs naturally in barrel for most producers, softening acidity and adding complexity. The wines then mature in French oak barriques, typically 225-liter, for 12-24 months depending on variety and intended style. New oak percentages have declined over the past two decades, with most producers now using 20-35% new oak and the remainder in 1-3 year old barrels.
 
 ### Blending Practices
 
-Single-variety wines dominate Hilltops production, but Bordeaux-style blends have gained prominence. These typically combine Cabernet Sauvignon (60-80%) with Merlot, Cabernet Franc, or Petit Verdot. The blending approach mirrors Médoc practice—using complementary varieties to fill out the mid-palate and add aromatic complexity rather than fundamentally altering the wine's character.
+Single-variety wines dominate Hilltops production, but Bordeaux-style blends have gained prominence. These typically combine Cabernet Sauvignon (60-80%) with Merlot, Cabernet Franc, or Petit Verdot. The blending approach mirrors Médoc practice, using complementary varieties to fill out the mid-palate and add aromatic complexity rather than fundamentally altering the wine's character.
 
 Some producers also blend across vineyard sites, combining fruit from basalt soils (which tends toward power and structure) with fruit from sedimentary soils (which often shows more aromatic lift) to create more complete wines.
 
@@ -154,11 +154,11 @@ Some producers also blend across vineyard sites, combining fruit from basalt soi
 
 Chardonnay production follows contemporary Australian practice: whole-bunch pressing, cool fermentation (14-18°C) in a combination of stainless steel and oak, partial or complete malolactic fermentation, and lees stirring to build texture. Oak influence ranges from subtle to moderate, with most producers favoring 20-30% new oak.
 
-Riesling receives minimal intervention—whole-bunch pressing, cool fermentation in stainless steel, and early bottling to preserve aromatics and freshness.
+Riesling receives minimal intervention, whole-bunch pressing, cool fermentation in stainless steel, and early bottling to preserve aromatics and freshness.
 
 ### Aging Potential
 
-Quality Hilltops reds age gracefully. Cabernet Sauvignon and Shiraz from good vintages develop tertiary complexity—leather, tobacco, dried herbs, forest floor—over 10-15 years while maintaining fruit presence and structural integrity. The wines soften with age but rarely fall apart, suggesting that the tannic structure and acidity levels are well-calibrated for extended maturation.
+Quality Hilltops reds age gracefully. Cabernet Sauvignon and Shiraz from good vintages develop tertiary complexity (leather, tobacco, dried herbs, forest floor) over 10-15 years while maintaining fruit presence and structural integrity. The wines soften with age but rarely fall apart, suggesting that the tannic structure and acidity levels are well-calibrated for extended maturation.
 
 White wines are generally intended for earlier consumption, though the best Chardonnays can develop positively over 5-7 years.
 
@@ -172,7 +172,7 @@ The region encompasses approximately 100 square kilometers of suitable viticultu
 
 The area surrounding the town of Young contains the highest concentration of vineyards and represents the historical heart of Hilltops viticulture. Elevations here range from 450 to 600 meters, with most vineyards occupying north and northeast-facing slopes for maximum sun exposure.
 
-The Young district shows the greatest diversity of soil types, with both sedimentary and volcanic parent materials represented. This diversity allows producers to match varieties to specific sites—Cabernet on well-drained basalt soils, Shiraz on deeper red loams, Chardonnay on cooler, higher-elevation sites.
+The Young district shows the greatest diversity of soil types, with both sedimentary and volcanic parent materials represented. This diversity allows producers to match varieties to specific sites. Cabernet on well-drained basalt soils, Shiraz on deeper red loams, Chardonnay on cooler, higher-elevation sites.
 
 ### Harden-Murrumburrah
 
@@ -200,11 +200,11 @@ Hilltops experiences meaningful vintage variation, though the region's elevation
 
 The best Hilltops vintages share common characteristics: a frost-free spring allowing full bud development, moderate summer temperatures with limited extreme heat events, dry conditions during ripening and harvest, and cool nights in February and March to preserve acidity and aromatics.
 
-Vintages meeting these criteria—2010, 2012, 2016, 2018—produce wines with optimal balance: full phenolic ripeness without excessive alcohol, firm but ripe tannins, and sufficient acidity for structure and aging potential.
+Vintages meeting these criteria (2010, 2012, 2016, 2018) produce wines with optimal balance: full phenolic ripeness without excessive alcohol, firm but ripe tannins, and sufficient acidity for structure and aging potential.
 
 ### Challenging Conditions
 
-Spring frost represents the most significant vintage risk. Severe frost events—occurring roughly once every 5-7 years—can reduce yields by 30-70%, though the remaining fruit often produces concentrated wines. The 2006 and 2013 vintages saw significant frost damage.
+Spring frost represents the most significant vintage risk. Severe frost events (occurring roughly once every 5-7 years) can reduce yields by 30-70%, though the remaining fruit often produces concentrated wines. The 2006 and 2013 vintages saw significant frost damage.
 
 Summer rainfall during ripening increases disease pressure and can dilute flavors if precipitation is heavy near harvest. The 2011 vintage experienced excessive summer rain, resulting in lighter, more dilute wines from many producers.
 
@@ -226,7 +226,7 @@ Extreme heat events, while less common than in lower-elevation regions, can caus
 
 ### Vintage Strategy
 
-Unlike regions with extreme vintage variation—Burgundy's dramatic swings or Champagne's challenging years—Hilltops produces commercially viable wines in most vintages. The elevation and moderate climate provide a buffer against the extremes that plague warmer or cooler regions.
+Unlike regions with extreme vintage variation. Burgundy's dramatic swings or Champagne's challenging years. Hilltops produces commercially viable wines in most vintages. The elevation and moderate climate provide a buffer against the extremes that plague warmer or cooler regions.
 
 However, the best vintages clearly separate themselves. Collectors seeking age-worthy Hilltops reds should focus on cooler years with extended ripening periods: 2010, 2012, 2016, 2018. These vintages produce wines with the structure and balance to develop positively over 15-20 years.
 
@@ -250,7 +250,7 @@ The Barwang Cabernet Sauvignon typically shows blackcurrant and cedar notes with
 
 A newer operation (first vintage 2005) established by the Moppity family after selling the Barwang estate. The vineyard sits at 620 meters elevation, among the highest in the region, producing wines with pronounced acidity and aromatic intensity.
 
-Moppity focuses on single-vineyard expressions that showcase site characteristics. Their Shiraz displays red fruit notes—cherry, raspberry—rather than the darker fruit common in warmer regions, with a distinctive mineral edge and fine tannin structure. The Cabernet Sauvignon shows classic varietal character with notable freshness.
+Moppity focuses on single-vineyard expressions that showcase site characteristics. Their Shiraz displays red fruit notes (cherry, raspberry) rather than the darker fruit common in warmer regions, with a distinctive mineral edge and fine tannin structure. The Cabernet Sauvignon shows classic varietal character with notable freshness.
 
 ### Freeman Vineyards
 
@@ -260,7 +260,7 @@ The Freeman Shiraz shows the savory, mineral-driven style that distinguishes Hil
 
 ### Grove Estate
 
-Established in 1989, Grove Estate operates as both a vineyard and winery, producing wines from estate fruit and contract-grown grapes. The operation focuses on varietal wines—Shiraz, Cabernet Sauvignon, Chardonnay—at moderate price points, representing the accessible, quality-focused approach common among Hilltops producers.
+Established in 1989, Grove Estate operates as both a vineyard and winery, producing wines from estate fruit and contract-grown grapes. The operation focuses on varietal wines (Shiraz, Cabernet Sauvignon, Chardonnay) at moderate price points, representing the accessible, quality-focused approach common among Hilltops producers.
 
 ### Chalkers Crossing
 
@@ -268,7 +268,7 @@ A mid-sized producer (approximately 8,000 cases annually) focusing on single-vin
 
 ### Emerging Producers
 
-Several newer operations—Nick Spencer Wines, Lerida Estate, Clonakilla (which sources Hilltops fruit for specific bottlings)—have raised the region's profile through quality-focused, small-production wines. These producers often employ minimal intervention techniques and emphasize site expression over stylistic manipulation.
+Several newer operations (Nick Spencer Wines, Lerida Estate, Clonakilla (which sources Hilltops fruit for specific bottlings)) have raised the region's profile through quality-focused, small-production wines. These producers often employ minimal intervention techniques and emphasize site expression over stylistic manipulation.
 
 ## CHALLENGES AND OPPORTUNITIES
 
@@ -284,13 +284,13 @@ The region's small size and limited production create vulnerability. A single po
 
 ## CONCLUSION: Quiet Excellence
 
-Hilltops exemplifies a particular type of wine region—one that produces wines of genuine quality and distinction without the recognition or prices that quality might command in more famous areas. The region's Cabernet Sauvignon and Shiraz demonstrate that Australian viticulture can produce structured, age-worthy wines with moderate alcohol and genuine terroir expression.
+Hilltops exemplifies a particular type of wine region, one that produces wines of genuine quality and distinction without the recognition or prices that quality might command in more famous areas. The region's Cabernet Sauvignon and Shiraz demonstrate that Australian viticulture can produce structured, age-worthy wines with moderate alcohol and genuine terroir expression.
 
-The challenge for Hilltops is translating quality into recognition. The region needs ambassadors—critics, sommeliers, retailers—willing to champion these wines and educate consumers about their distinctive character. Without this advocacy, Hilltops risks remaining a viticultural secret, known to a small group of enthusiasts but invisible to the broader wine market.
+The challenge for Hilltops is translating quality into recognition. The region needs ambassadors (critics, sommeliers, retailers) willing to champion these wines and educate consumers about their distinctive character. Without this advocacy, Hilltops risks remaining a viticultural secret, known to a small group of enthusiasts but invisible to the broader wine market.
 
 For consumers, Hilltops represents an opportunity: access to well-made, age-worthy wines at prices that reflect regional anonymity rather than wine quality. The best Hilltops Cabernet Sauvignon and Shiraz offer complexity, structure, and aging potential comparable to wines costing two or three times as much from more famous regions.
 
-Whether Hilltops achieves broader recognition or remains a quiet backwater depends on factors beyond winemaking—marketing investment, critical attention, export market development. But the wines themselves argue convincingly that this elevated corner of New South Wales deserves serious attention.
+Whether Hilltops achieves broader recognition or remains a quiet backwater depends on factors beyond winemaking, marketing investment, critical attention, export market development. But the wines themselves argue convincingly that this elevated corner of New South Wales deserves serious attention.
 
 ## Sources and Further Reading
 

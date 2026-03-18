@@ -14,11 +14,11 @@ The Ruwer itself runs roughly 46 kilometers from its source in the Hunsrück hig
 
 What we can state with certainty applies to Kasel's vineyard sites collectively: the geology consists primarily of Devonian slate, the same blue-gray slate that dominates quality sites throughout the Mosel system. This slate formed approximately 400 million years ago during the Devonian period when the region lay beneath a tropical sea.
 
-The Ruwer's distinguishing characteristic—and this applies to the Nieschen by extension—is its cooler mesoclimate compared to the Middle Mosel. The narrower valley and higher elevation create slower ripening conditions. This translates to Rieslings with pronounced acidity, lighter alcohol levels (often 8-10% ABV in traditional styles), and a distinctive mineral tension that Ruwer advocates describe as "steely" or "flinty."
+The Ruwer's distinguishing characteristic (and this applies to the Nieschen by extension) is its cooler mesoclimate compared to the Middle Mosel. The narrower valley and higher elevation create slower ripening conditions. This translates to Rieslings with pronounced acidity, lighter alcohol levels (often 8-10% ABV in traditional styles), and a distinctive mineral tension that Ruwer advocates describe as "steely" or "flinty."
 
 ## The Kasel Context
 
-Kasel's most famous site, the Kaseler Kehrnagel, provides useful context. The Kehrnagel's reputation rests on its combination of steep slate slopes and optimal south-southwest exposition. If the Nieschen follows typical Kasel patterns, it likely shares similar slate composition but may differ in aspect, elevation, or slope gradient—the precise variables that separate good sites from great ones in the Mosel system.
+Kasel's most famous site, the Kaseler Kehrnagel, provides useful context. The Kehrnagel's reputation rests on its combination of steep slate slopes and optimal south-southwest exposition. If the Nieschen follows typical Kasel patterns, it likely shares similar slate composition but may differ in aspect, elevation, or slope gradient: the precise variables that separate good sites from great ones in the Mosel system.
 
 The village's vineyard area expanded and contracted significantly through the 20th century. Many marginal sites were abandoned post-phylloxera and again during the economic disruptions of the 1970s-1990s. Whether the Nieschen maintained continuous cultivation or experienced replanting remains undocumented in available sources.
 

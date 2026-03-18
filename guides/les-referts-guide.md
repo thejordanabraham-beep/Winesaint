@@ -52,7 +52,7 @@ Specific challenges in Les Referts include managing the balance between the lime
 
 Wines from Les Referts exhibit a distinctive character that combines power with elegance, showcasing the climat's ability to produce Chardonnays of exceptional depth and complexity. The limestone-rich terroir imparts a characteristic mineral backbone that serves as the foundation for layered aromatics and flavors that evolve beautifully with age.
 
-Aromatically, Les Referts typically displays a complex bouquet combining citrus elements—particularly lemon zest and lime—with white stone fruit characteristics including peach and apricot. Floral notes, often reminiscent of white flowers and acacia, add elegance to the aromatic profile. With age, the wines develop more complex tertiary aromas including honey, toasted nuts, and subtle spice elements that speak to the climat's aging potential.
+Aromatically, Les Referts typically displays a complex bouquet combining citrus elements (particularly lemon zest and lime) with white stone fruit characteristics including peach and apricot. Floral notes, often reminiscent of white flowers and acacia, add elegance to the aromatic profile. With age, the wines develop more complex tertiary aromas including honey, toasted nuts, and subtle spice elements that speak to the climat's aging potential.
 
 The palate structure of Les Referts shows remarkable balance between richness and precision. The limestone terroir contributes a taut mineral framework that supports concentrated fruit flavors without overwhelming the wine's essential elegance. Acidity levels are typically well-maintained due to the climat's elevation and exposure, providing the backbone necessary for extended aging while ensuring freshness in youth.
 

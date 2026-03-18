@@ -2,13 +2,13 @@
 
 Beaujolais is not Burgundy. This is not a subtle distinction.
 
-Despite sharing a southern border with the Côte d'Or, despite producing wines under the administrative umbrella of the BIVB (Bureau Interprofessionnel des Vins de Bourgogne), Beaujolais operates as its own universe. The geology differs. The climate diverges. The grape—Gamay—was famously banished from Burgundy proper in 1395 by Philip the Bold, Duke of Burgundy, who called it a "disloyal plant." The statistics reflect this separation: the BIVB and Inter Beaujolais (the regional trade organization) publish separate data, and Beaujolais typically produces about one-third of the total wine volume attributed to greater Burgundy.
+Despite sharing a southern border with the Côte d'Or, despite producing wines under the administrative umbrella of the BIVB (Bureau Interprofessionnel des Vins de Bourgogne), Beaujolais operates as its own universe. The geology differs. The climate diverges. The grape (Gamay) was famously banished from Burgundy proper in 1395 by Philip the Bold, Duke of Burgundy, who called it a "disloyal plant." The statistics reflect this separation: the BIVB and Inter Beaujolais (the regional trade organization) publish separate data, and Beaujolais typically produces about one-third of the total wine volume attributed to greater Burgundy.
 
-For decades, Beaujolais suffered from its own success. The Nouveau phenomenon—launched aggressively by négociant Georges Duboeuf from 1964 onward—created a global market for simple, fruity wines released on the third Thursday of November. At its peak, around 25% of all Beaujolais production went to Nouveau. The wine became a festival, a media event, and ultimately, a caricature. Japan, the UK, and France consumed it by the millions of bottles.
+For decades, Beaujolais suffered from its own success. The Nouveau phenomenon (launched aggressively by négociant Georges Duboeuf from 1964 onward) created a global market for simple, fruity wines released on the third Thursday of November. At its peak, around 25% of all Beaujolais production went to Nouveau. The wine became a festival, a media event, and ultimately, a caricature. Japan, the UK, and France consumed it by the millions of bottles.
 
-But this marketing triumph obscured a more compelling reality: the ten crus of northern Beaujolais produce some of France's most terroir-expressive, age-worthy wines. Today, sommeliers and collectors—particularly in the United States—have rediscovered these wines. Prices for top cru Beaujolais now reach premium and super-premium levels. The region has also become a laboratory for natural wine, building on the pioneering work of négociant Jules Chauvet and winemaker Marcel Lapierre, who championed low-intervention techniques decades before they became fashionable.
+But this marketing triumph obscured a more compelling reality: the ten crus of northern Beaujolais produce some of France's most terroir-expressive, age-worthy wines. Today, sommeliers and collectors (particularly in the United States) have rediscovered these wines. Prices for top cru Beaujolais now reach premium and super-premium levels. The region has also become a laboratory for natural wine, building on the pioneering work of négociant Jules Chauvet and winemaker Marcel Lapierre, who championed low-intervention techniques decades before they became fashionable.
 
-This guide focuses on what makes Beaujolais distinct: its granite bedrock in the north versus alluvial plains in the south, its semi-continental climate that straddles the line between Burgundy and the Rhône, and its singular devotion to Gamay—a grape that thrives precisely where Pinot Noir struggles.
+This guide focuses on what makes Beaujolais distinct: its granite bedrock in the north versus alluvial plains in the south, its semi-continental climate that straddles the line between Burgundy and the Rhône, and its singular devotion to Gamay: a grape that thrives precisely where Pinot Noir struggles.
 
 ## GEOLOGY: The Granite-Limestone Divide
 
@@ -16,11 +16,11 @@ This guide focuses on what makes Beaujolais distinct: its granite bedrock in the
 
 Beaujolais divides into two geological worlds, and this division determines everything about the wines.
 
-**The Northern Crus (Haut-Beaujolais):** Here, ancient granite and schist dominate. These are igneous and metamorphic rocks from the Massif Central, the eroded remnants of a mountain range that once rivaled the Alps in height. The granite formed approximately 300-350 million years ago during the Variscan orogeny (mountain-building period). Over geological time, weathering has broken down the granite into sandy, well-drained soils called *arène* or *gore*—a friable, decomposed granite mixed with quartz, mica, and feldspar.
+**The Northern Crus (Haut-Beaujolais):** Here, ancient granite and schist dominate. These are igneous and metamorphic rocks from the Massif Central, the eroded remnants of a mountain range that once rivaled the Alps in height. The granite formed approximately 300-350 million years ago during the Variscan orogeny (mountain-building period). Over geological time, weathering has broken down the granite into sandy, well-drained soils called *arène* or *gore*, a friable, decomposed granite mixed with quartz, mica, and feldspar.
 
-This is radically different from Burgundy's limestone. Where the Côte d'Or's bedrock formed in warm Jurassic seas 200-145 million years ago, accumulating layers of marine sediment rich in calcium carbonate, Beaujolais's northern granite predates those seas entirely. The mineral composition differs: granite releases potassium, magnesium, and trace elements slowly through weathering, but provides no calcium carbonate. Soil pH in granite zones typically ranges from 5.5 to 6.5—moderately acidic—compared to the alkaline 7.5-8.5 found on Burgundy's limestone.
+This is radically different from Burgundy's limestone. Where the Côte d'Or's bedrock formed in warm Jurassic seas 200-145 million years ago, accumulating layers of marine sediment rich in calcium carbonate, Beaujolais's northern granite predates those seas entirely. The mineral composition differs: granite releases potassium, magnesium, and trace elements slowly through weathering, but provides no calcium carbonate. Soil pH in granite zones typically ranges from 5.5 to 6.5 (moderately acidic) compared to the alkaline 7.5-8.5 found on Burgundy's limestone.
 
-**The Southern Plains (Bas-Beaujolais):** South and east of Villefranche-sur-Saône, the landscape flattens into the alluvial plain of the Saône River. Here, soils consist of clay, silt, and sandy deposits washed down from the surrounding hills over millennia. These are deeper, richer, more fertile soils—the kind that encourage vigorous vegetative growth and high yields. This is where basic Beaujolais and most Beaujolais-Villages originate.
+**The Southern Plains (Bas-Beaujolais):** South and east of Villefranche-sur-Saône, the landscape flattens into the alluvial plain of the Saône River. Here, soils consist of clay, silt, and sandy deposits washed down from the surrounding hills over millennia. These are deeper, richer, more fertile soils: the kind that encourage vigorous vegetative growth and high yields. This is where basic Beaujolais and most Beaujolais-Villages originate.
 
 ### Soil Variations Within the Crus
 
@@ -28,9 +28,9 @@ The ten crus occupy the granite-schist hillsides, but even within this zone, var
 
 **Moulin-à-Vent** sits on pink granite rich in manganese, which some attribute to the wine's structure and aging potential. The windmill that gives the cru its name stands on a small ridge where weathered granite meets pockets of clay.
 
-**Morgon** features decomposed schist mixed with iron-rich rock, creating the distinctive *côte du Py*—a volcanic-looking hill of crumbly, rust-colored stone. Locals call this soil *roche pourrie* (rotten rock). The iron content may contribute to Morgon's darker color and more robust tannin structure.
+**Morgon** features decomposed schist mixed with iron-rich rock, creating the distinctive *côte du Py*, a volcanic-looking hill of crumbly, rust-colored stone. Locals call this soil *roche pourrie* (rotten rock). The iron content may contribute to Morgon's darker color and more robust tannin structure.
 
-**Fleurie** has the sandiest, most friable granite soils—hence the wine's reputation for delicacy and floral aromatics. The decomposed granite here drains exceptionally well, stressing the vines just enough to concentrate flavors without shutting down photosynthesis.
+**Fleurie** has the sandiest, most friable granite soils, hence the wine's reputation for delicacy and floral aromatics. The decomposed granite here drains exceptionally well, stressing the vines just enough to concentrate flavors without shutting down photosynthesis.
 
 **Chénas** and **Moulin-à-Vent** share similar geology, which explains why their wines often overlap stylistically. Both have granite mixed with sandy clay at mid-slope positions.
 
@@ -38,11 +38,11 @@ The ten crus occupy the granite-schist hillsides, but even within this zone, var
 
 ### The Limestone Exception
 
-Small pockets of limestone do appear in northern Beaujolais, particularly in **Saint-Amour** and parts of **Juliénas**. These patches produce the region's increasing volume of Beaujolais Blanc, made primarily from Chardonnay. The wines resemble Mâcon Blanc—unsurprising, given that Mâcon lies just across the border, also on limestone. This geological continuity underscores how arbitrary the Beaujolais-Burgundy divide can be.
+Small pockets of limestone do appear in northern Beaujolais, particularly in **Saint-Amour** and parts of **Juliénas**. These patches produce the region's increasing volume of Beaujolais Blanc, made primarily from Chardonnay. The wines resemble Mâcon Blanc, unsurprising, given that Mâcon lies just across the border, also on limestone. This geological continuity underscores how arbitrary the Beaujolais-Burgundy divide can be.
 
 ### Comparison to Burgundy
 
-In Burgundy's Côte d'Or, approximately 80% of the base rock is limestone and 20% is marl. In Beaujolais's cru zone, this ratio doesn't just invert—it disappears entirely. Granite replaces limestone. The implications cascade through viticulture: granite soils warm faster in spring, drain more aggressively, and provide different nutrient profiles. Gamay, which produces thin, acidic wines on Burgundy's limestone, develops depth and complexity on Beaujolais's granite.
+In Burgundy's Côte d'Or, approximately 80% of the base rock is limestone and 20% is marl. In Beaujolais's cru zone, this ratio doesn't just invert, it disappears entirely. Granite replaces limestone. The implications cascade through viticulture: granite soils warm faster in spring, drain more aggressively, and provide different nutrient profiles. Gamay, which produces thin, acidic wines on Burgundy's limestone, develops depth and complexity on Beaujolais's granite.
 
 ## CLIMATE: Continental Meets Mediterranean
 
@@ -50,21 +50,21 @@ In Burgundy's Côte d'Or, approximately 80% of the base rock is limestone and 20
 
 Beaujolais occupies a climatic crossroads. To the north lies Burgundy's cool continental climate, with its frost risks and marginal ripening conditions. To the south, the Rhône Valley basks in Mediterranean warmth. Beaujolais experiences both influences, creating what climatologists call a semi-continental or temperate climate with Mediterranean moderation.
 
-**Latitude and Temperature:** The region sits between 45.9° and 46.3° north latitude—slightly south of Burgundy's Côte d'Or (around 47° north) but north of the Northern Rhône (around 45° north). Average July-August temperatures hover near 20°C (68°F), similar to Burgundy. However, Beaujolais benefits from warmer autumns, allowing Gamay to ripen fully even in cooler vintages.
+**Latitude and Temperature:** The region sits between 45.9° and 46.3° north latitude, slightly south of Burgundy's Côte d'Or (around 47° north) but north of the Northern Rhône (around 45° north). Average July-August temperatures hover near 20°C (68°F), similar to Burgundy. However, Beaujolais benefits from warmer autumns, allowing Gamay to ripen fully even in cooler vintages.
 
-**Rainfall:** Annual precipitation averages 750mm, spread relatively evenly throughout the year. May is the wettest month, raising concerns about flowering disruption, mildew, and poor fruit set. Late summer often turns mercifully drier, though rain during harvest remains a perennial risk. The region lacks the pronounced summer drought that characterizes Mediterranean climates, meaning irrigation is rarely necessary—and indeed, is generally prohibited under AOC regulations.
+**Rainfall:** Annual precipitation averages 750mm, spread relatively evenly throughout the year. May is the wettest month, raising concerns about flowering disruption, mildew, and poor fruit set. Late summer often turns mercifully drier, though rain during harvest remains a perennial risk. The region lacks the pronounced summer drought that characterizes Mediterranean climates, meaning irrigation is rarely necessary, and indeed, is generally prohibited under AOC regulations.
 
 **Sunshine Hours:** The growing season sees approximately 1,300 hours of sunshine. This is less than the Rhône Valley (around 2,800 hours annually) but comparable to Burgundy. During summer heat spikes, temperatures in Beaujolais can exceed those in cooler New World Pinot Noir regions like Oregon's Willamette Valley or Tasmania.
 
 ### Topography and Mesoclimate
 
-The crus occupy east and southeast-facing slopes at elevations between 200 and 500 meters. This aspect maximizes morning sun exposure while providing some afternoon shade—critical for maintaining acidity in Gamay. The slopes also provide natural frost drainage, as cold air sinks to the valley floor.
+The crus occupy east and southeast-facing slopes at elevations between 200 and 500 meters. This aspect maximizes morning sun exposure while providing some afternoon shade, critical for maintaining acidity in Gamay. The slopes also provide natural frost drainage, as cold air sinks to the valley floor.
 
 The Saône River, flowing along the region's eastern boundary, exerts a moderating influence, slightly warming the vineyards in spring and autumn. However, this effect is less pronounced than, say, the Gironde estuary's impact on Bordeaux.
 
 ### Spring Frost: An Increasing Threat
 
-Beaujolais shares Burgundy's vulnerability to spring frost, and recent years have seen devastating losses. The 2017 and 2021 frost events—which ravaged much of France—hit Beaujolais hard, with some producers losing 50-70% of their potential crop.
+Beaujolais shares Burgundy's vulnerability to spring frost, and recent years have seen devastating losses. The 2017 and 2021 frost events (which ravaged much of France) hit Beaujolais hard, with some producers losing 50-70% of their potential crop.
 
 The mechanism is well understood: warmer winters and early springs (a climate change effect) push budbreak earlier, often into late March or early April. A subsequent cold snap then kills the tender new shoots. Both ground frost (radiative cooling on clear, calm nights) and advective frost (cold air masses moving through) pose risks. Ground frost tends to affect valley-floor vineyards, while advective frost can damage hillside sites as well.
 
@@ -74,9 +74,9 @@ Hail appears with "worrying regularity," as one regional report notes, and seems
 
 ### Climate Change: Warmer, But More Volatile
 
-Growing-season temperatures in Beaujolais increased approximately 1.4°C between 1900 and 2017, consistent with global wine region trends. This warming has extended the growing season and reduced overall frost frequency. However, it has also increased weather volatility—more extreme heat spikes, more erratic rainfall, and paradoxically, more damaging spring frosts due to earlier budbreak.
+Growing-season temperatures in Beaujolais increased approximately 1.4°C between 1900 and 2017, consistent with global wine region trends. This warming has extended the growing season and reduced overall frost frequency. However, it has also increased weather volatility, more extreme heat spikes, more erratic rainfall, and paradoxically, more damaging spring frosts due to earlier budbreak.
 
-For Beaujolais, climate change presents a double-edged sword. Warmer temperatures improve ripening consistency, particularly for the crus, which can now achieve full phenolic maturity more reliably. But the increased frequency of extreme weather events—frost, hail, drought—introduces new risks. Producers report more vintage variation than in previous decades, despite the overall warming trend.
+For Beaujolais, climate change presents a double-edged sword. Warmer temperatures improve ripening consistency, particularly for the crus, which can now achieve full phenolic maturity more reliably. But the increased frequency of extreme weather events (frost, hail, drought) introduces new risks. Producers report more vintage variation than in previous decades, despite the overall warming trend.
 
 Some growers are experimenting with later-ripening Gamay clones and adjusting canopy management to delay budbreak. Others are exploring higher-elevation sites that were previously too cool for viticulture.
 
@@ -86,25 +86,25 @@ Some growers are experimenting with later-ripening Gamay clones and adjusting ca
 
 Beaujolais is Gamay. The grape accounts for 98% of red wine production. Understanding Gamay means understanding the region.
 
-**Botanical Identity:** Gamay Noir à Jus Blanc (to distinguish it from the many "Gamay" impostors) is a natural cross between Pinot Noir and Gouais Blanc—the same parentage as Chardonnay, Aligoté, Melon de Bourgogne, and at least 16 other varieties. DNA analysis confirmed this in the 1990s, solving a mystery that had persisted for centuries. Gouais Blanc, a medieval peasant grape, contributed vigor and productivity; Pinot Noir contributed quality potential.
+**Botanical Identity:** Gamay Noir à Jus Blanc (to distinguish it from the many "Gamay" impostors) is a natural cross between Pinot Noir and Gouais Blanc: the same parentage as Chardonnay, Aligoté, Melon de Bourgogne, and at least 16 other varieties. DNA analysis confirmed this in the 1990s, solving a mystery that had persisted for centuries. Gouais Blanc, a medieval peasant grape, contributed vigor and productivity; Pinot Noir contributed quality potential.
 
-**Historical Banishment:** In 1395, Philip the Bold, Duke of Burgundy, issued an edict banning Gamay from the Côte d'Or, calling it "disloyal" and claiming it produced inferior wine. His real concern was likely economic: Gamay's high yields threatened the premium pricing of Pinot Noir. Gamay growers were forced south, into what became Beaujolais. This banishment proved fortuitous—Gamay thrives on granite in ways it never could on limestone.
+**Historical Banishment:** In 1395, Philip the Bold, Duke of Burgundy, issued an edict banning Gamay from the Côte d'Or, calling it "disloyal" and claiming it produced inferior wine. His real concern was likely economic: Gamay's high yields threatened the premium pricing of Pinot Noir. Gamay growers were forced south, into what became Beaujolais. This banishment proved fortuitous. Gamay thrives on granite in ways it never could on limestone.
 
 **Viticultural Characteristics:** Gamay buds early (increasing frost risk) but ripens relatively early, usually in mid-September. It is naturally vigorous and productive, easily yielding 80-100 hl/ha if unchecked. AOC regulations cap yields at 63 hl/ha for Beaujolais and Beaujolais-Villages, and 56 hl/ha for the crus, but even these limits are generous compared to Burgundy's 40-50 hl/ha for village-level Pinot Noir.
 
-The vine adapts well to gobelet (bush vine) training, the traditional method in Beaujolais. Gobelet vines are planted densely (9,000-13,000 vines/ha) and pruned to 3-5 short spurs, creating a low, compact canopy. This training system is labor-intensive—harvesting must be done by hand—but it naturally limits yields and exposes fruit to optimal sunlight. In the southern Bas-Beaujolais, where mechanization is more common, single Guyot training (one cane tied to a wire) predominates.
+The vine adapts well to gobelet (bush vine) training, the traditional method in Beaujolais. Gobelet vines are planted densely (9,000-13,000 vines/ha) and pruned to 3-5 short spurs, creating a low, compact canopy. This training system is labor-intensive (harvesting must be done by hand) but it naturally limits yields and exposes fruit to optimal sunlight. In the southern Bas-Beaujolais, where mechanization is more common, single Guyot training (one cane tied to a wire) predominates.
 
-**Soil Preferences:** Gamay's affinity for granite is well documented but poorly understood. The prevailing theory holds that granite's sandy texture, good drainage, and moderate acidity suit Gamay's vigor—the vine must work harder to extract nutrients, which concentrates flavors. On limestone, Gamay produces thin, acidic wines with little charm. On deep alluvial soils, it yields copiously but dilutely.
+**Soil Preferences:** Gamay's affinity for granite is well documented but poorly understood. The prevailing theory holds that granite's sandy texture, good drainage, and moderate acidity suit Gamay's vigor: the vine must work harder to extract nutrients, which concentrates flavors. On limestone, Gamay produces thin, acidic wines with little charm. On deep alluvial soils, it yields copiously but dilutely.
 
 Within the granite zones, Gamay shows terroir sensitivity. On Morgon's iron-rich schist, it develops darker color and firmer tannins. On Fleurie's sandy decomposed granite, it produces lighter, more perfumed wines. On Moulin-à-Vent's manganese-rich pink granite, it gains structure and longevity.
 
-**Aromatic and Flavor Profile:** Gamay is not Pinot Noir. The aromatic profile centers on fresh red fruits—raspberry, cherry, strawberry, cranberry—with floral notes (violet, peony) in the more delicate crus. Black pepper, graphite, and subtle spice appear in structured examples. Unlike Pinot Noir, Gamay rarely shows earthy, sous-bois, or mushroom notes, even with age. The tannins are softer, the body lighter to medium, the acidity bright but not searing.
+**Aromatic and Flavor Profile:** Gamay is not Pinot Noir. The aromatic profile centers on fresh red fruits (raspberry, cherry, strawberry, cranberry) with floral notes (violet, peony) in the more delicate crus. Black pepper, graphite, and subtle spice appear in structured examples. Unlike Pinot Noir, Gamay rarely shows earthy, sous-bois, or mushroom notes, even with age. The tannins are softer, the body lighter to medium, the acidity bright but not searing.
 
 Carbonic and semi-carbonic maceration (discussed below) accentuate Gamay's fruity, exuberant character, adding banana, bubblegum, and kirsch notes. Traditional vinification produces more structured, age-worthy wines with darker fruit and mineral undertones.
 
 ### Chardonnay: The Limestone Interloper
 
-Beaujolais Blanc, made primarily from Chardonnay, remains a tiny fraction of production—perhaps 2-3% of total volume—but it is growing. The grape is planted almost exclusively on the scattered limestone pockets in the north, particularly in Saint-Amour and Juliénas, where the soil resembles Mâcon's. The wines are fresh, unoaked or lightly oaked, with citrus and white flower aromatics. They resemble Mâcon-Villages more than Côte d'Or Chardonnay—pleasant, affordable, and underappreciated.
+Beaujolais Blanc, made primarily from Chardonnay, remains a tiny fraction of production (perhaps 2-3% of total volume) but it is growing. The grape is planted almost exclusively on the scattered limestone pockets in the north, particularly in Saint-Amour and Juliénas, where the soil resembles Mâcon's. The wines are fresh, unoaked or lightly oaked, with citrus and white flower aromatics. They resemble Mâcon-Villages more than Côte d'Or Chardonnay, pleasant, affordable, and underappreciated.
 
 ### Other Permitted Varieties
 
@@ -116,25 +116,25 @@ Aligoté, Melon de Bourgogne, and Pinot Noir are technically permitted in small 
 
 Beaujolais is synonymous with carbonic maceration, but this association is both accurate and misleading.
 
-**What Is Carbonic Maceration?** In true carbonic maceration, whole, uncrushed grape clusters are placed in a sealed tank filled with carbon dioxide. Oxygen is excluded. Under these anaerobic conditions, an intracellular fermentation occurs within the intact berries. Enzymes inside the grape cells convert sugar to alcohol (about 1-2% ABV) and break down malic acid, releasing fruity, ester-driven aromatics—banana, kirsch, bubblegum, strawberry candy.
+**What Is Carbonic Maceration?** In true carbonic maceration, whole, uncrushed grape clusters are placed in a sealed tank filled with carbon dioxide. Oxygen is excluded. Under these anaerobic conditions, an intracellular fermentation occurs within the intact berries. Enzymes inside the grape cells convert sugar to alcohol (about 1-2% ABV) and break down malic acid, releasing fruity, ester-driven aromatics, banana, kirsch, bubblegum, strawberry candy.
 
 After several days (typically 4-8), the berries burst under their own weight, releasing juice. At this point, conventional yeast fermentation takes over, completing the conversion of sugar to alcohol. The wine is then pressed, finishing fermentation in tank or barrel.
 
 **Semi-Carbonic Maceration:** Most Beaujolais actually undergoes semi-carbonic maceration, a hybrid approach. Whole clusters are loaded into an open-top tank without added CO₂. The weight of the grapes crushes the berries at the bottom, releasing juice that begins fermenting with ambient or cultured yeasts. The fermentation produces CO₂, which rises and blankets the intact berries at the top, triggering intracellular fermentation. The result combines carbonic character (fruity, exuberant) with more conventional fermentation structure (tannin, complexity).
 
-**Who Uses What?** Carbonic and semi-carbonic maceration dominate in the Bas-Beaujolais, where the goal is fresh, fruity, early-drinking wine—especially for Beaujolais Nouveau. In the crus, practices vary widely. Some producers (particularly natural wine advocates) use 100% whole clusters and semi-carbonic maceration, believing it best expresses Gamay's fruit purity. Others—especially those aiming for age-worthy wines—destem partially or fully and use traditional fermentation, which extracts more tannin and structure.
+**Who Uses What?** Carbonic and semi-carbonic maceration dominate in the Bas-Beaujolais, where the goal is fresh, fruity, early-drinking wine, especially for Beaujolais Nouveau. In the crus, practices vary widely. Some producers (particularly natural wine advocates) use 100% whole clusters and semi-carbonic maceration, believing it best expresses Gamay's fruit purity. Others (especially those aiming for age-worthy wines) destem partially or fully and use traditional fermentation, which extracts more tannin and structure.
 
 High-profile cru producers like Domaine de la Côte du Py (Morgon) and Domaine Lapierre (Morgon) have championed semi-carbonic maceration for serious, terroir-driven wines. Their success has debunked the notion that carbonic maceration is inherently "simple" or "commercial."
 
 ### Beaujolais Nouveau: The Commercial Juggernaut
 
-Beaujolais Nouveau is a specific legal category within AOC regulations. The wines—labeled Beaujolais Nouveau AOC or Beaujolais-Villages Nouveau AOC—must be released on the third Thursday of November following harvest. (Primeur is an authorized synonym for Nouveau.) This is a dramatic exception to French wine law, which normally prohibits AOC wine sales before December 15.
+Beaujolais Nouveau is a specific legal category within AOC regulations. The wines (labeled Beaujolais Nouveau AOC or Beaujolais-Villages Nouveau AOC) must be released on the third Thursday of November following harvest. (Primeur is an authorized synonym for Nouveau.) This is a dramatic exception to French wine law, which normally prohibits AOC wine sales before December 15.
 
-Nouveau is made by carbonic or semi-carbonic maceration, fermented rapidly, and bottled 3-5 days after fermentation ends. Some wines undergo malolactic conversion; others do not. The goal is maximum fruit, minimal tannin, and immediate drinkability. By regulation, Nouveau cannot be sold after August 31 of the following year—a rule designed to clear inventory and emphasize the wine's ephemeral nature.
+Nouveau is made by carbonic or semi-carbonic maceration, fermented rapidly, and bottled 3-5 days after fermentation ends. Some wines undergo malolactic conversion; others do not. The goal is maximum fruit, minimal tannin, and immediate drinkability. By regulation, Nouveau cannot be sold after August 31 of the following year: a rule designed to clear inventory and emphasize the wine's ephemeral nature.
 
 At its peak in the 1980s and 1990s, Nouveau became a global phenomenon. Georges Duboeuf, the so-called "King of Beaujolais," pioneered the marketing blitz, turning the November release into a festival. Japan, the UK, and France consumed millions of bottles annually. Around 25% of all Beaujolais production went to Nouveau.
 
-But the Nouveau craze also damaged Beaujolais's reputation. Critics dismissed the entire region as frivolous, incapable of producing serious wine. The association with banana-bubblegum aromatics and party culture overshadowed the crus' complexity. Today, Nouveau production has declined, though it remains significant. The focus has shifted—especially in export markets like the United States—to the crus and their age-worthy wines.
+But the Nouveau craze also damaged Beaujolais's reputation. Critics dismissed the entire region as frivolous, incapable of producing serious wine. The association with banana-bubblegum aromatics and party culture overshadowed the crus' complexity. Today, Nouveau production has declined, though it remains significant. The focus has shifted (especially in export markets like the United States) to the crus and their age-worthy wines.
 
 ### The Crus: Structure, Terroir, Aging Potential
 
@@ -152,7 +152,7 @@ The ten crus cannot be labeled as Nouveau. They are vinified for structure and l
 
 **Saint-Amour**, the northernmost cru, makes lighter, charming wines with soft tannins.
 
-**Chiroubles**, at the highest elevation (400-500 meters), produces the lightest, most perfumed wines—often compared to Fleurie but with more pronounced acidity.
+**Chiroubles**, at the highest elevation (400-500 meters), produces the lightest, most perfumed wines, often compared to Fleurie but with more pronounced acidity.
 
 **Régnié**, the most recently designated cru (1988), sits on granite and clay, producing wines with red fruit and moderate structure.
 
@@ -164,7 +164,7 @@ The ten crus cannot be labeled as Nouveau. They are vinified for structure and l
 
 Beaujolais has become a global center for natural wine. Jules Chauvet, a Beaujolais négociant and chemist, pioneered low-intervention winemaking in the 1960s and 1970s, advocating for native yeast fermentation, no added sulfur, and minimal filtration. Marcel Lapierre, a grower in Morgon, became Chauvet's most famous disciple, producing wines that were simultaneously terroir-driven and radically natural.
 
-Today, a new generation of producers—many working with old vines in the crus—has embraced natural methods. They ferment with native yeasts, add little or no sulfur, avoid fining and filtration, and bottle unfiltered. The wines can be polarizing—some show brett, volatile acidity, or mousy off-flavors—but the best examples are vibrant, transparent, and thrillingly alive.
+Today, a new generation of producers (many working with old vines in the crus) has embraced natural methods. They ferment with native yeasts, add little or no sulfur, avoid fining and filtration, and bottle unfiltered. The wines can be polarizing (some show brett, volatile acidity, or mousy off-flavors) but the best examples are vibrant, transparent, and thrillingly alive.
 
 This movement has elevated Beaujolais's reputation among sommeliers and wine geeks, particularly in the United States. Wines that once sold for €5-10 now command €30-50 or more. Cult producers like Yvon Métras, Jean Foillard, and Domaine Thillardon have achieved near-mythical status.
 
@@ -173,7 +173,7 @@ This movement has elevated Beaujolais's reputation among sommeliers and wine gee
 Beaujolais operates under a three-tier appellation system:
 
 ### 1. Beaujolais AOC
-The regional appellation covers the entire zone, but most Beaujolais AOC comes from the southern plains—the alluvial soils east and south of Villefranche-sur-Saône. These are the simplest, fruitiest wines, made by carbonic or semi-carbonic maceration for early drinking. Maximum yield: 63 hl/ha.
+The regional appellation covers the entire zone, but most Beaujolais AOC comes from the southern plains: the alluvial soils east and south of Villefranche-sur-Saône. These are the simplest, fruitiest wines, made by carbonic or semi-carbonic maceration for early drinking. Maximum yield: 63 hl/ha.
 
 ### 2. Beaujolais-Villages AOC
 This appellation covers 38 villages in the northern granite zone, excluding the ten crus. The wines show more structure and complexity than basic Beaujolais, with better acidity and fruit definition. Some producers bottle single-village wines, though the label will still read "Beaujolais-Villages." Maximum yield: 63 hl/ha.
@@ -211,7 +211,7 @@ Beaujolais is one of the world's most versatile food wines. The bright acidity, 
 
 - **Mushrooms**: Earthy mushroom dishes (risotto, tart, sautéed) complement the more structured crus.
 
-- **Thanksgiving Turkey**: Beaujolais is the sommelier's secret weapon for Thanksgiving—it bridges the cranberry sauce, stuffing, and turkey without overwhelming.
+- **Thanksgiving Turkey**: Beaujolais is the sommelier's secret weapon for Thanksgiving, it bridges the cranberry sauce, stuffing, and turkey without overwhelming.
 
 - **Japanese Cuisine**: Sushi, yakitori, and teriyaki all pair well with the fruit-forward, low-tannin profile of Beaujolais.
 
@@ -221,7 +221,7 @@ Serve basic Beaujolais and Nouveau lightly chilled (12-14°C / 54-57°F). The cr
 
 ### Glassware
 
-Use a Burgundy-style glass (wide bowl, tapered rim) for the crus. Basic Beaujolais and Nouveau can be served in simpler stemware—even a tumbler, as is traditional in Lyon's bouchons.
+Use a Burgundy-style glass (wide bowl, tapered rim) for the crus. Basic Beaujolais and Nouveau can be served in simpler stemware, even a tumbler, as is traditional in Lyon's bouchons.
 
 ### Aging and Cellaring
 
@@ -232,7 +232,7 @@ The crus vary in aging potential:
 - **Moderate aging (3-7 years)**: Fleurie, Juliénas, Régnié, Côte de Brouilly
 - **Long aging (5-15 years)**: Moulin-à-Vent, Morgon, Chénas
 
-Store cru Beaujolais as you would Burgundy—cool (12-14°C), dark, and humid. The wines are not as fragile as Pinot Noir but still benefit from proper cellaring.
+Store cru Beaujolais as you would Burgundy, cool (12-14°C), dark, and humid. The wines are not as fragile as Pinot Noir but still benefit from proper cellaring.
 
 ## VINTAGE CHART (2010-2023)
 
@@ -253,7 +253,7 @@ Store cru Beaujolais as you would Burgundy—cool (12-14°C), dark, and humid. T
 | **2011** | 16/20 | Warm, ripe, accessible. | 2014-2024 |
 | **2010** | 17/20 | Excellent. Structured, age-worthy. | 2014-2026 |
 
-**Notes:** Beaujolais vintages are generally less variable than Burgundy's, thanks to the warmer climate and earlier ripening. However, frost (2017, 2021) and hail (2018) have increased vintage variation in recent years. The best vintages (2015, 2020, 2022) combine ripeness with freshness—warm growing seasons with cool nights and timely rain.
+**Notes:** Beaujolais vintages are generally less variable than Burgundy's, thanks to the warmer climate and earlier ripening. However, frost (2017, 2021) and hail (2018) have increased vintage variation in recent years. The best vintages (2015, 2020, 2022) combine ripeness with freshness, warm growing seasons with cool nights and timely rain.
 
 ## KEY PRODUCERS
 

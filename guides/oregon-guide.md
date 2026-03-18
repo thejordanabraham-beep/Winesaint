@@ -1,14 +1,14 @@
 # Oregon: America's Pinot Noir Laboratory
 
-Oregon built its reputation on a gamble. In 1965, David Lett planted Pinot Noir in the Willamette Valley—a cool, wet corner of the Pacific Northwest that conventional wisdom deemed too marginal for fine wine. He was right. The skeptics were wrong. Today, Oregon produces some of the New World's most compelling Pinot Noir, but the state's story extends far beyond this single grape. From the volcanic soils of the Dundee Hills to the sun-baked valleys of Southern Oregon, this is a region of remarkable geological and climatic diversity that remains chronically underestimated.
+Oregon built its reputation on a gamble. In 1965, David Lett planted Pinot Noir in the Willamette Valley: a cool, wet corner of the Pacific Northwest that conventional wisdom deemed too marginal for fine wine. He was right. The skeptics were wrong. Today, Oregon produces some of the New World's most compelling Pinot Noir, but the state's story extends far beyond this single grape. From the volcanic soils of the Dundee Hills to the sun-baked valleys of Southern Oregon, this is a region of remarkable geological and climatic diversity that remains chronically underestimated.
 
-This is not California. Oregon's wine industry cultivates an identity of deliberate restraint—smaller production, stricter regulations, and an almost evangelical commitment to sustainable farming. More than 47% of the state's vineyards are certified sustainable, and 52% of all Demeter Biodynamic vineyards in the United States are found here. The typical Oregon winery produces 2,500–20,000 cases annually. Over 70% make fewer than 5,000 cases per year. This is a region that prizes craft over scale.
+This is not California. Oregon's wine industry cultivates an identity of deliberate restraint, smaller production, stricter regulations, and an almost evangelical commitment to sustainable farming. More than 47% of the state's vineyards are certified sustainable, and 52% of all Demeter Biodynamic vineyards in the United States are found here. The typical Oregon winery produces 2,500–20,000 cases annually. Over 70% make fewer than 5,000 cases per year. This is a region that prizes craft over scale.
 
 ## GEOLOGY: The Pacific's Sedimentary Archive
 
 ### Tectonic Origins
 
-Oregon's wine regions occupy a geologically violent landscape. The western portion of the state—where the Willamette Valley and coastal ranges lie—sits at the collision zone between the Juan de Fuca oceanic plate and the North American continental plate. This ongoing subduction has been shaping Oregon's topography for millions of years, creating the Cascade Range to the east and the Coast Range to the west. The Willamette Valley itself is a structural trough caught between these two mountain systems.
+Oregon's wine regions occupy a geologically violent landscape. The western portion of the state (where the Willamette Valley and coastal ranges lie) sits at the collision zone between the Juan de Fuca oceanic plate and the North American continental plate. This ongoing subduction has been shaping Oregon's topography for millions of years, creating the Cascade Range to the east and the Coast Range to the west. The Willamette Valley itself is a structural trough caught between these two mountain systems.
 
 The Coast Range, which shields the Willamette Valley from direct Pacific influence, consists primarily of marine sedimentary rocks and basalts. These formations date to the Eocene epoch, roughly 50–35 million years ago, when much of western Oregon lay beneath a shallow sea. The Cascade Range, by contrast, is younger and volcanic, dominated by andesitic and basaltic rocks from more recent periods of activity.
 
@@ -16,19 +16,19 @@ The Coast Range, which shields the Willamette Valley from direct Pacific influen
 
 The most distinctive soils in Oregon's premier wine regions are volcanic in origin. During the Miocene epoch (23–5 million years ago), massive basaltic lava flows from fissures in eastern Oregon and Washington flooded westward, eventually reaching the Willamette Valley. These Columbia River Basalt flows created the foundation for what would become some of Oregon's most celebrated vineyard sites.
 
-The Dundee Hills—arguably the state's most famous wine-producing area—sit atop Jory soil, a deep red volcanic clay derived from weathered basalt. This soil type, Oregon's official state soil since 2011, can reach depths of 1.5–2 meters. Its high iron content gives it a distinctive rust-red color and excellent drainage properties. Jory soils are acidic (pH 5.0–6.0) and relatively nutrient-poor, forcing vines to develop deep root systems and naturally limiting vigor.
+The Dundee Hills (arguably the state's most famous wine-producing area) sit atop Jory soil, a deep red volcanic clay derived from weathered basalt. This soil type, Oregon's official state soil since 2011, can reach depths of 1.5–2 meters. Its high iron content gives it a distinctive rust-red color and excellent drainage properties. Jory soils are acidic (pH 5.0–6.0) and relatively nutrient-poor, forcing vines to develop deep root systems and naturally limiting vigor.
 
 ### The Missoula Floods
 
-Between 15,000 and 13,000 years ago, catastrophic flooding reshaped the Willamette Valley's topography. Lake Missoula, an enormous glacial lake in what is now Montana, repeatedly broke through its ice dam, sending walls of water westward through the Columbia River Gorge and into the Willamette Valley. These floods—some of the largest known freshwater floods in Earth's history—deposited massive amounts of sediment across the valley floor.
+Between 15,000 and 13,000 years ago, catastrophic flooding reshaped the Willamette Valley's topography. Lake Missoula, an enormous glacial lake in what is now Montana, repeatedly broke through its ice dam, sending walls of water westward through the Columbia River Gorge and into the Willamette Valley. These floods (some of the largest known freshwater floods in Earth's history) deposited massive amounts of sediment across the valley floor.
 
-The floodwaters carried boulders, gravel, sand, silt, and clay from as far away as Montana and British Columbia. When the floods receded, they left behind layered sedimentary deposits that now form much of the valley floor's soil profile. The hills and ridges that rise above the valley floor—places like the Dundee Hills, Eola-Amity Hills, and Chehalem Mountains—escaped the worst of the flooding and retained their volcanic soils. This creates a clear distinction: hillside sites typically feature volcanic soils, while valley floor sites contain sedimentary deposits.
+The floodwaters carried boulders, gravel, sand, silt, and clay from as far away as Montana and British Columbia. When the floods receded, they left behind layered sedimentary deposits that now form much of the valley floor's soil profile. The hills and ridges that rise above the valley floor (places like the Dundee Hills, Eola-Amity Hills, and Chehalem Mountains) escaped the worst of the flooding and retained their volcanic soils. This creates a clear distinction: hillside sites typically feature volcanic soils, while valley floor sites contain sedimentary deposits.
 
 ### Comparative Context: Oregon vs. Burgundy
 
 The comparison between Oregon and Burgundy is inevitable but often oversimplified. Both regions produce world-class Pinot Noir. Both occupy cool-climate zones at similar latitudes (the Willamette Valley sits at 45°N, the Côte d'Or at 47°N). But their geological foundations differ fundamentally.
 
-Burgundy's Côte d'Or formed from ancient seabeds. The region's bedrock consists primarily of Jurassic limestone and marl—approximately 80% marl to 20% limestone. These calcareous rocks, deposited 200–145 million years ago, create soils with high calcium carbonate content and excellent water retention properties.
+Burgundy's Côte d'Or formed from ancient seabeds. The region's bedrock consists primarily of Jurassic limestone and marl, approximately 80% marl to 20% limestone. These calcareous rocks, deposited 200–145 million years ago, create soils with high calcium carbonate content and excellent water retention properties.
 
 Oregon's premier sites, by contrast, rest on volcanic bedrock. The Jory soils of the Dundee Hills contain essentially no limestone. They are acidic rather than alkaline, clay-rich rather than calcareous. This fundamental difference produces wines with distinct structural profiles. Oregon Pinot Noir typically shows brighter acidity and more overt fruit character than Burgundy, with less earthy minerality and more emphasis on red berry flavors.
 
@@ -54,13 +54,13 @@ The Klamath Mountains contain some of North America's oldest rocks, including me
 
 Oregon's climate defies simple categorization. The Willamette Valley experiences a maritime-influenced climate, but not a purely maritime one. The Coast Range, rising to 1,200 meters in places, blocks direct ocean fog and moderates Pacific storms. This creates conditions warmer and drier than the immediate coast but cooler and wetter than purely continental climates.
 
-The result is a climate of unusual balance. The Willamette Valley receives approximately 1,020 mm of annual rainfall—substantially more than Burgundy's 700–800 mm. But the distribution differs critically. Roughly 80% of Oregon's precipitation falls between October and April. The growing season (April–October) is relatively dry, with only 200 mm of rainfall in a typical year.
+The result is a climate of unusual balance. The Willamette Valley receives approximately 1,020 mm of annual rainfall, substantially more than Burgundy's 700–800 mm. But the distribution differs critically. Roughly 80% of Oregon's precipitation falls between October and April. The growing season (April–October) is relatively dry, with only 200 mm of rainfall in a typical year.
 
 This pattern has profound implications for viticulture. Winter rains replenish soil moisture reserves without causing spring frost damage or flowering complications. Dry summers reduce disease pressure, particularly for fungal infections like powdery mildew and botrytis. The wind and dry conditions enable sustainable farming practices without the constant spray regimes required in wetter climates.
 
 ### Growing Season Dynamics
 
-The Willamette Valley's growing season is both longer and more compressed than Burgundy's. Budbreak typically occurs in early April—one week before the Côte d'Or. But véraison and harvest begin later, five to seven days after Burgundy on average. This creates a longer hang time between budbreak and véraison, allowing for gradual flavor development.
+The Willamette Valley's growing season is both longer and more compressed than Burgundy's. Budbreak typically occurs in early April, one week before the Côte d'Or. But véraison and harvest begin later, five to seven days after Burgundy on average. This creates a longer hang time between budbreak and véraison, allowing for gradual flavor development.
 
 Average growing season temperatures in the Willamette Valley hover around 16.5–17°C, placing it in the "moderate" category by standard wine climate classifications. But these averages mask significant diurnal temperature variation. Summer days can reach 32°C, while nights regularly drop to 10–12°C. This wide diurnal range preserves acidity while allowing phenolic ripeness.
 
@@ -78,15 +78,15 @@ Rot pressure, however, remains lower than in Burgundy, where more than 50% of an
 
 Eastern Oregon's climate bears no resemblance to the maritime-influenced west. The Columbia Basin, which extends from Oregon into Washington, experiences a continental climate with extreme temperature swings and minimal rainfall.
 
-Annual precipitation in the Columbia Basin ranges from 150–300 mm—desert levels. Viticulture here depends entirely on irrigation, typically from the Columbia River or its tributaries. It is common for parts of the basin to receive no measurable rainfall for 60–80 days during summer.
+Annual precipitation in the Columbia Basin ranges from 150–300 mm, desert levels. Viticulture here depends entirely on irrigation, typically from the Columbia River or its tributaries. It is common for parts of the basin to receive no measurable rainfall for 60–80 days during summer.
 
-The region's arid conditions and clear skies create dramatic diurnal temperature ranges. Summer days regularly exceed 35°C, while nights drop to 12–15°C. This pattern allows for full phenolic ripeness while preserving acidity. Growing degree days range from 2,800 in cooler sites to 3,600 in the warmest locations—substantially higher than the Willamette Valley's 2,200–2,600.
+The region's arid conditions and clear skies create dramatic diurnal temperature ranges. Summer days regularly exceed 35°C, while nights drop to 12–15°C. This pattern allows for full phenolic ripeness while preserving acidity. Growing degree days range from 2,800 in cooler sites to 3,600 in the warmest locations, substantially higher than the Willamette Valley's 2,200–2,600.
 
 The frost-free period typically extends from mid-April to mid-October, yielding 180–200 growing days. Cold air pooling in valleys creates inversion layers where temperatures on valley floors can be 5–10°C cooler than on surrounding ridges. This phenomenon allows for site-specific mesoclimate selection within relatively small areas.
 
 ### Southern Oregon: Warmth with Altitude
 
-Southern Oregon occupies a climatic middle ground. The region is warmer than the Willamette Valley but cooler than California's interior valleys. The Umpqua Valley and Rogue Valley benefit from altitude—many vineyard sites sit at 400–600 meters elevation—which moderates temperatures and extends the growing season.
+Southern Oregon occupies a climatic middle ground. The region is warmer than the Willamette Valley but cooler than California's interior valleys. The Umpqua Valley and Rogue Valley benefit from altitude (many vineyard sites sit at 400–600 meters elevation) which moderates temperatures and extends the growing season.
 
 The region receives less rainfall than the Willamette Valley (600–800 mm annually) and experiences more continental temperature patterns. This allows Southern Oregon to ripen varieties like Cabernet Sauvignon, Merlot, Syrah, and Tempranillo that struggle in the cooler north.
 
@@ -96,7 +96,7 @@ Oregon's wine regions are experiencing measurable climate shifts. Average growin
 
 For the Willamette Valley, these changes have been largely beneficial. Vintages that once struggled to achieve full ripeness now reach optimal maturity more reliably. Varieties like Chardonnay and Syrah, which were marginal in the region's early decades, now ripen consistently.
 
-But the warming trend also brings challenges. Higher temperatures increase water stress, particularly on shallow soils. Earlier harvest dates compress the picking window, creating logistical challenges for small producers. And the risk of extreme heat events—which can shut down photosynthesis and damage grape quality—has increased.
+But the warming trend also brings challenges. Higher temperatures increase water stress, particularly on shallow soils. Earlier harvest dates compress the picking window, creating logistical challenges for small producers. And the risk of extreme heat events (which can shut down photosynthesis and damage grape quality) has increased.
 
 ## GRAPES: Beyond Pinot Noir
 
@@ -104,11 +104,11 @@ But the warming trend also brings challenges. Higher temperatures increase water
 
 Pinot Noir accounts for 59% of Oregon's vineyard hectarage and defines the state's reputation. The variety arrived with David Lett in 1965, when he planted cuttings from UC Davis in the Dundee Hills. Lett's gamble paid off spectacularly: his 1975 Eyrie Vineyards Pinot Noir placed second in a 1979 Paris tasting that included top Burgundies, putting Oregon on the international wine map.
 
-Oregon Pinot Noir occupies a stylistic space between Burgundy's earthy complexity and California's ripe fruit power. The wines typically show bright red berry flavors—cherry, raspberry, cranberry—with notes of cinnamon spice, forest floor, and tea. Acidity is high, tannins are fine-grained, and alcohol levels generally range from 13–14%, lower than California's 14.5–15%.
+Oregon Pinot Noir occupies a stylistic space between Burgundy's earthy complexity and California's ripe fruit power. The wines typically show bright red berry flavors (cherry, raspberry, cranberry) with notes of cinnamon spice, forest floor, and tea. Acidity is high, tannins are fine-grained, and alcohol levels generally range from 13–14%, lower than California's 14.5–15%.
 
 The variety thrives on Oregon's volcanic soils, which provide excellent drainage and natural vigor control. Jory soils, in particular, produce Pinot Noir with distinctive structure and aging potential. The combination of cool nights, dry summers, and volcanic terroir creates wines with aromatic intensity and textural refinement.
 
-Clonal selection has evolved significantly since Lett's original plantings. The so-called "Pommard" clone (actually a field selection rather than a true clone) dominated early Oregon vineyards. In the 1990s, Dijon clones—particularly 113, 114, 115, 667, and 777—arrived from Burgundy. These clones offer different aromatic profiles and ripening patterns, allowing producers to craft more complex field blends.
+Clonal selection has evolved significantly since Lett's original plantings. The so-called "Pommard" clone (actually a field selection rather than a true clone) dominated early Oregon vineyards. In the 1990s, Dijon clones (particularly 113, 114, 115, 667, and 777) arrived from Burgundy. These clones offer different aromatic profiles and ripening patterns, allowing producers to craft more complex field blends.
 
 The variety's thin skins and tight clusters make it susceptible to rot in wet conditions, but Oregon's dry summers mitigate this risk in most vintages. The main viticultural challenge is managing vigor on fertile valley floor sites while avoiding water stress on shallow hillside soils.
 
@@ -124,7 +124,7 @@ Pinot Gris has proven commercially valuable for Oregon producers. It commands re
 
 ### Chardonnay: The Late Bloomer
 
-Chardonnay has been present in Oregon since the 1960s but remained a secondary variety until the mid-1990s. The introduction of Dijon clones—particularly 76, 95, and 96—transformed the variety's prospects in the state. These clones ripen more reliably than earlier selections and produce wines with better aromatic complexity.
+Chardonnay has been present in Oregon since the 1960s but remained a secondary variety until the mid-1990s. The introduction of Dijon clones (particularly 76, 95, and 96) transformed the variety's prospects in the state. These clones ripen more reliably than earlier selections and produce wines with better aromatic complexity.
 
 Oregon Chardonnay, when made well, is taut and fresh with moderate oak influence. The wines typically show green apple, citrus, and white flower aromas with bright acidity and medium body. Alcohol levels range from 12.5–13.5%, lower than California. The style emphasizes precision and minerality over tropical fruit richness.
 
@@ -142,7 +142,7 @@ Brooks Winery in the Eola-Amity Hills has been one of Riesling's most passionate
 
 **Viognier**: Plantings have increased in recent years, particularly in Southern Oregon. The variety struggles in the Willamette Valley's cool climate but ripens well in warmer sites. Oregon Viogniers show typical apricot and white flower aromatics with moderate alcohol (13–14%) and good acidity.
 
-**Pinot Blanc**: Fewer than 250 acres are planted statewide, but the variety shows promise. The grape had a rough entry into Oregon—David Lett's original "Pinot Blanc" cuttings from UC Davis turned out to be Melon de Bourgogne. The real variety wasn't available for commercial planting until the mid-1980s. Cameron Winery produced Oregon's first true Pinot Blanc in 1988. The wines are crisp and mineral-driven with apple and almond flavors.
+**Pinot Blanc**: Fewer than 250 acres are planted statewide, but the variety shows promise. The grape had a rough entry into Oregon. David Lett's original "Pinot Blanc" cuttings from UC Davis turned out to be Melon de Bourgogne. The real variety wasn't available for commercial planting until the mid-1980s. Cameron Winery produced Oregon's first true Pinot Blanc in 1988. The wines are crisp and mineral-driven with apple and almond flavors.
 
 **Chardonnay**: See dedicated section above.
 
@@ -258,7 +258,7 @@ Massive AVA covering much of eastern Washington and extending into Oregon. Orego
 
 Oregon Pinot Noir benefits from slight cooling to 14–16°C. The wine's elegance and aromatic complexity are best appreciated at temperatures slightly cooler than typical for red wine.
 
-Pinot Gris and Chardonnay should be served at 10–12°C—cool but not ice-cold, which would mute aromatics.
+Pinot Gris and Chardonnay should be served at 10–12°C, cool but not ice-cold, which would mute aromatics.
 
 ### Vintage Considerations
 
@@ -270,13 +270,13 @@ Oregon's vintage variation is significant. Understanding vintage characteristics
 
 **Challenging vintages**: 2007 (cool, late harvest), 2010 (cool, high acidity), 2011 (rain at harvest)
 
-**2015**: An exceptional vintage—hot and dry, producing ripe, concentrated wines with lower acidity than typical. Some purists question whether the wines are "classic" Oregon style, but quality is undeniable.
+**2015**: An exceptional vintage, hot and dry, producing ripe, concentrated wines with lower acidity than typical. Some purists question whether the wines are "classic" Oregon style, but quality is undeniable.
 
 **2014**: A near-perfect growing season with warm, dry conditions and no harvest rain. Wines show excellent balance between ripeness and freshness.
 
 **2012**: Long, cool growing season with ideal harvest conditions. Wines are elegant, aromatic, and age-worthy.
 
-**2008**: Cool vintage producing wines with classic Oregon profile—bright acidity, red berry fruit, and excellent aging potential.
+**2008**: Cool vintage producing wines with classic Oregon profile, bright acidity, red berry fruit, and excellent aging potential.
 
 ### When to Drink
 
@@ -292,7 +292,7 @@ Oregon's vintage variation is significant. Understanding vintage characteristics
 
 ### Buying Strategy
 
-Oregon Pinot Noir offers excellent value compared to Burgundy, particularly at the village and single-vineyard level. Prices for top producers range from $40–$80 for single-vineyard wines—a fraction of equivalent Burgundy prices.
+Oregon Pinot Noir offers excellent value compared to Burgundy, particularly at the village and single-vineyard level. Prices for top producers range from $40–$80 for single-vineyard wines: a fraction of equivalent Burgundy prices.
 
 Look for producers with established track records and vineyard holdings in recognized sub-AVAs. Estate-grown fruit generally indicates better quality control than purchased grapes.
 
@@ -304,7 +304,7 @@ Southern Oregon reds remain undervalued. Seek out Abacela for Tempranillo, and e
 
 ### Early Viticulture
 
-Vitis vinifera vines arrived in Oregon in the late 19th century. An 1860 census—one year after statehood—recorded Oregon wine production at 2,600 gallons (98 hectoliters). Twenty years later, production had increased modestly, but Oregon remained a minor player in American viticulture.
+Vitis vinifera vines arrived in Oregon in the late 19th century. An 1860 census (one year after statehood) recorded Oregon wine production at 2,600 gallons (98 hectoliters). Twenty years later, production had increased modestly, but Oregon remained a minor player in American viticulture.
 
 Prohibition (1920–1933) devastated Oregon's nascent wine industry. Most vineyards were abandoned or converted to other crops. The few that survived focused on table grapes and juice production.
 

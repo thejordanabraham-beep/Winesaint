@@ -8,7 +8,7 @@ The vineyard sits approximately 15 kilometers south of Santenay, the southernmos
 
 Montagny's unique distinction among Burgundy appellations lies in its exclusive focus on white wine production from Chardonnay, making it the only appellation in the Côte Chalonnaise dedicated solely to white wines. This specialization has allowed climats like Les Coères to develop a refined identity specifically tailored to expressing Chardonnay's potential within the region's particular terroir characteristics.
 
-The geographical context of Les Coères reflects the broader Côte Chalonnaise landscape, characterized by a series of hills and valleys that create diverse microclimates and soil compositions. The climat benefits from its position within this undulating terrain, which provides natural protection from adverse weather while optimizing sun exposure and drainage—essential factors in producing the elegant, mineral-driven Chardonnays for which Montagny has become renowned.
+The geographical context of Les Coères reflects the broader Côte Chalonnaise landscape, characterized by a series of hills and valleys that create diverse microclimates and soil compositions. The climat benefits from its position within this undulating terrain, which provides natural protection from adverse weather while optimizing sun exposure and drainage, essential factors in producing the elegant, mineral-driven Chardonnays for which Montagny has become renowned.
 
 ## Size and Vineyard Configuration
 

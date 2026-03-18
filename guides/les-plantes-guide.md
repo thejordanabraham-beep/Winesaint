@@ -6,7 +6,7 @@ Les Plantes stands as one of Chambolle-Musigny's distinguished Premier Cru viney
 
 The vineyard sits on the eastern-facing slopes of the Côte de Nuits escarpment, positioned in the southern portion of the Chambolle-Musigny appellation. Les Plantes benefits from an ideal mid-slope location that places it between the village-level vineyards closer to the RN74 road and the steeper, more elevated Premier Cru sites higher on the slope. This positioning provides an optimal balance of drainage, sun exposure, and soil depth that contributes significantly to the distinctive character of wines produced from this climat.
 
-Within the broader context of the Côte de Nuits, Les Plantes represents the quintessential Chambolle-Musigny style—wines that bridge the gap between the powerful, structured expressions found in neighboring Gevrey-Chambertin to the north and the more mineral-driven wines of Morey-Saint-Denis to the south. The vineyard's location allows it to capture the essence of Chambolle-Musigny's reputation for producing wines of exceptional finesse and aromatic complexity.
+Within the broader context of the Côte de Nuits, Les Plantes represents the quintessential Chambolle-Musigny style, wines that bridge the gap between the powerful, structured expressions found in neighboring Gevrey-Chambertin to the north and the more mineral-driven wines of Morey-Saint-Denis to the south. The vineyard's location allows it to capture the essence of Chambolle-Musigny's reputation for producing wines of exceptional finesse and aromatic complexity.
 
 ## Size
 

@@ -10,21 +10,21 @@ The challenge is real. Annual rainfall can exceed 1,000 millimeters in some area
 
 ### Volcanic Formation and Timeline
 
-The Açores archipelago sits atop the Mid-Atlantic Ridge, the massive underwater mountain range where the Eurasian, African, and North American tectonic plates meet. This is geologically active territory. The islands began forming roughly 8 million years ago through successive volcanic eruptions, with the youngest island (Pico) still showing signs of recent activity—its last eruption occurred in 1720.
+The Açores archipelago sits atop the Mid-Atlantic Ridge, the massive underwater mountain range where the Eurasian, African, and North American tectonic plates meet. This is geologically active territory. The islands began forming roughly 8 million years ago through successive volcanic eruptions, with the youngest island (Pico) still showing signs of recent activity, its last eruption occurred in 1720.
 
 Unlike the ancient sedimentary formations of mainland Portugal's wine regions, the Açores offers geology measured in thousands rather than millions of years. The soils derive directly from volcanic parent material: basalt flows, volcanic ash (tephra), pumice, and lapilli. This is young geology, still in the process of weathering into what we conventionally recognize as soil.
 
-The volcanic rock here is predominantly basaltic, formed from lava with relatively low silica content. As this material weathers, it breaks down into clay minerals, releasing nutrients slowly over time. But the process is incomplete. Walk through Pico's vineyards and you'll find vines rooted in what appears to be little more than black gravel—loose, porous, and dramatically free-draining.
+The volcanic rock here is predominantly basaltic, formed from lava with relatively low silica content. As this material weathers, it breaks down into clay minerals, releasing nutrients slowly over time. But the process is incomplete. Walk through Pico's vineyards and you'll find vines rooted in what appears to be little more than black gravel, loose, porous, and dramatically free-draining.
 
 ### Soil Composition and Characteristics
 
-The dominant soil type across Açorean vineyards is what pedologists classify as Andosols (also called Andisols)—soils formed directly from volcanic materials. These soils have several distinctive characteristics that profoundly influence viticulture:
+The dominant soil type across Açorean vineyards is what pedologists classify as Andosols (also called Andisols), soils formed directly from volcanic materials. These soils have several distinctive characteristics that profoundly influence viticulture:
 
-**Porosity and Drainage**: Volcanic soils in the Açores are exceptionally porous, with air space comprising up to 50% of soil volume in some areas. Water drains through rapidly, which seems paradoxical given the region's high rainfall. Yet this extreme drainage proves essential—without it, the vines would drown. The downside is obvious: in rare dry periods, these soils hold almost no water reserves. Vines must root deeply to find moisture retained in fractured bedrock below.
+**Porosity and Drainage**: Volcanic soils in the Açores are exceptionally porous, with air space comprising up to 50% of soil volume in some areas. Water drains through rapidly, which seems paradoxical given the region's high rainfall. Yet this extreme drainage proves essential, without it, the vines would drown. The downside is obvious: in rare dry periods, these soils hold almost no water reserves. Vines must root deeply to find moisture retained in fractured bedrock below.
 
 **Mineral Content**: Fresh volcanic material contains significant quantities of calcium, magnesium, potassium, and iron. As basalt weathers, these minerals become available to vines. The iron content in particular gives many Açorean soils their characteristic rust-red to black coloration. This mineral richness contributes to the pronounced saline-mineral character found in many Açorean whites.
 
-**pH and Fertility**: Young volcanic soils typically register pH levels between 5.5 and 6.5—slightly acidic to neutral. Fertility varies dramatically depending on the age of the volcanic material and degree of weathering. The newest flows on Pico offer minimal organic matter and low fertility, forcing vines to struggle. Older volcanic soils on islands like Terceira have had more time to develop organic content and show greater fertility.
+**pH and Fertility**: Young volcanic soils typically register pH levels between 5.5 and 6.5, slightly acidic to neutral. Fertility varies dramatically depending on the age of the volcanic material and degree of weathering. The newest flows on Pico offer minimal organic matter and low fertility, forcing vines to struggle. Older volcanic soils on islands like Terceira have had more time to develop organic content and show greater fertility.
 
 **Heat Retention**: Black volcanic rock absorbs and retains solar radiation with remarkable efficiency. During the day, these dark soils heat significantly, then release that warmth slowly at night. This thermal mass effect extends the effective growing season and helps compensate for the region's cool temperatures. On Pico, vignerons report that the black stone corrals (currais) can register temperatures 5-8°C higher than ambient air temperature on sunny days.
 
@@ -32,7 +32,7 @@ The dominant soil type across Açorean vineyards is what pedologists classify as
 
 While all nine islands share volcanic origins, their geological ages and compositions vary:
 
-**Pico** (300,000 years old): Dominated by recent basalt flows from Pico Mountain (2,351 meters—Portugal's highest peak). The vineyard areas sit on lava flows less than 500 years old in some cases. Soil development is minimal; vines root directly into fractured basalt with thin accumulations of weathered material in cracks.
+**Pico** (300,000 years old): Dominated by recent basalt flows from Pico Mountain (2,351 meters. Portugal's highest peak). The vineyard areas sit on lava flows less than 500 years old in some cases. Soil development is minimal; vines root directly into fractured basalt with thin accumulations of weathered material in cracks.
 
 **Terceira** (3.5 million years old): Older volcanic material has weathered more completely, producing deeper Andosols with greater clay content and organic matter. The soils here show more structure and water-holding capacity than Pico's stark volcanic gravel.
 
@@ -42,7 +42,7 @@ The remaining islands (São Miguel, Santa Maria, São Jorge, Faial, Flores, and 
 
 ### Comparison to Other Volcanic Wine Regions
 
-The Açores shares volcanic geology with regions like Santorini, Etna, and the Canary Islands, but important differences exist. Santorini's volcanic soils are predominantly pumice and ash—lighter, more friable materials than Açorean basalt. Etna's vineyards sit on much older volcanic material (hundreds of thousands of years) that has weathered into deeper, more structured soils.
+The Açores shares volcanic geology with regions like Santorini, Etna, and the Canary Islands, but important differences exist. Santorini's volcanic soils are predominantly pumice and ash, lighter, more friable materials than Açorean basalt. Etna's vineyards sit on much older volcanic material (hundreds of thousands of years) that has weathered into deeper, more structured soils.
 
 The closest geological analog may be the Canary Islands, particularly Lanzarote, where vines also grow in recent basaltic material. Both regions employ stone walls for wind protection and heat retention. However, Lanzarote's climate is far drier (150-300mm annual rainfall versus 1,000mm+ in the Açores), creating fundamentally different water management challenges.
 
@@ -54,9 +54,9 @@ What distinguishes Açorean volcanic terroir is the combination of young, minima
 
 The Açores experiences a humid subtropical climate (Köppen classification Cfb), heavily moderated by the Atlantic Ocean. This maritime influence keeps temperatures remarkably stable year-round, with average annual temperatures ranging from 13-17°C depending on island and elevation.
 
-During the growing season (April-October in the Northern Hemisphere), average temperatures range from 17-22°C. This places the Açores firmly in the "cool climate" category using standard viticulture classifications—comparable to Champagne or the Mosel, though with far higher humidity and rainfall.
+During the growing season (April-October in the Northern Hemisphere), average temperatures range from 17-22°C. This places the Açores firmly in the "cool climate" category using standard viticulture classifications, comparable to Champagne or the Mosel, though with far higher humidity and rainfall.
 
-The cool temperatures present obvious challenges for ripening. Growing degree days (GDD) typically range from 1,200-1,500 on a Celsius base-10 scale—sufficient for early-ripening varieties but marginal for anything requiring extended hang time. This explains the region's traditional reliance on varieties like Verdelho and Arinto dos Açores (Terrantez do Pico), which can achieve physiological ripeness within the available heat summation.
+The cool temperatures present obvious challenges for ripening. Growing degree days (GDD) typically range from 1,200-1,500 on a Celsius base-10 scale, sufficient for early-ripening varieties but marginal for anything requiring extended hang time. This explains the region's traditional reliance on varieties like Verdelho and Arinto dos Açores (Terrantez do Pico), which can achieve physiological ripeness within the available heat summation.
 
 Diurnal temperature variation is modest, typically 6-8°C, due to maritime influence. Unlike continental regions where dramatic day-night temperature swings preserve acidity, Açorean wines maintain freshness through the simple fact of cool temperatures throughout the growing season. Acid retention is rarely a problem; achieving sufficient ripeness while maintaining reasonable alcohol levels is the greater challenge.
 
@@ -64,7 +64,7 @@ Diurnal temperature variation is modest, typically 6-8°C, due to maritime influ
 
 Annual precipitation varies dramatically across the archipelago, from approximately 700mm in the driest areas to over 1,600mm in the wettest. Most islands receive 1,000-1,200mm annually, with rainfall distributed throughout the year. Even summer months see regular precipitation, though June through August are relatively drier.
 
-This is not subtle rain. Atlantic weather systems bring intense, wind-driven precipitation that can strip leaves, damage developing clusters, and create persistent disease pressure. Humidity levels regularly exceed 80% even during the growing season, creating ideal conditions for fungal diseases—powdery mildew, downy mildew, and botrytis all thrive in these conditions.
+This is not subtle rain. Atlantic weather systems bring intense, wind-driven precipitation that can strip leaves, damage developing clusters, and create persistent disease pressure. Humidity levels regularly exceed 80% even during the growing season, creating ideal conditions for fungal diseases, powdery mildew, downy mildew, and botrytis all thrive in these conditions.
 
 The combination of high rainfall and free-draining volcanic soils creates a paradox: vines rarely experience true water stress despite growing in soils that hold minimal moisture. Roots must penetrate deep into fractured bedrock to access water reserves, but those reserves are regularly replenished by rainfall. This produces vigorous vegetative growth that can overwhelm fruit production if not carefully managed through pruning and canopy work.
 
@@ -74,7 +74,7 @@ If rainfall shapes disease management in the Açores, wind defines vineyard arch
 
 Unprotected vines simply cannot survive this wind regime. Young shoots snap, leaves shred, and clusters suffer mechanical damage. This reality has driven the development of the Açores' most distinctive viticultural feature: the curral system on Pico.
 
-A curral (plural: currais) is a small vineyard plot—typically 100-400 square meters—entirely enclosed by dry-stone basalt walls up to 2 meters high. These walls serve multiple functions:
+A curral (plural: currais) is a small vineyard plot (typically 100-400 square meters) entirely enclosed by dry-stone basalt walls up to 2 meters high. These walls serve multiple functions:
 
 1. **Wind Protection**: The primary purpose. Walls break wind force, creating a sheltered microclimate where vines can grow.
 
@@ -84,7 +84,7 @@ A curral (plural: currais) is a small vineyard plot—typically 100-400 square m
 
 4. **Soil Retention**: On sloped terrain, walls prevent the minimal soil from washing away during intense rainfall.
 
-Building and maintaining these walls represents enormous labor. Estimates suggest Pico alone contains over 1,500 kilometers of stone walls—more linear distance than from Lisbon to Paris. The walls are UNESCO-recognized not just for their cultural significance but as a testament to human determination to cultivate wine in impossible conditions.
+Building and maintaining these walls represents enormous labor. Estimates suggest Pico alone contains over 1,500 kilometers of stone walls, more linear distance than from Lisbon to Paris. The walls are UNESCO-recognized not just for their cultural significance but as a testament to human determination to cultivate wine in impossible conditions.
 
 On other islands, different wind protection strategies evolved. Terceira uses lower stone walls combined with close vine spacing. Graciosa employs a mixture of walls and natural depressions in the landscape. But the principle remains constant: without wind protection, viticulture in the Açores is impossible.
 
@@ -120,13 +120,13 @@ The primary hazards are:
 
 ### The Indigenous Varieties
 
-The Açores' isolation has preserved grape varieties found nowhere else in Portugal—or anywhere else in the world. DNA analysis has revealed that several "Açorean" varieties are actually unique to the islands, while others represent rare survivors of varieties once grown on the mainland but now nearly extinct there.
+The Açores' isolation has preserved grape varieties found nowhere else in Portugal, or anywhere else in the world. DNA analysis has revealed that several "Açorean" varieties are actually unique to the islands, while others represent rare survivors of varieties once grown on the mainland but now nearly extinct there.
 
 #### Arinto dos Açores (Terrantez do Pico)
 
 The flagship white variety of Pico, Arinto dos Açores was long believed to be related to mainland Arinto (Pedernã), but DNA analysis has proven this false. Despite the name, Arinto dos Açores is genetically distinct. To confuse matters further, it's also called Terrantez do Pico, though it bears no relation to the noble Terrantez variety of Madeira.
 
-**Viticulture**: Arinto dos Açores shows moderate vigor and relatively early ripening for the Açores—a critical advantage. It buds in mid-April and typically reaches harvest ripeness in late September to early October. The variety demonstrates good disease resistance, particularly to botrytis, which proves essential in the humid Açorean climate.
+**Viticulture**: Arinto dos Açores shows moderate vigor and relatively early ripening for the Açores: a critical advantage. It buds in mid-April and typically reaches harvest ripeness in late September to early October. The variety demonstrates good disease resistance, particularly to botrytis, which proves essential in the humid Açorean climate.
 
 The variety performs best in Pico's stark basaltic soils, where the free-draining character and heat retention of black stone help achieve ripeness. On Terceira's deeper, more fertile volcanic soils, Arinto dos Açores can produce excessively vigorous growth that dilutes flavor concentration.
 
@@ -138,7 +138,7 @@ The variety's natural acidity and mineral structure make it exceptionally age-wo
 
 Verdelho in the Açores represents a survivor. This variety once dominated Madeira wine production before phylloxera devastated those vineyards in the 1870s. The Açores maintained Verdelho plantings, preserving genetic material that proved crucial for replanting Madeira decades later.
 
-**Viticulture**: Verdelho shows vigorous growth and moderate disease resistance. It ripens slightly later than Arinto dos Açores—typically harvest occurs in early to mid-October. The variety adapts well to different volcanic soil types, performing successfully on both Pico's basalt and Terceira's more developed Andosols.
+**Viticulture**: Verdelho shows vigorous growth and moderate disease resistance. It ripens slightly later than Arinto dos Açores, typically harvest occurs in early to mid-October. The variety adapts well to different volcanic soil types, performing successfully on both Pico's basalt and Terceira's more developed Andosols.
 
 Verdelho's vigor requires careful canopy management to prevent excessive shading of fruit. The variety responds well to the curral system, where wind protection and heat retention help achieve full ripeness while the enclosed space naturally limits vine size.
 
@@ -148,7 +148,7 @@ The variety shows particular affinity for partial barrel fermentation or aging, 
 
 #### Terrantez da Terceira
 
-Not to be confused with Arinto dos Açores (also called Terrantez do Pico) or Madeira's Terrantez, Terrantez da Terceira is yet another distinct variety. DNA analysis confirms it shares no close genetic relationship with either of its namesakes—a perfect example of how common names create confusion in viticulture.
+Not to be confused with Arinto dos Açores (also called Terrantez do Pico) or Madeira's Terrantez, Terrantez da Terceira is yet another distinct variety. DNA analysis confirms it shares no close genetic relationship with either of its namesakes: a perfect example of how common names create confusion in viticulture.
 
 **Viticulture**: Terrantez da Terceira is the latest-ripening of the indigenous white varieties, typically harvested in late October. This makes it marginal for the Açores climate, and plantings have declined significantly. The variety shows good disease resistance but requires the warmest sites to achieve adequate ripeness.
 
@@ -156,7 +156,7 @@ Most remaining plantings exist on Terceira (as the name suggests), particularly 
 
 **Wine Characteristics**: When fully ripe, Terrantez da Terceira produces wines of notable complexity, with pronounced floral aromatics (orange blossom, jasmine), stone fruit flavors, and firm acidity. The wines show less overt salinity than Arinto dos Açores but greater aromatic intensity. Alcohol typically reaches 12-13%.
 
-Production remains tiny—perhaps 5,000-10,000 bottles annually across all producers. The variety's future depends on whether climate change provides sufficient additional warmth to make cultivation more reliable.
+Production remains tiny, perhaps 5,000-10,000 bottles annually across all producers. The variety's future depends on whether climate change provides sufficient additional warmth to make cultivation more reliable.
 
 #### Boal (Bual)
 
@@ -164,17 +164,17 @@ Another Madeira variety that survived in the Açores, though plantings are limit
 
 #### Red Varieties: Limited but Present
 
-Red wine production in the Açores is minimal, representing less than 5% of total output. The cool, humid climate makes red grape cultivation challenging—achieving phenolic ripeness while managing disease pressure proves difficult.
+Red wine production in the Açores is minimal, representing less than 5% of total output. The cool, humid climate makes red grape cultivation challenging, achieving phenolic ripeness while managing disease pressure proves difficult.
 
 **Merlot**: The most successful red variety, producing light to medium-bodied wines with bright red fruit and pronounced herbaceous notes. Alcohol levels rarely exceed 12%, and the wines show more affinity with Loire Cabernet Franc than Bordeaux Merlot in style.
 
-**Cabernet Sauvignon**: Planted experimentally on Pico and Terceira. Results are mixed—the variety struggles to achieve full ripeness, producing wines with aggressive tannins and green pepper notes. Only the warmest vintages yield balanced results.
+**Cabernet Sauvignon**: Planted experimentally on Pico and Terceira. Results are mixed: the variety struggles to achieve full ripeness, producing wines with aggressive tannins and green pepper notes. Only the warmest vintages yield balanced results.
 
 **Touriga Nacional**: Recent plantings on Terceira show promise. The variety's thick skins provide disease resistance, and its natural tendency toward low yields helps achieve ripeness despite cool temperatures.
 
 ### Vineyard Density and Training Systems
 
-The curral system on Pico dictates unusual vineyard architecture. Within each stone enclosure, vines are planted at extremely low density—often just 10-20 vines per curral. The vines sprawl along the ground, trained in a modified bush vine system that maximizes exposure to heat radiating from the black basalt surface.
+The curral system on Pico dictates unusual vineyard architecture. Within each stone enclosure, vines are planted at extremely low density, often just 10-20 vines per curral. The vines sprawl along the ground, trained in a modified bush vine system that maximizes exposure to heat radiating from the black basalt surface.
 
 This ground-level training serves multiple purposes: it protects vines from wind above the wall height, captures radiant heat from the stone, and makes hand harvesting in the confined spaces manageable. However, it also increases disease pressure by limiting air circulation and keeping fruit close to the damp ground.
 
@@ -184,7 +184,7 @@ On Terceira and other islands, more conventional training systems prevail. Cordo
 
 Phylloxera reached the Açores in the 1860s, devastating vineyards on São Miguel and other islands. Pico's isolation provided some protection, but the pest eventually arrived there too. Today, virtually all commercial vineyards are grafted onto phylloxera-resistant rootstocks.
 
-Rootstock selection focuses on varieties that tolerate high rainfall and provide moderate vigor control: SO4 (Sélection Oppenheim 4) and Riparia Gloire de Montpellier are most common. These rootstocks show good disease resistance and adapt well to volcanic soils, though neither provides strong vigor control—a challenge given the Açores' naturally vigorous growing conditions.
+Rootstock selection focuses on varieties that tolerate high rainfall and provide moderate vigor control: SO4 (Sélection Oppenheim 4) and Riparia Gloire de Montpellier are most common. These rootstocks show good disease resistance and adapt well to volcanic soils, though neither provides strong vigor control: a challenge given the Açores' naturally vigorous growing conditions.
 
 Some ancient, ungrafted vines survive in abandoned currais on Pico, typically Verdelho or Arinto dos Açores planted before phylloxera arrived. These vines are treasured for their historical significance, though production is minimal and uncertain.
 
@@ -198,7 +198,7 @@ White wines represent 95% of Açorean production, with the vast majority produce
 
 **Moderate Alcohol**: Most wines register 11-13% alcohol. The cool climate limits sugar accumulation, and many producers prefer to harvest at lower potential alcohol to preserve freshness rather than waiting for full phenolic ripeness.
 
-**Saline Minerality**: The defining characteristic of Açorean whites. This isn't subtle—the wines taste distinctly of the Atlantic, with a saline-mineral quality that sommeliers compare to oyster shell, wet granite, or sea spray. The source of this character remains debated. Volcanic soils certainly contribute mineral elements, but salt spray penetration and the varieties' natural affinity for expressing minerality also play roles.
+**Saline Minerality**: The defining characteristic of Açorean whites. This isn't subtle: the wines taste distinctly of the Atlantic, with a saline-mineral quality that sommeliers compare to oyster shell, wet granite, or sea spray. The source of this character remains debated. Volcanic soils certainly contribute mineral elements, but salt spray penetration and the varieties' natural affinity for expressing minerality also play roles.
 
 **Restrained Fruit**: Compared to New World whites, Açorean wines show remarkable fruit restraint. Citrus notes dominate, but they're tart and precise rather than tropical or exuberant. This restraint reflects both climate (cool temperatures don't produce ripe tropical fruit flavors) and winemaking philosophy (most producers favor minimal intervention).
 
@@ -210,7 +210,7 @@ Açorean winemaking has evolved significantly over the past 20 years, moving fro
 
 **Fermentation**: Most producers now use temperature-controlled stainless steel fermentation (16-18°C) to preserve aromatic intensity and freshness. Some employ ambient yeast fermentation, though cultured yeasts selected for cool-climate whites are increasingly common.
 
-A growing number of producers incorporate partial barrel fermentation or aging, typically using 500L or larger neutral oak formats. This adds textural complexity without overwhelming the wines' delicate aromatics. New oak is rare—the wines' moderate body and pronounced acidity don't support obvious oak influence.
+A growing number of producers incorporate partial barrel fermentation or aging, typically using 500L or larger neutral oak formats. This adds textural complexity without overwhelming the wines' delicate aromatics. New oak is rare: the wines' moderate body and pronounced acidity don't support obvious oak influence.
 
 **Aging and Release**: Most Açorean whites are released young, within 6-12 months of harvest. However, the wines' natural acidity and structure support extended aging. Some producers now hold wines for 2-3 years before release, allowing them to develop greater complexity and textural integration.
 
@@ -224,13 +224,13 @@ Traditional method sparkling wine production is emerging as a promising category
 
 Producers are experimenting with both Arinto dos Açores and Verdelho as base varieties, typically harvested earlier than for still wines (17-18° Brix) to maintain higher acidity. The wines undergo secondary fermentation in bottle and spend 12-24 months on lees before disgorgement.
 
-Results show promise: the sparkling wines display vibrant citrus fruit, pronounced minerality, and fine mousse. The category remains tiny—perhaps 50,000 bottles annually across all producers—but quality levels suggest significant potential for growth.
+Results show promise: the sparkling wines display vibrant citrus fruit, pronounced minerality, and fine mousse. The category remains tiny (perhaps 50,000 bottles annually across all producers) but quality levels suggest significant potential for growth.
 
 ### Fortified and Sweet Wines: The Historical Legacy
 
 Historically, the Açores produced significant quantities of fortified wines, particularly on Pico. These wines were shipped to northern Europe and the Americas, where they competed with Madeira and Port. The trade collapsed in the late 19th century due to phylloxera and changing market preferences.
 
-Today, fortified wine production is minimal but not extinct. A handful of producers make small quantities of Verdelho-based fortified wines, typically aged oxidatively in old casks for 5-10 years before release. These wines show pronounced nutty, caramelized fruit character with the signature Açorean salinity—an interesting stylistic bridge to Madeira.
+Today, fortified wine production is minimal but not extinct. A handful of producers make small quantities of Verdelho-based fortified wines, typically aged oxidatively in old casks for 5-10 years before release. These wines show pronounced nutty, caramelized fruit character with the signature Açorean salinity: an interesting stylistic bridge to Madeira.
 
 Botrytis-affected sweet wines are theoretically possible given the humid climate, but production is essentially nonexistent. The combination of wind and salt spray makes controlled noble rot development difficult, and most producers prefer to focus on dry wines that better express terroir.
 
@@ -238,7 +238,7 @@ Botrytis-affected sweet wines are theoretically possible given the humid climate
 
 Açorean whites are significantly more age-worthy than their initial impression suggests. The combination of high acidity, moderate alcohol, and pronounced minerality creates wines that can evolve gracefully for 10-15 years in good vintages.
 
-With age, the aggressive citrus notes soften into riper stone fruit and subtle tropical character. The saline minerality persists but becomes better integrated. Honeyed notes emerge, along with waxy texture and greater weight. The wines never become rich or opulent—they remain fundamentally fresh and mineral-driven—but they gain complexity and textural interest.
+With age, the aggressive citrus notes soften into riper stone fruit and subtle tropical character. The saline minerality persists but becomes better integrated. Honeyed notes emerge, along with waxy texture and greater weight. The wines never become rich or opulent (they remain fundamentally fresh and mineral-driven) but they gain complexity and textural interest.
 
 This aging potential remains largely unknown outside the islands. Most Açorean wines are consumed within 2-3 years of harvest, and secondary market activity is essentially nonexistent. Producers with library stocks occasionally release older vintages, which demonstrate the wines' longevity but do little to shift market perception.
 
@@ -275,7 +275,7 @@ Covering the island of Graciosa, this appellation permits:
 
 Graciosa's wines show softer acidity and less pronounced minerality than Pico, reflecting the island's slightly warmer mesoclimate and less extreme wind exposure. The presence of some calcareous soils creates subtle differences in mineral expression compared to pure volcanic terroirs.
 
-Production is minimal—perhaps 100,000-150,000 bottles annually across all producers.
+Production is minimal, perhaps 100,000-150,000 bottles annually across all producers.
 
 ### DOP Biscoitos
 
@@ -309,7 +309,7 @@ Vintage variation in the Açores operates on different principles than continent
 
 **Great Vintages**: Occur when Atlantic storm tracks shift south, bringing calmer conditions to the archipelago. Moderate rainfall through summer, followed by warm, dry September-October weather. These vintages produce wines with optimal ripeness (12-13% alcohol), balanced acidity (6-7 g/L), and full phenolic development. The wines show ripe citrus fruit, pronounced but integrated minerality, and excellent aging potential. Recent strong vintages include 2018, 2015, and 2013.
 
-**Good Vintages**: Normal Atlantic weather patterns with typical rainfall and wind. Wines show classic Açorean character—high acidity, moderate alcohol, pronounced minerality—but may lack the extra dimension of ripeness and complexity found in great years. These vintages produce excellent wines that express terroir clearly, if without the added depth of exceptional years. Most recent vintages fall into this category.
+**Good Vintages**: Normal Atlantic weather patterns with typical rainfall and wind. Wines show classic Açorean character (high acidity, moderate alcohol, pronounced minerality) but may lack the extra dimension of ripeness and complexity found in great years. These vintages produce excellent wines that express terroir clearly, if without the added depth of exceptional years. Most recent vintages fall into this category.
 
 **Challenging Vintages**: Occur when storm activity intensifies or rainfall becomes excessive. Disease pressure increases, forcing earlier harvest and more aggressive crop selection. Wines show aggressive acidity, lean fruit, and sometimes green notes from incomplete ripeness. However, even challenging vintages can produce good wines from top producers who farm meticulously and select fruit carefully. Recent difficult vintages include 2017 and 2014.
 
@@ -327,7 +327,7 @@ The most internationally recognized Açorean producer, established by António M
 
 The estate produces several bottlings:
 
-**Terrantez do Pico**: 100% Arinto dos Açores from old currais in Criação Velha. This wine epitomizes Açorean white wine—vibrant acidity, pronounced salinity, and laser-like precision. Fermented in stainless steel with extended lees aging. Production is limited to 5,000-8,000 bottles annually.
+**Terrantez do Pico**: 100% Arinto dos Açores from old currais in Criação Velha. This wine epitomizes Açorean white wine, vibrant acidity, pronounced salinity, and laser-like precision. Fermented in stainless steel with extended lees aging. Production is limited to 5,000-8,000 bottles annually.
 
 **Verdelho**: Sourced from Pico and Terceira, this bottling shows slightly riper fruit character while maintaining high acidity and mineral structure. Partial barrel fermentation adds textural complexity.
 
@@ -339,7 +339,7 @@ Maçanita's work has raised international awareness of Açorean wines and demons
 
 A small estate on Pico focusing exclusively on wines from the curral system. Paulo Machado farms approximately 2 hectares across multiple small currais, producing 3,000-5,000 bottles annually.
 
-The wines emphasize terroir expression through minimal intervention: ambient yeast fermentation, no temperature control, extended lees aging, and minimal sulfur additions. Results are polarizing—the wines show pronounced oxidative character and vintage variation, but also remarkable complexity and aging potential.
+The wines emphasize terroir expression through minimal intervention: ambient yeast fermentation, no temperature control, extended lees aging, and minimal sulfur additions. Results are polarizing: the wines show pronounced oxidative character and vintage variation, but also remarkable complexity and aging potential.
 
 Machado represents the traditional Açorean approach adapted for modern quality standards. His wines won't appeal to everyone, but they offer an unfiltered expression of place.
 
@@ -355,7 +355,7 @@ The cooperative plays a crucial role in maintaining viticulture on Pico by provi
 
 One of the oldest producers in the Açores, established in the 19th century. Brum produces wines from Terceira, including varietal bottlings of Verdelho and Terrantez da Terceira.
 
-The estate maintains traditional oxidative aging in old casks for some wines, producing styles that recall historical Açorean wines. These aged bottlings show nutty, caramelized character with pronounced salinity—an acquired taste, but historically significant.
+The estate maintains traditional oxidative aging in old casks for some wines, producing styles that recall historical Açorean wines. These aged bottlings show nutty, caramelized character with pronounced salinity: an acquired taste, but historically significant.
 
 Recent vintages show a shift toward fresher, more modern styles while maintaining the estate's traditional approach to vineyard management.
 
@@ -391,11 +391,11 @@ The Açores faces ongoing challenges that limit expansion and complicate product
 
 ### Market Challenges
 
-**Limited Production**: Total Açorean wine production is approximately 500,000-700,000 bottles annually across all producers and islands. This is tiny—smaller than many individual estates in Burgundy or Bordeaux. Limited production restricts market development and makes the wines difficult to find internationally.
+**Limited Production**: Total Açorean wine production is approximately 500,000-700,000 bottles annually across all producers and islands. This is tiny, smaller than many individual estates in Burgundy or Bordeaux. Limited production restricts market development and makes the wines difficult to find internationally.
 
 **Price Positioning**: Production costs in the Açores are high due to labor intensity, isolation, and low yields. Wines must be priced at €15-30+ to be economically viable. This puts them in direct competition with established regions that have far greater market recognition.
 
-**Consumer Awareness**: Outside Portugal, awareness of Açorean wines remains minimal. Most consumers have never heard of Pico or Arinto dos Açores. Building market recognition requires sustained investment in education and marketing—difficult for small producers with limited resources.
+**Consumer Awareness**: Outside Portugal, awareness of Açorean wines remains minimal. Most consumers have never heard of Pico or Arinto dos Açores. Building market recognition requires sustained investment in education and marketing, difficult for small producers with limited resources.
 
 ### Opportunities
 

@@ -10,7 +10,7 @@ Within the broader context of the Côte de Beaune, Montée Rouge represents the 
 
 ## Size
 
-Montée Rouge encompasses 8.16 hectares (20.17 acres) of vineyard land, making it a moderately-sized Premier Cru within Beaune's portfolio of classified sites. This surface area places it among the middle tier of Beaune Premier Crus in terms of size—larger than intimate sites like Sur les Grèves (2.02 hectares) but considerably smaller than extensive climats like Les Bressandes (19.64 hectares).
+Montée Rouge encompasses 8.16 hectares (20.17 acres) of vineyard land, making it a moderately-sized Premier Cru within Beaune's portfolio of classified sites. This surface area places it among the middle tier of Beaune Premier Crus in terms of size, larger than intimate sites like Sur les Grèves (2.02 hectares) but considerably smaller than extensive climats like Les Bressandes (19.64 hectares).
 
 The relatively compact size of Montée Rouge contributes to its reputation for consistency, as the entire vineyard experiences similar mesoclimatic conditions and shares the same fundamental geological characteristics. This homogeneity allows for a more unified expression of terroir compared to larger Premier Crus that may encompass varied expositions or soil types across their extent.
 

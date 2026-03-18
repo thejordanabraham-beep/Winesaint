@@ -1,26 +1,26 @@
 # El Dorado: High-Altitude Winemaking in California's Gold Country
 
-El Dorado sits where ambition meets altitude. While neighboring Amador County built its reputation on burly Zinfandel from lower elevations, El Dorado's vineyards climb from 457 m/1,500 ft to well above 1,160 m/3,600 ft—some of California's highest plantings. This vertical range creates not one terroir but several, stacked like geological shelves on the western slopes of the Sierra Nevada.
+El Dorado sits where ambition meets altitude. While neighboring Amador County built its reputation on burly Zinfandel from lower elevations, El Dorado's vineyards climb from 457 m/1,500 ft to well above 1,160 m/3,600 ft, some of California's highest plantings. This vertical range creates not one terroir but several, stacked like geological shelves on the western slopes of the Sierra Nevada.
 
-The elevation matters. At 1,000+ meters, these vineyards experience diurnal temperature swings that would make a Burgundian envious. Days hit 35-40°C (95-104°F), then night air cascades down from the mountains, dropping temperatures by 20°C or more. Grapes retain acidity. Phenolic ripeness arrives before sugar accumulation spirals out of control. The resulting wines show a tension—a tautness—rarely found in California.
+The elevation matters. At 1,000+ meters, these vineyards experience diurnal temperature swings that would make a Burgundian envious. Days hit 35-40°C (95-104°F), then night air cascades down from the mountains, dropping temperatures by 20°C or more. Grapes retain acidity. Phenolic ripeness arrives before sugar accumulation spirals out of control. The resulting wines show a tension (a tautness) rarely found in California.
 
 ## The Granite Question
 
 El Dorado's defining geological feature is decomposed granite, locally called DG. This isn't the hard bedrock of say, the northern Rhône's granite hillsides, but weathered, sandy clay loam with excellent drainage. The soil retains just enough water to sustain vines through California's bone-dry summers without irrigation becoming excessive. Root systems penetrate deep, sometimes 6-9 meters down.
 
-But granite doesn't tell the whole story. Volcanic soils appear in pockets throughout the region, remnants of ancient volcanic activity. These darker, iron-rich soils yield wines with different aromatic profiles—more savory, more mineral-driven. The best producers have learned which varieties thrive where: Syrah often excels on granite, while Grenache can be superb on volcanic substrates.
+But granite doesn't tell the whole story. Volcanic soils appear in pockets throughout the region, remnants of ancient volcanic activity. These darker, iron-rich soils yield wines with different aromatic profiles, more savory, more mineral-driven. The best producers have learned which varieties thrive where: Syrah often excels on granite, while Grenache can be superb on volcanic substrates.
 
 Compare this to Amador County immediately south. Amador's vineyards sit lower, mostly 300-600 m, on similar decomposed granite but with less elevation-induced cooling. The wines show it. Amador Zinfandel tends toward power and ripeness; El Dorado Zinfandel (when planted) retains more structure and restraint.
 
 ## Historical Boom and Bust
 
-In 1870, El Dorado ranked as California's third most productive wine region, with 809 ha/2,000 acres under vine. Gold Rush prospectors, many of them European immigrants, had planted cuttings from home—Zinfandel, yes, but also obscure Italian and French varieties whose identities were lost when Prohibition gutted the industry.
+In 1870, El Dorado ranked as California's third most productive wine region, with 809 ha/2,000 acres under vine. Gold Rush prospectors, many of them European immigrants, had planted cuttings from home. Zinfandel, yes, but also obscure Italian and French varieties whose identities were lost when Prohibition gutted the industry.
 
 By the 1960s, vineyard acreage had dwindled to nearly nothing. The modern era began slowly, with pioneers recognizing what the Gold Rush vintners had known: these elevations could produce something distinctive. By the 1980s, El Dorado became a hunting ground for California's Rhône Rangers.
 
-Steve Edmunds of Edmunds St. John was among the first scouts. Searching for Syrah in the mid-1980s, he found it growing at elevations where most California vintners wouldn't consider planting. His wines—tense, peppery, structured—proved El Dorado's potential for varieties beyond the Napa Valley playbook. The Perrin family of Château de Beaucastel in Châteauneuf-du-Pape evaluated El Dorado County in the late 1980s before ultimately choosing Paso Robles for their Tablas Creek project. One wonders what might have been.
+Steve Edmunds of Edmunds St. John was among the first scouts. Searching for Syrah in the mid-1980s, he found it growing at elevations where most California vintners wouldn't consider planting. His wines (tense, peppery, structured) proved El Dorado's potential for varieties beyond the Napa Valley playbook. The Perrin family of Château de Beaucastel in Châteauneuf-du-Pape evaluated El Dorado County in the late 1980s before ultimately choosing Paso Robles for their Tablas Creek project. One wonders what might have been.
 
-Bill Easton established Domaine de la Terre Rouge here, focusing on Syrah and other Rhône varieties. The elevation and granite soils reminded him of Côte-Rôtie and Cornas, though the climate was obviously warmer and drier. Today, the region hosts around 809 ha/2,000 acres and nearly 50 wineries—back to its 1870 acreage but with entirely different ambitions.
+Bill Easton established Domaine de la Terre Rouge here, focusing on Syrah and other Rhône varieties. The elevation and granite soils reminded him of Côte-Rôtie and Cornas, though the climate was obviously warmer and drier. Today, the region hosts around 809 ha/2,000 acres and nearly 50 wineries, back to its 1870 acreage but with entirely different ambitions.
 
 ## The Varietal Landscape
 
@@ -34,7 +34,7 @@ El Dorado's varietal mix reflects its split personality between high-elevation "
 
 **Chardonnay and Riesling**: These cool-climate whites might seem incongruous in the Sierra Foothills, but elevation makes them viable. El Dorado Riesling, particularly from sites above 1,000 m, shows racy acidity, citrus pith, and petrol notes reminiscent of German Riesling, though with riper fruit.
 
-**Zinfandel and Petite Sirah**: The old guard. Some ancient vine Zinfandel survives from pre-Prohibition plantings, though far less than in Amador. El Dorado Zinfandel tends toward structure over power—think 13.5-14% alcohol rather than 15.5-16%.
+**Zinfandel and Petite Sirah**: The old guard. Some ancient vine Zinfandel survives from pre-Prohibition plantings, though far less than in Amador. El Dorado Zinfandel tends toward structure over power, think 13.5-14% alcohol rather than 15.5-16%.
 
 ## The Gamay Experiment
 
@@ -58,7 +58,7 @@ Dick Mansfield has explored these nuances extensively, planting sites that lever
 
 ## Key Producers and Their Philosophies
 
-**Edmunds St. John**: Steve Edmunds sources Syrah and other varieties from El Dorado, producing wines that emphasize structure and savory complexity over fruit bombs. His approach—whole cluster fermentation, neutral oak, minimal intervention—lets the granite terroir speak.
+**Edmunds St. John**: Steve Edmunds sources Syrah and other varieties from El Dorado, producing wines that emphasize structure and savory complexity over fruit bombs. His approach (whole cluster fermentation, neutral oak, minimal intervention) lets the granite terroir speak.
 
 **Domaine de la Terre Rouge**: Bill Easton's project focuses squarely on Rhône varieties, particularly Syrah. The wines show more polish than Edmunds St. John's rustic approach but maintain similar principles: elevation, granite, restraint.
 
@@ -84,11 +84,11 @@ This matters more than producer names or historical trivia. El Dorado wines, at 
 
 Most El Dorado vineyards require some irrigation, despite the decomposed granite's water retention. Annual rainfall averages 800-1,000 mm, concentrated in winter and spring. Summers are essentially rainless. The question isn't whether to irrigate but how much.
 
-The best producers use deficit irrigation—applying just enough water to prevent vine shutdown while maintaining mild stress. This encourages deep rooting and concentrates flavors without pushing vines into survival mode. Some older sites, particularly on deeper soils, can be dry-farmed, though this remains the exception.
+The best producers use deficit irrigation, applying just enough water to prevent vine shutdown while maintaining mild stress. This encourages deep rooting and concentrates flavors without pushing vines into survival mode. Some older sites, particularly on deeper soils, can be dry-farmed, though this remains the exception.
 
 ## What to Drink: Specific Recommendations
 
-- **Edmunds St. John Wylie-Fenaughty Syrah**: When you can find it, this bottling exemplifies El Dorado Syrah—peppery, structured, mineral-driven. Needs 3-5 years to integrate.
+- **Edmunds St. John Wylie-Fenaughty Syrah**: When you can find it, this bottling exemplifies El Dorado Syrah, peppery, structured, mineral-driven. Needs 3-5 years to integrate.
 
 - **Domaine de la Terre Rouge Sentinel Oak Vineyard Syrah**: More polished than Edmunds St. John but equally serious. Shows what El Dorado Syrah can do with careful winemaking.
 
@@ -122,7 +122,7 @@ El Dorado wines' structural tension and moderate alcohol make them food-friendly
 
 ## The Future Trajectory
 
-El Dorado stands at an inflection point. Climate change may actually benefit the region—as lower-elevation California regions become too warm, El Dorado's altitude offers a buffer. Varieties struggling in Napa or Paso Robles may find refuge here.
+El Dorado stands at an inflection point. Climate change may actually benefit the region, as lower-elevation California regions become too warm, El Dorado's altitude offers a buffer. Varieties struggling in Napa or Paso Robles may find refuge here.
 
 The next generation of winemakers is arriving, often with natural wine inclinations. Expect more whole cluster fermentation, less new oak, more experimentation with obscure varieties. The Gamay experiment was just the beginning.
 
@@ -132,7 +132,7 @@ But fire risk remains the wildcard. A single severe fire season could devastate 
 
 El Dorado proves that California can produce wines of restraint, structure, and genuine terroir expression. The granite soils, extreme elevations, and dramatic diurnal swings create conditions unlike anywhere else in the state. This isn't Napa Valley with a view. It's something distinct.
 
-The region's challenge is communication. Too many wine drinkers lump El Dorado into "Sierra Foothills" without understanding what elevation and granite contribute. The wines deserve closer attention. They offer an alternative California—one where 13.5% alcohol isn't a failure, where minerality isn't a marketing term, where wines can actually pair with food.
+The region's challenge is communication. Too many wine drinkers lump El Dorado into "Sierra Foothills" without understanding what elevation and granite contribute. The wines deserve closer attention. They offer an alternative California, one where 13.5% alcohol isn't a failure, where minerality isn't a marketing term, where wines can actually pair with food.
 
 For those willing to explore beyond the established regions, El Dorado offers rewards. The wines won't coddle you with overripe fruit or oak sweetness. They demand attention, food, and patience. That's precisely their appeal.
 

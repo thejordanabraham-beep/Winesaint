@@ -1,6 +1,6 @@
 # Aÿ: The Grand Cru Heartbeat of Champagne's Pinot Noir
 
-The village of Aÿ sits at the epicenter of Pinot Noir excellence in Champagne. This is not hyperbole. While Cramant owns Chardonnay and Le Mesnil-sur-Oger claims mineral precision, Aÿ has defined what great Pinot Noir can achieve in chalk since long before the méthode champenoise existed. The village earned Grand Cru status in the original 1927 Échelle des Crus—a classification that recognized what merchants had known for centuries: Aÿ's black grapes command premium prices because they deliver unmatched structure and vinosity.
+The village of Aÿ sits at the epicenter of Pinot Noir excellence in Champagne. This is not hyperbole. While Cramant owns Chardonnay and Le Mesnil-sur-Oger claims mineral precision, Aÿ has defined what great Pinot Noir can achieve in chalk since long before the méthode champenoise existed. The village earned Grand Cru status in the original 1927 Échelle des Crus: a classification that recognized what merchants had known for centuries: Aÿ's black grapes command premium prices because they deliver unmatched structure and vinosity.
 
 What makes this 350-hectare commune exceptional isn't just its chalk subsoil or south-facing slopes. It's the specific intersection of Campanian chalk depth, mesoclimate protection, and a winemaking culture that prizes power over elegance. Aÿ Champagnes don't whisper. They announce themselves with authority.
 
@@ -8,7 +8,7 @@ What makes this 350-hectare commune exceptional isn't just its chalk subsoil or 
 
 Aÿ's vineyards rest on Campanian chalk dating to approximately 75-70 million years ago, when this region lay beneath the Paris Basin sea. This isn't the same chalk found everywhere in Champagne. The Campanian layer here reaches depths of 200-300 meters in places, creating exceptional drainage while maintaining steady water supply through capillary action during dry periods.
 
-The critical distinction lies in what sits above this chalk. Aÿ's topsoil is notably thin—often just 20-30 centimeters of clay-loam over the chalk bedrock. This shallow soil profile forces vine roots to penetrate the chalk early, creating moderate water stress that concentrates flavors and controls vigor. Compare this to nearby Dizy, where deeper clay deposits produce rounder, softer Pinot Noir with less structural backbone.
+The critical distinction lies in what sits above this chalk. Aÿ's topsoil is notably thin, often just 20-30 centimeters of clay-loam over the chalk bedrock. This shallow soil profile forces vine roots to penetrate the chalk early, creating moderate water stress that concentrates flavors and controls vigor. Compare this to nearby Dizy, where deeper clay deposits produce rounder, softer Pinot Noir with less structural backbone.
 
 The chalk here exhibits high active limestone content, typically 40-50% calcium carbonate. This regulates soil pH between 7.8-8.2, creating an alkaline environment that influences both vine physiology and the bacterial populations on grape skins. Recent research into vineyard microbiology suggests these chalk-derived terroirs harbor distinct fungal and bacterial communities that may influence fermentation character, though the mechanisms remain incompletely understood.
 
@@ -16,7 +16,7 @@ The chalk here exhibits high active limestone content, typically 40-50% calcium 
 
 Aÿ occupies a privileged position in the Vallée de la Marne. The village sits on the right bank of the Marne River, where a series of south and southeast-facing slopes rise 90-180 meters above sea level. This orientation is crucial. While Champagne's overall macroclimate is marginal for viticulture (mean annual temperature of 10.4°C), Aÿ's mesoclimate benefits from several moderating factors.
 
-The Marne River itself provides thermal regulation, moderating both spring frost risk and summer heat extremes. More significantly, the Montagne de Reims forest to the north blocks cold winds, while the valley orientation funnels warmer air from the south. This creates a temperature differential of 0.5-1.0°C compared to north-facing sites just kilometers away—a meaningful advantage when every degree matters for Pinot Noir ripening.
+The Marne River itself provides thermal regulation, moderating both spring frost risk and summer heat extremes. More significantly, the Montagne de Reims forest to the north blocks cold winds, while the valley orientation funnels warmer air from the south. This creates a temperature differential of 0.5-1.0°C compared to north-facing sites just kilometers away: a meaningful advantage when every degree matters for Pinot Noir ripening.
 
 The canopy microclimate here deserves attention. Aÿ's growers traditionally favor lower-density plantings (7,000-8,000 vines per hectare) compared to the Côte des Blancs (often 9,000-10,000 vines/ha). This reflects Pinot Noir's vigor on these soils and the need for adequate sun exposure to achieve phenolic ripeness. The standard training system remains Cordon de Royat or Chablis, with careful canopy management to balance fruit exposure against sunburn risk during hot vintages.
 
@@ -30,17 +30,17 @@ This power reflects both terroir and harvest decisions. Aÿ growers can typicall
 
 ## The Grandes Marques: Bollinger's Dominance
 
-No discussion of Aÿ is complete without Bollinger. The house owns approximately 68 hectares in Aÿ—nearly 20% of the commune's vineyards—including some of the most privileged parcels. Their holdings include substantial portions of Clos Saint-Jacques, Croix Rouge, and Chaudes Terres, all on mid-slope positions with optimal drainage and sun exposure.
+No discussion of Aÿ is complete without Bollinger. The house owns approximately 68 hectares in Aÿ, nearly 20% of the commune's vineyards, including some of the most privileged parcels. Their holdings include substantial portions of Clos Saint-Jacques, Croix Rouge, and Chaudes Terres, all on mid-slope positions with optimal drainage and sun exposure.
 
 Bollinger's approach to Aÿ fruit defines the village style. They ferment in small oak barrels (not stainless steel), use reserve wines aged in magnums under cork (not tanks), and practice full malolactic fermentation. The flagship Special Cuvée typically contains 60% Pinot Noir, with the majority sourced from Aÿ Grand Cru sites. The wine's signature brioche richness and structured palate directly express Aÿ's terroir filtered through traditional winemaking.
 
 The prestige cuvée La Grande Année takes this further. In strong vintages, this wine is predominantly Aÿ Pinot Noir (often 65-70%), vinified in oak and aged 8-10 years before release. The 2008 vintage, released in 2017, demonstrates Aÿ's capacity for age: taut, mineral-driven, with black fruit concentration and a decade of development ahead.
 
-Bollinger's monopole vineyard, Vieilles Vignes Françaises, deserves special mention. This 0.35-hectare parcel of ungrafted, pre-phylloxera Pinot Noir (planted 1969) produces perhaps 2,000-3,000 bottles annually. The wine is 100% Aÿ, 100% Pinot Noir, fermented in barrel without malolactic. It's an extreme expression—dense, phenolic, sometimes challenging in youth—that shows what Aÿ chalk can achieve when vine roots penetrate 3-4 meters deep without rootstock interference.
+Bollinger's monopole vineyard, Vieilles Vignes Françaises, deserves special mention. This 0.35-hectare parcel of ungrafted, pre-phylloxera Pinot Noir (planted 1969) produces perhaps 2,000-3,000 bottles annually. The wine is 100% Aÿ, 100% Pinot Noir, fermented in barrel without malolactic. It's an extreme expression (dense, phenolic, sometimes challenging in youth) that shows what Aÿ chalk can achieve when vine roots penetrate 3-4 meters deep without rootstock interference.
 
 ## Gosset: The Aÿ Classicist
 
-Founded in 1584, Gosset is Champagne's oldest wine house, though now based in Épernay. Their historical roots in Aÿ remain evident in their blending philosophy. Gosset's Grande Réserve contains approximately 45% Pinot Noir, with significant Aÿ fruit providing structure. More tellingly, they practice zero malolactic fermentation across their range—a minority position in modern Champagne that preserves Aÿ's natural acidity and tension.
+Founded in 1584, Gosset is Champagne's oldest wine house, though now based in Épernay. Their historical roots in Aÿ remain evident in their blending philosophy. Gosset's Grande Réserve contains approximately 45% Pinot Noir, with significant Aÿ fruit providing structure. More tellingly, they practice zero malolactic fermentation across their range: a minority position in modern Champagne that preserves Aÿ's natural acidity and tension.
 
 The Celebris vintage cuvée (formerly Grand Millésime) showcases Aÿ in top years. The 2007 vintage contains roughly 60% Pinot Noir, heavily weighted toward Aÿ and Ambonnay fruit. The wine shows Aÿ's characteristic black cherry core, chalky minerality, and firm structure, but Gosset's no-ML approach preserves more citric freshness than Bollinger's richer style. This demonstrates an important point: Aÿ provides the raw material, but house style shapes the final expression.
 
@@ -56,7 +56,7 @@ Pierre Gatinois, the current generation, has experimented with single-parcel bot
 
 Deutz, based in Aÿ since 1838, maintains 42 hectares of estate vineyards, with significant holdings in the commune. Their Brut Classic contains approximately 40% Pinot Noir, with Aÿ fruit providing backbone. But the prestige cuvée Amour de Deutz reveals the house's Aÿ philosophy most clearly.
 
-This vintage blanc de blancs might seem an odd choice to highlight Aÿ, but the Deutz style—structured, vinous, age-worthy—reflects the house's location and historical focus on Pinot Noir. The vintage rosé, William Deutz, typically contains 60-65% Pinot Noir, with substantial Aÿ fruit macerated for color and tannin extraction. This produces one of Champagne's most structured rosés, requiring 5-7 years to integrate.
+This vintage blanc de blancs might seem an odd choice to highlight Aÿ, but the Deutz style (structured, vinous, age-worthy) reflects the house's location and historical focus on Pinot Noir. The vintage rosé, William Deutz, typically contains 60-65% Pinot Noir, with substantial Aÿ fruit macerated for color and tannin extraction. This produces one of Champagne's most structured rosés, requiring 5-7 years to integrate.
 
 ## Lieux-Dits and Parcel Distinctions
 
@@ -84,15 +84,15 @@ Despite the chalk subsoil, Aÿ's clay-loam topsoil can produce vigorous vines, p
 
 **Canopy management**: Aggressive leaf removal on the east (morning sun) side, more conservative on the west to prevent sunburn. Shoot positioning to maximize air circulation and reduce botrytis pressure.
 
-The organic/biodynamic movement has found particular traction in Aÿ. Bollinger's conversion of their Aÿ holdings represents one of Champagne's largest biodynamic projects. The motivation is partly philosophical but also practical: biodynamic practices (lower yields, no synthetic inputs, enhanced soil biology) tend to produce more concentrated fruit with better phenolic maturity—exactly what Aÿ's terroir can deliver.
+The organic/biodynamic movement has found particular traction in Aÿ. Bollinger's conversion of their Aÿ holdings represents one of Champagne's largest biodynamic projects. The motivation is partly philosophical but also practical: biodynamic practices (lower yields, no synthetic inputs, enhanced soil biology) tend to produce more concentrated fruit with better phenolic maturity, exactly what Aÿ's terroir can deliver.
 
 ## Harvest Timing: The Ripeness Debate
 
 When to harvest Pinot Noir in Aÿ remains contentious. The traditional approach targets 10% potential alcohol, harvesting for acidity and freshness. This worked when dosage levels exceeded 12 g/L and malolactic fermentation was universal. But modern tastes favor lower dosage (6-8 g/L) and some houses skip malolactic, exposing any green, underripe character.
 
-Aÿ's mesoclimate permits later harvesting than cooler sites. Growers increasingly wait for phenolic ripeness—when skins, seeds, and stems mature beyond simple sugar accumulation. This might mean harvesting at 10.5-11% potential alcohol, accepting lower acidity (7 g/L vs. 8 g/L) in exchange for better texture and no green tannins.
+Aÿ's mesoclimate permits later harvesting than cooler sites. Growers increasingly wait for phenolic ripeness, when skins, seeds, and stems mature beyond simple sugar accumulation. This might mean harvesting at 10.5-11% potential alcohol, accepting lower acidity (7 g/L vs. 8 g/L) in exchange for better texture and no green tannins.
 
-The risk is overripeness. In hot vintages (2003, 2015, 2018, 2022), Aÿ's warm mesoclimate can push Pinot Noir toward raisinned character and high pH if harvest delays too long. This requires careful monitoring and sometimes picking different parcels on different dates—Chaudes Terres before Croix Rouge, for example.
+The risk is overripeness. In hot vintages (2003, 2015, 2018, 2022), Aÿ's warm mesoclimate can push Pinot Noir toward raisinned character and high pH if harvest delays too long. This requires careful monitoring and sometimes picking different parcels on different dates. Chaudes Terres before Croix Rouge, for example.
 
 ## Comparing Aÿ to Neighboring Terroirs
 
@@ -112,7 +112,7 @@ The pattern is clear: Aÿ occupies a sweet spot of ripeness and structure. Warm 
 
 Aÿ has historically supplied Pinot Noir for rosé Champagne, both through saignée (bleeding off juice after brief maceration) and assemblage (blending white wine with red wine). The village's structured, phenolic Pinot Noir is particularly suited to maceration-based rosés.
 
-Bollinger's La Côte aux Enfants rosé demonstrates this approach. They macerate Aÿ Pinot Noir for several hours (exact timing varies by vintage), extracting color, tannin, and flavor compounds. The result is a rosé with genuine structure and aging potential, not just pretty color. The 2012 vintage, for example, shows salmon-copper hue, red cherry, blood orange, and firm, almost tannic grip—a world away from pale, delicate rosés made by assemblage.
+Bollinger's La Côte aux Enfants rosé demonstrates this approach. They macerate Aÿ Pinot Noir for several hours (exact timing varies by vintage), extracting color, tannin, and flavor compounds. The result is a rosé with genuine structure and aging potential, not just pretty color. The 2012 vintage, for example, shows salmon-copper hue, red cherry, blood orange, and firm, almost tannic grip: a world away from pale, delicate rosés made by assemblage.
 
 This style has fallen from fashion as consumers increasingly favor pale, fresh rosés. But it represents Aÿ's historical contribution to Champagne rosé production and showcases what the terroir can achieve when winemakers embrace its natural power.
 

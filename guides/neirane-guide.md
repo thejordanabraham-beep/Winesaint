@@ -1,0 +1,33 @@
+# Neirane
+
+## Introduction
+
+Neirane is one of the lesser-known Menzioni Geografiche Aggiuntive (MGAs) within the commune of Serralunga d'Alba, the easternmost of Barolo's five principal townships. While Serralunga d'Alba has long been celebrated for producing some of Barolo's most structured, age-worthy wines, Neirane occupies a quieter position in the hierarchy of the commune's vineyard sites. The research literature and critical consensus on Barolo's finest crus consistently highlight Francia, Lazzarito, Ceretta, Arione, and Vignarionda as Serralunga's most prestigious MGAs, leaving Neirane among the commune's secondary sites (recognized officially within the MGA system but without the historical acclaim or market recognition of its more celebrated neighbors.
+
+This relative obscurity should not be mistaken for lack of merit. The introduction of the MGA system formalized the recognition of numerous vineyard sites throughout the Barolo zone that, while perhaps not commanding the highest prices or critical scores, nonetheless represent legitimate expressions of their specific terroir. Neirane's inclusion in this official registry acknowledges its distinct identity within Serralunga's viticultural landscape, even as it remains less documented in the wine literature than the commune's premier sites.
+
+## The Serralunga Context
+
+To understand Neirane, one must first appreciate the broader context of Serralunga d'Alba's terroir and its distinctive place within Barolo. Serralunga represents one of the five historical core townships of Barolo, alongside La Morra, Barolo, Castiglione Falletto, and Monforte d'Alba. This quintet has formed "the core of Barolo" since the denomination's early delimitation work in the late 19th century.
+
+Serralunga d'Alba occupies the eastern portion of the Barolo zone, and its wines have long been recognized for their particular characteristics. The commune's vineyards generally produce Barolos noted for their formidable structure, powerful tannins, and exceptional longevity. These are wines built for extended aging, often requiring a decade or more to begin revealing their full complexity. The muscle and backbone typical of Serralunga Barolos stand in contrast to the often more perfumed, elegant expressions from La Morra or the balanced synthesis achieved in Castiglione Falletto.
+
+The geological underpinnings of Serralunga contribute significantly to these characteristics. While modern terroir studies, building on the foundational work of Dr. Gérard Seguin at the University of Bordeaux, emphasize that soil's physical characteristics often predominate over chemical composition in determining wine quality, the general terroir conditions of Serralunga) its particular soils, exposures, and mesoclimate, create an environment that consistently yields wines of marked power and structure.
+
+## Wine Characteristics
+
+Wines from Neirane, as with all Serralunga-based Barolos, are likely to express the commune's characteristic strength and structural intensity, though the lack of extensive critical documentation makes it difficult to identify specific aromatic or textural signatures unique to this MGA. The broader Serralunga style provides a framework for expectation: these are Barolos that showcase Nebbiolo's formidable tannic structure, requiring the extended oak maturation and bottle aging that have long been hallmarks of the appellation.
+
+The modern evolution of Barolo winemaking applies as much to lesser-known sites like Neirane as to the famous crus. Contemporary improvements in vineyard management and gentler extraction methods have resulted in wines with smoother, riper tannins across the appellation, leading many producers to choose shorter maturation periods than the traditional lengthy aging in large casks. Whether vinified in small barrels (sometimes including new oak) or traditional large casks depends entirely on individual producer philosophy, but all Barolo wines, regardless of their origin site, tend to benefit from further bottle aging. This extended maturation continues to soften tannins and adds complexity, developing the classic tertiary aromas of truffles, tar, and leather that define mature Nebbiolo.
+
+## Market Position and Recognition
+
+The paradox of the MGA system is that while it has formalized the recognition of vineyard sites like Neirane, it has simultaneously reinforced the hierarchy among them. As Alessandro Masnaghetti has noted in his attempts at unofficial classification, not all MGAs command equal prestige. The critical shortlists of Barolo's finest crus, built on both written tradition (from Lorenzo Fantini in the late 19th century through Luigi Veronelli, Renato Ratti, and Masnaghetti himself) and the oral tradition of the zone, consistently exclude Neirane from the top tier.
+
+This stratification has become increasingly significant in the marketplace. As prices for top-quality Bordeaux and Burgundy have risen since 2010, fine wine merchants, collectors, and buyers have looked toward Nebbiolo as an alternative for age-worthy, collectible wines. Within this context, "the new focus on named sub-zones within Barolo and Barbaresco is beginning to have traction in the market, at least for the better known sub-zones." The emphasis on "better known" is telling (MGAs like Francia, Lazzarito, and Cannubi can command premium prices based on their reputations, while sites like Neirane remain accessible at lower price points.
+
+## Conclusion
+
+Neirane represents the reality of Barolo's complex viticultural landscape: not every MGA can be a Francia or a Cannubi, yet each contributes to the appellation's diversity and offers consumers varying access points to Serralunga's distinctive expression of Nebbiolo. For those seeking wines that express Serralunga's characteristic power without the premium pricing of the commune's most celebrated sites, Neirane-designated Barolos may offer compelling value. The site's relative anonymity in the wine literature reflects not necessarily a quality deficiency but rather the concentration of critical and commercial attention on a smaller number of historically prestigious crus) a dynamic familiar to anyone who has navigated Burgundy's complex hierarchy of climats.
+
+In an era when even "economy Barolo" in the form of Langhe Nebbiolo has taken the market by storm, offering more accessible expressions of this noble variety, the lesser-known MGAs like Neirane occupy an interesting middle ground: more specific and theoretically distinguished than simple Langhe Nebbiolo, yet without the prestige and pricing of the famous crus. They are, in essence, the deep vineyards of Barolo, worthy of attention from those willing to explore beyond the established names.

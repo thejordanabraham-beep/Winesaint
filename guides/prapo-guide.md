@@ -1,0 +1,41 @@
+# Prapò
+
+## Introduction
+
+Prapò is a Menzione Geografica Aggiuntiva (MGA) located in the commune of Serralunga d'Alba, one of Barolo's five historic core townships. While Serralunga d'Alba itself stands among the most prestigious communes in the Barolo denomination, alongside La Morra, Barolo, Castiglione Falletto, and Monforte d'Alba. Prapò occupies a more modest position within the commune's hierarchy of recognized vineyard sites. Unlike Serralunga's most celebrated MGAs (Francia, Lazzarito, Ceretta, Arione, and Vignarionda) which regularly appear on shortlists of Barolo's finest crus, Prapò remains a lesser-documented site, worked by a smaller number of producers and less frequently encountered as a single-vineyard bottling.
+
+The introduction of the MGA system brought official recognition to Barolo's multitude of historically recognized vineyard sites, addressing what had been a paradoxical situation since the 1980s: the proliferation of single-vineyard bottlings in the absence of any official classification. While the MGAs are identified as 'crus,' they remain unclassified in terms of quality hierarchy, though producers, writers, and the market have long maintained their own understanding of which sites merit the greatest attention.
+
+## Serralunga d'Alba: The Commune Context
+
+To understand Prapò, one must first understand Serralunga d'Alba itself. The commune represents a distinct viticultural zone within Barolo, characterized by the more compact, limestone-rich marls of the Serravallian geological formation. This contrasts with the sandier, Tortonian soils that dominate in La Morra and parts of Barolo village, creating a fundamental geological divide within the denomination that manifests clearly in the glass.
+
+Serralunga's wines are traditionally recognized as among Barolo's most powerful and structured expressions. The commune's vineyards produce Barolos marked by firm tannins, pronounced acidity, considerable extract, and the capacity for extended cellaring. These are wines that demand patience, often requiring a decade or more to reveal their complexity, and they can age gracefully for several decades in the finest vintages. The aromatic profile typically emphasizes darker fruit (black cherry, plum, blackberry) alongside notes of iron, tar, leather, dried herbs, and with age, the haunting complexities of truffle, tobacco, and dried roses.
+
+The influence of terroir in Barolo (as in all marginal, cool-climate viticulture) is profound. Physical soil characteristics predominate over chemical composition in determining vine behavior and wine quality. Well-regulated water supply, achieved through moderate fertility and appropriate drainage, emerges as the critical factor. The manner in which vine roots navigate the complex layering of soil strata dictates access to water and nutrients throughout the growing season, creating the physiological conditions that lead to optimal ripening and concentrated fruit.
+
+## Terroir and Viticultural Character
+
+While specific documentation on Prapò's precise terroir characteristics remains limited, the site necessarily shares the broader geological and climatic attributes of Serralunga d'Alba. The commune's vineyards occupy varied elevations and exposures across its hillsides, with differences in topography, aspect, and soil depth creating distinct mesoclimates even within relatively small areas. These variations manifest as differences in vine vigor, ripening patterns, and ultimately, wine character.
+
+Serralunga's position in the eastern portion of the Barolo zone, with its Serravallian soils, provides the structural foundation for wines of considerable power. The limestone-rich marls offer good drainage while maintaining sufficient water-holding capacity during the growing season (the balance that Professor Gérard Seguin's foundational research in Bordeaux identified as crucial for quality viticulture. The physical structure of these soils, their layering, compaction, and depth, governs how vine roots explore the subsurface and how the plant regulates its water status through the season.
+
+Elevation and exposure significantly influence ripening dynamics. Higher sites benefit from greater diurnal temperature variation, preserving acidity while allowing phenolic ripeness to develop. Southern and southwestern exposures maximize sun interception, crucial in this marginal climate where Nebbiolo pushes the boundaries of reliable ripening. The grape's naturally high acidity and powerful tannins demand full phenolic maturity to achieve balance) a goal more readily achieved on favorably positioned sites.
+
+## Wine Characteristics
+
+Barolo from Serralunga d'Alba, and by extension from its constituent MGAs including Prapò, expresses the structural character for which the commune is renowned. These are wines built for the long term, marked by substantial tannic frameworks and bright acidity that provide both the spine for aging and the challenge for impatient consumers. In youth, Serralunga Barolos can appear austere, even forbidding, their tannins gripping and their fruit masked by structure. Time in bottle allows these elements to integrate and evolve.
+
+The aromatic profile typically moves through stages: youthful notes of dark cherry, violet, and fresh herbs gradually yield to more complex expressions of tar, iron, dried roses, leather, licorice, and forest floor. The palate combines power with a certain austerity (this is not the more immediately sensual, perfumed style of La Morra's Brunate or the elegance of Castiglione Falletto's Villero, but rather a muscular, mineral-driven expression that privileges structure over opulence.
+
+Modern viticultural practices) improved canopy management, more precise harvest timing, gentler extraction (have rendered contemporary Serralunga Barolos more approachable in their youth than the formidable wines of previous generations, which required extensive aging in large Slavonian oak botti to soften their tannic asperity. Today's wines, while still structured, show riper tannins and more expressive fruit, though they retain the capacity for extended cellaring that defines serious Barolo.
+
+## Producers and Market Position
+
+Prapò's relatively low profile among Serralunga's MGAs suggests limited production and fewer dedicated bottlings compared to the commune's more celebrated sites. The absence of widespread critical commentary or extensive producer portfolios featuring Prapò as a single-vineyard designate indicates that the site functions more as a component in communal blends or appears occasionally in smaller producer portfolios rather than standing as a recognized grand cru in its own right.
+
+This does not necessarily reflect on the quality potential of the site, but rather on its historical recognition, market positioning, and the business decisions of the producers who control parcels within its boundaries. The Barolo landscape includes numerous MGAs that produce excellent wine yet lack the historical prestige or critical mass of production to achieve wider recognition. In an appellation where even unofficial quality hierarchies exist) reflected in grape prices and critical attention, not all officially recognized crus occupy the same position.
+
+## Conclusion
+
+Prapò represents one of Serralunga d'Alba's many officially recognized vineyard sites, participating in the commune's distinctive terroir while occupying a modest position within Barolo's complex hierarchy of crus. For wine enthusiasts exploring beyond the most famous names, such sites offer the opportunity to experience authentic expressions of place at potentially more accessible price points, made by producers who may bottle them as part of their standard Barolo Serralunga d'Alba offerings or as occasional single-vineyard releases. The wines would be expected to show the structural character, firm tannins, and aging potential that define quality Serralunga Barolo, if perhaps without the additional layers of complexity and refinement that distinguish the commune's most privileged positions.

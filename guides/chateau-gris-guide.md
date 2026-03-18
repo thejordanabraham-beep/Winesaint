@@ -6,7 +6,7 @@ Château Gris stands as one of Nuits-Saint-Georges' most distinguished Premier C
 
 The climat extends along the mid-slope of the Côte de Nuits escarpment, benefiting from the optimal exposition and geological conditions that have made this stretch of Burgundian hillside legendary among wine enthusiasts. Château Gris forms part of the seamless viticultural landscape that connects Nuits-Saint-Georges to its northern neighbor Vosne-Romanée, sharing similar geological foundations and climatic influences that characterize this exceptional terroir.
 
-Within the broader context of the Côte de Nuits, Château Gris represents the sophisticated terroir expression typical of Nuits-Saint-Georges' premier cru sites—more structured and mineral-driven than many Côte de Beaune counterparts, yet displaying the elegance and complexity that distinguishes premier cru sites from village-level vineyards. The climat's position places it squarely within the zone where Burgundy's greatest red wines achieve their characteristic balance of power and finesse.
+Within the broader context of the Côte de Nuits, Château Gris represents the sophisticated terroir expression typical of Nuits-Saint-Georges' premier cru sites, more structured and mineral-driven than many Côte de Beaune counterparts, yet displaying the elegance and complexity that distinguishes premier cru sites from village-level vineyards. The climat's position places it squarely within the zone where Burgundy's greatest red wines achieve their characteristic balance of power and finesse.
 
 ## Size
 
@@ -52,11 +52,11 @@ The primary viticultural challenges in Château Gris include managing the varyin
 
 Wines from Château Gris display the sophisticated complexity and structural elegance that exemplify Nuits-Saint-Georges premier cru at its finest. The climat produces wines of notable depth and concentration while maintaining the finesse and mineral precision that distinguish premier cru sites from village-level vineyards.
 
-The aromatic profile typically features a complex bouquet combining red and black fruit elements—cherry, raspberry, and blackcurrant—with distinctive earth and mineral notes reflecting the limestone-clay terroir. Floral elements, particularly violet and rose, frequently appear in wines from Château Gris, along with subtle spice notes including cinnamon, clove, and white pepper that develop with bottle age.
+The aromatic profile typically features a complex bouquet combining red and black fruit elements (cherry, raspberry, and blackcurrant) with distinctive earth and mineral notes reflecting the limestone-clay terroir. Floral elements, particularly violet and rose, frequently appear in wines from Château Gris, along with subtle spice notes including cinnamon, clove, and white pepper that develop with bottle age.
 
 On the palate, Château Gris wines demonstrate excellent structure with firm but refined tannins that provide aging potential while remaining approachable in their youth. The mineral backbone, derived from the limestone substrate, runs through the wine's structure, providing tension and length that carries the fruit and earth flavors through an extended finish.
 
-The texture typically shows medium to full body with a silky, refined mouthfeel that distinguishes premier cru sites from more rustic village wines. The integration of oak—when used judiciously—complements rather than dominates the terroir expression, adding subtle vanilla and toast notes without masking the wine's essential character.
+The texture typically shows medium to full body with a silky, refined mouthfeel that distinguishes premier cru sites from more rustic village wines. The integration of oak (when used judiciously) complements rather than dominates the terroir expression, adding subtle vanilla and toast notes without masking the wine's essential character.
 
 Château Gris wines characteristically display excellent balance between power and elegance, avoiding the sometimes overwhelming structure found in some Nuits-Saint-Georges premiers crus while maintaining sufficient concentration and complexity to reward extended cellaring. The natural acidity provides freshness and food compatibility while supporting long-term development.
 

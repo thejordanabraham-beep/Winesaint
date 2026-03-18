@@ -1,24 +1,24 @@
 # Valdeorras: Galicia's Eastern Frontier
 
-Valdeorras doesn't fit the Galician stereotype. While the rest of Spain's northwest corner drowns in Atlantic rainfall, this easternmost DO of Galicia bakes in continental heat. Where other Galician regions cultivate maritime grapes on granite, Valdeorras grows continental varieties on slate. The name means "valley of gold"—a reference to the region's Roman-era gold mines, not its wines. But the moniker has proven prophetic. After decades of bulk wine obscurity, Valdeorras has emerged as one of Spain's most compelling white wine regions, driven by the resurrection of Godello, a variety that nearly disappeared in the 1970s.
+Valdeorras doesn't fit the Galician stereotype. While the rest of Spain's northwest corner drowns in Atlantic rainfall, this easternmost DO of Galicia bakes in continental heat. Where other Galician regions cultivate maritime grapes on granite, Valdeorras grows continental varieties on slate. The name means "valley of gold", a reference to the region's Roman-era gold mines, not its wines. But the moniker has proven prophetic. After decades of bulk wine obscurity, Valdeorras has emerged as one of Spain's most compelling white wine regions, driven by the resurrection of Godello, a variety that nearly disappeared in the 1970s.
 
-The transformation is recent and dramatic. In 1985, Godello represented less than 5% of plantings. Today it accounts for roughly 40% of the region's 1,300 hectares. This is not a gradual evolution—it's a wholesale reinvention of regional identity.
+The transformation is recent and dramatic. In 1985, Godello represented less than 5% of plantings. Today it accounts for roughly 40% of the region's 1,300 hectares. This is not a gradual evolution, it's a wholesale reinvention of regional identity.
 
 ## GEOLOGY
 
 ### The Galician Massif
 
-Valdeorras sits at the eastern edge of the Galician Massif, an ancient geological formation that dominates northwest Iberia. The bedrock here dates to the Paleozoic Era, primarily from the Ordovician and Silurian periods (485 to 419 million years ago). This makes Valdeorras geologically ancient compared to most Spanish wine regions—far older than the limestone platforms of Ribera del Duero or the alluvial terraces of Rioja.
+Valdeorras sits at the eastern edge of the Galician Massif, an ancient geological formation that dominates northwest Iberia. The bedrock here dates to the Paleozoic Era, primarily from the Ordovician and Silurian periods (485 to 419 million years ago). This makes Valdeorras geologically ancient compared to most Spanish wine regions, far older than the limestone platforms of Ribera del Duero or the alluvial terraces of Rioja.
 
 The dominant parent material is slate (pizarra), interspersed with schist, quartzite, and granite. These are metamorphic rocks, formed when sedimentary deposits were subjected to intense heat and pressure during the Variscan orogeny approximately 300 million years ago. The result is a landscape of fractured, layered rock that weathers slowly and drains aggressively.
 
 ### Soil Composition and Vineyard Distribution
 
-The valley floor, where the Sil River flows west toward its confluence with the Miño, contains deeper alluvial soils—mixtures of sand, silt, and clay deposited over millennia. These fertile valley soils produce high yields and dilute wines. They're planted primarily to Palomino and other bulk varieties that feed Spain's brandy industry.
+The valley floor, where the Sil River flows west toward its confluence with the Miño, contains deeper alluvial soils, mixtures of sand, silt, and clay deposited over millennia. These fertile valley soils produce high yields and dilute wines. They're planted primarily to Palomino and other bulk varieties that feed Spain's brandy industry.
 
-The quality vineyards climb the valley slopes, where slate dominates. These soils are shallow, rarely exceeding 50 centimeters in depth, and extremely poor in organic matter—typically less than 2%. The slate fractures along natural cleavage planes, allowing vine roots to penetrate deeply despite the apparent rockiness. Water-holding capacity is minimal, creating natural drought stress even in years with adequate rainfall.
+The quality vineyards climb the valley slopes, where slate dominates. These soils are shallow, rarely exceeding 50 centimeters in depth, and extremely poor in organic matter, typically less than 2%. The slate fractures along natural cleavage planes, allowing vine roots to penetrate deeply despite the apparent rockiness. Water-holding capacity is minimal, creating natural drought stress even in years with adequate rainfall.
 
-The best sites for Godello lie on south and southeast-facing slopes between 300 and 600 meters elevation, where slate content is highest. Here the soils are gray to blue-gray, sometimes with a reddish tinge from iron oxide. The slate imparts a distinctive mineral character to the wines—a saline, almost graphite-like quality that distinguishes Valdeorras Godello from versions grown on granite in neighboring Ribeira Sacra.
+The best sites for Godello lie on south and southeast-facing slopes between 300 and 600 meters elevation, where slate content is highest. Here the soils are gray to blue-gray, sometimes with a reddish tinge from iron oxide. The slate imparts a distinctive mineral character to the wines: a saline, almost graphite-like quality that distinguishes Valdeorras Godello from versions grown on granite in neighboring Ribeira Sacra.
 
 For red varieties, particularly Mencía, growers favor sites with more clay content, typically found at slightly lower elevations or in areas where the slate has weathered into finer particles. The clay provides better water retention during the hot summer months and contributes to the structure and aging potential of red wines.
 
@@ -26,13 +26,13 @@ For red varieties, particularly Mencía, growers favor sites with more clay cont
 
 The contrast with neighboring Ribeira Sacra, just 50 kilometers west, is instructive. Ribeira Sacra's vineyards grow almost exclusively on granite, which weathers into sandy, acidic soils. Wines from granite tend toward aromatic intensity and lighter body. Valdeorras slate, by comparison, produces wines with more textural weight and mineral backbone.
 
-The geological transition is abrupt. Drive west from Valdeorras and within 30 kilometers the slate gives way to granite. This boundary marks not just a change in soil type but a fundamental shift in wine character—from the structured, mineral-driven whites of Valdeorras to the more aromatic, delicate wines of Ribeira Sacra.
+The geological transition is abrupt. Drive west from Valdeorras and within 30 kilometers the slate gives way to granite. This boundary marks not just a change in soil type but a fundamental shift in wine character, from the structured, mineral-driven whites of Valdeorras to the more aromatic, delicate wines of Ribeira Sacra.
 
 ## CLIMATE
 
 ### Continental with Atlantic Echoes
 
-Valdeorras experiences a transitional climate, caught between Atlantic maritime influences from the west and continental conditions from the Castilian plateau to the east. The result is a climate that defies easy categorization—cooler and wetter than interior Spain, but warmer and drier than coastal Galicia.
+Valdeorras experiences a transitional climate, caught between Atlantic maritime influences from the west and continental conditions from the Castilian plateau to the east. The result is a climate that defies easy categorization, cooler and wetter than interior Spain, but warmer and drier than coastal Galicia.
 
 Annual rainfall averages 850 millimeters, concentrated heavily in winter and spring. This is roughly half the precipitation of Rías Baixas (1,600mm) but double that of Ribera del Duero (450mm). The rain shadow effect from the mountains that separate Valdeorras from the Atlantic coast is significant but incomplete. Atlantic weather systems still penetrate the valley, particularly in autumn, bringing humidity and occasional harvest-time rain.
 
@@ -40,7 +40,7 @@ Annual rainfall averages 850 millimeters, concentrated heavily in winter and spr
 
 Summer temperatures routinely exceed 35°C, with peaks above 40°C during heat waves. Winter minimums drop below -5°C. This annual temperature range of more than 45°C marks Valdeorras as decidedly continental, despite its proximity to the Atlantic.
 
-More significant for wine quality is the diurnal temperature variation during the growing season. Summer nights cool dramatically as cold air drains from the surrounding mountains into the valley. Temperature drops of 20°C between day and night are common in August and September. This diurnal shift preserves acidity in ripening grapes while allowing flavor development to continue—essential for producing balanced wines in a warm climate.
+More significant for wine quality is the diurnal temperature variation during the growing season. Summer nights cool dramatically as cold air drains from the surrounding mountains into the valley. Temperature drops of 20°C between day and night are common in August and September. This diurnal shift preserves acidity in ripening grapes while allowing flavor development to continue, essential for producing balanced wines in a warm climate.
 
 The valley orientation, running roughly east-west, creates distinct mesoclimates. South-facing slopes receive intense sun exposure and ripen fruit earlier. North-facing slopes remain cooler and are typically planted to later-ripening varieties or used for higher-acid base wines.
 
@@ -50,13 +50,13 @@ Spring frost poses a moderate risk, particularly in valley-floor vineyards where
 
 Summer drought is the primary viticultural challenge. Despite adequate annual rainfall, precipitation from June through August averages less than 100mm combined. The shallow slate soils store little water. Historically, vines survived through deep rooting and naturally low yields. Modern high-density plantings on quality sites often require supplemental irrigation, though the DO regulations limit this to specific periods and quantities.
 
-Harvest typically begins in mid-September for white varieties and extends into October for reds. Autumn weather is variable—some years remain dry and stable, allowing extended hang time; others bring Atlantic storms that force early picking. Vintage variation is significant, more so than in maritime Rías Baixas but less than in fully continental Ribera del Duero.
+Harvest typically begins in mid-September for white varieties and extends into October for reds. Autumn weather is variable, some years remain dry and stable, allowing extended hang time; others bring Atlantic storms that force early picking. Vintage variation is significant, more so than in maritime Rías Baixas but less than in fully continental Ribera del Duero.
 
 ### Climate Change Impacts
 
 Average growing season temperatures in Valdeorras have increased approximately 1.2°C since 1990. This warming trend has been beneficial overall, improving ripening consistency and allowing production of more structured, age-worthy wines. Godello, which struggled to ripen fully in cooler vintages of the 1980s, now achieves phenolic maturity reliably in most years.
 
-However, the trend toward earlier ripening—harvest dates have advanced roughly 10 days over three decades—creates new challenges. Earlier harvest means more heat exposure during the crucial final ripening phase, potentially leading to higher alcohol and lower acidity. Some producers now seek higher-elevation sites or cooler exposures to maintain freshness in their wines.
+However, the trend toward earlier ripening (harvest dates have advanced roughly 10 days over three decades) creates new challenges. Earlier harvest means more heat exposure during the crucial final ripening phase, potentially leading to higher alcohol and lower acidity. Some producers now seek higher-elevation sites or cooler exposures to maintain freshness in their wines.
 
 ## GRAPES
 
@@ -66,25 +66,25 @@ Godello defines modern Valdeorras. This white variety, native to Galicia and nor
 
 The rescue began in the 1970s and accelerated in the 1980s, driven by a handful of quality-focused producers who recognized Godello's potential. By 2000, plantings exceeded 300 hectares. Today, Godello covers approximately 520 hectares in Valdeorras, representing 40% of total vineyard area.
 
-**Viticultural Characteristics**: Godello buds relatively late, providing some protection against spring frost. It ripens mid-season, typically harvested in the second half of September. The variety is moderately vigorous and performs best on poor soils with good drainage—exactly what Valdeorras slate provides. Yields range from 6,000 to 8,000 kilograms per hectare on quality sites, though the DO permits up to 10,000 kg/ha.
+**Viticultural Characteristics**: Godello buds relatively late, providing some protection against spring frost. It ripens mid-season, typically harvested in the second half of September. The variety is moderately vigorous and performs best on poor soils with good drainage, exactly what Valdeorras slate provides. Yields range from 6,000 to 8,000 kilograms per hectare on quality sites, though the DO permits up to 10,000 kg/ha.
 
 The variety shows sensitivity to terroir. On deep valley soils, Godello produces neutral, high-acid wines lacking character. On slate slopes, it develops distinctive minerality, textural weight, and aging potential. The best examples combine stone fruit aromatics (white peach, apricot) with herbal notes (fennel, chamomile) and a saline, almost iodine-like mineral quality.
 
 **Winemaking Approaches**: Two distinct styles have emerged. The traditional approach involves stainless steel fermentation and minimal lees contact, producing fresh, aromatic wines for early consumption. The modern style employs barrel fermentation (typically in French oak, 500-liter puncheons or larger), extended lees aging, and sometimes malolactic fermentation. These wines show more texture and complexity, with the best examples aging gracefully for 5-10 years.
 
-The variety's natural acidity—typically 6-7 g/L tartaric equivalent—provides structure for barrel aging without becoming heavy or oxidative. Alcohol levels range from 12.5% to 14%, depending on site and vintage.
+The variety's natural acidity (typically 6-7 g/L tartaric equivalent) provides structure for barrel aging without becoming heavy or oxidative. Alcohol levels range from 12.5% to 14%, depending on site and vintage.
 
 ### Mencía: The Red Alternative
 
 Mencía accounts for approximately 20% of Valdeorras plantings, roughly 260 hectares. This red variety dominates throughout Galicia and neighboring Bierzo in Castilla y León. DNA analysis has confirmed Mencía as identical to Jaen in Portugal's Dão region, though the Spanish name prevails commercially.
 
-The variety produces wines of moderate color intensity—ruby to garnet rather than opaque purple—with red fruit aromatics (cherry, raspberry, cranberry), floral notes (violet), and distinctive herbal character (thyme, bay leaf). Tannins are fine-grained rather than aggressive. The best examples show a mineral, almost smoky quality that likely derives from slate soils.
+The variety produces wines of moderate color intensity (ruby to garnet rather than opaque purple) with red fruit aromatics (cherry, raspberry, cranberry), floral notes (violet), and distinctive herbal character (thyme, bay leaf). Tannins are fine-grained rather than aggressive. The best examples show a mineral, almost smoky quality that likely derives from slate soils.
 
-**Viticultural Characteristics**: Mencía buds early, making it susceptible to spring frost. It ripens mid to late season, typically harvested in late September or early October. The variety is moderately vigorous and productive, requiring careful canopy management to avoid excessive yields and dilution. On slate soils with good sun exposure, Mencía develops concentrated fruit while maintaining acidity—a balance that proves elusive on richer soils.
+**Viticultural Characteristics**: Mencía buds early, making it susceptible to spring frost. It ripens mid to late season, typically harvested in late September or early October. The variety is moderately vigorous and productive, requiring careful canopy management to avoid excessive yields and dilution. On slate soils with good sun exposure, Mencía develops concentrated fruit while maintaining acidity: a balance that proves elusive on richer soils.
 
 The variety performs best on sites with some clay content to provide water retention during summer drought. Pure slate sites can stress the vines excessively, leading to small berries and arrested ripening. The ideal terroir combines fractured slate for drainage with enough fine particles to hold moisture.
 
-**Winemaking Evolution**: Traditional Valdeorras Mencía was light, fresh, and simple—carbonic maceration wines for immediate consumption. Modern producers have adopted longer macerations, whole-cluster fermentation, and barrel aging to produce more structured, age-worthy wines. The results can be impressive, though Mencía remains fundamentally a medium-bodied variety. Attempts to extract excessive color and tannin often result in harsh, unbalanced wines.
+**Winemaking Evolution**: Traditional Valdeorras Mencía was light, fresh, and simple, carbonic maceration wines for immediate consumption. Modern producers have adopted longer macerations, whole-cluster fermentation, and barrel aging to produce more structured, age-worthy wines. The results can be impressive, though Mencía remains fundamentally a medium-bodied variety. Attempts to extract excessive color and tannin often result in harsh, unbalanced wines.
 
 Alcohol levels typically range from 13% to 14%. Acidity is naturally moderate, around 5-6 g/L, requiring careful harvest timing to maintain freshness.
 
@@ -104,13 +104,13 @@ Alcohol levels typically range from 13% to 14%. Acidity is naturally moderate, a
 
 Valdeorras white wine means Godello, full stop. The DO regulations permit other varieties, but the market demands Godello, and producers comply. Production approaches divide into two camps, though the boundary blurs.
 
-**Fresh Style**: Fermentation in stainless steel at controlled temperatures (16-18°C), minimal lees contact, early bottling. These wines emphasize primary fruit—white peach, pear, citrus—with floral notes (white flowers, chamomile) and bright acidity. The mineral character manifests as a saline, almost chalky quality on the finish. Alcohol typically ranges from 12.5% to 13.5%. These wines are best consumed within 2-3 years of vintage.
+**Fresh Style**: Fermentation in stainless steel at controlled temperatures (16-18°C), minimal lees contact, early bottling. These wines emphasize primary fruit (white peach, pear, citrus) with floral notes (white flowers, chamomile) and bright acidity. The mineral character manifests as a saline, almost chalky quality on the finish. Alcohol typically ranges from 12.5% to 13.5%. These wines are best consumed within 2-3 years of vintage.
 
 The style succeeds when the fruit comes from quality slate sites. Valley-floor Godello fermented fresh simply tastes neutral and acidic. Slope-grown fruit brings intensity and minerality that shine without oak influence.
 
-**Structured Style**: Barrel fermentation (typically 500L or larger French oak), extended lees aging (6-12 months), occasional malolactic fermentation. These wines show more texture and complexity—rounder mouthfeel, subtle oak integration (vanilla, toast, spice), developed aromatics (honey, lanolin, dried herbs). The fruit shifts from fresh to preserved—dried apricot, quince, baked apple. Alcohol rises to 13.5-14%.
+**Structured Style**: Barrel fermentation (typically 500L or larger French oak), extended lees aging (6-12 months), occasional malolactic fermentation. These wines show more texture and complexity, rounder mouthfeel, subtle oak integration (vanilla, toast, spice), developed aromatics (honey, lanolin, dried herbs). The fruit shifts from fresh to preserved, dried apricot, quince, baked apple. Alcohol rises to 13.5-14%.
 
-The best examples balance oak influence with Godello's inherent minerality and acidity. Poor examples taste heavy, over-oaked, or oxidative. The style requires careful site selection—only the most concentrated fruit can support barrel treatment—and restrained oak usage. Many producers have shifted from barriques (225L) to larger formats (500-600L) or concrete eggs to reduce oak dominance.
+The best examples balance oak influence with Godello's inherent minerality and acidity. Poor examples taste heavy, over-oaked, or oxidative. The style requires careful site selection (only the most concentrated fruit can support barrel treatment) and restrained oak usage. Many producers have shifted from barriques (225L) to larger formats (500-600L) or concrete eggs to reduce oak dominance.
 
 **Aging Potential**: Fresh-style Godello is best young, though well-made examples hold for 3-5 years. Structured Godello from quality sites ages gracefully for 5-10 years, developing honeyed, waxy complexity while retaining mineral backbone. Old-vine bottlings from exceptional sites can improve for a decade or more.
 
@@ -136,7 +136,7 @@ Valdeorras gained DO status in 1945, making it one of Spain's older denomination
 
 ### Key Villages and Zones
 
-**O Barco de Valdeorras**: The region's commercial center and largest town. Vineyards surround the town on both valley floor and slopes. Quality varies by elevation and exposure—slope vineyards on slate produce the best wines, while valley-floor sites yield bulk production.
+**O Barco de Valdeorras**: The region's commercial center and largest town. Vineyards surround the town on both valley floor and slopes. Quality varies by elevation and exposure, slope vineyards on slate produce the best wines, while valley-floor sites yield bulk production.
 
 **A Rúa**: East of O Barco, this zone contains some of the region's best vineyard sites, particularly south-facing slate slopes between 400 and 600 meters elevation. Several top producers source fruit here.
 
@@ -144,7 +144,7 @@ Valdeorras gained DO status in 1945, making it one of Spain's older denomination
 
 **Vilamartín de Valdeorras**: Western zone transitioning toward Ribeira Sacra. Soils begin showing more granite influence. Cooler and wetter than the eastern zones.
 
-**Petín**: Southern zone with mixed soils—slate, schist, and some granite. Produces both white and red wines of good quality, though less recognized than A Rúa or O Barco.
+**Petín**: Southern zone with mixed soils, slate, schist, and some granite. Produces both white and red wines of good quality, though less recognized than A Rúa or O Barco.
 
 The DO regulations do not recognize sub-zones or village appellations, though producers increasingly emphasize specific sites on labels. Terms like "viñas viejas" (old vines) or single-vineyard designations appear frequently, though without legal definition.
 
@@ -158,7 +158,7 @@ The Sil River valley runs roughly east-west, creating distinct north and south v
 
 ## VINTAGE VARIATION
 
-Valdeorras shows significant vintage variation, more than maritime Galician regions but less than fully continental zones like Ribera del Duero. The transitional climate creates uncertainty—some years follow Atlantic patterns (cool, wet), others continental patterns (hot, dry).
+Valdeorras shows significant vintage variation, more than maritime Galician regions but less than fully continental zones like Ribera del Duero. The transitional climate creates uncertainty, some years follow Atlantic patterns (cool, wet), others continental patterns (hot, dry).
 
 ### Ideal Vintage Conditions
 
@@ -186,7 +186,7 @@ Autumn rain poses the greatest vintage risk. September and October storms can ar
 
 **2020**: Warm and dry with stable autumn. Very good vintage producing ripe, concentrated wines with good balance. Among the best recent years.
 
-**2019**: Moderate temperatures with adequate water. Excellent vintage for both Godello and Mencía—balanced, structured wines with aging potential.
+**2019**: Moderate temperatures with adequate water. Excellent vintage for both Godello and Mencía, balanced, structured wines with aging potential.
 
 **2018**: Hot and dry. Concentrated wines with higher alcohol. Better for Godello than Mencía, which sometimes over-ripened.
 
@@ -206,7 +206,7 @@ Valdeorras has transformed from a bulk wine region to a quality-focused appellat
 
 Rafael Palacios, younger brother of Álvaro Palacios of Priorat fame, arrived in Valdeorras in 2004 and quickly established himself as the region's quality leader. His wines demonstrate Godello's potential for complexity and ageability.
 
-The estate's flagship, **As Sortes**, comes from 60-year-old Godello vines on slate slopes in A Rúa. Fermented and aged in large French oak (500L), it shows remarkable depth—stone fruit, white flowers, and pronounced minerality with a saline finish. The wine ages gracefully for a decade or more, developing honeyed complexity while retaining freshness.
+The estate's flagship, **As Sortes**, comes from 60-year-old Godello vines on slate slopes in A Rúa. Fermented and aged in large French oak (500L), it shows remarkable depth, stone fruit, white flowers, and pronounced minerality with a saline finish. The wine ages gracefully for a decade or more, developing honeyed complexity while retaining freshness.
 
 **Louro do Bolo** represents a more accessible expression, blending fruit from younger vines and multiple sites. It shows As Sortes' mineral character in a fresher, more immediate style.
 
@@ -226,9 +226,9 @@ Godeval helped establish Valdeorras' modern identity and remains a consistent qu
 
 A Coroa represents the cooperative model at its best. Founded in 1963, this cooperative in Valdeorras has evolved from bulk production to quality focus, working with member growers to improve viticulture and winemaking.
 
-The **A Coroa Godello** offers excellent value—fresh, mineral-driven wine from slate slopes at accessible prices. The cooperative also produces **Peza do Rei**, a more ambitious bottling from selected old-vine parcels with barrel fermentation.
+The **A Coroa Godello** offers excellent value, fresh, mineral-driven wine from slate slopes at accessible prices. The cooperative also produces **Peza do Rei**, a more ambitious bottling from selected old-vine parcels with barrel fermentation.
 
-The cooperative's success demonstrates that quality production in Valdeorras doesn't require estate ownership or high prices—careful site selection and thoughtful winemaking can produce compelling wines within the cooperative structure.
+The cooperative's success demonstrates that quality production in Valdeorras doesn't require estate ownership or high prices, careful site selection and thoughtful winemaking can produce compelling wines within the cooperative structure.
 
 ### Valdesil
 
@@ -236,7 +236,7 @@ The Rodríguez family has grown grapes in Valdeorras for generations, but Valdes
 
 **Valdesil Sobre Lías** spends extended time on lees in stainless steel, producing a textured, complex wine without oak. It shows Godello's ability to develop richness through lees contact alone.
 
-**Valdesil Montenovo** comes from a single vineyard on slate slopes, fermented in barrel and aged on lees. It represents the estate's top expression—concentrated, mineral, built for aging.
+**Valdesil Montenovo** comes from a single vineyard on slate slopes, fermented in barrel and aged on lees. It represents the estate's top expression, concentrated, mineral, built for aging.
 
 Valdesil also produces Mencía, including old-vine bottlings that demonstrate the variety's potential for structure and complexity.
 
@@ -266,21 +266,21 @@ Several newer estates are pushing quality boundaries:
 
 **Castro Candaz** focuses on single-vineyard expressions from slate sites, both Godello and Mencía.
 
-These newer projects emphasize minimal intervention, indigenous yeasts, and terroir transparency—an approach that seems particularly well-suited to Valdeorras' distinctive slate soils.
+These newer projects emphasize minimal intervention, indigenous yeasts, and terroir transparency: an approach that seems particularly well-suited to Valdeorras' distinctive slate soils.
 
 ## CHALLENGES AND FUTURE OUTLOOK
 
 Valdeorras faces several structural challenges despite its quality renaissance. The region remains economically depressed, with significant rural depopulation. Young people leave for cities, creating labor shortages during harvest. Many vineyards, particularly on steep slopes, are abandoned or poorly maintained.
 
-The bulk wine legacy persists. Roughly 35% of vineyard area remains planted to Palomino, producing wine for distillation rather than quality table wine. Replanting is expensive and slow—a newly planted vineyard takes 5-7 years to produce commercial fruit and 15-20 years to produce truly interesting wine.
+The bulk wine legacy persists. Roughly 35% of vineyard area remains planted to Palomino, producing wine for distillation rather than quality table wine. Replanting is expensive and slow: a newly planted vineyard takes 5-7 years to produce commercial fruit and 15-20 years to produce truly interesting wine.
 
-Climate change presents both opportunities and risks. Warmer temperatures improve ripening reliability but increase drought stress and advance harvest dates into hotter periods. Water availability for irrigation is uncertain—the Sil River and its tributaries provide some water, but competing demands from agriculture, hydroelectric generation, and municipal use create tension.
+Climate change presents both opportunities and risks. Warmer temperatures improve ripening reliability but increase drought stress and advance harvest dates into hotter periods. Water availability for irrigation is uncertain: the Sil River and its tributaries provide some water, but competing demands from agriculture, hydroelectric generation, and municipal use create tension.
 
 The international market barely knows Valdeorras. Outside Spain, the region struggles for recognition, overshadowed by Rías Baixas for white wine and Ribera del Duero or Rioja for reds. Godello remains an obscure variety to most consumers, despite its quality potential.
 
-Yet the trajectory is positive. Quality-focused producers continue improving viticulture and winemaking. Old-vine Godello from slate slopes produces wines of genuine distinction—mineral-driven, structured, age-worthy whites that compare favorably with much more expensive wines from famous regions. Mencía, while less distinctive, can produce elegant reds when handled thoughtfully.
+Yet the trajectory is positive. Quality-focused producers continue improving viticulture and winemaking. Old-vine Godello from slate slopes produces wines of genuine distinction, mineral-driven, structured, age-worthy whites that compare favorably with much more expensive wines from famous regions. Mencía, while less distinctive, can produce elegant reds when handled thoughtfully.
 
-The key is maintaining focus on the region's unique strengths—slate soils, old vines, indigenous varieties—rather than chasing international styles or varieties. Valdeorras will never compete on volume or name recognition. Its future lies in small-production, terroir-driven wines that express a specific place with clarity and conviction.
+The key is maintaining focus on the region's unique strengths (slate soils, old vines, indigenous varieties) rather than chasing international styles or varieties. Valdeorras will never compete on volume or name recognition. Its future lies in small-production, terroir-driven wines that express a specific place with clarity and conviction.
 
 The valley of gold may yet live up to its name, though the gold will come from bottles, not mines.
 

@@ -4,7 +4,7 @@
 
 The White Bluffs AVA represents one of Washington State's most distinctive and geologically significant wine-growing regions. Designated as an American Viticultural Area on March 22, 2021, White Bluffs is a sub-appellation within the expansive Columbia Valley AVA, itself nested within the larger Columbia Valley wine region that dominates Washington's wine production landscape.
 
-Located in southeastern Washington's Benton and Franklin counties, the White Bluffs AVA encompasses approximately 325,200 acres along the eastern shore of the Columbia River, roughly between River Mile 351 and River Mile 384. The region takes its name from the dramatic white sedimentary cliffs—composed of ancient lake bed deposits—that rise prominently along the Columbia River and serve as one of the area's most striking visual landmarks.
+Located in southeastern Washington's Benton and Franklin counties, the White Bluffs AVA encompasses approximately 325,200 acres along the eastern shore of the Columbia River, roughly between River Mile 351 and River Mile 384. The region takes its name from the dramatic white sedimentary cliffs (composed of ancient lake bed deposits) that rise prominently along the Columbia River and serve as one of the area's most striking visual landmarks.
 
 The AVA sits approximately 40 miles north of the Tri-Cities area (Richland, Kennewick, and Pasco), which serves as the commercial and population center for the region. It lies adjacent to the Hanford Reach National Monument, the last free-flowing, non-tidal stretch of the Columbia River in the United States, and borders the southern edge of the former Hanford Nuclear Reservation. This proximity to Hanford has shaped both the region's modern history and its relatively recent emergence as a recognized wine-growing area. The nearest major metropolitan area is Seattle, located approximately 175 miles to the west.
 
@@ -12,7 +12,7 @@ The AVA sits approximately 40 miles north of the Tri-Cities area (Richland, Kenn
 
 ### Climate Characteristics
 
-White Bluffs exemplifies the desert continental climate that defines much of the Columbia Basin, but with specific microclimatic features that distinguish it from neighboring wine regions. The area receives abundant sunshine—averaging over 300 days per year—and benefits from one of the longest growing seasons in Washington State, typically extending from April through October.
+White Bluffs exemplifies the desert continental climate that defines much of the Columbia Basin, but with specific microclimatic features that distinguish it from neighboring wine regions. The area receives abundant sunshine (averaging over 300 days per year) and benefits from one of the longest growing seasons in Washington State, typically extending from April through October.
 
 The region experiences pronounced diurnal temperature variation, with summer daytime highs frequently reaching 90-100°F (32-38°C), while nighttime temperatures can drop 40-50°F, often falling into the 50s. This dramatic temperature swing is crucial for grape development, allowing fruit to maintain natural acidity while achieving full phenolic ripeness. The extended daylight hours during summer (up to 16 hours in June) further contribute to the region's ability to ripen varieties that might struggle in cooler climates.
 
@@ -26,7 +26,7 @@ The lack of rainfall during the growing season gives viticulturists exceptional 
 
 The AVA's topography is characterized by gently sloping terrain that rises from the Columbia River eastward, with elevations ranging from approximately 400 feet along the river to 1,600 feet at the eastern boundary. Most vineyards are planted between 500 and 900 feet elevation, occupying south and southwest-facing slopes that maximize solar exposure while benefiting from air drainage that mitigates frost risk during the spring and fall.
 
-The landscape features a series of benches and terraces—geological remnants of the cataclysmic Missoula Floods—that create ideal vineyard sites with natural drainage and varying aspects. These elevated positions above the river also provide some protection from the coldest winter temperatures, as cold air settles into the lower Columbia River valley.
+The landscape features a series of benches and terraces (geological remnants of the cataclysmic Missoula Floods) that create ideal vineyard sites with natural drainage and varying aspects. These elevated positions above the river also provide some protection from the coldest winter temperatures, as cold air settles into the lower Columbia River valley.
 
 ### Unique Geographic Features
 
@@ -40,7 +40,7 @@ The region's proximity to the Hanford Reach creates a moderating influence, with
 
 The soils of White Bluffs are predominantly well-drained, coarse-textured mixtures that trace their origins to multiple geological events spanning millions of years. The primary soil types include:
 
-**Quincy Series Soils**: Sandy loams of eolian (wind-blown) origin, these soils offer excellent drainage and relatively low fertility—characteristics that stress vines appropriately for quality wine production. These soils often overlay gravelly substrates deposited by glacial floods.
+**Quincy Series Soils**: Sandy loams of eolian (wind-blown) origin, these soils offer excellent drainage and relatively low fertility, characteristics that stress vines appropriately for quality wine production. These soils often overlay gravelly substrates deposited by glacial floods.
 
 **Hezel and Warden Series**: Silt loams that provide slightly higher water-holding capacity while maintaining good drainage. These soils contain varying amounts of calcium carbonate, contributing to higher pH levels (typically 7.0-8.0) that influence nutrient availability and vine behavior.
 
@@ -83,7 +83,7 @@ White Bluffs has established itself as particularly well-suited to red grape var
 
 ### Acreage and Production Statistics
 
-As of 2023, the White Bluffs AVA contains approximately 1,800-2,000 acres of planted vineyards, making it a medium-sized sub-appellation within the Columbia Valley. The region supplies grapes to numerous wineries throughout Washington State, with much of the fruit sold to producers outside the AVA boundaries—a common practice in Washington wine production.
+As of 2023, the White Bluffs AVA contains approximately 1,800-2,000 acres of planted vineyards, making it a medium-sized sub-appellation within the Columbia Valley. The region supplies grapes to numerous wineries throughout Washington State, with much of the fruit sold to producers outside the AVA boundaries: a common practice in Washington wine production.
 
 The relatively recent AVA designation means vineyard development is ongoing, with industry observers anticipating continued expansion as the region's reputation for quality fruit becomes more established. The area's vineyard acreage has grown substantially since the early 2000s, reflecting increased recognition of the region's viticultural potential.
 
@@ -91,7 +91,7 @@ The relatively recent AVA designation means vineyard development is ongoing, wit
 
 The White Bluffs growing season is characterized by:
 
-- **Long accumulation period**: The region typically accumulates 3,000-3,400 Growing Degree Days (GDD, base 50°F), placing it firmly in Region III-IV of the Winkler Index—warm enough for Bordeaux varieties and Syrah
+- **Long accumulation period**: The region typically accumulates 3,000-3,400 Growing Degree Days (GDD, base 50°F), placing it firmly in Region III-IV of the Winkler Index, warm enough for Bordeaux varieties and Syrah
 - **Late-season reliability**: Dry, warm conditions typically persist well into October, allowing extended hang time for late-ripening varieties without rain-related quality concerns
 - **Frost risk management**: Spring frost can pose challenges in lower-lying areas, though most vineyard sites at higher elevations experience minimal risk after bud break
 
@@ -231,6 +231,6 @@ The future of White Bluffs AVA appears promising for several reasons:
 - Attracting more producers to establish physical presence in the AVA
 - Managing water resources sustainably for long-term viability
 
-The White Bluffs AVA represents a compelling chapter in Washington State's ongoing wine story—a region where dramatic geology, extreme climate, and thoughtful viticulture combine to produce distinctive wines. While still emerging in terms of public recognition, the area has demonstrated its capability to produce fruit that competes with Washington's most prestigious sites. As the region's identity continues to develop and more producers highlight White Bluffs on their labels, this distinctive corner of the Columbia Valley is positioned to claim its place among the state's premier wine-growing regions.
+The White Bluffs AVA represents a compelling chapter in Washington State's ongoing wine story: a region where dramatic geology, extreme climate, and thoughtful viticulture combine to produce distinctive wines. While still emerging in terms of public recognition, the area has demonstrated its capability to produce fruit that competes with Washington's most prestigious sites. As the region's identity continues to develop and more producers highlight White Bluffs on their labels, this distinctive corner of the Columbia Valley is positioned to claim its place among the state's premier wine-growing regions.
 
-For wine enthusiasts, White Bluffs offers an opportunity to discover wines from one of Washington's most geologically fascinating and viticultural promising regions—a place where ancient floods created ideal conditions for modern viticulture, and where the future of Washington wine continues to unfold.
+For wine enthusiasts, White Bluffs offers an opportunity to discover wines from one of Washington's most geologically fascinating and viticultural promising regions: a place where ancient floods created ideal conditions for modern viticulture, and where the future of Washington wine continues to unfold.

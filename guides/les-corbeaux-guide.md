@@ -58,7 +58,7 @@ Site-specific challenges include managing the variable soil depths across the cl
 
 Wines from Les Corbeaux exhibit the structured, age-worthy character that defines quality Gevrey-Chambertin Premier Cru, while displaying distinctive terroir characteristics that set them apart from neighboring climats. The limestone-rich soils contribute a mineral backbone that supports concentrated fruit flavors without overwhelming the wine's elegance and finesse.
 
-Aromatically, Les Corbeaux produces wines with complex bouquets combining dark fruit characteristics—blackberry, black cherry, and cassis—with distinctive spice notes including black pepper, clove, and subtle exotic spices. Floral elements often emerge with bottle age, particularly violet and rose petal notes that add complexity to the aromatic profile. The limestone influence manifests as a distinctive mineral thread that weaves through the fruit and spice components.
+Aromatically, Les Corbeaux produces wines with complex bouquets combining dark fruit characteristics (blackberry, black cherry, and cassis) with distinctive spice notes including black pepper, clove, and subtle exotic spices. Floral elements often emerge with bottle age, particularly violet and rose petal notes that add complexity to the aromatic profile. The limestone influence manifests as a distinctive mineral thread that weaves through the fruit and spice components.
 
 The clay component in the soil contributes to the wine's structural foundation, providing tannin density and color intensity while maintaining the elegant framework essential to great Burgundy. These tannins typically display a fine-grained texture that becomes increasingly integrated with proper cellaring.
 

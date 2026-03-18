@@ -2,11 +2,11 @@
 
 Rosso Piceno is Marche's most widely planted red wine denomination, stretching across a broad swath of the region's central and southern provinces. This is not a prestige appellation. Rather, it functions as the everyday red wine engine of Marche, producing accessible Sangiovese-based blends that range from simple quaffing wines to surprisingly structured examples from hillside sites.
 
-The denomination takes its name from the ancient Piceni people who inhabited this Adriatic coast before Roman conquest. Today, it encompasses vineyards across the provinces of Ancona, Macerata, Fermo, and Ascoli Piceno—a vast territory that inevitably produces variable quality.
+The denomination takes its name from the ancient Piceni people who inhabited this Adriatic coast before Roman conquest. Today, it encompasses vineyards across the provinces of Ancona, Macerata, Fermo, and Ascoli Piceno: a vast territory that inevitably produces variable quality.
 
 ## Geography and Climate
 
-Rosso Piceno's zone extends from the Adriatic coast inland to the foothills of the Apennines, covering both flat valley floors and hillside sites up to approximately 500 meters elevation. This broad geographic scope creates significant mesoclimate variation. Coastal vineyards experience direct maritime influence—moderate temperatures, higher humidity, and sea breezes that can mitigate summer heat. Inland sites climb into rolling hills where diurnal temperature variation increases and drainage improves.
+Rosso Piceno's zone extends from the Adriatic coast inland to the foothills of the Apennines, covering both flat valley floors and hillside sites up to approximately 500 meters elevation. This broad geographic scope creates significant mesoclimate variation. Coastal vineyards experience direct maritime influence, moderate temperatures, higher humidity, and sea breezes that can mitigate summer heat. Inland sites climb into rolling hills where diurnal temperature variation increases and drainage improves.
 
 The best vineyards occupy south- and southeast-facing slopes in the pre-Apennine hills, particularly in the southern reaches near Ascoli Piceno. These elevated sites benefit from cooler nights during ripening while maintaining sufficient warmth and sun exposure for Sangiovese to achieve phenolic maturity. The Adriatic's proximity ensures that extreme temperature swings remain rare, creating a relatively stable growing season.
 
@@ -14,9 +14,9 @@ Rainfall averages 700-800mm annually, concentrated in autumn and spring. Summers
 
 ## Terroir
 
-The geological complexity of Marche manifests clearly in Rosso Piceno's varied soils. Coastal areas and valley floors feature predominantly clay-based soils with varying proportions of sand—fertile, moisture-retentive, and prone to producing higher yields of softer, earlier-maturing wines.
+The geological complexity of Marche manifests clearly in Rosso Piceno's varied soils. Coastal areas and valley floors feature predominantly clay-based soils with varying proportions of sand, fertile, moisture-retentive, and prone to producing higher yields of softer, earlier-maturing wines.
 
-The more compelling terroir lies in the hills. Here, soils transition to calcareous clay with significant limestone presence, interspersed with sandstone formations. These Pliocene-era marine sediments—deposited when the Adriatic extended much further inland—provide the drainage and mineral complexity that elevate Sangiovese beyond simple fruit expression. The limestone component, while not as dominant as in Tuscany's Chianti Classico or Montalcino, contributes structure and aging potential to wines from serious producers.
+The more compelling terroir lies in the hills. Here, soils transition to calcareous clay with significant limestone presence, interspersed with sandstone formations. These Pliocene-era marine sediments (deposited when the Adriatic extended much further inland) provide the drainage and mineral complexity that elevate Sangiovese beyond simple fruit expression. The limestone component, while not as dominant as in Tuscany's Chianti Classico or Montalcino, contributes structure and aging potential to wines from serious producers.
 
 Soil depth varies considerably. Hillside sites often feature shallow topsoil over bedrock, naturally limiting yields and concentrating flavors. This stands in stark contrast to the deeper, more fertile valley soils that have historically driven volume production.
 
@@ -26,7 +26,7 @@ Rosso Piceno must contain 35-85% Sangiovese, with Montepulciano comprising 15-50
 
 The Montepulciano component adds color depth, tannin structure, and darker fruit character to Sangiovese's bright cherry and herbal notes. In practice, many producers work at the upper end of the Sangiovese range, using Montepulciano as a supporting player rather than co-star. The result is a wine that retains Sangiovese's characteristic acidity and savory qualities while gaining the body and color intensity that pure Sangiovese sometimes lacks in Marche's maritime climate.
 
-Standard Rosso Piceno sees minimal aging requirements and reaches the market as fresh, medium-bodied red wine with cherry fruit, moderate tannins, and food-friendly acidity. These wines are designed for near-term consumption—typically within two to three years of vintage.
+Standard Rosso Piceno sees minimal aging requirements and reaches the market as fresh, medium-bodied red wine with cherry fruit, moderate tannins, and food-friendly acidity. These wines are designed for near-term consumption, typically within two to three years of vintage.
 
 ## Rosso Piceno Superiore
 

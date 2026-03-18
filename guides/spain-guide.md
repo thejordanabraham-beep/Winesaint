@@ -2,31 +2,31 @@
 
 Spain is not the country you think it is. Or rather, it wasn't until recently.
 
-For decades, Spain languished in the shadow of its western neighbor Portugal and northern rival France, known primarily for cheap bulk wine and a handful of traditional regions. Then something remarkable happened. Between 1996 and today, Spain transformed itself into one of the world's most dynamic wine producers—not by abandoning its heritage, but by rediscovering it. The legalization of irrigation in 1996 marked a turning point, allowing previously marginal regions to produce viable crops. But the real revolution came from within: a generation of winemakers who traveled abroad, learned modern techniques, then returned home to resurrect forgotten indigenous varieties and abandoned mountain vineyards.
+For decades, Spain languished in the shadow of its western neighbor Portugal and northern rival France, known primarily for cheap bulk wine and a handful of traditional regions. Then something remarkable happened. Between 1996 and today, Spain transformed itself into one of the world's most dynamic wine producers, not by abandoning its heritage, but by rediscovering it. The legalization of irrigation in 1996 marked a turning point, allowing previously marginal regions to produce viable crops. But the real revolution came from within: a generation of winemakers who traveled abroad, learned modern techniques, then returned home to resurrect forgotten indigenous varieties and abandoned mountain vineyards.
 
-Today, Spain boasts the largest vineyard surface area in the world—approximately 950,000 hectares—yet ranks third in production volume behind France and Italy. This apparent contradiction reveals something essential about Spanish viticulture: low-yielding, old-vine plantings across vast, arid landscapes. The country produces everything from bone-dry Albariño to oxidatively aged Sherry, from elegant Garnacha at 1,000 meters elevation to powerful Monastrell baked under Mediterranean sun. Spain cultivates more than 400 indigenous grape varieties, many of which are only now being properly identified and celebrated.
+Today, Spain boasts the largest vineyard surface area in the world (approximately 950,000 hectares) yet ranks third in production volume behind France and Italy. This apparent contradiction reveals something essential about Spanish viticulture: low-yielding, old-vine plantings across vast, arid landscapes. The country produces everything from bone-dry Albariño to oxidatively aged Sherry, from elegant Garnacha at 1,000 meters elevation to powerful Monastrell baked under Mediterranean sun. Spain cultivates more than 400 indigenous grape varieties, many of which are only now being properly identified and celebrated.
 
 This is not a country resting on its laurels. Spain is still discovering itself.
 
 ## Geography and Climate: Three Nations in One
 
-Spain occupies most of the Iberian Peninsula, positioned between 36°N and 43°N latitude—roughly equivalent to the latitude range from southern California to southern Oregon. But latitude tells only part of the story. Spain's wine regions divide into three distinct climatic zones, each producing radically different wines.
+Spain occupies most of the Iberian Peninsula, positioned between 36°N and 43°N latitude, roughly equivalent to the latitude range from southern California to southern Oregon. But latitude tells only part of the story. Spain's wine regions divide into three distinct climatic zones, each producing radically different wines.
 
 ### The Northern Maritime Zone
 
 The north coast, from Galicia through País Vasco to the western edge of Catalunya, experiences moderate maritime influence from the Atlantic Ocean and Bay of Biscay. Annual rainfall reaches 700-1,000mm, concentrated in winter and spring. Temperatures remain relatively cool, with warm days and cool nights during the growing season. This is Spain's "green" zone, producing high-acid white wines and lighter-styled reds that would be unrecognizable to someone expecting sun-baked Spanish stereotypes.
 
-The Galician region of Rías Baixas receives approximately 1,600mm of annual rainfall—more than Bordeaux or Burgundy. Vines here are trained on pergolas to promote air circulation and prevent fungal disease in the humid climate. The resulting Albariño wines display piercing acidity and saline minerality, shaped as much by Atlantic winds as by granite soils.
+The Galician region of Rías Baixas receives approximately 1,600mm of annual rainfall, more than Bordeaux or Burgundy. Vines here are trained on pergolas to promote air circulation and prevent fungal disease in the humid climate. The resulting Albariño wines display piercing acidity and saline minerality, shaped as much by Atlantic winds as by granite soils.
 
 ### The Continental Plateau: The Meseta
 
-The vast central plateau—the Meseta—rises to 600-900 meters elevation and experiences extreme continental conditions. This zone encompasses Ribera del Duero, Toro, Rueda, La Mancha, and parts of Rioja. Summer temperatures regularly exceed 35°C, while winter temperatures can drop below -15°C. Annual rainfall ranges from just 300-500mm, falling primarily in spring and autumn.
+The vast central plateau (the Meseta) rises to 600-900 meters elevation and experiences extreme continental conditions. This zone encompasses Ribera del Duero, Toro, Rueda, La Mancha, and parts of Rioja. Summer temperatures regularly exceed 35°C, while winter temperatures can drop below -15°C. Annual rainfall ranges from just 300-500mm, falling primarily in spring and autumn.
 
 The Meseta's elevation provides crucial diurnal temperature variation. In Ribera del Duero, at 850 meters, daytime temperatures may reach 35°C while nights cool to 12-15°C during ripening season. This 20-degree swing preserves acidity in grapes that would otherwise produce flabby wines. Without this altitude effect, quality viticulture across central Spain would be impossible.
 
 ### The Mediterranean Coast
 
-The eastern and southeastern coasts—Catalunya, Valencia, Murcia, and parts of Andalucía—experience warm Mediterranean climate with moderate maritime influence. Annual rainfall ranges from 400-600mm, with long, hot, dry summers. Sea breezes moderate temperatures in coastal areas, but interior zones can be brutally hot.
+The eastern and southeastern coasts (Catalunya, Valencia, Murcia, and parts of Andalucía) experience warm Mediterranean climate with moderate maritime influence. Annual rainfall ranges from 400-600mm, with long, hot, dry summers. Sea breezes moderate temperatures in coastal areas, but interior zones can be brutally hot.
 
 The Mediterranean zone contains Spain's warmest wine regions. Jumilla and Yecla, located inland from Alicante, regularly see summer temperatures above 40°C. Monastrell (Mourvèdre) thrives here precisely because it requires intense heat to ripen fully. These are Spain's powerhouse red wine regions, producing concentrated, high-alcohol wines from low-yielding bush vines.
 
@@ -34,9 +34,9 @@ The Mediterranean zone contains Spain's warmest wine regions. Jumilla and Yecla,
 
 Spain's geological diversity rivals its climatic variation. The country contains ancient granitic formations in Galicia, limestone plateaus in Ribera del Duero, volcanic soils in the Canary Islands, and the famous albariza chalk of Jerez.
 
-The most distinctive soil type is Jerez's albariza—a brilliant white chalk containing 40-80% calcium carbonate mixed with clay and sand. Albariza reflects sunlight back onto grape clusters while retaining moisture through the scorching summer. During the dry season, the surface forms a hard crust that prevents evaporation, while roots penetrate up to 5 meters deep to access water reserves. No other soil type in Spain so profoundly shapes wine character.
+The most distinctive soil type is Jerez's albariza: a brilliant white chalk containing 40-80% calcium carbonate mixed with clay and sand. Albariza reflects sunlight back onto grape clusters while retaining moisture through the scorching summer. During the dry season, the surface forms a hard crust that prevents evaporation, while roots penetrate up to 5 meters deep to access water reserves. No other soil type in Spain so profoundly shapes wine character.
 
-In Priorat, the distinctive llicorella—black slate mixed with quartzite—forces vines to struggle through fractured rock, producing wines of extraordinary concentration. The dark slate absorbs heat during the day and radiates it at night, effectively extending the growing season. Old Garnacha and Cariñena vines planted in llicorella rarely yield more than 500-800 grams per plant—roughly one bottle of wine per vine.
+In Priorat, the distinctive llicorella (black slate mixed with quartzite) forces vines to struggle through fractured rock, producing wines of extraordinary concentration. The dark slate absorbs heat during the day and radiates it at night, effectively extending the growing season. Old Garnacha and Cariñena vines planted in llicorella rarely yield more than 500-800 grams per plant, roughly one bottle of wine per vine.
 
 ## The Appellation System: Complexity and Evolution
 
@@ -58,7 +58,7 @@ Spain's wine classification system evolved throughout the 20th century, influenc
 
 Spain's unique contribution to wine classification is its aging-based hierarchy, particularly prominent in Rioja and Ribera del Duero. These terms appear on labels and significantly affect price:
 
-**Joven**: Young wine with minimal or no oak aging, released shortly after vintage. The term rarely appears on labels—wines simply lack aging designations.
+**Joven**: Young wine with minimal or no oak aging, released shortly after vintage. The term rarely appears on labels, wines simply lack aging designations.
 
 **Crianza**: Red wines aged minimum 24 months total, including at least 6 months in oak barrels of 330 liters or less. White and rosé Crianza require 18 months total with 6 months in oak. This is the entry-level aged category.
 
@@ -80,23 +80,23 @@ Spain's greatest viticultural asset is its collection of indigenous varieties, m
 
 ### Red Varieties
 
-**Tempranillo**: Spain's noble red variety and the country's most widely planted quality grape. Tempranillo produces medium to full-bodied wines with moderate alcohol (typically 13-14%), medium to high tannins, and medium acidity—a balanced profile that responds beautifully to oak aging. The variety goes by different names across Spain: Tinto Fino or Tinto del País in Ribera del Duero, Tinto de Toro in Toro, Cencibel in La Mancha and Valdepeñas, Ull de Llebre in Catalunya.
+**Tempranillo**: Spain's noble red variety and the country's most widely planted quality grape. Tempranillo produces medium to full-bodied wines with moderate alcohol (typically 13-14%), medium to high tannins, and medium acidity: a balanced profile that responds beautifully to oak aging. The variety goes by different names across Spain: Tinto Fino or Tinto del País in Ribera del Duero, Tinto de Toro in Toro, Cencibel in La Mancha and Valdepeñas, Ull de Llebre in Catalunya.
 
 Tempranillo's flavor profile varies dramatically by region. In Rioja's cooler sites, it produces elegant wines with red cherry fruit, leather, and tobacco notes. In Ribera del Duero's continental climate at higher elevation, it yields darker, more structured wines with black fruit character and firmer tannins. In Toro's extreme heat, it becomes almost Port-like in concentration and power.
 
-The variety ripens relatively early—hence the name, derived from "temprano" (early)—allowing it to thrive in regions where late-ripening varieties struggle to achieve full maturity before autumn rains.
+The variety ripens relatively early (hence the name, derived from "temprano" (early)) allowing it to thrive in regions where late-ripening varieties struggle to achieve full maturity before autumn rains.
 
 **Garnacha (Grenache)**: Spain's second most important red variety and likely its most exciting for quality-focused producers. Garnacha originated in Aragón and spread throughout the Mediterranean. Old-vine Garnacha from high-elevation sites in Priorat, Calatayud, Gredos, and Méntrida now produces some of Spain's most sought-after wines.
 
-Garnacha thrives in hot, dry conditions and poor soils, producing wines with high alcohol (often 14-16%), low to moderate tannins, and a distinctive red fruit profile—strawberry, raspberry, red cherry—with herbal notes and remarkable minerality from appropriate sites. The variety was long dismissed as suitable only for bulk wine or blending, but the old-vine Garnacha renaissance of the past 20 years has revealed its capacity for elegance and complexity.
+Garnacha thrives in hot, dry conditions and poor soils, producing wines with high alcohol (often 14-16%), low to moderate tannins, and a distinctive red fruit profile (strawberry, raspberry, red cherry) with herbal notes and remarkable minerality from appropriate sites. The variety was long dismissed as suitable only for bulk wine or blending, but the old-vine Garnacha renaissance of the past 20 years has revealed its capacity for elegance and complexity.
 
 Bush-vine Garnacha planted at 800-1,200 meters in the Sierra de Gredos produces wines of stunning finesse, combining power with precision. These wines challenge the assumption that Garnacha inevitably produces heavy, alcoholic wines.
 
-**Monastrell (Mourvèdre)**: The dominant variety in southeastern Spain—Jumilla, Yecla, Alicante—where extreme heat suits its late-ripening nature. Monastrell produces deeply colored, full-bodied wines with high tannins, moderate acidity, and dark fruit flavors—blackberry, black plum—with gamey, meaty notes. The variety requires intense heat to ripen fully; in cooler regions it remains green and vegetal.
+**Monastrell (Mourvèdre)**: The dominant variety in southeastern Spain (Jumilla, Yecla, Alicante) where extreme heat suits its late-ripening nature. Monastrell produces deeply colored, full-bodied wines with high tannins, moderate acidity, and dark fruit flavors (blackberry, black plum) with gamey, meaty notes. The variety requires intense heat to ripen fully; in cooler regions it remains green and vegetal.
 
 Monastrell's thick skins provide resistance to drought and sunburn, essential in regions where summer rainfall is negligible and temperatures regularly exceed 40°C. Old-vine Monastrell from Jumilla and Yecla, planted as ungrafted bush vines in sandy soils, produces wines of remarkable concentration and structure.
 
-**Mencía**: The signature variety of Bierzo and Ribeira Sacra in northwestern Spain. Mencía produces elegant, aromatic wines with medium body, high acidity, moderate tannins, and distinctive red fruit character—red cherry, raspberry, cranberry—with floral notes and mineral undertones. The variety thrives in the region's granite and slate soils, producing wines that invite comparisons to Burgundy's Pinot Noir, though the varieties are unrelated.
+**Mencía**: The signature variety of Bierzo and Ribeira Sacra in northwestern Spain. Mencía produces elegant, aromatic wines with medium body, high acidity, moderate tannins, and distinctive red fruit character (red cherry, raspberry, cranberry) with floral notes and mineral undertones. The variety thrives in the region's granite and slate soils, producing wines that invite comparisons to Burgundy's Pinot Noir, though the varieties are unrelated.
 
 Mencía's high acidity and moderate alcohol (typically 12.5-13.5%) make it refreshing in Spain's warm climate. The variety is experiencing a quality renaissance, with producers farming steep, terraced vineyards abandoned during rural depopulation of the mid-20th century.
 
@@ -106,7 +106,7 @@ Mencía's high acidity and moderate alcohol (typically 12.5-13.5%) make it refre
 
 ### White Varieties
 
-**Albariño**: The star white variety of Rías Baixas in Galicia. Albariño produces aromatic, medium-bodied wines with high acidity and distinctive citrus and stone fruit character—lemon, grapefruit, peach, apricot—often with saline minerality. The variety's thick skins provide resistance to fungal disease in Galicia's humid climate.
+**Albariño**: The star white variety of Rías Baixas in Galicia. Albariño produces aromatic, medium-bodied wines with high acidity and distinctive citrus and stone fruit character (lemon, grapefruit, peach, apricot) often with saline minerality. The variety's thick skins provide resistance to fungal disease in Galicia's humid climate.
 
 Albariño wines typically contain 12-13% alcohol, refreshing by Spanish standards. The best examples display remarkable complexity and aging potential, developing honeyed, waxy notes with bottle age while retaining vibrant acidity.
 
@@ -140,13 +140,13 @@ Rioja Alta and Rioja Alavesa, at higher elevation with greater Atlantic influenc
 
 **Soils**: Rioja's soils divide broadly into calcareous clay (in Rioja Alavesa), ferrous clay (in parts of Rioja Alta), and alluvial soils (in Rioja Oriental and valley floors). The calcareous clay sites generally produce the most elegant, age-worthy wines.
 
-**Grape Varieties**: Tempranillo dominates at approximately 75% of plantings, with Garnacha (15%), Graciano (4%), Mazuelo/Cariñena (3%), and others making up the balance. White varieties—primarily Viura/Macabeo, with smaller amounts of Malvasía and Garnacha Blanca—represent about 10% of total plantings.
+**Grape Varieties**: Tempranillo dominates at approximately 75% of plantings, with Garnacha (15%), Graciano (4%), Mazuelo/Cariñena (3%), and others making up the balance. White varieties (primarily Viura/Macabeo, with smaller amounts of Malvasía and Garnacha Blanca) represent about 10% of total plantings.
 
 **Winemaking**: Traditional Rioja winemaking emphasized extended aging in American oak barrels (typically 225-liter barricas), producing wines with distinctive vanilla, coconut, and dill notes layered over red fruit. The traditional style favored elegance and finesse over power, with moderate alcohol (12.5-13.5%) and gentle extraction.
 
 Modern Rioja has diversified dramatically. Many producers now use French oak, employ shorter aging periods, emphasize single-vineyard bottlings, and focus on terroir expression rather than oak influence. This "modern" versus "traditional" debate continues to shape the region's identity.
 
-The aging classifications—Crianza, Reserva, Gran Reserva—originated in Rioja and remain central to the region's commercial structure, though increasing numbers of producers reject them in favor of terroir-focused labeling.
+The aging classifications (Crianza, Reserva, Gran Reserva) originated in Rioja and remain central to the region's commercial structure, though increasing numbers of producers reject them in favor of terroir-focused labeling.
 
 **Notable Producers**: López de Heredia (traditional), CVNE (both traditional and modern ranges), La Rioja Alta, Muga, Remírez de Ganuza, Artadi (now producing Vino de España after leaving the DO), Telmo Rodriguez (terroir-focused).
 
@@ -154,31 +154,31 @@ The aging classifications—Crianza, Reserva, Gran Reserva—originated in Rioja
 
 Ribera del Duero, located in Castilla y León along the Duero River, achieved DO status in 1982 and rapidly became one of Spain's most prestigious regions. The region encompasses approximately 23,000 hectares at 750-1,000 meters elevation on the Meseta plateau.
 
-**Climate**: Extreme continental climate with hot summers (regularly exceeding 35°C) and brutally cold winters (often below -15°C). Annual rainfall is just 400-500mm. The high elevation provides crucial diurnal temperature variation—20-degree swings between day and night during ripening season preserve acidity in grapes that ripen in intense heat.
+**Climate**: Extreme continental climate with hot summers (regularly exceeding 35°C) and brutally cold winters (often below -15°C). Annual rainfall is just 400-500mm. The high elevation provides crucial diurnal temperature variation, 20-degree swings between day and night during ripening season preserve acidity in grapes that ripen in intense heat.
 
 **Soils**: Predominantly limestone and marl with some clay, sand, and gravel. The calcareous soils retain moisture and reflect sunlight, moderating the extreme climate. Poor, stony soils force vines to struggle, producing low yields of concentrated fruit.
 
 **Grape Varieties**: Tempranillo (locally called Tinto Fino or Tinto del País) dominates at approximately 95% of plantings. Small amounts of Cabernet Sauvignon, Merlot, Malbec, and Garnacha are permitted. Albillo Mayor is the only authorized white variety, used in tiny quantities.
 
-**Wine Style**: Ribera del Duero produces powerful, structured red wines with deep color, high tannins, firm acidity, and black fruit character—blackberry, black cherry, plum—with notes of leather, tobacco, and earth. Alcohol typically reaches 14-15%. These are Spain's most age-worthy wines, with top examples developing for 20-30+ years.
+**Wine Style**: Ribera del Duero produces powerful, structured red wines with deep color, high tannins, firm acidity, and black fruit character (blackberry, black cherry, plum) with notes of leather, tobacco, and earth. Alcohol typically reaches 14-15%. These are Spain's most age-worthy wines, with top examples developing for 20-30+ years.
 
-The region's extreme conditions produce Tempranillo of markedly different character than Rioja—darker, more powerful, more tannic, with black rather than red fruit profile. Some producers compare Ribera del Duero Tempranillo to Napa Valley Cabernet Sauvignon in structure and intensity.
+The region's extreme conditions produce Tempranillo of markedly different character than Rioja, darker, more powerful, more tannic, with black rather than red fruit profile. Some producers compare Ribera del Duero Tempranillo to Napa Valley Cabernet Sauvignon in structure and intensity.
 
 **Notable Producers**: Vega Sicilia (Spain's most prestigious estate, producing the legendary Único), Pingus (cult wine commanding extraordinary prices), Dominio de Pingus, Alión, Pesquera, Aalto, Pago de Carraovejas.
 
 ### Priorat: Llicorella Magic
 
-Priorat, located in Catalunya's inland mountains, achieved DOQ status in 2009—only the second Spanish region to attain this classification. The region encompasses just 1,800 hectares of steep, terraced vineyards in the Montsant mountain range.
+Priorat, located in Catalunya's inland mountains, achieved DOQ status in 2009, only the second Spanish region to attain this classification. The region encompasses just 1,800 hectares of steep, terraced vineyards in the Montsant mountain range.
 
 **Climate**: Warm Mediterranean climate with continental influence due to inland location and elevation (200-700 meters). Annual rainfall is approximately 500mm. Hot, dry summers with cool nights. The region's topography creates numerous mesoclimates.
 
-**Soils**: The distinctive llicorella—black slate mixed with quartzite—defines Priorat. This fractured rock forces vines to root deeply, produces extremely low yields (often 500-800 grams per vine), and retains heat, extending the growing season. The dark slate absorbs solar radiation during the day and releases it at night, providing additional ripening heat.
+**Soils**: The distinctive llicorella (black slate mixed with quartzite) defines Priorat. This fractured rock forces vines to root deeply, produces extremely low yields (often 500-800 grams per vine), and retains heat, extending the growing season. The dark slate absorbs solar radiation during the day and releases it at night, providing additional ripening heat.
 
-**Grape Varieties**: Garnacha and Cariñena dominate, often from pre-phylloxera vines planted as ungrafted bush vines. Cabernet Sauvignon, Merlot, and Syrah are also planted. Small amounts of white varieties—Garnacha Blanca, Macabeo, Pedro Ximénez—produce limited white wine.
+**Grape Varieties**: Garnacha and Cariñena dominate, often from pre-phylloxera vines planted as ungrafted bush vines. Cabernet Sauvignon, Merlot, and Syrah are also planted. Small amounts of white varieties (Garnacha Blanca, Macabeo, Pedro Ximénez) produce limited white wine.
 
 **Wine Style**: Priorat produces powerful, concentrated red wines with high alcohol (typically 14-16%), firm tannins, and intense dark fruit character layered with mineral notes that reflect the slate soils. These wines combine power with remarkable elegance and complexity. The best examples age beautifully for 15-20+ years.
 
-Priorat's renaissance began in the late 1980s when a group of pioneering producers—including René Barbier, Álvaro Palacios, and Daphne Glorian—recognized the potential of old-vine Garnacha and Cariñena planted in llicorella. Their efforts transformed Priorat from an obscure, depopulated region into one of Spain's most celebrated wine zones.
+Priorat's renaissance began in the late 1980s when a group of pioneering producers (including René Barbier, Álvaro Palacios, and Daphne Glorian) recognized the potential of old-vine Garnacha and Cariñena planted in llicorella. Their efforts transformed Priorat from an obscure, depopulated region into one of Spain's most celebrated wine zones.
 
 **Notable Producers**: Álvaro Palacios (L'Ermita is among Spain's most expensive wines), Clos Mogador, Clos Erasmus, Terroir al Límit, Mas Doix, Costers del Siurana.
 
@@ -186,7 +186,7 @@ Priorat's renaissance began in the late 1980s when a group of pioneering produce
 
 Rías Baixas, located in coastal Galicia, achieved DO status in 1988 and rapidly became Spain's premier white wine region. The region encompasses approximately 4,000 hectares across five sub-zones along the Atlantic coast.
 
-**Climate**: Cool maritime climate with Atlantic influence. Annual rainfall reaches 1,600mm—among the highest in Spain. Mild temperatures year-round, with warm but not hot summers and cool but not cold winters. High humidity creates significant disease pressure.
+**Climate**: Cool maritime climate with Atlantic influence. Annual rainfall reaches 1,600mm, among the highest in Spain. Mild temperatures year-round, with warm but not hot summers and cool but not cold winters. High humidity creates significant disease pressure.
 
 **Soils**: Predominantly granite with sandy topsoils. The free-draining sandy soils provide crucial drainage in this high-rainfall region.
 
@@ -194,7 +194,7 @@ Rías Baixas, located in coastal Galicia, achieved DO status in 1988 and rapidly
 
 **Viticulture**: Vines are traditionally trained on granite pergolas (called parral) to elevate fruit above the humid ground, promoting air circulation and reducing fungal disease pressure. Modern plantings increasingly use wire trellising for easier management, though pergolas remain common.
 
-**Wine Style**: Rías Baixas Albariño produces aromatic, medium-bodied white wines with high acidity (pH typically 3.0-3.2) and distinctive citrus and stone fruit character—lemon, grapefruit, white peach, apricot—often with saline minerality reflecting coastal proximity. Alcohol ranges from 12-13%. These wines are typically consumed young (1-3 years), though top examples age beautifully for 5-10 years, developing honeyed complexity.
+**Wine Style**: Rías Baixas Albariño produces aromatic, medium-bodied white wines with high acidity (pH typically 3.0-3.2) and distinctive citrus and stone fruit character (lemon, grapefruit, white peach, apricot) often with saline minerality reflecting coastal proximity. Alcohol ranges from 12-13%. These wines are typically consumed young (1-3 years), though top examples age beautifully for 5-10 years, developing honeyed complexity.
 
 The Val do Salnés sub-zone, closest to the coast, produces the most mineral-driven, saline wines. Interior sub-zones produce slightly riper, fuller-bodied styles.
 
@@ -202,11 +202,11 @@ The Val do Salnés sub-zone, closest to the coast, produces the most mineral-dri
 
 ### Jerez: The Sherry Triangle
 
-Jerez, located in Andalucía in southwestern Spain, produces Sherry—Spain's most distinctive and misunderstood wine. The region encompasses the "Sherry Triangle" between Jerez de la Frontera, Sanlúcar de Barrameda, and El Puerto de Santa María.
+Jerez, located in Andalucía in southwestern Spain, produces Sherry. Spain's most distinctive and misunderstood wine. The region encompasses the "Sherry Triangle" between Jerez de la Frontera, Sanlúcar de Barrameda, and El Puerto de Santa María.
 
 **Climate**: Hot Mediterranean climate with Atlantic influence. Annual rainfall is approximately 600mm, falling primarily in winter. Summers are hot and dry, with temperatures regularly exceeding 35°C. The poniente wind from the Atlantic brings cooling humidity, while the levante wind from the east brings scorching heat.
 
-**Soils**: The famous albariza—brilliant white chalk containing 40-80% calcium carbonate—defines the best vineyard sites (pagos). Albariza's water-retention capacity is crucial in this hot, dry climate. The soil forms a hard surface crust during summer that prevents evaporation while roots penetrate up to 5 meters deep.
+**Soils**: The famous albariza (brilliant white chalk containing 40-80% calcium carbonate) defines the best vineyard sites (pagos). Albariza's water-retention capacity is crucial in this hot, dry climate. The soil forms a hard surface crust during summer that prevents evaporation while roots penetrate up to 5 meters deep.
 
 **Grape Varieties**: Palomino dominates at approximately 95% of plantings. Pedro Ximénez and Moscatel are grown in small quantities for sweet wines.
 
@@ -222,7 +222,7 @@ Jerez, located in Andalucía in southwestern Spain, produces Sherry—Spain's mo
 
 **Pedro Ximénez (PX)**: Made from sun-dried Pedro Ximénez grapes, producing intensely sweet, viscous, dark wines with raisin, fig, molasses character.
 
-The solera system—fractional blending of wines from multiple vintages—ensures consistency and complexity. Young wine is added to the youngest criadera (level), which feeds the next older criadera, and so on, with the oldest solera level providing wine for bottling. This system means Sherry is non-vintage, representing a blend of multiple years.
+The solera system (fractional blending of wines from multiple vintages) ensures consistency and complexity. Young wine is added to the youngest criadera (level), which feeds the next older criadera, and so on, with the oldest solera level providing wine for bottling. This system means Sherry is non-vintage, representing a blend of multiple years.
 
 **Notable Producers**: Equipo Navazos (revolutionary small-production Sherries), Valdespino, Lustau, González Byass, Hidalgo-La Gitana, Barbadillo.
 
@@ -250,7 +250,7 @@ The introduction of temperature-controlled fermentation in the 1980s-1990s trans
 
 ### Oak Debate
 
-Traditional Spanish red wine production emphasized American oak aging, producing wines with distinctive vanilla, coconut, and dill notes. American oak (primarily Quercus alba) contains higher levels of oak lactones than French oak, producing more pronounced aromatic impact. The traditional style favored long aging periods—2-3 years or more for Reserva and Gran Reserva wines.
+Traditional Spanish red wine production emphasized American oak aging, producing wines with distinctive vanilla, coconut, and dill notes. American oak (primarily Quercus alba) contains higher levels of oak lactones than French oak, producing more pronounced aromatic impact. The traditional style favored long aging periods, 2-3 years or more for Reserva and Gran Reserva wines.
 
 Modern producers increasingly favor French oak (Quercus robur and Quercus petraea), which imparts subtler oak character, allowing fruit and terroir to show more clearly. Many producers now use shorter aging periods, arguing that excessive oak obscures terroir and produces homogeneous wines.
 
@@ -258,11 +258,11 @@ This debate reflects broader tensions between tradition and innovation in Spanis
 
 ### Carbonic Maceration
 
-Carbonic maceration—whole-cluster fermentation in a CO2-saturated environment—is widely used in Rioja for Garnacha and increasingly for Tempranillo in joven (young) wines. This technique produces fruity, aromatic wines with soft tannins and distinctive berry, bubble gum character. The method allows production of wines for immediate consumption from varieties that would otherwise require extended aging.
+Carbonic maceration (whole-cluster fermentation in a CO2-saturated environment) is widely used in Rioja for Garnacha and increasingly for Tempranillo in joven (young) wines. This technique produces fruity, aromatic wines with soft tannins and distinctive berry, bubble gum character. The method allows production of wines for immediate consumption from varieties that would otherwise require extended aging.
 
 ### The Old-Vine Renaissance
 
-Spain contains vast plantings of old vines—some pre-phylloxera, many 50-100+ years old—particularly in regions like Priorat, Calatayud, Méntrida, and Toro. These old vines, planted as ungrafted bush vines in poor soils, produce tiny yields of concentrated fruit.
+Spain contains vast plantings of old vines (some pre-phylloxera, many 50-100+ years old) particularly in regions like Priorat, Calatayud, Méntrida, and Toro. These old vines, planted as ungrafted bush vines in poor soils, produce tiny yields of concentrated fruit.
 
 For decades, these old vineyards were neglected or abandoned as economically unviable. The old-vine renaissance of the past 20 years has seen producers seek out these plantings, recognizing their potential for producing distinctive, terroir-driven wines. This movement has rescued countless hectares from abandonment and revealed the quality potential of varieties like Garnacha that were previously dismissed.
 
@@ -270,7 +270,7 @@ For decades, these old vineyards were neglected or abandoned as economically unv
 
 Spain's wine culture reflects its diversity. In the north, wine accompanies pintxos (Basque tapas) in bars where locals gather before dinner. In Andalucía, chilled Fino or Manzanilla is the traditional afternoon drink, served with olives, almonds, and jamón. In central Spain, wine accompanies the late, leisurely dinner that defines Spanish social life.
 
-Spanish wine consumption has declined significantly over the past 50 years as the country modernized and urbanized. Per capita consumption has dropped from approximately 60 liters per year in the 1970s to about 20 liters today. However, quality consciousness has increased dramatically—Spaniards drink less wine but better wine.
+Spanish wine consumption has declined significantly over the past 50 years as the country modernized and urbanized. Per capita consumption has dropped from approximately 60 liters per year in the 1970s to about 20 liters today. However, quality consciousness has increased dramatically. Spaniards drink less wine but better wine.
 
 The rise of wine tourism has transformed many regions. Rioja, Ribera del Duero, and Priorat now feature architecturally significant wineries designed by Frank Gehry, Santiago Calatrava, and other renowned architects. Wine tourism generates significant revenue and raises regional profiles internationally.
 
@@ -296,9 +296,9 @@ Spain faces significant challenges in the coming decades. Climate change threate
 
 The Spanish wine industry must also navigate generational change. Many top estates are family-owned, and succession planning remains uncertain. Will the next generation maintain family ownership, or will consolidation and corporate ownership increase?
 
-However, Spain's opportunities are equally significant. The country's vast collection of indigenous varieties provides genetic diversity that may prove crucial for climate adaptation. Old-vine plantings at high elevation—in Gredos, the Pyrenees, and other mountain ranges—may become increasingly valuable as lower-elevation sites become too hot.
+However, Spain's opportunities are equally significant. The country's vast collection of indigenous varieties provides genetic diversity that may prove crucial for climate adaptation. Old-vine plantings at high elevation (in Gredos, the Pyrenees, and other mountain ranges) may become increasingly valuable as lower-elevation sites become too hot.
 
-Spain's investment in research and education has created a generation of technically skilled, internationally experienced winemakers who understand both tradition and innovation. This combination—deep-rooted tradition, genetic diversity, and technical sophistication—positions Spain to remain a major force in global wine.
+Spain's investment in research and education has created a generation of technically skilled, internationally experienced winemakers who understand both tradition and innovation. This combination (deep-rooted tradition, genetic diversity, and technical sophistication) positions Spain to remain a major force in global wine.
 
 The rediscovery of forgotten regions and varieties continues. Producers are exploring the Canary Islands' volcanic terroirs, resurrecting ancient varieties in Galicia, and farming abandoned mountain vineyards across the country. Spain is still discovering itself, still revealing its potential.
 

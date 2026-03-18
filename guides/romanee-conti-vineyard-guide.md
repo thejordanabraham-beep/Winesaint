@@ -10,7 +10,7 @@ This positioning within the broader Côte de Nuits escarpment is crucial to unde
 
 ## Size & Parcellation
 
-Romanée-Conti encompasses just 1.805 hectares (4.46 acres), making it one of Burgundy's smallest appellations—smaller than many single vineyard sites in other wine regions. This minuscule size contributes significantly to its mystique and astronomical prices, as production rarely exceeds 450 cases annually, and often falls well below this figure due to the estate's uncompromising quality standards and periodic replanting cycles.
+Romanée-Conti encompasses just 1.805 hectares (4.46 acres), making it one of Burgundy's smallest appellations, smaller than many single vineyard sites in other wine regions. This minuscule size contributes significantly to its mystique and astronomical prices, as production rarely exceeds 450 cases annually, and often falls well below this figure due to the estate's uncompromising quality standards and periodic replanting cycles.
 
 The vineyard operates as a monopole, meaning it is owned entirely by a single entity: Domaine de la Romanée-Conti (DRC). This monopoly status, relatively rare in Burgundy where most Grand Crus are fragmented among multiple owners, has allowed for consistent viticultural practices and winemaking philosophy across the entire site for over two centuries. The domaine has maintained complete control since acquiring the vineyard in 1869, ensuring that every vine, every winemaking decision, and every bottle released carries the unmistakable signature of this legendary terroir without dilution or variation from multiple interpretations.
 
@@ -20,7 +20,7 @@ The vineyard's boundaries are precisely delineated and have remained essentially
 
 The geological foundation of Romanée-Conti represents one of the most analyzed and celebrated terroirs in the wine world. The vineyard sits atop Bathonian limestone from the Middle Jurassic period, approximately 160-170 million years old. This limestone bedrock, known locally as "calcaire de Comblanchien," provides the mineral backbone that defines the wine's structure and aging potential.
 
-Above this limestone foundation lies a complex soil profile that varies subtly across the vineyard's 1.805 hectares. The topsoil consists of reddish-brown clay-limestone mixture, rich in iron oxides that give it the distinctive reddish hue visible in excavations. This clay content, typically ranging from 35-45%, provides water retention during dry periods while the limestone fragments ensure rapid drainage during heavy rainfall—a crucial balance for Pinot Noir's finicky root system.
+Above this limestone foundation lies a complex soil profile that varies subtly across the vineyard's 1.805 hectares. The topsoil consists of reddish-brown clay-limestone mixture, rich in iron oxides that give it the distinctive reddish hue visible in excavations. This clay content, typically ranging from 35-45%, provides water retention during dry periods while the limestone fragments ensure rapid drainage during heavy rainfall: a crucial balance for Pinot Noir's finicky root system.
 
 The soil depth varies from 30-60 centimeters before reaching the solid limestone bedrock, with the shallower sections producing wines of greater concentration and mineral intensity. Fossil fragments, particularly from ancient marine organisms, are abundant throughout the soil profile, contributing calcium carbonate that helps regulate vine nutrition and influences the wine's distinctive mineral character.
 
@@ -58,13 +58,13 @@ Canopy management focuses on creating optimal light exposure for grape clusters 
 
 The wines of Romanée-Conti represent the apotheosis of Pinot Noir expression, combining extraordinary power with ethereal elegance in a way that few vineyards worldwide can achieve. These wines possess a distinctive aromatic signature that experienced tasters can identify blind: an intoxicating perfume of red roses, violets, and dark cherries underlaid with complex spice notes of cinnamon, clove, and exotic tea leaves.
 
-The color typically displays a medium to deep ruby hue with garnet reflections, darker than many Burgundies but never opaque. This intensity of color reflects the vineyard's ability to achieve full phenolic ripeness while maintaining elegance—a hallmark of exceptional terroir.
+The color typically displays a medium to deep ruby hue with garnet reflections, darker than many Burgundies but never opaque. This intensity of color reflects the vineyard's ability to achieve full phenolic ripeness while maintaining elegance: a hallmark of exceptional terroir.
 
 On the palate, Romanée-Conti wines exhibit extraordinary concentration balanced by remarkable finesse. The tannin structure builds gradually, revealing layers of silky, integrated tannins that provide backbone without overwhelming the wine's delicate fruit character. The mineral component, derived from the limestone-rich soils, manifests as a distinctive stony, chalky note that becomes more pronounced with age.
 
 Acidity levels remain consistently high despite the wine's concentration, typically ranging from 6.0-6.5 g/L, providing the structural framework necessary for decades of evolution. This natural acidity, preserved through the vineyard's microclimate and careful winemaking, gives the wines their remarkable aging potential and food compatibility.
 
-The texture of Romanée-Conti wines is perhaps their most distinctive characteristic—simultaneously rich and weightless, with a silky, almost oily mouthfeel that coats the palate without heaviness. This textural complexity develops from the interaction between the vineyard's unique soil composition and the domaine's traditional winemaking techniques, including extended fermentation periods and aging in carefully selected French oak barrels.
+The texture of Romanée-Conti wines is perhaps their most distinctive characteristic, simultaneously rich and weightless, with a silky, almost oily mouthfeel that coats the palate without heaviness. This textural complexity develops from the interaction between the vineyard's unique soil composition and the domaine's traditional winemaking techniques, including extended fermentation periods and aging in carefully selected French oak barrels.
 
 Flavor evolution throughout the tasting experience reveals the wine's extraordinary complexity. Initial fruit impressions of red cherries and raspberries give way to deeper notes of black currants and plums, followed by savory elements of forest floor, truffle, and leather. The finish extends for minutes rather than seconds, with waves of flavor and aroma that continue to develop long after the wine has been swallowed.
 
@@ -80,7 +80,7 @@ Richebourg, located upslope to the northwest, produces wines with greater power 
 
 Romanée-Saint-Vivant, stretching to the east, produces wines that are elegant and refined but lighter in body than Romanée-Conti. The slightly deeper soils and different drainage patterns create wines with more obvious cherry fruit character and softer tannin structure, making them more approachable in youth but with less aging potential.
 
-The Premier Cru vineyards surrounding these Grand Crus—particularly Les Suchots, Les Beaux Monts, and Aux Malconsorts—produce excellent wines that share family resemblances with the Grand Crus but lack the concentration, complexity, and aging potential of the greatest sites. These differences reflect subtle but crucial variations in soil composition, drainage, and microclimate that were recognized centuries ago and formalized in Burgundy's classification system.
+The Premier Cru vineyards surrounding these Grand Crus (particularly Les Suchots, Les Beaux Monts, and Aux Malconsorts) produce excellent wines that share family resemblances with the Grand Crus but lack the concentration, complexity, and aging potential of the greatest sites. These differences reflect subtle but crucial variations in soil composition, drainage, and microclimate that were recognized centuries ago and formalized in Burgundy's classification system.
 
 ## Notable Producers & Their Parcels
 

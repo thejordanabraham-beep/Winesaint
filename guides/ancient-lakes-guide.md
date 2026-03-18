@@ -8,17 +8,17 @@ Located in the heart of Central Washington, Ancient Lakes sits within the Quincy
 
 The AVA's boundaries are defined by distinctive topographical features: the Frenchman Hills to the north, Babcock Ridge to the south, and the dramatic landscape carved by ancient cataclysmic floods to the east and west. This positioning places Ancient Lakes in a unique pocket within the Columbia Basin, distinguished from surrounding AVAs by its specific combination of elevation, soil composition, and microclimate.
 
-The region takes its name from the numerous small lakes and potholes that dot the landscape—geological remnants of the catastrophic Missoula Floods that sculpted this terrain thousands of years ago. These ancient lakes, along with the dramatic coulees and basalt outcroppings, give the region both its name and its distinctive character.
+The region takes its name from the numerous small lakes and potholes that dot the landscape, geological remnants of the catastrophic Missoula Floods that sculpted this terrain thousands of years ago. These ancient lakes, along with the dramatic coulees and basalt outcroppings, give the region both its name and its distinctive character.
 
 ## Climate & Geography
 
 ### Continental Desert Climate
 
-Ancient Lakes experiences a quintessential high-desert continental climate characterized by extremes that challenge and ultimately benefit viticulture. The region receives an average of only 6-8 inches of annual precipitation, classifying it as a true desert environment. This aridity necessitates irrigation but provides winemakers with unprecedented control over vine water stress and vigor—a crucial advantage in premium grape production.
+Ancient Lakes experiences a quintessential high-desert continental climate characterized by extremes that challenge and ultimately benefit viticulture. The region receives an average of only 6-8 inches of annual precipitation, classifying it as a true desert environment. This aridity necessitates irrigation but provides winemakers with unprecedented control over vine water stress and vigor: a crucial advantage in premium grape production.
 
 ### Diurnal Temperature Variation
 
-One of Ancient Lakes' most significant climatic advantages is its dramatic diurnal temperature shift. Summer days regularly reach 90-100°F, providing ample heat for ripening and sugar accumulation. However, temperatures can plummet 40-50°F at night, often dropping into the 50s even during peak growing season. This extreme day-to-night variation is critical for preserving acidity in grapes while still achieving physiological ripeness—a balance that defines the region's wine style.
+One of Ancient Lakes' most significant climatic advantages is its dramatic diurnal temperature shift. Summer days regularly reach 90-100°F, providing ample heat for ripening and sugar accumulation. However, temperatures can plummet 40-50°F at night, often dropping into the 50s even during peak growing season. This extreme day-to-night variation is critical for preserving acidity in grapes while still achieving physiological ripeness: a balance that defines the region's wine style.
 
 ### Topography and Elevation
 
@@ -36,13 +36,13 @@ The basalt bedrock underlying the region, exposed in dramatic cliff faces and ou
 
 ### The Missoula Floods Legacy
 
-Understanding Ancient Lakes terroir requires understanding the Missoula Floods—one of geology's most dramatic events. Between 15,000 and 13,000 years ago, glacial Lake Missoula repeatedly burst through its ice dam, releasing walls of water that raced across eastern Washington at speeds up to 65 mph. These mega-floods scoured the landscape down to bedrock in some areas and deposited massive amounts of sediment in others.
+Understanding Ancient Lakes terroir requires understanding the Missoula Floods, one of geology's most dramatic events. Between 15,000 and 13,000 years ago, glacial Lake Missoula repeatedly burst through its ice dam, releasing walls of water that raced across eastern Washington at speeds up to 65 mph. These mega-floods scoured the landscape down to bedrock in some areas and deposited massive amounts of sediment in others.
 
 The result in Ancient Lakes is a unique soil profile unlike any other wine region in the world. The floods left behind a complex mosaic of soil types, including deposits of gravel, sand, silt, and loess (wind-blown sediment) that settled after the floodwaters receded.
 
 ### Soil Composition
 
-Ancient Lakes soils are predominantly sandy loams, silt loams, and gravelly sandy loams overlying basalt bedrock. The Quincy series soils—the most common in the region—are characterized by:
+Ancient Lakes soils are predominantly sandy loams, silt loams, and gravelly sandy loams overlying basalt bedrock. The Quincy series soils (the most common in the region) are characterized by:
 
 - **Excellent drainage**: The sandy, gravelly composition allows water to permeate quickly, preventing waterlogging and forcing roots to dig deep
 - **Low fertility**: Nutrient-poor soils naturally limit vine vigor, concentrating flavors in smaller berries
@@ -53,7 +53,7 @@ Ancient Lakes soils are predominantly sandy loams, silt loams, and gravelly sand
 
 The soil's porosity and composition have profound effects on grape growing. The rapid drainage means vines must be irrigated carefully, but it also means complete control over water delivery. The low fertility produces smaller berries with higher skin-to-juice ratios, concentrating flavors and tannins. The basalt bedrock's heat retention contributes to the region's overall warmth budget, helping grapes achieve full physiological ripeness even with the dramatic nighttime cooling.
 
-The variability in soil depth and composition across the AVA allows for site-specific matching of varieties to terroir—deeper soils for vigorous varieties like Cabernet Sauvignon, shallower soils over bedrock for stress-tolerant varieties that benefit from natural vigor control.
+The variability in soil depth and composition across the AVA allows for site-specific matching of varieties to terroir, deeper soils for vigorous varieties like Cabernet Sauvignon, shallower soils over bedrock for stress-tolerant varieties that benefit from natural vigor control.
 
 ## Viticulture
 
@@ -82,7 +82,7 @@ The Quincy area has seen substantial vineyard development, with large-scale vine
 
 ### Growing Season
 
-The growing season in Ancient Lakes typically runs from late April budbreak through late October harvest, providing approximately 180-200 frost-free days. The region accumulates 2,800-3,200 Growing Degree Days (Celsius base 10), placing it in Region II to Region III on the Winkler Scale—comparable to Burgundy or Champagne but with far more sunlight hours.
+The growing season in Ancient Lakes typically runs from late April budbreak through late October harvest, providing approximately 180-200 frost-free days. The region accumulates 2,800-3,200 Growing Degree Days (Celsius base 10), placing it in Region II to Region III on the Winkler Scale, comparable to Burgundy or Champagne but with far more sunlight hours.
 
 Key growing season characteristics include:
 
@@ -115,7 +115,7 @@ Key growing season characteristics include:
 
 **Chardonnay** from Ancient Lakes demonstrates crisp acidity with stone fruit and citrus notes. Winemakers have found success with both oak-aged, malolactic styles showing buttery complexity and lean, mineral-driven, stainless steel-fermented expressions that emphasize the terroir's austere character.
 
-**Pinot Gris** and **Gewürztraminer** showcase aromatic intensity with balanced sugar levels—the cool nights preserve the volatile aromatic compounds that can be lost in warmer regions, while sufficient warmth develops full flavors without excessive alcohol.
+**Pinot Gris** and **Gewürztraminer** showcase aromatic intensity with balanced sugar levels: the cool nights preserve the volatile aromatic compounds that can be lost in warmer regions, while sufficient warmth develops full flavors without excessive alcohol.
 
 Red wines from Ancient Lakes tend toward elegant, medium-bodied styles rather than blockbuster expressions. **Merlot** shows supple tannins with red fruit characteristics and herbal notes. **Cabernet Sauvignon**, while requiring warmer sites, can achieve ripeness with more restraint and higher acidity than warmer Washington AVAs.
 
@@ -213,12 +213,12 @@ Ancient Lakes stands at an exciting juncture. The AVA has established its identi
 
 4. **Viticultural Knowledge**: As growers gain experience with the specific challenges and opportunities of Ancient Lakes terroir, quality will continue to improve
 
-5. **Market Positioning**: Ancient Lakes occupies a unique niche in Washington wine—cooler than the warmest regions but warmer than the coolest, with distinctive soils unlike anywhere else
+5. **Market Positioning**: Ancient Lakes occupies a unique niche in Washington wine, cooler than the warmest regions but warmer than the coolest, with distinctive soils unlike anywhere else
 
 The primary challenge remains building name recognition and establishing Ancient Lakes as a destination in consumers' minds, but the quality of wines emerging from the region suggests this is a matter of time rather than potential.
 
 ## Conclusion
 
-Ancient Lakes AVA represents one of Washington wine's most exciting stories—a geologically unique region producing distinctive wines that showcase what happens when desert terroir meets cool-climate sensibilities. Its dramatic landscape, carved by cataclysmic floods and shaped by millennia of wind and weather, produces wines of precision, aromatics, and elegant intensity.
+Ancient Lakes AVA represents one of Washington wine's most exciting stories: a geologically unique region producing distinctive wines that showcase what happens when desert terroir meets cool-climate sensibilities. Its dramatic landscape, carved by cataclysmic floods and shaped by millennia of wind and weather, produces wines of precision, aromatics, and elegant intensity.
 
 For wine professionals, Ancient Lakes offers a compelling case study in terroir expression and the importance of matching variety to place. For enthusiasts, it provides an opportunity to explore wines of exceptional quality and value from one of Washington's most distinctive regions. As the AVA matures and its reputation grows, Ancient Lakes seems poised to join Washington's elite wine regions, recognized not as an imitation of any other place, but as an expression of something uniquely its own.

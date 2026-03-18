@@ -42,7 +42,7 @@ Precipitation patterns at Grande Montagne typically follow the regional norm, wi
 
 ## Viticulture
 
-Grande Montagne is planted exclusively to Chardonnay, reflecting both the site's exceptional suitability for this variety and the historical tradition of white wine production in Chassagne-Montrachet. The vineyard's terroir characteristics—limestone soils, optimal exposure, and moderate elevation—create ideal conditions for producing Chardonnay of exceptional quality and complexity.
+Grande Montagne is planted exclusively to Chardonnay, reflecting both the site's exceptional suitability for this variety and the historical tradition of white wine production in Chassagne-Montrachet. The vineyard's terroir characteristics (limestone soils, optimal exposure, and moderate elevation) create ideal conditions for producing Chardonnay of exceptional quality and complexity.
 
 Vine age across Grande Montagne varies considerably among different parcels, with some sections containing vines over 50 years old while others have been more recently replanted. The older vines, particularly those approaching or exceeding 30 years of age, produce grapes with greater concentration and complexity, as their deep root systems access a broader range of soil nutrients and maintain better water regulation during varying weather conditions.
 
@@ -58,9 +58,9 @@ Site-specific challenges include managing the vineyard's slope to prevent erosio
 
 Wines from Grande Montagne express a distinctive character that reflects the unique terroir conditions of this elevated Premier Cru site. The Chardonnay produced here displays a remarkable combination of power and elegance, with a mineral backbone that provides structure and longevity while supporting complex aromatic development.
 
-The aromatic profile of Grande Montagne typically begins with precise citrus notes—lemon zest, lime, and occasionally grapefruit—that reflect the vineyard's limestone foundation and optimal sun exposure. These primary citrus characteristics are often accompanied by white flower aromatics, including acacia and hawthorn, that add elegance and lift to the wine's bouquet. As the wines develop, stone fruit notes emerge, particularly white peach and apricot, indicating the site's ability to achieve full phenolic ripeness.
+The aromatic profile of Grande Montagne typically begins with precise citrus notes (lemon zest, lime, and occasionally grapefruit) that reflect the vineyard's limestone foundation and optimal sun exposure. These primary citrus characteristics are often accompanied by white flower aromatics, including acacia and hawthorn, that add elegance and lift to the wine's bouquet. As the wines develop, stone fruit notes emerge, particularly white peach and apricot, indicating the site's ability to achieve full phenolic ripeness.
 
-With age, Grande Montagne reveals more complex secondary and tertiary aromatics. Mineral notes become more pronounced, displaying the characteristic "wet stone" or "gun flint" quality associated with limestone-based terroirs. Subtle spice notes—white pepper, ginger, and sometimes a hint of cinnamon—develop, along with hints of honey and toasted nuts that reflect both the wine's natural evolution and judicious use of oak aging.
+With age, Grande Montagne reveals more complex secondary and tertiary aromatics. Mineral notes become more pronounced, displaying the characteristic "wet stone" or "gun flint" quality associated with limestone-based terroirs. Subtle spice notes (white pepper, ginger, and sometimes a hint of cinnamon) develop, along with hints of honey and toasted nuts that reflect both the wine's natural evolution and judicious use of oak aging.
 
 The palate structure of Grande Montagne demonstrates remarkable balance between power and finesse. The wines typically display medium to full body, with a rich, creamy texture that reflects the site's clay content and the natural weight that Chardonnay achieves in this terroir. Acidity is consistently vibrant and well-integrated, providing freshness and aging potential without overwhelming the wine's fruit character.
 
@@ -90,7 +90,7 @@ Domaine Fontaine-Gagnard, another branch of the prolific Gagnard family, cultiva
 
 Domaine Blain-Gagnard owns a smaller but well-positioned parcel that consistently produces wines of exceptional quality and typicity. Their winemaking style emphasizes purity of fruit expression and terroir transparency, resulting in Grande Montagne wines that clearly display the site's limestone-derived character.
 
-Several smaller producers and négociant houses also source grapes from Grande Montagne, creating diverse stylistic interpretations of the vineyard's potential. These varying approaches—from traditional Burgundian methods to more modern interventionist techniques—demonstrate the terroir's flexibility while maintaining its fundamental character.
+Several smaller producers and négociant houses also source grapes from Grande Montagne, creating diverse stylistic interpretations of the vineyard's potential. These varying approaches (from traditional Burgundian methods to more modern interventionist techniques) demonstrate the terroir's flexibility while maintaining its fundamental character.
 
 The differences among producers often reflect varying vine ages, precise parcel locations within the climat, and winemaking philosophies rather than fundamental terroir distinctions. However, the consistent thread of mineral precision and structured elegance runs through all serious expressions of Grande Montagne, regardless of the producer's specific approach.
 
@@ -108,7 +108,7 @@ The historical reputation of Grande Montagne has been built on consistency and l
 
 ## Aging Potential & Quality Level
 
-Grande Montagne produces wines with exceptional aging potential, typically reaching optimal drinking condition 8-12 years after harvest and maintaining quality for 15-20 years in favorable vintages. This longevity reflects the wine's structural components—natural acidity, mineral content, and subtle tannins—that provide the framework necessary for extended cellaring.
+Grande Montagne produces wines with exceptional aging potential, typically reaching optimal drinking condition 8-12 years after harvest and maintaining quality for 15-20 years in favorable vintages. This longevity reflects the wine's structural components (natural acidity, mineral content, and subtle tannins) that provide the framework necessary for extended cellaring.
 
 The evolution trajectory of Grande Montagne follows a predictable but fascinating pattern. In youth (1-3 years), the wines display primary citrus and floral characteristics with prominent mineral undertones. The acidity is often quite pronounced, and the overall impression is one of restraint and potential rather than immediate gratification.
 

@@ -1,0 +1,29 @@
+# Cottà MGA, Neive, Barbaresco
+
+## Introduction
+
+Cottà is one of the officially recognized menzioni geografiche aggiuntive (MGAs) in the commune of Neive within the Barbaresco DOCG. Introduced as part of the comprehensive 2007 MGA classification, three years before Barolo established its own official cru system (Cottà represents one of the many historically significant vineyard sites that were sensibly retained in the official list rather than absorbed into more commercially prominent names. Located in Neive, the self-described "township of four wines" (Barbaresco, Moscato, Barbera, and Dolcetto), Cottà produces Nebbiolo in a commune that has witnessed dramatic expansion of this noble variety, growing from 140 hectares in 1995 to 265 hectares by 2019.
+
+Neive's transformation into a significant Nebbiolo producer is a relatively recent phenomenon. The variety only consolidated its position here after the Second World War, expanding at the expense of Barbera and Dolcetto as Barbaresco's international reputation and commercial value increased. Despite this growth, Moscato has remained largely unaffected, still comprising half of the commune's planted area. This historical context is important for understanding Neive's MGAs, including Cottà, which emerged from a viticultural landscape once dominated by other varieties.
+
+## Terroir and Site Characteristics
+
+While specific technical details about Cottà's precise elevation, exposure, and soil profile are not extensively documented in the historical record, the site shares the fundamental geological characteristics common to Neive's vineyard areas. Barbaresco's soils can be broadly divided into two types, with the calcareous clay of the Tortonion epoch being predominant. This soil type is very similar to that found in the Barolo communes of La Morra and Barolo, resulting in wines with particular textural and aromatic profiles.
+
+The calcareous clay soils characteristic of much of Neive provide moderate fertility and well-regulated water supply to the vines) conditions that research has shown to be fundamental to producing high-quality wines. These clay-loam soils can hold significant supplies of water that remain readily available to the vine, allowing for moderate but not excessive vigor. This balance is crucial for Nebbiolo, which requires sufficient water stress to concentrate flavors without compromising the vine's ability to achieve full phenolic ripeness.
+
+The terroir of Neive, and by extension its individual MGAs like Cottà, contributes to wines that express the particular character of this commune within the broader Barbaresco landscape. The interaction between soil composition, local topography, and microclimate creates the conditions for the distinctive Barbaresco profile (wines that, while sharing Nebbiolo's fundamental characteristics of pronounced tannins and acidity, differ subtly from their counterparts in the communes of Barbaresco proper and Treiso.
+
+## Wine Characteristics and Style
+
+Barbaresco from Neive, including wines from Cottà, expresses the essential character of Nebbiolo while reflecting the specific conditions of this commune. These wines possess the variety's hallmark tannins and acidity, typically reaching 13.5% alcohol or higher while maintaining a minimum of 12.5% as required by DOCG regulations. Despite Barbaresco's reputation as a lighter-bodied wine compared to Barolo) a perception partly attributable to its shorter minimum aging requirements of 26 months total (with nine months in wood) versus Barolo's 38 months, young Barbaresco from sites like Cottà is by no means an inevitably pleasurable glass of wine. These are structured, age-worthy wines that demand patience.
+
+The aromatic profile typical of quality Barbaresco includes perfumes of cherry and violets in youth, evolving with age to reveal complex notes of iron, tar, and orange peel. The calcareous clay soils common in Neive contribute to wines with particular textural qualities and the capacity for extended aging, challenging the false assumption that Barbaresco lacks the ageworthy character of its more famous neighbor.
+
+Winemaking approaches in Barbaresco have evolved significantly over recent decades. Following a period in the 1970s and 1980s when producers favored shorter macerations and aging in French barriques to create rounder, fruitier wines, many have returned to more traditional methods. Today, an increasing number of Barbaresco producers employ extended macerations of up to 40 days and age their wines in large oak casks rather than barrique, seeking to preserve Nebbiolo's delicate perfume and authentic expression of terroir.
+
+## Context and Recognition
+
+The official MGA system, which includes Cottà among its recognized sites, has been fundamental to preserving Barbaresco's historical vineyard designations and preventing the commercial consolidation that might have obscured lesser-known sites. While certain vineyards (San Lorenzo, Tildin, and Martinenga in the commune of Barbaresco, and Santo Stefano in Neive) have gained particular prestige through the dedicated work of producers such as Gaja, Giacosa, and Alberto di Gresy, the comprehensive MGA list ensures that sites like Cottà maintain their individual identity and recognition.
+
+The work of the Produttori del Barbaresco, one of Italy's finest cooperatives, along with individual producers throughout the zone, has been instrumental in establishing Barbaresco's reputation for top-quality wines. A growing number of smaller producers have embraced organic and biodynamic viticulture, using traditional winemaking techniques to produce highly original, long-lived wines with muscular structure and distinctive aromatic profiles. This evolution in quality and approach benefits all of Barbaresco's MGAs, including the less internationally prominent sites that nonetheless contribute to the appellation's diversity and character.

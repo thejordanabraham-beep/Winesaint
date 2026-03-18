@@ -41,7 +41,7 @@ These volcanic soils are interspersed with:
 - **Glacial moraine:** Granite, gneiss, and other crystalline rocks transported by Quaternary glaciers
 - **Alluvial material:** Gravelly, well-draining soils in certain sectors
 
-The soil structure is generally loose and well-drained, with moderate fertility—ideal conditions for Nebbiolo, which thrives when stressed and produces its most complex wines in lean, mineral-rich substrates. The volcanic component is particularly crucial, contributing to the wine's characteristic tension, minerality, and savory complexity that distinguishes Boca from limestone-influenced Nebbiolo wines elsewhere in Piedmont.
+The soil structure is generally loose and well-drained, with moderate fertility, ideal conditions for Nebbiolo, which thrives when stressed and produces its most complex wines in lean, mineral-rich substrates. The volcanic component is particularly crucial, contributing to the wine's characteristic tension, minerality, and savory complexity that distinguishes Boca from limestone-influenced Nebbiolo wines elsewhere in Piedmont.
 
 ### Vineyard Sites and Exposure
 
@@ -49,11 +49,11 @@ The finest Boca vineyards occupy hillside positions between 250 and 550 meters a
 
 Historic vineyard sites (some known as "ronchi" or "bricchi" in local dialect) include renowned parcels that survived the decades of decline and are now being meticulously restored. These traditional sites, often terraced and delimited by stone walls, represent generations of empirical observation about which exposures and soil compositions yield the finest results.
 
-The vineyard area is limited—the entire DOC encompasses approximately 15-20 hectares of producing vineyards, making Boca one of Italy's smallest appellations. This scarcity contributes to the wines' exclusivity and the intimate knowledge producers have of each parcel.
+The vineyard area is limited: the entire DOC encompasses approximately 15-20 hectares of producing vineyards, making Boca one of Italy's smallest appellations. This scarcity contributes to the wines' exclusivity and the intimate knowledge producers have of each parcel.
 
 ### Altitude and Microclimate
 
-Boca's elevated position creates a distinctive mesoclimate that fundamentally shapes wine character. The altitude moderates summer heat, resulting in significant diurnal temperature variation—warm days for ripening alternating with cool nights that preserve acidity and aromatic complexity. This daily temperature swing can reach 15-20°C during September and October, the crucial ripening period.
+Boca's elevated position creates a distinctive mesoclimate that fundamentally shapes wine character. The altitude moderates summer heat, resulting in significant diurnal temperature variation, warm days for ripening alternating with cool nights that preserve acidity and aromatic complexity. This daily temperature swing can reach 15-20°C during September and October, the crucial ripening period.
 
 The climate is influenced by multiple factors:
 - **Alpine proximity:** Cool air currents from the Alps provide refreshment and extend the growing season
@@ -174,8 +174,8 @@ Boca presents a distinctive sensory signature that reflects its volcanic terroir
 **Visual:** Medium to medium-full ruby red in youth, developing garnet and brick tones with age. The volcanic influence often imparts a slightly darker hue than some southern Piedmont Nebbiolos.
 
 **Aromatic profile:**
-- **Floral:** Rose petal, violet, iris, dried flowers—often more pronounced than in Barolo
-- **Fruit:** Red cherry, raspberry, wild strawberry, red currant, cranberry—tending toward red fruit rather than dark
+- **Floral:** Rose petal, violet, iris, dried flowers, often more pronounced than in Barolo
+- **Fruit:** Red cherry, raspberry, wild strawberry, red currant, cranberry, tending toward red fruit rather than dark
 - **Herbal/spice:** Alpine herbs, mint, eucalyptus, white pepper, star anise, clove
 - **Earth/mineral:** Volcanic ash, graphite, wet stone, iron, blood orange, subtle smokiness
 - **Evolution:** Truffle, leather, tobacco, dried rose, forest floor, tea leaves with age
@@ -205,7 +205,7 @@ Within Alto Piemonte's constellation of Nebbiolo-based DOCs, Boca occupies a dis
 
 The comparison between Boca and southern Piedmont's famous duo reveals fascinating contrasts:
 
-**Terroir influence:** Barolo and Barbaresco's limestone and calcareous marl produce wines with different structural elements—often more tannic power in Barolo, more aromatic finesse in Barbaresco—compared to Boca's volcanic mineral signature.
+**Terroir influence:** Barolo and Barbaresco's limestone and calcareous marl produce wines with different structural elements (often more tannic power in Barolo, more aromatic finesse in Barbaresco) compared to Boca's volcanic mineral signature.
 
 **Climate:** Alto Piemonte's cooler, higher-altitude climate with longer growing season produces wines with typically higher acidity, more herbal/floral notes, and generally lower alcohol (12.5-13.5% vs. 14-15%+).
 
@@ -215,7 +215,7 @@ The comparison between Boca and southern Piedmont's famous duo reveals fascinati
 
 **Aging curve:** Boca evolves somewhat differently, often drinking well with 5-10 years of age and continuing for 15-25+ years in great vintages, similar to Barbaresco's timeline but perhaps with greater emphasis on savory, mineral evolution over fruit concentration.
 
-**Personality:** If Barolo is the "king of wines" with masculine power and Barbaresco the "queen" with feminine grace, Boca might be characterized as the refined intellectual—cerebral, mineral, complex, rewarding contemplation.
+**Personality:** If Barolo is the "king of wines" with masculine power and Barbaresco the "queen" with feminine grace, Boca might be characterized as the refined intellectual, cerebral, mineral, complex, rewarding contemplation.
 
 ### Aging Potential and Evolution
 
@@ -225,7 +225,7 @@ Boca demonstrates remarkable aging potential, with the finest examples evolving 
 
 **Early maturity (5-10 years):** The wine begins opening, tannins integrate, tertiary complexity emerges while maintaining vibrant fruit. This represents the beginning of optimal drinking for most bottles.
 
-**Full maturity (10-20 years):** Complete integration of components, with beautiful secondary and tertiary characteristics—truffle, leather, dried flowers, forest floor—layered over a foundation of mineral and subtle fruit. The wine shows completeness and harmony.
+**Full maturity (10-20 years):** Complete integration of components, with beautiful secondary and tertiary characteristics (truffle, leather, dried flowers, forest floor) layered over a foundation of mineral and subtle fruit. The wine shows completeness and harmony.
 
 **Extended aging (20+ years):** Great vintages from top sites can evolve for decades, developing extraordinary savory complexity, silky texture, and the ethereal, haunting qualities of aged Nebbiolo while maintaining freshness through persistent acidity and mineral structure.
 
@@ -237,9 +237,9 @@ The volcanic terroir seems to provide particular structural integrity that suppo
 
 Boca's revival has been driven by a small group of dedicated producers combining historical knowledge with modern quality standards:
 
-**Le Piane:** Perhaps Boca's most internationally recognized producer, Le Piane is owned by Christoph Künzli, who arrived from Switzerland and became passionate about Alto Piemonte's heritage. The estate produces benchmark Boca characterized by extraordinary finesse, purity, and aging potential, along with excellent Bramaterra and other regional wines. Le Piane's Boca shows the appellation's most refined expression—mineral, floral, elegant, and complex.
+**Le Piane:** Perhaps Boca's most internationally recognized producer, Le Piane is owned by Christoph Künzli, who arrived from Switzerland and became passionate about Alto Piemonte's heritage. The estate produces benchmark Boca characterized by extraordinary finesse, purity, and aging potential, along with excellent Bramaterra and other regional wines. Le Piane's Boca shows the appellation's most refined expression, mineral, floral, elegant, and complex.
 
-**Barbaglia:** A historic estate representing multi-generational commitment to Boca, Barbaglia maintains traditional viticulture and winemaking while gradually modernizing. Their Boca exemplifies classic style—structured, austere in youth, rewarding patience with development of complex tertiary characteristics.
+**Barbaglia:** A historic estate representing multi-generational commitment to Boca, Barbaglia maintains traditional viticulture and winemaking while gradually modernizing. Their Boca exemplifies classic style, structured, austere in youth, rewarding patience with development of complex tertiary characteristics.
 
 **Proprietà Sperino:** Founded by Paolo De Marchi (of Isole e Olena in Chianti Classico), Proprietà Sperino represents quality-focused investment in Alto Piemonte. While better known for wines from neighboring appellations, their approach to Boca emphasizes terroir transparency and refined winemaking.
 
@@ -251,11 +251,11 @@ Boca's revival has been driven by a small group of dedicated producers combining
 
 The distinction between "historic" and "modern" in Boca is somewhat fluid, as even long-established families have adapted techniques, while newcomers often embrace traditional approaches.
 
-**Historic continuity:** Producers like Barbaglia represent families who maintained viticulture through challenging times, preserving knowledge, plant material, and vineyard sites that might otherwise have been lost. Their approach tends toward traditionalism—large botti, extended maceration, long aging—though not without modern hygiene and technical understanding.
+**Historic continuity:** Producers like Barbaglia represent families who maintained viticulture through challenging times, preserving knowledge, plant material, and vineyard sites that might otherwise have been lost. Their approach tends toward traditionalism (large botti, extended maceration, long aging) though not without modern hygiene and technical understanding.
 
 **Modern interpreters:** Producers like Le Piane and Proprietà Sperino brought outside perspectives, investment, and contemporary oenological knowledge while deeply respecting local tradition and terroir. They've helped elevate Boca's quality reputation and international visibility.
 
-The synthesis of these approaches—traditional wisdom meeting modern precision—characterizes Boca's current renaissance, with all producers sharing commitment to quality, terroir expression, and the appellation's heritage.
+The synthesis of these approaches (traditional wisdom meeting modern precision) characterizes Boca's current renaissance, with all producers sharing commitment to quality, terroir expression, and the appellation's heritage.
 
 ### Standout Bottlings
 
@@ -265,7 +265,7 @@ Given the tiny production, specific bottlings of note include:
 - **Barbaglia Boca:** Traditional expression with authentic character and historical continuity
 - **Single-vineyard selections:** When produced, these showcase specific terroir nuances, though they're rare and highly allocated
 
-The entire production from most estates represents top quality, as the economic realities of Boca's tiny scale necessitate uncompromising standards—there's simply insufficient volume to support multiple quality tiers.
+The entire production from most estates represents top quality, as the economic realities of Boca's tiny scale necessitate uncompromising standards, there's simply insufficient volume to support multiple quality tiers.
 
 ## 7. Food Pairing & Service
 
@@ -274,12 +274,12 @@ The entire production from most estates represents top quality, as the economic 
 Boca's structure, acidity, and savory complexity make it supremely food-friendly, particularly with the robust cuisine of Alto Piemonte:
 
 **Classic pairings:**
-- **Brasato al Barolo:** Beef braised in wine—though traditionally made with Barolo, Boca works beautifully
+- **Brasato al Barolo:** Beef braised in wine, though traditionally made with Barolo, Boca works beautifully
 - **Game dishes:** Wild boar, venison, hare prepared in rich sauces complement Boca's structure and earthiness
 - **Ossobuco:** Braised veal shanks with the wine's acidity cutting through richness
 - **Risotto with Barolo or mushrooms:** The wine's minerality and acidity balance creamy rice dishes
 - **Aged cheeses:** Particularly Bettelmatt, Gorgonzola, aged Grana Padano, Castelmagno
-- **Truffle preparations:** White or black truffles with tajarin pasta or fonduta—Boca's earthiness harmonizes with truffle's pungency
+- **Truffle preparations:** White or black truffles with tajarin pasta or fonduta. Boca's earthiness harmonizes with truffle's pungency
 - **Polenta dishes:** Particularly with wild mushrooms, braised meats, or game ragù
 
 **Regional specialties:**
@@ -320,8 +320,8 @@ Given production volumes and the wine's aging requirements, older vintages are r
 
 ## Conclusion
 
-Boca represents one of Italian wine's most compelling stories—an historic appellation nearly lost to time, now experiencing renaissance through the dedication of passionate producers who recognize its unique potential. The combination of volcanic terroir, Alpine-influenced mesoclimate, and traditional blending creates Nebbiolo wines of distinctive personality: elegant rather than powerful, mineral rather than fruity, cerebral rather than immediately gratifying.
+Boca represents one of Italian wine's most compelling stories: an historic appellation nearly lost to time, now experiencing renaissance through the dedication of passionate producers who recognize its unique potential. The combination of volcanic terroir, Alpine-influenced mesoclimate, and traditional blending creates Nebbiolo wines of distinctive personality: elegant rather than powerful, mineral rather than fruity, cerebral rather than immediately gratifying.
 
-For wine enthusiasts seeking alternatives to the increasingly expensive and difficult-to-obtain wines of Barolo and Barbaresco, Boca offers extraordinary quality and complexity at more accessible prices, though still representing serious investment given tiny production. For those passionate about terroir expression and willing to exercise patience—both in the cellar and in the glass—Boca provides profound rewards: wines that speak eloquently of ancient volcanic soils, Alpine breezes, and centuries of accumulated viticultural wisdom.
+For wine enthusiasts seeking alternatives to the increasingly expensive and difficult-to-obtain wines of Barolo and Barbaresco, Boca offers extraordinary quality and complexity at more accessible prices, though still representing serious investment given tiny production. For those passionate about terroir expression and willing to exercise patience, both in the cellar and in the glass. Boca provides profound rewards: wines that speak eloquently of ancient volcanic soils, Alpine breezes, and centuries of accumulated viticultural wisdom.
 
-As Alto Piemonte continues its broader revival and international attention grows, Boca stands positioned as one of the region's crown jewels—a tiny appellation producing wines of extraordinary character that deserve recognition alongside Italy's greatest Nebbiolo expressions. The journey from near-extinction to renaissance remains ongoing, with each vintage adding another chapter to Boca's remarkable story.
+As Alto Piemonte continues its broader revival and international attention grows, Boca stands positioned as one of the region's crown jewels: a tiny appellation producing wines of extraordinary character that deserve recognition alongside Italy's greatest Nebbiolo expressions. The journey from near-extinction to renaissance remains ongoing, with each vintage adding another chapter to Boca's remarkable story.

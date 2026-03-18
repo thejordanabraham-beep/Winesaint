@@ -6,7 +6,7 @@ Marsannay stands as the northernmost appellation in the prestigious Côte de Nui
 
 The commune sits immediately north of Fixin, Burgundy's next appellation moving south along the Côte de Nuits, and serves as the natural introduction to the golden slope that continues through Gevrey-Chambertin, Morey-Saint-Denis, Chambolle-Musigny, Vougeot, Vosne-Romanée, and Nuits-Saint-Georges. This positioning places Marsannay within the rain shadow of the Morvan hills to the west, benefiting from the continental climate that defines the Côte d'Or's wine character.
 
-The vineyard exposition predominantly faces east and southeast, capturing the beneficial morning sun while receiving protection from harsh western weather systems. The gentle slopes, averaging 5-8% gradient in the prime vineyard areas, provide optimal drainage while maintaining sufficient soil depth for vine root development. This combination of factors creates growing conditions that favor both Pinot Noir and Chardonnay, though the appellation has gained particular recognition for its distinctive rosé wines—a rarity in Burgundy's red wine-dominated landscape.
+The vineyard exposition predominantly faces east and southeast, capturing the beneficial morning sun while receiving protection from harsh western weather systems. The gentle slopes, averaging 5-8% gradient in the prime vineyard areas, provide optimal drainage while maintaining sufficient soil depth for vine root development. This combination of factors creates growing conditions that favor both Pinot Noir and Chardonnay, though the appellation has gained particular recognition for its distinctive rosé wines: a rarity in Burgundy's red wine-dominated landscape.
 
 ## Historical Background
 
@@ -16,7 +16,7 @@ During the medieval period, the Abbey of Bèze, located in nearby Gevrey-Chamber
 
 The modern appellation system recognized Marsannay in 1987, relatively late compared to most Côte de Nuits appellations, which achieved AOC status in 1936. This delay reflected the commune's historical focus on rosé production and its position outside the most prestigious vineyard areas. However, the official recognition validated centuries of quality wine production and established Marsannay's legitimate place within Burgundy's hierarchy.
 
-Throughout the 18th and 19th centuries, Marsannay developed a specialized reputation for rosé wines, becoming one of the few Burgundy communes where this style achieved serious recognition among wine connoisseurs. This tradition emerged from practical considerations—the relatively cool climate and specific soil conditions in certain sectors favored the lighter extraction that produces elegant rosé wines from Pinot Noir.
+Throughout the 18th and 19th centuries, Marsannay developed a specialized reputation for rosé wines, becoming one of the few Burgundy communes where this style achieved serious recognition among wine connoisseurs. This tradition emerged from practical considerations: the relatively cool climate and specific soil conditions in certain sectors favored the lighter extraction that produces elegant rosé wines from Pinot Noir.
 
 The phylloxera crisis of the late 19th century devastated Marsannay's vineyards like those throughout Europe, but reconstruction efforts focused on replanting with grafted vines in the most suitable sites. This rebuilding period allowed for rationalization of vineyard boundaries and improvement of varietal selection, contributing to the modern quality reputation that led to eventual AOC recognition.
 
@@ -36,7 +36,7 @@ Marsannay receives approximately 750mm of annual precipitation, concentrated pri
 
 ## Vineyard Classification System
 
-Marsannay operates within Burgundy's traditional three-tier classification system, though it lacks Grand Cru vineyards—a distinction shared only with Fixin among major Côte de Nuits appellations. The classification structure consists of regional Bourgogne wines, village-level Marsannay appellations, and Premier Cru designations for the finest vineyard sites.
+Marsannay operates within Burgundy's traditional three-tier classification system, though it lacks Grand Cru vineyards: a distinction shared only with Fixin among major Côte de Nuits appellations. The classification structure consists of regional Bourgogne wines, village-level Marsannay appellations, and Premier Cru designations for the finest vineyard sites.
 
 The village-level Marsannay appellation encompasses most of the commune's vineyard area, covering 234 hectares across varied terroirs and elevations. These wines represent the fundamental character of the appellation and demonstrate the house style of individual producers. Village-level classifications permit both red and white wine production, with rosé wines holding particular historical significance.
 
@@ -46,15 +46,15 @@ Les Longeroies represents the largest and most prestigious Premier Cru vineyard 
 
 Les Saint-Jacques covers 4.2 hectares on steep slopes with thin topsoil over limestone bedrock, creating wines of exceptional finesse and mineral expression. The vineyard's southern exposure and excellent air circulation produce consistently ripe fruit with retained acidity.
 
-The remaining Premier Cru sites—Le Boivin (3.8 hectares), Les Echezots (3.7 hectares), and Les Grasses Têtes (2.8 hectares)—each possess distinctive terroir characteristics that contribute to the diversity of expression within Marsannay's top tier.
+The remaining Premier Cru sites. Le Boivin (3.8 hectares), Les Echezots (3.7 hectares), and Les Grasses Têtes (2.8 hectares), each possess distinctive terroir characteristics that contribute to the diversity of expression within Marsannay's top tier.
 
 Unlike appellations further south in the Côte de Nuits, Marsannay permits rosé wine production at both village and Premier Cru levels, maintaining its historical specialization while expanding quality recognition. This unique characteristic distinguishes Marsannay within Burgundy's classification system and preserves traditional winemaking practices dating back centuries.
 
 ## Wine Styles & Characteristics
 
-Marsannay produces three distinct wine styles—red, white, and rosé—each expressing the appellation's terroir through different varietal lenses. Red wines dominate production volume and critical attention, representing approximately 85% of total output. These wines display characteristics that bridge the robust structure of northern Côte de Nuits appellations with the elegance associated with Burgundy's finest expressions.
+Marsannay produces three distinct wine styles (red, white, and rosé) each expressing the appellation's terroir through different varietal lenses. Red wines dominate production volume and critical attention, representing approximately 85% of total output. These wines display characteristics that bridge the robust structure of northern Côte de Nuits appellations with the elegance associated with Burgundy's finest expressions.
 
-Marsannay red wines typically exhibit medium to medium-full body with structured tannins that provide aging framework without overwhelming the delicate Pinot Noir fruit. The signature aromatic profile combines red berry fruits—particularly cherry, raspberry, and cranberry—with distinctive earthy undertones reflecting the limestone-rich soils. Minerality appears prominently, expressed as wet stone, chalk, and iron-like metallic notes that distinguish Marsannay from neighboring appellations.
+Marsannay red wines typically exhibit medium to medium-full body with structured tannins that provide aging framework without overwhelming the delicate Pinot Noir fruit. The signature aromatic profile combines red berry fruits (particularly cherry, raspberry, and cranberry) with distinctive earthy undertones reflecting the limestone-rich soils. Minerality appears prominently, expressed as wet stone, chalk, and iron-like metallic notes that distinguish Marsannay from neighboring appellations.
 
 The tannin structure in Marsannay reds develops differently than in appellations further south. The cooler climate and specific terroir conditions produce wines with fine-grained tannins that integrate smoothly with fruit flavors, avoiding the harsh astringency that can characterize wines from marginal vineyard sites. This characteristic makes Marsannay wines approachable in youth while maintaining sufficient structure for extended cellaring.
 

@@ -10,7 +10,7 @@ The AVA is located roughly 25 miles northeast of the Tri-Cities area (Richland, 
 
 ### Name Origin and Historical Significance
 
-The name "The Burn" derives from the region's stark, almost otherworldly appearance—a landscape that appears scorched by the sun and wind. This colloquial name has been used by local residents for generations, referring to the area's dramatic topography of exposed basalt cliffs, minimal vegetation, and sun-baked plateaus. The nomenclature reflects both the intense environmental conditions and the visual character of this high-desert terrain, where summer temperatures regularly exceed 100°F and the landscape takes on hues of burnt sienna, ochre, and charcoal.
+The name "The Burn" derives from the region's stark, almost otherworldly appearance: a landscape that appears scorched by the sun and wind. This colloquial name has been used by local residents for generations, referring to the area's dramatic topography of exposed basalt cliffs, minimal vegetation, and sun-baked plateaus. The nomenclature reflects both the intense environmental conditions and the visual character of this high-desert terrain, where summer temperatures regularly exceed 100°F and the landscape takes on hues of burnt sienna, ochre, and charcoal.
 
 The petition for AVA designation emphasized how this distinctive geography creates a unique mesoclimate that differentiates The Burn from surrounding Columbia Valley sub-appellations. The formal recognition in 2021 acknowledged what local viticulturists had long understood: this harsh, beautiful landscape possesses exceptional potential for producing wines with distinctive character.
 
@@ -20,7 +20,7 @@ The petition for AVA designation emphasized how this distinctive geography creat
 
 The Burn experiences a classic desert continental climate, characterized by dramatic diurnal temperature swings, abundant sunshine, and minimal precipitation. This climate regime proves ideal for premium viticulture, offering long, warm growing seasons with cool nights that preserve crucial acidity in developing grapes.
 
-Summer daytime temperatures frequently reach 95-105°F, while nighttime temperatures can drop 40-50 degrees, creating the temperature differential that allows grapes to maintain freshness and develop complex flavor compounds while achieving full phenolic ripeness. The region enjoys approximately 300 days of sunshine annually, with over 16 hours of daylight during the peak growing season—among the longest day lengths of any wine region in the world at this latitude (approximately 46°N).
+Summer daytime temperatures frequently reach 95-105°F, while nighttime temperatures can drop 40-50 degrees, creating the temperature differential that allows grapes to maintain freshness and develop complex flavor compounds while achieving full phenolic ripeness. The region enjoys approximately 300 days of sunshine annually, with over 16 hours of daylight during the peak growing season, among the longest day lengths of any wine region in the world at this latitude (approximately 46°N).
 
 ### Precipitation and Irrigation
 
@@ -30,7 +30,7 @@ Most vineyards utilize drip irrigation systems drawing from the Columbia River b
 
 ### Elevation and Topography
 
-The Burn's elevation ranges from approximately 550 feet to 1,200 feet above sea level, with most vineyard sites positioned between 700 and 1,000 feet. This elevation range places the region in a sweet spot for viticulture—high enough to benefit from enhanced diurnal temperature variation and improved cold air drainage, yet low enough to accumulate the substantial heat units required for ripening premium wine grapes.
+The Burn's elevation ranges from approximately 550 feet to 1,200 feet above sea level, with most vineyard sites positioned between 700 and 1,000 feet. This elevation range places the region in a sweet spot for viticulture, high enough to benefit from enhanced diurnal temperature variation and improved cold air drainage, yet low enough to accumulate the substantial heat units required for ripening premium wine grapes.
 
 The topography is nothing short of dramatic. The landscape features steep basalt bluffs, rolling plateaus, and south-facing slopes that were carved and shaped by the catastrophic Missoula Floods during the last Ice Age. These geological events created an undulating terrain with varied aspects and microclimates within short distances. South and southwest-facing slopes are particularly prized, capturing maximum sun exposure while benefiting from afternoon warming.
 
@@ -49,7 +49,7 @@ Overlying this basalt foundation are varied sedimentary deposits, including wind
 
 ### Glacial and Volcanic Influences
 
-The interaction between volcanic and glacial forces created The Burn's distinctive terroir. The underlying basalt provides excellent natural drainage and contributes mineral complexity to the soils. During the Missoula Floods—catastrophic events that occurred repeatedly as glacial ice dams broke approximately 15,000-13,000 years ago—tremendous volumes of water scoured the landscape, depositing layers of gravel, sand, and silt in complex patterns.
+The interaction between volcanic and glacial forces created The Burn's distinctive terroir. The underlying basalt provides excellent natural drainage and contributes mineral complexity to the soils. During the Missoula Floods, catastrophic events that occurred repeatedly as glacial ice dams broke approximately 15,000-13,000 years ago, tremendous volumes of water scoured the landscape, depositing layers of gravel, sand, and silt in complex patterns.
 
 These flood deposits created soils with remarkable heterogeneity, even within individual vineyard blocks. Some areas feature deep, fine-textured sediments, while others contain significant gravel and cobble content. This soil diversity allows growers to match specific grape varieties to optimal sites based on drainage, water-holding capacity, and nutrient availability.
 
@@ -108,7 +108,7 @@ Wines from The Burn exhibit distinctive characteristics that reflect the region'
 
 **Red Wines** display deep color intensity, robust tannic structures, and concentrated dark fruit profiles. Cabernet Sauvignon shows classic cassis and blackberry fruit layered with notes of graphite, tobacco, and dark chocolate. The wines typically feature firm but ripe tannins, substantial body, and aging potential measured in decades rather than years.
 
-Syrah from The Burn tends toward New World opulence while retaining Old World structure—think blackberry, grilled meat, black pepper, and violet aromatics supported by firm acidity and substantial but refined tannins. The basalt influence often manifests as a distinctive mineral or iron-like quality in the wine's mid-palate and finish.
+Syrah from The Burn tends toward New World opulence while retaining Old World structure, think blackberry, grilled meat, black pepper, and violet aromatics supported by firm acidity and substantial but refined tannins. The basalt influence often manifests as a distinctive mineral or iron-like quality in the wine's mid-palate and finish.
 
 **White Wines**, while less common, show remarkable intensity and structure. Chardonnay develops tropical fruit characteristics while maintaining bright acidity, and Sauvignon Blanc offers explosive aromatics with concentrated citrus and stone fruit flavors.
 
@@ -142,4 +142,4 @@ The Burn possesses exceptional potential to establish itself among Washington's 
 
 Expect to see increasing numbers of The Burn-designated wines in coming years as producers recognize the marketing value and quality potential of this distinctive appellation. The region may particularly excel with Cabernet Sauvignon and Syrah, potentially establishing itself as a benchmark source for these varieties in Washington State.
 
-The next decade will prove crucial in defining The Burn's identity within the broader Washington wine landscape. Early adoption by quality-focused producers and thoughtful development respecting the region's unique character will determine whether The Burn achieves recognition as a truly distinctive and prestigious American wine region—a goal its terroir suggests is well within reach.
+The next decade will prove crucial in defining The Burn's identity within the broader Washington wine landscape. Early adoption by quality-focused producers and thoughtful development respecting the region's unique character will determine whether The Burn achieves recognition as a truly distinctive and prestigious American wine region: a goal its terroir suggests is well within reach.

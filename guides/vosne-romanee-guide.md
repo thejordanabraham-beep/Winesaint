@@ -16,7 +16,7 @@ The modern reputation of Vosne-Romanée crystallized in the 18th century when th
 
 Following the French Revolution, the fragmentation of ecclesiastical and noble estates led to the complex ownership patterns that characterize Burgundy today. However, Vosne-Romanée maintained its reputation for excellence through the 19th and 20th centuries, with several legendary figures contributing to its renown. The Domaine de la Romanée-Conti's stewardship of the commune's greatest vineyards, along with other quality-focused producers, has cemented Vosne-Romanée's position as Burgundy's most prestigious village.
 
-The appellation system formalized in the 1930s recognized Vosne-Romanée's exceptional terroir, granting it eight Grand Cru vineyards—more than any other commune in Burgundy. This official recognition confirmed what vignerons and wine lovers had understood for centuries: Vosne-Romanée produces wines of unparalleled elegance and complexity.
+The appellation system formalized in the 1930s recognized Vosne-Romanée's exceptional terroir, granting it eight Grand Cru vineyards, more than any other commune in Burgundy. This official recognition confirmed what vignerons and wine lovers had understood for centuries: Vosne-Romanée produces wines of unparalleled elegance and complexity.
 
 ## Terroir & Geology
 
@@ -46,11 +46,11 @@ Village-level vineyards encompass 120 hectares across various exposures and soil
 
 Vosne-Romanée produces exclusively red wines from Pinot Noir, expressing the grape variety's potential for elegance, complexity, and terroir transparency with unmatched sophistication. The commune's wines exhibit a distinctive style that balances power with finesse, concentration with elegance, and immediate appeal with remarkable aging potential.
 
-The aromatic profile of Vosne-Romanée wines centers on red fruit expressions—raspberry, cherry, and strawberry—enhanced by floral notes of violet and rose. As wines mature, they develop secondary aromatics including spice, earth, leather, and game, while maintaining their essential fruit character. The finest examples exhibit extraordinary aromatic complexity, with layers of perfume that evolve continuously in the glass.
+The aromatic profile of Vosne-Romanée wines centers on red fruit expressions (raspberry, cherry, and strawberry) enhanced by floral notes of violet and rose. As wines mature, they develop secondary aromatics including spice, earth, leather, and game, while maintaining their essential fruit character. The finest examples exhibit extraordinary aromatic complexity, with layers of perfume that evolve continuously in the glass.
 
 Structurally, Vosne-Romanée wines demonstrate remarkable balance between power and elegance. The tannins are typically fine-grained and well-integrated, providing structure without overwhelming the wine's delicate fruit expression. This tannin quality reflects both the terroir's limestone influence and the careful winemaking practices employed by the commune's top producers.
 
-The texture of Vosne-Romanée wines is perhaps their most distinctive characteristic—a silky, almost ethereal mouthfeel that combines richness with refinement. This textural signature, often described as "liquid silk," results from the interaction between the grape variety, terroir, and winemaking approach. Even powerful examples from sites like Richebourg maintain this essential elegance.
+The texture of Vosne-Romanée wines is perhaps their most distinctive characteristic: a silky, almost ethereal mouthfeel that combines richness with refinement. This textural signature, often described as "liquid silk," results from the interaction between the grape variety, terroir, and winemaking approach. Even powerful examples from sites like Richebourg maintain this essential elegance.
 
 Acidity levels in Vosne-Romanée wines typically range from 3.2-3.6 g/L, providing freshness and aging potential without creating harsh or aggressive profiles. This balanced acidity, combined with moderate alcohol levels (typically 12.5-14%), contributes to the wines' food-friendly character and cellar-worthiness.
 
@@ -60,13 +60,13 @@ The commune's wines express terroir differences with remarkable precision. Grand
 
 Vosne-Romanée's wines occupy a distinctive position within the Côte de Nuits style spectrum, differentiating themselves from neighboring communes through their unique combination of power and elegance. Compared to Gevrey-Chambertin wines, which emphasize structure and earthiness, Vosne-Romanée produces more perfumed, silky expressions with greater emphasis on fruit purity and textural refinement.
 
-The contrast with Chambolle-Musigny is particularly instructive. While both communes produce elegant wines, Vosne-Romanée demonstrates greater concentration and aging potential. Chambolle-Musigny wines emphasize femininity and delicacy, while Vosne-Romanée achieves a perfect balance between masculine structure and feminine grace. The terroir differences—Vosne-Romanée's limestone-rich soils versus Chambolle's clay-limestone composition—contribute to these stylistic variations.
+The contrast with Chambolle-Musigny is particularly instructive. While both communes produce elegant wines, Vosne-Romanée demonstrates greater concentration and aging potential. Chambolle-Musigny wines emphasize femininity and delicacy, while Vosne-Romanée achieves a perfect balance between masculine structure and feminine grace. The terroir differences (Vosne-Romanée's limestone-rich soils versus Chambolle's clay-limestone composition) contribute to these stylistic variations.
 
 Compared to Vougeot, Vosne-Romanée wines show greater consistency and refinement. Vougeot's large Grand Cru vineyard encompasses varied terroir qualities, creating significant style variations within a single appellation. Vosne-Romanée's more uniform terroir quality ensures consistent expression of the commune's distinctive character across different vineyard sites.
 
 The relationship with Nuits-Saint-Georges reveals fundamental philosophical differences in wine style. Nuits-Saint-Georges produces more structured, earthy wines with greater emphasis on power and longevity. Vosne-Romanée achieves similar aging potential through finesse rather than force, creating wines that are more immediately appealing while maintaining long-term development capacity.
 
-Vosne-Romanée's unique position within the Côte de Nuits reflects its optimal terroir conditions—the perfect balance of drainage and water retention, limestone and clay, exposure and protection. These conditions allow Pinot Noir to express its most refined characteristics while developing the complexity and depth associated with Burgundy's greatest wines.
+Vosne-Romanée's unique position within the Côte de Nuits reflects its optimal terroir conditions: the perfect balance of drainage and water retention, limestone and clay, exposure and protection. These conditions allow Pinot Noir to express its most refined characteristics while developing the complexity and depth associated with Burgundy's greatest wines.
 
 ## Notable Vineyards
 
@@ -130,4 +130,4 @@ The collectibility factor significantly influences market values, with certain p
 
 Vosne-Romanée represents the intersection of terroir excellence, historical prestige, and market dynamics that define fine wine at its highest level. The commune's wines offer the ultimate expression of Burgundy's potential while providing investment opportunities for those with access to allocation systems and adequate cellaring facilities.
 
-The market position of Vosne-Romanée wines reflects their singular status in the wine world—expressions of terroir so distinctive and quality so exceptional that they command prices and respect unmatched by wines from any other region. This position seems likely to strengthen as global appreciation for Burgundy continues growing while production remains forever limited by terroir boundaries established centuries ago.
+The market position of Vosne-Romanée wines reflects their singular status in the wine world, expressions of terroir so distinctive and quality so exceptional that they command prices and respect unmatched by wines from any other region. This position seems likely to strengthen as global appreciation for Burgundy continues growing while production remains forever limited by terroir boundaries established centuries ago.

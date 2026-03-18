@@ -12,7 +12,7 @@ The climat's name, "Les Clos," derives from the traditional Burgundian term for 
 
 Les Clos represents the largest single Grand Cru climat in Chablis, encompassing approximately 26 hectares (64 acres) of meticulously tended Chardonnay vines. This substantial size allows for more diversity in microclimates and producer interpretations than some of the smaller Grand Cru parcels, while maintaining a remarkable consistency in quality and character that speaks to the uniformity of its exceptional terroir.
 
-The Grand Cru designation itself represents the apex of Chablis's four-tier classification system, standing above Premier Cru, Village, and Petit Chablis appellations. Only these seven climats on this blessed slope—Les Clos, Blanchot, Les Preuses, Vaudésir, Grenouilles, Valmur, and Bougros—achieve this exalted status, representing less than 2% of total Chablis production.
+The Grand Cru designation itself represents the apex of Chablis's four-tier classification system, standing above Premier Cru, Village, and Petit Chablis appellations. Only these seven climats on this blessed slope (Les Clos, Blanchot, Les Preuses, Vaudésir, Grenouilles, Valmur, and Bougros) achieve this exalted status, representing less than 2% of total Chablis production.
 
 ### Historical Significance
 
@@ -26,9 +26,9 @@ By the 18th century, Les Clos had established itself as the most prestigious vin
 
 The geological foundation of Les Clos represents one of nature's most remarkable gifts to viticulture: Kimmeridgian marl, a unique limestone-clay matrix dating back approximately 150 million years to the Upper Jurassic period. This distinctive soil type, found in only a few privileged locations worldwide, consists of a complex amalgamation of clay, limestone, and countless fossilized oyster shells (*Exogyra virgula*), the small comma-shaped remnants of an ancient sea.
 
-This fossil-rich marl creates a soil profile that is simultaneously well-draining due to the limestone component and moisture-retentive thanks to the clay content—a balance that proves ideal for producing Chardonnay of exceptional complexity and longevity. The calcium carbonate content ranges between 30-40%, providing the mineral backbone that defines great Chablis.
+This fossil-rich marl creates a soil profile that is simultaneously well-draining due to the limestone component and moisture-retentive thanks to the clay content: a balance that proves ideal for producing Chardonnay of exceptional complexity and longevity. The calcium carbonate content ranges between 30-40%, providing the mineral backbone that defines great Chablis.
 
-Beneath the topsoil, a harder limestone bedrock called "calcaire de Tonnerre" provides additional drainage and forces vine roots to delve deep—sometimes 30-40 feet—in search of water and nutrients. This struggle produces smaller yields of intensely concentrated fruit with remarkable aromatic complexity.
+Beneath the topsoil, a harder limestone bedrock called "calcaire de Tonnerre" provides additional drainage and forces vine roots to delve deep (sometimes 30-40 feet) in search of water and nutrients. This struggle produces smaller yields of intensely concentrated fruit with remarkable aromatic complexity.
 
 ### Exposition and Slope Architecture
 
@@ -83,11 +83,11 @@ Several producers have transitioned to organic or biodynamic viticulture, findin
 
 ### Archetypal Les Clos Profile
 
-Les Clos produces what many consider the most complete expression of Chablis Grand Cru—wines of remarkable power married to extraordinary finesse, offering both immediate appeal and extraordinary aging potential. The archetypal Les Clos presents a compelling paradox: simultaneously steely and generous, austere yet seductive, mineral-driven while showing remarkable fruit depth.
+Les Clos produces what many consider the most complete expression of Chablis Grand Cru, wines of remarkable power married to extraordinary finesse, offering both immediate appeal and extraordinary aging potential. The archetypal Les Clos presents a compelling paradox: simultaneously steely and generous, austere yet seductive, mineral-driven while showing remarkable fruit depth.
 
 In youth, Les Clos typically displays a reserved, almost stern character. The color tends toward pale gold with green reflections. The aromatics emerge slowly, revealing precise citrus notes (lemon zest, lime), green apple, white flowers (acacia, hawthorn), and distinctive mineral tones often described as wet stone, oyster shell, or flint. With aeration, subtle hints of fennel, white pepper, and saline notes emerge.
 
-On the palate, the wines show exceptional concentration and structure. The texture proves dense and almost viscous despite the penetrating acidity—a hallmark of great Les Clos. The mineral backbone asserts itself firmly through the mid-palate, while the finish extends seemingly indefinitely, leaving impressions of crushed limestone and sea spray.
+On the palate, the wines show exceptional concentration and structure. The texture proves dense and almost viscous despite the penetrating acidity: a hallmark of great Les Clos. The mineral backbone asserts itself firmly through the mid-palate, while the finish extends seemingly indefinitely, leaving impressions of crushed limestone and sea spray.
 
 ### Comparison to Other Grand Crus
 
@@ -107,7 +107,7 @@ Les Clos thus represents the Grand Cru of power and potential, the most structur
 
 The distinctive character of Les Clos derives directly from its terroir fundamentals. The Kimmeridgian marl provides the mineral intensity and saline quality; the exposition ensures optimal ripeness while maintaining acidity; the slope and drainage produce concentration without heaviness; the continental climate yields remarkable aromatic purity and freshness.
 
-This terroir signature manifests as what enthusiasts call "tension"—a dynamic equilibrium between richness and restraint, power and precision. The fossilized oyster shells seem to leave their literal imprint on the wine's flavor profile, imparting a distinctive oyster-shell and iodine quality that marks authentic Les Clos.
+This terroir signature manifests as what enthusiasts call "tension", a dynamic equilibrium between richness and restraint, power and precision. The fossilized oyster shells seem to leave their literal imprint on the wine's flavor profile, imparting a distinctive oyster-shell and iodine quality that marks authentic Les Clos.
 
 ## Aging & Evolution
 
@@ -163,11 +163,11 @@ Les Clos's 26 hectares are distributed among numerous producers, each bringing d
 
 Producer styles in Les Clos span a philosophical spectrum:
 
-**Pure stainless steel**: Louis Michel, Samuel Billaud—focus on varietal and terroir purity
-**Neutral oak aging**: Dauvissat, Raveneau, Moreau—texture and complexity without obvious oak
-**Small percentage new oak**: Fèvre, some négociants—subtle integration of oak spice
-**Extended lees contact**: Most quality producers—enhanced texture and complexity
-**Natural/low intervention**: Increasing number including Alice et Olivier De Moor—minimal additions, native yeasts
+**Pure stainless steel**: Louis Michel, Samuel Billaud (focus on varietal and terroir purity
+**Neutral oak aging**: Dauvissat, Raveneau, Moreau) texture and complexity without obvious oak
+**Small percentage new oak**: Fèvre, some négociants (subtle integration of oak spice
+**Extended lees contact**: Most quality producers) enhanced texture and complexity
+**Natural/low intervention**: Increasing number including Alice et Olivier De Moor, minimal additions, native yeasts
 
 ## Food Pairing & Service
 
@@ -175,7 +175,7 @@ Producer styles in Les Clos span a philosophical spectrum:
 
 Les Clos's intensity and structure allow it to handle richer preparations than simpler Chablis:
 
-**Shellfish and Crustaceans**: The classic pairing—oysters (especially Belon or Gillardeau), langoustines, lobster, crab—finds ideal partnership with Les Clos's mineral salinity and acidity.
+**Shellfish and Crustaceans**: The classic pairing (oysters (especially Belon or Gillardeau), langoustines, lobster, crab) finds ideal partnership with Les Clos's mineral salinity and acidity.
 
 **White Fish**: Turbot, sole, sea bass, and halibut, particularly in cream or butter sauces, match the wine's texture and complexity.
 
@@ -201,4 +201,4 @@ Les Clos deserves thoughtful contexts: special celebrations, important dinners, 
 
 ---
 
-Les Clos represents the pinnacle of what Chablis and, arguably, what unoaked or minimally-oaked Chardonnay can achieve. It stands as proof that great wine requires no cosmetic enhancement—that exceptional terroir, thoughtful viticulture, and careful winemaking can produce wines of profound complexity and remarkable longevity. Whether experienced young for its steely precision or mature for its transcendent complexity, Les Clos remains an essential reference point for understanding both Chablis specifically and great white wine generally.
+Les Clos represents the pinnacle of what Chablis and, arguably, what unoaked or minimally-oaked Chardonnay can achieve. It stands as proof that great wine requires no cosmetic enhancement, that exceptional terroir, thoughtful viticulture, and careful winemaking can produce wines of profound complexity and remarkable longevity. Whether experienced young for its steely precision or mature for its transcendent complexity, Les Clos remains an essential reference point for understanding both Chablis specifically and great white wine generally.

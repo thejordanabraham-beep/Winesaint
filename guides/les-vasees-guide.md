@@ -18,7 +18,7 @@ The vineyard's modest size reflects the intimate scale typical of Burgundy's fin
 
 The geological foundation of Les Vasées rests upon Middle Jurassic limestone formations characteristic of the Côte Chalonnaise, specifically the Bathonian and Bajocian stages that provide the mineral backbone essential for producing wines of Premier Cru quality. The bedrock consists primarily of hard limestone interspersed with marl deposits, creating a complex substrate that offers both drainage and water retention capabilities crucial for vine health and fruit quality.
 
-The topsoil composition varies across the climat, with brown calcareous clay dominating the upper slopes and transitioning to deeper, more clay-rich soils in the lower sections. This variation in soil depth and composition—ranging from 40 to 80 centimeters of topsoil over limestone bedrock—creates subtle differences in vine vigor and fruit character across different parcels within the vineyard.
+The topsoil composition varies across the climat, with brown calcareous clay dominating the upper slopes and transitioning to deeper, more clay-rich soils in the lower sections. This variation in soil depth and composition (ranging from 40 to 80 centimeters of topsoil over limestone bedrock) creates subtle differences in vine vigor and fruit character across different parcels within the vineyard.
 
 The slope characteristics of Les Vasées are particularly noteworthy, with gradients ranging from 8 to 15 percent that provide excellent drainage while preventing erosion. The vineyard faces primarily east to southeast, with aspects varying from 85 to 120 degrees, ensuring optimal morning sun exposure that facilitates gentle warming of the vines while avoiding the harsh afternoon heat that can compromise aromatic development in Pinot Noir.
 
@@ -58,7 +58,7 @@ Site-specific viticultural challenges include managing vine vigor in the deeper,
 
 Wines from Les Vasées exemplify the refined elegance and mineral precision that characterize Mercurey's finest Premier Crus. The climat produces Pinot Noirs that display a distinctive combination of red fruit purity, floral complexity, and mineral backbone that reflects the limestone-rich terroir.
 
-The aromatic profile typically features primary notes of red cherry, raspberry, and strawberry, often accompanied by violet and rose petal nuances that develop during fermentation and early élevage. Secondary aromatics frequently include subtle spice elements—particularly white pepper and cinnamon—along with earthy undertones of forest floor and subtle mineral notes reminiscent of wet limestone.
+The aromatic profile typically features primary notes of red cherry, raspberry, and strawberry, often accompanied by violet and rose petal nuances that develop during fermentation and early élevage. Secondary aromatics frequently include subtle spice elements (particularly white pepper and cinnamon) along with earthy undertones of forest floor and subtle mineral notes reminiscent of wet limestone.
 
 On the palate, Les Vasées Pinot Noirs demonstrate medium body with elegant structure characterized by fine-grained tannins that provide support without overwhelming the fruit expression. The limestone influence manifests as a distinctive mineral tension that runs through the wine's mid-palate, contributing to both complexity and aging potential.
 

@@ -24,7 +24,7 @@ The climat's relatively compact size contributes to its homogeneity of character
 
 The viticultural history of Butteaux extends back centuries, with documented wine production in this sector dating to the medieval period when Cistercian monks first identified the area's potential for producing exceptional wines. The name "Butteaux" itself derives from old French terminology related to small hills or mounds ("buttes"), referencing the distinctive topography that characterizes this climat.
 
-Throughout Chablis's tumultuous history—including devastation by phylloxera in the late 19th century, two World Wars, and subsequent revival—Butteaux has consistently been recognized among the region's finest sites. Historical records and cadastral maps demonstrate continuous vineyard cultivation in this location, testament to generations of vignerons who understood the site's inherent quality.
+Throughout Chablis's tumultuous history, including devastation by phylloxera in the late 19th century, two World Wars, and subsequent revival. Butteaux has consistently been recognized among the region's finest sites. Historical records and cadastral maps demonstrate continuous vineyard cultivation in this location, testament to generations of vignerons who understood the site's inherent quality.
 
 ## Terroir & Geology
 
@@ -48,7 +48,7 @@ The slope gradient ranges from moderate to steep, typically between 10-25% incli
 
 ### Altitude and Drainage
 
-Butteaux's vineyards occupy mid-slope positions ranging from approximately 150 to 220 meters above sea level. This elevation range places the climat in an optimal thermal zone—high enough to benefit from good air circulation and drainage while remaining low enough to avoid excessive exposure to wind and cold that could delay ripening or damage vines.
+Butteaux's vineyards occupy mid-slope positions ranging from approximately 150 to 220 meters above sea level. This elevation range places the climat in an optimal thermal zone, high enough to benefit from good air circulation and drainage while remaining low enough to avoid excessive exposure to wind and cold that could delay ripening or damage vines.
 
 The natural drainage system is exemplary, with water naturally flowing downslope across the impermeable Kimmeridgian base, preventing root saturation while maintaining adequate moisture availability. This drainage capacity is crucial during wet vintages, helping maintain fruit health and concentration that might otherwise be compromised by excessive water uptake.
 
@@ -56,7 +56,7 @@ The natural drainage system is exemplary, with water naturally flowing downslope
 
 ### Chablis Mesoclimate
 
-Butteaux experiences the classic Chablis mesoclimate—essentially continental with some oceanic influence, characterized by cold winters, spring frost risk, warm summers, and relatively dry, sunny autumns. However, the climat's specific topographical position creates subtle microclimatic variations that distinguish it from surrounding areas.
+Butteaux experiences the classic Chablis mesoclimate, essentially continental with some oceanic influence, characterized by cold winters, spring frost risk, warm summers, and relatively dry, sunny autumns. However, the climat's specific topographical position creates subtle microclimatic variations that distinguish it from surrounding areas.
 
 The proximity to the Serein River moderates temperature extremes slightly, providing a small thermal buffer during both cold snaps and heat waves. The slope's orientation and angle create air drainage patterns that allow cold air to flow downslope rather than pooling around vine canopies, offering some natural frost protection compared to valley floor positions.
 
@@ -84,21 +84,21 @@ Contemporary viticulture in Butteaux reflects a synthesis of traditional wisdom 
 
 Yields are carefully managed through winter pruning, shoot thinning, and occasional green harvesting to maintain appropriate concentration. Premier Cru regulations limit yields to 52 hectoliters per hectare (compared to 60 hl/ha for village Chablis), though quality-focused producers often harvest significantly less, particularly from old vines.
 
-Harvest timing is critical in Chablis's marginal climate. Producers seek optimal physiological ripeness—typically 12-13% potential alcohol—while maintaining acidity levels around 7-9 g/L. This balance defines classic Chablis style: sufficient ripeness for fruit expression without sacrificing the vibrant acidity essential to the wines' character and aging potential.
+Harvest timing is critical in Chablis's marginal climate. Producers seek optimal physiological ripeness (typically 12-13% potential alcohol) while maintaining acidity levels around 7-9 g/L. This balance defines classic Chablis style: sufficient ripeness for fruit expression without sacrificing the vibrant acidity essential to the wines' character and aging potential.
 
 ## Wine Character & Style
 
 ### Aromatic Profile
 
-Butteaux wines express the quintessential Chablis aromatic signature while adding layers of complexity that distinguish Premier Cru quality. In youth, these wines display pronounced citrus notes—lemon zest, lime, and grapefruit—alongside green apple, pear, and occasionally white peach in warmer vintages. The mineral dimension is immediately apparent: wet stones, crushed shells, chalk, and the distinctive "gunflint" character that defines classic Chablis.
+Butteaux wines express the quintessential Chablis aromatic signature while adding layers of complexity that distinguish Premier Cru quality. In youth, these wines display pronounced citrus notes (lemon zest, lime, and grapefruit) alongside green apple, pear, and occasionally white peach in warmer vintages. The mineral dimension is immediately apparent: wet stones, crushed shells, chalk, and the distinctive "gunflint" character that defines classic Chablis.
 
-Floral nuances emerge with aeration: white flowers, acacia, and sometimes a delicate honeysuckle note. Depending on winemaking approach, subtle oak influence may add complexity—toasted almonds, brioche, or vanilla—though the trend in Chablis favors restrained wood usage that supports rather than dominates the wine's inherent character.
+Floral nuances emerge with aeration: white flowers, acacia, and sometimes a delicate honeysuckle note. Depending on winemaking approach, subtle oak influence may add complexity (toasted almonds, brioche, or vanilla) though the trend in Chablis favors restrained wood usage that supports rather than dominates the wine's inherent character.
 
 With age, Butteaux develops fascinating tertiary complexity: honey, beeswax, dried fruits, hazelnuts, and sometimes truffle or mushroom notes. The mineral component often intensifies, becoming more integrated and sophisticated, while the citrus freshness evolves toward preserved lemon and candied citrus peel.
 
 ### Palate Structure
 
-On the palate, Butteaux wines demonstrate impressive concentration and structure that clearly distinguish them from village-level Chablis. The attack is typically precise and focused, with vibrant acidity immediately apparent. This acidity—usually in the 6-8 g/L range at release—provides both refreshment and aging backbone, ensuring the wine's components remain in balance as it evolves.
+On the palate, Butteaux wines demonstrate impressive concentration and structure that clearly distinguish them from village-level Chablis. The attack is typically precise and focused, with vibrant acidity immediately apparent. This acidity (usually in the 6-8 g/L range at release) provides both refreshment and aging backbone, ensuring the wine's components remain in balance as it evolves.
 
 The mid-palate shows genuine depth and texture, with layered flavors that unfold progressively. Premier Cru Butteaux possesses more "fat" or viscosity than village wines while maintaining the tension and energy that defines Chablis. This balance between richness and freshness is a hallmark of great Premier Cru sites.
 
@@ -108,7 +108,7 @@ The finish is notably long and persistent, often extending 30-45 seconds or more
 
 The minerality of Butteaux merits special attention, as this somewhat controversial descriptor captures something essential about these wines. Whether derived from soil composition, vine nutrition, winemaking technique, or psychological association, the perception of "minerality" is undeniable and definitional.
 
-In Butteaux, this manifests as a stony, chalky sensation on the palate, often accompanied by saline or iodine notes that evoke the ancient marine origins of the Kimmeridgian soil. This quality provides texture and complexity while reinforcing the wine's sense of place—its connection to this specific hillside in northern Burgundy.
+In Butteaux, this manifests as a stony, chalky sensation on the palate, often accompanied by saline or iodine notes that evoke the ancient marine origins of the Kimmeridgian soil. This quality provides texture and complexity while reinforcing the wine's sense of place, its connection to this specific hillside in northern Burgundy.
 
 ### Comparison to Other Premier Crus
 
@@ -134,7 +134,7 @@ After 7-10 years, truly mature characteristics emerge: nuts, honey, truffle, mus
 
 ### Optimal Drinking Windows
 
-For most Butteaux wines, several drinking windows offer distinct pleasures. The first window opens immediately upon release and extends 2-3 years, when primary fruit expression and terroir typicity are most evident. Wine enthusiasts seeking classic Chablis character—bright, mineral-driven, refreshing—will find maximum enjoyment during this phase.
+For most Butteaux wines, several drinking windows offer distinct pleasures. The first window opens immediately upon release and extends 2-3 years, when primary fruit expression and terroir typicity are most evident. Wine enthusiasts seeking classic Chablis character (bright, mineral-driven, refreshing) will find maximum enjoyment during this phase.
 
 A second, more extended window opens after 5-7 years and may last a decade or more, depending on vintage strength and storage conditions. This mature phase offers the greatest complexity and interest for experienced wine lovers who appreciate the fascinating evolution of great white Burgundy.
 
@@ -176,7 +176,7 @@ Most producers practice bâtonnage (lees stirring) to varying degrees, building 
 
 Butteaux's combination of intensity, minerality, and acidity makes it remarkably versatile with food, though certain pairings have achieved classic status through centuries of regional tradition:
 
-**Shellfish** represents the archetypal pairing. The wine's mineral character and vibrant acidity complement raw oysters perfectly, particularly briny varieties like Marennes-Oléron or Belon that echo the wine's iodine notes. Butteaux's greater concentration compared to village Chablis allows it to stand up to richer preparations—oysters gratinées, grilled scallops, or lobster in butter sauce.
+**Shellfish** represents the archetypal pairing. The wine's mineral character and vibrant acidity complement raw oysters perfectly, particularly briny varieties like Marennes-Oléron or Belon that echo the wine's iodine notes. Butteaux's greater concentration compared to village Chablis allows it to stand up to richer preparations, oysters gratinées, grilled scallops, or lobster in butter sauce.
 
 **Freshwater fish** from Burgundy's rivers and lakes pair beautifully: pike, zander, trout, and especially freshwater crayfish. The wine's precision and mineral backbone complement the delicate flesh without overwhelming subtle flavors. Classic preparations like pike quenelles, trout amandine, or poached freshwater fish with beurre blanc sauce create harmonious marriages.
 
@@ -214,4 +214,4 @@ Glassware significantly impacts enjoyment. Use medium to large-bowled white wine
 
 ---
 
-Butteaux exemplifies the remarkable quality and distinctive character available in Chablis Premier Cru. This climat's exceptional terroir—marked by Kimmeridgian marl, favorable exposition, and ideal mesoclimate—produces wines that clearly transcend ordinary Chablis while offering more accessible pricing than the prestigious Grand Crus. For wine enthusiasts seeking authentic expression of place, thrilling minerality, and profound aging potential, Butteaux deserves serious attention and extended cellaring. The diversity of producer approaches ensures that multiple interpretations of this special site are available, each revealing different facets of a terroir that has captivated vignerons and wine lovers for centuries.
+Butteaux exemplifies the remarkable quality and distinctive character available in Chablis Premier Cru. This climat's exceptional terroir (marked by Kimmeridgian marl, favorable exposition, and ideal mesoclimate) produces wines that clearly transcend ordinary Chablis while offering more accessible pricing than the prestigious Grand Crus. For wine enthusiasts seeking authentic expression of place, thrilling minerality, and profound aging potential, Butteaux deserves serious attention and extended cellaring. The diversity of producer approaches ensures that multiple interpretations of this special site are available, each revealing different facets of a terroir that has captivated vignerons and wine lovers for centuries.

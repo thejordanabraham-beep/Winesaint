@@ -1,10 +1,10 @@
 # Northern Greece: Where Ancient Viticulture Meets Modern Ambition
 
-Northern Greece produces some of the country's most structured, age-worthy wines—and remains among its least understood regions internationally. This is not a minor oversight. While the sun-drenched islands capture tourist imagination, the northern mainland quietly cultivates Xinomavro, Assyrtiko, and a constellation of indigenous varieties across elevations ranging from sea level to 750 meters. The climate here diverges sharply from the Mediterranean stereotype: continental influences dominate, frost threatens, and rainfall exceeds most Greek regions by substantial margins.
+Northern Greece produces some of the country's most structured, age-worthy wines, and remains among its least understood regions internationally. This is not a minor oversight. While the sun-drenched islands capture tourist imagination, the northern mainland quietly cultivates Xinomavro, Assyrtiko, and a constellation of indigenous varieties across elevations ranging from sea level to 750 meters. The climate here diverges sharply from the Mediterranean stereotype: continental influences dominate, frost threatens, and rainfall exceeds most Greek regions by substantial margins.
 
 The region encompasses four major wine-producing zones: Macedonia (itself subdivided into Western, Central, and Eastern sections), Thrace, Epirus, and Thessaly. Each possesses distinct geological foundations and mesoclimates. Macedonia alone accounts for roughly 70% of Northern Greece's quality wine production, with Naoussa and Amyndeon emerging as the most internationally recognized appellations.
 
-What unifies these disparate territories is altitude. Northern Greece's most compelling wines originate from hillside and mountain vineyards where diurnal temperature variation preserves acidity and extends ripening periods. The region's winemakers have learned—often through painful trial—that elevation provides the climatic insurance policy necessary for producing structured wines with genuine aging potential.
+What unifies these disparate territories is altitude. Northern Greece's most compelling wines originate from hillside and mountain vineyards where diurnal temperature variation preserves acidity and extends ripening periods. The region's winemakers have learned (often through painful trial) that elevation provides the climatic insurance policy necessary for producing structured wines with genuine aging potential.
 
 ## GEOLOGY: Complexity Beneath the Surface
 
@@ -20,7 +20,7 @@ Western Macedonia, particularly around Amyndeon and Florina, sits atop younger s
 
 **Macedonia's Diverse Substrates**
 
-Naoussa, the region's most celebrated appellation, presents predominantly clay-limestone soils overlying Mesozoic limestone bedrock. The topsoil depth varies dramatically—from less than 30 centimeters on exposed hillsides to over a meter in valley positions. This variation matters. Shallow soils stress vines earlier, concentrating flavors but risking shutdown in extreme heat. Deeper valley soils produce higher yields and less structured wines, explaining why Naoussa's best sites occupy mid-slope positions between 150 and 350 meters elevation.
+Naoussa, the region's most celebrated appellation, presents predominantly clay-limestone soils overlying Mesozoic limestone bedrock. The topsoil depth varies dramatically, from less than 30 centimeters on exposed hillsides to over a meter in valley positions. This variation matters. Shallow soils stress vines earlier, concentrating flavors but risking shutdown in extreme heat. Deeper valley soils produce higher yields and less structured wines, explaining why Naoussa's best sites occupy mid-slope positions between 150 and 350 meters elevation.
 
 Goumenissa, northeast of Naoussa, features more clay-heavy soils with higher iron oxide content. The rust-red color of excavated soil here signals this ferrous presence, which some producers believe contributes to the slightly earthier character of Goumenissa's Xinomavro compared to Naoussa's more floral expressions. Scientific evidence for this remains anecdotal rather than conclusive.
 
@@ -28,17 +28,17 @@ The Chalkidiki Peninsula, extending into the Aegean, presents calcareous soils s
 
 **Thrace's Alluvial Plains**
 
-Greek Thrace, bounded by Bulgaria to the north and Turkey to the east, consists primarily of alluvial plains deposited by the Evros (Maritsa) River and its tributaries. These fertile, deep soils favor quantity over quality—yields here can reach 12-15 tons per hectare without effort. The challenge for quality-focused producers involves limiting vine vigor through careful site selection (slopes rather than valley floors) and aggressive canopy management.
+Greek Thrace, bounded by Bulgaria to the north and Turkey to the east, consists primarily of alluvial plains deposited by the Evros (Maritsa) River and its tributaries. These fertile, deep soils favor quantity over quality, yields here can reach 12-15 tons per hectare without effort. The challenge for quality-focused producers involves limiting vine vigor through careful site selection (slopes rather than valley floors) and aggressive canopy management.
 
 **Epirus and Thessaly: Limestone Dominance**
 
 Epirus, in northwestern Greece, features predominantly limestone and dolomite bedrock from the Mesozoic era. The Pindus mountain range, forming Epirus's eastern boundary, consists of thrust-faulted limestone formations that create thin, rocky soils ideal for viticulture at elevations between 400 and 700 meters. Zitsa, the region's principal appellation, sits on these limestone slopes.
 
-Thessaly's Rapsani appellation, located on the eastern slopes of Mount Olympus, presents volcanic soils unique in Northern Greece. Ancient volcanic activity deposited basalt and andesite that weathered into mineral-rich, well-draining soils. The dark color of these soils increases heat absorption, advancing ripening—a benefit at Rapsani's relatively high elevations (400-700 meters) where harvest can extend into late October.
+Thessaly's Rapsani appellation, located on the eastern slopes of Mount Olympus, presents volcanic soils unique in Northern Greece. Ancient volcanic activity deposited basalt and andesite that weathered into mineral-rich, well-draining soils. The dark color of these soils increases heat absorption, advancing ripening: a benefit at Rapsani's relatively high elevations (400-700 meters) where harvest can extend into late October.
 
 ### Comparative Context
 
-To understand Northern Greece's geological diversity, consider Piedmont's Barolo zone, where Tortonian marl and sandstone create relatively uniform conditions across the appellation. Northern Greece offers no such consistency. A producer in Naoussa farms clay-limestone; a colleague in Amyndeon works lake-bed clays; another in Rapsani cultivates volcanic soils. This geological fragmentation explains why Northern Greece has struggled to establish a unified regional identity—the wines simply don't taste similar enough.
+To understand Northern Greece's geological diversity, consider Piedmont's Barolo zone, where Tortonian marl and sandstone create relatively uniform conditions across the appellation. Northern Greece offers no such consistency. A producer in Naoussa farms clay-limestone; a colleague in Amyndeon works lake-bed clays; another in Rapsani cultivates volcanic soils. This geological fragmentation explains why Northern Greece has struggled to establish a unified regional identity: the wines simply don't taste similar enough.
 
 ## CLIMATE: Continental Realities
 
@@ -48,7 +48,7 @@ The Mediterranean climate myth dies hard in Northern Greece. While summer heat a
 
 Northern Greece's growing season (April through October) accumulates between 1,400 and 1,800 growing degree days (GDD, Celsius base 10), depending on elevation and proximity to moderating water bodies. This places it in the same range as Piedmont (1,400-1,700 GDD) and cooler than Tuscany's Chianti Classico (1,800-2,000 GDD).
 
-Winter temperatures regularly drop below freezing throughout the region. Naoussa records average January lows of -2°C, with extremes reaching -15°C in severe winters. The 2017 cold snap killed or damaged approximately 15% of Macedonia's vines when temperatures plummeted to -20°C in some inland areas. This frost risk necessitates careful site selection—south-facing slopes and positions above cold-air drainage channels command premium prices.
+Winter temperatures regularly drop below freezing throughout the region. Naoussa records average January lows of -2°C, with extremes reaching -15°C in severe winters. The 2017 cold snap killed or damaged approximately 15% of Macedonia's vines when temperatures plummeted to -20°C in some inland areas. This frost risk necessitates careful site selection, south-facing slopes and positions above cold-air drainage channels command premium prices.
 
 Diurnal temperature variation during the growing season averages 12-15°C in Macedonia's inland appellations, comparable to Mendoza's Uco Valley. This day-night temperature swing preserves acidity in red varieties like Xinomavro and Limniona while allowing phenolic ripeness to develop during warm days.
 
@@ -56,23 +56,23 @@ Diurnal temperature variation during the growing season averages 12-15°C in Mac
 
 Northern Greece receives substantially more rainfall than the national average. Annual precipitation ranges from 500mm in eastern Thrace to over 1,000mm in mountainous Epirus. Most rain falls between October and April, but summer thunderstorms occur with enough frequency to create disease pressure.
 
-Naoussa averages 550mm annually, with approximately 100mm falling during the growing season (April-October). This summer rainfall—while modest by French standards—arrives sporadically in intense storms that can damage flowering or promote fungal diseases. The region's clay-heavy soils compound the problem by retaining moisture, creating humid microclimates in poorly ventilated vineyard sites.
+Naoussa averages 550mm annually, with approximately 100mm falling during the growing season (April-October). This summer rainfall (while modest by French standards) arrives sporadically in intense storms that can damage flowering or promote fungal diseases. The region's clay-heavy soils compound the problem by retaining moisture, creating humid microclimates in poorly ventilated vineyard sites.
 
 Amyndeon, at higher elevation (600-750 meters) and further inland, receives slightly less precipitation but faces greater hail risk. The 2016 hailstorm that struck in late June destroyed an estimated 40% of Amyndeon's crop, demonstrating the precariousness of viticulture in this continental climate.
 
 ### Moderating Influences
 
-Lake Vegoritida and Lake Petron, near Amyndeon, provide modest temperature moderation—buffering both summer heat and winter cold. Water bodies this size (Vegoritida covers 54 square kilometers) create localized mesoclimates extending 2-3 kilometers from shore. Vineyards within this zone experience spring frost risk reduced by approximately 30% compared to sites further inland, according to data collected by the Naoussa Cooperative.
+Lake Vegoritida and Lake Petron, near Amyndeon, provide modest temperature moderation, buffering both summer heat and winter cold. Water bodies this size (Vegoritida covers 54 square kilometers) create localized mesoclimates extending 2-3 kilometers from shore. Vineyards within this zone experience spring frost risk reduced by approximately 30% compared to sites further inland, according to data collected by the Naoussa Cooperative.
 
 The Aegean Sea influences coastal areas of Chalkidiki and eastern Macedonia, but this maritime effect penetrates only 15-20 kilometers inland before dissipating. The region's mountainous topography blocks Mediterranean air masses from reaching inland appellations, explaining why Naoussa, just 60 kilometers from the coast, experiences fully continental conditions.
 
 ### Climate Change Impacts
 
-Northern Greece has warmed approximately 1.2°C over the past 40 years, according to data from the Hellenic National Meteorological Service. This warming manifests primarily in higher minimum temperatures rather than increased maximum temperatures—winter lows have risen more dramatically than summer highs.
+Northern Greece has warmed approximately 1.2°C over the past 40 years, according to data from the Hellenic National Meteorological Service. This warming manifests primarily in higher minimum temperatures rather than increased maximum temperatures, winter lows have risen more dramatically than summer highs.
 
 For viticulture, the impacts prove mixed. Reduced frost risk benefits producers in marginal sites, and the extended growing season allows better phenolic ripeness in later-ripening varieties. However, earlier budburst increases spring frost vulnerability, and compressed harvest windows create logistical challenges for small estates lacking temperature-controlled fermentation capacity.
 
-Drought stress has intensified. While annual precipitation remains relatively stable, rainfall distribution has shifted—longer dry spells punctuated by intense storms. The region's clay soils, previously an asset for water retention, now bake hard in extended dry periods, limiting root penetration and water access.
+Drought stress has intensified. While annual precipitation remains relatively stable, rainfall distribution has shifted, longer dry spells punctuated by intense storms. The region's clay soils, previously an asset for water retention, now bake hard in extended dry periods, limiting root penetration and water access.
 
 ## GRAPES: Indigenous Dominance
 
@@ -80,11 +80,11 @@ Northern Greece cultivates over 40 indigenous varieties, though fewer than a doz
 
 ### Xinomavro: The Region's Red Anchor
 
-Xinomavro (ksee-NOH-mah-vroh) translates literally as "acid-black," referencing the variety's defining characteristics: high acidity and deep color. This is Northern Greece's most important quality red grape, occupying approximately 3.44% of Greece's total vineyard area—roughly 2,100 hectares concentrated primarily in Macedonia.
+Xinomavro (ksee-NOH-mah-vroh) translates literally as "acid-black," referencing the variety's defining characteristics: high acidity and deep color. This is Northern Greece's most important quality red grape, occupying approximately 3.44% of Greece's total vineyard area, roughly 2,100 hectares concentrated primarily in Macedonia.
 
 **Viticultural Character**
 
-Xinomavro buds early and ripens late, making it vulnerable to both spring frost and autumn rain. The variety requires a long growing season to achieve phenolic ripeness while maintaining its signature acidity—a balance achieved reliably only in Northern Greece's continental climate. Attempts to cultivate Xinomavro in warmer Greek regions produce flabby wines lacking structure.
+Xinomavro buds early and ripens late, making it vulnerable to both spring frost and autumn rain. The variety requires a long growing season to achieve phenolic ripeness while maintaining its signature acidity: a balance achieved reliably only in Northern Greece's continental climate. Attempts to cultivate Xinomavro in warmer Greek regions produce flabby wines lacking structure.
 
 The vine grows vigorously, producing large canopies that require aggressive summer pruning to maintain fruit exposure and air circulation. Left unmanaged, Xinomavro easily exceeds 12 tons per hectare, yielding dilute wines. Quality-focused producers target 5-7 tons per hectare through winter pruning, shoot thinning, and crop adjustment.
 
@@ -98,7 +98,7 @@ Morphologically, Xinomavro presents small, compact clusters of medium-sized berr
 
 **Site Preferences**
 
-Xinomavro performs best on well-drained, moderately fertile soils. Naoussa's clay-limestone sites between 150-350 meters elevation represent the variety's sweet spot—sufficient warmth for ripening, enough altitude for acidity retention, and soil structure that limits excessive vigor.
+Xinomavro performs best on well-drained, moderately fertile soils. Naoussa's clay-limestone sites between 150-350 meters elevation represent the variety's sweet spot, sufficient warmth for ripening, enough altitude for acidity retention, and soil structure that limits excessive vigor.
 
 The variety struggles on Amyndeon's heavier clay soils unless planted on slopes with natural drainage. Several producers have installed subsurface drainage tiles to manage water, an expensive intervention that reflects Xinomavro's intolerance of wet feet.
 
@@ -114,9 +114,9 @@ Assyrtiko (ah-SEER-tee-koh) originates from Santorini but thrives in Northern Gr
 
 **Viticultural Adaptation**
 
-Assyrtiko ripens mid-season, approximately two weeks before Xinomavro. The variety maintains high acidity even at full ripeness—must pH rarely exceeds 3.2 at harvest, providing natural protection against oxidation and microbial spoilage.
+Assyrtiko ripens mid-season, approximately two weeks before Xinomavro. The variety maintains high acidity even at full ripeness, must pH rarely exceeds 3.2 at harvest, providing natural protection against oxidation and microbial spoilage.
 
-In Chalkidiki's calcareous soils, Assyrtiko produces wines with pronounced mineral tension and citrus character—lemon pith, grapefruit, and saline notes dominate. These northern expressions lack the stone-fruit richness typical of Santorini Assyrtiko but gain linear precision and aging potential. The best examples evolve for 10-15 years, developing honeyed complexity while retaining core acidity.
+In Chalkidiki's calcareous soils, Assyrtiko produces wines with pronounced mineral tension and citrus character, lemon pith, grapefruit, and saline notes dominate. These northern expressions lack the stone-fruit richness typical of Santorini Assyrtiko but gain linear precision and aging potential. The best examples evolve for 10-15 years, developing honeyed complexity while retaining core acidity.
 
 Yields must be controlled; Assyrtiko can produce 12+ tons per hectare on fertile sites, resulting in dilute wines. Quality-focused producers target 7-8 tons per hectare through crop adjustment.
 
@@ -126,7 +126,7 @@ Roditis (roh-DEE-tees) ranks as Greece's second-most planted variety (14.34% of 
 
 In Northern Greece, particularly Epirus and western Macedonia, Roditis produces crisp, neutral wines used primarily for blending. The grape's naturally high acidity and moderate alcohol (typically 11-12.5%) provide structural backbone to wines that might otherwise lack freshness.
 
-The pink-skinned Roditis ripens early, avoiding autumn rain risks. The variety shows good disease resistance and adapts to various soil types, explaining its widespread cultivation. However, Roditis rarely produces distinctive wines on its own—its role remains utilitarian rather than aspirational.
+The pink-skinned Roditis ripens early, avoiding autumn rain risks. The variety shows good disease resistance and adapts to various soil types, explaining its widespread cultivation. However, Roditis rarely produces distinctive wines on its own, its role remains utilitarian rather than aspirational.
 
 ### Malagousia: Resurrection and Reinvention
 
@@ -134,23 +134,23 @@ Malagousia (mah-lah-goo-ZYAH) nearly disappeared during the phylloxera replantin
 
 **Aromatic Profile and Structure**
 
-Malagousia produces intensely aromatic wines featuring white flowers (jasmine, orange blossom), stone fruits (apricot, peach), and subtle herbal notes (basil, mint). The variety's aromatic intensity rivals Viognier or Gewürztraminer, but Malagousia maintains better acidity—must pH typically ranges from 3.1-3.3.
+Malagousia produces intensely aromatic wines featuring white flowers (jasmine, orange blossom), stone fruits (apricot, peach), and subtle herbal notes (basil, mint). The variety's aromatic intensity rivals Viognier or Gewürztraminer, but Malagousia maintains better acidity, must pH typically ranges from 3.1-3.3.
 
 The grape ripens mid-season and achieves 12.5-14% alcohol naturally. Producers must balance ripeness against aromatics; harvesting too late produces heavy, blowsy wines lacking the freshness that makes Malagousia compelling.
 
 **Site Requirements**
 
-Malagousia performs best on well-drained, moderately fertile soils at elevations between 200-400 meters. The variety shows vigor comparable to Xinomavro, requiring canopy management to maintain fruit exposure. In Northern Greece's continental climate, Malagousia achieves aromatic intensity while retaining structure—a balance difficult to achieve in warmer Greek regions where the variety also grows.
+Malagousia performs best on well-drained, moderately fertile soils at elevations between 200-400 meters. The variety shows vigor comparable to Xinomavro, requiring canopy management to maintain fruit exposure. In Northern Greece's continental climate, Malagousia achieves aromatic intensity while retaining structure: a balance difficult to achieve in warmer Greek regions where the variety also grows.
 
 ### Limniona: The Blending Component
 
 Limniona (lim-nee-OH-nah) contributes color, fruit, and aromatic lift to red blends, particularly in Rapsani where it's blended with Xinomavro and Krassato. The variety produces medium-bodied wines with red fruit character (cherry, raspberry) and floral aromatics.
 
-Limniona ripens mid-season, approximately one week before Xinomavro. The variety's moderate tannin and acidity make it unsuitable for extended aging as a varietal wine, but these same characteristics soften Xinomavro's aggressive structure in blends. Rapsani's traditional blend—Xinomavro for structure and aging potential, Limniona for fruit and aromatics, Krassato for color and body—demonstrates intelligent use of complementary varieties.
+Limniona ripens mid-season, approximately one week before Xinomavro. The variety's moderate tannin and acidity make it unsuitable for extended aging as a varietal wine, but these same characteristics soften Xinomavro's aggressive structure in blends. Rapsani's traditional blend. Xinomavro for structure and aging potential, Limniona for fruit and aromatics, Krassato for color and body, demonstrates intelligent use of complementary varieties.
 
 ### Negoska: Goumenissa's Supporting Actor
 
-Negoska (neh-GOHS-kah) appears primarily in Goumenissa, where PDO regulations require blending it with Xinomavro (minimum 20% Negoska). The variety produces deeply colored, soft wines with low acidity and moderate tannin—essentially the opposite of Xinomavro's profile.
+Negoska (neh-GOHS-kah) appears primarily in Goumenissa, where PDO regulations require blending it with Xinomavro (minimum 20% Negoska). The variety produces deeply colored, soft wines with low acidity and moderate tannin, essentially the opposite of Xinomavro's profile.
 
 This complementary character explains Negoska's mandated inclusion in Goumenissa. The variety's soft tannins and ripe fruit character (blackberry, plum) balance Xinomavro's astringency, producing more approachable wines in youth. However, Negoska contributes little to aging potential; Goumenissa wines rarely improve beyond 8-10 years, compared to Naoussa's best examples which can age for 20+ years.
 
@@ -164,15 +164,15 @@ Northern Greece produces predominantly dry table wines, with minimal sweet wine 
 
 Naoussa's traditional approach involves extended maceration (20-30 days) to extract maximum tannin and color from Xinomavro's thick skins. Fermentation occurs in concrete, stainless steel, or large wooden vats, with temperatures typically reaching 28-32°C. The high fermentation temperatures extract tannin aggressively, producing wines that require extended aging to achieve balance.
 
-Following fermentation, wines age in oak barrels—typically French oak of 225-500 liters—for 12-24 months. The oak serves less to add flavor than to allow gradual oxygen exposure that softens tannins through polymerization. Producers have learned that new oak overwhelms Xinomavro's delicate aromatics; most employ 20-30% new oak maximum, with the balance in used barrels.
+Following fermentation, wines age in oak barrels (typically French oak of 225-500 liters) for 12-24 months. The oak serves less to add flavor than to allow gradual oxygen exposure that softens tannins through polymerization. Producers have learned that new oak overwhelms Xinomavro's delicate aromatics; most employ 20-30% new oak maximum, with the balance in used barrels.
 
 The best Naoussa wines require 5-10 years bottle age before approaching optimal drinking windows. Young Naoussa presents aggressive tannins and high acidity that can seem unbalanced; with time, the tannins soften and integrate while tertiary aromatics (leather, tobacco, dried roses, forest floor) emerge.
 
 **Modern Approaches: Whole-Cluster and Carbonic Maceration**
 
-A younger generation of producers has adopted whole-cluster fermentation and semi-carbonic maceration to produce more approachable Xinomavro. Including 30-50% whole clusters during fermentation extracts more aromatic compounds while reducing harsh tannin extraction. The stems contribute their own tannic structure—different in texture from skin tannins—that some producers find more elegant.
+A younger generation of producers has adopted whole-cluster fermentation and semi-carbonic maceration to produce more approachable Xinomavro. Including 30-50% whole clusters during fermentation extracts more aromatic compounds while reducing harsh tannin extraction. The stems contribute their own tannic structure (different in texture from skin tannins) that some producers find more elegant.
 
-Thymiopoulos, Dalamara, and several other estates produce partially or fully carbonic-macerated Xinomavro intended for earlier consumption. These wines emphasize Xinomavro's floral and red-fruit character while minimizing astringency. Whether these lighter styles age as gracefully as traditionally produced Naoussa remains to be seen—the oldest examples have only 10-12 years of bottle age.
+Thymiopoulos, Dalamara, and several other estates produce partially or fully carbonic-macerated Xinomavro intended for earlier consumption. These wines emphasize Xinomavro's floral and red-fruit character while minimizing astringency. Whether these lighter styles age as gracefully as traditionally produced Naoussa remains to be seen: the oldest examples have only 10-12 years of bottle age.
 
 **Blended Reds: Goumenissa and Rapsani**
 
@@ -196,7 +196,7 @@ Malagousia's intense aromatics present both opportunity and challenge. Producers
 
 Most producers ferment Malagousia cool (14-16°C) in stainless steel and bottle early to capture maximum aromatic intensity. Some employ brief lees contact (2-4 months) to add texture without diminishing aromatics. A few producers ferment in neutral oak or concrete eggs, seeking additional complexity, though this risks muting the variety's distinctive floral character.
 
-Malagousia rarely improves beyond 3-5 years. The wines' aromatics fade relatively quickly, and the structure—while adequate—doesn't support extended aging. This makes Malagousia a "drink young" variety, appreciated for immediate pleasure rather than cellaring potential.
+Malagousia rarely improves beyond 3-5 years. The wines' aromatics fade relatively quickly, and the structure (while adequate) doesn't support extended aging. This makes Malagousia a "drink young" variety, appreciated for immediate pleasure rather than cellaring potential.
 
 **Zitsa: Sparkling Tradition**
 
@@ -278,7 +278,7 @@ Northern Greece's continental climate creates significant vintage variation. The
 
 ### Vintage Generalization
 
-Northern Greece performs best in vintages with warm, dry summers, moderate autumn temperatures, and no extreme weather events—conditions that occur perhaps 60-70% of years. The region's continental climate means that truly great vintages (2015, 2019) alternate with challenging years (2014, 2018, 2021) more frequently than in Mediterranean Greece.
+Northern Greece performs best in vintages with warm, dry summers, moderate autumn temperatures, and no extreme weather events, conditions that occur perhaps 60-70% of years. The region's continental climate means that truly great vintages (2015, 2019) alternate with challenging years (2014, 2018, 2021) more frequently than in Mediterranean Greece.
 
 For consumers, vintage matters significantly for Xinomavro-based wines intended for aging. Malagousia and other whites show less vintage variation and drink well even from moderate years.
 
@@ -296,17 +296,17 @@ Northern Greece supports approximately 150 wineries of varying sizes and ambitio
 
 **Ktima Kir-Yianni** (see above)
 
-**Alpha Estate** (Amyndeon): Established in 1997 by Angelos Iatridis and Makis Mavridis, Alpha Estate produces approximately 250,000 bottles annually from 110 hectares at 650 meters elevation. The estate's "Xinomavro Reserve" and "SMX" (Single Vineyard Xinomavro) demonstrate Amyndeon's distinctive style—higher acidity, more delicate structure, and pronounced floral aromatics compared to Naoussa. The winery employs temperature-controlled fermentation, extended maceration (25-30 days), and aging in French oak (20-30% new) for 12-14 months. Alpha Estate also produces varietal Syrah and Merlot from high-elevation sites.
+**Alpha Estate** (Amyndeon): Established in 1997 by Angelos Iatridis and Makis Mavridis, Alpha Estate produces approximately 250,000 bottles annually from 110 hectares at 650 meters elevation. The estate's "Xinomavro Reserve" and "SMX" (Single Vineyard Xinomavro) demonstrate Amyndeon's distinctive style, higher acidity, more delicate structure, and pronounced floral aromatics compared to Naoussa. The winery employs temperature-controlled fermentation, extended maceration (25-30 days), and aging in French oak (20-30% new) for 12-14 months. Alpha Estate also produces varietal Syrah and Merlot from high-elevation sites.
 
-**Domaine Gerovassiliou** (Epanomi, Thessaloniki): Evangelos Gerovassiliou, after resurrecting Malagousia, established his own estate in 1981. Production reaches approximately 350,000 bottles from 65 hectares. His varietal Malagousia set the standard for the variety—intensely aromatic, well-structured, and capable of 3-5 years aging. The estate also produces Assyrtiko, Viognier, and red blends from Syrah, Grenache, and Limniona. Gerovassiliou's "Avaton" red blend combines Limniona and Mavrotragano, demonstrating indigenous varieties' potential in skilled hands.
+**Domaine Gerovassiliou** (Epanomi, Thessaloniki): Evangelos Gerovassiliou, after resurrecting Malagousia, established his own estate in 1981. Production reaches approximately 350,000 bottles from 65 hectares. His varietal Malagousia set the standard for the variety, intensely aromatic, well-structured, and capable of 3-5 years aging. The estate also produces Assyrtiko, Viognier, and red blends from Syrah, Grenache, and Limniona. Gerovassiliou's "Avaton" red blend combines Limniona and Mavrotragano, demonstrating indigenous varieties' potential in skilled hands.
 
-**Domaine Porto Carras** (Chalkidiki): Established in 1970 by shipping magnate Ioannis Carras with Bordeaux consultant Émile Peynaud, Porto Carras manages 475 hectares—one of Greece's largest single vineyard holdings. The estate produces approximately 2 million bottles annually across multiple ranges. The "Château Porto Carras" red (Cabernet Sauvignon, Cabernet Franc, Limnio) and white (Assyrtiko, Athiri, Roditis) represent the estate's flagship wines, aged in French oak and capable of 10-15 years evolution. While Porto Carras's scale and international-variety focus set it apart from smaller, indigenous-focused producers, the estate's historical importance and consistent quality merit recognition.
+**Domaine Porto Carras** (Chalkidiki): Established in 1970 by shipping magnate Ioannis Carras with Bordeaux consultant Émile Peynaud, Porto Carras manages 475 hectares, one of Greece's largest single vineyard holdings. The estate produces approximately 2 million bottles annually across multiple ranges. The "Château Porto Carras" red (Cabernet Sauvignon, Cabernet Franc, Limnio) and white (Assyrtiko, Athiri, Roditis) represent the estate's flagship wines, aged in French oak and capable of 10-15 years evolution. While Porto Carras's scale and international-variety focus set it apart from smaller, indigenous-focused producers, the estate's historical importance and consistent quality merit recognition.
 
 **Ktima Voyatzi** (Velventos, near Kozani): Ioanna and Konstantinos Voyatzis produce approximately 50,000 bottles from 12 hectares at 650-750 meters elevation. Their Xinomavro shows Amyndeon's characteristic delicacy and floral intensity, with pronounced acidity and moderate tannin. The estate also produces varietal Syrah and Merlot from these high-elevation sites, demonstrating that international varieties can succeed in Northern Greece when planted appropriately.
 
 ### Thessaly
 
-**Dougos Winery** (Rapsani): Apostolos Dougos manages 20 hectares on Mount Olympus's slopes, producing approximately 80,000 bottles annually. His "Reserve" Rapsani (Xinomavro, Limniona, Krassato) ages 18 months in French oak and demonstrates the appellation's volcanic terroir—mineral tension, moderate tannin, and savory complexity. The wine drinks well at 5-8 years and represents good value compared to premium Naoussa.
+**Dougos Winery** (Rapsani): Apostolos Dougos manages 20 hectares on Mount Olympus's slopes, producing approximately 80,000 bottles annually. His "Reserve" Rapsani (Xinomavro, Limniona, Krassato) ages 18 months in French oak and demonstrates the appellation's volcanic terroir, mineral tension, moderate tannin, and savory complexity. The wine drinks well at 5-8 years and represents good value compared to premium Naoussa.
 
 **Tsantali** (Rapsani): One of Greece's largest producers, Tsantali owns approximately 450 hectares across Northern Greece. The company's Rapsani bottlings, while produced at scale (approximately 500,000 bottles annually), maintain quality standards and offer accessible introduction to the appellation. The "Rapsani Reserve" provides reliable quality at moderate prices.
 
@@ -314,7 +314,7 @@ Northern Greece supports approximately 150 wineries of varying sizes and ambitio
 
 **Glinavos Estate** (Zitsa): Kostas Glinavos produces approximately 60,000 bottles from 12 hectares of Debina at 600-700 meters elevation. His "Paleokerisio" sparkling Debina employs traditional method (bottle fermentation with disgorgement) rather than Zitsa's typical pétillant naturel approach, creating more refined mousse and complexity. The wine ages on lees for 18-24 months before disgorgement, developing brioche and citrus character while maintaining Debina's characteristic high acidity.
 
-**Katogi Averoff** (Metsovo): Established in 1958 by Evangelos Averoff-Tositsas, this estate manages approximately 50 hectares at 900-1,200 meters elevation—among Greece's highest vineyards. The flagship "Katogi" red blends Cabernet Sauvignon (70%) with Agiorgitiko, producing a structured wine with pronounced acidity and moderate alcohol (typically 12.5-13%). The extreme elevation delays harvest until late October, creating wines of uncommon freshness for Greece. Production reaches approximately 200,000 bottles annually.
+**Katogi Averoff** (Metsovo): Established in 1958 by Evangelos Averoff-Tositsas, this estate manages approximately 50 hectares at 900-1,200 meters elevation, among Greece's highest vineyards. The flagship "Katogi" red blends Cabernet Sauvignon (70%) with Agiorgitiko, producing a structured wine with pronounced acidity and moderate alcohol (typically 12.5-13%). The extreme elevation delays harvest until late October, creating wines of uncommon freshness for Greece. Production reaches approximately 200,000 bottles annually.
 
 ## Sources and Further Reading
 

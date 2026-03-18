@@ -1,6 +1,6 @@
 # Vertus: Where Clay Meets Chalk in the Côte des Blancs
 
-Vertus occupies a peculiar position in Champagne's hierarchy. Rated Premier Cru—not Grand Cru—it nonetheless produces some of the region's most compelling single-village champagnes. The classification undersells the reality. This is not a subtle distinction.
+Vertus occupies a peculiar position in Champagne's hierarchy. Rated Premier Cru (not Grand Cru) it nonetheless produces some of the region's most compelling single-village champagnes. The classification undersells the reality. This is not a subtle distinction.
 
 At 1,334 acres (540 hectares), Vertus ranks as the second-largest village in Champagne, trailing only Les Riceys in the Aube. Its size alone suggests diversity, and the terroir delivers: Vertus contains multitudes. The village's vineyards split into two geologically distinct zones that produce fundamentally different wines. Understanding this division is essential to understanding Vertus itself.
 
@@ -8,17 +8,17 @@ At 1,334 acres (540 hectares), Vertus ranks as the second-largest village in Cha
 
 ### Northern Vertus: The Chalk Sector
 
-The northern parcels adjacent to Le Mesnil-sur-Oger lie on pure chalk with minimal topsoil cover. These vineyards produce wines of piercing tension and mineral clarity—wines that could easily pass for Grand Cru in blind tastings. The lieux-dits here include Les Barillées, Les Faucherets, and La Vieille Voie, all farmed by producers who recognize their potential.
+The northern parcels adjacent to Le Mesnil-sur-Oger lie on pure chalk with minimal topsoil cover. These vineyards produce wines of piercing tension and mineral clarity, wines that could easily pass for Grand Cru in blind tastings. The lieux-dits here include Les Barillées, Les Faucherets, and La Vieille Voie, all farmed by producers who recognize their potential.
 
-Pierre Larmandier's Terre de Vertus exemplifies this sector. Sourced from these three adjoining parcels where chalk sits within centimeters of the surface, the wine feels almost electric. It's racy, vivid, and marked by what tasters describe as "naked chalkiness"—that distinctive sensation of limestone minerality unmediated by clay or topsoil buffering.
+Pierre Larmandier's Terre de Vertus exemplifies this sector. Sourced from these three adjoining parcels where chalk sits within centimeters of the surface, the wine feels almost electric. It's racy, vivid, and marked by what tasters describe as "naked chalkiness", that distinctive sensation of limestone minerality unmediated by clay or topsoil buffering.
 
 ### Southern Vertus: The Clay Expression
 
-Move south within the village boundaries and the profile shifts dramatically. Clay content increases substantially in the topsoil, producing fuller-bodied wines with broader shoulders and less vertical structure. These southern parcels historically favored Pinot Noir—more on that shortly—but today's Chardonnay plantings here yield champagnes of notable weight and texture.
+Move south within the village boundaries and the profile shifts dramatically. Clay content increases substantially in the topsoil, producing fuller-bodied wines with broader shoulders and less vertical structure. These southern parcels historically favored Pinot Noir (more on that shortly) but today's Chardonnay plantings here yield champagnes of notable weight and texture.
 
 Larmandier-Bernier's "Latitude" demonstrates this clay influence clearly. Largely sourced from southern Vertus parcels, it's a full-bodied blanc de blancs that trades the northern sector's laser focus for amplitude and depth. The same producer's "Longitude," blending Vertus with the Grand Cru villages of Avize, Cramant, Oger, and Chouilly, showcases how Vertus clay parcels can add body to the chalky finesse of its more celebrated neighbors.
 
-This geological split mirrors—in miniature—the broader pattern across the Côte des Blancs, where chalk dominates the slopes but clay intrusions create pockets of stylistic diversity. In Burgundy's Côte d'Or, roughly 80% of base rock is limestone and 20% marl. The Côte des Blancs inverts this somewhat, with pure chalk seams running through clay-influenced zones. Vertus captures both extremes within a single village boundary.
+This geological split mirrors (in miniature) the broader pattern across the Côte des Blancs, where chalk dominates the slopes but clay intrusions create pockets of stylistic diversity. In Burgundy's Côte d'Or, roughly 80% of base rock is limestone and 20% marl. The Côte des Blancs inverts this somewhat, with pure chalk seams running through clay-influenced zones. Vertus captures both extremes within a single village boundary.
 
 ## The Pinot Noir Paradox
 
@@ -42,15 +42,15 @@ Unlike the Grand Cru villages where every parcel carries prestige, Vertus requir
 
 **La Vieille Voie**: Completes the northern trio in Terre de Vertus. The name ("old road") references ancient cart paths that once traversed these slopes.
 
-These three parcels cluster together on Vertus's northern edge, forming a continuous band of chalk-dominated terroir. Their proximity to Le Mesnil is more than geographic—geologically, they share the same Campanian chalk formation that makes Le Mesnil Grand Cru.
+These three parcels cluster together on Vertus's northern edge, forming a continuous band of chalk-dominated terroir. Their proximity to Le Mesnil is more than geographic, geologically, they share the same Campanian chalk formation that makes Le Mesnil Grand Cru.
 
 The southern lieux-dits remain less documented in English-language sources, though local producers distinguish between them. The clay content varies by parcel, and exposition shifts from the ideal east-facing slopes to more variable aspects.
 
 ## Elevation and Mesoclimate
 
-Vertus vineyards range from approximately 90 to 180 meters elevation, with the highest parcels in the northern sector. This elevation range creates meaningful mesoclimate variation—the term correctly applied to vineyard-scale climate differences, not the commonly misused "microclimate."
+Vertus vineyards range from approximately 90 to 180 meters elevation, with the highest parcels in the northern sector. This elevation range creates meaningful mesoclimate variation: the term correctly applied to vineyard-scale climate differences, not the commonly misused "microclimate."
 
-The northern parcels benefit from slightly higher elevation and predominantly east-facing exposures, maximizing morning sun exposure while avoiding excessive afternoon heat. These factors contribute to slower, more complete ripening and higher natural acidity retention—classic prerequisites for age-worthy champagne.
+The northern parcels benefit from slightly higher elevation and predominantly east-facing exposures, maximizing morning sun exposure while avoiding excessive afternoon heat. These factors contribute to slower, more complete ripening and higher natural acidity retention, classic prerequisites for age-worthy champagne.
 
 Southern parcels sit lower and face more variable directions. They accumulate heat more readily, reaching harvest ripeness earlier but sometimes at the expense of acid retention in warm vintages. The clay soils here provide water buffering that prevents drought stress, though this advantage matters less in Champagne's generally wet climate than it would in, say, Burgundy.
 
@@ -62,9 +62,9 @@ Two philosophical camps exist among Vertus producers: those who bottle single-vi
 
 **Larmandier-Bernier** leads this category. Pierre Larmandier farms organically and biodynamically, harvests at unusually high ripeness levels, and ferments with indigenous yeasts in stainless steel, barrique, or large oak foudre. His champagnes are unambiguously terroir-driven, with each cuvée representing specific soil types and exposures.
 
-The estate's approach demonstrates how Vertus can stand alone. Terre de Vertus isn't marketed as "almost Grand Cru" or positioned apologetically. It's presented as a distinct expression—which it is.
+The estate's approach demonstrates how Vertus can stand alone. Terre de Vertus isn't marketed as "almost Grand Cru" or positioned apologetically. It's presented as a distinct expression, which it is.
 
-**Doquet Jérome-Prévoteau** similarly bottles individual blanc de blancs from Vertus, Le Mesnil, and Mont Aimé, creating an illuminating comparative tasting. The Vertus bottling shows "both the breadth of clay soils and the liveliness of chalk"—a duality impossible in purely chalk-based Grand Cru sites.
+**Doquet Jérome-Prévoteau** similarly bottles individual blanc de blancs from Vertus, Le Mesnil, and Mont Aimé, creating an illuminating comparative tasting. The Vertus bottling shows "both the breadth of clay soils and the liveliness of chalk", a duality impossible in purely chalk-based Grand Cru sites.
 
 Pascal Doquet's range allows direct comparison: the Mont Aimé (from the isolated hill south of Vertus) is delicate and flinty; the Le Mesnil is sleek and classically structured; the Vertus is rounder and larger-bodied, splitting the difference between mineral tension and textural amplitude.
 
@@ -72,7 +72,7 @@ Pascal Doquet's range allows direct comparison: the Mont Aimé (from the isolate
 
 Most Vertus production enters multi-village blends, particularly for large houses. Here Vertus serves a specific function: adding body and mid-palate texture to blends dominated by the leaner Grand Cru villages.
 
-This role shouldn't be dismissed as secondary. Blending requires components with distinct characteristics. Vertus provides what Cramant and Avize cannot: weight without heaviness, texture without blowsiness. A skilled chef de cave uses Vertus the way a perfumer uses a heart note—to bridge and bind.
+This role shouldn't be dismissed as secondary. Blending requires components with distinct characteristics. Vertus provides what Cramant and Avize cannot: weight without heaviness, texture without blowsiness. A skilled chef de cave uses Vertus the way a perfumer uses a heart note, to bridge and bind.
 
 Larmandier's "Longitude" demonstrates this blending approach at the estate level. Combining Vertus with Avize, Cramant, Oger, and Chouilly, it showcases "the racy finesse of chalky soils" while maintaining structure and depth. The Vertus component prevents the blend from becoming too austere or linear.
 
@@ -86,7 +86,7 @@ Vertus offers earlier approachability without sacrificing aging potential. The c
 
 ### vs. Oger
 
-Oger lies northeast, also Grand Cru, also chalk-based. Oger tends toward richness and power—"the Meursault of Champagne" in some descriptions. Vertus can match Oger's body in the southern clay sectors but maintains higher acid tension, particularly from northern parcels.
+Oger lies northeast, also Grand Cru, also chalk-based. Oger tends toward richness and power, "the Meursault of Champagne" in some descriptions. Vertus can match Oger's body in the southern clay sectors but maintains higher acid tension, particularly from northern parcels.
 
 ### vs. Bergères-lès-Vertus
 
@@ -102,7 +102,7 @@ The progression from north to south across the Côte des Blancs shows increasing
 
 **Aromatics**: Chalk dust, lemon zest, green apple, white flowers, occasionally struck flint or wet stone. Less overtly fruity than southern expressions.
 
-**Palate**: High acid, lean to medium body, pronounced minerality. The texture is tense rather than creamy, with a saline or chalky grip on the finish. These wines feel vertical—they rise rather than spread.
+**Palate**: High acid, lean to medium body, pronounced minerality. The texture is tense rather than creamy, with a saline or chalky grip on the finish. These wines feel vertical, they rise rather than spread.
 
 **Aging**: Develops slowly. Needs 3-5 years post-disgorgement to show well; can age 15+ years in top vintages. Gains toast, honey, and hazelnut notes with time while retaining acid backbone.
 
@@ -110,9 +110,9 @@ The progression from north to south across the Côte des Blancs shows increasing
 
 **Appearance**: Slightly deeper gold. Mousse equally fine but bubbles may be slightly larger.
 
-**Aromatics**: Riper fruit—yellow apple, pear, occasionally stone fruit. More floral (acacia, honeysuckle). Less obvious mineral signature.
+**Aromatics**: Riper fruit, yellow apple, pear, occasionally stone fruit. More floral (acacia, honeysuckle). Less obvious mineral signature.
 
-**Palate**: Fuller body, rounder texture, lower perceived acidity (though actual pH may be similar—the body masks the acid). The finish is broader, less sharply defined. These wines spread horizontally across the palate.
+**Palate**: Fuller body, rounder texture, lower perceived acidity (though actual pH may be similar: the body masks the acid). The finish is broader, less sharply defined. These wines spread horizontally across the palate.
 
 **Aging**: Approachable younger (2-3 years post-disgorgement). Ages well for 10-12 years but doesn't typically reach the extended longevity of northern parcels or Grand Cru sites.
 
@@ -138,7 +138,7 @@ Vertus responds to vintage conditions somewhat differently than the Grand Cru vi
 
 **Larmandier-Bernier Terre de Vertus** ($$): The definitive northern Vertus expression. Racy, mineral, age-worthy. This is the wine that proves Vertus deserves more respect.
 
-**Larmandier-Bernier Latitude** ($): Southern Vertus character—fuller, rounder, more immediately appealing. Excellent introduction to the village's clay-influenced style.
+**Larmandier-Bernier Latitude** ($): Southern Vertus character, fuller, rounder, more immediately appealing. Excellent introduction to the village's clay-influenced style.
 
 **Doquet Jérome-Prévoteau Vertus Blanc de Blancs** ($$): Another terroir-focused bottling showcasing the village's duality. Often more available than Larmandier.
 
@@ -164,7 +164,7 @@ The high acidity and mineral character suit:
 
 - **Raw oysters**: Classic pairing. The saline minerality mirrors the brine.
 - **Goat cheese**: Acid cuts the fat; chalk minerality complements the tangy cheese.
-- **Sushi and sashimi**: Clean flavors, high acid, mineral finish—ideal for raw fish.
+- **Sushi and sashimi**: Clean flavors, high acid, mineral finish, ideal for raw fish.
 - **Fried foods**: Acid cuts through oil; bubbles refresh the palate.
 
 ### Southern Vertus (Clay-Influenced)
@@ -173,7 +173,7 @@ The fuller body and riper fruit profile pair with:
 
 - **Lobster or crab**: Richer shellfish match the wine's texture.
 - **Chicken in cream sauce**: Body-for-body match; acid balances richness.
-- **Mild soft cheeses**: Brie, Camembert—the wine has enough texture to stand up without overwhelming.
+- **Mild soft cheeses**: Brie, Camembert: the wine has enough texture to stand up without overwhelming.
 - **Roasted white fish**: Fuller-bodied preparations suit the wine's weight.
 
 ### Vertus Rosé
@@ -188,17 +188,17 @@ The concentration and structure allow:
 
 Why is Vertus Premier Cru rather than Grand Cru? The official answer points to historical pricing and reputation when the Échelle des Crus was formalized in 1919. Villages rated 100% (Grand Cru) commanded the highest prices; those rated 90-99% (Premier Cru) commanded slightly less.
 
-Vertus was rated 95%—respectable but not top-tier. This rating reflected the village's size (harder to maintain consistent quality across 540 hectares), its clay content (perceived as inferior to pure chalk), and its historical identity as a Pinot Noir village (Chardonnay quality wasn't yet proven).
+Vertus was rated 95%, respectable but not top-tier. This rating reflected the village's size (harder to maintain consistent quality across 540 hectares), its clay content (perceived as inferior to pure chalk), and its historical identity as a Pinot Noir village (Chardonnay quality wasn't yet proven).
 
 The classification system has remained essentially frozen for over a century, despite dramatic changes in viticulture, winemaking, and market understanding. Vertus suffers from this rigidity. If the Échelle were redrawn today based purely on quality potential, northern Vertus parcels would merit Grand Cru status.
 
-Some producers argue that Premier Cru classification actually benefits them—it keeps prices reasonable while quality rivals Grand Cru. Perhaps. But it also limits recognition and perpetuates the misconception that Vertus is somehow second-rate.
+Some producers argue that Premier Cru classification actually benefits them, it keeps prices reasonable while quality rivals Grand Cru. Perhaps. But it also limits recognition and perpetuates the misconception that Vertus is somehow second-rate.
 
 ## Climate Change Implications
 
 Champagne is warming. Average temperatures have risen approximately 1.1°C since 1950, and harvest dates have advanced by roughly two weeks. These changes affect Vertus distinctly:
 
-**Advantages**: The clay soils in southern Vertus provide water buffering increasingly valuable in warmer, drier growing seasons. Ripeness—historically a challenge in marginal years—comes more reliably.
+**Advantages**: The clay soils in southern Vertus provide water buffering increasingly valuable in warmer, drier growing seasons. Ripeness (historically a challenge in marginal years) comes more reliably.
 
 **Challenges**: Excessive ripeness and acid loss threaten in hot vintages. The fuller-bodied southern parcels risk becoming flabby. Northern chalk parcels maintain better balance but may lose their distinctive tension if temperatures continue rising.
 
@@ -206,7 +206,7 @@ Vertus may be better positioned for climate change than the purest chalk sites. 
 
 ## Visiting Vertus
 
-The village itself is pleasant but unremarkable—a typical Champagne commune of modest houses and functional architecture. The church of Saint-Martin dates to the 12th century and merits a brief visit.
+The village itself is pleasant but unremarkable: a typical Champagne commune of modest houses and functional architecture. The church of Saint-Martin dates to the 12th century and merits a brief visit.
 
 Most producers welcome visitors by appointment. Larmandier-Bernier and Doquet Jérome-Prévoteau offer particularly educational tastings for those interested in terroir specificity. Request comparative tastings of northern vs. southern parcels if available.
 
@@ -216,7 +216,7 @@ The village sits along the D9, the main road traversing the Côte des Blancs. It
 
 Vertus deserves more attention than it receives. The Premier Cru classification undersells the quality potential, particularly in the northern chalk-dominant parcels. Producers like Larmandier-Bernier and Doquet have demonstrated that Vertus can produce champagnes rivaling Grand Cru in complexity, aging potential, and terroir expression.
 
-The village's geological diversity—the split between chalk and clay—creates stylistic range impossible in more uniform sites. This diversity is a strength, not a weakness, allowing producers to craft different expressions or to blend for balance.
+The village's geological diversity (the split between chalk and clay) creates stylistic range impossible in more uniform sites. This diversity is a strength, not a weakness, allowing producers to craft different expressions or to blend for balance.
 
 For consumers, Vertus offers exceptional value. You can purchase terroir-focused, single-village champagne from talented producers at prices well below comparable Grand Cru bottlings. The quality gap doesn't justify the price gap.
 

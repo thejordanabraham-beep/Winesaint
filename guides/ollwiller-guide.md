@@ -16,7 +16,7 @@ The soils derived from this volcanic parent material are generally deep, well-st
 
 Interspersed within the volcanic matrix are layers of volcanic tuff, which adds additional complexity to the soil profile. The tuff layers contain various mineral compounds and trace elements that contribute to the distinctive character imparted to wines from this site. The presence of clay minerals within the weathered volcanic material provides sufficient water retention to sustain vines during dry periods, while the overall structure ensures that roots never sit in stagnant water.
 
-The vineyard's orientation is predominantly south and southeast-facing, providing optimal sun exposure throughout the growing season. The slopes range in elevation from approximately 280 to 380 meters above sea level, with gradients varying from moderate to relatively steep in certain sectors. This elevation range places Ollwiller at an advantageous height—high enough to benefit from good air circulation and drainage, yet not so elevated as to encounter difficulties with ripening in cooler vintages.
+The vineyard's orientation is predominantly south and southeast-facing, providing optimal sun exposure throughout the growing season. The slopes range in elevation from approximately 280 to 380 meters above sea level, with gradients varying from moderate to relatively steep in certain sectors. This elevation range places Ollwiller at an advantageous height, high enough to benefit from good air circulation and drainage, yet not so elevated as to encounter difficulties with ripening in cooler vintages.
 
 The combination of volcanic soils, favorable orientation, and moderate elevation creates exceptional drainage characteristics. Water percolates readily through the sandy-textured topsoil and into the porous volcanic substrata, forcing vine roots to penetrate deeply in search of moisture and nutrients. This deep rooting is fundamental to the terroir expression found in Ollwiller wines, as vines access a diverse range of mineral compounds from various soil horizons.
 
@@ -30,7 +30,7 @@ The south and southeast exposure ensures that vineyard parcels receive direct su
 
 Summer temperatures at Ollwiller are typically warm, with July and August averages reaching 20-22°C, while winters are cold, with January means around 1-2°C. The continental influence brings significant diurnal temperature variation during the crucial ripening period of September and October, with differences between day and night temperatures often exceeding 15°C. This amplitude is essential for preserving aromatic compounds and maintaining natural acidity in grapes while sugars continue to accumulate.
 
-The combination of warm, dry summers, cool nights during ripening, and the site's excellent sun exposure creates conditions that favor slow, steady grape maturation—a key factor in developing the complexity and balance for which Grand Cru wines are renowned.
+The combination of warm, dry summers, cool nights during ripening, and the site's excellent sun exposure creates conditions that favor slow, steady grape maturation: a key factor in developing the complexity and balance for which Grand Cru wines are renowned.
 
 ## Viticulture
 
@@ -42,7 +42,7 @@ Ollwiller is planted primarily with Riesling and Gewurztraminer, the two varieti
 
 Vine density at Ollwiller typically ranges from 4,500 to 5,500 vines per hectare, following Alsace Grand Cru regulations that mandate minimum densities to ensure appropriate competition between vines and concentration in the fruit. Many parcels contain vines of considerable age, with some plantings dating back 40-60 years or more. These older vines, with their deeply established root systems, are particularly adept at expressing the nuances of the volcanic terroir.
 
-Viticultural challenges at Ollwiller include managing vine vigor on the deeper, more fertile volcanic soils, particularly in sectors with higher clay content. Excessive vigor can lead to overly vegetative growth, shading fruit and diluting concentration. Conscientious growers employ canopy management techniques—selective leaf removal, crop thinning, and careful pruning—to maintain balance and ensure optimal fruit exposure and ripening.
+Viticultural challenges at Ollwiller include managing vine vigor on the deeper, more fertile volcanic soils, particularly in sectors with higher clay content. Excessive vigor can lead to overly vegetative growth, shading fruit and diluting concentration. Conscientious growers employ canopy management techniques (selective leaf removal, crop thinning, and careful pruning) to maintain balance and ensure optimal fruit exposure and ripening.
 
 The volcanic soils' good drainage generally reduces disease pressure compared to more water-retentive sites, but growers must still remain vigilant regarding fungal diseases, particularly in wetter years. The relatively moderate elevation means spring frost is less of a concern than at valley-floor sites, though occasional frost events can still pose risks during budbreak.
 
@@ -50,15 +50,15 @@ Water stress management presents an interesting challenge: while the volcanic so
 
 ## Wine Character
 
-Wines from Ollwiller display a distinctive volcanic signature that distinguishes them from Grands Crus based on granite, limestone, or marl. This volcanic character manifests as a particular type of minerality—often described as smoky, flinty, or spicy—that undergirds the varietal fruit expression.
+Wines from Ollwiller display a distinctive volcanic signature that distinguishes them from Grands Crus based on granite, limestone, or marl. This volcanic character manifests as a particular type of minerality (often described as smoky, flinty, or spicy) that undergirds the varietal fruit expression.
 
-**Riesling from Ollwiller** typically exhibits pronounced minerality with notes of wet stone, flint, and volcanic rock, sometimes accompanied by a subtle smokiness reminiscent of gunflint. The fruit profile tends toward citrus—lemon, lime, grapefruit—with stone fruit elements (white peach, apricot) emerging as wines mature. The volcanic terroir imparts a distinctive spiciness, with white pepper and ginger notes complementing the fruit. These Rieslings generally show excellent structure, with a firm mineral backbone supporting the fruit, and vibrant acidity that provides both freshness and aging potential.
+**Riesling from Ollwiller** typically exhibits pronounced minerality with notes of wet stone, flint, and volcanic rock, sometimes accompanied by a subtle smokiness reminiscent of gunflint. The fruit profile tends toward citrus (lemon, lime, grapefruit) with stone fruit elements (white peach, apricot) emerging as wines mature. The volcanic terroir imparts a distinctive spiciness, with white pepper and ginger notes complementing the fruit. These Rieslings generally show excellent structure, with a firm mineral backbone supporting the fruit, and vibrant acidity that provides both freshness and aging potential.
 
 The texture of Ollwiller Rieslings is often notably saline and mouth-watering, with a characteristic mineral tension that drives through the palate from attack to finish. In youth, these wines can appear austere or tightly wound, but with age they develop extraordinary complexity, revealing layers of dried fruit, honey, petrol, and evolved mineral nuances while retaining remarkable freshness.
 
-**Gewurztraminer from Ollwiller** presents a more structured, mineral-driven interpretation of this typically exuberant variety. The volcanic soils seem to rein in Gewurztraminer's natural opulence, providing a mineral framework that balances the variety's characteristic rose petal, lychee, and exotic spice aromatics. These wines display intense floral and spice notes—rose, violet, ginger, cardamom—along with tropical and stone fruit flavors, but with more tension and persistence than Gewurztraminer from richer, heavier soils.
+**Gewurztraminer from Ollwiller** presents a more structured, mineral-driven interpretation of this typically exuberant variety. The volcanic soils seem to rein in Gewurztraminer's natural opulence, providing a mineral framework that balances the variety's characteristic rose petal, lychee, and exotic spice aromatics. These wines display intense floral and spice notes (rose, violet, ginger, cardamom) along with tropical and stone fruit flavors, but with more tension and persistence than Gewurztraminer from richer, heavier soils.
 
-The volcanic influence contributes a distinctive smokiness and mineral edge that prevents the wines from becoming cloying or monolithic. Ollwiller Gewurztraminers typically maintain better freshness and aging potential than examples from less distinguished sites, developing fascinating secondary and tertiary characteristics—dried flowers, exotic spices, candied citrus peel, and mineral complexity—over time.
+The volcanic influence contributes a distinctive smokiness and mineral edge that prevents the wines from becoming cloying or monolithic. Ollwiller Gewurztraminers typically maintain better freshness and aging potential than examples from less distinguished sites, developing fascinating secondary and tertiary characteristics (dried flowers, exotic spices, candied citrus peel, and mineral complexity) over time.
 
 **Pinot Gris and Muscat**, though less widely planted, also produce noteworthy wines on Ollwiller. Pinot Gris develops a striking mineral character with smoke and spice notes complementing the variety's inherent richness, while Muscat expresses intense floral and grape aromatics with a distinctive mineral edge and refreshing finish.
 
@@ -74,13 +74,13 @@ Several distinguished domaines cultivate parcels within Ollwiller, each bringing
 
 **Domaine Lucien Albrecht** also works parcels in Ollwiller, crafting wines that emphasize purity and precision. Their approach tends toward expressing the volcanic minerality through careful extraction and controlled yields.
 
-These producers demonstrate different interpretations of Ollwiller—from Zind-Humbrecht's intense, terroir-driven, biodynamically-farmed expressions to more traditional cooperative approaches—yet all share a fundamental respect for the volcanic terroir's distinctive character. The diversity of styles available from Ollwiller provides wine enthusiasts with multiple entry points for understanding this compelling Grand Cru.
+These producers demonstrate different interpretations of Ollwiller, from Zind-Humbrecht's intense, terroir-driven, biodynamically-farmed expressions to more traditional cooperative approaches, yet all share a fundamental respect for the volcanic terroir's distinctive character. The diversity of styles available from Ollwiller provides wine enthusiasts with multiple entry points for understanding this compelling Grand Cru.
 
 ## Historical & Cultural Significance
 
 Viticulture in the Ollwiller area dates back centuries, with documentary evidence of wine production in Wuenheim and surrounding villages extending to the medieval period. However, the specific recognition of Ollwiller as a site of exceptional quality is relatively more recent compared to some of the more famous Alsace Grands Crus closer to Colmar or Riquewihr.
 
-The Thur Valley's industrial development during the 19th and early 20th centuries—particularly textile manufacturing in Thann and surrounding communities—had complex effects on local viticulture. While industrialization brought prosperity that supported wine culture, it also created competition for land and labor. Some vineyard areas declined during this period, though the best sites, including the slopes of Ollwiller, maintained their viticultural vocation.
+The Thur Valley's industrial development during the 19th and early 20th centuries (particularly textile manufacturing in Thann and surrounding communities) had complex effects on local viticulture. While industrialization brought prosperity that supported wine culture, it also created competition for land and labor. Some vineyard areas declined during this period, though the best sites, including the slopes of Ollwiller, maintained their viticultural vocation.
 
 The modern reputation of Ollwiller has grown considerably since its Grand Cru designation in 1983. Initially, it was somewhat overshadowed by more famous Grands Crus in the region, but persistent efforts by quality-focused producers, particularly Domaine Zind-Humbrecht, have elevated awareness of Ollwiller's distinctive character and potential.
 

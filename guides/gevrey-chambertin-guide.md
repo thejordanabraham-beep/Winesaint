@@ -8,17 +8,17 @@ The village sits at the mouth of the Combe de Lavaux, a dry valley that cuts wes
 
 The vineyard sites range in elevation from 240 meters at the lowest village-level plots to 380 meters on the hillsides, with the most prized Grand Cru vineyards positioned on the mid-slope at elevations between 275 and 300 meters. The vineyards face predominantly east and southeast, capturing the gentle morning sun while being protected from harsh afternoon heat by the forested hills above.
 
-The continental climate of Gevrey-Chambertin features warm summers and cold winters, with annual rainfall averaging 750mm. The Combe de Lavaux acts as a natural funnel for cool air circulation, moderating temperatures during the growing season and extending the ripening period—a crucial factor in developing the complex aromatics and structured tannins that define Gevrey-Chambertin wines.
+The continental climate of Gevrey-Chambertin features warm summers and cold winters, with annual rainfall averaging 750mm. The Combe de Lavaux acts as a natural funnel for cool air circulation, moderating temperatures during the growing season and extending the ripening period: a crucial factor in developing the complex aromatics and structured tannins that define Gevrey-Chambertin wines.
 
 ## Historical Background
 
-The viticultural history of Gevrey-Chambertin traces its origins to the 7th century when Burgundian Duke Amalgaire granted vineyard land to the Abbey of Bèze in 630 AD. The monks of Bèze established what would become the Clos de Bèze vineyard, laying the foundation for systematic viticulture in the region. The adjacent Chambertin vineyard was developed slightly later by a local farmer named Bertin, who recognized the potential of the terroir neighboring the monastery's holdings—hence "Champ de Bertin" or Chambertin.
+The viticultural history of Gevrey-Chambertin traces its origins to the 7th century when Burgundian Duke Amalgaire granted vineyard land to the Abbey of Bèze in 630 AD. The monks of Bèze established what would become the Clos de Bèze vineyard, laying the foundation for systematic viticulture in the region. The adjacent Chambertin vineyard was developed slightly later by a local farmer named Bertin, who recognized the potential of the terroir neighboring the monastery's holdings, hence "Champ de Bertin" or Chambertin.
 
 Throughout the medieval period, the Abbey of Bèze expanded its vineyard holdings while maintaining meticulous records of vineyard practices and wine quality. By the 12th century, the wines of Gevrey had gained recognition beyond Burgundy's borders, with records indicating regular shipments to Paris and other major cities throughout France.
 
 The reputation of Gevrey-Chambertin reached its zenith during the reign of Napoleon Bonaparte, who declared Chambertin his personal wine and insisted on its presence during military campaigns. This imperial endorsement elevated the commune's status internationally and established pricing benchmarks that persist today.
 
-The modern appellation system was formalized in 1936 when Gevrey-Chambertin received its AOC designation. The village had officially adopted the name Gevrey-Chambertin in 1847, becoming the first Burgundy commune to append its most famous vineyard name to the village name—a practice that would be widely adopted throughout the region.
+The modern appellation system was formalized in 1936 when Gevrey-Chambertin received its AOC designation. The village had officially adopted the name Gevrey-Chambertin in 1847, becoming the first Burgundy commune to append its most famous vineyard name to the village name: a practice that would be widely adopted throughout the region.
 
 The post-World War II period marked a renaissance for Gevrey-Chambertin, with quality-focused domaines like Armand Rousseau establishing new standards for vineyard management and winemaking precision. The 1960s through 1980s saw significant consolidation of vineyard holdings and the emergence of the modern Burgundy hierarchy based on meticulous terroir classification.
 
@@ -42,7 +42,7 @@ Drainage patterns follow natural geological contours, with underground water mov
 
 Gevrey-Chambertin's classification system represents the most extensive hierarchy in the Côte de Nuits, encompassing nine Grand Cru appellations, twenty-six Premier Cru vineyards, and extensive village-level holdings. This complex structure reflects both the geological diversity of the commune and centuries of empirical observation regarding wine quality patterns.
 
-The Grand Cru appellations form the apex of Gevrey-Chambertin's hierarchy: Chambertin and Chambertin-Clos de Bèze hold equal status as the commune's most prestigious sites, with Clos de Bèze wines permitted to be labeled simply as Chambertin. The remaining seven Grand Crus—Chapelle-Chambertin, Charmes-Chambertin, Griotte-Chambertin, Latricières-Chambertin, Mazis-Chambertin, Ruchottes-Chambertin, and Mazoyères-Chambertin—must include the Chambertin suffix, reflecting their historical association with the flagship vineyard.
+The Grand Cru appellations form the apex of Gevrey-Chambertin's hierarchy: Chambertin and Chambertin-Clos de Bèze hold equal status as the commune's most prestigious sites, with Clos de Bèze wines permitted to be labeled simply as Chambertin. The remaining seven Grand Crus. Chapelle-Chambertin, Charmes-Chambertin, Griotte-Chambertin, Latricières-Chambertin, Mazis-Chambertin, Ruchottes-Chambertin, and Mazoyères-Chambertin, must include the Chambertin suffix, reflecting their historical association with the flagship vineyard.
 
 Chambertin itself covers 12.90 hectares and produces wines of legendary power and longevity, characterized by intense fruit concentration and complex mineral undertones. Chambertin-Clos de Bèze, spanning 15.40 hectares, typically displays greater elegance and aromatic complexity, reflecting subtle differences in soil composition and exposition.
 

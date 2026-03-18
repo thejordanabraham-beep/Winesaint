@@ -24,7 +24,7 @@ The vineyard's proximity to the town of Chablis itself meant it was among the mo
 
 ### Soil Composition
 
-Mont de Milieu's defining characteristic lies in its archetypal Kimmeridgian marl soil composition—the same geological formation that defines the greatest sites in Chablis. This Upper Jurassic limestone dates back approximately 150 million years, formed when the region lay beneath a warm, shallow tropical sea. The soil contains countless fossilized remains of the small oyster *Exogyra virgula* (commonly called "virgula"), along with other marine organisms.
+Mont de Milieu's defining characteristic lies in its archetypal Kimmeridgian marl soil composition: the same geological formation that defines the greatest sites in Chablis. This Upper Jurassic limestone dates back approximately 150 million years, formed when the region lay beneath a warm, shallow tropical sea. The soil contains countless fossilized remains of the small oyster *Exogyra virgula* (commonly called "virgula"), along with other marine organisms.
 
 The Kimmeridgian marl here presents as a complex matrix of clay and limestone, with the proportion varying throughout the vineyard. The upper sections contain a higher percentage of limestone fragments, providing excellent drainage, while the lower slopes show increased clay content, offering greater water retention. This variation creates subtle differences in vine expression even within the single climat.
 
@@ -34,7 +34,7 @@ The soil structure is characteristically shallow, rarely exceeding 30-40 centime
 
 Mont de Milieu enjoys a predominantly southeastern to eastern exposition, a critical factor in its wine quality. This orientation captures the gentle morning sun while avoiding the most intense afternoon heat, allowing for a gradual, even ripening of Chardonnay grapes. The eastern aspect also provides protection from prevailing westerly winds and weather systems.
 
-The slope gradient varies from gentle (5-10%) in the lower sections to moderate (15-20%) higher on the hillside. This incline ensures excellent water drainage—crucial in Chablis's climate—while preventing soil erosion. The slope angle also influences sunlight interception and heat reflection, with the steeper upper sections receiving more direct solar radiation.
+The slope gradient varies from gentle (5-10%) in the lower sections to moderate (15-20%) higher on the hillside. This incline ensures excellent water drainage (crucial in Chablis's climate) while preventing soil erosion. The slope angle also influences sunlight interception and heat reflection, with the steeper upper sections receiving more direct solar radiation.
 
 ### Altitude and Drainage
 
@@ -62,7 +62,7 @@ Protection methods have evolved considerably in recent decades. Traditional smud
 
 Chardonnay, the sole grape variety permitted in Chablis Premier Cru, finds an ideal expression in Mont de Milieu's terroir. The combination of Kimmeridgian soils, cool climate, and favorable exposition produces wines with distinctive characteristics that reflect their origin.
 
-The vines, typically trained in Guyot simple or double systems, are managed for moderate yields averaging 50-58 hectoliters per hectare—below the maximum permitted 58 hl/ha. This restraint concentrates flavors and maintains the tension that defines quality Premier Cru Chablis. Vine density typically ranges from 5,000 to 5,500 plants per hectare, encouraging competition and deeper rooting.
+The vines, typically trained in Guyot simple or double systems, are managed for moderate yields averaging 50-58 hectoliters per hectare, below the maximum permitted 58 hl/ha. This restraint concentrates flavors and maintains the tension that defines quality Premier Cru Chablis. Vine density typically ranges from 5,000 to 5,500 plants per hectare, encouraging competition and deeper rooting.
 
 ### Viticultural Practices
 
@@ -74,7 +74,7 @@ Harvest timing proves critical in Mont de Milieu, as in all Chablis. Producers c
 
 ### Typical Flavor Profiles and Aromas
 
-Mont de Milieu produces wines of remarkable precision and elegance, showcasing classic Chablis characteristics with distinct personality. In youth, these wines typically display aromas of green apple, citrus zest (lemon and grapefruit), white flowers (acacia), and wet stones. The mineral dimension often manifests as crushed chalk, flint, or oyster shell—descriptors that directly reference the vineyard's geological origins.
+Mont de Milieu produces wines of remarkable precision and elegance, showcasing classic Chablis characteristics with distinct personality. In youth, these wines typically display aromas of green apple, citrus zest (lemon and grapefruit), white flowers (acacia), and wet stones. The mineral dimension often manifests as crushed chalk, flint, or oyster shell, descriptors that directly reference the vineyard's geological origins.
 
 With moderate oak influence or none at all (depending on producer philosophy), the fruit profile remains pure and focused. Some bottlings reveal subtle notes of fennel, chamomile, or white pepper, adding complexity without overwhelming the essential Chardonnay character. The wines possess a crystalline clarity of flavor that distinguishes Premier Cru from village-level Chablis.
 
@@ -90,7 +90,7 @@ The wines share the general left-bank profile: greater minerality, higher percei
 
 ### Minerality, Acidity, and Body
 
-Minerality defines Mont de Milieu's character—that ineffable quality that wine professionals debate but consumers recognize instinctively. Whether derived from vine stress, soil composition, or winemaking technique, these wines possess an unmistakable stony, saline quality that marks them as serious Chablis.
+Minerality defines Mont de Milieu's character, that ineffable quality that wine professionals debate but consumers recognize instinctively. Whether derived from vine stress, soil composition, or winemaking technique, these wines possess an unmistakable stony, saline quality that marks them as serious Chablis.
 
 Acidity typically ranges from 6 to 7.5 grams per liter (expressed as tartaric acid), providing the backbone for aging and food compatibility. This acidity integrates beautifully with the fruit rather than dominating, creating vibrant freshness without harsh edges. pH levels usually fall between 3.0 and 3.3, contributing to the wines' aging potential and microbiological stability.
 
@@ -153,7 +153,7 @@ Mont de Milieu's mineral-driven character and vibrant acidity make it supremely 
 
 **Shellfish**: Raw oysters (particularly Belon or Gillardeau), mussels, clams, and scallops find perfect harmony with the wine's saline minerality and citrus notes.
 
-**Fish**: Simply prepared fish—grilled sole, poached turbot, or roasted sea bass—allows the wine to shine. Richer preparations with butter-based sauces (beurre blanc, hollandaise) complement the wine's texture.
+**Fish**: Simply prepared fish (grilled sole, poached turbot, or roasted sea bass) allows the wine to shine. Richer preparations with butter-based sauces (beurre blanc, hollandaise) complement the wine's texture.
 
 **Poultry**: Roasted chicken with herbs, especially tarragon, or turkey breast provides excellent matches. The wine's acidity cuts through rich poultry fat.
 
@@ -163,7 +163,7 @@ Mont de Milieu's mineral-driven character and vibrant acidity make it supremely 
 
 ### Serving Temperature
 
-Proper serving temperature proves crucial for appreciating Mont de Milieu's complexity. The wine should be served at 10-12°C (50-54°F)—cool enough to preserve freshness but not so cold as to mute aromas and flavors. Remove the bottle from refrigeration 10-15 minutes before serving, allowing gradual warming to reveal layers of complexity.
+Proper serving temperature proves crucial for appreciating Mont de Milieu's complexity. The wine should be served at 10-12°C (50-54°F), cool enough to preserve freshness but not so cold as to mute aromas and flavors. Remove the bottle from refrigeration 10-15 minutes before serving, allowing gradual warming to reveal layers of complexity.
 
 Younger vintages can tolerate slightly cooler service (9-11°C), while older bottles benefit from warmer temperatures (11-13°C) that allow developed aromatics to express fully.
 
@@ -175,4 +175,4 @@ For very young, tight examples (first 2 years after vintage), simply opening the
 
 ---
 
-Mont de Milieu stands as a distinguished example of Chablis Premier Cru, offering wines of precision, elegance, and unmistakable terroir character. Its Kimmeridgian limestone soils, favorable exposition, and cool continental climate combine to produce Chardonnay of remarkable finesse—wines that capture the essence of this historic winegrowing region while expressing the subtle individuality of their specific hillside. Whether enjoyed young for vibrant freshness or aged for developed complexity, Mont de Milieu rewards those seeking authentic, terroir-driven Chablis at the Premier Cru level.
+Mont de Milieu stands as a distinguished example of Chablis Premier Cru, offering wines of precision, elegance, and unmistakable terroir character. Its Kimmeridgian limestone soils, favorable exposition, and cool continental climate combine to produce Chardonnay of remarkable finesse, wines that capture the essence of this historic winegrowing region while expressing the subtle individuality of their specific hillside. Whether enjoyed young for vibrant freshness or aged for developed complexity, Mont de Milieu rewards those seeking authentic, terroir-driven Chablis at the Premier Cru level.

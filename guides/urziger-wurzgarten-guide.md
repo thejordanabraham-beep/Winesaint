@@ -1,6 +1,6 @@
 # Urziger Würzgarten: The Spice Garden of the Mosel
 
-The Würzgarten ("spice garden") is not a metaphor. This south-southwest facing amphitheater of red volcanic rock produces Rieslings with a distinctly mineral, spicy character that sets it apart from every other site in the Mosel Valley. While neighboring vineyards rest on Devonian slate, the Würzgarten's red volcanic soil—weathered rock from ancient eruptions—creates wines of unmistakable identity.
+The Würzgarten ("spice garden") is not a metaphor. This south-southwest facing amphitheater of red volcanic rock produces Rieslings with a distinctly mineral, spicy character that sets it apart from every other site in the Mosel Valley. While neighboring vineyards rest on Devonian slate, the Würzgarten's red volcanic soil (weathered rock from ancient eruptions) creates wines of unmistakable identity.
 
 ## Geography and Exposition
 
@@ -10,13 +10,13 @@ The site sits in the Mittelmosel (Middle Mosel), the valley's qualitative heart 
 
 ## Terroir: The Red Rock Exception
 
-The Würzgarten's defining feature is its red Devonian volcanic rock and weathered slate, locally called Rotliegend. This iron-rich, porous stone contrasts sharply with the blue and gray Devonian slate that dominates the Mosel. The volcanic component provides exceptional heat retention—the dark red stones absorb solar radiation during the day and release it gradually at night, effectively extending the growing season in a region where every degree matters for Riesling ripening.
+The Würzgarten's defining feature is its red Devonian volcanic rock and weathered slate, locally called Rotliegend. This iron-rich, porous stone contrasts sharply with the blue and gray Devonian slate that dominates the Mosel. The volcanic component provides exceptional heat retention: the dark red stones absorb solar radiation during the day and release it gradually at night, effectively extending the growing season in a region where every degree matters for Riesling ripening.
 
-The soil is shallow and poor, forcing vines to root deeply into fractured rock. Drainage is rapid, and water stress—unusual in the Mosel's generally moderate climate—can occur in dry vintages. This stress concentrates flavors and contributes to the site's characteristic intensity.
+The soil is shallow and poor, forcing vines to root deeply into fractured rock. Drainage is rapid, and water stress (unusual in the Mosel's generally moderate climate) can occur in dry vintages. This stress concentrates flavors and contributes to the site's characteristic intensity.
 
 ## Wine Character: Spice and Stone
 
-Würzgarten Rieslings are immediately recognizable. The volcanic terroir imparts a distinctive spiciness—white pepper, cinnamon, exotic spices—that justifies the vineyard's name. These are not the purely citrus-driven, slate-inflected Rieslings of nearby Wehlener Sonnenuhr or Erdener Prälat. Instead, expect layered wines combining ripe stone fruit with pronounced minerality and that signature spice component.
+Würzgarten Rieslings are immediately recognizable. The volcanic terroir imparts a distinctive spiciness (white pepper, cinnamon, exotic spices) that justifies the vineyard's name. These are not the purely citrus-driven, slate-inflected Rieslings of nearby Wehlener Sonnenuhr or Erdener Prälat. Instead, expect layered wines combining ripe stone fruit with pronounced minerality and that signature spice component.
 
 The wines typically show more body and phenolic grip than neighboring sites, a function of both the volcanic soil and the intense sun exposure. In Kabinett and Spätlese styles, this translates to wines with exceptional tension between ripeness and acidity. The finest Auslesen and higher Prädikat levels achieve remarkable concentration while maintaining the high natural acidity that defines great Mosel Riesling.
 

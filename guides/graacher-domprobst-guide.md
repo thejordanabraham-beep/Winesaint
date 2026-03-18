@@ -1,6 +1,6 @@
 # Graacher Domprobst
 
-Graacher Domprobst is a VDP Grosse Lage vineyard in the village of Graach, Mittelmosel, classified alongside the more famous Josephshöfer and Himmelreich sites. The name references the Trier cathedral provost who secured income rights from this vineyard in the 18th century—winemakers had to hand over wine tithes to the ecclesiastical authorities.
+Graacher Domprobst is a VDP Grosse Lage vineyard in the village of Graach, Mittelmosel, classified alongside the more famous Josephshöfer and Himmelreich sites. The name references the Trier cathedral provost who secured income rights from this vineyard in the 18th century, winemakers had to hand over wine tithes to the ecclesiastical authorities.
 
 ## Geography and Exposition
 

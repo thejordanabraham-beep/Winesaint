@@ -8,7 +8,7 @@ The climat is strategically positioned on the mid-slope of Pommard's hillside, n
 
 Within Pommard's Premier Cru hierarchy, Les Fremiers occupies the northern sector of the commune, sharing boundaries with several other distinguished climats. This positioning is crucial to understanding its character, as it benefits from the geological transitions and microclimatic variations that occur across Pommard's diverse terroir mosaic.
 
-The vineyard's elevation and aspect contribute significantly to its reputation. Situated at approximately 260-320 meters above sea level, Les Fremiers enjoys the ideal elevation range for Pinot Noir cultivation in Burgundy—high enough to benefit from excellent drainage and sun exposure, yet not so elevated as to risk excessive wind exposure or temperature fluctuations.
+The vineyard's elevation and aspect contribute significantly to its reputation. Situated at approximately 260-320 meters above sea level, Les Fremiers enjoys the ideal elevation range for Pinot Noir cultivation in Burgundy, high enough to benefit from excellent drainage and sun exposure, yet not so elevated as to risk excessive wind exposure or temperature fluctuations.
 
 ## Size
 
@@ -68,7 +68,7 @@ Wines from Les Fremiers exhibit the powerful, structured character that defines 
 
 In their youth, Les Fremiers wines typically display deep ruby-garnet colors with excellent intensity and clarity. The aromatic profile opens with classic Pommard characteristics: dark cherry, blackberry, and plum fruits, enhanced by distinctive mineral notes that reflect the limestone-rich soils. Floral elements, particularly violet and rose, add elegance to the fruit-driven aromatics.
 
-The influence of the iron-rich soils becomes apparent in the wine's earthy undertones, contributing notes of forest floor, mushroom, and wet leaves that add complexity without overwhelming the fruit expression. Spice elements—black pepper, cinnamon, and clove—emerge from both the terroir and careful oak integration.
+The influence of the iron-rich soils becomes apparent in the wine's earthy undertones, contributing notes of forest floor, mushroom, and wet leaves that add complexity without overwhelming the fruit expression. Spice elements (black pepper, cinnamon, and clove) emerge from both the terroir and careful oak integration.
 
 On the palate, Les Fremiers wines demonstrate the structured power expected from Pommard Premier Cru, with firm but refined tannins that provide aging potential while remaining approachable in youth. The acidity is typically well-balanced, providing freshness that complements the wine's inherent richness and concentration.
 
@@ -136,4 +136,4 @@ Quality consistency in Les Fremiers varies by producer and vintage conditions, b
 
 The investment potential of Les Fremiers wines reflects their aging capability and limited production, with prices generally appreciating for well-stored examples from quality producers. However, the climat's relative obscurity compared to more famous sites can create value opportunities for knowledgeable collectors.
 
-Proper storage conditions—consistent cool temperatures, high humidity, and protection from light—are essential for realizing Les Fremiers' aging potential. Well-cellared examples can continue improving for decades, making them excellent candidates for special occasion consumption or long-term collection building.
+Proper storage conditions (consistent cool temperatures, high humidity, and protection from light) are essential for realizing Les Fremiers' aging potential. Well-cellared examples can continue improving for decades, making them excellent candidates for special occasion consumption or long-term collection building.

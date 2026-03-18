@@ -54,7 +54,7 @@ Site-specific challenges include managing the vigorous growth that the fertile s
 
 ## Wine Character & Style
 
-Wines from Hautes Mourottes display the hallmark characteristics of Premier Cru Ladoix while expressing the unique personality imparted by this specific terroir. The dominant aromatic profile typically features red fruit expressions—cherry, raspberry, and strawberry—accompanied by floral notes of violet and rose. As the wines develop, these primary aromas evolve to include more complex secondary and tertiary notes of earth, forest floor, dried herbs, and subtle spice elements.
+Wines from Hautes Mourottes display the hallmark characteristics of Premier Cru Ladoix while expressing the unique personality imparted by this specific terroir. The dominant aromatic profile typically features red fruit expressions (cherry, raspberry, and strawberry) accompanied by floral notes of violet and rose. As the wines develop, these primary aromas evolve to include more complex secondary and tertiary notes of earth, forest floor, dried herbs, and subtle spice elements.
 
 The influence of the limestone-rich terroir is immediately apparent in the wine's mineral backbone, which provides structure and contributes to the long, persistent finish characteristic of Hautes Mourottes. The iron-rich elements in the soil contribute subtle savory and metallic notes that add complexity without overwhelming the fruit expression.
 

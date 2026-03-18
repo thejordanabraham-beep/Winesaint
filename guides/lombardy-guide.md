@@ -1,8 +1,8 @@
 # Lombardy: Italy's Most Underestimated Wine Region
 
-Lombardy produces wine in the shadow of Milan's skyscrapers and the Alps' dramatic peaks. This is Italy's economic powerhouse—home to fashion houses, financial institutions, and some of Europe's highest standards of living—yet its wines remain largely unknown beyond regional borders. The disconnect is striking. While neighboring Piedmont commands international attention and nearby Veneto exports Prosecco by the container load, Lombardy quietly makes some of Italy's most sophisticated sparkling wines, age-worthy reds from Nebbiolo, and a white wine that has somehow become the most planted variety in a DOC shared with the Veneto.
+Lombardy produces wine in the shadow of Milan's skyscrapers and the Alps' dramatic peaks. This is Italy's economic powerhouse (home to fashion houses, financial institutions, and some of Europe's highest standards of living) yet its wines remain largely unknown beyond regional borders. The disconnect is striking. While neighboring Piedmont commands international attention and nearby Veneto exports Prosecco by the container load, Lombardy quietly makes some of Italy's most sophisticated sparkling wines, age-worthy reds from Nebbiolo, and a white wine that has somehow become the most planted variety in a DOC shared with the Veneto.
 
-The region's 21 DOCs and five DOCGs serve primarily local palates, a pattern that reveals both limitation and advantage. Without export pressure, many producers have maintained traditional methods and indigenous varieties that might otherwise have been abandoned. Yet this insularity has also meant that Lombardy's wines—with notable exceptions in Franciacorta—lack the global recognition their quality deserves.
+The region's 21 DOCs and five DOCGs serve primarily local palates, a pattern that reveals both limitation and advantage. Without export pressure, many producers have maintained traditional methods and indigenous varieties that might otherwise have been abandoned. Yet this insularity has also meant that Lombardy's wines (with notable exceptions in Franciacorta) lack the global recognition their quality deserves.
 
 Geography divides Lombardy's viticulture into distinct zones: the Alpine foothills of Valtellina in the north, the lakeside vineyards around Garda, the rolling Oltrepò Pavese in the south, and the flat plains where Lambrusco Mantovano continues the cultivation patterns of Emilia-Romagna. Each area operates almost independently, producing wines so stylistically different they might belong to separate countries.
 
@@ -12,31 +12,31 @@ Lombardy's geological story begins in the same shallow Mesozoic seas that create
 
 ### The Alpine Influence
 
-The Prealps—the lower mountain ranges that form Lombardy's northern boundary—consist primarily of sedimentary rocks, principally limestone (calcaire), deposited between 230 and 65 million years ago. These calcareous formations constitute the parent material for most of Lombardy's vineyard soils, but unlike the relatively pure limestone of Burgundy's Côte d'Or, Lombardy's rocks show incredible variation in composition and weathering patterns.
+The Prealps (the lower mountain ranges that form Lombardy's northern boundary) consist primarily of sedimentary rocks, principally limestone (calcaire), deposited between 230 and 65 million years ago. These calcareous formations constitute the parent material for most of Lombardy's vineyard soils, but unlike the relatively pure limestone of Burgundy's Côte d'Or, Lombardy's rocks show incredible variation in composition and weathering patterns.
 
 The landscape underwent massive alteration through several processes:
 - Glacial scouring over the past two million years carved valleys and deposited morainic material
 - Chemical weathering degraded certain rocks into soft, easily eroded clays
-- Gelifraction—repeated freezing and thawing—broke up rock formations
+- Gelifraction (repeated freezing and thawing) broke up rock formations
 - Extensive 19th-century deforestation for firewood caused slope instability and erosion
 
 These processes created the varied soils visible throughout Lombardy's wine regions today. Many vineyard soils are extremely rocky, a characteristic that provides excellent drainage but challenges vine establishment.
 
 ### Soil Types and Regional Variation
 
-**Valtellina** sits on the southern slopes of the Alps, where vineyards perch on terraces carved from decomposed metamorphic and sedimentary rocks. The soils here are shallow, stony, and poor—classic conditions for Nebbiolo, which thrives on adversity. The extreme steepness (many vineyards exceed 50% gradient) and rocky composition force vines to root deeply, accessing minerality that manifests in the wines' distinctive tension.
+**Valtellina** sits on the southern slopes of the Alps, where vineyards perch on terraces carved from decomposed metamorphic and sedimentary rocks. The soils here are shallow, stony, and poor, classic conditions for Nebbiolo, which thrives on adversity. The extreme steepness (many vineyards exceed 50% gradient) and rocky composition force vines to root deeply, accessing minerality that manifests in the wines' distinctive tension.
 
-**Franciacorta** occupies glacial moraines south of Lake Iseo. These deposits—left by retreating glaciers roughly 10,000 years ago—consist of limestone pebbles, sand, and clay in varying proportions. The well-drained, calcareous nature of these soils suits Chardonnay and Pinot Noir ideally, creating conditions analogous to Champagne's chalk but with greater textural variation. The morainic hills provide natural drainage and diverse exposures within short distances.
+**Franciacorta** occupies glacial moraines south of Lake Iseo. These deposits (left by retreating glaciers roughly 10,000 years ago) consist of limestone pebbles, sand, and clay in varying proportions. The well-drained, calcareous nature of these soils suits Chardonnay and Pinot Noir ideally, creating conditions analogous to Champagne's chalk but with greater textural variation. The morainic hills provide natural drainage and diverse exposures within short distances.
 
-**Oltrepò Pavese** presents more complex geology. The region's name means "beyond the Po," referencing its position south of Lombardy's defining river. Soils here derive from marine sediments—predominantly marl (calcareous rock with significant clay content, roughly 50-50 limestone to clay in modern classification). These argilo-calcaire soils appear in various colors: grey marl from the Liassic (Early Jurassic) epoch, rust-colored shaly marl from the Triassic period, and white calcareous clays. This diversity creates distinct mesoclimates and wine styles within the zone.
+**Oltrepò Pavese** presents more complex geology. The region's name means "beyond the Po," referencing its position south of Lombardy's defining river. Soils here derive from marine sediments, predominantly marl (calcareous rock with significant clay content, roughly 50-50 limestone to clay in modern classification). These argilo-calcaire soils appear in various colors: grey marl from the Liassic (Early Jurassic) epoch, rust-colored shaly marl from the Triassic period, and white calcareous clays. This diversity creates distinct mesoclimates and wine styles within the zone.
 
-**Lugana** sits on glacial deposits at Lake Garda's southern shore. The soils here—clay mixed with limestone pebbles and sand—formed from morainic material left by the Garda glacier. The region's signature variety, Turbiana (previously called Trebbiano di Lugana, now recognized as Verdicchio), responds particularly well to these mineral-rich, well-drained soils, producing wines with notable salinity and aging potential.
+**Lugana** sits on glacial deposits at Lake Garda's southern shore. The soils here (clay mixed with limestone pebbles and sand) formed from morainic material left by the Garda glacier. The region's signature variety, Turbiana (previously called Trebbiano di Lugana, now recognized as Verdicchio), responds particularly well to these mineral-rich, well-drained soils, producing wines with notable salinity and aging potential.
 
 ### Comparative Context
 
-Lombardy's geological diversity contrasts sharply with neighboring regions' relative uniformity. In Piedmont's Langhe, Nebbiolo grows almost exclusively on calcareous marl from the Tortonian age. Lombardy's Valtellina grows the same variety on completely different parent material—metamorphic schists and decomposed granite in some sites, sedimentary limestone in others. This geological variation explains why Valtellina's Nebbiolo (locally called Chiavennasca) tastes distinctly different from Barolo or Barbaresco despite genetic identity.
+Lombardy's geological diversity contrasts sharply with neighboring regions' relative uniformity. In Piedmont's Langhe, Nebbiolo grows almost exclusively on calcareous marl from the Tortonian age. Lombardy's Valtellina grows the same variety on completely different parent material, metamorphic schists and decomposed granite in some sites, sedimentary limestone in others. This geological variation explains why Valtellina's Nebbiolo (locally called Chiavennasca) tastes distinctly different from Barolo or Barbaresco despite genetic identity.
 
-The region's glacial history also distinguishes it from most Italian wine zones. While Tuscany's soils developed primarily through in-situ weathering of sedimentary and metamorphic rocks, Lombardy's most important wine areas sit on transported material—glacial deposits that mixed rock types and created the textural diversity visible today.
+The region's glacial history also distinguishes it from most Italian wine zones. While Tuscany's soils developed primarily through in-situ weathering of sedimentary and metamorphic rocks, Lombardy's most important wine areas sit on transported material, glacial deposits that mixed rock types and created the textural diversity visible today.
 
 ## CLIMATE: Alpine Moderations and Continental Extremes
 
@@ -44,19 +44,19 @@ Lombardy experiences climate conditions that vary more dramatically than almost 
 
 ### Continental Character with Maritime Moderation
 
-The region's baseline climate is continental—cold winters, warm summers, and significant diurnal temperature variation. However, the massive Alpine lakes (Garda, Iseo, Como) moderate temperatures in their immediate vicinity, creating localized maritime effects. These lakes store summer heat and release it gradually through autumn and winter, extending the growing season and providing frost protection.
+The region's baseline climate is continental, cold winters, warm summers, and significant diurnal temperature variation. However, the massive Alpine lakes (Garda, Iseo, Como) moderate temperatures in their immediate vicinity, creating localized maritime effects. These lakes store summer heat and release it gradually through autumn and winter, extending the growing season and providing frost protection.
 
-Lake Garda, Italy's largest lake, exerts the strongest moderating influence. Vineyards on its shores experience temperatures 2-3°C warmer in winter and slightly cooler in summer compared to sites just 10 kilometers inland. This moderation allows varieties like Turbiana to ripen fully while maintaining acidity—a balance difficult to achieve in purely continental conditions.
+Lake Garda, Italy's largest lake, exerts the strongest moderating influence. Vineyards on its shores experience temperatures 2-3°C warmer in winter and slightly cooler in summer compared to sites just 10 kilometers inland. This moderation allows varieties like Turbiana to ripen fully while maintaining acidity: a balance difficult to achieve in purely continental conditions.
 
 ### Valtellina's Extreme Viticulture
 
-Valtellina presents some of Europe's most challenging growing conditions. The valley runs east-west, with vineyards occupying south-facing slopes that capture maximum sunlight—essential at this latitude (46°N, similar to Burgundy's Côte d'Or). Despite southern exposure, the Alpine location means:
+Valtellina presents some of Europe's most challenging growing conditions. The valley runs east-west, with vineyards occupying south-facing slopes that capture maximum sunlight, essential at this latitude (46°N, similar to Burgundy's Côte d'Or). Despite southern exposure, the Alpine location means:
 - Short growing seasons with rapid autumn temperature drops
 - Spring frost risk extending into May
 - Significant diurnal shifts (20°C+ differences common in summer)
 - Low humidity and high UV radiation at elevation
 
-These conditions suit Nebbiolo's late-ripening character. The variety requires sustained heat through autumn to lose its tannic asperity, and Valtellina's sun-drenched slopes provide this while maintaining the acidity and structure that define the variety. Poor vintages—once common—have become less frequent due to climate change, though the region remains vintage-sensitive.
+These conditions suit Nebbiolo's late-ripening character. The variety requires sustained heat through autumn to lose its tannic asperity, and Valtellina's sun-drenched slopes provide this while maintaining the acidity and structure that define the variety. Poor vintages (once common) have become less frequent due to climate change, though the region remains vintage-sensitive.
 
 ### Frost and Hail: Increasing Threats
 
@@ -72,7 +72,7 @@ Hail represents an equally serious threat, occurring with "worrying regularity" 
 
 Annual rainfall varies considerably by zone. Franciacorta receives approximately 1,100-1,200mm annually, concentrated in spring and autumn. This distribution generally provides adequate water during the growing season, though increasingly hot, dry summers have made supplemental irrigation valuable for young vines and drought-stressed sites.
 
-Oltrepò Pavese shows similar patterns—moderate rainfall (900-1,000mm) with dry summers. The region's clay-rich soils retain moisture better than Franciacorta's gravelly moraines, reducing water stress in most vintages.
+Oltrepò Pavese shows similar patterns, moderate rainfall (900-1,000mm) with dry summers. The region's clay-rich soils retain moisture better than Franciacorta's gravelly moraines, reducing water stress in most vintages.
 
 Valtellina's rainfall is lower (700-900mm) and the region's steep, rocky soils drain rapidly. Combined with high UV exposure and wind, this creates significant evapotranspiration. Historically, Valtellina's vineyards relied entirely on natural rainfall, but climate change and warmer summers have made irrigation increasingly necessary for consistent ripening.
 
@@ -84,11 +84,11 @@ Temperature records show clear warming trends. Growing-season temperatures in Lo
 - Earlier harvest dates (2-3 weeks earlier for Nebbiolo in Valtellina)
 - Higher potential alcohol levels requiring careful harvest timing
 
-For Valtellina, warming has been largely beneficial—poor vintages that once occurred regularly are now rare. For Franciacorta, the picture is more complex. Base wines for sparkling production require high acidity and moderate alcohol; warmer conditions make achieving this balance more challenging, pushing some producers to harvest earlier or seek higher-elevation sites.
+For Valtellina, warming has been largely beneficial, poor vintages that once occurred regularly are now rare. For Franciacorta, the picture is more complex. Base wines for sparkling production require high acidity and moderate alcohol; warmer conditions make achieving this balance more challenging, pushing some producers to harvest earlier or seek higher-elevation sites.
 
 ## GRAPES: Indigenous Varieties and International Adaptations
 
-Lombardy cultivates both indigenous Italian varieties and international grapes, often in the same DOCs. This duality reflects the region's split personality—tradition-bound in some zones, internationally focused in others.
+Lombardy cultivates both indigenous Italian varieties and international grapes, often in the same DOCs. This duality reflects the region's split personality, tradition-bound in some zones, internationally focused in others.
 
 ### Nebbiolo (Chiavennasca)
 
@@ -98,7 +98,7 @@ In Valtellina, Nebbiolo goes by the local name Chiavennasca, a synonym reflectin
 
 Valtellina's steep, terraced vineyards present extreme viticultural challenges. Most work must be done by hand; mechanization is impossible on slopes exceeding 30%. Yields are naturally low (40-50 hl/ha typical) due to poor soils and vine stress. The variety's vigor must be controlled through short pruning and limited fertilization.
 
-**Soil Preferences**: Nebbiolo performs best on calcareous soils—limestone or marl—where it produces wines with notable structure and aging potential. In Valtellina, the variety adapts to less ideal parent material (metamorphic rocks in some sites) but shows clearest expression on limestone-derived soils.
+**Soil Preferences**: Nebbiolo performs best on calcareous soils (limestone or marl) where it produces wines with notable structure and aging potential. In Valtellina, the variety adapts to less ideal parent material (metamorphic rocks in some sites) but shows clearest expression on limestone-derived soils.
 
 **Wine Character**: Valtellina's Nebbiolo differs from Piedmont's expressions. The wines show:
 - Lighter color (garnet rather than deep ruby)
@@ -114,13 +114,13 @@ The differences reflect terroir, not genetics. Valtellina's higher elevation, gr
 
 These Burgundian varieties dominate Franciacorta's sparkling wine production and play significant roles in Oltrepò Pavese. Their adoption represents pragmatic recognition of what grows well in Lombardy's continental-moderated climate.
 
-**Chardonnay** arrived in Lombardy in the early 20th century but achieved prominence only after Franciacorta began serious sparkling wine production in the 1960s. The variety thrives on the region's glacial moraines, producing base wines with high acidity, moderate alcohol, and mineral character—ideal for traditional-method sparkling wine.
+**Chardonnay** arrived in Lombardy in the early 20th century but achieved prominence only after Franciacorta began serious sparkling wine production in the 1960s. The variety thrives on the region's glacial moraines, producing base wines with high acidity, moderate alcohol, and mineral character, ideal for traditional-method sparkling wine.
 
-In Franciacorta, Chardonnay typically comprises 50-100% of blanc de blancs cuvées and significant percentages of multi-variety blends. The wines show citrus, white flower, and chalky mineral notes—closer in style to Champagne than to Burgundian still wines, though some producers make compelling still Chardonnays.
+In Franciacorta, Chardonnay typically comprises 50-100% of blanc de blancs cuvées and significant percentages of multi-variety blends. The wines show citrus, white flower, and chalky mineral notes, closer in style to Champagne than to Burgundian still wines, though some producers make compelling still Chardonnays.
 
 **Pinot Noir** (Pinot Nero in Italian) performs variably. In Franciacorta's cooler sites, it produces elegant base wines for sparkling production, contributing structure and red fruit notes to blends. Some producers make still rosés and light reds, though these rarely achieve the complexity of Burgundian examples.
 
-Oltrepò Pavese has cultivated Pinot Noir extensively since the 1970s, primarily for sparkling wine (both Metodo Classico and Charmat-method). The region's warmer temperatures and clay-rich soils produce riper, fuller-bodied wines than Franciacorta—sometimes too ripe for ideal sparkling wine production.
+Oltrepò Pavese has cultivated Pinot Noir extensively since the 1970s, primarily for sparkling wine (both Metodo Classico and Charmat-method). The region's warmer temperatures and clay-rich soils produce riper, fuller-bodied wines than Franciacorta, sometimes too ripe for ideal sparkling wine production.
 
 ### Turbiana (Trebbiano di Lugana)
 
@@ -138,11 +138,11 @@ Lake Garda's moderating influence is crucial. The variety maintains acidity bett
 - Lively acidity providing structure
 - Aging potential (5-10 years for top examples)
 
-Some producers age Lugana in oak, adding texture and hazelnut notes. This approach divides opinion—traditionalists prefer the variety's fresh, mineral expression; modernists argue oak adds complexity.
+Some producers age Lugana in oak, adding texture and hazelnut notes. This approach divides opinion, traditionalists prefer the variety's fresh, mineral expression; modernists argue oak adds complexity.
 
 ### Gropello
 
-One of Lombardy's truly indigenous varieties, Gropello grows primarily in the Valtènesi zone southwest of Lake Garda. The variety received its own DOC in 2011, then was controversially demoted in 2016 to a subzone of the larger Riviera del Garda DOC (requiring only 30% Gropello minimum—a "ludicrous" standard according to regional experts).
+One of Lombardy's truly indigenous varieties, Gropello grows primarily in the Valtènesi zone southwest of Lake Garda. The variety received its own DOC in 2011, then was controversially demoted in 2016 to a subzone of the larger Riviera del Garda DOC (requiring only 30% Gropello minimum: a "ludicrous" standard according to regional experts).
 
 **Viticulture**: Gropello is moderately vigorous and productive. It buds relatively late and ripens in late September to early October. The variety is susceptible to powdery mildew and requires careful canopy management.
 
@@ -194,7 +194,7 @@ Regulations require:
 - Mandatory 20 months aging
 - Resulting wines show intense dried fruit, spice, and chocolate notes with powerful structure
 
-Sforzato divides opinion. Supporters argue it showcases Nebbiolo's potential for concentration and complexity; critics contend it obscures the variety's characteristic elegance and terroir expression. Production remains small—roughly 5% of Valtellina's total output.
+Sforzato divides opinion. Supporters argue it showcases Nebbiolo's potential for concentration and complexity; critics contend it obscures the variety's characteristic elegance and terroir expression. Production remains small, roughly 5% of Valtellina's total output.
 
 **Wine Character**: Standard Valtellina Superiore shows:
 - Garnet color with orange rim (even in youth)
@@ -206,11 +206,11 @@ Sforzato divides opinion. Supporters argue it showcases Nebbiolo's potential for
 - Medium body (lighter than Barolo)
 - Long finish with persistent fruit and mineral notes
 
-The wines require patience. Young Valtellina Superiore can taste austere, with prominent tannin and acidity. After 5-10 years, the wines develop complexity—dried flowers, leather, tobacco, truffle—while retaining freshness. Top examples age 20+ years.
+The wines require patience. Young Valtellina Superiore can taste austere, with prominent tannin and acidity. After 5-10 years, the wines develop complexity (dried flowers, leather, tobacco, truffle) while retaining freshness. Top examples age 20+ years.
 
 ### Franciacorta: Italy's Answer to Champagne
 
-Franciacorta DOCG (established 1995) produces Italy's most prestigious sparkling wines using traditional method (metodo classico). The appellation's success represents one of Italian wine's most remarkable transformations—from obscure still wine region to internationally recognized sparkling wine zone in roughly 40 years.
+Franciacorta DOCG (established 1995) produces Italy's most prestigious sparkling wines using traditional method (metodo classico). The appellation's success represents one of Italian wine's most remarkable transformations, from obscure still wine region to internationally recognized sparkling wine zone in roughly 40 years.
 
 **Production Requirements**:
 - Permitted varieties: Chardonnay, Pinot Noir, Pinot Blanc (maximum 50%)
@@ -229,10 +229,10 @@ The regulations deliberately mirror Champagne's standards, establishing quality 
 - Fine, persistent mousse (smaller bubbles than Prosecco, similar to Champagne)
 - Citrus, white flowers, brioche, and mineral notes
 - Rounder, softer texture than Champagne (related to warmer climate and different soils)
-- Satèn bottlings show particular elegance—creamy texture, delicate fruit, persistent finish
+- Satèn bottlings show particular elegance, creamy texture, delicate fruit, persistent finish
 - Riserva bottlings develop complexity: hazelnut, honey, dried fruit, toast
 
-The wines generally show more immediate approachability than Champagne—riper fruit, softer acidity, rounder texture. Whether this represents advantage or limitation depends on stylistic preference. Franciacorta advocates argue their wines offer more pleasure young while still aging gracefully; Champagne purists contend the wines lack tension and aging potential.
+The wines generally show more immediate approachability than Champagne, riper fruit, softer acidity, rounder texture. Whether this represents advantage or limitation depends on stylistic preference. Franciacorta advocates argue their wines offer more pleasure young while still aging gracefully; Champagne purists contend the wines lack tension and aging potential.
 
 ### Oltrepò Pavese: Sparkling and Still
 
@@ -263,7 +263,7 @@ Lugana DOC (shared with Veneto, though most vineyards are in Lombardy) produces 
   - Lugana Superiore: Minimum 12% alcohol, 1 year aging
   - Lugana Riserva: Minimum 12.5% alcohol, 2 years aging (6 months in bottle)
 
-**Wine Character**: Standard Lugana shows fresh apple, citrus, white flowers, and distinctive salinity. The wines are medium-bodied with lively acidity and clean finish—excellent as young wines.
+**Wine Character**: Standard Lugana shows fresh apple, citrus, white flowers, and distinctive salinity. The wines are medium-bodied with lively acidity and clean finish, excellent as young wines.
 
 Superiore and Riserva bottlings develop complexity with age: hazelnut, almond, honey, and increased textural richness. Top producers age these wines in various vessels (stainless steel, large oak, sometimes barrique), adding dimension without overwhelming the variety's mineral character. The best examples age 5-10 years, developing oxidative notes while retaining freshness.
 
@@ -335,14 +335,14 @@ Valtellina's Alpine location makes it highly vintage-sensitive, though climate c
 - Minimal September rain
 - Examples: 2015, 2016, 2017 (very hot), 2019
 
-These vintages produce Nebbiolo with complete phenolic ripeness—ripe tannins, full color extraction, concentrated fruit. The wines show power and structure with aging potential of 15-20+ years.
+These vintages produce Nebbiolo with complete phenolic ripeness, ripe tannins, full color extraction, concentrated fruit. The wines show power and structure with aging potential of 15-20+ years.
 
 **Good Vintages** show:
 - Adequate summer warmth but cooler autumn
 - Some September rain but not excessive
 - Examples: 2014, 2018, 2020
 
-These vintages produce classic Valtellina style—elegant, aromatic, structured but not powerful. The wines may show slightly higher acidity and lighter body but often age beautifully, developing complexity earlier than powerful vintages.
+These vintages produce classic Valtellina style, elegant, aromatic, structured but not powerful. The wines may show slightly higher acidity and lighter body but often age beautifully, developing complexity earlier than powerful vintages.
 
 **Challenging Vintages** feature:
 - Cool, wet summer
@@ -352,7 +352,7 @@ These vintages produce classic Valtellina style—elegant, aromatic, structured 
 
 These vintages require careful vineyard selection and winemaking. Lesser sites may not ripen adequately; best sites produce acceptable wines with lighter structure and earlier drinking windows.
 
-**Climate Change Impact**: The 2015 vintage exemplified new patterns. Extremely hot conditions produced powerful, ripe wines—some critics argued too ripe, losing Nebbiolo's characteristic elegance. The vintage recalled historic hot years (1947, 1959, 1971) that initially faced criticism but ultimately proved exceptional. Whether 2015's Valtellinas will age as gracefully remains to be seen, but the vintage demonstrated that global warming is fundamentally changing the region's wine style.
+**Climate Change Impact**: The 2015 vintage exemplified new patterns. Extremely hot conditions produced powerful, ripe wines, some critics argued too ripe, losing Nebbiolo's characteristic elegance. The vintage recalled historic hot years (1947, 1959, 1971) that initially faced criticism but ultimately proved exceptional. Whether 2015's Valtellinas will age as gracefully remains to be seen, but the vintage demonstrated that global warming is fundamentally changing the region's wine style.
 
 ### Franciacorta Vintage Patterns
 
@@ -364,7 +364,7 @@ Franciacorta's sparkling wine production creates different vintage priorities. B
 - Dry harvest period
 - Examples: 2012, 2014, 2017
 
-These conditions produce base wines with 10-11% potential alcohol and high acidity—ideal for sparkling wine production. The resulting Franciacortas show fine mousse, persistent acidity, and aging potential.
+These conditions produce base wines with 10-11% potential alcohol and high acidity, ideal for sparkling wine production. The resulting Franciacortas show fine mousse, persistent acidity, and aging potential.
 
 **Warm Vintages** require adaptation:
 - Earlier harvest to preserve acidity
@@ -394,9 +394,9 @@ Lombardy's producer landscape divides between large commercial operations and sm
 
 ### Valtellina
 
-**Ar.Pe.Pe (Arturo Pelizzatti Perego)**: Perhaps Valtellina's most celebrated estate, Ar.Pe.Pe produces traditionally styled Nebbiolo from old-vine holdings in Sassella and Grumello. The estate farms 13 hectares across prime sites, producing single-vineyard bottlings that showcase terroir differences. Their **Sassella Riserva Rocce Rosse**, from vines planted in 1932, represents Valtellina's pinnacle—powerful yet elegant, with extraordinary aging potential. The wines undergo extended maceration (30-40 days) and aging in large Slavonian oak, producing classically structured Nebbiolo that requires patience.
+**Ar.Pe.Pe (Arturo Pelizzatti Perego)**: Perhaps Valtellina's most celebrated estate, Ar.Pe.Pe produces traditionally styled Nebbiolo from old-vine holdings in Sassella and Grumello. The estate farms 13 hectares across prime sites, producing single-vineyard bottlings that showcase terroir differences. Their **Sassella Riserva Rocce Rosse**, from vines planted in 1932, represents Valtellina's pinnacle, powerful yet elegant, with extraordinary aging potential. The wines undergo extended maceration (30-40 days) and aging in large Slavonian oak, producing classically structured Nebbiolo that requires patience.
 
-**Nino Negri**: Founded in 1897, Nino Negri represents Valtellina's largest quality producer. While owned by Gruppo Italiano Vini, the estate maintains high standards across a broad portfolio. Their **5 Stelle Sforzato** showcases the passito style—concentrated, powerful, complex. The estate's single-vineyard Valtellina Superiores (Sassella Le Tense, Inferno Mazer) demonstrate terroir distinctions within the DOCG.
+**Nino Negri**: Founded in 1897, Nino Negri represents Valtellina's largest quality producer. While owned by Gruppo Italiano Vini, the estate maintains high standards across a broad portfolio. Their **5 Stelle Sforzato** showcases the passito style, concentrated, powerful, complex. The estate's single-vineyard Valtellina Superiores (Sassella Le Tense, Inferno Mazer) demonstrate terroir distinctions within the DOCG.
 
 **Mamete Prevostini**: A rising star, this small estate produces modern-styled Valtellinas with notable concentration and polish. Their **Sassella Sommarovina** comes from a single, steep vineyard and shows remarkable depth while maintaining Alpine elegance.
 
@@ -404,7 +404,7 @@ Lombardy's producer landscape divides between large commercial operations and sm
 
 ### Franciacorta
 
-**Ca' del Bosco**: Franciacorta's most internationally recognized producer, Ca' del Bosco pioneered quality sparkling wine production in the region. Founder Maurizio Zanella's investments in technology and vineyard management elevated the entire appellation. Their **Cuvée Annamaria Clementi** (named for Zanella's mother) represents the estate's pinnacle—60+ months on lees, producing extraordinary complexity and aging potential. The wine shows brioche, hazelnut, citrus, and mineral notes with creamy texture and persistent finish.
+**Ca' del Bosco**: Franciacorta's most internationally recognized producer, Ca' del Bosco pioneered quality sparkling wine production in the region. Founder Maurizio Zanella's investments in technology and vineyard management elevated the entire appellation. Their **Cuvée Annamaria Clementi** (named for Zanella's mother) represents the estate's pinnacle, 60+ months on lees, producing extraordinary complexity and aging potential. The wine shows brioche, hazelnut, citrus, and mineral notes with creamy texture and persistent finish.
 
 **Bellavista**: Vittorio Moretti's estate rivals Ca' del Bosco for quality and ambition. The **Vittorio Moretti Riserva** spends 70+ months on lees, developing profound complexity. Bellavista's range demonstrates consistent excellence from entry-level to top cuvées.
 

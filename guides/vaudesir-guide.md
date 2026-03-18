@@ -6,7 +6,7 @@
 
 Vaudésir occupies a privileged position within the hallowed amphitheater of Chablis Grand Cru vineyards, located on the right bank of the Serein River, approximately 2 kilometers northeast of the town of Chablis. The climat sits at the heart of the Grand Cru slope, positioned between Preuses to its west and Grenouilles to its east, with Valmur lying to the northeast and Les Clos extending along the eastern portion of the slope.
 
-This central placement within the Grand Cru hierarchy is more than geographic coincidence—it represents perhaps the most balanced expression of the Grand Cru terroir, combining the richness found in the western climats with the tension and precision characteristic of the eastern parcels.
+This central placement within the Grand Cru hierarchy is more than geographic coincidence, it represents perhaps the most balanced expression of the Grand Cru terroir, combining the richness found in the western climats with the tension and precision characteristic of the eastern parcels.
 
 ### Grand Cru Designation
 
@@ -21,7 +21,7 @@ These requirements ensure that only wines of exceptional quality and concentrati
 
 ### Size and Boundaries
 
-Vaudésir comprises approximately 14.7 hectares (36.3 acres), making it one of the smaller Grand Cru climats—significantly smaller than Les Clos (26.9 ha) but larger than Grenouilles (9.4 ha). The climat's boundaries are precisely delimited:
+Vaudésir comprises approximately 14.7 hectares (36.3 acres), making it one of the smaller Grand Cru climats, significantly smaller than Les Clos (26.9 ha) but larger than Grenouilles (9.4 ha). The climat's boundaries are precisely delimited:
 
 - **Western boundary**: Preuses, marked by subtle shifts in soil composition and slope angle
 - **Eastern boundary**: Grenouilles, one of the most distinct borders in the Grand Cru
@@ -32,7 +32,7 @@ The parcels within Vaudésir are distributed among approximately 15-20 proprieto
 
 ### Historical Significance
 
-The name "Vaudésir" likely derives from the Old French "Val Désir," meaning "valley of desire" or "desirable valley"—a poetic reference that has proven remarkably apt given the wines' reputation for seduction and refinement. Historical records reference these vineyards as far back as the 12th century when Cistercian monks from the nearby Pontigny Abbey cultivated vines along this slope.
+The name "Vaudésir" likely derives from the Old French "Val Désir," meaning "valley of desire" or "desirable valley", a poetic reference that has proven remarkably apt given the wines' reputation for seduction and refinement. Historical records reference these vineyards as far back as the 12th century when Cistercian monks from the nearby Pontigny Abbey cultivated vines along this slope.
 
 The climat's reputation was firmly established by the 19th century, when Vaudésir wines commanded premium prices in Parisian restaurants and were celebrated for their particular elegance and aging potential. This historical recognition contributed to its inclusion among the seven climats designated Grand Cru in 1938.
 
@@ -40,7 +40,7 @@ The climat's reputation was firmly established by the 19th century, when Vaudés
 
 ### Specific Soil Types
 
-The geological foundation of Vaudésir's greatness lies in its Kimmeridgian limestone and marl—a sedimentary rock formation dating back approximately 150 million years to the Late Jurassic period. This soil type, named after the village of Kimmeridge in Dorset, England, contains fossilized oyster shells (*Exogyra virgula*), creating a unique mineral matrix that imparts Chablis' characteristic chalky minerality.
+The geological foundation of Vaudésir's greatness lies in its Kimmeridgian limestone and marl: a sedimentary rock formation dating back approximately 150 million years to the Late Jurassic period. This soil type, named after the village of Kimmeridge in Dorset, England, contains fossilized oyster shells (*Exogyra virgula*), creating a unique mineral matrix that imparts Chablis' characteristic chalky minerality.
 
 In Vaudésir specifically, the soil profile features:
 
@@ -60,7 +60,7 @@ Vaudésir benefits from an optimal southwest to south-southwest exposition, argu
 - Extended afternoon warmth during the critical ripening period
 - Reduced frost risk compared to more northerly expositions
 
-The slope gradient ranges from approximately 15% to 25%, creating natural drainage while remaining gentle enough to prevent excessive erosion. The incline is steepest in the upper sections, gradually moderating toward the base—a profile that creates distinct mesoclimates within the climat itself.
+The slope gradient ranges from approximately 15% to 25%, creating natural drainage while remaining gentle enough to prevent excessive erosion. The incline is steepest in the upper sections, gradually moderating toward the base: a profile that creates distinct mesoclimates within the climat itself.
 
 The curvature of the slope also creates a natural amphitheater effect, concentrating heat and light while providing shelter from harsh weather. This topographical feature distinguishes Vaudésir from flatter Premier Cru sites and contributes to more consistent ripening.
 
@@ -72,7 +72,7 @@ Vaudésir's vineyards span an altitude range of approximately 130 to 200 meters 
 - **Drainage**: Natural water runoff prevents waterlogging while retaining adequate moisture during dry periods
 - **Air circulation**: Elevation promotes air movement, reducing humidity and disease pressure
 
-The underlying geology features natural fissures and fractures in the limestone bedrock, creating exceptional internal drainage. Water percolates through the soil profile rather than running laterally, forcing roots to penetrate deeply in search of moisture and nutrients—a key factor in developing the wines' mineral complexity.
+The underlying geology features natural fissures and fractures in the limestone bedrock, creating exceptional internal drainage. Water percolates through the soil profile rather than running laterally, forcing roots to penetrate deeply in search of moisture and nutrients: a key factor in developing the wines' mineral complexity.
 
 ### Unique Terroir Characteristics
 
@@ -89,11 +89,11 @@ Vaudésir occupies a "sweet spot" where ripeness, acidity, and mineral expressio
 
 ### Microclimate within Chablis
 
-Chablis experiences a semi-continental climate—among the coolest in all of Burgundy—characterized by cold winters, warm summers, and significant diurnal temperature variation during the growing season. However, Vaudésir benefits from specific microclimatic advantages:
+Chablis experiences a semi-continental climate (among the coolest in all of Burgundy) characterized by cold winters, warm summers, and significant diurnal temperature variation during the growing season. However, Vaudésir benefits from specific microclimatic advantages:
 
 The southwest-facing amphitheater captures and retains solar radiation more effectively than surrounding areas, creating a thermal pocket that can be 1-2°C warmer than valley floor sites during critical ripening periods. This marginal warmth differential proves crucial in cool vintages, enabling full physiological ripeness.
 
-The proximity to the Serein River moderates extreme temperatures while increasing relative humidity—a double-edged sword that requires vigilant vineyard management to prevent fungal diseases while benefiting from moisture retention during drought conditions.
+The proximity to the Serein River moderates extreme temperatures while increasing relative humidity: a double-edged sword that requires vigilant vineyard management to prevent fungal diseases while benefiting from moisture retention during drought conditions.
 
 Annual rainfall averages 700-750mm, with precipitation fairly evenly distributed throughout the year. However, the well-drained limestone soils prevent water stress from becoming excessive even during dry summers, as roots can access moisture reserves deep in the fractured bedrock.
 
@@ -109,18 +109,18 @@ Modern producers employ multiple frost protection strategies:
 - **Pruning strategies**: Later pruning to delay bud break, reducing exposure to the most dangerous frost periods
 - **Double Guyot training**: Maintaining two fruiting canes provides insurance if one is damaged
 
-Despite these measures, devastating frosts still occur—2016, 2017, and 2021 saw significant damage even in the Grand Crus, resulting in dramatically reduced yields and testing producers' financial resilience.
+Despite these measures, devastating frosts still occur, 2016, 2017, and 2021 saw significant damage even in the Grand Crus, resulting in dramatically reduced yields and testing producers' financial resilience.
 
 ### Chardonnay Expressions
 
-Chardonnay expresses itself distinctly in Vaudésir's terroir, developing characteristics that differentiate it from the same variety grown elsewhere—even within Chablis itself. The combination of limestone-rich soils, optimal exposition, and continental climate produces:
+Chardonnay expresses itself distinctly in Vaudésir's terroir, developing characteristics that differentiate it from the same variety grown elsewhere, even within Chablis itself. The combination of limestone-rich soils, optimal exposition, and continental climate produces:
 
 - **Aromatic intensity**: Greater perfume than most Chablis, with pronounced white flowers, citrus, and subtle exotic fruit notes
 - **Texture**: A silky, almost glycerin-like mouthfeel despite pronounced acidity
 - **Mineral backbone**: The signature Chablis "pierre-à-fusil" (gunflint) character, though more integrated than in the steelier Grand Crus
 - **Complexity**: Multi-layered flavor development with both immediate appeal and hidden depth
 
-The Chardonnay clones planted in Vaudésir vary by producer but typically include lower-yielding selections favored for Grand Cru sites—clones 95, 96, 76, 121, and increasingly, massal selections propagated from old vines within the climat itself.
+The Chardonnay clones planted in Vaudésir vary by producer but typically include lower-yielding selections favored for Grand Cru sites, clones 95, 96, 76, 121, and increasingly, massal selections propagated from old vines within the climat itself.
 
 ### Viticultural Practices
 
@@ -136,7 +136,7 @@ Grand Cru viticulture demands meticulous attention to detail, and practices in V
 
 **Harvest timing**: Critical decisions made parcel by parcel based on analytical and phenolic ripeness, typically late September to early October
 
-**Yields**: Self-imposed limits well below the legal maximum—top producers target 45-50 hl/ha or less, achieving optimal concentration without excessive extraction
+**Yields**: Self-imposed limits well below the legal maximum, top producers target 45-50 hl/ha or less, achieving optimal concentration without excessive extraction
 
 ## 4. Wine Character & Style
 
@@ -181,11 +181,11 @@ Many connoisseurs consider Vaudésir the most complete and harmonious Grand Cru,
 
 ### Minerality, Acidity, Body Characteristics
 
-The minerality in Vaudésir manifests as a complex sensation rather than a simple flavor—a tactile chalkiness, a saline quality, and a specific flinty or stony character that recalls wet limestone. This minerality integrates seamlessly with fruit and acidity, creating a three-dimensional flavor architecture.
+The minerality in Vaudésir manifests as a complex sensation rather than a simple flavor: a tactile chalkiness, a saline quality, and a specific flinty or stony character that recalls wet limestone. This minerality integrates seamlessly with fruit and acidity, creating a three-dimensional flavor architecture.
 
 The acidity, while pronounced, never dominates. Total acidity typically measures 6-8 g/L (expressed as tartaric acid), with pH values in the ideal range of 3.0-3.2. This creates freshness and structure without harsh sharpness, the acid serving as a skeleton upon which fruit, mineral, and texture elements can build.
 
-Body registers as medium-full to full, with alcohol typically ranging from 12.5% to 13.5%. The texture shows particular density and weight without heaviness—a paradox achieved through the terroir's natural balance and careful winemaking.
+Body registers as medium-full to full, with alcohol typically ranging from 12.5% to 13.5%. The texture shows particular density and weight without heaviness: a paradox achieved through the terroir's natural balance and careful winemaking.
 
 ### How Terroir Shapes the Wine
 
@@ -197,7 +197,7 @@ Every aspect of Vaudésir's character traces directly to terroir components:
 - **Continental climate** → preserved acidity, diurnal freshness, aromatic precision
 - **Slope gradient** → natural yield limitation, grape health, phenolic ripeness
 
-The terroir doesn't merely influence the wine—it fundamentally determines its identity. A blind tasting of well-made Vaudésir reveals its origin unmistakably.
+The terroir doesn't merely influence the wine, it fundamentally determines its identity. A blind tasting of well-made Vaudésir reveals its origin unmistakably.
 
 ## 5. Aging & Evolution
 
@@ -226,7 +226,7 @@ The transformation of Vaudésir in bottle represents one of fine wine's most rew
 **Middle age (7-15 years)**:
 - Deepening golden color
 - Complex tertiary aromatics: dried flowers, mushroom, truffle, dried apricot
-- Remarkable texture development—almost oily richness
+- Remarkable texture development, almost oily richness
 - Maintained acidity providing freshness despite age
 
 **Full maturity (15+ years)**:
@@ -235,7 +235,7 @@ The transformation of Vaudésir in bottle represents one of fine wine's most rew
 - Tremendous umami character
 - Perfect integration of all elements
 
-Proper storage proves critical—constant temperature (10-14°C), high humidity (70-80%), darkness, and minimal vibration.
+Proper storage proves critical, constant temperature (10-14°C), high humidity (70-80%), darkness, and minimal vibration.
 
 ### Optimal Drinking Windows
 
@@ -260,7 +260,7 @@ Vaudésir's expression varies significantly by vintage character:
 
 **Optimal vintages**: Perfect balance of ripeness and acidity, expressing the terroir's complete personality
 
-Recent outstanding vintages include 2014, 2017, 2018, 2019, 2020, and 2022—each offering different expressions of excellence.
+Recent outstanding vintages include 2014, 2017, 2018, 2019, 2020, and 2022, each offering different expressions of excellence.
 
 ## 6. Notable Producers
 
@@ -276,7 +276,7 @@ Several distinguished domaines cultivate parcels in Vaudésir, each bringing dis
 
 **Domaine Christian Moreau Père et Fils**: Substantial Vaudésir holdings producing wines of elegance and precision, with restrained oak influence and exceptional purity.
 
-**Domaine Billaud-Simon**: Consistently excellent, offering perhaps the best value in Vaudésir Grand Cru—beautifully balanced wines with classic Chablis character.
+**Domaine Billaud-Simon**: Consistently excellent, offering perhaps the best value in Vaudésir Grand Cru, beautifully balanced wines with classic Chablis character.
 
 **Domaine William Fèvre**: The largest Grand Cru producer with significant Vaudésir parcels, creating accessible yet serious wines with some oak influence.
 
@@ -366,6 +366,6 @@ Alternatively, simply opening young bottles 1-2 hours before service provides ad
 
 ---
 
-Vaudésir represents Chablis Grand Cru at its most harmonious—a wine that balances power with elegance, immediacy with profundity, and classic Chablis restraint with Grand Cru complexity. Its central position within the Grand Cru amphitheater provides optimal conditions for Chardonnay to express both the varietal's inherent nobility and the terroir's distinctive mineral signature.
+Vaudésir represents Chablis Grand Cru at its most harmonious: a wine that balances power with elegance, immediacy with profundity, and classic Chablis restraint with Grand Cru complexity. Its central position within the Grand Cru amphitheater provides optimal conditions for Chardonnay to express both the varietal's inherent nobility and the terroir's distinctive mineral signature.
 
-For wine enthusiasts seeking to understand what elevates Chablis above ordinary white Burgundy, Vaudésir provides an essential reference point—a wine that rewards patience with transformation, study with revelation, and devotion with transcendence.
+For wine enthusiasts seeking to understand what elevates Chablis above ordinary white Burgundy, Vaudésir provides an essential reference point: a wine that rewards patience with transformation, study with revelation, and devotion with transcendence.

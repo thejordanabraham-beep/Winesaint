@@ -2,15 +2,15 @@
 
 ## The Terroir Paradox
 
-Châteauneuf-du-Pape presents a contradiction that confounds conventional viticultural wisdom. The soils here—a chaotic assemblage of galets roulés (rounded stones), sand, limestone, and clay—would be considered hostile terrain for most crops. Yet these "poor" conditions produce some of France's most powerful, age-worthy wines. This is not a subtle distinction. The appellation's 3,231 hectares span five communes and contain 134 distinct lieux-dits, each expressing different facets of Mediterranean terroir through a lens of 13 permitted grape varieties.
+Châteauneuf-du-Pape presents a contradiction that confounds conventional viticultural wisdom. The soils here (a chaotic assemblage of galets roulés (rounded stones), sand, limestone, and clay) would be considered hostile terrain for most crops. Yet these "poor" conditions produce some of France's most powerful, age-worthy wines. This is not a subtle distinction. The appellation's 3,231 hectares span five communes and contain 134 distinct lieux-dits, each expressing different facets of Mediterranean terroir through a lens of 13 permitted grape varieties.
 
-The region earned AOC status in 1936, making it one of France's original appellations. But the real quality revolution didn't arrive until the 1990s, when critic Robert Parker's advocacy brought international attention—and capital—to estates that had previously sold most of their production in bulk to négociants. As one longtime vintner noted: "We were happy before, but we rode hand-me-down bicycles. Now we can invest in the equipment needed to produce the best wines possible."
+The region earned AOC status in 1936, making it one of France's original appellations. But the real quality revolution didn't arrive until the 1990s, when critic Robert Parker's advocacy brought international attention (and capital) to estates that had previously sold most of their production in bulk to négociants. As one longtime vintner noted: "We were happy before, but we rode hand-me-down bicycles. Now we can invest in the equipment needed to produce the best wines possible."
 
 ## Reading the Compass: Terroir by Direction
 
 The most practical way to understand Châteauneuf-du-Pape's terroir is directionally, moving from west to east across the appellation.
 
-**Western Sector (Commune of Châteauneuf-du-Pape)**: This zone dominates the appellation, comprising 1,706 hectares across 76 lieux-dits—53% of total plantings. Here you find the iconic galets roulés: fist-sized quartzite stones deposited by ancient Alpine glaciers. These stones serve three functions: they absorb solar radiation during the day and release it at night (extending the growing season), they improve drainage dramatically, and they force vine roots deep into underlying clay and limestone substrata. The most famous lieu-dit, **La Crau**, sits in this sector—a plateau of pure stones underlaid by red clay that produces wines of extraordinary concentration and structure.
+**Western Sector (Commune of Châteauneuf-du-Pape)**: This zone dominates the appellation, comprising 1,706 hectares across 76 lieux-dits, 53% of total plantings. Here you find the iconic galets roulés: fist-sized quartzite stones deposited by ancient Alpine glaciers. These stones serve three functions: they absorb solar radiation during the day and release it at night (extending the growing season), they improve drainage dramatically, and they force vine roots deep into underlying clay and limestone substrata. The most famous lieu-dit, **La Crau**, sits in this sector: a plateau of pure stones underlaid by red clay that produces wines of extraordinary concentration and structure.
 
 **Northeastern Sector (Courthezon)**: Accounting for 663 hectares across 26 lieux-dits (20% of the appellation), Courthezon's terroir shifts toward sandier compositions. The lieux-dits of **Le Pointu** and **Le Rayas** exemplify this: pure sand over clay, creating the coolest microclimate in the entire appellation. Château Rayas, arguably the region's most celebrated estate, exploits this terroir with north-facing exposures, surrounding oak and pine forests that moderate temperatures, and ungrafted Grenache vines that can exceed a century in age. These conditions allow Rayas to harvest last in the appellation while maintaining relatively modest alcohol levels (for Châteauneuf) and producing wines of silky elegance rather than power.
 
@@ -22,21 +22,21 @@ The most practical way to understand Châteauneuf-du-Pape's terroir is direction
 
 ## The Mistral Factor: Climate as Winemaking Tool
 
-Châteauneuf-du-Pape enjoys a Mediterranean climate—hot, dry summers with mild winters. But the defining climatic feature is the **mistral**, the fierce north-to-south wind that screams down the Rhône Valley at velocities exceeding 60 miles per hour. The mistral blows approximately 100 days per year, typically lasting one to three days per episode.
+Châteauneuf-du-Pape enjoys a Mediterranean climate, hot, dry summers with mild winters. But the defining climatic feature is the **mistral**, the fierce north-to-south wind that screams down the Rhône Valley at velocities exceeding 60 miles per hour. The mistral blows approximately 100 days per year, typically lasting one to three days per episode.
 
 This wind is not merely a weather phenomenon; it's a viticultural asset. The mistral desiccates the air, reducing fungal disease pressure so dramatically that organic and biodynamic farming becomes practically feasible rather than ideologically aspirational. The wind strips excess moisture from grape clusters after rain events, maintaining fruit health through the growing season. This natural disease suppression explains why Châteauneuf-du-Pape has one of the highest concentrations of certified organic and biodynamic estates in France.
 
-The appellation mandates a minimum 12.5% alcohol, and chaptalization is prohibited—a moot point given that most vintages easily surpass 14% naturally. Irrigation requires INAO permission and must cease by August 15, ensuring vines remain stressed enough to concentrate flavors.
+The appellation mandates a minimum 12.5% alcohol, and chaptalization is prohibited: a moot point given that most vintages easily surpass 14% naturally. Irrigation requires INAO permission and must cease by August 15, ensuring vines remain stressed enough to concentrate flavors.
 
 ## The Blending Imperative
 
-Thirteen grape varieties receive AOC approval, though in practice, Grenache dominates. The typical blend architecture: 70-90% Grenache provides the core of kirsch, garrigue, and strawberry fruit; 5-15% Mourvèdre contributes structure, tannin, and aging potential; 5-10% Syrah adds black pepper, violet, and color intensity. The remaining varieties—Cinsault, Counoise, Vaccarèse, Terret Noir, Muscardin, Clairette, Roussanne, Bourboulenc, Picpoul, and Picardan—appear sporadically, often in field blends from old vineyards.
+Thirteen grape varieties receive AOC approval, though in practice, Grenache dominates. The typical blend architecture: 70-90% Grenache provides the core of kirsch, garrigue, and strawberry fruit; 5-15% Mourvèdre contributes structure, tannin, and aging potential; 5-10% Syrah adds black pepper, violet, and color intensity. The remaining varieties. Cinsault, Counoise, Vaccarèse, Terret Noir, Muscardin, Clairette, Roussanne, Bourboulenc, Picpoul, and Picardan, appear sporadically, often in field blends from old vineyards.
 
-As climate warming accelerates, Mourvèdre's role becomes increasingly critical. Grenache can achieve phenolic ripeness at sugar levels that produce 16%+ alcohol—technically impressive but texturally fatiguing. Mourvèdre, which ripens later and maintains higher acidity, provides the blending counterweight that keeps wines balanced. Expect this variety's importance to grow over the next decade.
+As climate warming accelerates, Mourvèdre's role becomes increasingly critical. Grenache can achieve phenolic ripeness at sugar levels that produce 16%+ alcohol, technically impressive but texturally fatiguing. Mourvèdre, which ripens later and maintains higher acidity, provides the blending counterweight that keeps wines balanced. Expect this variety's importance to grow over the next decade.
 
 ## The Style Spectrum: Traditional vs. Modern
 
-The "traditional vs. modern" debate in Châteauneuf-du-Pape is less about philosophy than technique. Traditional producers ferment whole clusters in concrete or large foudres, age wines 18-24 months in old oak, and bottle unfiltered. The resulting wines emphasize earth, garrigue, leather, and savory complexity. Modern producers destem more aggressively, use temperature-controlled stainless steel or new barriques, and extract more color and fruit concentration. These wines foreground primary fruit—black cherry, raspberry, plum—with softer tannins and earlier approachability.
+The "traditional vs. modern" debate in Châteauneuf-du-Pape is less about philosophy than technique. Traditional producers ferment whole clusters in concrete or large foudres, age wines 18-24 months in old oak, and bottle unfiltered. The resulting wines emphasize earth, garrigue, leather, and savory complexity. Modern producers destem more aggressively, use temperature-controlled stainless steel or new barriques, and extract more color and fruit concentration. These wines foreground primary fruit (black cherry, raspberry, plum) with softer tannins and earlier approachability.
 
 Both styles work. The appellation's strength lies in its diversity: from Rayas's ethereal elegance to Beaucastel's structured classicism to Pégaü's hedonistic power. This range reflects not just winemaking choices but genuine terroir differences across those 134 lieux-dits.
 
@@ -60,7 +60,7 @@ This small-scale structure means individual winemaker decisions matter enormousl
 
 ## What Châteauneuf-du-Pape Tastes Like
 
-The common thread across styles: **red and black cherry, strawberry, kirsch, black pepper, black raspberry, garrigue** (the wild herbs of Provence—thyme, rosemary, lavender), earth, and spice. Young wines display lush, almost liqueur-like fruit intensity. With 5-10 years, secondary characteristics emerge: leather, truffle, grilled meat, tobacco, dried herbs. The texture shifts from plush and powerful to silky and integrated.
+The common thread across styles: **red and black cherry, strawberry, kirsch, black pepper, black raspberry, garrigue** (the wild herbs of Provence, thyme, rosemary, lavender), earth, and spice. Young wines display lush, almost liqueur-like fruit intensity. With 5-10 years, secondary characteristics emerge: leather, truffle, grilled meat, tobacco, dried herbs. The texture shifts from plush and powerful to silky and integrated.
 
 One of the appellation's great advantages: most wines drink beautifully young yet age gracefully for 15-20 years. This dual-phase drinkability makes Châteauneuf-du-Pape unusually versatile for collectors and casual drinkers alike.
 
@@ -73,7 +73,7 @@ The wines' power and fruit concentration demand equally robust preparations:
 - **Provençal stews**: Daube, beef bourguignon, wild boar ragù
 - **Aged hard cheeses**: Comté, aged Manchego, Parmigiano-Reggiano
 
-The garrigue notes in the wine echo herbs in the cuisine—rosemary-crusted lamb with a traditionally styled Châteauneuf creates perfect regional synergy.
+The garrigue notes in the wine echo herbs in the cuisine, rosemary-crusted lamb with a traditionally styled Châteauneuf creates perfect regional synergy.
 
 ## Wines to Seek Out
 
@@ -92,9 +92,9 @@ The garrigue notes in the wine echo herbs in the cuisine—rosemary-crusted lamb
 
 ## The Future: Climate and Evolution
 
-Rising temperatures present both challenges and opportunities. Grenache's tendency toward high alcohol requires careful canopy management and earlier harvest windows. Mourvèdre's heat tolerance and structural contribution will likely increase its blending percentage. The cooler northern sectors—Orange, northern Courthezon—may gain prestige as southern parcels struggle with excessive ripeness.
+Rising temperatures present both challenges and opportunities. Grenache's tendency toward high alcohol requires careful canopy management and earlier harvest windows. Mourvèdre's heat tolerance and structural contribution will likely increase its blending percentage. The cooler northern sectors (Orange, northern Courthezon) may gain prestige as southern parcels struggle with excessive ripeness.
 
-The appellation's diversity—134 lieux-dits across five communes—provides built-in adaptation capacity. As some terroirs become too warm, others reach optimal ripeness windows. This geographic insurance policy, combined with 13 permitted varieties, gives Châteauneuf-du-Pape unusual resilience against climate disruption.
+The appellation's diversity (134 lieux-dits across five communes) provides built-in adaptation capacity. As some terroirs become too warm, others reach optimal ripeness windows. This geographic insurance policy, combined with 13 permitted varieties, gives Châteauneuf-du-Pape unusual resilience against climate disruption.
 
 ## Conclusion: Complexity from Chaos
 

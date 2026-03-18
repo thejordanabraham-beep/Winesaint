@@ -6,7 +6,7 @@ La Maltroie stands as one of the most prestigious Premier Cru vineyards within t
 
 The vineyard's position within the greater Chassagne-Montrachet appellation places it squarely in the southern portion of the Côte de Beaune, approximately 15 kilometers southwest of the city of Beaune. This location represents the transition zone where the Côte de Beaune begins to merge with the Côte Chalonnaise, creating a unique terroir expression that bridges these two distinct viticultural regions.
 
-La Maltroie's geographical significance extends beyond its immediate boundaries, as it forms part of the greater Montrachet slope complex—arguably the most celebrated white wine terroir in the world. The vineyard sits at the convergence of Chassagne-Montrachet and Puligny-Montrachet communes, though the entirety of La Maltroie falls within Chassagne-Montrachet's administrative boundaries. This positioning allows the vineyard to capture both the mineral intensity characteristic of the Montrachet slope and the broader, more generous expression typical of Chassagne-Montrachet's terroir.
+La Maltroie's geographical significance extends beyond its immediate boundaries, as it forms part of the greater Montrachet slope complex, arguably the most celebrated white wine terroir in the world. The vineyard sits at the convergence of Chassagne-Montrachet and Puligny-Montrachet communes, though the entirety of La Maltroie falls within Chassagne-Montrachet's administrative boundaries. This positioning allows the vineyard to capture both the mineral intensity characteristic of the Montrachet slope and the broader, more generous expression typical of Chassagne-Montrachet's terroir.
 
 The climat's name, "La Maltroie," derives from historical references dating back several centuries, though its precise etymological origins remain subjects of scholarly debate. Some historians suggest connections to medieval land ownership patterns, while others propose links to ancient viticultural practices specific to this slope position.
 
@@ -98,7 +98,7 @@ Domaine Fontaine-Gagnard, continuing the Gagnard family tradition, maintains hol
 
 Château de la Maltroye, despite its name suggesting primary association with this climat, actually maintains limited holdings within the vineyard while focusing primarily on other Chassagne-Montrachet sites. Their interpretation emphasizes the mineral aspects of the terroir while maintaining accessibility and food-pairing versatility.
 
-Several smaller producers and négociant houses also source fruit from La Maltroie, contributing to stylistic diversity while maintaining quality standards appropriate to Premier Cru classification. These variations in winemaking approach—from traditional barrel fermentation with extended lees contact to more modern techniques emphasizing fruit purity—demonstrate the terroir's versatility and adaptability to different stylistic interpretations.
+Several smaller producers and négociant houses also source fruit from La Maltroie, contributing to stylistic diversity while maintaining quality standards appropriate to Premier Cru classification. These variations in winemaking approach, from traditional barrel fermentation with extended lees contact to more modern techniques emphasizing fruit purity, demonstrate the terroir's versatility and adaptability to different stylistic interpretations.
 
 ## Historical Background & Classification
 

@@ -58,7 +58,7 @@ Site-specific viticultural challenges include managing the vineyard's exposure t
 
 En Orveaux produces Pinot Noir wines that exemplify the elegance and complexity associated with Vosne-Romanée while maintaining distinctive characteristics that set them apart from the commune's other Premier Cru expressions. The wines typically display a medium to medium-full body structure, with silky tannins that reflect both the limestone influence and careful winemaking practices employed by the climat's various producers.
 
-Aromatic characteristics frequently include red fruit expressions—particularly cherry, raspberry, and red currant—complemented by floral notes of violet and rose petal that emerge from the terroir's specific mineral composition. As the wines mature, these primary fruit aromas evolve into more complex secondary and tertiary expressions, including earth tones, mushroom, leather, and subtle spice components that reflect both terroir and aging development.
+Aromatic characteristics frequently include red fruit expressions (particularly cherry, raspberry, and red currant) complemented by floral notes of violet and rose petal that emerge from the terroir's specific mineral composition. As the wines mature, these primary fruit aromas evolve into more complex secondary and tertiary expressions, including earth tones, mushroom, leather, and subtle spice components that reflect both terroir and aging development.
 
 The structural profile of En Orveaux wines demonstrates excellent balance between fruit concentration and natural acidity, with the limestone terroir contributing to wine longevity while the eastern exposition ensures sufficient ripeness for immediate appeal. Tannin structure tends toward refinement rather than power, creating wines that are approachable in youth while developing additional complexity over extended cellar aging.
 
@@ -66,7 +66,7 @@ Textural qualities distinguish En Orveaux within Vosne-Romanée's Premier Cru hi
 
 Color intensity typically ranges from medium ruby to deeper garnet depending on vintage conditions and winemaking approach, with most examples showing good color stability over time. The wines demonstrate excellent transparency and clarity, reflecting both terroir purity and quality winemaking practices among the climat's producers.
 
-What particularly distinguishes En Orveaux from other Premier Cru sites is its combination of accessibility and complexity—wines that offer immediate pleasure while rewarding extended cellaring. This balance makes En Orveaux particularly appealing to collectors who appreciate wines that perform well across different stages of development.
+What particularly distinguishes En Orveaux from other Premier Cru sites is its combination of accessibility and complexity, wines that offer immediate pleasure while rewarding extended cellaring. This balance makes En Orveaux particularly appealing to collectors who appreciate wines that perform well across different stages of development.
 
 ## Comparison to Surrounding Crus
 

@@ -4,7 +4,7 @@
 
 Steinklotz is one of the 51 officially designated Grands Crus of Alsace, representing some of the most prestigious vineyard sites in the region. Located in the Haut-Rhin department of northeastern France, Steinklotz sits in the southern portion of the Alsace wine route, an area known for producing wines of exceptional concentration and complexity.
 
-The Grand Cru is situated in the commune of Marlenheim, which lies approximately 20 kilometers west of Strasbourg in the Bas-Rhin department—though it is important to note that while most Grands Crus are located in Haut-Rhin, Steinklotz is actually one of the northernmost Grand Cru sites. The vineyard encompasses approximately 40.6 hectares of prime viticultural land, making it a medium-sized Grand Cru within the Alsace classification system.
+The Grand Cru is situated in the commune of Marlenheim, which lies approximately 20 kilometers west of Strasbourg in the Bas-Rhin department, though it is important to note that while most Grands Crus are located in Haut-Rhin, Steinklotz is actually one of the northernmost Grand Cru sites. The vineyard encompasses approximately 40.6 hectares of prime viticultural land, making it a medium-sized Grand Cru within the Alsace classification system.
 
 Steinklotz received its official Grand Cru designation in 1992, as part of the broader formalization of Alsace's Grand Cru system that began in 1983 and continued through the 1990s. This designation recognized centuries of viticultural excellence and the site's unique capacity to produce wines of distinctive character and exceptional quality.
 
@@ -14,7 +14,7 @@ The name "Steinklotz" translates literally to "stone block" in German, a direct 
 
 The geological foundation of Steinklotz is dominated by Triassic limestone and marl, with significant contributions from sandstone elements that distinguish this site from many other Alsace Grands Crus. The soils are notably calcareous, with a substantial limestone component that provides excellent drainage while maintaining sufficient water retention during the growing season. This limestone-marl complex dates to approximately 200-250 million years ago, from the Middle Triassic period.
 
-The soil structure at Steinklotz is characterized by a thin topsoil layer, rarely exceeding 30-40 centimeters in depth, which sits atop a substantial bedrock of limestone and sandstone. This shallow soil profile forces vine roots to penetrate deeply into fissures in the underlying rock, accessing mineral nutrients and water reserves that contribute significantly to the wines' distinctive mineral character. The stony nature of the surface soil—the "stone blocks" referenced in the vineyard's name—aids in heat retention and radiation, creating a warmer mesoclimate that benefits grape ripening.
+The soil structure at Steinklotz is characterized by a thin topsoil layer, rarely exceeding 30-40 centimeters in depth, which sits atop a substantial bedrock of limestone and sandstone. This shallow soil profile forces vine roots to penetrate deeply into fissures in the underlying rock, accessing mineral nutrients and water reserves that contribute significantly to the wines' distinctive mineral character. The stony nature of the surface soil (the "stone blocks" referenced in the vineyard's name) aids in heat retention and radiation, creating a warmer mesoclimate that benefits grape ripening.
 
 The vineyard's aspect is predominantly south-southeast, with slopes ranging from gentle inclines of 5-10% in some sections to steeper gradients of 25-30% in others. The elevation ranges from approximately 200 to 280 meters above sea level, positioning the vines in an optimal zone that balances sun exposure with sufficient cool air drainage to maintain acidity in the grapes.
 
@@ -64,7 +64,7 @@ The alcohol levels in Steinklotz Gewurztraminer can be substantial, often reachi
 
 **Pinot Gris and Muscat** are less commonly encountered from Steinklotz, but when produced, they follow similar stylistic patterns. Pinot Gris shows more structure and minerality than fruit weight, with citrus and stone fruit notes supported by limestone-derived tension. Muscat, rarely planted, offers intense floral aromatics balanced by penetrating mineral qualities.
 
-The concept of terroir expression—the ability of wine to communicate a sense of place—is particularly pronounced in Steinklotz wines. Blind tastings often reveal a family resemblance among wines from this site, regardless of producer or specific variety, characterized by that distinctive limestone minerality and precise, defined character.
+The concept of terroir expression (the ability of wine to communicate a sense of place) is particularly pronounced in Steinklotz wines. Blind tastings often reveal a family resemblance among wines from this site, regardless of producer or specific variety, characterized by that distinctive limestone minerality and precise, defined character.
 
 ## Notable Producers
 
@@ -76,7 +76,7 @@ Several distinguished domaines hold parcels within Steinklotz and have contribut
 
 **Domaine Jean-Louis et Fabienne Mann** approaches Steinklotz with a philosophy that emphasizes precise viticulture and minimal intervention in the cellar. Their wines tend toward restraint and elegance, requiring patience but rewarding cellaring with exceptional development. The domaine's Riesling from Steinklotz has garnered particular acclaim for its pure expression of limestone terroir.
 
-Different producers bring varying interpretations to Steinklotz, reflecting their individual philosophies and winemaking approaches. Some favor extended lees contact and delayed bottling to build texture and complexity, while others prefer earlier bottling to capture aromatic freshness. Decisions about fermentation vessels—traditional wooden foudres versus stainless steel—also influence final wine style, with wood generally contributing additional texture and oxidative complexity, while steel preserves more primary aromatics.
+Different producers bring varying interpretations to Steinklotz, reflecting their individual philosophies and winemaking approaches. Some favor extended lees contact and delayed bottling to build texture and complexity, while others prefer earlier bottling to capture aromatic freshness. Decisions about fermentation vessels (traditional wooden foudres versus stainless steel) also influence final wine style, with wood generally contributing additional texture and oxidative complexity, while steel preserves more primary aromatics.
 
 The use of residual sugar varies among producers as well. Some vinify completely dry (under 4 grams per liter residual sugar), allowing the terroir's mineral character to dominate. Others retain moderate residual sugar (8-15 grams per liter), providing a richer, more approachable style while theoretically enhancing aging potential through the preservative effects of sugar. Both approaches can produce excellent wines; the choice reflects producer preference and vintage characteristics.
 

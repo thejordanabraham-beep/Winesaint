@@ -2,7 +2,7 @@
 
 ## The Paradox of Place
 
-Écueil occupies a peculiar position in Champagne's geography. This compact village sits on the northeastern flank of the Montagne de Reims, yet it produces wines that defy the mountain's reputation. While the Montagne is celebrated for its powerful Pinot Noir—the muscular backbone of prestige cuvées—Écueil's expression is altogether different: refined, mineral, almost Burgundian in its delicacy. 
+Écueil occupies a peculiar position in Champagne's geography. This compact village sits on the northeastern flank of the Montagne de Reims, yet it produces wines that defy the mountain's reputation. While the Montagne is celebrated for its powerful Pinot Noir: the muscular backbone of prestige cuvées, Écueil's expression is altogether different: refined, mineral, almost Burgundian in its delicacy. 
 
 This is not subtle marketing. The distinction is geological, climatic, and ultimately, sensory.
 
@@ -12,15 +12,15 @@ The village comprises roughly 110 hectares of vines, classified as Premier Cru w
 
 ### The Chalk Question
 
-The Montagne de Reims is fundamentally a chalk massif, but not all chalk performs identically. Écueil's subsoil consists predominantly of *Campanian chalk*—the same geological stratum that underlies much of the Côte des Blancs, though here it manifests differently due to varying degrees of erosion and topsoil composition.
+The Montagne de Reims is fundamentally a chalk massif, but not all chalk performs identically. Écueil's subsoil consists predominantly of *Campanian chalk*, the same geological stratum that underlies much of the Côte des Blancs, though here it manifests differently due to varying degrees of erosion and topsoil composition.
 
-The critical distinction lies in what sits above the chalk. While villages like Verzenay and Mailly-Champagne on the northern Montagne have thin topsoils over chalk (typically 20-40 cm), Écueil's topsoil runs deeper—often 60-80 cm—with a higher proportion of clay and silt. This creates a soil profile closer to what the French classify as *argilo-calcaire* (clay-limestone) rather than pure chalk.
+The critical distinction lies in what sits above the chalk. While villages like Verzenay and Mailly-Champagne on the northern Montagne have thin topsoils over chalk (typically 20-40 cm), Écueil's topsoil runs deeper (often 60-80 cm) with a higher proportion of clay and silt. This creates a soil profile closer to what the French classify as *argilo-calcaire* (clay-limestone) rather than pure chalk.
 
 The practical implication: water retention differs substantially. Écueil's vines experience more moderate water stress during dry periods compared to the pure chalk sites. This affects both vine physiology and grape ripening patterns. Where Verzenay produces Pinot Noir with concentrated power and structure, Écueil yields wines with more ethereal aromatics and finer-grained tannins.
 
 ### Erosion and Exposition
 
-The village sits at elevations ranging from 100 to 180 meters, with most premier parcels positioned between 120-160 meters. The gradient here is gentler than the northern Montagne—slopes average 8-12% compared to 15-20% in Verzenay or Bouzy. This moderate incline has allowed topsoil to accumulate rather than erode completely, contributing to the deeper soil profile.
+The village sits at elevations ranging from 100 to 180 meters, with most premier parcels positioned between 120-160 meters. The gradient here is gentler than the northern Montagne, slopes average 8-12% compared to 15-20% in Verzenay or Bouzy. This moderate incline has allowed topsoil to accumulate rather than erode completely, contributing to the deeper soil profile.
 
 Exposition varies significantly within the commune. The best sites face east to southeast, capturing morning light while avoiding the afternoon heat that can accelerate ripening too rapidly. This orientation proves crucial in warming vintages, when slower, more gradual maturation preserves aromatic complexity and acidity.
 
@@ -28,13 +28,13 @@ Exposition varies significantly within the commune. The best sites face east to 
 
 ### Continental Influence with Maritime Moderation
 
-Écueil experiences a transitional microclimate. The village lies far enough inland to feel continental temperature swings—cold winters, warm summers—yet close enough to benefit from maritime air masses moving up the Marne Valley. Annual precipitation averages 650-700 mm, slightly lower than the Champagne regional average of 700-750 mm.
+Écueil experiences a transitional microclimate. The village lies far enough inland to feel continental temperature swings (cold winters, warm summers) yet close enough to benefit from maritime air masses moving up the Marne Valley. Annual precipitation averages 650-700 mm, slightly lower than the Champagne regional average of 700-750 mm.
 
 The Montagne de Reims itself creates a rain shadow effect. Weather systems moving from the west drop moisture on the western slopes (Verzenay, Mailly), leaving the eastern flank comparatively drier. This matters during harvest: lower humidity reduces disease pressure and allows grapes to hang longer without rot risk.
 
 ### Frost and the Valley Floor
 
-The village's position on the mid-slope protects it from the worst spring frost events that plague valley-floor vineyards. Cold air drains downward, settling in the Vesle Valley to the north. Sites above 130 meters typically escape damage in all but the most severe frost years—2017 being a notable exception, when temperatures dropped to -7°C in late April, affecting even elevated parcels.
+The village's position on the mid-slope protects it from the worst spring frost events that plague valley-floor vineyards. Cold air drains downward, settling in the Vesle Valley to the north. Sites above 130 meters typically escape damage in all but the most severe frost years, 2017 being a notable exception, when temperatures dropped to -7°C in late April, affecting even elevated parcels.
 
 Growers have adapted. Most now employ some form of frost protection: wind machines, heaters, or sprinkler systems. The investment reflects economic reality: at Premier Cru pricing, losing even 30% of a crop to frost becomes financially catastrophic.
 
@@ -42,7 +42,7 @@ Growers have adapted. Most now employ some form of frost protection: wind machin
 
 ### Rootstock and Density
 
-The deeper soils of Écueil permit different viticultural choices than pure chalk sites. Rootstocks here tend toward those that moderate vigor rather than induce it. 41B and SO4 appear frequently—both are grafted onto *Vitis berlandieri* × *Vitis riparia* crosses that handle calcareous soils well while controlling excessive vegetative growth.
+The deeper soils of Écueil permit different viticultural choices than pure chalk sites. Rootstocks here tend toward those that moderate vigor rather than induce it. 41B and SO4 appear frequently, both are grafted onto *Vitis berlandieri* × *Vitis riparia* crosses that handle calcareous soils well while controlling excessive vegetative growth.
 
 Planting density typically ranges from 7,500 to 8,500 vines per hectare. This is standard for Champagne but represents a different vine-to-soil ratio than sites with shallower topsoil. Each vine's root system can explore a larger volume of soil, accessing both the clay-rich topsoil for water and nutrients and the chalk subsoil for mineral uptake.
 
@@ -52,7 +52,7 @@ Growers in Écueil face a specific challenge: achieving phenolic ripeness in Pin
 
 The solution involves aggressive canopy management. Leaf removal on the east-facing (morning sun) side of the canopy typically occurs 3-4 weeks before harvest, exposing fruit to gentle morning light while maintaining afternoon shade. This balances the need for phenolic development with acid retention.
 
-Yields also play a role. While Champagne's appellation regulations permit up to 15,500 kg/ha (97 hl/ha) for Premier Cru sites, quality-focused growers in Écueil typically target 10,000-12,000 kg/ha. This isn't altruism—it's necessity. Lower yields concentrate flavors and improve skin-to-juice ratios, critical for wines destined for extended aging on lees.
+Yields also play a role. While Champagne's appellation regulations permit up to 15,500 kg/ha (97 hl/ha) for Premier Cru sites, quality-focused growers in Écueil typically target 10,000-12,000 kg/ha. This isn't altruism, it's necessity. Lower yields concentrate flavors and improve skin-to-juice ratios, critical for wines destined for extended aging on lees.
 
 ## Wine Styles and Characteristics
 
@@ -60,15 +60,15 @@ Yields also play a role. While Champagne's appellation regulations permit up to 
 
 Écueil is approximately 85% Pinot Noir, with Chardonnay and Meunier comprising the remainder. The Pinot Noir here expresses itself differently than elsewhere on the Montagne de Reims.
 
-**Aromatic Profile**: Red fruits dominate—raspberry, wild strawberry, cranberry—rather than the darker cherry and blackberry notes typical of Verzenay or Bouzy. Floral notes emerge frequently: rose petal, violet, sometimes white flowers. With age, these wines develop tertiary complexity: undergrowth, truffle, dried flowers, but they retain a core of red fruit rather than evolving toward darker, more oxidative notes.
+**Aromatic Profile**: Red fruits dominate (raspberry, wild strawberry, cranberry) rather than the darker cherry and blackberry notes typical of Verzenay or Bouzy. Floral notes emerge frequently: rose petal, violet, sometimes white flowers. With age, these wines develop tertiary complexity: undergrowth, truffle, dried flowers, but they retain a core of red fruit rather than evolving toward darker, more oxidative notes.
 
-**Structure**: The tannin profile is distinctive—present but fine-grained, almost silky. This reflects both the terroir (more gradual ripening preserving supple tannins) and winemaking choices (gentler extraction, shorter maceration times). Acidity typically measures 7-8 g/L as tartaric acid in base wines, providing the backbone for extended aging without the aggressive bite of higher-acid sites.
+**Structure**: The tannin profile is distinctive, present but fine-grained, almost silky. This reflects both the terroir (more gradual ripening preserving supple tannins) and winemaking choices (gentler extraction, shorter maceration times). Acidity typically measures 7-8 g/L as tartaric acid in base wines, providing the backbone for extended aging without the aggressive bite of higher-acid sites.
 
-**Texture**: Perhaps the most distinctive characteristic is texture. Écueil Pinot Noir possesses what French tasters call *finesse*—a difficult-to-define quality of refinement and elegance. The wines feel lighter on the palate than their actual alcohol content (typically 11-11.5% in base wines) would suggest, with a mineral tension that drives the finish.
+**Texture**: Perhaps the most distinctive characteristic is texture. Écueil Pinot Noir possesses what French tasters call *finesse*, a difficult-to-define quality of refinement and elegance. The wines feel lighter on the palate than their actual alcohol content (typically 11-11.5% in base wines) would suggest, with a mineral tension that drives the finish.
 
 ### Chardonnay: The Minority Report
 
-The small proportion of Chardonnay planted in Écueil—primarily in lower-elevation sites with more clay—produces wines of surprising depth. These are not Côte des Blancs Chardonnays. They show more body, more texture, sometimes a slight phenolic grip from the clay influence.
+The small proportion of Chardonnay planted in Écueil (primarily in lower-elevation sites with more clay) produces wines of surprising depth. These are not Côte des Blancs Chardonnays. They show more body, more texture, sometimes a slight phenolic grip from the clay influence.
 
 Aromatics tend toward orchard fruits (apple, pear) rather than citrus, with a distinctive chalky minerality that emerges after 2-3 years on lees. Some producers use these Chardonnays to add texture and complexity to their blanc de noirs, creating wines that bridge stylistic categories.
 
@@ -78,7 +78,7 @@ Aromatics tend toward orchard fruits (apple, pear) rather than citrus, with a di
 
 David Léclapart farms 3 hectares in Écueil and neighboring Trépail, working organically since 2010 and biodynamically since 2012. His approach exemplifies a new generation of grower-producers focused on terroir expression over house style.
 
-Léclapart vinifies his parcels separately in small oak barrels (228-liter Burgundy pièces), allowing indigenous yeasts to conduct fermentation. Malolactic fermentation occurs naturally and completely. The wines undergo no filtration, minimal sulfur (typically 20-30 mg/L total SO₂), and extended aging on lees—often 4-5 years for vintage cuvées.
+Léclapart vinifies his parcels separately in small oak barrels (228-liter Burgundy pièces), allowing indigenous yeasts to conduct fermentation. Malolactic fermentation occurs naturally and completely. The wines undergo no filtration, minimal sulfur (typically 20-30 mg/L total SO₂), and extended aging on lees, often 4-5 years for vintage cuvées.
 
 His "L'Artiste" bottling, a blanc de noirs from Écueil Pinot Noir, demonstrates the village's potential for Burgundian-style elegance. The wine shows remarkable aromatic complexity: red berries, white pepper, crushed stone, with a saline finish that extends 30+ seconds. This is Pinot Noir as meditation rather than celebration.
 
@@ -90,15 +90,15 @@ The Péters family's approach to Écueil fruit differs from their Chardonnay han
 
 ### Champagne Benoît Lahaye
 
-Benoît Lahaye works 5 hectares in Bouzy and Écueil, farming biodynamically since 2003. His Écueil parcels—roughly 1.2 hectares of Pinot Noir—are vinified separately as "Les Jardins de la Grosse Pierre," a lieu-dit on the eastern edge of the commune.
+Benoît Lahaye works 5 hectares in Bouzy and Écueil, farming biodynamically since 2003. His Écueil parcels, roughly 1.2 hectares of Pinot Noir, are vinified separately as "Les Jardins de la Grosse Pierre," a lieu-dit on the eastern edge of the commune.
 
-Lahaye's winemaking is deliberately non-interventionist: indigenous yeasts, no temperature control during fermentation, no sulfur until bottling (and then minimal—15-20 mg/L total). The wines undergo full malolactic fermentation and age on fine lees in barrel for 10-12 months.
+Lahaye's winemaking is deliberately non-interventionist: indigenous yeasts, no temperature control during fermentation, no sulfur until bottling (and then minimal, 15-20 mg/L total). The wines undergo full malolactic fermentation and age on fine lees in barrel for 10-12 months.
 
 The resulting Champagne is powerful yet refined, showing Écueil's characteristic red fruit and mineral tension but with additional complexity from the élevage. In warm vintages like 2018 and 2019, the wine develops notes of blood orange, dried herbs, and a distinctive saline quality that Lahaye attributes to the biodynamic farming and minimal intervention.
 
 ### Champagne Marie-Courtin
 
-Dominique Moreau farms 2.3 hectares in Écueil and Polisot (Côte des Bar), focusing exclusively on the Écueil holdings for her prestige cuvées. Her "Présence" bottling—a blanc de noirs from 60-year-old Pinot Noir vines—represents perhaps the purest expression of Écueil terroir currently available.
+Dominique Moreau farms 2.3 hectares in Écueil and Polisot (Côte des Bar), focusing exclusively on the Écueil holdings for her prestige cuvées. Her "Présence" bottling (a blanc de noirs from 60-year-old Pinot Noir vines) represents perhaps the purest expression of Écueil terroir currently available.
 
 Moreau employs extremely low yields (6,000-7,000 kg/ha), whole-cluster pressing, and fermentation in a combination of stainless steel and neutral oak. The wine undergoes full malolactic and ages on lees for a minimum of 7 years before disgorgement. Dosage is minimal: 2-3 g/L.
 
@@ -126,9 +126,9 @@ The highest-elevation site in Écueil (160-180 meters), Le Mont Ferré benefits 
 
 Sillery, immediately to the west, holds Grand Cru status and commands higher prices. The geological distinction is subtle but significant: Sillery's topsoil is thinner (30-50 cm) with more direct chalk contact. This produces Pinot Noir of greater concentration and power, with firmer tannins and darker fruit character.
 
-In blind tastings, Sillery Pinot Noir typically shows more muscle, more extraction, more "Montagne" character. Écueil shows more finesse, more aromatic complexity, more tension. Neither is superior—they simply express different facets of Pinot Noir's personality.
+In blind tastings, Sillery Pinot Noir typically shows more muscle, more extraction, more "Montagne" character. Écueil shows more finesse, more aromatic complexity, more tension. Neither is superior, they simply express different facets of Pinot Noir's personality.
 
-The price differential—Sillery grapes command 30-40% higher prices than Écueil—reflects market perception more than inherent quality. For consumers seeking elegance over power, Écueil often represents better value.
+The price differential (Sillery grapes command 30-40% higher prices than Écueil) reflects market perception more than inherent quality. For consumers seeking elegance over power, Écueil often represents better value.
 
 ### Écueil vs. Trépail
 
@@ -146,7 +146,7 @@ Tasting Bouzy Pinot Noir against Écueil reveals fundamental differences: Bouzy 
 
 ### The Organic/Biodynamic Movement
 
-Écueil has seen significant adoption of organic and biodynamic farming—higher than the Champagne regional average of roughly 15%. Several factors explain this:
+Écueil has seen significant adoption of organic and biodynamic farming, higher than the Champagne regional average of roughly 15%. Several factors explain this:
 
 1. **Soil Health**: The deeper topsoils respond well to organic matter addition and cover cropping, showing improved structure and microbial activity within 3-5 years of conversion.
 
@@ -154,13 +154,13 @@ Tasting Bouzy Pinot Noir against Écueil reveals fundamental differences: Bouzy 
 
 3. **Market Positioning**: Grower-producers in Écueil increasingly target sommeliers and wine enthusiasts who value sustainable farming and terroir expression.
 
-The practical challenges remain significant: organic viticulture requires more labor (manual weeding, more frequent spraying of copper/sulfur), and yields can drop 15-20% in the conversion period. However, producers report improved grape quality—thicker skins, better phenolic ripeness, more aromatic intensity—that compensates for volume loss.
+The practical challenges remain significant: organic viticulture requires more labor (manual weeding, more frequent spraying of copper/sulfur), and yields can drop 15-20% in the conversion period. However, producers report improved grape quality (thicker skins, better phenolic ripeness, more aromatic intensity) that compensates for volume loss.
 
 ### Barrel Fermentation and Élevage
 
 The use of oak in Champagne winemaking has expanded significantly over the past two decades, and Écueil producers have embraced this trend. However, the approach differs from Burgundy:
 
-**Barrel Size**: Most producers use larger formats—400-600 liter barrels or 20-30 hectoliter foudres—rather than standard 228-liter pièces. This provides gentle oxidative maturation without excessive oak flavor.
+**Barrel Size**: Most producers use larger formats (400-600 liter barrels or 20-30 hectoliter foudres) rather than standard 228-liter pièces. This provides gentle oxidative maturation without excessive oak flavor.
 
 **Oak Origin and Toast**: Champagne producers favor French oak (Allier, Tronçais, Vosges) with light toast levels. The goal is texture and complexity, not vanilla or toast flavors.
 
@@ -172,7 +172,7 @@ The impact on wine style is subtle but real: increased texture and mouthfeel, en
 
 ### Extended Lees Aging
 
-The trend toward extended aging on lees—often 4-7 years for vintage cuvées, sometimes longer for prestige bottlings—has particular relevance in Écueil. The village's Pinot Noir, with its delicate fruit profile, benefits from the complexity that develops during prolonged lees contact: autolysis produces amino acids and polysaccharides that enhance texture, integrate acidity, and add savory complexity (brioche, toast, umami notes).
+The trend toward extended aging on lees (often 4-7 years for vintage cuvées, sometimes longer for prestige bottlings) has particular relevance in Écueil. The village's Pinot Noir, with its delicate fruit profile, benefits from the complexity that develops during prolonged lees contact: autolysis produces amino acids and polysaccharides that enhance texture, integrate acidity, and add savory complexity (brioche, toast, umami notes).
 
 However, extended aging requires capital and storage space. A producer aging wine for 7 years before disgorgement must finance that inventory, maintain cellar conditions, and accept the risk of cork failure or other losses. This economic reality explains why extended aging remains primarily the domain of smaller grower-producers who can absorb the costs, rather than large houses focused on cash flow.
 
@@ -186,7 +186,7 @@ However, extended aging requires capital and storage space. A producer aging win
 
 **2020**: Warm, dry vintage with early harvest (mid-August in some parcels). The challenge was preserving acidity and avoiding over-ripeness. Écueil's east-facing expositions and deeper soils helped moderate ripening speed. The wines show ripe red fruits, soft acidity (6.5-7 g/L), and generous texture. Approachable young but may lack aging potential of cooler vintages.
 
-**2019**: Exceptionally warm vintage, among the earliest harvests on record. Écueil's terroir characteristics—gradual ripening, acid retention—proved crucial. The wines show surprising freshness despite high ripeness, with alcohol around 11.5% and acidity 7-7.5 g/L. Complex aromatics: red and black fruits, spice, mineral notes. Excellent vintage for Écueil.
+**2019**: Exceptionally warm vintage, among the earliest harvests on record. Écueil's terroir characteristics (gradual ripening, acid retention) proved crucial. The wines show surprising freshness despite high ripeness, with alcohol around 11.5% and acidity 7-7.5 g/L. Complex aromatics: red and black fruits, spice, mineral notes. Excellent vintage for Écueil.
 
 **2018**: Another warm year but with better acid retention than 2019. Écueil produced wines of balance and complexity: ripe fruit, good structure, refreshing acidity. Many producers consider 2018 superior to 2019 for aging potential.
 
@@ -210,7 +210,7 @@ Average temperatures in Champagne have increased approximately 1.2°C over the p
 - Variety selection: some producers experimenting with later-ripening Pinot Noir clones
 - Rootstock changes: selections that reduce vigor and delay ripening
 
-The long-term question: will Écueil's elegant style persist as temperatures rise, or will the village's wines converge toward the power and concentration of southern Montagne sites? Current evidence suggests that terroir—soil depth, exposition, elevation—can partially buffer climate effects, but the margin for error narrows.
+The long-term question: will Écueil's elegant style persist as temperatures rise, or will the village's wines converge toward the power and concentration of southern Montagne sites? Current evidence suggests that terroir (soil depth, exposition, elevation) can partially buffer climate effects, but the margin for error narrows.
 
 ## Food Pairing Strategies
 
@@ -224,7 +224,7 @@ The long-term question: will Écueil's elegant style persist as temperatures ris
 
 **Mushroom-Based Dishes**: Écueil Pinot Noir's earthy, umami qualities (especially in aged examples) complement mushroom preparations. Mushroom risotto, wild mushroom tart, or simply sautéed chanterelles with butter and herbs create harmonious pairings.
 
-**Poultry and Game Birds**: Roast chicken, guinea hen, quail, or partridge—particularly when prepared simply with herbs and butter—match the wine's elegance and texture. The tannins are sufficient to handle the protein without overwhelming delicate flavors.
+**Poultry and Game Birds**: Roast chicken, guinea hen, quail, or partridge (particularly when prepared simply with herbs and butter) match the wine's elegance and texture. The tannins are sufficient to handle the protein without overwhelming delicate flavors.
 
 **Aged Cheeses**: Moderate-intensity washed-rind cheeses (Reblochon, Morbier) or aged cow's milk cheeses (Comté, aged Gruyère) work well. The wine's acidity cuts through fat while the savory lees character complements cheese complexity.
 
@@ -254,7 +254,7 @@ For those new to Écueil, the following bottles provide representative introduct
 
 **Young (0-3 years post-disgorgement)**: Écueil Champagne shows fresh red fruit, floral notes, and vibrant acidity. Drink with lighter foods or as an aperitif.
 
-**Medium Age (3-7 years)**: The wines develop complexity—dried fruits, mushroom, truffle—while retaining freshness. This is often the sweet spot for drinking.
+**Medium Age (3-7 years)**: The wines develop complexity (dried fruits, mushroom, truffle) while retaining freshness. This is often the sweet spot for drinking.
 
 **Extended Age (7-15+ years)**: Well-made examples continue to evolve, gaining tertiary complexity while the fruit shifts from fresh to dried. The wines become more Burgundian in character, with pronounced savory notes.
 
@@ -287,7 +287,7 @@ The fundamental question: will Écueil remain a source of elegant, terroir-expre
 
 For now, Écueil offers something increasingly rare in Champagne: distinctive terroir expression at reasonable prices. The wines won't satisfy those seeking power or prestige, but for drinkers who value finesse, complexity, and the particular pleasure of place made liquid, Écueil deserves attention.
 
-This is Pinot Noir as poetry rather than prose—delicate, nuanced, rewarding contemplation. In an era of homogenization and marketing excess, such wines feel quietly radical.
+This is Pinot Noir as poetry rather than prose, delicate, nuanced, rewarding contemplation. In an era of homogenization and marketing excess, such wines feel quietly radical.
 
 ---
 

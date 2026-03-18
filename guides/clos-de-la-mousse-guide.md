@@ -6,7 +6,7 @@ Clos de la Mousse stands as one of Beaune's most distinctive Premier Cru vineyar
 
 The vineyard's position within Beaune places it among the commune's most celebrated Premier Crus, situated on the eastern-facing slopes that capture the morning sun while benefiting from the protective influence of the Côte d'Or escarpment. Clos de la Mousse lies in the northern section of Beaune's Premier Cru vineyards, positioned strategically between other notable climats that contribute to the commune's reputation for producing wines of exceptional finesse and longevity.
 
-Within the broader context of the Côte de Beaune, Clos de la Mousse represents the classic expression of Beaune terroir—elegant, refined, and complex wines that embody the sophisticated balance characteristic of this prestigious commune. The vineyard's location benefits from the geological continuity that runs throughout the Côte de Beaune, while maintaining its own distinct terroir characteristics that set it apart from neighboring sites.
+Within the broader context of the Côte de Beaune, Clos de la Mousse represents the classic expression of Beaune terroir, elegant, refined, and complex wines that embody the sophisticated balance characteristic of this prestigious commune. The vineyard's location benefits from the geological continuity that runs throughout the Côte de Beaune, while maintaining its own distinct terroir characteristics that set it apart from neighboring sites.
 
 ## Size
 

@@ -20,13 +20,13 @@ The modern era of Kremstal wine began in earnest during the 1980s and 1990s, whe
 
 ### Climate and General Terroir Characteristics
 
-Kremstal occupies a unique climatic position, straddling the boundary between the Pannonian continental climate from the east and the cooler, Atlantic-influenced conditions from the west. This dual influence creates exceptional conditions for viticulture, combining warm, sunny days with cool nights—a diurnal temperature variation that preserves acidity while allowing full phenolic ripeness.
+Kremstal occupies a unique climatic position, straddling the boundary between the Pannonian continental climate from the east and the cooler, Atlantic-influenced conditions from the west. This dual influence creates exceptional conditions for viticulture, combining warm, sunny days with cool nights: a diurnal temperature variation that preserves acidity while allowing full phenolic ripeness.
 
 The Danube River exerts considerable moderating influence, regulating temperatures and creating air circulation that reduces frost risk and helps prevent fungal diseases. The river also reflects sunlight back onto the vineyard slopes, contributing additional warmth and light exposure during the growing season.
 
 Annual precipitation averages around 450-650mm, with the eastern sections receiving slightly less moisture due to Pannonian influence. This moderate water availability, combined with well-draining soils, encourages vines to develop deep root systems and produce concentrated, mineral-driven wines.
 
-The region experiences approximately 1,800-2,000 hours of sunshine annually, providing ample energy for grape maturation. Autumn typically remains dry and mild, allowing extended hang time for grapes—particularly important for Riesling, which benefits from the slow, gradual ripening that preserves aromatic complexity and natural acidity.
+The region experiences approximately 1,800-2,000 hours of sunshine annually, providing ample energy for grape maturation. Autumn typically remains dry and mild, allowing extended hang time for grapes, particularly important for Riesling, which benefits from the slow, gradual ripening that preserves aromatic complexity and natural acidity.
 
 ## Grape Varieties
 
@@ -38,7 +38,7 @@ The region's Grüner Veltliner achieves remarkable complexity through extended l
 
 **Riesling** represents approximately 11% of plantings but holds immense qualitative importance, particularly in Kremstal's cooler, elevated sites with primary rock soils. Kremstal Riesling exhibits classic characteristics: pristine fruit purity, crystalline mineral expression, and electrifying acidity. The wines typically show citrus, stone fruit, and floral aromatics in youth, developing petrol, honey, and complex mineral notes with bottle age.
 
-Unlike the Wachau's often powerful, full-bodied Riesling styles, Kremstal Riesling frequently displays a more refined, elegant profile—though no less concentrated or age-worthy. The best examples balance tension and richness, combining steely minerality with ripe fruit expression.
+Unlike the Wachau's often powerful, full-bodied Riesling styles, Kremstal Riesling frequently displays a more refined, elegant profile, though no less concentrated or age-worthy. The best examples balance tension and richness, combining steely minerality with ripe fruit expression.
 
 **Other Varieties:** White wines dominate Kremstal's production, with Chardonnay, Weissburgunder (Pinot Blanc), and Gelber Muskateller planted in smaller quantities. Red varieties occupy roughly 17% of vineyard area, with Zweigelt being the primary red grape, followed by Blauer Portugieser and occasional Pinot Noir plantings. However, white wine production remains the region's primary focus and claim to international recognition.
 
@@ -70,7 +70,7 @@ Sites like Pfaffenberg, Gebling, and Steiner Kögl are characterized by these pr
 
 Loess-based wines showcase Grüner Veltliner's peppery, citrus character brilliantly, creating the archetypal Austrian white wine profile. Sites like Weinzierlberg, Goldberg, and portions of Kremser Sandgrube feature significant loess components.
 
-**Transitional Soils:** Many vineyards feature complex mixtures of primary rock, loess, and gravel, creating wines that combine the best attributes of both major soil types—the structure and minerality of primary rock with the aromatic generosity and texture of loess-based wines.
+**Transitional Soils:** Many vineyards feature complex mixtures of primary rock, loess, and gravel, creating wines that combine the best attributes of both major soil types: the structure and minerality of primary rock with the aromatic generosity and texture of loess-based wines.
 
 ### Topography and Vineyard Sites
 
@@ -82,11 +82,11 @@ The Danube creates a dramatic landscape of rocky cliffs and terraces, particular
 
 ### How Terroir Influences Wine Styles
 
-The interplay between soil type, exposition, and mesoclimate creates Kremstal's remarkable stylistic diversity. Primary rock sites produce wines of vertical structure, mineral precision, and extended aging potential—wines that may seem austere in youth but develop extraordinary complexity with time. These wines typically show restrained fruit, prominent acidity, and distinctive saline or smoky mineral notes.
+The interplay between soil type, exposition, and mesoclimate creates Kremstal's remarkable stylistic diversity. Primary rock sites produce wines of vertical structure, mineral precision, and extended aging potential, wines that may seem austere in youth but develop extraordinary complexity with time. These wines typically show restrained fruit, prominent acidity, and distinctive saline or smoky mineral notes.
 
 Loess-based wines display more immediate accessibility, with generous fruit expression, rounder mid-palate texture, and pronounced varietal character. While potentially less age-worthy than primary rock wines, the best loess-based examples develop beautifully over 8-12 years, gaining honeyed, nutty complexity.
 
-Exposition profoundly affects ripening, with south-facing sites producing riper, fuller-bodied wines, while east or west-facing slopes yield more delicate, aromatic expressions. Elevation inversely correlates with ripeness—higher sites produce more acidic, tension-driven wines, while lower, warmer sites create more powerful, alcohol-rich expressions.
+Exposition profoundly affects ripening, with south-facing sites producing riper, fuller-bodied wines, while east or west-facing slopes yield more delicate, aromatic expressions. Elevation inversely correlates with ripeness, higher sites produce more acidic, tension-driven wines, while lower, warmer sites create more powerful, alcohol-rich expressions.
 
 ## Classification System
 
@@ -112,7 +112,7 @@ The classification system aims to establish Kremstal's finest sites alongside th
 
 ### Quality Levels and Distinctions
 
-Within the DAC framework, producers may also produce wines outside the regulated style parameters, which are labeled as "Qualitätswein" or simply by grape variety without the DAC designation. These wines might include red varieties, alternative white varieties, or stylistic interpretations that don't conform to DAC requirements—including sweet wines, experimental fermentations, or non-traditional blends.
+Within the DAC framework, producers may also produce wines outside the regulated style parameters, which are labeled as "Qualitätswein" or simply by grape variety without the DAC designation. These wines might include red varieties, alternative white varieties, or stylistic interpretations that don't conform to DAC requirements, including sweet wines, experimental fermentations, or non-traditional blends.
 
 Top producers often maintain portfolios spanning multiple quality levels, from approachable entry-level wines to profound single-vineyard expressions, allowing consumers to explore the region's diversity at various price points and stylistic expressions.
 
@@ -132,7 +132,7 @@ Kremstal officially recognizes **29 classified vineyards** (Rieden), each with d
 
 ### Premier Sites in the Loess Zone
 
-**Weinzierlberg:** Perhaps Kremstal's most famous loess site, Weinzierlberg produces quintessential Grüner Veltliner—peppery, citrus-driven, with generous texture and immediate appeal. The deep loess soils create wines of remarkable fruit purity and accessibility while maintaining sufficient structure for medium-term aging.
+**Weinzierlberg:** Perhaps Kremstal's most famous loess site, Weinzierlberg produces quintessential Grüner Veltliner, peppery, citrus-driven, with generous texture and immediate appeal. The deep loess soils create wines of remarkable fruit purity and accessibility while maintaining sufficient structure for medium-term aging.
 
 **Goldberg:** Living up to its name ("Gold Mountain"), this site produces rich, generous wines with distinctive yellow fruit character. The loess-based soils create approachable wines with broad appeal, though the best examples age gracefully for a decade or more.
 
@@ -170,7 +170,7 @@ The diversity among these 29 classified vineyards ensures that Kremstal offers r
 
 **Riesling Profiles:** Kremstal Riesling typically shows pristine citrus and stone fruit aromatics with pronounced mineral undertones. Youth brings floral notes and vibrant acidity; extended aging develops petrol, honey, and complex tertiary characteristics. The best examples balance power with elegance, achieving impressive concentration without heaviness.
 
-**Textural Characteristics:** Extended lees aging creates distinctive texture—wines feel simultaneously energetic and creamy, with fine-grained structure that carries flavors across the palate. Phenolic ripeness contributes subtle grip and length without bitterness.
+**Textural Characteristics:** Extended lees aging creates distinctive texture, wines feel simultaneously energetic and creamy, with fine-grained structure that carries flavors across the palate. Phenolic ripeness contributes subtle grip and length without bitterness.
 
 ### Aging Potential and Drinking Windows
 
@@ -225,7 +225,7 @@ Reserve wines benefit from larger-bowled Burgundy-style stems that accommodate t
 
 **Warm, Powerful Vintages** (such as 2015, 2017, 2018, 2019): Generate riper fruit expression, fuller body, and higher alcohol. These wines offer more immediate accessibility but still maintain sufficient acidity for aging. The best examples balance power with precision, achieving impressive concentration without heaviness.
 
-**Balanced Vintages** (such as 2011, 2014, 2020): Combine moderate ripeness with good acidity, producing wines that offer both near-term appeal and aging potential. These vintages often represent ideal expressions of regional character—neither austere nor overripe.
+**Balanced Vintages** (such as 2011, 2014, 2020): Combine moderate ripeness with good acidity, producing wines that offer both near-term appeal and aging potential. These vintages often represent ideal expressions of regional character, neither austere nor overripe.
 
 When selecting wines, consider vintage character alongside your intended use: warm vintages for near-term consumption and rich food pairings; cool vintages for extended cellaring and delicate preparations; balanced vintages for versatility.
 
@@ -235,4 +235,4 @@ Kremstal stands as one of Austria's most compelling wine regions, offering excep
 
 The region's commitment to quality, formalized through the DAC system and classification of 29 premier vineyards, has elevated Kremstal's international reputation significantly. Leading producers consistently demonstrate that Kremstal's finest sites can produce white wines rivaling the world's most prestigious appellations in complexity, aging potential, and terroir expression.
 
-For wine professionals and enthusiasts, Kremstal offers an ideal entry point for understanding Austrian viticulture's sophistication while providing sufficient depth to reward serious study. The region's wines balance accessibility with profundity—approachable enough for casual enjoyment yet complex enough to fascinate connoisseurs. As global appreciation for precise, mineral-driven white wines continues growing, Kremstal's reputation seems certain to rise further, cementing its position among the world's elite white wine regions.
+For wine professionals and enthusiasts, Kremstal offers an ideal entry point for understanding Austrian viticulture's sophistication while providing sufficient depth to reward serious study. The region's wines balance accessibility with profundity, approachable enough for casual enjoyment yet complex enough to fascinate connoisseurs. As global appreciation for precise, mineral-driven white wines continues growing, Kremstal's reputation seems certain to rise further, cementing its position among the world's elite white wine regions.

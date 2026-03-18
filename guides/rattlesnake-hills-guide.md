@@ -4,7 +4,7 @@
 
 The Rattlesnake Hills American Viticultural Area represents one of Washington State's most distinctive and promising wine regions. Established as an AVA on March 20, 2006, this relatively young appellation has quickly gained recognition for producing exceptional wines that capture the unique characteristics of its dramatic topography and distinctive terroir.
 
-Located within the larger Yakima Valley AVA—itself nested within the expansive Columbia Valley AVA—Rattlesnake Hills occupies approximately 68,500 acres in south-central Washington State. The AVA takes its name from the prominent Rattlesnake Hills ridge, which forms the northern boundary of the Yakima Valley and creates a dramatic backdrop for the region's vineyards.
+Located within the larger Yakima Valley AVA, itself nested within the expansive Columbia Valley AVA, Rattlesnake Hills occupies approximately 68,500 acres in south-central Washington State. The AVA takes its name from the prominent Rattlesnake Hills ridge, which forms the northern boundary of the Yakima Valley and creates a dramatic backdrop for the region's vineyards.
 
 Geographically, Rattlesnake Hills sits roughly 140 miles southeast of Seattle and approximately 30 miles southwest of Yakima, Washington's agricultural hub. The region extends along the southern slopes of Rattlesnake Ridge, stretching from the Yakima River in the valley floor to the ridgeline above. The towns of Zillah, Granger, and Outlook serve as the primary communities within the AVA, while the Tri-Cities area (Richland, Kennewick, and Pasco) lies about 50 miles to the southeast.
 
@@ -12,13 +12,13 @@ The AVA's boundaries were carefully defined based on distinguishing features inc
 
 ## Climate & Geography
 
-Rattlesnake Hills exemplifies the desert continental climate that characterizes much of eastern Washington's wine country, yet with several unique moderating factors. Situated in the rain shadow of the Cascade Mountains to the west, the region receives a mere 6-8 inches of annual precipitation—far below the threshold needed for unirrigated viticulture. This arid environment necessitates irrigation but provides winemakers with precise control over vine water stress and grape development.
+Rattlesnake Hills exemplifies the desert continental climate that characterizes much of eastern Washington's wine country, yet with several unique moderating factors. Situated in the rain shadow of the Cascade Mountains to the west, the region receives a mere 6-8 inches of annual precipitation, far below the threshold needed for unirrigated viticulture. This arid environment necessitates irrigation but provides winemakers with precise control over vine water stress and grape development.
 
-The AVA's most significant climatic feature is its pronounced diurnal temperature shift—the difference between daytime and nighttime temperatures. During the growing season, daytime temperatures frequently reach the upper 80s to mid-90s Fahrenheit (30-35°C), while nighttime temperatures regularly drop into the 50s Fahrenheit (10-15°C). This dramatic swing, often exceeding 40-50°F (22-28°C), allows grapes to develop full physiological ripeness and flavor intensity while retaining crucial natural acidity, resulting in wines with exceptional balance and aging potential.
+The AVA's most significant climatic feature is its pronounced diurnal temperature shift: the difference between daytime and nighttime temperatures. During the growing season, daytime temperatures frequently reach the upper 80s to mid-90s Fahrenheit (30-35°C), while nighttime temperatures regularly drop into the 50s Fahrenheit (10-15°C). This dramatic swing, often exceeding 40-50°F (22-28°C), allows grapes to develop full physiological ripeness and flavor intensity while retaining crucial natural acidity, resulting in wines with exceptional balance and aging potential.
 
 The elevation profile of Rattlesnake Hills vineyards ranges from approximately 750 feet (230 meters) near the valley floor to over 3,000 feet (915 meters) at the highest vineyard sites along the ridge. This 2,000+ foot elevation gradient creates multiple mesoclimates within the AVA, allowing vintners to select optimal sites for different varieties based on heat accumulation needs.
 
-The topography consists primarily of south and southwest-facing slopes, which receive maximum sun exposure throughout the growing season. This aspect is particularly advantageous in a northern latitude (46°N), extending the effective growing season and ensuring adequate heat accumulation even for later-ripening varieties. The slope angles range from gentle undulations to more dramatic inclines, providing natural air drainage that reduces frost risk—a critical advantage during the vulnerable spring budbreak and fall harvest periods.
+The topography consists primarily of south and southwest-facing slopes, which receive maximum sun exposure throughout the growing season. This aspect is particularly advantageous in a northern latitude (46°N), extending the effective growing season and ensuring adequate heat accumulation even for later-ripening varieties. The slope angles range from gentle undulations to more dramatic inclines, providing natural air drainage that reduces frost risk: a critical advantage during the vulnerable spring budbreak and fall harvest periods.
 
 Wind plays an important role in Rattlesnake Hills viticulture. Prevailing westerly winds and afternoon thermal updrafts moving from the valley floor help moderate extreme temperatures, reduce disease pressure by keeping canopies dry, and contribute to thicker-skinned, more concentrated grapes. However, these same winds can present challenges during bloom and require careful vineyard management.
 
@@ -26,9 +26,9 @@ Wind plays an important role in Rattlesnake Hills viticulture. Prevailing wester
 
 The geological story of Rattlesnake Hills is one written by both ancient volcanic activity and catastrophic ice age flooding. The foundation of the region consists of Columbia River Basalt, formed 15-17 million years ago during massive volcanic eruptions that covered much of the Pacific Northwest in layers of flood basalt. This dark volcanic rock underlies the entire region and occasionally outcrops at the surface on higher elevation sites.
 
-The most dramatic influence on the region's soil composition came from the Missoula Floods—a series of cataclysmic events occurring between 15,000 and 13,000 years ago. As glacial ice dams repeatedly formed and broke in what is now Montana, massive walls of water surged westward across Washington State with forces that reshaped the landscape. These floods deposited varied sediments throughout the Columbia Basin, including the Yakima Valley.
+The most dramatic influence on the region's soil composition came from the Missoula Floods: a series of cataclysmic events occurring between 15,000 and 13,000 years ago. As glacial ice dams repeatedly formed and broke in what is now Montana, massive walls of water surged westward across Washington State with forces that reshaped the landscape. These floods deposited varied sediments throughout the Columbia Basin, including the Yakima Valley.
 
-In Rattlesnake Hills, the primary soil types reflect this complex geological history. The dominant soil structure consists of wind-blown loess (silty sediment) of varying depths overlying gravel beds, cobblestones, and fractured basalt. Loess depths can range from a few inches on exposed upper slopes to several feet in mid-slope positions. These fine-grained, silt-dominated soils offer excellent drainage while maintaining some moisture-holding capacity—a beneficial combination for viticulture.
+In Rattlesnake Hills, the primary soil types reflect this complex geological history. The dominant soil structure consists of wind-blown loess (silty sediment) of varying depths overlying gravel beds, cobblestones, and fractured basalt. Loess depths can range from a few inches on exposed upper slopes to several feet in mid-slope positions. These fine-grained, silt-dominated soils offer excellent drainage while maintaining some moisture-holding capacity: a beneficial combination for viticulture.
 
 At higher elevations, particularly above 1,500 feet, soils become increasingly shallow with greater rock content and more direct basalt influence. These well-drained, low-vigor sites produce smaller berries with high skin-to-juice ratios, yielding intensely concentrated wines. The rocky, fractured basalt subsoil also provides natural drainage and forces roots to dive deep in search of water and nutrients, creating physiological stress that enhances wine quality.
 
@@ -36,7 +36,7 @@ Mid-slope positions typically feature the deepest loess deposits, often 3-6 feet
 
 Lower elevation sites approaching the valley floor show increased alluvial influence, with heavier soils and sometimes poorer drainage. While still viable for viticulture with proper management, these sites generally produce higher yields and less concentrated wines than their upslope counterparts.
 
-The soil pH throughout Rattlesnake Hills tends toward alkaline (7.5-8.5), typical of arid climates, and fertility levels are naturally low to moderate. These conditions promote moderate vine vigor and encourage focused fruit production rather than excessive vegetative growth—ideal for premium wine grape cultivation.
+The soil pH throughout Rattlesnake Hills tends toward alkaline (7.5-8.5), typical of arid climates, and fertility levels are naturally low to moderate. These conditions promote moderate vine vigor and encourage focused fruit production rather than excessive vegetative growth, ideal for premium wine grape cultivation.
 
 ## Viticulture
 
@@ -56,7 +56,7 @@ The growing season in Rattlesnake Hills accumulates approximately 2,500-3,000 gr
 
 Irrigation is universally necessary, with most vineyards utilizing drip systems that allow precise water management. Water rights come primarily from the Yakima River system, though availability can vary seasonally and year-to-year. Sustainable water management has become increasingly important as the region develops.
 
-Viticultural challenges include spring frost management (though slope aspect and air drainage help), occasional winter freeze events (temperatures can drop below 0°F/-18°C in severe winters), wind during bloom that can reduce fruit set, and bird pressure during harvest. The arid climate minimizes fungal disease pressure, reducing the need for spraying—a significant advantage for organic and sustainable viticulture.
+Viticultural challenges include spring frost management (though slope aspect and air drainage help), occasional winter freeze events (temperatures can drop below 0°F/-18°C in severe winters), wind during bloom that can reduce fruit set, and bird pressure during harvest. The arid climate minimizes fungal disease pressure, reducing the need for spraying: a significant advantage for organic and sustainable viticulture.
 
 ## Wine Styles
 
@@ -68,7 +68,7 @@ Rattlesnake Hills wines have developed a reputation for balance, elegance, and d
 
 **Merlot** shows perhaps the most distinctive regional character among the reds. Rattlesnake Hills Merlot typically displays red fruit (cherry, raspberry, plum) rather than the jammy, overripe black fruit common in hotter regions. The wines show herbal complexity (sage, thyme, dried herbs), supple tannins, and medium-to-full body with elegance rather than power. These characteristics make them approachable young while still developing complexity with age.
 
-**Cabernet Sauvignon** from optimal sites produces structured, age-worthy wines with classic varietal character—cassis, black cherry, cedar, tobacco—but with slightly higher-toned fruit and more evident acidity than many Washington expressions. The wines typically show firm but refined tannins and benefit from 3-5 years of bottle age.
+**Cabernet Sauvignon** from optimal sites produces structured, age-worthy wines with classic varietal character (cassis, black cherry, cedar, tobacco) but with slightly higher-toned fruit and more evident acidity than many Washington expressions. The wines typically show firm but refined tannins and benefit from 3-5 years of bottle age.
 
 **Syrah** has shown exciting potential, producing wines that bridge Northern Rhône savory character with New World fruit ripeness. Expect black pepper, cured meat, olive, and dark berry flavors with firm structure and distinctive minerality.
 

@@ -4,7 +4,7 @@
 
 ### Geographic Location
 
-The Kamptal wine region is situated in Lower Austria (Niederösterreich), approximately 70 kilometers northwest of Vienna, deriving its name from the Kamp River that flows through the area before joining the Danube. The region encompasses roughly 3,900 hectares of vineyards, making it one of Austria's medium-sized wine regions, yet its reputation far exceeds its size. The primary wine-producing towns include Langenlois—Austria's largest wine-producing community—along with Zöbing, Gobelsburg, Strass, Schönberg, and Kammern.
+The Kamptal wine region is situated in Lower Austria (Niederösterreich), approximately 70 kilometers northwest of Vienna, deriving its name from the Kamp River that flows through the area before joining the Danube. The region encompasses roughly 3,900 hectares of vineyards, making it one of Austria's medium-sized wine regions, yet its reputation far exceeds its size. The primary wine-producing towns include Langenlois (Austria's largest wine-producing community) along with Zöbing, Gobelsburg, Strass, Schönberg, and Kammern.
 
 The region's vineyards stretch across a diverse landscape where the Kamp River has carved dramatic valleys through ancient rock formations, creating amphitheater-like slopes ideal for viticulture. This geographic positioning places Kamptal at a crucial transition zone where the cooler, Alpine-influenced climate from the west meets the warmer Pannonian climate radiating from the east, creating a mesoclimate of exceptional complexity.
 
@@ -22,7 +22,7 @@ Kamptal enjoys a continental climate moderated by both cooling influences from t
 
 Annual precipitation averages approximately 450-550mm, with the Kamp River valley creating localized conditions that can vary dramatically within short distances. The region benefits from a relatively long growing season, with harvest typically occurring from late September through November, depending on variety and site.
 
-Diurnal temperature variation—often exceeding 20°C during the ripening period—is perhaps Kamptal's greatest climatic asset. This day-night temperature swing allows grapes to maintain vibrant acidity while developing physiological ripeness and complex flavor compounds, resulting in wines of remarkable tension and aging potential.
+Diurnal temperature variation (often exceeding 20°C during the ripening period) is perhaps Kamptal's greatest climatic asset. This day-night temperature swing allows grapes to maintain vibrant acidity while developing physiological ripeness and complex flavor compounds, resulting in wines of remarkable tension and aging potential.
 
 ## Grape Varieties
 
@@ -58,11 +58,11 @@ While Grüner Veltliner and Riesling dominate quality wine production, Kamptal c
 
 Kamptal's geological complexity distinguishes it from other Austrian wine regions. The area sits at a geological fault line where ancient crystalline bedrock meets younger sedimentary deposits, creating extraordinary soil diversity within a compact geographical area.
 
-**Primary Rock (Urgestein):** The most celebrated soils derive from weathered crystalline bedrock—primarily gneiss, granite, and amphibolite—dating to the Moldanubian zone of the Bohemian Massif, over 300 million years old. These soils appear predominantly on steeper slopes, particularly around Heiligenstein, Gaisberg, and Steinhaus. Primary rock soils are shallow, well-drained, and poor in nutrients, forcing vines to struggle and roots to penetrate deep into fractured bedrock seeking water and minerals.
+**Primary Rock (Urgestein):** The most celebrated soils derive from weathered crystalline bedrock (primarily gneiss, granite, and amphibolite) dating to the Moldanubian zone of the Bohemian Massif, over 300 million years old. These soils appear predominantly on steeper slopes, particularly around Heiligenstein, Gaisberg, and Steinhaus. Primary rock soils are shallow, well-drained, and poor in nutrients, forcing vines to struggle and roots to penetrate deep into fractured bedrock seeking water and minerals.
 
 Wines from these soils display pronounced minerality, notable acidity, lean structure, and exceptional aging potential. Young wines can seem austere but develop remarkable complexity with bottle age, revealing layers of mineral, herb, and subtle fruit nuances.
 
-**Loess:** Deposited during the last ice age by wind carrying fine particles from exposed riverbeds and glacial plains, loess soils dominate gentler slopes and valley sites. These yellow-brown soils are composed of fine silt particles, creating a unique soil structure that retains moisture while remaining well-drained. Loess can accumulate to significant depths—sometimes exceeding 20 meters—allowing roots extensive exploration.
+**Loess:** Deposited during the last ice age by wind carrying fine particles from exposed riverbeds and glacial plains, loess soils dominate gentler slopes and valley sites. These yellow-brown soils are composed of fine silt particles, creating a unique soil structure that retains moisture while remaining well-drained. Loess can accumulate to significant depths (sometimes exceeding 20 meters) allowing roots extensive exploration.
 
 Wines from loess soils tend toward fuller body, richer fruit expression, and more immediate accessibility. They often display generous stone fruit, exotic spice, and creamy texture while maintaining freshness. These wines typically mature earlier than their primary rock counterparts but can also age gracefully for extended periods.
 
@@ -94,7 +94,7 @@ Established in 2008, the Kamptal DAC (Districtus Austriae Controllatus) system c
 
 Parallel to the DAC system, Kamptal has embraced Austria's broader Erste Lage (First Growth) classification, identifying its most exceptional vineyard sites. These vineyards represent the pinnacle of terroir expression, typically located on optimal slopes with distinctive soil profiles and proven track records for producing extraordinary wines.
 
-The Österreichische Traditionsweingüter (ÖTW)—an association of premier Austrian estates—has classified 19 Erste Lage vineyards in Kamptal. Wines from these sites must meet stringent requirements including hand harvesting, limited yields (typically 4,500-5,000 liters per hectare), natural fermentation preferences, and extended aging before release. These wines are identified by the "Erste Lage" designation on the label along with the specific vineyard name.
+The Österreichische Traditionsweingüter (ÖTW), an association of premier Austrian estates, has classified 19 Erste Lage vineyards in Kamptal. Wines from these sites must meet stringent requirements including hand harvesting, limited yields (typically 4,500-5,000 liters per hectare), natural fermentation preferences, and extended aging before release. These wines are identified by the "Erste Lage" designation on the label along with the specific vineyard name.
 
 ## Notable Vineyards & Sites
 
@@ -112,7 +112,7 @@ The site's steep south-facing slopes capture maximum sunlight, while its elevati
 
 Located near Langenlois, Gaisberg is a steep, terraced vineyard characterized by weathered gneiss and granite soils. This 20-hectare site produces both Grüner Veltliner and Riesling of exceptional minerality and structure. Gaisberg wines typically display marked herbal character, yellow citrus fruit, and a distinctive flinty quality.
 
-The Grüner Veltliners from Gaisberg are particularly noteworthy, combining power with precision—full-bodied yet taut, with pronounced white pepper, lentil, and mineral notes. These wines benefit from 5-10 years of aging to integrate their considerable structure with developing savory complexity.
+The Grüner Veltliners from Gaisberg are particularly noteworthy, combining power with precision, full-bodied yet taut, with pronounced white pepper, lentil, and mineral notes. These wines benefit from 5-10 years of aging to integrate their considerable structure with developing savory complexity.
 
 ### Lamm
 
@@ -204,10 +204,10 @@ Kamptal's continental climate creates notable vintage variation:
 
 **Cool vintages** (2010, 2013, 2014) yield wines of pronounced acidity, lean structure, and pronounced minerality. These vintages typically require extended aging to reveal their quality and often prove most age-worthy.
 
-**Balanced vintages** (2011, 2012, 2016, 2020) combine ripeness with freshness, producing wines that offer both immediate appeal and aging potential—often considered ideal expressions of Kamptal's terroir.
+**Balanced vintages** (2011, 2012, 2016, 2020) combine ripeness with freshness, producing wines that offer both immediate appeal and aging potential, often considered ideal expressions of Kamptal's terroir.
 
 When selecting Kamptal wines, consider the occasion, food pairing, and personal preferences regarding weight and maturity. Entry-level wines offer excellent introductions to regional character, while single-vineyard and Reserve bottlings reward patience and provide profound expressions of Austria's most compelling terroir-driven wines.
 
 ---
 
-Kamptal stands as one of Austria's—and indeed the world's—finest wine regions, where ancient geology, favorable climate, dedicated producers, and noble grape varieties converge to create wines of exceptional character and longevity. Whether experiencing a fresh, peppery Grüner Veltliner or a profound, mineral-laden Riesling from Heiligenstein, Kamptal wines offer compelling evidence that Austrian viticulture ranks among the global elite.
+Kamptal stands as one of Austria's (and indeed the world's) finest wine regions, where ancient geology, favorable climate, dedicated producers, and noble grape varieties converge to create wines of exceptional character and longevity. Whether experiencing a fresh, peppery Grüner Veltliner or a profound, mineral-laden Riesling from Heiligenstein, Kamptal wines offer compelling evidence that Austrian viticulture ranks among the global elite.

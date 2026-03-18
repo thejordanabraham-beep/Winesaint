@@ -18,7 +18,7 @@ The modern foundation of Savigny's wine reputation emerged during the medieval p
 
 By the 14th century, Savigny wines had gained recognition at the Burgundian court, with Duke Philip the Bold specifically mentioning the commune's wines in his 1395 decree banning Gamay cultivation in favor of Pinot Noir. This early quality recognition established Savigny as a serious wine-producing region rather than merely a supplier of bulk wine to nearby Beaune.
 
-The appellation system formalized Savigny-lès-Beaune's status in 1936 with AOC recognition. The commune received approval for 22 Premier Cru vineyards, reflecting the complexity and quality potential recognized by INAO authorities. This extensive Premier Cru classification—among the highest numbers in the Côte de Beaune—validated centuries of monastic and vigneronne expertise in identifying superior terroirs.
+The appellation system formalized Savigny-lès-Beaune's status in 1936 with AOC recognition. The commune received approval for 22 Premier Cru vineyards, reflecting the complexity and quality potential recognized by INAO authorities. This extensive Premier Cru classification (among the highest numbers in the Côte de Beaune) validated centuries of monastic and vigneronne expertise in identifying superior terroirs.
 
 Throughout the 20th century, Savigny-lès-Beaune maintained its reputation as a source of elegant, food-friendly wines that offered exceptional value compared to more famous neighboring appellations. The post-World War II period saw significant modernization in winemaking techniques while preserving traditional terroir expression.
 
@@ -42,7 +42,7 @@ Elevation differences create temperature gradients that extend the harvest perio
 
 Savigny-lès-Beaune operates under Burgundy's three-tier classification system, though the appellation contains no Grand Cru vineyards. This absence of Grand Cru status has historically positioned Savigny wines as exceptional values, offering Premier Cru quality at significantly lower prices than more prestigious communes.
 
-The appellation encompasses 22 Premier Cru vineyards covering approximately 144 hectares, representing 38% of total vineyard area. This high proportion of Premier Cru land—among the highest percentages in the Côte de Beaune—reflects the exceptional terroir quality recognized by INAO authorities.
+The appellation encompasses 22 Premier Cru vineyards covering approximately 144 hectares, representing 38% of total vineyard area. This high proportion of Premier Cru land (among the highest percentages in the Côte de Beaune) reflects the exceptional terroir quality recognized by INAO authorities.
 
 Village-level Savigny-lès-Beaune covers 239 hectares and represents the foundation of the appellation's reputation. These wines must meet strict production standards including maximum yields of 40 hectoliters per hectare for red wine and 45 hectoliters per hectare for white wine, though quality-conscious producers typically harvest significantly below these limits.
 

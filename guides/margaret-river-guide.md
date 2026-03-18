@@ -2,7 +2,7 @@
 
 Most wine regions emerge through centuries of trial and error. Margaret River was designed on paper first.
 
-In 1965, agronomist Dr. John Gladstones published a climate study that would reshape Australian wine. His conclusion? The coastal region around Busselton and Margaret River—then cattle country and surf breaks—possessed an ideal climate for premium viticulture. Within a decade, doctors, dentists, and dreamers planted the first commercial vineyards. Today, barely fifty years later, Margaret River produces some of Australia's most refined Cabernet Sauvignon and Chardonnay, accounting for just 3% of the nation's grape crush but commanding disproportionate critical acclaim.
+In 1965, agronomist Dr. John Gladstones published a climate study that would reshape Australian wine. His conclusion? The coastal region around Busselton and Margaret River (then cattle country and surf breaks) possessed an ideal climate for premium viticulture. Within a decade, doctors, dentists, and dreamers planted the first commercial vineyards. Today, barely fifty years later, Margaret River produces some of Australia's most refined Cabernet Sauvignon and Chardonnay, accounting for just 3% of the nation's grape crush but commanding disproportionate critical acclaim.
 
 This is not a region that evolved organically. It was engineered.
 
@@ -10,17 +10,17 @@ This is not a region that evolved organically. It was engineered.
 
 ### The Leeuwin Block Foundation
 
-Margaret River sits on the southwestern edge of the Yilgarn Craton, one of Earth's oldest geological formations. The basement rock—predominantly Precambrian granite and gneiss dating back 2.6 billion years—forms part of what geologists call the Leeuwin Block. This ancient shield provides the geological skeleton, but the vineyard soils tell a much younger story.
+Margaret River sits on the southwestern edge of the Yilgarn Craton, one of Earth's oldest geological formations. The basement rock, predominantly Precambrian granite and gneiss dating back 2.6 billion years, forms part of what geologists call the Leeuwin Block. This ancient shield provides the geological skeleton, but the vineyard soils tell a much younger story.
 
-Unlike the sedimentary complexity of Europe's classic regions, Margaret River's topsoils developed relatively recently—within the last 2 million years during the Pleistocene epoch. The dominant soil types reflect this youth: they're weathered, nutrient-poor, and free-draining. Precisely what quality viticulture demands.
+Unlike the sedimentary complexity of Europe's classic regions, Margaret River's topsoils developed relatively recently, within the last 2 million years during the Pleistocene epoch. The dominant soil types reflect this youth: they're weathered, nutrient-poor, and free-draining. Precisely what quality viticulture demands.
 
 ### The Soil Mosaic
 
 The region's 100-kilometer north-south stretch contains remarkable pedological diversity compressed into a narrow coastal strip rarely exceeding 27 kilometers in width. Four principal soil groups dominate:
 
-**Lateritic gravels** blanket the higher elevations and ridge tops, particularly in the Wilyabrup and Wallcliffe subregions. These iron-rich, rust-colored soils formed through intense weathering of the granite basement over millions of years. The laterite hardpan—locally called "coffee rock"—often sits 30-60 centimeters below the surface, limiting vine root depth but forcing vines to struggle. Cabernet Sauvignon thrives here, developing concentrated fruit and firm tannin structure.
+**Lateritic gravels** blanket the higher elevations and ridge tops, particularly in the Wilyabrup and Wallcliffe subregions. These iron-rich, rust-colored soils formed through intense weathering of the granite basement over millions of years. The laterite hardpan (locally called "coffee rock") often sits 30-60 centimeters below the surface, limiting vine root depth but forcing vines to struggle. Cabernet Sauvignon thrives here, developing concentrated fruit and firm tannin structure.
 
-**Gravelly loams** occupy the mid-slopes and represent the region's most prized vineyard sites. These well-drained soils combine the structure of gravel with sufficient clay content (15-25%) to retain moisture during the dry growing season. The Wilyabrup subregion—home to Moss Wood, Cullen, and Vasse Felix—sits predominantly on these gravelly loams over weathered granite. Depth varies from 50 centimeters to over 2 meters.
+**Gravelly loams** occupy the mid-slopes and represent the region's most prized vineyard sites. These well-drained soils combine the structure of gravel with sufficient clay content (15-25%) to retain moisture during the dry growing season. The Wilyabrup subregion (home to Moss Wood, Cullen, and Vasse Felix) sits predominantly on these gravelly loams over weathered granite. Depth varies from 50 centimeters to over 2 meters.
 
 **Sandy loams** dominate the lower-lying areas and western coastal strip near Yallingup. These lighter soils warm quickly in spring, advancing phenological development by 7-10 days compared to heavier soils. They're less water-retentive, requiring careful irrigation management. Chardonnay and Sauvignon Blanc perform well on these sites, producing wines with pronounced aromatics and lower alcohol levels.
 
@@ -28,13 +28,13 @@ The region's 100-kilometer north-south stretch contains remarkable pedological d
 
 ### The Limestone Question
 
-Unlike many of Australia's wine regions—and in stark contrast to Coonawarra's famous terra rossa over limestone—Margaret River contains minimal calcareous material in its vineyard soils. The Tamala Limestone formation runs along the coastal ridge, but it rarely intersects with planted vineyards. Soil pH typically ranges from 5.5 to 6.5—moderately acidic rather than alkaline.
+Unlike many of Australia's wine regions, and in stark contrast to Coonawarra's famous terra rossa over limestone. Margaret River contains minimal calcareous material in its vineyard soils. The Tamala Limestone formation runs along the coastal ridge, but it rarely intersects with planted vineyards. Soil pH typically ranges from 5.5 to 6.5, moderately acidic rather than alkaline.
 
 This absence of limestone fundamentally shapes Margaret River's wine style. The granitic parent material contributes different mineral elements than limestone: higher silica content, traces of iron and aluminum oxides, and lower calcium levels. Whether this geological distinction translates to the "ferrous minerality" some tasters detect in Margaret River reds remains debated, but the correlation is suggestive.
 
 ### Comparative Context
 
-To understand Margaret River's geological position, consider Bordeaux. The Left Bank's Médoc sits on Günz glaciation gravels deposited 600,000 years ago over limestone bedrock. Margaret River's gravels are younger, the parent rock is granite rather than limestone, and the clay fraction contains more iron. The result? Margaret River Cabernet typically shows darker fruit, firmer tannins, and less overt herbaceousness than Bordeaux—though the best examples achieve similar structural elegance.
+To understand Margaret River's geological position, consider Bordeaux. The Left Bank's Médoc sits on Günz glaciation gravels deposited 600,000 years ago over limestone bedrock. Margaret River's gravels are younger, the parent rock is granite rather than limestone, and the clay fraction contains more iron. The result? Margaret River Cabernet typically shows darker fruit, firmer tannins, and less overt herbaceousness than Bordeaux, though the best examples achieve similar structural elegance.
 
 Napa Valley offers another useful comparison. Both regions feature ancient basement rock (Napa's Franciscan Complex versus Margaret River's Yilgarn Craton), volcanic influences (present in Napa, absent in Margaret River), and alluvial valley floors. But Napa's warmer climate and more varied geology produce riper, more powerful wines. Margaret River occupies a middle ground: cooler than Napa, warmer than Bordeaux.
 
@@ -42,23 +42,23 @@ Napa Valley offers another useful comparison. Both regions feature ancient basem
 
 ### The Indian Ocean's Influence
 
-Margaret River enjoys Western Australia's most maritime climate—a crucial distinction in a continent known for extremes. The region occupies a narrow peninsula bounded by Geographe Bay to the north, the Indian Ocean to the west, and the Southern Ocean to the south. No vineyard sits more than 10 kilometers from the ocean.
+Margaret River enjoys Western Australia's most maritime climate: a crucial distinction in a continent known for extremes. The region occupies a narrow peninsula bounded by Geographe Bay to the north, the Indian Ocean to the west, and the Southern Ocean to the south. No vineyard sits more than 10 kilometers from the ocean.
 
-This maritime proximity delivers consistent moderation. The Leeuwin Current—a warm ocean current flowing southward along the Western Australian coast—elevates winter temperatures and suppresses summer heat. Mean January temperatures (the warmest month) range from 19.5°C to 21°C, significantly cooler than inland regions at similar latitudes. Diurnal temperature variation averages just 8-10°C during the growing season, compared to 15-20°C in continental climates.
+This maritime proximity delivers consistent moderation. The Leeuwin Current (a warm ocean current flowing southward along the Western Australian coast) elevates winter temperatures and suppresses summer heat. Mean January temperatures (the warmest month) range from 19.5°C to 21°C, significantly cooler than inland regions at similar latitudes. Diurnal temperature variation averages just 8-10°C during the growing season, compared to 15-20°C in continental climates.
 
 ### The Wind Factor
 
-The "Fremantle Doctor"—a reliable afternoon sea breeze—fundamentally shapes viticulture here. From October through March, this southwesterly wind arrives most afternoons between 1 PM and 3 PM, dropping temperatures by 3-5°C within an hour. Vineyards in the coastal Yallingup subregion experience stronger, earlier breezes than inland sites near the Margaret River township.
+The "Fremantle Doctor", a reliable afternoon sea breeze, fundamentally shapes viticulture here. From October through March, this southwesterly wind arrives most afternoons between 1 PM and 3 PM, dropping temperatures by 3-5°C within an hour. Vineyards in the coastal Yallingup subregion experience stronger, earlier breezes than inland sites near the Margaret River township.
 
-This daily cooling serves multiple functions: it slows sugar accumulation, preserves natural acidity, extends the growing season, and reduces disease pressure by drying morning dew. But the wind also presents challenges. Sustained speeds of 25-35 km/h can cause shoot damage, reduce photosynthetic efficiency, and complicate flowering in sensitive varieties like Grenache. Windbreaks—typically native eucalyptus or planted cypress—are essential infrastructure.
+This daily cooling serves multiple functions: it slows sugar accumulation, preserves natural acidity, extends the growing season, and reduces disease pressure by drying morning dew. But the wind also presents challenges. Sustained speeds of 25-35 km/h can cause shoot damage, reduce photosynthetic efficiency, and complicate flowering in sensitive varieties like Grenache. Windbreaks (typically native eucalyptus or planted cypress) are essential infrastructure.
 
 ### Rainfall Patterns and Drought Stress
 
-Margaret River receives 1,100-1,200mm of annual rainfall, but distribution is wildly uneven. Approximately 80% falls between May and September (the southern hemisphere's winter and spring). January through March—the critical ripening period—averages just 30-40mm combined.
+Margaret River receives 1,100-1,200mm of annual rainfall, but distribution is wildly uneven. Approximately 80% falls between May and September (the southern hemisphere's winter and spring). January through March (the critical ripening period) averages just 30-40mm combined.
 
 This creates a paradox: abundant winter rain followed by summer drought. Vines experience moderate to severe water stress from January onward unless irrigated. Most quality-focused producers use deficit irrigation strategies, applying just enough water to prevent vine shutdown while maintaining stress levels that concentrate flavors and limit yields.
 
-Climate data reveals the precision of Gladstones's original assessment. Margaret River's growing season heat summation averages 1,450-1,550 degree days (Celsius, base 10°C)—nearly identical to Bordeaux's Médoc (1,400-1,500) and significantly cooler than Barossa Valley (1,950-2,100) or McLaren Vale (1,800-1,900). The comparison isn't superficial: Margaret River genuinely occupies Bordeaux's climatic niche in the Southern Hemisphere.
+Climate data reveals the precision of Gladstones's original assessment. Margaret River's growing season heat summation averages 1,450-1,550 degree days (Celsius, base 10°C), nearly identical to Bordeaux's Médoc (1,400-1,500) and significantly cooler than Barossa Valley (1,950-2,100) or McLaren Vale (1,800-1,900). The comparison isn't superficial: Margaret River genuinely occupies Bordeaux's climatic niche in the Southern Hemisphere.
 
 ### Subregional Climate Variation
 
@@ -72,13 +72,13 @@ Within Margaret River's 100-kilometer length, meaningful climate gradients emerg
 
 **Karridale** (southern sector): Coolest and wettest subregion, receiving 1,250mm annual rainfall. Heat summation drops to 1,400-1,450 degree days. Chardonnay and Pinot Noir show promise, but the cooler temperatures extend hang time and increase vintage variation. Less planted than northern areas.
 
-This 200-degree-day gradient from north to south—compressed into 100 kilometers—provides producers with site-selection flexibility. A winery can source Cabernet from warm Yallingup sites and Chardonnay from cool Karridale vineyards, crafting a portfolio from diverse mesoclimates.
+This 200-degree-day gradient from north to south (compressed into 100 kilometers) provides producers with site-selection flexibility. A winery can source Cabernet from warm Yallingup sites and Chardonnay from cool Karridale vineyards, crafting a portfolio from diverse mesoclimates.
 
 ### Climate Challenges and Change
 
 Margaret River faces three principal climate threats:
 
-**Spring frost** occurs rarely but devastatingly. The 2006 frost damaged up to 30% of buds in low-lying vineyards. Climate change hasn't eliminated this risk—in fact, earlier budburst may increase frost vulnerability.
+**Spring frost** occurs rarely but devastatingly. The 2006 frost damaged up to 30% of buds in low-lying vineyards. Climate change hasn't eliminated this risk, in fact, earlier budburst may increase frost vulnerability.
 
 **Harvest rain** threatens late-ripening varieties in some vintages. March and April can bring unseasonal rainfall, particularly in southern subregions. Vintage 2011 saw significant rain during Cabernet harvest, forcing selective picking and strict sorting.
 
@@ -88,7 +88,7 @@ The region's future likely involves adaptation: higher-elevation plantings, diff
 
 ## GRAPES: The Bordeaux Blueprint and Beyond
 
-Margaret River's varietal focus reflects its Bordeaux-inspired origins. The big four—Cabernet Sauvignon, Chardonnay, Sauvignon Blanc, and Sémillon—account for approximately 75% of total plantings. This concentration is unusual in modern Australian viticulture, where diversity often trumps specialization.
+Margaret River's varietal focus reflects its Bordeaux-inspired origins. The big four (Cabernet Sauvignon, Chardonnay, Sauvignon Blanc, and Sémillon) account for approximately 75% of total plantings. This concentration is unusual in modern Australian viticulture, where diversity often trumps specialization.
 
 ### Cabernet Sauvignon: The Regional Flagship
 
@@ -96,11 +96,11 @@ Margaret River's varietal focus reflects its Bordeaux-inspired origins. The big 
 **Typical yield**: 5-8 tonnes per hectare for quality production
 **Harvest timing**: Late March to mid-April
 
-Cabernet Sauvignon defines Margaret River's red wine identity. The variety ripens reliably in most vintages, achieving full physiological maturity at 13-14% alcohol—a sweet spot that balances concentration with elegance.
+Cabernet Sauvignon defines Margaret River's red wine identity. The variety ripens reliably in most vintages, achieving full physiological maturity at 13-14% alcohol: a sweet spot that balances concentration with elegance.
 
 Margaret River Cabernet displays distinctive regional characteristics: dark cassis and blackberry fruit, pronounced liquorice and mint notes, graphite minerality, and firm but fine-grained tannins. The best examples age gracefully for 15-25 years, developing cedar, tobacco, and umami complexity.
 
-The mint/eucalyptus character—sometimes dismissed as a "green" flaw—actually represents varietal typicity in Margaret River. Research by the Australian Wine Research Institute identified methoxypyrazines (the compounds responsible for capsicum and mint aromas) at moderate levels in Margaret River Cabernet, higher than Coonawarra but lower than cool-climate New Zealand examples. When balanced by ripe fruit, this herbal lift adds complexity rather than detracting.
+The mint/eucalyptus character (sometimes dismissed as a "green" flaw) actually represents varietal typicity in Margaret River. Research by the Australian Wine Research Institute identified methoxypyrazines (the compounds responsible for capsicum and mint aromas) at moderate levels in Margaret River Cabernet, higher than Coonawarra but lower than cool-climate New Zealand examples. When balanced by ripe fruit, this herbal lift adds complexity rather than detracting.
 
 Viticultural practices have evolved significantly. Early plantings used Bordeaux clones on their own roots. Modern vineyards employ clonal diversity (including the SA125 clone selected in Australia), phylloxera-resistant rootstocks like Schwarzmann and 1103 Paulsen, and precise canopy management. Vertical shoot positioning (VSP) trellising dominates, with cane pruning more common than spur pruning.
 
@@ -116,11 +116,11 @@ Margaret River Chardonnay occupies a stylistic position between Burgundian restr
 
 The best examples balance fruit purity with textural complexity. Whole-bunch pressing, wild fermentation, extended lees aging, and judicious oak use (typically 25-40% new French oak) are standard practices among quality producers. Malolactic fermentation is nearly universal, softening acidity and adding creamy texture.
 
-Clone selection matters significantly. Gin Gin clone—a heat-tolerant selection originating in Queensland—performs well in warmer sites. Mendoza (I10V1) and Burgundian selections (95, 96, 76) suit cooler locations. Many producers now plant multiple clones within single vineyards, co-fermenting for complexity.
+Clone selection matters significantly. Gin Gin clone (a heat-tolerant selection originating in Queensland) performs well in warmer sites. Mendoza (I10V1) and Burgundian selections (95, 96, 76) suit cooler locations. Many producers now plant multiple clones within single vineyards, co-fermenting for complexity.
 
 Margaret River Chardonnay typically shows white peach, nectarine, and grapefruit flavors, with struck match (sulfide) reduction notes and subtle cashew oak influence. The wines age gracefully for 5-10 years, developing honey, toast, and hazelnut complexity.
 
-Leeuwin Estate's Art Series Chardonnay—consistently one of Australia's most acclaimed whites—demonstrates the region's potential. Sourced from estate vineyards on gravelly loam soils, the wine combines intensity with finesse, challenging the notion that great Chardonnay requires limestone soils.
+Leeuwin Estate's Art Series Chardonnay (consistently one of Australia's most acclaimed whites) demonstrates the region's potential. Sourced from estate vineyards on gravelly loam soils, the wine combines intensity with finesse, challenging the notion that great Chardonnay requires limestone soils.
 
 ### Sauvignon Blanc and Sémillon: The Bordeaux Blanc Model
 
@@ -146,7 +146,7 @@ The maritime climate suits both varieties. Cool nights preserve the thiols (arom
 
 Margaret River's Bordeaux varieties extend beyond Cabernet Sauvignon. Merlot (approximately 350 hectares) ripens reliably, contributing plush fruit and soft tannins to blends. Varietal Merlot remains rare; most goes into Cabernet-based blends at 10-30%.
 
-Cabernet Franc (roughly 180 hectares) performs exceptionally well, producing wines with violet aromatics, red berry fruit, and silky tannins. Some producers—notably Vasse Felix and Voyager Estate—bottle varietal Cabernet Franc that rivals Loire Valley benchmarks.
+Cabernet Franc (roughly 180 hectares) performs exceptionally well, producing wines with violet aromatics, red berry fruit, and silky tannins. Some producers (notably Vasse Felix and Voyager Estate) bottle varietal Cabernet Franc that rivals Loire Valley benchmarks.
 
 Petit Verdot (approximately 120 hectares) thrives in the warmest sites, adding color, tannin, and exotic spice notes to blends. The variety's thick skins and late ripening suit Margaret River's dry autumns.
 
@@ -154,7 +154,7 @@ Petit Verdot (approximately 120 hectares) thrives in the warmest sites, adding c
 
 **Shiraz** (approximately 400 hectares): Long overshadowed by Cabernet, Margaret River Shiraz is gaining recognition. The cooler climate produces elegant, peppery styles closer to Rhône Valley than Barossa Valley. Cullen's Mangan Vineyard Shiraz demonstrates the potential: medium-bodied, savory, and age-worthy.
 
-**Pinot Noir** (roughly 80 hectares): Concentrated in the cooler Karridale and Wallcliffe subregions. Results are inconsistent—the climate may be slightly too warm for consistent excellence—but the best examples show promise.
+**Pinot Noir** (roughly 80 hectares): Concentrated in the cooler Karridale and Wallcliffe subregions. Results are inconsistent (the climate may be slightly too warm for consistent excellence) but the best examples show promise.
 
 **Chenin Blanc** (minimal plantings): A few producers experiment with this variety, recognizing climatic similarities to the Loire Valley. Early results suggest potential for both dry and off-dry styles.
 
@@ -172,11 +172,11 @@ Margaret River red wine production follows a clear quality pyramid:
 
 **Icon bottlings** (A$120-250+): Limited-production wines from the best parcels in exceptional vintages. Examples include Moss Wood Cabernet Sauvignon, Cullen Diana Madeline, Vasse Felix Heytesbury, and Leeuwin Estate Art Series Cabernet. These wines compete qualitatively with global benchmarks.
 
-Winemaking techniques have evolved considerably since the 1980s. Early Margaret River reds often showed excessive oak and extraction—a misguided attempt to emulate big Australian reds from warmer regions. Modern practices emphasize restraint: whole-berry fermentation (typically 20-40% whole berries), gentle extraction via pump-overs rather than rack-and-return, and judicious oak use.
+Winemaking techniques have evolved considerably since the 1980s. Early Margaret River reds often showed excessive oak and extraction: a misguided attempt to emulate big Australian reds from warmer regions. Modern practices emphasize restraint: whole-berry fermentation (typically 20-40% whole berries), gentle extraction via pump-overs rather than rack-and-return, and judicious oak use.
 
 Fermentation typically occurs in small open fermenters (2-5 tonnes capacity) with indigenous or selected yeasts. Fermentation temperatures range from 25-30°C. Maceration lasts 14-21 days for Cabernet, slightly shorter for Merlot.
 
-Barrel aging occurs predominantly in French oak (Allier, Nevers, Tronçais forests), with coopers like Dargaud & Jaeglé, François Frères, and Seguin Moreau favored. American oak—once common—has largely disappeared from premium production. Toast levels lean toward medium or medium-plus.
+Barrel aging occurs predominantly in French oak (Allier, Nevers, Tronçais forests), with coopers like Dargaud & Jaeglé, François Frères, and Seguin Moreau favored. American oak (once common) has largely disappeared from premium production. Toast levels lean toward medium or medium-plus.
 
 The best Margaret River Cabernets share common characteristics: alcohol typically 13.5-14.5%, pH 3.5-3.7, total acidity 5.5-6.5 g/L. Tannin levels are moderate but fine-grained, providing structure without astringency. The wines show immediate approachability in youth while possessing 15-25 year aging potential.
 
@@ -208,7 +208,7 @@ The stylistic divide in Margaret River's signature white blend reflects broader 
 
 **The textural, age-worthy camp** pursues complexity and development. These wines are picked riper, fermented in barrel (often with indigenous yeasts), aged on lees, and sometimes bottled after 12-18 months. They sacrifice some aromatic intensity for texture, weight, and savory complexity. They age gracefully for 5-10 years, developing honey, lanolin, and toasted nut characters.
 
-Neither approach is inherently superior—they serve different purposes. The aromatic style suits casual drinking and seafood pairing. The textural style demands contemplation and richer dishes.
+Neither approach is inherently superior, they serve different purposes. The aromatic style suits casual drinking and seafood pairing. The textural style demands contemplation and richer dishes.
 
 Sémillon typically constitutes 20-40% of the blend, though some producers (notably Cullen) use equal proportions. The variety contributes waxy texture, fig and lanolin notes, and aging potential. Barrel-fermented Sémillon develops more dramatically than Sauvignon Blanc, making it crucial for age-worthy blends.
 
@@ -224,7 +224,7 @@ Margaret River produces limited quantities of alternative styles:
 
 ## APPELLATIONS AND SUBREGIONS: Unofficial but Meaningful
 
-Margaret River contains no legally defined subregions or crus—the entire area operates under a single GI (Geographical Indication). However, winemakers and viticulturists recognize distinct growing areas with consistent characteristics:
+Margaret River contains no legally defined subregions or crus: the entire area operates under a single GI (Geographical Indication). However, winemakers and viticulturists recognize distinct growing areas with consistent characteristics:
 
 **Yallingup**: Northern sector, warmest, earliest ripening. Known for powerful Cabernet Sauvignon. Notable producers: Aravina, Windows Estate.
 
@@ -260,13 +260,13 @@ Margaret River viticulture has matured considerably since the pioneering 1970s. 
 
 ### Vintage Variation
 
-Margaret River experiences moderate vintage variation—less dramatic than continental climates but more significant than some New World regions. Key factors include:
+Margaret River experiences moderate vintage variation, less dramatic than continental climates but more significant than some New World regions. Key factors include:
 
 - Spring rainfall and flowering conditions (affecting yield)
 - Summer heat and drought stress (affecting ripening speed)
 - Harvest period weather (particularly rain risk for late-ripening varieties)
 
-Recent strong vintages include 2012, 2013, 2015, 2016, and 2018—all characterized by dry, mild growing seasons allowing extended hang time. Challenging vintages like 2011 (harvest rain) and 2017 (spring frost) require careful vineyard management and strict sorting.
+Recent strong vintages include 2012, 2013, 2015, 2016, and 2018, all characterized by dry, mild growing seasons allowing extended hang time. Challenging vintages like 2011 (harvest rain) and 2017 (spring frost) require careful vineyard management and strict sorting.
 
 ## PRACTICAL MATTERS: Buying, Storing, and Serving
 
@@ -324,7 +324,7 @@ Margaret River wines benefit from thoughtful service:
 
 **Sauvignon Blanc-Sémillon** (aromatic style): 1-3 years. Drink young for maximum freshness.
 
-Cellaring conditions matter: consistent temperature (12-15°C), moderate humidity (60-70%), darkness, and minimal vibration. Margaret River wines—particularly Cabernet—develop beautifully with proper storage.
+Cellaring conditions matter: consistent temperature (12-15°C), moderate humidity (60-70%), darkness, and minimal vibration. Margaret River wines (particularly Cabernet) develop beautifully with proper storage.
 
 ### Vintage Chart (2010-2022)
 
@@ -370,7 +370,7 @@ Cellaring conditions matter: consistent temperature (12-15°C), moderate humidit
 
 The comparison between Margaret River and Bordeaux's Médoc isn't mere marketing. Both regions occupy coastal positions at similar latitudes (Margaret River at 33-34°S, Médoc at 45°N), experience maritime moderation, focus on Cabernet-based blends, and emphasize elegance over power.
 
-But meaningful differences exist. Margaret River's granite-based soils differ fundamentally from the Médoc's gravel-over-limestone. The Leeuwin Current provides more consistent temperature moderation than the Gulf Stream. Margaret River's dry growing season contrasts with Bordeaux's rain-threatened autumns. And Margaret River's youth—barely fifty years of commercial viticulture—means terroir understanding remains preliminary.
+But meaningful differences exist. Margaret River's granite-based soils differ fundamentally from the Médoc's gravel-over-limestone. The Leeuwin Current provides more consistent temperature moderation than the Gulf Stream. Margaret River's dry growing season contrasts with Bordeaux's rain-threatened autumns. And Margaret River's youth (barely fifty years of commercial viticulture) means terroir understanding remains preliminary.
 
 Perhaps the fairest assessment: Margaret River occupies similar climatic and stylistic space to Bordeaux but expresses it through different geology, different clones, and different winemaking traditions. The wines share structural elegance and aging potential while maintaining distinct regional character.
 
@@ -380,7 +380,7 @@ Within Australia, Margaret River stands apart. It's cooler and more maritime tha
 
 Margaret River faces both opportunities and threats as it matures:
 
-**Climate change**: Rising temperatures and declining rainfall may eventually challenge the region's cool-climate positioning. Adaptation strategies—higher-elevation plantings, heat-tolerant rootstocks, alternative varieties—will become increasingly important.
+**Climate change**: Rising temperatures and declining rainfall may eventually challenge the region's cool-climate positioning. Adaptation strategies (higher-elevation plantings, heat-tolerant rootstocks, alternative varieties) will become increasingly important.
 
 **Market positioning**: Margaret River commands premium prices domestically but remains less recognized internationally than Barossa or Yarra Valley. Building global awareness while maintaining quality standards presents ongoing challenges.
 
@@ -390,7 +390,7 @@ Margaret River faces both opportunities and threats as it matures:
 
 **Subregional definition**: As the region matures, expect more precise terroir delineation. The informal Wilyabrup-Wallcliffe-Karridale distinctions may eventually formalize into legally defined subregions or single-vineyard classifications.
 
-The region's greatest strength remains its scientific foundation. Margaret River was designed for quality from the outset—Gladstones's climate analysis ensured suitability before the first vine was planted. This rational, evidence-based approach continues to guide development, suggesting a bright future for Australia's most precisely engineered wine region.
+The region's greatest strength remains its scientific foundation. Margaret River was designed for quality from the outset. Gladstones's climate analysis ensured suitability before the first vine was planted. This rational, evidence-based approach continues to guide development, suggesting a bright future for Australia's most precisely engineered wine region.
 
 ---
 

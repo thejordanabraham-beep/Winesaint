@@ -54,13 +54,13 @@ Viticultural practices within Les Combes au Sud reflect both traditional Burgund
 
 Canopy management requires particular attention due to the site's fertility and favorable growing conditions. Shoot positioning, leaf removal, and crop thinning all play crucial roles in achieving optimal grape quality. The southern exposition demands careful leaf management to balance sun exposure benefits with protection against excessive heat during extreme weather events.
 
-Harvest timing typically occurs in mid-to-late September, though climate change has shifted this earlier in recent years. The decision of when to harvest requires balancing physiological ripeness, sugar accumulation, and acidity retention—particularly crucial for maintaining the wine's aging potential and characteristic freshness.
+Harvest timing typically occurs in mid-to-late September, though climate change has shifted this earlier in recent years. The decision of when to harvest requires balancing physiological ripeness, sugar accumulation, and acidity retention, particularly crucial for maintaining the wine's aging potential and characteristic freshness.
 
 ## Wine Character & Style
 
 Wines from Les Combes au Sud exhibit distinctive characteristics that reflect both the site's terroir and its position within Saint-Aubin's quality hierarchy. The southern exposition contributes to wines with generous fruit expression while maintaining the mineral backbone that defines serious Burgundian Chardonnay.
 
-Arometically, these wines typically display a complex bouquet combining citrus elements—particularly lemon and lime zest—with stone fruit characteristics including peach, apricot, and occasionally pear. The limestone influence manifests as subtle mineral notes, often described as wet stone or chalk, that provide aromatic complexity and distinguish these wines from those produced on different geological foundations.
+Arometically, these wines typically display a complex bouquet combining citrus elements (particularly lemon and lime zest) with stone fruit characteristics including peach, apricot, and occasionally pear. The limestone influence manifests as subtle mineral notes, often described as wet stone or chalk, that provide aromatic complexity and distinguish these wines from those produced on different geological foundations.
 
 With age, the aromatic profile evolves toward more complex tertiary characteristics. Honey, hazelnut, and brioche notes emerge, often accompanied by subtle spice elements including white pepper and ginger. The southern exposition's contribution becomes more apparent with time, as the wines develop richness and depth while maintaining their fundamental mineral character.
 
@@ -96,7 +96,7 @@ Various smaller producers and négociant houses also source from Les Combes au S
 
 Les Combes au Sud achieved Premier Cru classification as part of the 1936 AOC decree that established Burgundy's modern appellation system, though its reputation for quality wine production extends much further back. Historical documents from the 18th and 19th centuries reference this particular climat as producing wines of superior quality, particularly noting the southern exposition's benefits for grape ripening.
 
-The climat name itself reflects the site's most obvious characteristic—its southern-facing slopes that distinguish it from other parcels within Saint-Aubin. This orientation has been recognized as advantageous since systematic viticulture began in the region, with monastic records indicating preferential treatment for south-facing vineyard sites.
+The climat name itself reflects the site's most obvious characteristic, its southern-facing slopes that distinguish it from other parcels within Saint-Aubin. This orientation has been recognized as advantageous since systematic viticulture began in the region, with monastic records indicating preferential treatment for south-facing vineyard sites.
 
 The classification as Premier Cru recognized both the site's inherent quality potential and its historical reputation among local producers and merchants. Unlike some Premier Cru sites that gained classification based primarily on historical reputation, Les Combes au Sud's designation reflected clear terroir advantages that continue to manifest in wine quality today.
 

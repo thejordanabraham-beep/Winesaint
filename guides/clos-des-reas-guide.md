@@ -6,7 +6,7 @@ Clos des Réas stands as one of Vosne-Romanée's most distinctive Premier Cru vi
 
 The climat's positioning is particularly noteworthy within the broader context of Vosne-Romanée's vineyard hierarchy. Unlike many of the commune's Premier Crus that cluster around the famous Grand Crus of Romanée-Conti, La Tâche, and Richebourg on the mid-slope, Clos des Réas occupies a more isolated position, both geographically and stylistically. This separation has historically contributed to its somewhat understated reputation, despite producing wines of exceptional quality that exemplify a different facet of Vosne-Romanée's terroir expression.
 
-The vineyard's location within the Côte de Nuits places it firmly within Burgundy's red wine heartland, where Pinot Noir achieves some of its most profound expressions. The broader geological and climatic influences of the Côte de Nuits—including the protective influence of the Côte d'Or escarpment and the complex sedimentary geology dating back millions of years—create the foundation upon which Clos des Réas builds its distinctive character.
+The vineyard's location within the Côte de Nuits places it firmly within Burgundy's red wine heartland, where Pinot Noir achieves some of its most profound expressions. The broader geological and climatic influences of the Côte de Nuits, including the protective influence of the Côte d'Or escarpment and the complex sedimentary geology dating back millions of years, create the foundation upon which Clos des Réas builds its distinctive character.
 
 ## Size
 
@@ -76,7 +76,7 @@ The finish of well-made Clos des Réas wines is typically long and complex, with
 
 Clos des Réas occupies a unique position within Vosne-Romanée's Premier Cru hierarchy, producing wines that differ markedly from its more famous neighbors. Compared to Premier Crus such as Les Suchots or Aux Malconsorts, which lie closer to the village's Grand Crus, Clos des Réas typically shows greater mineral precision and less overt richness. The wines tend toward elegance and finesse rather than power and concentration, reflecting both terroir differences and the vineyard's distinctive microclimate.
 
-When compared to Les Beaux Monts, another Premier Cru on the southern edge of the commune, Clos des Réas generally produces wines with firmer tannin structure and greater aging potential, though both sites share a certain mineral-driven elegance that distinguishes them from the more centrally located Premier Crus. The soil differences between the two sites—with Clos des Réas showing higher limestone content—contribute to these stylistic variations.
+When compared to Les Beaux Monts, another Premier Cru on the southern edge of the commune, Clos des Réas generally produces wines with firmer tannin structure and greater aging potential, though both sites share a certain mineral-driven elegance that distinguishes them from the more centrally located Premier Crus. The soil differences between the two sites (with Clos des Réas showing higher limestone content) contribute to these stylistic variations.
 
 Relative to the Premier Crus on the northern boundary of Vosne-Romanée, such as Aux Brûlées or Les Petits Monts, wines from Clos des Réas typically display different aromatic profiles, with less exotic spice and more classic red fruit and mineral characteristics. The northern sites often benefit from proximity to Flagey-Echézeaux and show some stylistic influence from that direction, while Clos des Réas maintains a more distinctly Vosne-Romanée character despite its southern position.
 

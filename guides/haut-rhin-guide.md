@@ -4,7 +4,7 @@
 
 ### Location within Alsace
 
-Haut-Rhin constitutes the southern half of the Alsace wine region, extending from just south of Sélestat to the Swiss border near Basel. Despite its name suggesting "Upper Rhine," the terminology refers to elevation rather than geographical position—Haut-Rhin sits at higher elevations along the Rhine River's course. The department encompasses approximately 2,857 square kilometers and represents the heart of Alsatian viticulture, containing the vast majority of the region's most prestigious vineyard sites.
+Haut-Rhin constitutes the southern half of the Alsace wine region, extending from just south of Sélestat to the Swiss border near Basel. Despite its name suggesting "Upper Rhine," the terminology refers to elevation rather than geographical position. Haut-Rhin sits at higher elevations along the Rhine River's course. The department encompasses approximately 2,857 square kilometers and represents the heart of Alsatian viticulture, containing the vast majority of the region's most prestigious vineyard sites.
 
 The Vosges Mountains form a dramatic western boundary, their peaks rising to over 1,400 meters at Grand Ballon, the highest point in the range. This mountainous backdrop creates the essential conditions that define Haut-Rhin's viticultural character. To the east, the Rhine plain stretches toward Germany, while the southern boundary meets Switzerland's Basel-Stadt canton. The northern limit with Bas-Rhin is less precisely defined, generally marked by the transition zone around Dambach-la-Ville and Sélestat.
 
@@ -80,7 +80,7 @@ Marl, clay, schist, gneiss, and various alluvial deposits complete Haut-Rhin's g
 
 The interaction between soil type and grape variety forms the cornerstone of quality wine production in Haut-Rhin. Each noble variety responds differently to geological conditions, with optimal pairings producing wines of exceptional character and complexity.
 
-Riesling achieves its greatest expression on granite, sandstone, and schist—well-drained, relatively poor soils that stress the vine moderately and promote deep rooting. These soil types enhance Riesling's natural tendency toward high acidity, mineral character, and aromatic purity. Limestone also suits Riesling but produces a softer, more rounded style with less obvious mineral character. The majority of Riesling-designated Grand Crus sit on granite or sandstone foundations.
+Riesling achieves its greatest expression on granite, sandstone, and schist, well-drained, relatively poor soils that stress the vine moderately and promote deep rooting. These soil types enhance Riesling's natural tendency toward high acidity, mineral character, and aromatic purity. Limestone also suits Riesling but produces a softer, more rounded style with less obvious mineral character. The majority of Riesling-designated Grand Crus sit on granite or sandstone foundations.
 
 Gewurztraminer thrives on richer, heavier soils including marl, clay, and certain limestone formations. These water-retentive soils support Gewurztraminer's naturally vigorous growth and high yield potential while providing the nutrient levels necessary for developing the variety's characteristic aromatic intensity. Lighter, sandier soils can produce Gewurztraminer but often result in less expressive wines lacking the variety's signature richness.
 
@@ -100,7 +100,7 @@ Soil depth varies considerably across Haut-Rhin's vineyard area, from less than 
 
 ### Slope Orientations
 
-Exposition determines solar radiation, temperature accumulation, and wind exposure—factors critical to grape ripening and wine quality. South-facing slopes receive maximum sunshine throughout the growing season, creating the warmest mesoclimates and earliest ripening conditions. These sites suit all varieties but prove essential for later-ripening selections and late harvest styles.
+Exposition determines solar radiation, temperature accumulation, and wind exposure, factors critical to grape ripening and wine quality. South-facing slopes receive maximum sunshine throughout the growing season, creating the warmest mesoclimates and earliest ripening conditions. These sites suit all varieties but prove essential for later-ripening selections and late harvest styles.
 
 Southeast expositions capture morning sun while avoiding the most intense afternoon heat, creating balanced ripening conditions that preserve acidity while achieving full phenolic maturity. Many prestigious Grand Cru sites face southeast, reflecting the optimal combination of warmth and moderation this orientation provides.
 
@@ -118,13 +118,13 @@ Haut-Rhin contains 39 of Alsace's 51 Grand Cru vineyards, a concentration reflec
 
 The density of Grand Cru sites increases toward southern Haut-Rhin, where geological complexity and optimal expositions concentrate. The Guebwiller-Rouffach corridor alone contains seven Grand Crus within a fifteen-kilometer stretch, while the Riquewihr-Ribeauvillé sector adds another significant cluster. This geographical distribution reflects centuries of empirical observation by vignerons who identified and maintained these exceptional sites long before formal classification.
 
-Each Grand Cru possesses distinct geological and climatic characteristics that influence varietal suitability and wine style. Some sites excel with single varieties, while others demonstrate versatility across multiple noble grapes. Certain Grand Crus have become synonymous with particular styles—Rangen with powerful, mineral Riesling; Goldert with opulent Gewurztraminer; Zinnkoepflé with age-worthy Pinot Gris.
+Each Grand Cru possesses distinct geological and climatic characteristics that influence varietal suitability and wine style. Some sites excel with single varieties, while others demonstrate versatility across multiple noble grapes. Certain Grand Crus have become synonymous with particular styles. Rangen with powerful, mineral Riesling; Goldert with opulent Gewurztraminer; Zinnkoepflé with age-worthy Pinot Gris.
 
 ### What Makes a Vineyard Eligible for Grand Cru Status
 
 Grand Cru classification in Alsace follows stricter criteria than in many French wine regions, requiring demonstrated historical reputation, distinctive geological character, and favorable mesoclimate. Sites must possess documented quality performance spanning multiple decades and recognition within local viticultural tradition. The INAO (Institut National des Appellations d'Origine) evaluates proposed sites based on soil maps, climate data, slope orientation, historical records, and contemporary wine quality.
 
-Geological distinctiveness forms a primary criterion—Grand Cru sites must display soil characteristics that distinguish them from surrounding vineyards and contribute recognizably to wine character. Homogeneity within the designated area proves important; Grand Cru boundaries should encompass continuous terroir rather than arbitrary administrative limits.
+Geological distinctiveness forms a primary criterion. Grand Cru sites must display soil characteristics that distinguish them from surrounding vineyards and contribute recognizably to wine character. Homogeneity within the designated area proves important; Grand Cru boundaries should encompass continuous terroir rather than arbitrary administrative limits.
 
 Mesoclimate evaluation considers temperature patterns, frost risk, wind exposure, and precipitation levels. Grand Cru sites must demonstrate climatic conditions conducive to optimal ripening and consistent vintage quality. Protection from destructive weather events and favorable growing season characteristics factor heavily in classification decisions.
 
@@ -132,7 +132,7 @@ Historical reputation carries significant weight in classification decisions. Si
 
 ### Quality Standards and Regulations
 
-Grand Cru regulations impose substantially stricter requirements than general Alsace AOC standards, reflecting the system's goal of guaranteeing exceptional quality. Yield limitations stand at 55 hectoliters per hectare for most Grand Crus, versus 80 hl/ha for standard Alsace wines. Some sites impose even lower limits—Rangen permits only 40 hl/ha, acknowledging the site's challenging conditions and quality potential.
+Grand Cru regulations impose substantially stricter requirements than general Alsace AOC standards, reflecting the system's goal of guaranteeing exceptional quality. Yield limitations stand at 55 hectoliters per hectare for most Grand Crus, versus 80 hl/ha for standard Alsace wines. Some sites impose even lower limits. Rangen permits only 40 hl/ha, acknowledging the site's challenging conditions and quality potential.
 
 Only four "noble" varieties qualify for Grand Cru designation: Riesling, Gewurztraminer, Pinot Gris, and Muscat. This restriction, though debated, reflects historical understanding of which varieties best express Alsatian terroir at the highest level. Each Grand Cru specifies which varieties may be grown, with some permitting all four nobles while others restrict production to one or two varieties deemed optimal for local conditions.
 
@@ -184,7 +184,7 @@ The variety performs best on limestone and marl, where natural richness finds ba
 
 Stylistic range in Pinot Gris extends from dry, mineral-driven wines to unctuously sweet Sélection de Grains Nobles. Dry versions offer immediate appeal with generous fruit and texture, though the finest examples age well for ten to fifteen years. Sweet styles rank among the world's great dessert wines, combining power with remarkable precision.
 
-**Muscat** occupies just 5% of Grand Cru area, reflecting the variety's challenging viticulture and limited consumer recognition despite exceptional quality. Alsatian Muscat, typically Muscat Blanc à Petits Grains with some Muscat Ottonel, produces dry wines of captivating aromatics—fresh grape, citrus blossom, and mint—with crisp acidity and moderate body.
+**Muscat** occupies just 5% of Grand Cru area, reflecting the variety's challenging viticulture and limited consumer recognition despite exceptional quality. Alsatian Muscat, typically Muscat Blanc à Petits Grains with some Muscat Ottonel, produces dry wines of captivating aromatics (fresh grape, citrus blossom, and mint) with crisp acidity and moderate body.
 
 Muscat demands warm, well-drained sites to ripen properly, making Grand Cru designation challenging. The variety shows high sensitivity to poor fruit set, often resulting in low yields. When conditions align, however, Muscat produces uniquely refreshing wines that express terroir through aromatic nuance rather than structural components.
 
@@ -222,13 +222,13 @@ The lack of mandatory sweetness labeling on Alsatian wines, beyond VT and SGN de
 
 VT wines display more intense fruit character and greater power than standard cuvées while retaining varietal typicity and terroir signatures. Riesling VT shows concentrated citrus, stone fruit, and honey character balanced by piercing acidity. Gewurztraminer VT amplifies the variety's exotic aromatics into crystallized fruit, Turkish delight, and spice box complexity. Pinot Gris VT achieves remarkable density without heaviness, combining dried fruit and honey with smoky, mineral undertones.
 
-Production requires favorable autumn weather—warm, dry conditions that concentrate sugars through dehydration without destructive rainfall or early frost. Haut-Rhin's long, stable autumn makes VT production viable in most vintages, though yields drop dramatically as growers wait for optimal concentration. The finest VT wines age magnificently for twenty to forty years, developing extraordinary complexity.
+Production requires favorable autumn weather, warm, dry conditions that concentrate sugars through dehydration without destructive rainfall or early frost. Haut-Rhin's long, stable autumn makes VT production viable in most vintages, though yields drop dramatically as growers wait for optimal concentration. The finest VT wines age magnificently for twenty to forty years, developing extraordinary complexity.
 
 **Sélection de Grains Nobles** (SGN, "selection of noble berries") represents the pinnacle of Alsatian sweet wine production. SGN requires botrytis-affected grapes reaching extraordinary ripeness levels (minimum must weights of 276g/L for Riesling/Muscat, 306g/L for Gewurztraminer/Pinot Gris). Multiple selective harvests, or tries, target individual botrytized berries, making production labor-intensive and viable only in exceptional vintages with perfect conditions for noble rot development.
 
 SGN wines show remarkable concentration, complexity, and aging potential, ranking among the world's great dessert wines. Botrytis adds layers of honey, saffron, dried apricot, and orange marmalade while concentrating varietal characteristics. Despite extreme sweetness (often 80-150 g/L residual sugar), the finest SGN maintain balance through adequate acidity and avoid cloying richness.
 
-Production remains limited and irregular, as ideal conditions—morning humidity promoting botrytis development followed by dry afternoons preventing grey rot—occur unpredictably. Some vintages produce no viable SGN, while exceptional years like 1989, 2000, and 2015 enabled widespread production. Prices reflect rarity and production costs, with SGN commanding premium pricing justified by extraordinary quality and aging potential.
+Production remains limited and irregular, as ideal conditions (morning humidity promoting botrytis development followed by dry afternoons preventing grey rot) occur unpredictably. Some vintages produce no viable SGN, while exceptional years like 1989, 2000, and 2015 enabled widespread production. Prices reflect rarity and production costs, with SGN commanding premium pricing justified by extraordinary quality and aging potential.
 
 ### Aging Potential
 
@@ -264,7 +264,7 @@ Stylistic variation between producers proves more pronounced in Haut-Rhin, where
 
 **Domaine Albert Mann** in Wettolsheim farms 23 hectares biodynamically across multiple terroirs. The Barthelmé family produces precise, mineral-driven wines emphasizing terroir over power, with particular success in Riesling and Pinot Gris. The domaine's Schlossberg and Furstentum holdings produce benchmark examples demonstrating granite and limestone terroir respectively.
 
-**Domaine Trimbach** represents Alsatian tradition at its finest. The family domaine in Ribeauvillé, producing wine since 1626, farms and sources from premium sites throughout northern Haut-Rhin. Trimbach's wines, particularly the legendary Clos Ste. Hune Riesling from Rosacker Grand Cru, exemplify classical Alsatian style—dry, mineral, age-worthy, with emphasis on purity over power.
+**Domaine Trimbach** represents Alsatian tradition at its finest. The family domaine in Ribeauvillé, producing wine since 1626, farms and sources from premium sites throughout northern Haut-Rhin. Trimbach's wines, particularly the legendary Clos Ste. Hune Riesling from Rosacker Grand Cru, exemplify classical Alsatian style, dry, mineral, age-worthy, with emphasis on purity over power.
 
 **Domaine Josmeyer** in Wintzenheim farms 25 hectares, primarily in Hengst Grand Cru, producing elegant wines emphasizing balance and food compatibility. The estate pioneered organic viticulture in Alsace beginning in 2004 and produces consistently excellent examples across all varieties.
 

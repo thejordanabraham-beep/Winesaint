@@ -66,7 +66,7 @@ Yield management is crucial for maintaining quality standards. Most producers ta
 
 Clavoillon produces Chardonnays that occupy a distinctive position within Puligny-Montrachet's stylistic spectrum, combining accessibility with complexity in a manner that makes them appealing both in youth and after extended cellaring. The wines typically display a brilliant golden-green color in their youth, developing toward deeper gold tones with age.
 
-The aromatic profile of Clavoillon Chardonnay is characterized by remarkable purity and precision. Primary fruit aromas typically include fresh citrus notes—particularly lemon zest and lime—along with green apple and pear characteristics. White flower elements, especially acacia and hawthorn, provide floral complexity without overwhelming the fruit expression. As the wines develop, subtle stone fruit notes of white peach and apricot emerge, adding richness to the aromatic profile.
+The aromatic profile of Clavoillon Chardonnay is characterized by remarkable purity and precision. Primary fruit aromas typically include fresh citrus notes (particularly lemon zest and lime) along with green apple and pear characteristics. White flower elements, especially acacia and hawthorn, provide floral complexity without overwhelming the fruit expression. As the wines develop, subtle stone fruit notes of white peach and apricot emerge, adding richness to the aromatic profile.
 
 Mineral characteristics are pronounced in Clavoillon wines, reflecting the limestone-dominated soils. These manifest as wet stone, chalk dust, and subtle saline notes that provide backbone and contribute to the wines' sense of place. The mineral expression is typically more approachable than in some of Puligny's more austere Premier Crus, making Clavoillon wines appealing to a broader range of palates.
 
@@ -86,7 +86,7 @@ Compared to Les Pucelles, located southwest of Clavoillon at slightly higher ele
 
 The contrast with Champ Canet, Puligny's largest Premier Cru, reveals Clavoillon's more refined character and superior mineral expression. While Champ Canet can produce excellent wines, Clavoillon's more favorable exposure and superior drainage typically result in wines with greater precision and complexity.
 
-When compared to the Grand Cru vineyards of Puligny-Montrachet—Montrachet, Chevalier-Montrachet, and Bienvenues-Bâtard-Montrachet—Clavoillon wines naturally show less intensity and complexity, but they offer exceptional value and more immediate accessibility. The Grand Crus demand decades of cellaring to reach their peak, while Clavoillon provides compelling drinking pleasure much earlier while still offering rewarding evolution over 10-15 years.
+When compared to the Grand Cru vineyards of Puligny-Montrachet. Montrachet, Chevalier-Montrachet, and Bienvenues-Bâtard-Montrachet. Clavoillon wines naturally show less intensity and complexity, but they offer exceptional value and more immediate accessibility. The Grand Crus demand decades of cellaring to reach their peak, while Clavoillon provides compelling drinking pleasure much earlier while still offering rewarding evolution over 10-15 years.
 
 Within the broader context of Côte de Beaune Premier Crus, Clavoillon stands out for its combination of elegance and substance. It produces wines that are more structured than many Meursault Premier Crus but more approachable than the austere Premier Crus of Chassagne-Montrachet.
 

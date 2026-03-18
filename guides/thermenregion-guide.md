@@ -12,13 +12,13 @@ The region is bounded by the Vienna Woods (Wienerwald) to the west and opens tow
 
 The Thermenregion's viticultural heritage extends over two millennia, establishing it as one of Austria's most historically significant wine regions. Roman legionnaires first recognized the area's potential for viticulture, planting vines on the sun-drenched slopes that would eventually become some of Austria's most prized vineyard sites. During the Middle Ages, Cistercian monks from Heiligenkreuz Abbey significantly advanced viticulture in the region, introducing systematic vineyard management and winemaking techniques that laid the foundation for quality wine production.
 
-The region reached its zenith during the Austro-Hungarian Empire, when Thermenregion wines—particularly those from Gumpoldskirchen—were celebrated throughout European courts and commanded prices comparable to the finest German Rieslings. The white wines from Rotgipfler and Zierfandler grapes became legendary, known for their power, complexity, and extraordinary aging potential. The Habsburg nobility maintained extensive vineyard holdings here, and the tradition of imperial patronage elevated the region's status considerably.
+The region reached its zenith during the Austro-Hungarian Empire, when Thermenregion wines (particularly those from Gumpoldskirchen) were celebrated throughout European courts and commanded prices comparable to the finest German Rieslings. The white wines from Rotgipfler and Zierfandler grapes became legendary, known for their power, complexity, and extraordinary aging potential. The Habsburg nobility maintained extensive vineyard holdings here, and the tradition of imperial patronage elevated the region's status considerably.
 
 The 20th century brought challenges familiar to many European wine regions: phylloxera, two world wars, and changing consumer preferences. The post-war period saw a shift toward higher yields and less distinguished wines, which diminished the region's prestige. However, beginning in the 1980s and accelerating through the 1990s and 2000s, a quality renaissance emerged. Forward-thinking producers began replanting traditional varieties, reducing yields, and implementing modern viticultural practices while respecting historical terroir expression. Today, Thermenregion is experiencing renewed recognition as producers craft wines that honor tradition while embracing contemporary precision.
 
 ### Climate and General Terroir Characteristics
 
-The Thermenregion enjoys a transitional climate that represents one of its most distinctive attributes. Positioned at the confluence of three climatic influences—the moderate Atlantic climate from the west, the cool Alpine climate from the southwest, and the warm Pannonian climate from the east—the region benefits from an optimal balance for both white and red grape cultivation.
+The Thermenregion enjoys a transitional climate that represents one of its most distinctive attributes. Positioned at the confluence of three climatic influences: the moderate Atlantic climate from the west, the cool Alpine climate from the southwest, and the warm Pannonian climate from the east: the region benefits from an optimal balance for both white and red grape cultivation.
 
 Annual temperatures average 10-11°C, with warm summers that can see temperatures exceeding 30°C, moderated by cool evening breezes descending from the Vienna Woods. The Pannonian influence brings warm, dry conditions during the growing season, while the proximity to the Alps ensures sufficient diurnal temperature variation, critical for maintaining acidity and developing aromatic complexity in the grapes. Annual precipitation averages 600-700mm, concentrated primarily in spring and early summer, with generally dry harvest conditions in autumn.
 
@@ -102,7 +102,7 @@ Gravel sites produce approachable wines emphasizing ripe fruit, with moderate st
 
 ### Current Classification Status
 
-Unlike many Austrian wine regions, Thermenregion has not adopted DAC (Districtus Austriae Controllatus) status as of this writing. This absence reflects both the region's diversity—with multiple grape varieties and wine styles making unified appellation rules challenging—and ongoing discussions among producers regarding the optimal framework for quality classification.
+Unlike many Austrian wine regions, Thermenregion has not adopted DAC (Districtus Austriae Controllatus) status as of this writing. This absence reflects both the region's diversity (with multiple grape varieties and wine styles making unified appellation rules challenging) and ongoing discussions among producers regarding the optimal framework for quality classification.
 
 Without DAC regulations, Thermenregion wines are classified according to Austria's general quality hierarchy: Wein (wine), Landwein (country wine), Qualitätswein (quality wine), and Prädikatswein (predicate wine). Most serious producers release wines at the Qualitätswein level or above, with Prädikatswein categories (Kabinett, Spätlese, Auslese, etc.) based on must weight at harvest.
 
@@ -234,7 +234,7 @@ Thermenregion's climate generally ensures reliable ripeness, but vintage variati
 
 **Cooler, wetter vintages** are rare but produce wines of remarkable freshness and elegance when successful. Such vintages require rigorous selection and reduced yields but can yield extraordinary age-worthy wines.
 
-When purchasing Thermenregion wines, consider the vintage character relative to intended use—powerful vintages for immediate consumption with rich foods, moderate vintages for cellaring and versatile pairing, and cooler vintages for long-term aging potential.
+When purchasing Thermenregion wines, consider the vintage character relative to intended use, powerful vintages for immediate consumption with rich foods, moderate vintages for cellaring and versatile pairing, and cooler vintages for long-term aging potential.
 
 ---
 

@@ -72,7 +72,7 @@ The climate is characterized by cold winters, warm but not excessively hot summe
 
 ### How Terroir Shapes Wine Character
 
-The interplay of volcanic soils, elevation, and microclimate creates a distinctive expression of Nebbiolo that differentiates Gattinara from other appellations. The volcanic porphyry soils contribute pronounced minerality—often described as iron, graphite, or wet stone—that serves as a signature element of Gattinara's identity. The high-acid soils and cool climate produce wines with electric acidity and tension, supporting exceptional aging potential that rivals or exceeds Barolo.
+The interplay of volcanic soils, elevation, and microclimate creates a distinctive expression of Nebbiolo that differentiates Gattinara from other appellations. The volcanic porphyry soils contribute pronounced minerality (often described as iron, graphite, or wet stone) that serves as a signature element of Gattinara's identity. The high-acid soils and cool climate produce wines with electric acidity and tension, supporting exceptional aging potential that rivals or exceeds Barolo.
 
 The elevation and climate yield wines that emphasize elegance, perfume, and finesse over power and concentration. Gattinara typically shows more delicate tannins than Barolo, with a silkier texture and more ethereal aromatics. The extended growing season allows flavors to develop complexity without excessive alcohol or over-ripeness, resulting in wines that balance intensity with gracefulness.
 
@@ -98,7 +98,7 @@ Compared to Langhe Nebbiolo, Gattinara's Spanna tends to:
 - Show less tannic intensity but greater elegance
 - Maintain higher natural acidity
 
-Traditional vineyards contain **massal selections**—genetically diverse populations propagated from the best performing vines over generations. This diversity contributes to wine complexity and vineyard resilience. Modern plantings increasingly utilize certified clones, including CVT CN 142 (formerly known as Spanna), developed specifically for Alto Piemonte conditions, which offers disease resistance and consistent quality while preserving regional characteristics.
+Traditional vineyards contain **massal selections**, genetically diverse populations propagated from the best performing vines over generations. This diversity contributes to wine complexity and vineyard resilience. Modern plantings increasingly utilize certified clones, including CVT CN 142 (formerly known as Spanna), developed specifically for Alto Piemonte conditions, which offers disease resistance and consistent quality while preserving regional characteristics.
 
 The clonal selection debate remains active in Gattinara. Some producers champion massal selection for complexity and terroir expression, arguing that genetic diversity better captures site specificity. Others embrace certified clones for their reliability, disease resistance, and ability to produce consistently high-quality fruit. Many estates adopt a middle path, maintaining old massal-selection vineyards while planting new parcels with carefully chosen clones.
 
@@ -127,7 +127,7 @@ Gattinara's viticulture combines time-honored traditions with modern understandi
 
 **Canopy management**: Careful leaf removal exposes fruit to sunlight and air circulation, critical for preventing fungal diseases in this relatively humid climate. However, excessive exposure is avoided to prevent sunburn and premature ripening.
 
-**Harvest timing**: Nebbiolo's late ripening means harvest typically occurs from late September through mid-October, depending on vintage conditions. Producers must balance phenolic ripeness (tannin maturity) with acidity retention and aromatic development—a delicate equilibrium in Gattinara's climate.
+**Harvest timing**: Nebbiolo's late ripening means harvest typically occurs from late September through mid-October, depending on vintage conditions. Producers must balance phenolic ripeness (tannin maturity) with acidity retention and aromatic development: a delicate equilibrium in Gattinara's climate.
 
 **Sustainability**: Many estates practice organic or biodynamic viticulture, though certification is not universal. The focus on low yields, minimal intervention, and soil health aligns with sustainable principles, preserving the unique terroir for future generations.
 
@@ -193,7 +193,7 @@ Beyond the basic Gattinara DOCG and Riserva distinction, quality differentiation
 
 **Vintage variation**: Gattinara's continental climate creates significant vintage variation. Great vintages (2004, 2010, 2013, 2016, 2019) produce wines of exceptional concentration and aging potential, while challenging years yield lighter, more approachable wines.
 
-**Standard vs. Riserva**: Beyond longer aging requirements, Riserva typically comes from superior fruit—older vines, better sites, stricter selection—and represents the pinnacle of a producer's range.
+**Standard vs. Riserva**: Beyond longer aging requirements, Riserva typically comes from superior fruit (older vines, better sites, stricter selection) and represents the pinnacle of a producer's range.
 
 ## Wine Character & Style
 
@@ -245,7 +245,7 @@ While all three appellations are based on Nebbiolo, terroir differences create d
 
 **Terroir expression**: The volcanic soils of Gattinara create a distinctive mineral signature absent in the limestone-based Langhe. This fundamental geological difference makes Gattinara immediately identifiable to experienced tasters.
 
-**Style**: If Barolo is Nebbiolo's masculine expression—powerful, structured, demanding—and Barbaresco is feminine—elegant, perfumed, refined—then Gattinara might be considered ethereal: delicate yet complex, restrained yet profound, emphasizing subtlety and nuance.
+**Style**: If Barolo is Nebbiolo's masculine expression (powerful, structured, demanding) and Barbaresco is feminine (elegant, perfumed, refined) then Gattinara might be considered ethereal: delicate yet complex, restrained yet profound, emphasizing subtlety and nuance.
 
 **Value**: Gattinara generally offers exceptional value compared to comparable-quality Barolo or Barbaresco, as the region's lower profile results in more accessible pricing despite similar production costs and aging potential.
 
@@ -257,7 +257,7 @@ Gattinara's high acidity, balanced structure, and complex aromatics provide exce
 
 **5-10 years**: Tannins begin integrating, fruit evolves toward darker cherry and dried fruit notes, earthy and spice characteristics emerge, minerality becomes more pronounced. Wines enter an approachable phase while maintaining youthful energy.
 
-**10-20 years**: Peak drinking window for many vintages. Tertiary complexity fully develops—leather, tobacco, truffle, dried flowers—while retaining surprising freshness. Texture becomes silky and seamless.
+**10-20 years**: Peak drinking window for many vintages. Tertiary complexity fully develops (leather, tobacco, truffle, dried flowers) while retaining surprising freshness. Texture becomes silky and seamless.
 
 **20+ years**: Great vintages from top producers continue developing, showing extraordinary complexity, faded but persistent aromatics, complete tannin resolution, and remarkable persistence. The mineral backbone ensures wines never become flabby or over-the-hill.
 
@@ -310,7 +310,7 @@ Gattinara's structure, acidity, and savory character make it supremely food-frie
 **Meat dishes**:
 - **Brasato al Barolo**: Beef braised in wine (traditionally made with Barolo but excellent with Gattinara)
 - **Bollito misto**: Mixed boiled meats with salsa verde
-- **Game**: Wild boar, venison, hare, pheasant—the wine's earthy notes complement wild flavors
+- **Game**: Wild boar, venison, hare, pheasant: the wine's earthy notes complement wild flavors
 - **Roasted meats**: Beef, lamb, veal with herbs
 - **Vitello tonnato**: Veal with tuna sauce (for younger, lighter Gattinara)
 
@@ -370,4 +370,4 @@ When purchasing Gattinara, vintage selection should align with intended consumpt
 
 ---
 
-Gattinara stands as one of Italy's most distinctive and underappreciated Nebbiolo expressions. Its unique volcanic terroir, elevated position, and continental climate produce wines that balance power with elegance, intensity with refinement, and tradition with contemporary quality. As the Alto Piemonte renaissance continues, Gattinara is reclaiming its position among Italy's greatest appellations, offering wine enthusiasts the opportunity to explore Nebbiolo's remarkable versatility at relatively accessible prices. For those willing to look beyond the famous Langhe, Gattinara represents an essential expression of this noble variety—one that rewards patience, study, and appreciation of terroir's profound influence on wine character.
+Gattinara stands as one of Italy's most distinctive and underappreciated Nebbiolo expressions. Its unique volcanic terroir, elevated position, and continental climate produce wines that balance power with elegance, intensity with refinement, and tradition with contemporary quality. As the Alto Piemonte renaissance continues, Gattinara is reclaiming its position among Italy's greatest appellations, offering wine enthusiasts the opportunity to explore Nebbiolo's remarkable versatility at relatively accessible prices. For those willing to look beyond the famous Langhe, Gattinara represents an essential expression of this noble variety, one that rewards patience, study, and appreciation of terroir's profound influence on wine character.

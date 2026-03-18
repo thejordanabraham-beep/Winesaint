@@ -64,7 +64,7 @@ The southeast exposition, while generally beneficial, can occasionally create un
 
 Wines from Les Saumonts exhibit the refined elegance and mineral complexity that distinguish Premier Cru Mercurey at its finest. The climat produces Pinot Noirs characterized by exceptional balance between power and finesse, with a distinctive mineral backbone that reflects the limestone-rich terroir.
 
-Aromatically, Les Saumonts wines typically display a complex bouquet combining red fruit elements—particularly cherry, raspberry, and cranberry—with earthy undertones of forest floor, mushroom, and wet stone. The southeast exposition contributes to the development of more exotic spice notes, including white pepper, cinnamon, and subtle herbal elements that add complexity without overwhelming the primary fruit character.
+Aromatically, Les Saumonts wines typically display a complex bouquet combining red fruit elements (particularly cherry, raspberry, and cranberry) with earthy undertones of forest floor, mushroom, and wet stone. The southeast exposition contributes to the development of more exotic spice notes, including white pepper, cinnamon, and subtle herbal elements that add complexity without overwhelming the primary fruit character.
 
 The vineyard's diverse soil profile creates wines with multiple layers of flavor that unfold progressively on the palate. Initial impressions often emphasize bright red fruit and mineral tension, followed by deeper notes of dark cherry, plum, and chocolate derived from the clay components in the soil. The limestone foundation provides a consistent thread of minerality that ties together all flavor elements.
 
@@ -102,7 +102,7 @@ Domaine Lorenzon, a smaller family estate, demonstrates how careful attention to
 
 The Château de Chamirey, under the direction of the Devillard family, produces Les Saumonts wines that emphasize the climat's sophisticated side, with careful oak integration and extended lees aging that adds texture while preserving the vineyard's characteristic mineral precision.
 
-Several smaller producers and négociants also work with fruit from Les Saumonts, creating a range of interpretations that collectively demonstrate the climat's versatility and consistent quality potential. The diversity of approaches—from traditional to more modern—provides wine enthusiasts with multiple expressions of this distinctive terroir.
+Several smaller producers and négociants also work with fruit from Les Saumonts, creating a range of interpretations that collectively demonstrate the climat's versatility and consistent quality potential. The diversity of approaches (from traditional to more modern) provides wine enthusiasts with multiple expressions of this distinctive terroir.
 
 ## Historical Background & Classification
 

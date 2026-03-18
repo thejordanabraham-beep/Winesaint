@@ -1,24 +1,24 @@
 # Kirchweingärten: Mittelburgenland's Historic Church Vineyard
 
-The Kirchweingärten—literally "church vineyards"—represents one of Mittelburgenland's most historically significant parcels, where ecclesiastical viticulture shaped both the landscape and the region's viticultural identity. This is not merely a romantic notion. Church ownership of prime vineyard land in Central Europe consistently correlated with superior site selection, and the Kirchweingärten exemplifies this pattern: south-facing slopes, well-drained soils, and natural protection from northern weather systems.
+The Kirchweingärten (literally "church vineyards") represents one of Mittelburgenland's most historically significant parcels, where ecclesiastical viticulture shaped both the landscape and the region's viticultural identity. This is not merely a romantic notion. Church ownership of prime vineyard land in Central Europe consistently correlated with superior site selection, and the Kirchweingärten exemplifies this pattern: south-facing slopes, well-drained soils, and natural protection from northern weather systems.
 
 ## Geography & Terroir
 
-The Kirchweingärten occupies gently rolling terrain at elevations between 180 and 240 meters above sea level, positioned along the eastern slopes of the Mittelburgenland basin. The aspect varies from southeast to southwest across different parcels, providing extended sun exposure throughout the growing season—critical for achieving full phenolic ripeness in Blaufränkisch, the region's flagship variety.
+The Kirchweingärten occupies gently rolling terrain at elevations between 180 and 240 meters above sea level, positioned along the eastern slopes of the Mittelburgenland basin. The aspect varies from southeast to southwest across different parcels, providing extended sun exposure throughout the growing season, critical for achieving full phenolic ripeness in Blaufränkisch, the region's flagship variety.
 
-The soils here tell a complex geological story. The dominant profile consists of iron-rich loam over schist and gneiss bedrock, a composition that distinguishes these parcels from the heavier clay soils found in lower-lying Mittelburgenland vineyards. This schist component—metamorphic rock formed under intense heat and pressure—provides excellent drainage while the iron content contributes to the distinctive mineral character in the wines. Topsoil depths range from 40 to 80 centimeters before hitting the schist layer, forcing vine roots to penetrate deep into fractured bedrock in search of water and nutrients.
+The soils here tell a complex geological story. The dominant profile consists of iron-rich loam over schist and gneiss bedrock, a composition that distinguishes these parcels from the heavier clay soils found in lower-lying Mittelburgenland vineyards. This schist component (metamorphic rock formed under intense heat and pressure) provides excellent drainage while the iron content contributes to the distinctive mineral character in the wines. Topsoil depths range from 40 to 80 centimeters before hitting the schist layer, forcing vine roots to penetrate deep into fractured bedrock in search of water and nutrients.
 
-The iron presence is visible: dig beneath the surface and you'll find rusty-red streaks through the brown loam. This ferrous oxide doesn't just color the soil; it influences wine character, contributing to what local winemakers describe as a "blood orange" quality in Kirchweingärten Blaufränkisch—a savory, almost metallic edge that distinguishes these wines from fruit grown on purely limestone or clay sites.
+The iron presence is visible: dig beneath the surface and you'll find rusty-red streaks through the brown loam. This ferrous oxide doesn't just color the soil; it influences wine character, contributing to what local winemakers describe as a "blood orange" quality in Kirchweingärten Blaufränkisch: a savory, almost metallic edge that distinguishes these wines from fruit grown on purely limestone or clay sites.
 
 ### Microclimate Considerations
 
-Mittelburgenland sits in the rain shadow of the Alps, receiving only 600-700 millimeters of annual precipitation. The Kirchweingärten benefits from slightly higher rainfall—approximately 650-750 millimeters—due to its position on elevated slopes where orographic lift triggers additional precipitation. This modest increase matters significantly in drought years, when vines on lower, flatter sites experience water stress earlier in the season.
+Mittelburgenland sits in the rain shadow of the Alps, receiving only 600-700 millimeters of annual precipitation. The Kirchweingärten benefits from slightly higher rainfall (approximately 650-750 millimeters) due to its position on elevated slopes where orographic lift triggers additional precipitation. This modest increase matters significantly in drought years, when vines on lower, flatter sites experience water stress earlier in the season.
 
 Diurnal temperature variation averages 14-16°C during the ripening period from August through October. Cool air drains downslope at night, pooling in the valleys while the mid-slope Kirchweingärten parcels maintain slightly warmer nighttime temperatures. This prevents the excessive acid retention that can plague higher-elevation sites while still preserving freshness through morning cool temperatures.
 
 ## Wine Character
 
-Blaufränkisch from the Kirchweingärten exhibits a distinctive profile that sits between the powerful, extracted style of the warmest Mittelburgenland sites and the lean, high-acid expressions from cooler locations. The wines show dark cherry and blackberry fruit in their youth, evolving toward dried plum, black tea, and forest floor with bottle age. The iron-rich soils contribute a savory dimension—think cured meat, black olive, and ferrous mineral notes—that provides counterpoint to the fruit.
+Blaufränkisch from the Kirchweingärten exhibits a distinctive profile that sits between the powerful, extracted style of the warmest Mittelburgenland sites and the lean, high-acid expressions from cooler locations. The wines show dark cherry and blackberry fruit in their youth, evolving toward dried plum, black tea, and forest floor with bottle age. The iron-rich soils contribute a savory dimension (think cured meat, black olive, and ferrous mineral notes) that provides counterpoint to the fruit.
 
 The structure deserves attention. Tannins are firm but fine-grained, the result of schist's ability to regulate water supply and prevent the dilution that creates coarse tannin structures. Acidity typically ranges from 5.5 to 6.2 grams per liter (as tartaric acid), providing backbone without the piercing sharpness that characterizes Blaufränkisch from limestone-dominant sites. Alcohol levels generally fall between 13.0% and 13.5% for klassik-level wines, rising to 13.5-14.5% for Reserve bottlings.
 
@@ -30,7 +30,7 @@ Mittelburgenland DAC regulations restrict new oak aging to Reserve-level wines, 
 
 ## Comparison to Neighboring Vineyards
 
-The Kirchweingärten's iron-rich schist soils create a distinct departure from surrounding sites. To the west, vineyards on the valley floor work with deeper, heavier clay-loam soils that produce more muscular, tannic Blaufränkisch requiring extended aging. These wines show darker fruit profiles—blackberry, cassis—and often higher alcohol levels (14-15%) in warm vintages.
+The Kirchweingärten's iron-rich schist soils create a distinct departure from surrounding sites. To the west, vineyards on the valley floor work with deeper, heavier clay-loam soils that produce more muscular, tannic Blaufränkisch requiring extended aging. These wines show darker fruit profiles (blackberry, cassis) and often higher alcohol levels (14-15%) in warm vintages.
 
 To the east and north, parcels on limestone-influenced soils yield Blaufränkisch with brighter acidity, red fruit character (cherry, cranberry), and a more vertical, linear structure. The Kirchweingärten occupies a middle ground: more mineral and structured than the clay sites, but richer and more textured than the limestone vineyards.
 
@@ -40,7 +40,7 @@ This positioning makes Kirchweingärten particularly valuable for blending. Prod
 
 The ecclesiastical origins of the Kirchweingärten date to the medieval period, when Cistercian and Benedictine monasteries established extensive vineyard holdings across Burgenland. Church records from the 14th century reference vineyard parcels "adjacent to the church property" in what is now the Kirchweingärten site, though precise boundaries have shifted over centuries.
 
-Monastic viticulture in Central Europe emphasized quality over quantity—monks had both the resources for patient winemaking and the theological motivation to produce wine worthy of sacramental use. This approach led to meticulous site selection, with religious orders claiming the best-drained, optimally exposed slopes. The Kirchweingärten's superior positioning reflects this calculated selection process.
+Monastic viticulture in Central Europe emphasized quality over quantity, monks had both the resources for patient winemaking and the theological motivation to produce wine worthy of sacramental use. This approach led to meticulous site selection, with religious orders claiming the best-drained, optimally exposed slopes. The Kirchweingärten's superior positioning reflects this calculated selection process.
 
 Following the dissolution of monastic landholdings in the 18th and 19th centuries, the Kirchweingärten parcels passed into private hands, subdivided among local farming families. This fragmentation continues today, with the Kirchweingärten comprising multiple small holdings rather than a single monopole. Parcel sizes range from 0.5 to 3.5 hectares, typical for Austrian vineyard structure.
 
@@ -56,7 +56,7 @@ Several estates have established reputations for compelling Kirchweingärten bot
 
 **Weingut Igler** produces a single-vineyard Kirchweingärten Blaufränkisch from 1.2 hectares of vines averaging 25 years of age. The Igler bottling tends toward a more restrained style, with 12 months in large neutral oak casks and minimal new wood influence. This approach allows the site's mineral character to emerge more clearly, producing wines that emphasize structure and aging potential over immediate fruit appeal.
 
-Several smaller producers—including Weingut Haider and Weingut Schrock—also work parcels within the Kirchweingärten, though their production volumes remain modest and distribution limited primarily to Austria and German-speaking markets.
+Several smaller producers (including Weingut Haider and Weingut Schrock) also work parcels within the Kirchweingärten, though their production volumes remain modest and distribution limited primarily to Austria and German-speaking markets.
 
 ## Classification & Recognition
 
@@ -74,7 +74,7 @@ The Kirchweingärten's mid-slope position and schist soils provide some bufferin
 
 In hot, dry vintages (2015, 2017, 2018), the schist's water retention becomes crucial. The fractured bedrock allows deep-rooted vines to access moisture unavailable to vines on shallower soils, preventing the complete shutdown of photosynthesis that creates jammy, overripe flavors. These warm vintages produce Kirchweingärten wines with concentrated fruit, elevated alcohol (13.5-14.5%), and lower acidity (5.2-5.8 g/L), requiring careful winemaking to maintain balance.
 
-Cool, wet vintages (2014, 2016, 2021) present different challenges. Extended ripening periods can lead to botrytis pressure, particularly in parcels with dense canopies or poor air circulation. However, when disease pressure remains manageable, these vintages yield Kirchweingärten wines with exceptional freshness, moderate alcohol (12.5-13.5%), and pronounced acidity (6.0-6.5 g/L). The wines require patience—tannins integrate more slowly in cool vintages—but often show the greatest aging potential.
+Cool, wet vintages (2014, 2016, 2021) present different challenges. Extended ripening periods can lead to botrytis pressure, particularly in parcels with dense canopies or poor air circulation. However, when disease pressure remains manageable, these vintages yield Kirchweingärten wines with exceptional freshness, moderate alcohol (12.5-13.5%), and pronounced acidity (6.0-6.5 g/L). The wines require patience (tannins integrate more slowly in cool vintages) but often show the greatest aging potential.
 
 Ideal conditions combine warm, dry late summer weather with cool September nights and limited October rainfall. The 2012 and 2019 vintages approached this ideal, producing Kirchweingärten Blaufränkisch with ripe but not overripe fruit, balanced alcohol and acidity, and fine-grained tannins. These are the vintages that best express the site's character: savory complexity, mineral backbone, and the distinctive iron-tinged notes that mark wines from these schist soils.
 

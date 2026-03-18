@@ -10,7 +10,7 @@ The Grand Cru vineyards of Chablis are remarkably compact, creating a concentrat
 
 ### Grand Cru Designation
 
-Preuses achieved Grand Cru status as part of the INAO (Institut National des Appellations d'Origine) classification system, representing the pinnacle of Chablis wine production. The Grand Cru designation in Chablis dates back to the mid-20th century when the boundaries and quality hierarchies were formally codified, though the reputation of these sites extends back centuries earlier. Only approximately 100 hectares across seven climats—Blanchot, Bougros, Les Clos, Grenouilles, Preuses, Valmur, and Vaudésir—hold this prestigious status, representing less than 2% of total Chablis production.
+Preuses achieved Grand Cru status as part of the INAO (Institut National des Appellations d'Origine) classification system, representing the pinnacle of Chablis wine production. The Grand Cru designation in Chablis dates back to the mid-20th century when the boundaries and quality hierarchies were formally codified, though the reputation of these sites extends back centuries earlier. Only approximately 100 hectares across seven climats (Blanchot, Bougros, Les Clos, Grenouilles, Preuses, Valmur, and Vaudésir) hold this prestigious status, representing less than 2% of total Chablis production.
 
 The Grand Cru classification requires strict adherence to quality standards, including lower yields (maximum 54 hectoliters per hectare compared to 60 for Premier Cru), higher minimum potential alcohol levels, and rigorous tasting panel approval. These regulations ensure that wines bearing the Preuses Grand Cru designation meet the highest standards of quality and typicity.
 
@@ -30,7 +30,7 @@ By the 18th and 19th centuries, Preuses was already recognized among the finest 
 
 ### Specific Soil Types
 
-The geology of Preuses is dominated by Kimmeridgian marl, the signature soil type that defines Chablis Grand Cru terroir. This Upper Jurassic marine sediment, dating back approximately 150-157 million years, consists of a complex matrix of limestone, clay, and countless fossilized oyster shells (Exogyra virgula), remnants of the ancient sea that once covered this region. This fossil-rich composition is often cited—though debated among scientists—as contributing to the distinctive minerality and salinity that characterizes Chablis wines.
+The geology of Preuses is dominated by Kimmeridgian marl, the signature soil type that defines Chablis Grand Cru terroir. This Upper Jurassic marine sediment, dating back approximately 150-157 million years, consists of a complex matrix of limestone, clay, and countless fossilized oyster shells (Exogyra virgula), remnants of the ancient sea that once covered this region. This fossil-rich composition is often cited (though debated among scientists) as contributing to the distinctive minerality and salinity that characterizes Chablis wines.
 
 The Kimmeridgian marl in Preuses presents as a gray-white to beige soil with a crumbly texture when dry, becoming sticky and plastic when wet. The soil depth varies across the climat, with some sections featuring shallow topsoil directly over limestone bedrock, while other areas have deeper marl deposits. This variation contributes to the complexity of wines from Preuses, as different soil depths influence water retention, drainage, and the vine's access to nutrients.
 
@@ -78,7 +78,7 @@ Many producers also employ oil-burning heaters (smudge pots or bougies) placed t
 
 Chardonnay is the sole permitted variety for Chablis Grand Cru, and the expression achieved in Preuses represents a benchmark for the variety's ability to communicate terroir with transparency and precision. The clones planted include traditional Chablis selections adapted over generations to local conditions, as well as some Dijon clones (notably 95, 96, and 124) that offer aromatic complexity and disease resistance.
 
-In Preuses, Chardonnay develops a distinctive profile characterized by tension between richness and restraint. The wines display Chardonnay's varietal signatures—white fruits, citrus, floral notes—but these are filtered through the mineral lens of Kimmeridgian terroir. The resulting wines show complexity without excess, power without heaviness, and intensity without loss of finesse.
+In Preuses, Chardonnay develops a distinctive profile characterized by tension between richness and restraint. The wines display Chardonnay's varietal signatures (white fruits, citrus, floral notes) but these are filtered through the mineral lens of Kimmeridgian terroir. The resulting wines show complexity without excess, power without heaviness, and intensity without loss of finesse.
 
 The moderate yields required by Grand Cru regulations (typically 45-50 hl/ha in practice, below the 54 hl/ha maximum) ensure concentration without over-extraction. Producers carefully manage canopy density, leaf pulling, and crop thinning to achieve optimal ripeness while maintaining the natural acidity that is Chablis's hallmark.
 
@@ -94,9 +94,9 @@ Pruning follows strict protocols to manage yields and ensure even ripening. Wint
 
 ### Typical Flavor Profiles and Aromas
 
-Wines from Preuses are distinguished by an extraordinary aromatic complexity that evolves from youth through maturity. In their youth, these wines display precise citrus notes—lemon zest, lime, and occasionally grapefruit—alongside green apple and white peach. Floral elements emerge, particularly white flowers, acacia, and occasionally honeysuckle. The mineral dimension manifests as wet stones, crushed shells, and a distinctive saline quality that evokes the ancient marine origins of the soil.
+Wines from Preuses are distinguished by an extraordinary aromatic complexity that evolves from youth through maturity. In their youth, these wines display precise citrus notes (lemon zest, lime, and occasionally grapefruit) alongside green apple and white peach. Floral elements emerge, particularly white flowers, acacia, and occasionally honeysuckle. The mineral dimension manifests as wet stones, crushed shells, and a distinctive saline quality that evokes the ancient marine origins of the soil.
 
-As Preuses wines evolve with age, the aromatic profile shifts toward richer tones while maintaining freshness. Stone fruits become more pronounced—white peach, nectarine, apricot—and nutty qualities emerge, including almond and hazelnut. Honey notes appear in mature examples, alongside sophisticated tertiary aromas of beeswax, lanolin, and truffle. The mineral core persists throughout evolution, providing a through-line that connects youth to maturity.
+As Preuses wines evolve with age, the aromatic profile shifts toward richer tones while maintaining freshness. Stone fruits become more pronounced (white peach, nectarine, apricot) and nutty qualities emerge, including almond and hazelnut. Honey notes appear in mature examples, alongside sophisticated tertiary aromas of beeswax, lanolin, and truffle. The mineral core persists throughout evolution, providing a through-line that connects youth to maturity.
 
 On the palate, Preuses combines power with elegance, offering substantial mid-palate weight without heaviness. The texture is often described as silky or creamy, with excellent density and mouth-coating richness balanced by vibrant acidity. The finish extends impressively, with mineral persistence and a slight saline quality that keeps the wine fresh despite its richness. This balance between opulence and tension is a hallmark of Preuses at its best.
 
@@ -106,25 +106,25 @@ Within the Chablis Grand Cru hierarchy, Preuses occupies a distinctive position.
 
 Relative to Vaudésir, its eastern neighbor, Preuses is often rounder and more voluptuous, with Vaudésir displaying more overt minerality and linear precision. Vaudésir can be steely and tightly wound, while Preuses balances minerality with riper fruit expression and textural generosity.
 
-Compared to Bougros to the west, Preuses is less austere and shows earlier approachability. Bougros's steeper slopes and more exposed position produce wines of great tension and mineral intensity that can be challenging in youth. Preuses achieves a middle path—structured enough for cellaring but generous enough to enjoy with moderate age.
+Compared to Bougros to the west, Preuses is less austere and shows earlier approachability. Bougros's steeper slopes and more exposed position produce wines of great tension and mineral intensity that can be challenging in youth. Preuses achieves a middle path, structured enough for cellaring but generous enough to enjoy with moderate age.
 
 Among all the Grand Crus, Preuses is often characterized as combining the elegance of Vaudésir with the richness of Les Clos, creating a wine of exceptional balance and versatility. It is perhaps the most "complete" of the Grand Crus, lacking any sharp edges while maintaining definition and terroir character.
 
 ### Minerality, Acidity, Body Characteristics
 
-The minerality of Preuses is a defining characteristic, though the precise source and nature of this quality remain subjects of debate. Tasters consistently identify mineral qualities—crushed stones, wet chalk, oyster shell, flint—that seem to directly express the Kimmeridgian soil. Whether this results from specific mineral uptake, soil microbiome influence, or other factors, the perception is undeniable and fundamental to the wine's identity.
+The minerality of Preuses is a defining characteristic, though the precise source and nature of this quality remain subjects of debate. Tasters consistently identify mineral qualities (crushed stones, wet chalk, oyster shell, flint) that seem to directly express the Kimmeridgian soil. Whether this results from specific mineral uptake, soil microbiome influence, or other factors, the perception is undeniable and fundamental to the wine's identity.
 
-Acidity in Preuses is pronounced but well-integrated, typically measuring 6-8 g/l (expressed as tartaric acid equivalent). This acidity provides structure for aging, balances the wine's richness, and stimulates appetite in food pairing contexts. The acidity has a particular quality—not sharp or aggressive but rather precise and cleansing, with excellent integration even in youth.
+Acidity in Preuses is pronounced but well-integrated, typically measuring 6-8 g/l (expressed as tartaric acid equivalent). This acidity provides structure for aging, balances the wine's richness, and stimulates appetite in food pairing contexts. The acidity has a particular quality, not sharp or aggressive but rather precise and cleansing, with excellent integration even in youth.
 
 The body of Preuses wines typically falls in the medium-plus to full range, with alcohol levels around 13-13.5% (depending on vintage) and substantial extract providing texture and weight. However, the wines never feel heavy or ponderous; the balancing acidity and mineral tension ensure the wine remains vibrant and energetic despite its substance. This combination of body and freshness is a hallmark of great Chardonnay and a particular strength of Preuses.
 
 ### How Terroir Shapes the Wine
 
-The distinctive character of Preuses is ultimately inseparable from its terroir—the combination of soil, slope, exposure, and climate that shapes vine behavior and grape composition. The Kimmeridgian marl's influence extends beyond mineral flavors to the fundamental structure and balance of the wine. The clay component moderates vine water stress, preventing excessive concentration while the limestone ensures adequate drainage and stress for quality.
+The distinctive character of Preuses is ultimately inseparable from its terroir: the combination of soil, slope, exposure, and climate that shapes vine behavior and grape composition. The Kimmeridgian marl's influence extends beyond mineral flavors to the fundamental structure and balance of the wine. The clay component moderates vine water stress, preventing excessive concentration while the limestone ensures adequate drainage and stress for quality.
 
 The southwest exposure shapes ripening patterns, allowing for full phenolic maturity while the cool climate preserves acidity. This balance is crucial: without Chablis's cool temperatures, the wine would lose its characteristic freshness and precision; without the favorable Grand Cru exposition, grapes might not achieve complete ripeness, resulting in green, hollow wines. Preuses occupies the sweet spot where both factors align.
 
-The elevation and slope provide mesoclimate advantages—warmer temperatures, better drainage, reduced frost risk—that allow for physiological ripeness while maintaining freshness. These advantages are subtle but cumulative, resulting in wines of greater complexity and completeness than sites lacking these favorable conditions. Terroir in Preuses is not a single factor but a constellation of interrelated elements that together create unique conditions for exceptional wine.
+The elevation and slope provide mesoclimate advantages (warmer temperatures, better drainage, reduced frost risk) that allow for physiological ripeness while maintaining freshness. These advantages are subtle but cumulative, resulting in wines of greater complexity and completeness than sites lacking these favorable conditions. Terroir in Preuses is not a single factor but a constellation of interrelated elements that together create unique conditions for exceptional wine.
 
 ## Aging & Evolution
 
@@ -138,13 +138,13 @@ Several factors contribute to Preuses's aging capacity. The high natural acidity
 
 ### Evolution in Bottle
 
-The evolution of Preuses in bottle follows a characteristic trajectory. In the first 1-3 years after vintage, wines display primary fruit and floral aromas with prominent mineral notes and vibrant acidity. The texture may be somewhat tight, and the various elements—fruit, minerality, oak (if used)—may not be fully integrated. These young wines are certainly enjoyable but don't reveal the full potential of the climat.
+The evolution of Preuses in bottle follows a characteristic trajectory. In the first 1-3 years after vintage, wines display primary fruit and floral aromas with prominent mineral notes and vibrant acidity. The texture may be somewhat tight, and the various elements (fruit, minerality, oak (if used)) may not be fully integrated. These young wines are certainly enjoyable but don't reveal the full potential of the climat.
 
 From 3-7 years, Preuses enters an early maturity phase where fruit characters deepen and tertiary notes begin emerging. The wine becomes more harmonious, with better integration of components. Texture becomes more silky, and the wine shows increasing complexity. This is often an ideal time for first approach, offering development while maintaining freshness.
 
-From 8-15 years, mature characteristics dominate. Fruit moves toward dried and cooked notes—baked apple, preserved lemon, dried apricot. Nutty, honeyed, and waxy notes emerge prominently. The wine's texture becomes richer and more unctuous, while acidity remains present though less prominent. The mineral core persists, now interwoven with tertiary complexity rather than standing in contrast to fruit.
+From 8-15 years, mature characteristics dominate. Fruit moves toward dried and cooked notes, baked apple, preserved lemon, dried apricot. Nutty, honeyed, and waxy notes emerge prominently. The wine's texture becomes richer and more unctuous, while acidity remains present though less prominent. The mineral core persists, now interwoven with tertiary complexity rather than standing in contrast to fruit.
 
-Beyond 15 years, old Preuses develops profound tertiary complexity—truffle, mushroom, forest floor, petrol notes—while the best examples maintain remarkable freshness. The wine becomes more contemplative, rewarding patient consideration with layers of nuance. Not all bottles reach this stage gracefully, but those that do offer extraordinary experiences.
+Beyond 15 years, old Preuses develops profound tertiary complexity (truffle, mushroom, forest floor, petrol notes) while the best examples maintain remarkable freshness. The wine becomes more contemplative, rewarding patient consideration with layers of nuance. Not all bottles reach this stage gracefully, but those that do offer extraordinary experiences.
 
 ### Optimal Drinking Windows
 
@@ -173,13 +173,13 @@ Frost-affected vintages (2016, 2021) see dramatically reduced yields but concent
 
 **La Chablisienne**, the prestigious cooperative, produces Preuses from member growers' parcels. Their "Château Grenouilles" bottling sometimes includes Preuses fruit (the climats are adjacent and historically linked). The cooperative's technical expertise and scale allow for significant investment in quality, producing wines that compete with top domaines at more accessible prices.
 
-**Domaine Vincent Dauvissat**, while more famous for holdings in other Grand Crus, occasionally produces Preuses from small holdings. Any Dauvissat bottling represents a benchmark for Chablis, with their minimalist approach—old oak, extended lees aging, no batonnage—allowing pure terroir expression.
+**Domaine Vincent Dauvissat**, while more famous for holdings in other Grand Crus, occasionally produces Preuses from small holdings. Any Dauvissat bottling represents a benchmark for Chablis, with their minimalist approach (old oak, extended lees aging, no batonnage) allowing pure terroir expression.
 
 **Domaine Louis Michel et Fils** takes an absolutist approach to Chablis, using no oak whatsoever. Their Preuses demonstrates how the climat expresses in stainless steel, offering crystalline purity and mineral precision that some consider the most authentic expression of terroir.
 
 ### Benchmark Bottlings
 
-Among the most consistently excellent Preuses bottlings, William Fèvre's stands out for availability, consistency, and typicity. The wine shows classic Preuses character—mineral backbone, citrus and white fruit, excellent texture—while remaining approachable. Retail pricing typically ranges €70-100 depending on vintage and market.
+Among the most consistently excellent Preuses bottlings, William Fèvre's stands out for availability, consistency, and typicity. The wine shows classic Preuses character (mineral backbone, citrus and white fruit, excellent texture) while remaining approachable. Retail pricing typically ranges €70-100 depending on vintage and market.
 
 Christian Moreau's Preuses is harder to find but offers extraordinary quality, particularly in strong vintages like 2014 and 2010. The wine demonstrates how Preuses can achieve power without heaviness, showing substantial mid-palate weight while maintaining elegance.
 
@@ -229,4 +229,4 @@ In restaurant settings, decanting may be unnecessary for practical reasons. Simp
 
 ---
 
-Preuses represents Chablis Grand Cru at its most harmonious—powerful yet elegant, mineral yet fruity, structured yet approachable. Understanding this climat requires appreciating the subtle interplay of geological, climatic, and human factors that together create wines of distinctive character and exceptional quality. Whether enjoyed young for vibrant freshness or aged for complex development, Preuses offers profound expressions of Chardonnay and terroir that reward study and contemplation while providing immediate sensory pleasure.
+Preuses represents Chablis Grand Cru at its most harmonious, powerful yet elegant, mineral yet fruity, structured yet approachable. Understanding this climat requires appreciating the subtle interplay of geological, climatic, and human factors that together create wines of distinctive character and exceptional quality. Whether enjoyed young for vibrant freshness or aged for complex development, Preuses offers profound expressions of Chardonnay and terroir that reward study and contemplation while providing immediate sensory pleasure.

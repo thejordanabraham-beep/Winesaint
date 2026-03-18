@@ -4,7 +4,7 @@
 
 Les Vallerots stands as one of the most distinguished Premier Cru vineyards within the prestigious commune of Nuits-Saint-Georges, strategically positioned in the heart of Burgundy's Côte de Nuits. This exceptional climat occupies a prime location on the hillside above the village, forming part of the southern sector of Nuits-Saint-Georges' Premier Cru vineyards that create a natural amphitheater of vines cascading toward the village below.
 
-The vineyard sits approximately 300 meters southwest of the village center, nestled between other renowned Premier Cru sites that collectively form one of Burgundy's most concentrated expressions of terroir diversity. Les Vallerots benefits from an ideal mid-slope position that captures the essence of what makes Nuits-Saint-Georges unique within the Côte de Nuits—a perfect balance between the power of the northern communes like Gevrey-Chambertin and the elegance found further south in Vosne-Romanée.
+The vineyard sits approximately 300 meters southwest of the village center, nestled between other renowned Premier Cru sites that collectively form one of Burgundy's most concentrated expressions of terroir diversity. Les Vallerots benefits from an ideal mid-slope position that captures the essence of what makes Nuits-Saint-Georges unique within the Côte de Nuits: a perfect balance between the power of the northern communes like Gevrey-Chambertin and the elegance found further south in Vosne-Romanée.
 
 Within the broader context of the Côte de Nuits, Les Vallerots represents the sophisticated character that has made Nuits-Saint-Georges a reference point for Burgundian winemaking. The climat's position allows it to benefit from optimal sun exposure while remaining protected from harsh winds, creating conditions that consistently produce wines of remarkable depth and complexity. This geographical positioning has earned Les Vallerots recognition as one of the commune's most reliable and expressive Premier Cru sites.
 
@@ -12,7 +12,7 @@ Within the broader context of the Côte de Nuits, Les Vallerots represents the s
 
 Les Vallerots encompasses approximately 6.75 hectares (16.7 acres), making it a moderately sized climat within Nuits-Saint-Georges' Premier Cru hierarchy. This substantial area allows for meaningful production while maintaining the concentrated quality that defines Premier Cru status. The vineyard's size enables multiple proprietors to hold parcels within its boundaries, each contributing their individual interpretations of this exceptional terroir.
 
-The climat's dimensions provide sufficient scale to demonstrate consistent terroir expression across different sections, while remaining intimate enough that variations in microclimate and soil composition create subtle but discernible differences throughout the vineyard. This size represents an ideal balance for a Premier Cru vineyard—large enough to establish a clear identity and reputation, yet compact enough to maintain the precision and focus that Burgundy's classification system demands.
+The climat's dimensions provide sufficient scale to demonstrate consistent terroir expression across different sections, while remaining intimate enough that variations in microclimate and soil composition create subtle but discernible differences throughout the vineyard. This size represents an ideal balance for a Premier Cru vineyard, large enough to establish a clear identity and reputation, yet compact enough to maintain the precision and focus that Burgundy's classification system demands.
 
 ## Terroir & Geology
 
@@ -22,7 +22,7 @@ The soil composition in Les Vallerots features a sophisticated blend of approxim
 
 The vineyard's slope orientation faces predominantly east-southeast, providing morning sun exposure that gently warms the vines while protecting them from excessive afternoon heat. The slope gradient ranges from 8-12%, steep enough to ensure excellent drainage and sun exposure while remaining manageable for sustainable viticulture. This slope aspect is crucial for ripening Pinot Noir in Burgundy's continental climate, allowing grapes to achieve physiological maturity while maintaining essential acidity.
 
-The elevation of Les Vallerots ranges from 250 to 280 meters above sea level, positioning it in the optimal zone for Premier Cru quality. This elevation provides protection from frost while ensuring adequate temperature variation between day and night—a critical factor for developing complex flavor compounds and maintaining natural acidity in the grapes.
+The elevation of Les Vallerots ranges from 250 to 280 meters above sea level, positioning it in the optimal zone for Premier Cru quality. This elevation provides protection from frost while ensuring adequate temperature variation between day and night: a critical factor for developing complex flavor compounds and maintaining natural acidity in the grapes.
 
 Geological surveys reveal that the vineyard sits on sedimentary deposits laid down approximately 165 million years ago, with limestone formations containing numerous fossil fragments that contribute to the soil's porosity and mineral content. These ancient marine deposits create a terroir that imparts distinctive mineral characteristics to the wines, contributing to their aging potential and complex aromatic development.
 
@@ -98,7 +98,7 @@ The variation among producers demonstrates Les Vallerots' versatility as a terro
 
 Les Vallerots has been recognized as exceptional terroir for centuries, with viticultural records dating back to the 12th century when Cistercian monks first identified the site's potential. The climat name derives from old French terminology related to valley positions, reflecting the vineyard's geographical characteristics.
 
-The vineyard gained formal recognition as Premier Cru in 1936 when France established its Appellation d'Origine Contrôlée system. This classification confirmed what local vignerons had known for generations—that Les Vallerots possessed terroir characteristics capable of producing wines worthy of premier status within Nuits-Saint-Georges.
+The vineyard gained formal recognition as Premier Cru in 1936 when France established its Appellation d'Origine Contrôlée system. This classification confirmed what local vignerons had known for generations, that Les Vallerots possessed terroir characteristics capable of producing wines worthy of premier status within Nuits-Saint-Georges.
 
 Historical records from the 18th and 19th centuries consistently reference Les Vallerots as producing wines of exceptional quality, with prices reflecting recognition of the site's superior terroir. Wine merchants in Beaune and Dijon specifically sought Les Vallerots wines for their cellars, understanding that the climat produced wines capable of long aging and development.
 

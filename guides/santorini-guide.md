@@ -1,37 +1,37 @@
 # Santorini: Greece's Volcanic Vinous Anomaly
 
-Santorini produces wine under conditions that would cause most viticulturists to abandon hope. The island receives virtually no summer rainfall. Winds blow with such ferocity that conventional trellis systems are impossible across most of the appellation. The volcanic soils are so devoid of organic matter that olive trees—those hardy survivors of Mediterranean agriculture—cannot establish themselves. Yet this crescent-shaped remnant of a catastrophic Bronze Age volcanic explosion has become the most visible, critically acclaimed, and expensive wine region in modern Greece.
+Santorini produces wine under conditions that would cause most viticulturists to abandon hope. The island receives virtually no summer rainfall. Winds blow with such ferocity that conventional trellis systems are impossible across most of the appellation. The volcanic soils are so devoid of organic matter that olive trees (those hardy survivors of Mediterranean agriculture) cannot establish themselves. Yet this crescent-shaped remnant of a catastrophic Bronze Age volcanic explosion has become the most visible, critically acclaimed, and expensive wine region in modern Greece.
 
-This is not merely a triumph of marketing over substance. Santorini's ungrafted, own-rooted Assyrtiko vines—some over a century old, trained into low basket shapes to survive the gales—produce white wines of extraordinary tension, minerality, and aging potential. The island's unique viticulture represents an unbroken link to ancient Greek winemaking practices, preserved partly by isolation and partly by the sheer impossibility of doing things any other way.
+This is not merely a triumph of marketing over substance. Santorini's ungrafted, own-rooted Assyrtiko vines (some over a century old, trained into low basket shapes to survive the gales) produce white wines of extraordinary tension, minerality, and aging potential. The island's unique viticulture represents an unbroken link to ancient Greek winemaking practices, preserved partly by isolation and partly by the sheer impossibility of doing things any other way.
 
 ## GEOLOGY
 
 ### The Caldera's Creation
 
-Santorini's wine terroir begins with one of the most violent volcanic events in human history. Around 1600 BCE, the Minoan eruption—also called the Thera eruption—ejected approximately 60 cubic kilometers of material and caused the center of the island to collapse into the sea, creating the dramatic caldera that defines Santorini today. This explosion was roughly four times larger than Krakatoa's 1883 eruption.
+Santorini's wine terroir begins with one of the most violent volcanic events in human history. Around 1600 BCE, the Minoan eruption (also called the Thera eruption) ejected approximately 60 cubic kilometers of material and caused the center of the island to collapse into the sea, creating the dramatic caldera that defines Santorini today. This explosion was roughly four times larger than Krakatoa's 1883 eruption.
 
 The event left behind a crescent-shaped main island (Thira) and several smaller islands (Thirasia, Aspronisi, and the volcanic Nea Kameni and Palea Kameni in the caldera's center) arranged around a submerged volcanic crater plunging to depths of 400 meters. The geological violence that destroyed Bronze Age civilization created the foundation for Santorini's modern wine identity.
 
 ### Volcanic Soil Composition
 
-Santorini's vineyard soils are dominated by volcanic materials unlike anything found elsewhere in Greece. The most distinctive component is **volcanic ash and pumice**—lightweight, porous materials that cover much of the island's surface to considerable depth. This ash, locally called *aspa*, can extend several meters down and consists primarily of volcanic glass fragments, pumice particles, and weathered basaltic material.
+Santorini's vineyard soils are dominated by volcanic materials unlike anything found elsewhere in Greece. The most distinctive component is **volcanic ash and pumice**, lightweight, porous materials that cover much of the island's surface to considerable depth. This ash, locally called *aspa*, can extend several meters down and consists primarily of volcanic glass fragments, pumice particles, and weathered basaltic material.
 
-Beneath and mixed with the ash layers lies **basalt**—dark, iron-rich volcanic rock that gives many Santorini vineyards their characteristic black-tinted soils. This basaltic material weathers slowly, contributing minerals but providing almost no organic matter. The combination creates soils that are:
+Beneath and mixed with the ash layers lies **basalt**, dark, iron-rich volcanic rock that gives many Santorini vineyards their characteristic black-tinted soils. This basaltic material weathers slowly, contributing minerals but providing almost no organic matter. The combination creates soils that are:
 
 - Extremely porous and free-draining (preventing any waterlogging despite occasional winter rains)
 - Exceptionally low in organic content (typically less than 1%)
 - High in minerals, particularly iron, magnesium, and trace elements
 - Light in texture, allowing easy root penetration despite the lack of conventional topsoil
 
-There is also significant **limestone** presence in certain sectors, remnants of the pre-volcanic island. These limestone outcrops and inclusions—particularly in the island's interior and eastern sections—add calcium carbonate to the mineral mix and create subtle terroir variations that some producers are beginning to explore through single-vineyard bottlings.
+There is also significant **limestone** presence in certain sectors, remnants of the pre-volcanic island. These limestone outcrops and inclusions (particularly in the island's interior and eastern sections) add calcium carbonate to the mineral mix and create subtle terroir variations that some producers are beginning to explore through single-vineyard bottlings.
 
-The volcanic soils' porosity creates a critical viticultural advantage: they absorb and retain nighttime moisture from the humid marine air. In an environment receiving only 350-400mm of annual rainfall—with virtually none falling between May and September—this hygroscopic quality provides essential water to vines that would otherwise face lethal drought stress.
+The volcanic soils' porosity creates a critical viticultural advantage: they absorb and retain nighttime moisture from the humid marine air. In an environment receiving only 350-400mm of annual rainfall (with virtually none falling between May and September) this hygroscopic quality provides essential water to vines that would otherwise face lethal drought stress.
 
 ### Comparison to Other Volcanic Wine Regions
 
 Santorini shares volcanic origins with regions like Mount Etna in Sicily and the Canary Islands, but the geology differs significantly. Etna's soils formed from continuous eruptions over hundreds of thousands of years, creating layered deposits of different volcanic materials at various stages of weathering. The result is more developed soils with greater organic content and more complex mineral stratification.
 
-Santorini's soils, by contrast, formed primarily from a single catastrophic event. The ash and pumice deposited in 1600 BCE still dominate the vineyard landscape. Subsequent minor eruptions (the most recent in 1950) added material, but the fundamental soil character remains tied to that Bronze Age explosion. This creates remarkable uniformity across the island—nearly all Santorini vineyards share the same basic volcanic ash/pumice/basalt composition, with variations mainly in the proportions and depths of these components rather than in fundamentally different soil types.
+Santorini's soils, by contrast, formed primarily from a single catastrophic event. The ash and pumice deposited in 1600 BCE still dominate the vineyard landscape. Subsequent minor eruptions (the most recent in 1950) added material, but the fundamental soil character remains tied to that Bronze Age explosion. This creates remarkable uniformity across the island, nearly all Santorini vineyards share the same basic volcanic ash/pumice/basalt composition, with variations mainly in the proportions and depths of these components rather than in fundamentally different soil types.
 
 The extreme youth of these soils (geologically speaking) and their volcanic glass content also distinguish Santorini from regions like the Canary Islands, where older volcanic soils have weathered into clay-rich materials. Santorini's soils remain sandy-textured, mineral-dominated, and organically impoverished.
 
@@ -39,7 +39,7 @@ The extreme youth of these soils (geologically speaking) and their volcanic glas
 
 ### Maritime Mediterranean with Extreme Conditions
 
-Santorini experiences a **hot Mediterranean climate** with pronounced maritime influence—but "maritime influence" here means something different than in Bordeaux or coastal California. The Aegean Sea moderates temperature extremes, preventing the most severe heat and keeping winter temperatures mild. Summer daytime temperatures regularly reach 28-32°C (82-90°F), with occasional spikes above 35°C (95°F). Winter temperatures rarely drop below 10°C (50°F), and frost is virtually unknown.
+Santorini experiences a **hot Mediterranean climate** with pronounced maritime influence, but "maritime influence" here means something different than in Bordeaux or coastal California. The Aegean Sea moderates temperature extremes, preventing the most severe heat and keeping winter temperatures mild. Summer daytime temperatures regularly reach 28-32°C (82-90°F), with occasional spikes above 35°C (95°F). Winter temperatures rarely drop below 10°C (50°F), and frost is virtually unknown.
 
 The island receives approximately **350-400mm (14-16 inches) of rainfall annually**, placing it at the drier end of viable viticulture. Critically, rainfall distribution is extremely seasonal: nearly 80% falls between October and March, with the growing season (April through September) receiving almost no precipitation. June, July, and August are effectively rainless months.
 
@@ -60,13 +60,13 @@ These winds create both challenges and benefits:
 **Benefits:**
 - Rapid drying of any moisture on grape clusters, virtually eliminating fungal disease pressure
 - Cooling effect during peak summer heat (though this is partly offset by desiccation)
-- Natural pest control—many insects simply cannot establish themselves in such conditions
+- Natural pest control, many insects simply cannot establish themselves in such conditions
 
 The wind regime explains Santorini's most distinctive viticultural feature: the **kouloura** or **stefani** training system. Vines are pruned and woven into low basket shapes, with canes arranged in concentric circles and shoots growing inward to create a protective nest for grape clusters. This keeps vegetation and fruit close to the ground (typically 30-50cm high), below the worst wind speeds, and allows the vine's own foliage to shelter developing grapes.
 
 ### Humidity and Dew
 
-Despite the aridity and constant wind, Santorini experiences significant **nighttime humidity** due to its maritime position. Relative humidity can reach 70-80% during summer nights, creating heavy dew formation. This atmospheric moisture—absorbed by the porous volcanic soils and available to vine roots—provides the margin between survival and death for vines receiving no irrigation and no summer rainfall.
+Despite the aridity and constant wind, Santorini experiences significant **nighttime humidity** due to its maritime position. Relative humidity can reach 70-80% during summer nights, creating heavy dew formation. This atmospheric moisture (absorbed by the porous volcanic soils and available to vine roots) provides the margin between survival and death for vines receiving no irrigation and no summer rainfall.
 
 The morning dew also creates a brief period of higher humidity that vines can utilize before the sun and wind desiccate the environment. This diurnal humidity variation is critical to understanding how viticulture functions on Santorini: the vines are essentially farming moisture from the air.
 
@@ -74,7 +74,7 @@ The morning dew also creates a brief period of higher humidity that vines can ut
 
 Santorini faces particular vulnerability to climate change effects. Rising temperatures increase evapotranspiration rates, while the wind and porous soils already maximize water stress. The island cannot easily expand irrigation (limited water resources, PDO restrictions) or shift plantings to cooler sites (already at sea level to 300m elevation, with limited remaining vineyard land).
 
-Some producers report earlier harvest dates—now typically beginning in late July or early August rather than mid-August—and increased alcohol potential in harvested fruit. The challenge is maintaining Assyrtiko's signature acidity while achieving phenolic ripeness, a balance that becomes more difficult as temperatures rise.
+Some producers report earlier harvest dates (now typically beginning in late July or early August rather than mid-August) and increased alcohol potential in harvested fruit. The challenge is maintaining Assyrtiko's signature acidity while achieving phenolic ripeness, a balance that becomes more difficult as temperatures rise.
 
 Paradoxically, the extreme conditions may provide some resilience: Santorini viticulture already operates at the edge of possibility, and the vines and practices have evolved to handle severe stress. The question is whether incremental increases in temperature and drought will push the system beyond its adaptive capacity.
 
@@ -82,17 +82,17 @@ Paradoxically, the extreme conditions may provide some resilience: Santorini vit
 
 ### Assyrtiko: The Volcanic Protagonist
 
-**Assyrtiko** dominates Santorini viticulture, accounting for approximately 80% of all plantings. This is not a recent monoculture—Assyrtiko has been the island's principal variety for centuries, though its current prominence increased as other varieties declined in the 20th century.
+**Assyrtiko** dominates Santorini viticulture, accounting for approximately 80% of all plantings. This is not a recent monoculture. Assyrtiko has been the island's principal variety for centuries, though its current prominence increased as other varieties declined in the 20th century.
 
 #### Viticulture and Adaptation
 
 Assyrtiko demonstrates remarkable adaptation to Santorini's extreme conditions. The variety is naturally **vigorous**, which proves advantageous in nutrient-poor volcanic soils where less robust varieties would struggle to establish adequate canopy. This vigor must be managed through the kouloura training system, which restricts vegetative growth while protecting the vine from wind damage.
 
-The variety is **late-budding** (reducing spring frost risk, though this is minimal on Santorini) and **late-ripening**, typically harvested in early to mid-August. Assyrtiko maintains **high natural acidity** even at full physiological ripeness—the key to its quality and aging potential. Typical harvest parameters show pH levels of 3.0-3.2 with total acidity often exceeding 7-8 g/L (expressed as tartaric acid), even as potential alcohol reaches 13.5-14.5%.
+The variety is **late-budding** (reducing spring frost risk, though this is minimal on Santorini) and **late-ripening**, typically harvested in early to mid-August. Assyrtiko maintains **high natural acidity** even at full physiological ripeness: the key to its quality and aging potential. Typical harvest parameters show pH levels of 3.0-3.2 with total acidity often exceeding 7-8 g/L (expressed as tartaric acid), even as potential alcohol reaches 13.5-14.5%.
 
 The variety's **thick skins** provide protection against both sunburn and the desiccating wind. These skins also contribute phenolic structure and a subtle textural grip to the wines, distinguishing Assyrtiko from more neutral white varieties.
 
-Assyrtiko is **drought-tolerant** to an exceptional degree, surviving summer conditions that would devastate most Vitis vinifera varieties. The deep root systems—encouraged by the porous volcanic soils—access moisture at considerable depth, while the hygroscopic soils provide supplemental water captured from nighttime humidity.
+Assyrtiko is **drought-tolerant** to an exceptional degree, surviving summer conditions that would devastate most Vitis vinifera varieties. The deep root systems (encouraged by the porous volcanic soils) access moisture at considerable depth, while the hygroscopic soils provide supplemental water captured from nighttime humidity.
 
 #### DNA and Origins
 
@@ -102,9 +102,9 @@ The variety's genetic isolation and adaptation to Santorini's unique conditions 
 
 #### Wine Characteristics
 
-Assyrtiko from Santorini produces wines of intense **minerality**—a term often overused but genuinely applicable here. The wines display pronounced **citrus** (lemon, lime, bitter orange peel), **saline** notes, and a distinctive **flinty or smoky** character often attributed to the volcanic soils. With age, Assyrtiko develops **complex tertiary** aromas including honey, beeswax, dried herbs, and petrol-like notes reminiscent of aged Riesling.
+Assyrtiko from Santorini produces wines of intense **minerality**, a term often overused but genuinely applicable here. The wines display pronounced **citrus** (lemon, lime, bitter orange peel), **saline** notes, and a distinctive **flinty or smoky** character often attributed to the volcanic soils. With age, Assyrtiko develops **complex tertiary** aromas including honey, beeswax, dried herbs, and petrol-like notes reminiscent of aged Riesling.
 
-The wines are **full-bodied** (typically 13-14.5% alcohol) but never heavy, with the high acidity providing structural backbone and freshness. Texture is often described as **waxy or oily** despite the lack of malolactic fermentation in most examples—this textural quality derives from the variety's phenolic content and natural glycerol levels.
+The wines are **full-bodied** (typically 13-14.5% alcohol) but never heavy, with the high acidity providing structural backbone and freshness. Texture is often described as **waxy or oily** despite the lack of malolactic fermentation in most examples: this textural quality derives from the variety's phenolic content and natural glycerol levels.
 
 Assyrtiko's aging potential is remarkable for a Mediterranean white wine. Top examples can evolve for **10-20+ years**, developing complexity while retaining their acid structure. This longevity is rare among Greek whites and has been central to Santorini's critical acclaim.
 
@@ -118,7 +118,7 @@ Some producers vinify **Aidani as a varietal wine**, though this remains relativ
 
 ### Athiri: The Traditional Blender
 
-**Athiri** (also spelled Athiri Aspro) is the third white variety in Santorini's traditional trio, representing approximately 5% of plantings. Historically more important—it was a major component of traditional Santorini blends—Athiri has declined as producers have emphasized Assyrtiko's quality and distinctiveness.
+**Athiri** (also spelled Athiri Aspro) is the third white variety in Santorini's traditional trio, representing approximately 5% of plantings. Historically more important, it was a major component of traditional Santorini blends. Athiri has declined as producers have emphasized Assyrtiko's quality and distinctiveness.
 
 Athiri contributes **moderate acidity**, **citrus and herbal notes**, and **body** to blends. The variety is less distinctive than Assyrtiko or Aidani but provides useful blending material, particularly for wines intended for earlier consumption. Some producers use small amounts of Athiri to moderate Assyrtiko's intensity in entry-level bottlings.
 
@@ -128,7 +128,7 @@ Athiri contributes **moderate acidity**, **citrus and herbal notes**, and **body
 
 Mavrotragano produces **deeply colored**, **full-bodied** wines with **firm tannins**, **dark fruit** character (black cherry, plum), and distinctive **herbal and mineral** notes reflecting the volcanic terroir. The variety ripens late and can struggle to achieve full phenolic maturity in cooler sites, but when successful produces wines of considerable power and aging potential.
 
-Plantings remain limited—probably less than 2% of total vineyard area—and most Mavrotragano is vinified as a varietal wine rather than used in blends. Production is small-scale and wines are typically premium-priced.
+Plantings remain limited (probably less than 2% of total vineyard area) and most Mavrotragano is vinified as a varietal wine rather than used in blends. Production is small-scale and wines are typically premium-priced.
 
 ### Mandilaria: Historical Importance, Modern Decline
 
@@ -161,7 +161,7 @@ Modern Santorini winemaking typically involves:
 
 **Lees aging:** Many producers employ **extended lees contact** (6-12 months or longer), often with **bâtonnage** (lees stirring), to build texture and complexity. This practice adds weight and a subtle richness that balances Assyrtiko's intensity.
 
-**Oak aging:** Minimal oak influence is typical, though some producers use **older barrels** or **large format oak** (foudres) for aging without adding obvious wood character. A few producers experiment with new oak, but this remains controversial—the goal is generally to showcase volcanic terroir rather than winemaking technique.
+**Oak aging:** Minimal oak influence is typical, though some producers use **older barrels** or **large format oak** (foudres) for aging without adding obvious wood character. A few producers experiment with new oak, but this remains controversial: the goal is generally to showcase volcanic terroir rather than winemaking technique.
 
 #### Single-Vineyard Bottlings
 
@@ -177,7 +177,7 @@ Notable single-vineyard sites include:
 
 **Emporio:** Southeastern sector with more limestone in the volcanic matrix, some producers report more floral aromatics and softer texture.
 
-These distinctions remain subtle—Santorini's terroir is more uniform than Burgundy's or Barolo's—but single-vineyard bottlings allow exploration of the island's nuances.
+These distinctions remain subtle (Santorini's terroir is more uniform than Burgundy's or Barolo's) but single-vineyard bottlings allow exploration of the island's nuances.
 
 ### Nykteri: The Traditional Style
 
@@ -235,7 +235,7 @@ Santorini operates as a single PDO (Protected Designation of Origin) covering th
 
 Vineyards are scattered throughout Santorini but concentrate in several key areas:
 
-**Central Santorini:** The island's interior, including the villages of **Megalochori**, **Pyrgos**, and **Emporio**, contains significant vineyard area. These sites range from sea level to approximately 300m elevation—the island's maximum vineyard elevation. The interior receives slightly less wind exposure than coastal areas but experiences similar temperatures.
+**Central Santorini:** The island's interior, including the villages of **Megalochori**, **Pyrgos**, and **Emporio**, contains significant vineyard area. These sites range from sea level to approximately 300m elevation: the island's maximum vineyard elevation. The interior receives slightly less wind exposure than coastal areas but experiences similar temperatures.
 
 **Western Coast:** The dramatic caldera-facing western coast has limited vineyard area due to steep topography and tourism development, but some vineyards exist near **Oia** and other western villages. These sites receive maximum wind exposure and sea influence.
 
@@ -247,13 +247,13 @@ Vineyards are scattered throughout Santorini but concentrate in several key area
 
 ### Elevation and Aspect
 
-Santorini's vineyards range from **sea level to approximately 300m elevation**—a modest range compared to mountainous wine regions. This limited elevation variation means temperature differences across the island are minimal. The more significant variables are:
+Santorini's vineyards range from **sea level to approximately 300m elevation**, a modest range compared to mountainous wine regions. This limited elevation variation means temperature differences across the island are minimal. The more significant variables are:
 
 - **Wind exposure** (interior sites slightly more sheltered than coastal)
 - **Distance from sea** (affecting humidity and temperature moderation)
 - **Soil depth and composition** (subtle variations in ash/basalt/limestone proportions)
 
-**Aspect** (slope direction) is less critical than in continental regions because the intense sun and reflective light-colored soils provide abundant solar radiation from all directions. The low, ground-hugging kouloura training system also minimizes aspect effects—the vines essentially create their own microclimate within the basket structure.
+**Aspect** (slope direction) is less critical than in continental regions because the intense sun and reflective light-colored soils provide abundant solar radiation from all directions. The low, ground-hugging kouloura training system also minimizes aspect effects: the vines essentially create their own microclimate within the basket structure.
 
 ## VINTAGE VARIATION
 
@@ -287,7 +287,7 @@ The overall vintage-to-vintage quality variation in Santorini is **modest compar
 
 ### Estate Argyros
 
-The **Argyros family** has been making wine on Santorini since the 1950s, but the modern estate dates to the 1970s when it expanded from a small *kanava* (traditional home winery) to commercial production. **Estate Argyros** is now one of Santorini's largest and most respected producers, with approximately 120 hectares of estate vineyards—an enormous holding by Santorini standards, where most producers farm 5-15 hectares.
+The **Argyros family** has been making wine on Santorini since the 1950s, but the modern estate dates to the 1970s when it expanded from a small *kanava* (traditional home winery) to commercial production. **Estate Argyros** is now one of Santorini's largest and most respected producers, with approximately 120 hectares of estate vineyards: an enormous holding by Santorini standards, where most producers farm 5-15 hectares.
 
 Argyros produces a range of Assyrtiko bottlings, from accessible entry-level wines to age-worthy single-vineyard cuvées. The estate's **"Atlantis"** is a widely available introduction to Santorini Assyrtiko, while **"Evdemon"** and single-vineyard bottlings like **"Monsigniori"** showcase the estate's top sites. Argyros also produces notable Vinsanto, with extended aging in old oak creating complex, oxidative sweet wines.
 
@@ -319,7 +319,7 @@ Gaia has been influential in raising quality standards, investing in modern wine
 
 ### Boutari
 
-**Boutari**, one of Greece's largest wine companies, established operations on Santorini in 1989, becoming the first major outside investment in the island's wine industry. This was a pivotal moment in Santorini's modern history—Boutari brought capital, technical expertise, and market access that helped revitalize the island's wine sector.
+**Boutari**, one of Greece's largest wine companies, established operations on Santorini in 1989, becoming the first major outside investment in the island's wine industry. This was a pivotal moment in Santorini's modern history. Boutari brought capital, technical expertise, and market access that helped revitalize the island's wine sector.
 
 Boutari's work in the 1990s included introducing temperature-controlled fermentation, stainless steel tanks, and modern quality control practices that were not standard on the island. The company also promoted earlier harvest dates to preserve acidity and freshness, moving away from the high-alcohol, low-acid style of traditional Santorini wines.
 
@@ -355,7 +355,7 @@ The influx of new producers and outside investment has raised quality standards 
 
 ### Real Estate Pressure
 
-Santorini faces an existential challenge: **tourism versus viticulture**. The island attracts over 2 million visitors annually, making it one of the Mediterranean's most popular destinations. Tourism generates enormous revenue—far more than wine production—creating intense pressure to convert vineyard land to hotels, restaurants, and vacation rentals.
+Santorini faces an existential challenge: **tourism versus viticulture**. The island attracts over 2 million visitors annually, making it one of the Mediterranean's most popular destinations. Tourism generates enormous revenue (far more than wine production) creating intense pressure to convert vineyard land to hotels, restaurants, and vacation rentals.
 
 Vineyard land prices have increased dramatically, making it economically irrational for many growers to continue farming rather than sell to developers. This threatens the survival of Santorini's unique viticultural heritage, particularly the old, ungrafted vines that are central to wine quality.
 
@@ -363,11 +363,11 @@ Some producers and local authorities have advocated for stronger protections for
 
 ### Labor and Mechanization
 
-Santorini viticulture is **extremely labor-intensive**. The kouloura training system requires hand pruning, hand training of canes, and hand harvesting—mechanization is impossible. As tourism provides more lucrative employment, finding vineyard labor becomes increasingly difficult and expensive.
+Santorini viticulture is **extremely labor-intensive**. The kouloura training system requires hand pruning, hand training of canes, and hand harvesting, mechanization is impossible. As tourism provides more lucrative employment, finding vineyard labor becomes increasingly difficult and expensive.
 
 The aging of Santorini's farming population compounds this challenge. Many vineyard owners are elderly, with younger generations pursuing careers in tourism or leaving the island. Without a new generation of vignerons, many small vineyards may be abandoned or sold.
 
-Some producers have experimented with **vertical trellis systems** in sheltered areas where wind exposure is less severe. These systems allow mechanization and reduce labor costs, but they are controversial—traditionalists argue they compromise wine quality and abandon Santorini's unique viticultural heritage. The debate between preserving tradition and adapting to economic reality will shape Santorini's future.
+Some producers have experimented with **vertical trellis systems** in sheltered areas where wind exposure is less severe. These systems allow mechanization and reduce labor costs, but they are controversial, traditionalists argue they compromise wine quality and abandon Santorini's unique viticultural heritage. The debate between preserving tradition and adapting to economic reality will shape Santorini's future.
 
 ### Climate Change Adaptation
 
@@ -402,4 +402,4 @@ There is also debate about **authenticity** in winemaking. Should Santorini wine
 
 ---
 
-*Santorini represents viticulture at the edge of possibility—a place where extreme conditions forced the development of unique practices that have become the foundation for wines of extraordinary character. The island's future depends on balancing economic development with preservation of its viticultural heritage, maintaining quality standards as commercial success grows, and adapting traditional practices to climate change without losing the essential character that makes Santorini wines unlike any others in the world.*
+*Santorini represents viticulture at the edge of possibility: a place where extreme conditions forced the development of unique practices that have become the foundation for wines of extraordinary character. The island's future depends on balancing economic development with preservation of its viticultural heritage, maintaining quality standards as commercial success grows, and adapting traditional practices to climate change without losing the essential character that makes Santorini wines unlike any others in the world.*

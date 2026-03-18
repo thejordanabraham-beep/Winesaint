@@ -1,6 +1,6 @@
 # Kaseler Kehrnagel: Ruwer's Steep Southern Amphitheater
 
-The Kehrnagel stands as one of the Ruwer's most dramatically sited vineyards—a steep, south-facing bowl of Devonian slate that captures sunlight with unusual intensity for this cool tributary valley. Located in Kasel, the largest wine village on the Ruwer, this einzellage represents the region's ability to produce Riesling of genuine concentration and aging potential, not merely the delicate, featherweight styles often associated with the area.
+The Kehrnagel stands as one of the Ruwer's most dramatically sited vineyards: a steep, south-facing bowl of Devonian slate that captures sunlight with unusual intensity for this cool tributary valley. Located in Kasel, the largest wine village on the Ruwer, this einzellage represents the region's ability to produce Riesling of genuine concentration and aging potential, not merely the delicate, featherweight styles often associated with the area.
 
 ## Geography and Aspect
 
@@ -12,13 +12,13 @@ Elevation ranges from approximately 140 meters at the base to 220 meters at the 
 
 The Kehrnagel sits entirely on blue Devonian slate (Blauschiefer), formed 350-400 million years ago during the Devonian period when this region lay beneath a tropical sea. This is the same geological formation that defines the Middle Mosel's greatest sites, though here it appears in a slightly different weathering pattern due to the Ruwer's specific microclimate.
 
-The slate fractures into thin, vertical plates that allow Riesling roots to penetrate deeply—often 10-15 meters in established vines. This deep rooting provides access to water reserves during dry summers while maintaining the stress necessary for concentrated fruit. The dark slate absorbs and radiates heat, creating a mesoclimate several degrees warmer than ambient air temperature during the day.
+The slate fractures into thin, vertical plates that allow Riesling roots to penetrate deeply, often 10-15 meters in established vines. This deep rooting provides access to water reserves during dry summers while maintaining the stress necessary for concentrated fruit. The dark slate absorbs and radiates heat, creating a mesoclimate several degrees warmer than ambient air temperature during the day.
 
 Topsoil is minimal, typically 20-40 centimeters over solid slate bedrock. This extreme poverty forces vines to struggle, naturally limiting yields to 40-50 hectoliters per hectare in quality-focused parcels.
 
 ## Wine Character
 
-Kehrnagel Rieslings express the tension between Ruwer delicacy and Mosel power. In cooler vintages, they show the crystalline precision and citrus-driven aromatics typical of the tributary—lime zest, white peach, wet stone. But in warmer years, the southern exposure and slate foundation produce wines of unexpected density, with riper stone fruit, herbal complexity, and a distinctive smoky minerality.
+Kehrnagel Rieslings express the tension between Ruwer delicacy and Mosel power. In cooler vintages, they show the crystalline precision and citrus-driven aromatics typical of the tributary, lime zest, white peach, wet stone. But in warmer years, the southern exposure and slate foundation produce wines of unexpected density, with riper stone fruit, herbal complexity, and a distinctive smoky minerality.
 
 The key structural element is acidity. Even in ripe vintages, Kehrnagel maintains 8-9 grams per liter of total acidity, providing the backbone for decades of evolution. Twenty-year-old examples develop petrol, honey, and lanolin notes while retaining remarkable freshness.
 

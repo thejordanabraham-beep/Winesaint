@@ -52,7 +52,7 @@ Site-specific challenges in Les Blanchards include managing the moderate clay co
 
 ## Wine Character & Style
 
-Wines from Les Blanchards exhibit the refined elegance and mineral precision that define the finest expressions of Morey-Saint-Denis. The aromatic profile typically displays red fruit characteristics—particularly cherry, raspberry, and cranberry—complemented by distinctive floral notes of violet and rose petal. As the wines develop complexity through barrel aging and bottle maturation, secondary aromas of forest floor, dried herbs, and subtle spice elements emerge.
+Wines from Les Blanchards exhibit the refined elegance and mineral precision that define the finest expressions of Morey-Saint-Denis. The aromatic profile typically displays red fruit characteristics (particularly cherry, raspberry, and cranberry) complemented by distinctive floral notes of violet and rose petal. As the wines develop complexity through barrel aging and bottle maturation, secondary aromas of forest floor, dried herbs, and subtle spice elements emerge.
 
 The mineral backbone derived from Les Blanchards' limestone-rich soils manifests as a distinctive chalky texture and saline finish that distinguishes these wines from neighboring climats. This mineral foundation provides both immediate appeal and long-term aging potential, creating wines that evolve gracefully over decades.
 
@@ -70,7 +70,7 @@ Within the Morey-Saint-Denis appellation, Les Blanchards occupies a distinctive 
 
 When compared to the Premier Cru Clos des Lambrays (elevated to Grand Cru status in 1981), Les Blanchards produces wines with more obvious fruit character and less austere minerality. Clos des Lambrays tends toward greater structure and requires longer aging to reach optimal drinking windows, while Les Blanchards offers earlier drinking pleasure without sacrificing complexity.
 
-Les Millandes, another Premier Cru in close proximity, produces wines with similar elegance but typically shows more earthy, forest floor characteristics compared to Les Blanchards' fruit-forward profile. The soil composition differences—with Les Millandes containing more iron-rich clay—contribute to this distinction in wine character.
+Les Millandes, another Premier Cru in close proximity, produces wines with similar elegance but typically shows more earthy, forest floor characteristics compared to Les Blanchards' fruit-forward profile. The soil composition differences (with Les Millandes containing more iron-rich clay) contribute to this distinction in wine character.
 
 Compared to Premier Crus from neighboring Chambolle-Musigny, Les Blanchards wines display greater body and mineral presence while maintaining comparable elegance. The limestone influence in Les Blanchards creates more structured wines than many Chambolle sites, though with less exotic perfume and floral intensity.
 

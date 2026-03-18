@@ -54,7 +54,7 @@ Harvest timing in Clos du Vernoy typically occurs during late September to early
 
 ## Wine Character & Style
 
-Wines from Clos du Vernoy display the elegant refinement and mineral complexity that distinguish Givry's finest Premier Cru sites. The aromatic profile typically opens with red fruit characteristics—cherry, raspberry, and redcurrant—complemented by floral notes of rose petals and violets that reflect the limestone-rich terroir. As wines develop, secondary aromatics emerge including subtle spice elements of white pepper, cinnamon, and clove, along with earthy undertones of mushroom and forest floor.
+Wines from Clos du Vernoy display the elegant refinement and mineral complexity that distinguish Givry's finest Premier Cru sites. The aromatic profile typically opens with red fruit characteristics (cherry, raspberry, and redcurrant) complemented by floral notes of rose petals and violets that reflect the limestone-rich terroir. As wines develop, secondary aromatics emerge including subtle spice elements of white pepper, cinnamon, and clove, along with earthy undertones of mushroom and forest floor.
 
 The palate structure reveals the site's terroir expression through a combination of concentrated fruit flavors and distinctive mineral backbone. Tannins display fine-grained texture with sufficient structure for aging while maintaining approachability in youth. The limestone influence contributes a characteristic mineral thread that runs through the wine from attack to finish, providing both freshness and complexity.
 

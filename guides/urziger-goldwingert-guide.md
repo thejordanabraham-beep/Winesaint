@@ -1,6 +1,6 @@
 # Urziger Goldwingert: A Sub-Region Guide
 
-**Note to Editors**: The research context provided contains information about Châteauneuf-du-Pape, Barolo, Barbaresco, and Burgundy—none of which relate to Urziger Goldwingert in Germany's Mosel Valley. This appears to be a data retrieval error.
+**Note to Editors**: The research context provided contains information about Châteauneuf-du-Pape, Barolo, Barbaresco, and Burgundy, none of which relate to Urziger Goldwingert in Germany's Mosel Valley. This appears to be a data retrieval error.
 
 ## What We Know About Urziger Goldwingert
 
@@ -12,13 +12,13 @@ Urziger Goldwingert is a vineyard site (Einzellage) in the village of Ürzig, lo
 
 ## The Volcanic Distinction
 
-What distinguishes Goldwingert—and Ürzig generally—from neighboring Mittelmosel sites is its volcanic soil composition. While much of the Mosel is dominated by Devonian slate (gray, blue, or red), Ürzig's vineyards contain weathered red volcanic rock and iron-rich soils. This geological anomaly creates wines with a different aromatic and textural profile than the classic "slate" character found meters away in adjacent villages.
+What distinguishes Goldwingert (and Ürzig generally) from neighboring Mittelmosel sites is its volcanic soil composition. While much of the Mosel is dominated by Devonian slate (gray, blue, or red), Ürzig's vineyards contain weathered red volcanic rock and iron-rich soils. This geological anomaly creates wines with a different aromatic and textural profile than the classic "slate" character found meters away in adjacent villages.
 
 This is not a subtle distinction. The volcanic influence typically produces Rieslings with more exotic spice notes, broader texture, and a distinct mineral expression compared to the razor-sharp precision of pure slate sites.
 
 ## Wine Character
 
-Goldwingert Rieslings tend toward riper stone fruit flavors—apricot and peach—with distinctive spice elements. The wines often show more body and glycerin than their slate-grown counterparts while maintaining the high natural acidity that defines quality Mosel Riesling. In warmer vintages, the volcanic warmth can push ripeness levels higher, making this site particularly suited to Spätlese and Auslese production.
+Goldwingert Rieslings tend toward riper stone fruit flavors (apricot and peach) with distinctive spice elements. The wines often show more body and glycerin than their slate-grown counterparts while maintaining the high natural acidity that defines quality Mosel Riesling. In warmer vintages, the volcanic warmth can push ripeness levels higher, making this site particularly suited to Spätlese and Auslese production.
 
 ## Production Context
 

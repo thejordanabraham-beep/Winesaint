@@ -10,7 +10,7 @@ The climat is positioned in the commune of Poinchy, sharing this administrative 
 
 ### Premier Cru Designation
 
-Beauroy achieved Premier Cru status as part of the INAO's formal classification system, which distinguishes these vineyards as superior to village-level Chablis but below the seven Grand Cru climats. The Premier Cru designation recognizes Beauroy's exceptional terroir, favorable exposition, and proven ability to produce wines of notable complexity and aging potential. Within Chablis' three-tier quality pyramid—Petit Chablis at the base, Chablis and Premier Cru in the middle tier, and Grand Cru at the apex—Beauroy occupies an important position as a reliable source of serious, age-worthy wines.
+Beauroy achieved Premier Cru status as part of the INAO's formal classification system, which distinguishes these vineyards as superior to village-level Chablis but below the seven Grand Cru climats. The Premier Cru designation recognizes Beauroy's exceptional terroir, favorable exposition, and proven ability to produce wines of notable complexity and aging potential. Within Chablis' three-tier quality pyramid. Petit Chablis at the base, Chablis and Premier Cru in the middle tier, and Grand Cru at the apex. Beauroy occupies an important position as a reliable source of serious, age-worthy wines.
 
 The climat name "Beauroy" likely derives from "beau roi" (beautiful king) or possibly from a historical landowner, though its precise etymology remains debated among local historians. What is certain is that vines have been cultivated on these slopes for centuries, contributing to Chablis' reputation since the medieval period.
 
@@ -62,7 +62,7 @@ Chablis occupies one of France's most northerly quality wine regions, positioned
 
 The Serein valley creates air movement patterns that influence temperature and frost risk. Cold air naturally drains downslope, accumulating in the valley bottom, which means that mid- and upper-slope parcels in Beauroy generally experience less severe frost damage than the lowest sections. The southwest exposition also means these vineyards capture maximum warmth during the growing season, an advantage in this marginal climate.
 
-Annual rainfall averages approximately 750mm, with the driest period typically occurring in late summer—ideal for ripening and harvest. However, vintage variation is significant in Chablis, and vignerons must adapt their practices to the specific conditions each year presents.
+Annual rainfall averages approximately 750mm, with the driest period typically occurring in late summer, ideal for ripening and harvest. However, vintage variation is significant in Chablis, and vignerons must adapt their practices to the specific conditions each year presents.
 
 ### Frost Risk and Protection Methods
 
@@ -84,7 +84,7 @@ The investment required for frost protection is substantial, and not all produce
 
 Chardonnay is the sole permitted grape variety in Chablis, and Beauroy showcases particular expressions of this noble cultivar. The clone selection and vine age significantly influence the resulting wine character. Many producers maintain parcels of older vines (40+ years) that produce lower yields but more concentrated, complex fruit.
 
-In Beauroy's terroir, Chardonnay typically develops flavors of green apple, citrus (lemon, lime), white flowers, and the distinctive flinty, chalky minerality associated with Chablis. The southwest exposition and clay-enriched soils can contribute slightly riper fruit tones—think white peach or pear in warmer vintages—while maintaining structural acidity.
+In Beauroy's terroir, Chardonnay typically develops flavors of green apple, citrus (lemon, lime), white flowers, and the distinctive flinty, chalky minerality associated with Chablis. The southwest exposition and clay-enriched soils can contribute slightly riper fruit tones (think white peach or pear in warmer vintages) while maintaining structural acidity.
 
 Phenolic ripeness is crucial; harvesting decisions balance physiological maturity, acidity retention, and aromatic development. Beauroy generally reaches optimal harvest parameters in mid- to late September, though vintage variation can shift this by several weeks.
 
@@ -169,9 +169,9 @@ Beauroy's evolution follows a predictable arc, though vintage variation creates 
 
 **Years 3-5**: The wine enters an early maturity phase, developing more complex aromatics. Honey, beeswax, and toasted hazelnut notes begin to emerge. The texture rounds slightly, though acidity remains vibrant. Mineral character becomes more pronounced and nuanced.
 
-**Years 6-10**: Secondary and tertiary development accelerates. Aromas of honey, dried flowers, mushroom, truffle, lanolin, and petrol (in a positive sense) emerge. The fruit character shifts from fresh to preserved—lemon curd rather than lemon zest, baked apple rather than crisp apple. Integration is superb, with all elements harmonizing.
+**Years 6-10**: Secondary and tertiary development accelerates. Aromas of honey, dried flowers, mushroom, truffle, lanolin, and petrol (in a positive sense) emerge. The fruit character shifts from fresh to preserved, lemon curd rather than lemon zest, baked apple rather than crisp apple. Integration is superb, with all elements harmonizing.
 
-**Years 10+**: In successful bottles, Beauroy achieves profound complexity, offering layered aromas and flavors, silky texture, and remarkable length. The wine may take on oxidative notes (intentionally, not as a flaw)—nuts, dried fruits, spices—while maintaining freshness through its structural acidity.
+**Years 10+**: In successful bottles, Beauroy achieves profound complexity, offering layered aromas and flavors, silky texture, and remarkable length. The wine may take on oxidative notes (intentionally, not as a flaw), nuts, dried fruits, spices, while maintaining freshness through its structural acidity.
 
 ### Optimal Drinking Windows
 
@@ -243,13 +243,13 @@ Approaches to winemaking in Beauroy vary considerably, though all aim to express
 
 ### Classic Pairings
 
-Chablis Premier Cru, with its acidity, minerality, and medium body, ranks among the world's most versatile white wines for food pairing. Beauroy's particular character—slightly more textured than the leanest examples—expands pairing possibilities:
+Chablis Premier Cru, with its acidity, minerality, and medium body, ranks among the world's most versatile white wines for food pairing. Beauroy's particular character (slightly more textured than the leanest examples) expands pairing possibilities:
 
 **Shellfish and crustaceans**: The classic pairing of Chablis and oysters is legendary, and Beauroy's minerality and salinity echo the sea. Also excellent with clams, mussels, scallops, lobster, crab, and shrimp, particularly in butter-based preparations.
 
 **Fin fish**: Sole, turbot, sea bass, halibut, and other delicate white fish, whether simply prepared or in cream sauces. The wine's acidity cuts through richness while complementing the fish's delicate flavors.
 
-**Freshwater fish**: Trout, pike, and perch—traditional Burgundian pairings—are superb with Beauroy.
+**Freshwater fish**: Trout, pike, and perch (traditional Burgundian pairings) are superb with Beauroy.
 
 **Poultry**: Roast chicken, especially with tarragon or other herbs, chicken in cream sauce, turkey, guinea hen, and quail. The wine's structure supports the meat's texture while refreshing the palate.
 
@@ -285,14 +285,14 @@ Proper serving temperature is crucial for appreciating Beauroy's complexity:
 
 ### Glassware
 
-Use quality white wine glasses with a medium-sized bowl—neither too large (which can dissipate delicate aromatics) nor too small (which concentrates alcohol and limits the wine's expression). Glasses with some curvature at the rim help concentrate aromatics while directing the wine to appropriate areas of the palate.
+Use quality white wine glasses with a medium-sized bowl, neither too large (which can dissipate delicate aromatics) nor too small (which concentrates alcohol and limits the wine's expression). Glasses with some curvature at the rim help concentrate aromatics while directing the wine to appropriate areas of the palate.
 
 ## Conclusion
 
 Beauroy represents an important and distinctive voice within the Chablis Premier Cru chorus. While it may lack the historical cachet of certain left-bank climats or the immediate proximity to the Grand Cru hillside, Beauroy's substantial holdings, favorable terroir, and southwest exposition enable the production of compelling wines that balance immediate appeal with aging potential.
 
-The climat's particular expression—combining vibrant minerality with approachable fruit and medium body—makes it both accessible to newcomers and satisfying to experienced Chablis enthusiasts. Its relatively larger size ensures availability and often offers better value than more celebrated Premier Crus, while its quality remains consistently high across numerous producers.
+The climat's particular expression (combining vibrant minerality with approachable fruit and medium body) makes it both accessible to newcomers and satisfying to experienced Chablis enthusiasts. Its relatively larger size ensures availability and often offers better value than more celebrated Premier Crus, while its quality remains consistently high across numerous producers.
 
-For those seeking to understand Chablis' diversity and the subtle but significant variations that terroir creates even within a single appellation, Beauroy provides an excellent study. It embodies Chablis' essential characteristics—Chardonnay shaped by Kimmeridgian limestone, cool-climate freshness, and mineral precision—while offering its own distinctive personality within this remarkable wine region's hierarchy.
+For those seeking to understand Chablis' diversity and the subtle but significant variations that terroir creates even within a single appellation, Beauroy provides an excellent study. It embodies Chablis' essential characteristics (Chardonnay shaped by Kimmeridgian limestone, cool-climate freshness, and mineral precision) while offering its own distinctive personality within this remarkable wine region's hierarchy.
 
 Whether enjoyed young with a platter of oysters or aged for a decade to accompany roasted poultry and mushrooms, Beauroy Premier Cru delivers the satisfaction that has made Chablis one of the world's benchmark expressions of terroir-driven white wine.

@@ -24,7 +24,7 @@ The upper sections of the vineyard feature thin topsoils over hard limestone bed
 
 Moving down the slope, the soil profile gradually changes, with increased clay content providing greater water retention and fertility. This clay component, derived from the weathering of limestone and marl deposits, creates a balanced growing medium that supports healthy vine development without excessive vigor. The clay-limestone mixture in the mid-slope sections often produces the most balanced and complete expressions of Clos Saint-Jacques terroir.
 
-The lower portions of the vineyard contain higher concentrations of alluvial deposits and colluvium—eroded material that has migrated downslope over millennia. While still maintaining the limestone base essential for quality Pinot Noir, these areas provide slightly deeper, more fertile soils that can produce wines with greater flesh and immediate appeal.
+The lower portions of the vineyard contain higher concentrations of alluvial deposits and colluvium, eroded material that has migrated downslope over millennia. While still maintaining the limestone base essential for quality Pinot Noir, these areas provide slightly deeper, more fertile soils that can produce wines with greater flesh and immediate appeal.
 
 Iron oxide deposits throughout the vineyard contribute to the characteristic red-brown coloration of the soils and may influence the color intensity and tannic structure of the resulting wines. The presence of fossilized marine organisms, particularly oyster shells and other calcified remains, provides additional mineral complexity and contributes to the distinctive minerality that marks great Clos Saint-Jacques wines.
 

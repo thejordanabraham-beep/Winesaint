@@ -38,7 +38,7 @@ The Föhn wind, a warm, dry phenomenon that occasionally affects the region, can
 
 ## Viticulture
 
-Zinnkoepflé's terroir particularly favors Gewurztraminer, Riesling, and Pinot Gris—the three noble varieties that dominate plantings within the Grand Cru. The appellation regulations permit these three varieties plus Muscat, though the latter represents a minimal proportion of plantings.
+Zinnkoepflé's terroir particularly favors Gewurztraminer, Riesling, and Pinot Gris: the three noble varieties that dominate plantings within the Grand Cru. The appellation regulations permit these three varieties plus Muscat, though the latter represents a minimal proportion of plantings.
 
 Gewurztraminer has historically been the signature variety of Zinnkoepflé, occupying approximately 60-65% of the vineyard area. The grape variety's affinity for the site's heavy, clay-limestone soils is exceptional. The dense soil structure moderates Gewurztraminer's naturally vigorous growth habit, reducing excessive vegetative vigor while promoting balanced fruit production. The limestone content contributes to the wines' characteristic minerality and helps maintain freshness in a variety that can sometimes lack acidity.
 
@@ -68,7 +68,7 @@ Residual sugar levels vary according to vintage conditions and producer philosop
 
 ### Riesling
 
-Riesling from Zinnkoepflé produces wines of considerable power and concentration, distinct from the steelier, more austere expressions typical of granite-based Grand Crus. The aromatic profile combines classic Riesling citrus notes—lemon, lime, and grapefruit—with stone fruit characteristics of white peach and apricot. With age, complex petrol notes emerge, alongside hints of honey and beeswax.
+Riesling from Zinnkoepflé produces wines of considerable power and concentration, distinct from the steelier, more austere expressions typical of granite-based Grand Crus. The aromatic profile combines classic Riesling citrus notes (lemon, lime, and grapefruit) with stone fruit characteristics of white peach and apricot. With age, complex petrol notes emerge, alongside hints of honey and beeswax.
 
 The limestone-marl influence is immediately apparent on the palate, manifesting as a pronounced chalky minerality that provides both texture and flavor dimension. The wines display notable body and weight, with alcohol levels often reaching 13-14% in ripe vintages. Acidity is typically well-integrated rather than overtly piercing, contributing to a harmonious overall balance.
 
@@ -76,7 +76,7 @@ Zinnkoepflé Rieslings develop magnificently with bottle age. Young wines can se
 
 ### Pinot Gris
 
-Pinot Gris from this Grand Cru produces wines of exceptional richness and structure, representing some of the most powerful expressions of this variety in Alsace. The aromatic profile features ripe orchard fruits—pear, apple, and quince—alongside notes of smoke, mushroom, and truffle that reflect both the variety and terroir.
+Pinot Gris from this Grand Cru produces wines of exceptional richness and structure, representing some of the most powerful expressions of this variety in Alsace. The aromatic profile features ripe orchard fruits (pear, apple, and quince) alongside notes of smoke, mushroom, and truffle that reflect both the variety and terroir.
 
 The palate is characteristically full and almost viscous in texture, with the clay-marl soils contributing to substantial body. Despite this richness, well-made examples maintain sufficient acidity to provide balance and aging potential. The limestone component contributes a mineral backbone that prevents the wine from becoming heavy or cloying.
 

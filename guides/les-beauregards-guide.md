@@ -12,13 +12,13 @@ The climat is officially classified as one of Chablis's 40 Premier Cru designati
 
 Les Beauregards encompasses approximately 12-15 hectares of planted vines, making it a moderately sized climat within the Chablis Premier Cru hierarchy. The vineyard extends along the hillsides in the commune of Poinchy, positioned slightly northwest of the town of Chablis itself. Its boundaries are defined by neighboring Premier Cru vineyards and the natural topography of the Serein valley.
 
-The climat's geographical situation places it in the secondary tier of Premier Cru sites—highly regarded but not among the most celebrated names like Montée de Tonnerre, Fourchaume, or Vaillons. This positioning has historically allowed Les Beauregards to offer exceptional value, delivering authentic Premier Cru quality at accessible price points.
+The climat's geographical situation places it in the secondary tier of Premier Cru sites, highly regarded but not among the most celebrated names like Montée de Tonnerre, Fourchaume, or Vaillons. This positioning has historically allowed Les Beauregards to offer exceptional value, delivering authentic Premier Cru quality at accessible price points.
 
 ### Historical Significance
 
 The terroir of Les Beauregards has been cultivated for centuries, with viticultural history in Chablis extending back to Roman times and flourishing under Cistercian monastic influence in the Middle Ages. The specific delineation and naming of Premier Cru climats occurred gradually, with formal classification arriving in the 1930s and refinement continuing through INAO (Institut National des Appellations d'Origine) regulations.
 
-The name "Beauregards" itself—translating roughly to "beautiful views"—reflects the aesthetic appreciation of the site and its commanding perspective over the surrounding countryside, a naming tradition common throughout Burgundy where vineyard names often reference topographical features, historical events, or notable characteristics.
+The name "Beauregards" itself (translating roughly to "beautiful views") reflects the aesthetic appreciation of the site and its commanding perspective over the surrounding countryside, a naming tradition common throughout Burgundy where vineyard names often reference topographical features, historical events, or notable characteristics.
 
 ## Terroir & Geology
 
@@ -52,7 +52,7 @@ The sloping terrain and porous Kimmeridgian substrate create exceptional natural
 
 ### Unique Terroir Characteristics
 
-What distinguishes Les Beauregards within the Chablis Premier Cru landscape is its particular combination of exposition, altitude, and soil composition. The climat occupies a transitional zone—not quite as steep or dramatically positioned as the Grand Cru slope, yet more favorably situated than many village-level sites. This results in wines that capture authentic Chablis character while expressing a specific personality: refined rather than powerful, elegant rather than austere, approachable yet age-worthy.
+What distinguishes Les Beauregards within the Chablis Premier Cru landscape is its particular combination of exposition, altitude, and soil composition. The climat occupies a transitional zone, not quite as steep or dramatically positioned as the Grand Cru slope, yet more favorably situated than many village-level sites. This results in wines that capture authentic Chablis character while expressing a specific personality: refined rather than powerful, elegant rather than austere, approachable yet age-worthy.
 
 ## Climate & Viticulture
 
@@ -109,7 +109,7 @@ Wines from Les Beauregards display quintessential Chablis character with specifi
 
 **Tertiary development** (with age): Honey, brioche, hazelnut, wet stone, mushroom, dried flowers
 
-**Mineral character**: Wet limestone, crushed shells, flint, salinity—the famous "pierre à fusil" (gunflint) that defines Chablis
+**Mineral character**: Wet limestone, crushed shells, flint, salinity: the famous "pierre à fusil" (gunflint) that defines Chablis
 
 ### Comparison to Other Premier Crus
 
@@ -121,7 +121,7 @@ Within the Chablis Premier Cru hierarchy, Les Beauregards occupies a distinctive
 
 **Versus Vaillons**: Les Beauregards tends toward more elegance, while Vaillons offers greater weight and power
 
-**Versus Mont de Milieu**: Comparable in style—both emphasize finesse over power, with graceful aging curves
+**Versus Mont de Milieu**: Comparable in style, both emphasize finesse over power, with graceful aging curves
 
 ### Minerality, Acidity, and Body
 
@@ -164,11 +164,11 @@ The wine's development trajectory follows a characteristic arc:
 
 **Years 1-2**: Primary fruit dominates, acidity prominent, mineral notes emerging, oak (if used) still integrating
 
-**Years 3-6**: Harmonization phase—fruit, acidity, and mineral elements achieve balance; complexity increases; texture softens
+**Years 3-6**: Harmonization phase, fruit, acidity, and mineral elements achieve balance; complexity increases; texture softens
 
-**Years 7-12**: Tertiary development—honey, nuts, and savory notes emerge; color deepens to gold; texture becomes rounder and more seamless
+**Years 7-12**: Tertiary development, honey, nuts, and savory notes emerge; color deepens to gold; texture becomes rounder and more seamless
 
-**Beyond 12 years**: Full maturity—oxidative notes (in the best sense), profound complexity, umami character, maintained by preserved acidity
+**Beyond 12 years**: Full maturity, oxidative notes (in the best sense), profound complexity, umami character, maintained by preserved acidity
 
 ### Optimal Drinking Windows
 
@@ -222,15 +222,15 @@ Most producers in Les Beauregards favor restraint, recognizing that excessive oa
 
 Les Beauregards Chablis proves remarkably versatile with food:
 
-**Shellfish**: The classic pairing—oysters, clams, mussels, scallops; the wine's salinity and acidity complement briny seafood perfectly
+**Shellfish**: The classic pairing, oysters, clams, mussels, scallops; the wine's salinity and acidity complement briny seafood perfectly
 
-**Fish**: Poached, grilled, or lightly sauced—sole, turbot, sea bass, salmon; the wine's minerality enhances delicate fish flavors
+**Fish**: Poached, grilled, or lightly sauced, sole, turbot, sea bass, salmon; the wine's minerality enhances delicate fish flavors
 
 **Poultry**: Roasted chicken, turkey, guinea fowl with cream sauces; the wine's texture and acidity cut through richness
 
 **Cheese**: Comté, Beaufort, aged goat cheeses; avoid overly pungent varieties that overwhelm the wine's finesse
 
-**Vegetarian**: Asparagus, artichokes, mushroom preparations—the wine's savory character works beautifully with umami-rich vegetables
+**Vegetarian**: Asparagus, artichokes, mushroom preparations: the wine's savory character works beautifully with umami-rich vegetables
 
 ### Serving Temperature
 
@@ -256,4 +256,4 @@ Use generous Burgundy stems or universal tasting glasses to concentrate aromatic
 
 ---
 
-Les Beauregards represents Chablis Premier Cru at its most accessible and graceful—a climat that captures the essence of Kimmeridgian terroir without demanding decades of cellaring or requiring a special occasion. For wine enthusiasts seeking authentic Chablis character with refinement and value, Les Beauregards offers a compelling entry point into understanding why this ancient wine region remains one of Burgundy's greatest treasures. Its combination of mineral precision, elegant fruit, and aging potential embodies the timeless appeal of Chardonnay grown in one of the world's most distinctive terroirs.
+Les Beauregards represents Chablis Premier Cru at its most accessible and graceful: a climat that captures the essence of Kimmeridgian terroir without demanding decades of cellaring or requiring a special occasion. For wine enthusiasts seeking authentic Chablis character with refinement and value, Les Beauregards offers a compelling entry point into understanding why this ancient wine region remains one of Burgundy's greatest treasures. Its combination of mineral precision, elegant fruit, and aging potential embodies the timeless appeal of Chardonnay grown in one of the world's most distinctive terroirs.

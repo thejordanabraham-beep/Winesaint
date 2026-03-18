@@ -10,7 +10,7 @@ The vineyard occupies a southwestern to western-facing slope with a moderate gra
 
 Marienholz is characterized by **red clay slates** (roter Tonschiefer) with significant clay content, providing good water storage capacity. This distinguishes it from many Mosel vineyards where shallow slate soils predominate. The soil is described as stony slate (steiniger Schiefer), combining the drainage benefits of fractured slate with the water retention of clay subsoils.
 
-The rather deep red clay slate allows vine roots to penetrate deeply while maintaining moisture during dry periods—a crucial advantage in the Ruwer's continental climate. This terroir produces wines with a distinctive combination of Ruwer precision and slightly more body than sites with purely slate soils.
+The rather deep red clay slate allows vine roots to penetrate deeply while maintaining moisture during dry periods: a crucial advantage in the Ruwer's continental climate. This terroir produces wines with a distinctive combination of Ruwer precision and slightly more body than sites with purely slate soils.
 
 ## Grape Varieties
 

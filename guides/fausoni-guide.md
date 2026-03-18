@@ -1,0 +1,37 @@
+# Fausoni MGA, Neive, Barbaresco
+
+## Introduction
+
+Fausoni is one of the officially recognized menzioni geografiche aggiuntive (MGAs) in the commune of Neive within the Barbaresco DOCG. Established as part of the official MGA classification system introduced in 2007, notably three years before Barolo implemented a similar framework (Fausoni represents one of the many parcels that contribute to Neive's increasingly recognized role in the Barbaresco landscape. While it remains less documented than Neive's most celebrated sites such as Santo Stefano, Gallina, and Albesani, Fausoni is part of the broader viticultural transformation that has seen Neive evolve from a relatively obscure Nebbiolo-producing area into a serious quality zone within Barbaresco.
+
+Neive distinguishes itself as "the township of four wines," producing not only Barbaresco from Nebbiolo but also Moscato, Barbera, and Dolcetto. This diversity reflects the commune's varied topography and soil types. However, the story of Nebbiolo's dominance here is a relatively recent one. It was only after the Second World War that Nebbiolo consolidated its position in Neive, gradually displacing Barbera and Dolcetto as the commercial value of Barbaresco wines increased. Today, Neive accounts for 265 hectares of the 733 total hectares dedicated to Barbaresco production, making it a substantial contributor to the denomination, though still smaller than the township of Barbaresco itself.
+
+## Neive Terroir Context
+
+Understanding Fausoni requires situating it within the broader terroir framework of Neive and Barbaresco. The soils of Barbaresco can be roughly divided into two principal types, with the calcareous clay of the Tortonian epoch being particularly prevalent. These Tortonian marls are very similar to those found in the Barolo communes of La Morra and Barolo, typically producing wines with perfume, elegance, and somewhat softer tannins compared to the more compact Sant'Agata marls found elsewhere in the zone.
+
+While soil composition receives considerable attention in discussions of Barbaresco's various MGAs, contemporary terroir research emphasizes that the most influential soil characteristics are those governing water supply to the vine, followed by factors influencing soil and ambient temperatures. In practice, this means that the drainage characteristics, water-holding capacity, and thermal properties of a given site may be more significant than precise mineralogical composition in determining wine character.
+
+The interplay between soil and vine management is crucial. As multidisciplinary terroir studies have demonstrated, a wide range of soil types can produce high-quality wines when they share certain fundamental characteristics: moderate fertility and well-regulated, moderately sufficient water supply. These conditions encourage balanced vine growth and optimal grape ripening, allowing the intrinsic qualities of Nebbiolo to express themselves with clarity.
+
+## Wine Characteristics
+
+Barbaresco from Neive, including wines from sites like Fausoni, share the denomination's fundamental characteristics while often displaying distinctive aromatic intensity and structural refinement. These are wines that must achieve a minimum alcoholic strength of 12.5% but often reach 13.5% or higher in warmer vintages. Despite what might be perceived as a more approachable character relative to Barolo) particularly in terms of earlier drinkability, young Barbaresco is by no means soft or immediately gratifying. The Nebbiolo grape endows these wines with substantial tannins and bright acidity that require time to integrate and soften.
+
+The signature aromatic profile of Barbaresco includes perfumes of cherry and violets in youth, evolving with age toward more complex notes of iron, tar, and orange peel. This evolution reflects not only the inherent characteristics of Nebbiolo but also the specific expression shaped by Neive's terroir. The calcareous clay soils prevalent in much of Neive tend to emphasize aromatic complexity and elegance, producing wines that balance power with finesse.
+
+## Historical Development and Recognition
+
+The recognition of individual vineyard sites in Barbaresco is a relatively modern phenomenon, particularly when compared to Burgundy or even to Barolo's more established historical record. The first single-vineyard Barbaresco (Prunotto's Montestefano) appeared only in 1961. Lorenzo Fantini's late 19th-century monograph on Piedmontese viticulture indicated very few "choice positions" in Barbaresco and notably mentioned none whatsoever in Neive. This absence in historical documentation doesn't necessarily indicate a lack of quality potential, but rather reflects Neive's late emergence as a serious Nebbiolo zone.
+
+The systematic evaluation and rating of Barbaresco's finest sites began in earnest in the 1960s with Luigi Veronelli's work and continued in the 1970s with contributions from Renato Ratti. Over subsequent decades, négociants' willingness to pay premium prices for grapes from certain vineyards established a consensus about the hierarchy of sites. In Neive, this consensus particularly elevated Albesani and Gallina among the historically recognized vineyards, while Santo Stefano gained prestige through the dedicated work of elite producers such as Gaja and Giacosa.
+
+The introduction of the official MGA system in 2007 represented a crucial step in codifying Barbaresco's vineyard geography. The list sensibly retained almost all historically known vineyards, resisting the temptation to absorb lesser-known sites into more famous names for commercial advantage. This has preserved the genuine diversity of Barbaresco's vineyard landscape and provided a framework for sites like Fausoni to develop their individual reputations based on quality rather than historical fame.
+
+## Contemporary Context
+
+Today's Barbaresco is experiencing a period of qualitative renaissance and commercial success. With approximately 75% of production exported (primarily to the United States, Germany, the United Kingdom, and Scandinavia) and increasing attention from collectors seeking alternatives to expensive Bordeaux and Burgundy, Barbaresco has never enjoyed greater prestige. This attention has economically empowered small growers, many of whom now bottle and market their own wines rather than selling grapes to larger producers.
+
+Within this dynamic environment, a new generation of producers is exploring both traditional and innovative approaches. Some have embraced organic and biodynamic viticulture while employing traditional winemaking techniques to produce highly original, long-lived wines with muscular structure. This stylistic diversity enriches the denomination and creates opportunities for lesser-known sites to distinguish themselves through distinctive expressions of terroir and winemaking philosophy.
+
+As Barbaresco continues to refine its identity separate from Barolo's shadow (a process that began in earnest in the 1960s with the pioneering work of Angelo Gaja and Bruno Giacosa) the value of comprehensive vineyard classification becomes increasingly apparent. Sites like Fausoni contribute to the rich tapestry of Neive's viticultural landscape, offering wine enthusiasts the opportunity to explore the nuanced variations within this elegant, aromatic expression of Nebbiolo.

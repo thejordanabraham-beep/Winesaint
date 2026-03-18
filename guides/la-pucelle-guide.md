@@ -4,7 +4,7 @@
 
 La Pucelle stands as one of Rully's most esteemed Premier Cru vineyards, representing the refined expression of terroir that has made the Côte Chalonnaise an increasingly respected extension of Burgundy's great wine heritage. Located in the northern sector of the Rully appellation, La Pucelle occupies a privileged position on the commune's hillside, where centuries of viticultural tradition have shaped both the landscape and the wines produced from this distinguished climat.
 
-The vineyard sits within the broader context of the Côte Chalonnaise, Burgundy's southern subregion that bridges the gap between the prestigious Côte d'Or to the north and the Mâconnais to the south. This positioning has historically placed Rully, and by extension La Pucelle, in a unique geographical and qualitative sweet spot—benefiting from the sophisticated winemaking traditions established in the Côte d'Or while maintaining the approachable character and exceptional value proposition that defines the Chalonnaise.
+The vineyard sits within the broader context of the Côte Chalonnaise, Burgundy's southern subregion that bridges the gap between the prestigious Côte d'Or to the north and the Mâconnais to the south. This positioning has historically placed Rully, and by extension La Pucelle, in a unique geographical and qualitative sweet spot, benefiting from the sophisticated winemaking traditions established in the Côte d'Or while maintaining the approachable character and exceptional value proposition that defines the Chalonnaise.
 
 La Pucelle's location within Rully is particularly strategic, positioned on slopes that capture optimal sun exposure while benefiting from the complex geological formations that underlie this section of the Saône-et-Loire département. The climat extends across gently undulating terrain that has been sculpted over millennia by both geological forces and human intervention, creating the intricate mosaic of soil types and microclimatic conditions that contribute to the vineyard's distinctive character.
 
@@ -12,7 +12,7 @@ The vineyard's relationship to the village of Rully itself reflects the intimate
 
 ## Size
 
-La Pucelle encompasses approximately 16.8 hectares (41.5 acres) of Premier Cru vineyard land, making it one of the more substantial individual climats within the Rully appellation. This size places it in the middle range of Burgundian Premier Crus—large enough to support multiple producers and offer some variation in expression across different parcels, yet small enough to maintain the coherent character that defines a true climat.
+La Pucelle encompasses approximately 16.8 hectares (41.5 acres) of Premier Cru vineyard land, making it one of the more substantial individual climats within the Rully appellation. This size places it in the middle range of Burgundian Premier Crus, large enough to support multiple producers and offer some variation in expression across different parcels, yet small enough to maintain the coherent character that defines a true climat.
 
 The vineyard's boundaries have been carefully delineated based on centuries of observation regarding soil composition, drainage patterns, and microclimate variations. These boundaries reflect not arbitrary administrative decisions but rather the accumulated wisdom of generations of vignerons who recognized subtle but significant differences in how grapes ripen and express themselves across different sections of the hillside.
 

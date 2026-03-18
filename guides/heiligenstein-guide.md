@@ -1,22 +1,22 @@
 # Heiligenstein: Austria's Volcanic Riesling Anomaly
 
-Heiligenstein is not just another Austrian Riesling vineyard. It is Austria's *only* vineyard planted on volcanic sandstone—a geological singularity that produces Rieslings of unmistakable character. Rising to 345 meters on the southern edge of Langenlois in the Kamptal, this 36-hectare terraced slope represents the convergence of ancient volcanism, meticulous viticulture, and a grape variety that transforms geological specificity into liquid form.
+Heiligenstein is not just another Austrian Riesling vineyard. It is Austria's *only* vineyard planted on volcanic sandstone: a geological singularity that produces Rieslings of unmistakable character. Rising to 345 meters on the southern edge of Langenlois in the Kamptal, this 36-hectare terraced slope represents the convergence of ancient volcanism, meticulous viticulture, and a grape variety that transforms geological specificity into liquid form.
 
 The wines from Heiligenstein are immediately recognizable: more mineral-driven than fruity, more tensile than opulent, with a distinctive smoky-flinty quality that separates them from every other Riesling site in Austria. This is not subtle. In blind tastings, experienced tasters can often identify Heiligenstein by its signature combination of citrus precision, saline minerality, and an almost graphite-like texture.
 
 ## Geological Singularity: The Volcanic Exception
 
-Between 290 and 250 million years ago, during the Permian period, volcanic activity deposited layers of igneous material across what would become the Bohemian Massif. Heiligenstein sits on Permian volcanic sandstone—locally called *Heiligensteiner Sandstein*—composed of weathered volcanic conglomerates, tuffs, and sedimentary deposits fused over geological time. This substrate is found nowhere else in Austrian viticulture.
+Between 290 and 250 million years ago, during the Permian period, volcanic activity deposited layers of igneous material across what would become the Bohemian Massif. Heiligenstein sits on Permian volcanic sandstone (locally called *Heiligensteiner Sandstein*) composed of weathered volcanic conglomerates, tuffs, and sedimentary deposits fused over geological time. This substrate is found nowhere else in Austrian viticulture.
 
 The composition matters. Volcanic sandstone drains efficiently, forcing vine roots to penetrate deeply for water and nutrients. The resulting vine stress concentrates flavors and maintains naturally high acidity even in warm vintages. The stone itself is porous and iron-rich, contributing to the wines' distinctive mineral signature and their characteristic pale gold-green color in youth.
 
-Compare this to neighboring Kamptal sites like Gaisberg or Lamm, which sit on loess, gravel, or primary rock from the Bohemian Massif. Those sites produce excellent Rieslings—often more immediately generous, with riper stone fruit and broader textures. Heiligenstein's volcanic foundation produces wines of greater linearity and tension, with citrus and mineral dominating over stone fruit, and a skeletal structure that demands patience.
+Compare this to neighboring Kamptal sites like Gaisberg or Lamm, which sit on loess, gravel, or primary rock from the Bohemian Massif. Those sites produce excellent Rieslings, often more immediately generous, with riper stone fruit and broader textures. Heiligenstein's volcanic foundation produces wines of greater linearity and tension, with citrus and mineral dominating over stone fruit, and a skeletal structure that demands patience.
 
-The vineyard's elevation—ranging from approximately 260 to 345 meters—places it in the cooler zone of Kamptal's viticultural landscape. Loiserberg, at over 400 meters, is higher and cooler still, but Heiligenstein's south and west-facing aspects capture sufficient warmth for full phenolic ripeness while the elevation preserves acidity. The terraced construction, necessary on the steep slopes, also maximizes sun exposure and facilitates air drainage, reducing frost risk in spring and botrytis pressure in autumn.
+The vineyard's elevation (ranging from approximately 260 to 345 meters) places it in the cooler zone of Kamptal's viticultural landscape. Loiserberg, at over 400 meters, is higher and cooler still, but Heiligenstein's south and west-facing aspects capture sufficient warmth for full phenolic ripeness while the elevation preserves acidity. The terraced construction, necessary on the steep slopes, also maximizes sun exposure and facilitates air drainage, reducing frost risk in spring and botrytis pressure in autumn.
 
 ## Climate: The Kamptal Duality
 
-Heiligenstein experiences the defining climatic characteristic of Kamptal: the collision between warm Pannonian air from the east and cool continental air descending from the Bohemian Massif to the north. This creates pronounced diurnal temperature variation—swings of 15-20°C between day and night during the growing season are common.
+Heiligenstein experiences the defining climatic characteristic of Kamptal: the collision between warm Pannonian air from the east and cool continental air descending from the Bohemian Massif to the north. This creates pronounced diurnal temperature variation, swings of 15-20°C between day and night during the growing season are common.
 
 For Riesling, this is ideal. Warm days advance physiological ripeness and flavor development; cool nights preserve acidity and aromatic complexity. The result is wines that combine phenolic maturity (no green or underripe flavors) with vibrant acidity, typically in the range of 7-8 g/L total acidity at harvest.
 
@@ -26,9 +26,9 @@ Kamptal is relatively dry, receiving approximately 450-500mm of annual rainfall,
 
 Heiligenstein Riesling is defined by what it is not. It is not the tropical-fruited, overtly aromatic style of the Wachau's warmer sites. It is not the broad, textured style of Alsace. It is not the diesel-and-slate intensity of the Mosel.
 
-Instead, expect citrus—lemon, lime, grapefruit—rather than stone fruit. Expect minerality that manifests as salinity, wet stone, and a distinctive smoky or flinty quality that tasters variously describe as graphite, gun flint, or volcanic ash. Expect high acidity—bracing in youth, integrating with age—and a linear, vertical structure rather than horizontal breadth.
+Instead, expect citrus (lemon, lime, grapefruit) rather than stone fruit. Expect minerality that manifests as salinity, wet stone, and a distinctive smoky or flinty quality that tasters variously describe as graphite, gun flint, or volcanic ash. Expect high acidity (bracing in youth, integrating with age) and a linear, vertical structure rather than horizontal breadth.
 
-In youth (1-3 years), Heiligenstein Rieslings can seem austere. The fruit is tight, the acidity prominent, the mineral character almost aggressive. This is intentional. These wines are built for aging. With 5-10 years in bottle, the citrus evolves toward preserved lemon and candied peel, the minerality softens into a saline richness, and tertiary notes of honey, beeswax, and petrol emerge. The best examples—particularly from top producers in excellent vintages—can age gracefully for 15-20 years or more.
+In youth (1-3 years), Heiligenstein Rieslings can seem austere. The fruit is tight, the acidity prominent, the mineral character almost aggressive. This is intentional. These wines are built for aging. With 5-10 years in bottle, the citrus evolves toward preserved lemon and candied peel, the minerality softens into a saline richness, and tertiary notes of honey, beeswax, and petrol emerge. The best examples (particularly from top producers in excellent vintages) can age gracefully for 15-20 years or more.
 
 Alcohol levels typically range from 12.5-13.5% ABV, reflecting the balance between ripeness and acidity that defines great Kamptal Riesling. Residual sugar varies by producer philosophy, but most Heiligenstein Rieslings are dry or nearly dry (under 4 g/L RS), allowing the site's mineral character to dominate.
 
@@ -44,7 +44,7 @@ Internationally, Heiligenstein Rieslings occupy a space between the slate-driven
 
 ## Historical and Cultural Context
 
-Heiligenstein's name—"holy stone"—reflects its long viticultural history, though the precise etymology is debated. What is certain is that the site has been cultivated for centuries, with monastic involvement likely during the medieval period when much of Austria's viticulture was established and refined.
+Heiligenstein's name ("holy stone") reflects its long viticultural history, though the precise etymology is debated. What is certain is that the site has been cultivated for centuries, with monastic involvement likely during the medieval period when much of Austria's viticulture was established and refined.
 
 The modern reputation of Heiligenstein, however, is a more recent phenomenon. While the site was always recognized locally, its elevation to national and international prominence occurred in the late 20th and early 21st centuries, driven by quality-focused producers who recognized the site's unique potential for Riesling and invested in meticulous viticulture and minimal-intervention winemaking.
 
@@ -56,7 +56,7 @@ Heiligenstein is also recognized as an *Erste Lage* (first growth) by the Öster
 
 Three producers dominate Heiligenstein's reputation, each holding significant parcels and producing benchmark examples:
 
-**Weingut Bründlmayer** is arguably the most important name in Heiligenstein. Willi Bründlmayer, a long-standing ambassador for Austrian wine, has farmed Heiligenstein for decades and produces multiple bottlings from the site. His top Heiligenstein Riesling—labeled as Lyra in certain vintages—represents the site's pinnacle: crystalline citrus, pronounced minerality, laser-like acidity, and the capacity to age for decades. Bründlmayer's approach emphasizes long lees aging, minimal intervention, and extended bottle aging before release, allowing the wines to develop complexity while retaining their characteristic tension.
+**Weingut Bründlmayer** is arguably the most important name in Heiligenstein. Willi Bründlmayer, a long-standing ambassador for Austrian wine, has farmed Heiligenstein for decades and produces multiple bottlings from the site. His top Heiligenstein Riesling (labeled as Lyra in certain vintages) represents the site's pinnacle: crystalline citrus, pronounced minerality, laser-like acidity, and the capacity to age for decades. Bründlmayer's approach emphasizes long lees aging, minimal intervention, and extended bottle aging before release, allowing the wines to develop complexity while retaining their characteristic tension.
 
 **Schloss Gobelsburg**, under the direction of Michael Moosbrugger (a Bründlmayer protégé) since 1996, brings an 850-year monastic winemaking tradition to Heiligenstein. The estate's Riesling from the site emphasizes purity and precision, with spontaneous fermentation and neutral oak aging preserving the volcanic terroir's expression. Moosbrugger's chairmanship of the Traditionsweingüter has elevated awareness of Heiligenstein as a site of national importance.
 
@@ -90,9 +90,9 @@ The site's south and west aspects provide insurance against underripeness even i
 
 ## The Heiligenstein Identity
 
-What makes Heiligenstein essential is its singularity. In a country where loess, gravel, and primary rock dominate viticulture, Heiligenstein's volcanic sandstone produces wines that cannot be replicated elsewhere. The site's Rieslings are not necessarily "better" than those from Gaisberg or Loiserberg—terroir is about difference, not hierarchy—but they are unmistakably distinct.
+What makes Heiligenstein essential is its singularity. In a country where loess, gravel, and primary rock dominate viticulture, Heiligenstein's volcanic sandstone produces wines that cannot be replicated elsewhere. The site's Rieslings are not necessarily "better" than those from Gaisberg or Loiserberg (terroir is about difference, not hierarchy) but they are unmistakably distinct.
 
-For collectors and enthusiasts seeking to understand Riesling's capacity to express geological specificity, Heiligenstein is essential. The wines demand patience, reward contemplation, and demonstrate that Austria's viticultural identity extends far beyond Grüner Veltliner. In a 36-hectare volcanic anomaly, three producers craft some of the world's most distinctive Rieslings—wines that taste of stone, smoke, and time.
+For collectors and enthusiasts seeking to understand Riesling's capacity to express geological specificity, Heiligenstein is essential. The wines demand patience, reward contemplation, and demonstrate that Austria's viticultural identity extends far beyond Grüner Veltliner. In a 36-hectare volcanic anomaly, three producers craft some of the world's most distinctive Rieslings, wines that taste of stone, smoke, and time.
 
 ---
 

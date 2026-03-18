@@ -76,7 +76,7 @@ Flavor development on the palate mirrors the aromatic complexity, with initial r
 
 Within the Nuits-Saint-Georges Premier Cru landscape, La Richemone occupies a distinctive position that becomes clear when compared to neighboring climats. Relative to Les Saint-Georges, the commune's most prestigious Premier Cru, La Richemone wines tend to be more immediately accessible, with softer tannins and more prominent fruit character, though they may lack the ultimate depth and aging potential of their more famous neighbor.
 
-Compared to Les Vaucrains, another highly regarded site known for powerful, structured wines, La Richemone offers greater elegance and finesse, with less aggressive tannin structure but potentially more aromatic complexity. The difference in soil composition—Vaucrains having more iron-rich, clay-heavy soils—contributes to this stylistic variation.
+Compared to Les Vaucrains, another highly regarded site known for powerful, structured wines, La Richemone offers greater elegance and finesse, with less aggressive tannin structure but potentially more aromatic complexity. The difference in soil composition (Vaucrains having more iron-rich, clay-heavy soils) contributes to this stylistic variation.
 
 Les Cailles, located in similar mid-slope positions, produces wines with comparable elegance to La Richemone but often with more pronounced mineral character and slightly greater aging potential. The subtle differences in limestone composition and exposure create these nuanced variations that experienced tasters can identify.
 

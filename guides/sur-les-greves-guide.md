@@ -52,7 +52,7 @@ Harvest timing in Sur les Grèves requires careful monitoring, as different sect
 
 ## Wine Character & Style
 
-Wines from Sur les Grèves exhibit the classic characteristics of Premier Cru Beaune, combining elegance and power in a distinctly Burgundian expression of Pinot Noir. The aromatic profile typically features bright red fruit characteristics—particularly cherry, raspberry, and redcurrant—supported by subtle floral notes of rose petals and violet. As the wines develop, more complex secondary aromas emerge, including earth tones, forest floor, and mineral nuances that reflect the limestone-rich terroir.
+Wines from Sur les Grèves exhibit the classic characteristics of Premier Cru Beaune, combining elegance and power in a distinctly Burgundian expression of Pinot Noir. The aromatic profile typically features bright red fruit characteristics (particularly cherry, raspberry, and redcurrant) supported by subtle floral notes of rose petals and violet. As the wines develop, more complex secondary aromas emerge, including earth tones, forest floor, and mineral nuances that reflect the limestone-rich terroir.
 
 The palate structure of Sur les Grèves wines demonstrates the refined balance that defines quality Premier Cru Beaune. The attack is typically fresh and precise, with vibrant acidity providing lift and energy to the fruit expression. Mid-palate weight varies depending on the specific vineyard section and producer style, but generally shows good density and concentration without heaviness. The tannin structure tends to be fine-grained and well-integrated, providing structural support while maintaining the elegance and approachability that characterizes Beaune wines.
 

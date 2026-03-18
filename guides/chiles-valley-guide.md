@@ -8,33 +8,33 @@ The valley runs roughly north-south for about eight miles, a narrow corridor tha
 
 Chiles Valley's geological story begins with violence. The Vaca Mountains, which form the valley's eastern wall, are remnants of volcanic activity from the Pliocene epoch, roughly 2.5 to 5 million years ago. The result is a complex tapestry of volcanic soils that distinguishes every wine grown here from its valley-floor counterparts.
 
-The dominant soil series is Sobrante, a volcanic loam formed from weathered basalt and andesite. These soils drain aggressively—sometimes too aggressively—forcing vines to dig deep for water and nutrients. The stress produces smaller berries with thicker skins, concentrating flavors and tannins. But volcanic soils aren't monolithic. Interspersed throughout are pockets of chert (a sedimentary rock composed of microcrystalline quartz) and greenstone (metamorphosed basalt), particularly at higher elevations above 1,500 feet.
+The dominant soil series is Sobrante, a volcanic loam formed from weathered basalt and andesite. These soils drain aggressively (sometimes too aggressively) forcing vines to dig deep for water and nutrients. The stress produces smaller berries with thicker skins, concentrating flavors and tannins. But volcanic soils aren't monolithic. Interspersed throughout are pockets of chert (a sedimentary rock composed of microcrystalline quartz) and greenstone (metamorphosed basalt), particularly at higher elevations above 1,500 feet.
 
 Compare this to Rutherford's gravelly loam or Stags Leap's volcanic ash over sedimentary rock, and you begin to understand why Chiles Valley wines carry a different signature. The volcanic influence here is more pronounced, more mineral-driven, with a characteristic iron-like grip in the tannins. Where Oakville Cabernet might offer plush blackberry and cassis, Chiles Valley versions tend toward black olive, crushed stone, and a savory, almost ferrous quality.
 
 ## A Climate of Extremes
 
-The temperature swings in Chiles Valley are dramatic. Summer days can reach into the low 90s°F, but nights regularly drop into the low 50s°F—a diurnal shift of 35-40°F. This is significantly greater than the 20-25°F range typical of the valley floor. The extended hang time this allows is crucial. Grapes can accumulate flavor compounds and phenolic ripeness while maintaining natural acidity, a balance that has become increasingly difficult to achieve in warmer Napa sites.
+The temperature swings in Chiles Valley are dramatic. Summer days can reach into the low 90s°F, but nights regularly drop into the low 50s°F: a diurnal shift of 35-40°F. This is significantly greater than the 20-25°F range typical of the valley floor. The extended hang time this allows is crucial. Grapes can accumulate flavor compounds and phenolic ripeness while maintaining natural acidity, a balance that has become increasingly difficult to achieve in warmer Napa sites.
 
 Elevation matters enormously here. A vineyard at 800 feet experiences markedly different conditions than one at 1,600 feet. The higher sites benefit from increased sun exposure (above the fog line that occasionally creeps in from San Pablo Bay) and even more pronounced cooling from mountain breezes. These upper-elevation vineyards can harvest 2-3 weeks later than lower sites, sometimes pushing into November for Cabernet Sauvignon.
 
-Annual rainfall averages 32-38 inches, considerably higher than the 24-28 inches on the valley floor. Most falls between November and April, but the porous volcanic soils mean vines rarely suffer from waterlogging. Instead, the challenge is summer drought—those same free-draining soils can stress vines quickly without supplemental irrigation.
+Annual rainfall averages 32-38 inches, considerably higher than the 24-28 inches on the valley floor. Most falls between November and April, but the porous volcanic soils mean vines rarely suffer from waterlogging. Instead, the challenge is summer drought: those same free-draining soils can stress vines quickly without supplemental irrigation.
 
 ## Zinfandel's Unlikely Stronghold
 
 Here's a surprise: some of Napa's most compelling Zinfandel comes from Chiles Valley. In an appellation dominated by Cabernet worship, Zinfandel has found an unlikely sanctuary in these volcanic hills.
 
-**Green & Red Vineyard** represents the valley's Zinfandel heritage better than any other property. Jay Heminway purchased this site in 1970, planted it in 1972, and released his first vintage in 1977. For decades, Green & Red was the house wine at Chez Panisse and Swan Oyster Depot—a testament to the wines' food-friendly character and old-school appeal.
+**Green & Red Vineyard** represents the valley's Zinfandel heritage better than any other property. Jay Heminway purchased this site in 1970, planted it in 1972, and released his first vintage in 1977. For decades, Green & Red was the house wine at Chez Panisse and Swan Oyster Depot: a testament to the wines' food-friendly character and old-school appeal.
 
 Heminway farms thirty-one acres of predominantly Sobrante series volcanic soils, producing three distinct Zinfandels that illustrate the impact of elevation and aspect:
 
 **Chiles Mill Vineyard** ($$) sits at approximately 1,200 feet on a northwest-facing slope. This is the classic expression: robust but balanced, with wild berry fruit, black pepper, and a mineral spine that keeps the wine from tipping into overripe territory. The northwest aspect means afternoon shade, which moderates sugar accumulation while flavors develop.
 
-**Tip Top Vineyard** ($$) climbs to roughly 1,800 feet, making it one of the highest Zinfandel plantings in Napa. Here, chert and greenstone mix with the volcanic base, and the wine shows it. Tip Top is more restrained, more structured, with pronounced minerality and a tighter fruit profile. This isn't the exuberant, jammy style that gives Zinfandel a bad name—it's almost Rhône-like in its savory complexity.
+**Tip Top Vineyard** ($$) climbs to roughly 1,800 feet, making it one of the highest Zinfandel plantings in Napa. Here, chert and greenstone mix with the volcanic base, and the wine shows it. Tip Top is more restrained, more structured, with pronounced minerality and a tighter fruit profile. This isn't the exuberant, jammy style that gives Zinfandel a bad name, it's almost Rhône-like in its savory complexity.
 
 **Chiles Canyon** ($$) blends fruit from multiple vineyard blocks, offering a composite view of the valley's character.
 
-All three wines are aged in a mix of American and French oak, another old-school choice that adds a vanilla-spice layer without overwhelming the fruit. These are lusty, uncompromising wines that demand food—grilled meats, braised short ribs, anything with char and fat.
+All three wines are aged in a mix of American and French oak, another old-school choice that adds a vanilla-spice layer without overwhelming the fruit. These are lusty, uncompromising wines that demand food, grilled meats, braised short ribs, anything with char and fat.
 
 ## Beyond Zinfandel: Cabernet's Cooler Expression
 
@@ -58,7 +58,7 @@ There are even whispers of **Syrah** trials at upper-elevation sites, where the 
 
 ## Viticulture at Altitude
 
-Farming in Chiles Valley requires adaptations. The steep terrain limits mechanization—much of the work must be done by hand. Vineyard rows typically run north-south to maximize sun exposure, though aspect (the direction a slope faces) can override this principle on hillside sites.
+Farming in Chiles Valley requires adaptations. The steep terrain limits mechanization, much of the work must be done by hand. Vineyard rows typically run north-south to maximize sun exposure, though aspect (the direction a slope faces) can override this principle on hillside sites.
 
 Irrigation is essential despite higher rainfall. The volcanic soils drain so quickly that vines can experience water stress even after significant winter precipitation. Most growers use drip irrigation, carefully managing water application to maintain vine balance without encouraging excessive vigor.
 
@@ -68,7 +68,7 @@ Yields tend to be moderate, typically 2-4 tons per acre for red varieties. This 
 
 ## Winemaking Approaches
 
-Producers working with Chiles Valley fruit generally adopt a hands-off approach, allowing the terroir to speak. Extended maceration is common for reds, extracting the full range of tannins and flavor compounds from the thick-skinned berries. Many winemakers report that Chiles Valley fruit can handle—even requires—more extraction than valley-floor grapes without becoming harsh or astringent.
+Producers working with Chiles Valley fruit generally adopt a hands-off approach, allowing the terroir to speak. Extended maceration is common for reds, extracting the full range of tannins and flavor compounds from the thick-skinned berries. Many winemakers report that Chiles Valley fruit can handle (even requires) more extraction than valley-floor grapes without becoming harsh or astringent.
 
 Oak regimes vary, but there's a trend toward larger format barrels (500-liter puncheons rather than 225-liter barriques) and older wood. The goal is to add structure and subtle spice without masking the mineral character that defines the region. New oak percentages typically range from 30-50% for Cabernet, lower than the 60-80% common in cult Napa wines.
 
@@ -88,7 +88,7 @@ After tasting through dozens of wines from this sub-AVA, certain characteristics
 
 **Moderate alcohol**: Typically 13.5-14.5% for reds, compared to 14.5-15.5%+ elsewhere in Napa.
 
-This is not the Napa of glossy magazine spreads and $500 bottles. Chiles Valley wines are more intellectual, more food-demanding, more European in their proportions. They reward patience—both in the cellar and at the table.
+This is not the Napa of glossy magazine spreads and $500 bottles. Chiles Valley wines are more intellectual, more food-demanding, more European in their proportions. They reward patience, both in the cellar and at the table.
 
 ## Food Pairing Strategies
 
@@ -102,7 +102,7 @@ The savory character and firm structure of Chiles Valley wines make them excepti
 
 ## Visiting Chiles Valley
 
-Access to Chiles Valley requires commitment. From the town of Napa, take Highway 128 north, then turn east on Lower Chiles Valley Road. The drive takes about 30 minutes, winding through increasingly remote terrain. This isn't tasting-room row—appointments are generally required, and the experience is more intimate than the commercial operations on Highway 29.
+Access to Chiles Valley requires commitment. From the town of Napa, take Highway 128 north, then turn east on Lower Chiles Valley Road. The drive takes about 30 minutes, winding through increasingly remote terrain. This isn't tasting-room row, appointments are generally required, and the experience is more intimate than the commercial operations on Highway 29.
 
 The isolation is part of the appeal. Standing in a vineyard at 1,500 feet, looking across the valley to the western ridgeline, you're reminded that Napa contains multitudes. Not every corner has been polished for tourists. Some places still prioritize farming over branding.
 
@@ -110,13 +110,13 @@ The isolation is part of the appeal. Standing in a vineyard at 1,500 feet, looki
 
 Climate change may be Chiles Valley's unexpected ally. As valley-floor sites struggle with increasing heat and earlier harvests, the cooler temperatures and higher elevations here become more valuable. Growers who once viewed the valley's climate as a liability now recognize it as a buffer against warming trends.
 
-Expect continued experimentation with varieties beyond Cabernet and Zinfandel. The conditions that make Chiles Valley marginal for mainstream Napa viticulture—the elevation, the cooling, the volcanic soils—are precisely what make it interesting for varieties that struggle in hotter sites.
+Expect continued experimentation with varieties beyond Cabernet and Zinfandel. The conditions that make Chiles Valley marginal for mainstream Napa viticulture (the elevation, the cooling, the volcanic soils) are precisely what make it interesting for varieties that struggle in hotter sites.
 
 Land prices remain relatively accessible compared to prestigious valley-floor appellations, attracting younger winemakers and investors willing to farm challenging terrain for distinctive results. This could lead to a renaissance of small, terroir-focused producers over the next decade.
 
 ## Essential Bottles to Try
 
-**Green & Red Chiles Mill Zinfandel** ($$): The definitive expression of Chiles Valley Zinfandel—structured, savory, mineral-driven.
+**Green & Red Chiles Mill Zinfandel** ($$): The definitive expression of Chiles Valley Zinfandel, structured, savory, mineral-driven.
 
 **Green & Red Tip Top Vineyard Zinfandel** ($$): High-elevation Zinfandel that challenges preconceptions about the variety.
 
@@ -128,7 +128,7 @@ Land prices remain relatively accessible compared to prestigious valley-floor ap
 
 Chiles Valley occupies a peculiar position in the Napa hierarchy: geographically part of America's most famous wine region, but stylistically and culturally apart from it. The wines don't fit the Napa stereotype of power and opulence. They're cooler, more angular, more demanding.
 
-This is precisely their value. In an era when much of Napa has homogenized toward a house style of high alcohol, new oak, and concentrated fruit, Chiles Valley offers an alternative vision. These wines have place-specificity written into their DNA—the volcanic soils, the elevation, the temperature swings all leave indelible marks.
+This is precisely their value. In an era when much of Napa has homogenized toward a house style of high alcohol, new oak, and concentrated fruit, Chiles Valley offers an alternative vision. These wines have place-specificity written into their DNA: the volcanic soils, the elevation, the temperature swings all leave indelible marks.
 
 For drinkers tired of fruit bombs and seeking wines with structure, minerality, and genuine personality, Chiles Valley deserves attention. The valley may never achieve the fame of Rutherford or Oakville. But for those who value terroir over trophies, that's entirely the point.
 

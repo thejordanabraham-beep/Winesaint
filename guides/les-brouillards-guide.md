@@ -6,7 +6,7 @@ Les Brouillards occupies a distinguished position within the prestigious commune
 
 The vineyard lies on the mid-slope of Volnay's hillside, positioned strategically between the village and the summit of the côte. This placement within the appellation's topographical framework is crucial to understanding Les Brouillards' unique character. The climat sits adjacent to several other distinguished Premier Crus, including Clos des Chênes to the north and Taillepieds to the south, forming part of a continuous band of exceptional vineyard sites that define Volnay's reputation.
 
-Volnay itself represents the southern boundary of the Côte de Beaune's red wine production zone, with the commune exclusively dedicated to Pinot Noir cultivation. The appellation's 220 hectares of vineyard land include 29 Premier Cru climats, with Les Brouillards standing among the most respected for its ability to produce wines that capture both power and elegance—hallmarks of great Volnay.
+Volnay itself represents the southern boundary of the Côte de Beaune's red wine production zone, with the commune exclusively dedicated to Pinot Noir cultivation. The appellation's 220 hectares of vineyard land include 29 Premier Cru climats, with Les Brouillards standing among the most respected for its ability to produce wines that capture both power and elegance, hallmarks of great Volnay.
 
 ## Size
 

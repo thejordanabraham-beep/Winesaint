@@ -1,16 +1,16 @@
 # Bernkasteler Lay: A Mittelmosel Benchmark Site
 
-The Bernkasteler Lay represents one of the Mittelmosel's most distinctive single-vineyard expressions, though it operates largely in the shadow of its more famous neighbor, Bernkasteler Doctor. This is not a matter of quality disparity—rather, a question of historical marketing and vineyard politics.
+The Bernkasteler Lay represents one of the Mittelmosel's most distinctive single-vineyard expressions, though it operates largely in the shadow of its more famous neighbor, Bernkasteler Doctor. This is not a matter of quality disparity, rather, a question of historical marketing and vineyard politics.
 
 ## Geography & Exposition
 
-Bernkasteler Lay occupies a steep southwest-facing slope directly adjacent to the town of Bernkastel-Kues, positioned on the right bank of the Mosel. The vineyard sits at elevations ranging from approximately 110 to 180 meters above sea level, with gradients frequently exceeding 60%. This extreme pitch creates one of the Mittelmosel's most dramatic viticultural landscapes—vines cling to slopes so precipitous that mechanization remains impossible.
+Bernkasteler Lay occupies a steep southwest-facing slope directly adjacent to the town of Bernkastel-Kues, positioned on the right bank of the Mosel. The vineyard sits at elevations ranging from approximately 110 to 180 meters above sea level, with gradients frequently exceeding 60%. This extreme pitch creates one of the Mittelmosel's most dramatic viticultural landscapes, vines cling to slopes so precipitous that mechanization remains impossible.
 
 The site benefits from the Mosel's characteristic river reflection, which amplifies solar radiation and moderates diurnal temperature swings. The southwest exposition maximizes afternoon sun exposure, critical in a region where ripening Riesling to physiological maturity represents an annual challenge.
 
 ## Terroir: The Devonian Foundation
 
-Like most premier Mittelmosel sites, Bernkasteler Lay is rooted in Devonian slate—specifically, the blue-gray slate formations deposited 360 to 420 million years ago. This slate weathers into thin, fragmented soils with exceptional drainage characteristics and heat-retention properties. During sunny days, the dark slate absorbs solar energy and radiates it back to the vine canopy at night, effectively extending the growing season.
+Like most premier Mittelmosel sites, Bernkasteler Lay is rooted in Devonian slate, specifically, the blue-gray slate formations deposited 360 to 420 million years ago. This slate weathers into thin, fragmented soils with exceptional drainage characteristics and heat-retention properties. During sunny days, the dark slate absorbs solar energy and radiates it back to the vine canopy at night, effectively extending the growing season.
 
 The soil depth varies considerably across the vineyard, from barely 20 centimeters at the steepest sections to nearly a meter in small pockets where erosion has deposited material. These variations create distinct microzones within the Lay, each producing subtly different expressions.
 
@@ -26,7 +26,7 @@ The structure here favors longevity. Well-made Spätlese and Auslese from strong
 
 **Weingut Wwe. Dr. H. Thanisch - Erben Müller-Burggraef** also farms parcels here, typically vinifying separate bottlings that showcase the Lay's capacity for both prädikat sweetness levels and increasingly popular dry styles.
 
-Several smaller growers own rows within the vineyard—a common pattern following centuries of inheritance fragmentation—though few bottle single-vineyard designations from their small plots.
+Several smaller growers own rows within the vineyard (a common pattern following centuries of inheritance fragmentation) though few bottle single-vineyard designations from their small plots.
 
 ## The Name Question
 

@@ -1,6 +1,6 @@
 I appreciate you providing this detailed template, but I need to flag a critical issue: **the research context provided is entirely about other wine regions** (Châteauneuf-du-Pape, Barolo, Walla Walla, California) and contains **zero information about Winninger Hamm in the Mosel**.
 
-The only mention of "Hamm" in your research refers to a location "in Orange, which is to the north of Chateauneuf du Pape" in the Rhône Valley—completely unrelated to the German Mosel region.
+The only mention of "Hamm" in your research refers to a location "in Orange, which is to the north of Chateauneuf du Pape" in the Rhône Valley, completely unrelated to the German Mosel region.
 
 ## What I Know About Winninger Hamm (Without Your Research)
 
@@ -20,4 +20,4 @@ To write this guide properly, I would need research covering:
 1. Provide the correct research context for Winninger Hamm, or
 2. Have me write a different region guide using the research you've provided (perhaps a Châteauneuf-du-Pape sub-region)?
 
-I'm committed to matching the Jura Guide's rigorous, data-driven style—but that requires accurate source material for the actual region in question.
+I'm committed to matching the Jura Guide's rigorous, data-driven style, but that requires accurate source material for the actual region in question.

@@ -4,7 +4,7 @@
 
 Chambertin-Clos de Bèze stands as one of Burgundy's most revered Grand Cru vineyards, occupying a position of supreme prominence within the commune of Gevrey-Chambertin in the Côte de Nuits. Located in the heart of Burgundy's golden slope, approximately 15 kilometers south of Dijon, this legendary vineyard sits at the northern end of the Côte de Nuits's most prestigious vineyard sites.
 
-The vineyard's position is geographically strategic, nestled on the mid-slope of the Côte d'Or escarpment where optimal conditions for Pinot Noir cultivation converge. Chambertin-Clos de Bèze lies directly adjacent to its equally famous sibling, Chambertin Grand Cru, separated only by the narrow Rue de Lavaux. This proximity is more than geographical coincidence—both vineyards share similar geological foundations and microclimatic conditions that have made them benchmarks for Burgundian excellence for over a millennium.
+The vineyard's position is geographically strategic, nestled on the mid-slope of the Côte d'Or escarpment where optimal conditions for Pinot Noir cultivation converge. Chambertin-Clos de Bèze lies directly adjacent to its equally famous sibling, Chambertin Grand Cru, separated only by the narrow Rue de Lavaux. This proximity is more than geographical coincidence, both vineyards share similar geological foundations and microclimatic conditions that have made them benchmarks for Burgundian excellence for over a millennium.
 
 Within Gevrey-Chambertin's hierarchical structure, Chambertin-Clos de Bèze occupies the apex, sitting above the commune's Premier Cru vineyards such as Clos Saint-Jacques, Cazetiers, and Lavaux Saint-Jacques. The vineyard's elevation places it in the optimal zone where limestone bedrock lies close to the surface, providing the mineral backbone essential for wines of extraordinary complexity and longevity.
 
@@ -70,7 +70,7 @@ Sustainable and organic viticulture practices are increasingly common, with many
 
 ## Wine Character & Style
 
-Wines from Chambertin-Clos de Bèze represent the pinnacle of Pinot Noir expression, combining power with elegance in a manner that defines great Burgundy. The aromatic profile is characteristically complex, opening with intense red and black fruit aromas—cherries, raspberries, and blackcurrants—layered with distinctive earthy undertones that reflect the limestone terroir.
+Wines from Chambertin-Clos de Bèze represent the pinnacle of Pinot Noir expression, combining power with elegance in a manner that defines great Burgundy. The aromatic profile is characteristically complex, opening with intense red and black fruit aromas (cherries, raspberries, and blackcurrants) layered with distinctive earthy undertones that reflect the limestone terroir.
 
 The signature aromatic elements include pronounced minerality, often described as wet stone or limestone dust, which provides a distinctive backbone to the fruit expression. Floral notes of roses and violets frequently appear, particularly in wines from cooler vintages, while warmer years may emphasize darker fruit characteristics and subtle spice elements.
 
@@ -96,7 +96,7 @@ Mazis-Chambertin, located to the north, shares similar geological foundations bu
 
 Ruchottes-Chambertin, positioned higher on the slope, produces wines with more pronounced minerality due to thinner soils and closer proximity to limestone bedrock. However, these wines often lack the depth and complexity that Clos de Bèze achieves through its optimal combination of soil depth and geological composition.
 
-Chapelle-Chambertin and Griotte-Chambertin, located lower on the slope, tend to produce wines with different aromatic profiles—Chapelle often showing more immediate fruit character, while Griotte can display more pronounced floral elements. Neither achieves the complete balance of power, elegance, and aging potential that characterizes Clos de Bèze.
+Chapelle-Chambertin and Griotte-Chambertin, located lower on the slope, tend to produce wines with different aromatic profiles. Chapelle often showing more immediate fruit character, while Griotte can display more pronounced floral elements. Neither achieves the complete balance of power, elegance, and aging potential that characterizes Clos de Bèze.
 
 Among Gevrey-Chambertin's Premier Cru vineyards, Clos Saint-Jacques most closely approaches Grand Cru quality, sometimes rivaling lesser examples of Clos de Bèze. However, Clos Saint-Jacques typically shows more immediate approachability and less aging potential, while Clos de Bèze requires patience to reveal its full potential.
 
@@ -176,4 +176,4 @@ Collector interest spans global markets, with particularly strong demand from Am
 
 The secondary market is active but limited by the small quantities available. Restaurants and private collectors compete for available bottles, supporting price levels while ensuring that truly exceptional examples become increasingly rare and valuable over time.
 
-Chambertin-Clos de Bèze represents more than just exceptional wine—it embodies the intersection of terroir, history, and human artistry that defines great Burgundy. For collectors and enthusiasts, owning and experiencing wines from this legendary vineyard provides connection to centuries of winemaking tradition while enjoying some of the world's most profound expressions of Pinot Noir. The combination of rarity, quality, and historical significance ensures that Clos de Bèze will continue to occupy its position among the world's most coveted wines, representing both the pinnacle of current achievement and the promise of future excellence from this extraordinary terroir.
+Chambertin-Clos de Bèze represents more than just exceptional wine, it embodies the intersection of terroir, history, and human artistry that defines great Burgundy. For collectors and enthusiasts, owning and experiencing wines from this legendary vineyard provides connection to centuries of winemaking tradition while enjoying some of the world's most profound expressions of Pinot Noir. The combination of rarity, quality, and historical significance ensures that Clos de Bèze will continue to occupy its position among the world's most coveted wines, representing both the pinnacle of current achievement and the promise of future excellence from this extraordinary terroir.

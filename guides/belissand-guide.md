@@ -48,7 +48,7 @@ Site-specific challenges include managing vine vigor on the deeper soils in lowe
 
 ## Wine Character & Style
 
-Wines from Belissand display a distinctive character that combines the elegance and finesse associated with Beaune Premier Crus with a unique expression of power and mineral complexity. The Pinot Noir from this climat typically exhibits a beautiful ruby to garnet color with excellent depth and clarity, reflecting the wine's structural integrity and aging potential. On the nose, Belissand wines present an aromatic profile that evolves from bright red fruit notes in youth—cherry, raspberry, and strawberry—to more complex secondary aromas of earth, leather, and spice as they mature.
+Wines from Belissand display a distinctive character that combines the elegance and finesse associated with Beaune Premier Crus with a unique expression of power and mineral complexity. The Pinot Noir from this climat typically exhibits a beautiful ruby to garnet color with excellent depth and clarity, reflecting the wine's structural integrity and aging potential. On the nose, Belissand wines present an aromatic profile that evolves from bright red fruit notes in youth (cherry, raspberry, and strawberry) to more complex secondary aromas of earth, leather, and spice as they mature.
 
 The palate reveals the true character of Belissand's terroir, with a silky texture that speaks to the limestone influence while maintaining the substance and depth expected from a Premier Cru site. The wine's structure is built upon a framework of fine-grained tannins that provide support without overwhelming the fruit expression. Acidity levels are typically well-balanced, providing freshness and aging potential while complementing the wine's mineral backbone.
 

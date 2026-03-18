@@ -14,11 +14,11 @@ The boundaries of Goose Gap are defined by specific topographic and climatic fea
 
 Goose Gap's climate exemplifies the desert continental conditions that have made Washington State one of North America's premier wine regions, yet with distinctive modifications created by its unique geographic position. The region experiences approximately 210-220 frost-free days annually, providing an extended growing season ideal for ripening even late-maturing varieties.
 
-The AVA's location at the "gap" in the Horse Heaven Hills creates a natural funnel for airflow, particularly the prevalent westerly winds that sweep through the Columbia River Gorge. These winds play a crucial role in the region's viticulture, moderating temperatures during the growing season, reducing disease pressure, and thickening grape skins—contributing to concentrated flavors and balanced tannin development.
+The AVA's location at the "gap" in the Horse Heaven Hills creates a natural funnel for airflow, particularly the prevalent westerly winds that sweep through the Columbia River Gorge. These winds play a crucial role in the region's viticulture, moderating temperatures during the growing season, reducing disease pressure, and thickening grape skins, contributing to concentrated flavors and balanced tannin development.
 
 Annual precipitation in Goose Gap averages just 6-8 inches, making irrigation an absolute necessity for commercial viticulture. However, this aridity brings significant advantages: vintners can precisely control water delivery to vines, disease pressure remains minimal, and harvest conditions are typically dry and predictable. The Columbia River provides abundant irrigation water, with most vineyards utilizing drip irrigation systems that allow for precise water management and controlled vine stress.
 
-The diurnal temperature variation in Goose Gap is pronounced, often exceeding 40-50°F during the peak growing season. Summer days regularly reach 90-100°F, providing the heat accumulation necessary for phenolic ripeness and flavor development. Nights, however, cool dramatically—often dropping into the 50s or even high 40s—preserving natural acidity and aromatic compounds that might otherwise be lost in consistently hot conditions. This temperature swing is more dramatic than in many surrounding Columbia Valley areas due to the gap's channeling effect on cool air drainage.
+The diurnal temperature variation in Goose Gap is pronounced, often exceeding 40-50°F during the peak growing season. Summer days regularly reach 90-100°F, providing the heat accumulation necessary for phenolic ripeness and flavor development. Nights, however, cool dramatically (often dropping into the 50s or even high 40s) preserving natural acidity and aromatic compounds that might otherwise be lost in consistently hot conditions. This temperature swing is more dramatic than in many surrounding Columbia Valley areas due to the gap's channeling effect on cool air drainage.
 
 Topographically, Goose Gap occupies a transitional zone with elevations ranging from approximately 400 feet near the Columbia River to roughly 1,200 feet at the upper margins where vineyards meet the Horse Heaven Hills ridgeline. This 800-foot elevation gradient creates diverse mesoclimates within the relatively compact AVA, allowing growers to match specific varieties and clones to optimal sites.
 
@@ -28,7 +28,7 @@ The slopes within Goose Gap generally face south to southwest, providing excelle
 
 The terroir of Goose Gap is fundamentally shaped by one of North America's most dramatic geological events: the Missoula Floods. Between 15,000 and 13,000 years ago, dozens of cataclysmic floods scoured the Columbia Basin as glacial Lake Missoula repeatedly burst through its ice dam in what is now Montana. These floods, carrying volumes of water estimated at ten times the flow of all current rivers on Earth combined, deposited the distinctive soils that now define Washington's premier wine regions.
 
-In Goose Gap, the dominant soil series include Warden-Adkins, Quincy, Hezel, and Sagemoor—all characterized by their exceptional drainage, relatively low fertility, and glaciofluvial origins. The soils here are predominantly silty loams and sandy loams underlaid with gravel, cobbles, and ancient flood sediments that extend to considerable depths.
+In Goose Gap, the dominant soil series include Warden-Adkins, Quincy, Hezel, and Sagemoor, all characterized by their exceptional drainage, relatively low fertility, and glaciofluvial origins. The soils here are predominantly silty loams and sandy loams underlaid with gravel, cobbles, and ancient flood sediments that extend to considerable depths.
 
 The Warden silt loam, perhaps the most widespread soil type in Goose Gap, consists of windblown silts (loess) deposited atop flood gravels. These soils typically range from 20 to 40 inches deep before encountering coarser materials, providing sufficient water-holding capacity while ensuring excellent drainage. The silty texture contributes to fine-grained tannins and elegant structure in wines, particularly in Cabernet Sauvignon and Merlot.
 
@@ -38,7 +38,7 @@ The Sagemoor silt loam, found in portions of Goose Gap, has become legendary in 
 
 The calcium carbonate (caliche) layers present in many Goose Gap soils, typically occurring at depths of 2-4 feet, play an important role in viticulture. While these hardpan layers can restrict root penetration, they also provide a natural water reservoir and contribute mineral elements that some viticulturists believe influence wine character.
 
-The low organic matter content in Goose Gap soils—typically 0.5-1.5%—means vines must be managed carefully to maintain appropriate vigor while achieving optimal crop levels. The relative infertility naturally limits excessive vegetative growth, focusing vine energy on fruit production and contributing to the concentrated flavors characteristic of the region's wines.
+The low organic matter content in Goose Gap soils, typically 0.5-1.5%, means vines must be managed carefully to maintain appropriate vigor while achieving optimal crop levels. The relative infertility naturally limits excessive vegetative growth, focusing vine energy on fruit production and contributing to the concentrated flavors characteristic of the region's wines.
 
 ## Viticulture
 
@@ -46,9 +46,9 @@ Goose Gap's viticultural identity is built primarily on red wine varieties, part
 
 Current vineyard acreage in Goose Gap is estimated at approximately 1,200-1,400 acres under vine, representing a small fraction of the AVA's total area but a significant concentration of premium vineyard sites. Many of these vineyards were established in the 1990s and early 2000s, reaching full maturity just as the AVA designation was being pursued.
 
-The growing season in Goose Gap typically begins with budbreak in early to mid-April, followed by bloom in late May or early June. Véraison—the onset of ripening—generally occurs in late July or early August, with harvest commencing in late September and extending through October for the latest-ripening varieties. The accumulation of Growing Degree Days (GDDs) in Goose Gap typically ranges from 2,800 to 3,200 on the Winkler scale, placing it firmly in Region II to low Region III territory—ideal for premium red wine production.
+The growing season in Goose Gap typically begins with budbreak in early to mid-April, followed by bloom in late May or early June. Véraison (the onset of ripening) generally occurs in late July or early August, with harvest commencing in late September and extending through October for the latest-ripening varieties. The accumulation of Growing Degree Days (GDDs) in Goose Gap typically ranges from 2,800 to 3,200 on the Winkler scale, placing it firmly in Region II to low Region III territory, ideal for premium red wine production.
 
-One of Goose Gap's most significant viticultural advantages is the reliable ripening conditions for varieties that can struggle in cooler Washington sites. The combination of heat accumulation, extended hang time, and dramatic diurnal swings allows grapes to achieve full physiological ripeness while retaining natural acidity—a balance that defines high-quality red wines.
+One of Goose Gap's most significant viticultural advantages is the reliable ripening conditions for varieties that can struggle in cooler Washington sites. The combination of heat accumulation, extended hang time, and dramatic diurnal swings allows grapes to achieve full physiological ripeness while retaining natural acidity: a balance that defines high-quality red wines.
 
 The persistent winds that characterize the region present both challenges and opportunities. While strong winds can occasionally damage young shoots in spring, they provide invaluable benefits throughout the season: reducing disease pressure, naturally limiting yields through shatter at bloom, thickening grape skins, and creating tighter, more concentrated berry clusters.
 
@@ -60,9 +60,9 @@ The low humidity and abundant sunshine result in minimal disease pressure, reduc
 
 ## Wine Styles
 
-Wines from Goose Gap exhibit a distinctive personality within the broader Columbia Valley spectrum—combining the power and ripeness associated with warm-climate viticulture with the structure and freshness that cool nights and extended hang time provide.
+Wines from Goose Gap exhibit a distinctive personality within the broader Columbia Valley spectrum, combining the power and ripeness associated with warm-climate viticulture with the structure and freshness that cool nights and extended hang time provide.
 
-**Cabernet Sauvignon** from Goose Gap represents the region's flagship style. These wines typically show dense, dark fruit character—blackberry, black cherry, and cassis—alongside notes of graphite, tobacco, and dried herbs. The combination of physiological ripeness and retained acidity creates wines with supple but substantial tannins, full bodies, and the capacity for extended aging. Compared to Cabernet from cooler Columbia Valley sites like Wahluke Slope or Ancient Lakes, Goose Gap examples show more warmth and ripeness; compared to hotter sites like Red Mountain, they often display more freshness and lift.
+**Cabernet Sauvignon** from Goose Gap represents the region's flagship style. These wines typically show dense, dark fruit character (blackberry, black cherry, and cassis) alongside notes of graphite, tobacco, and dried herbs. The combination of physiological ripeness and retained acidity creates wines with supple but substantial tannins, full bodies, and the capacity for extended aging. Compared to Cabernet from cooler Columbia Valley sites like Wahluke Slope or Ancient Lakes, Goose Gap examples show more warmth and ripeness; compared to hotter sites like Red Mountain, they often display more freshness and lift.
 
 **Syrah** from the region showcases the variety's ability to express terroir. Goose Gap Syrahs tend toward the ripe, powerful end of the spectrum, with black fruit, olive, smoked meat, and peppery spice characteristics. The wines show the variety's characteristic savory complexity while maintaining the fruit intensity that Washington Syrah is known for. These are typically full-bodied wines with plush textures and considerable aging potential.
 
@@ -92,7 +92,7 @@ Several noteworthy Washington wineries source fruit from Goose Gap vineyards and
 
 **Col Solare**, the joint venture between Ste. Michelle Wine Estates and Tuscany's Antinori family, sources some fruit from the region, adding to their flagship Cabernet-based blend.
 
-Many other established Washington producers—including Woodward Canyon, L'Ecole No. 41, Gramercy Cellars, and Force Majeure—have utilized Goose Gap fruit, recognizing its distinctive contribution to their wines.
+Many other established Washington producers, including Woodward Canyon, L'Ecole No. 41, Gramercy Cellars, and Force Majeure, have utilized Goose Gap fruit, recognizing its distinctive contribution to their wines.
 
 ## Wine Tourism & Future
 
@@ -100,7 +100,7 @@ Wine tourism in Goose Gap currently remains relatively undeveloped compared to m
 
 However, **Goose Ridge Estate** operates a tasting room in Richland, offering visitors the opportunity to taste estate wines while learning about the region. The facility provides educational experiences focused on the Goose Gap terroir and the Monson family's multi-generational commitment to the region.
 
-For wine enthusiasts visiting the area, the drive through Goose Gap on Webber Canyon Road and Goose Gap Road offers spectacular views of vineyards against the backdrop of the Horse Heaven Hills. The landscape—dramatic, austere, and beautiful—conveys the rugged character that defines Washington wine country.
+For wine enthusiasts visiting the area, the drive through Goose Gap on Webber Canyon Road and Goose Gap Road offers spectacular views of vineyards against the backdrop of the Horse Heaven Hills. The landscape (dramatic, austere, and beautiful) conveys the rugged character that defines Washington wine country.
 
 The proximity to the Tri-Cities provides access to accommodations, restaurants, and wine-related services, while the region sits within reasonable driving distance of other Columbia Valley sub-AVAs, including Red Mountain (20 miles east), Horse Heaven Hills (adjacent), and Walla Walla Valley (70 miles southeast).
 
@@ -114,12 +114,12 @@ The trend toward sustainable and organic viticulture should favor Goose Gap, giv
 
 Potential exists for expanded plantings of alternative varieties, particularly Rhône grapes like Grenache, Mourvèdre, and Roussanne, which thrive in warm, dry conditions similar to Goose Gap. Some forward-thinking growers are experimenting with these varieties, potentially diversifying the region's identity beyond Bordeaux varieties.
 
-The greatest opportunity for Goose Gap may lie in establishing its identity as a distinct terroir within Washington's wine hierarchy. As the state's wine industry matures, consumers and critics increasingly recognize sub-AVA differences rather than simply "Washington State" wines. Goose Gap, with its unique combination of climate, soils, and topography, possesses the distinctiveness to establish a clear identity—provided producers and marketers effectively communicate what makes the region special.
+The greatest opportunity for Goose Gap may lie in establishing its identity as a distinct terroir within Washington's wine hierarchy. As the state's wine industry matures, consumers and critics increasingly recognize sub-AVA differences rather than simply "Washington State" wines. Goose Gap, with its unique combination of climate, soils, and topography, possesses the distinctiveness to establish a clear identity, provided producers and marketers effectively communicate what makes the region special.
 
 ---
 
 **Conclusion**
 
-The Goose Gap AVA represents Washington wine country at its most compelling—a region where dramatic geology, extreme climate, and human ambition converge to produce wines of power, elegance, and distinctive character. Though relatively young as a formally recognized region, Goose Gap builds upon decades of viticultural experience and proven performance in producing premium wine grapes.
+The Goose Gap AVA represents Washington wine country at its most compelling: a region where dramatic geology, extreme climate, and human ambition converge to produce wines of power, elegance, and distinctive character. Though relatively young as a formally recognized region, Goose Gap builds upon decades of viticultural experience and proven performance in producing premium wine grapes.
 
 For wine professionals and enthusiasts, Goose Gap offers wines that embody the best of Columbia Valley viticulture: the ripeness and concentration of a warm climate tempered by the freshness and structure that cool nights and extended growing seasons provide. As the region's identity continues to evolve and mature, Goose Gap seems certain to occupy an increasingly prominent place in America's wine landscape.

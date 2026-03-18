@@ -71,7 +71,7 @@ Les Genavrières occupies a unique position within Morey-Saint-Denis's Premier C
 
 In relation to Les Millandes, another Premier Cru in Morey-Saint-Denis, Les Genavrières generally produces wines with greater mineral precision and structural definition. The proximity to Chambolle-Musigny's influence gives Les Genavrières a more refined tannin structure compared to some of the more powerful Premier Crus located closer to Gevrey-Chambertin.
 
-When compared to the Grand Cru vineyards of Morey-Saint-Denis—Clos de la Roche, Clos Saint-Denis, Clos des Lambrays, and Clos de Tart—Les Genavrières shows clear Premier Cru characteristics while demonstrating why it has not achieved Grand Cru status. The wines typically lack the concentration, complexity, and aging potential of the Grand Crus, though they often display excellent terroir expression and can age gracefully for 15-20 years in optimal vintages.
+When compared to the Grand Cru vineyards of Morey-Saint-Denis. Clos de la Roche, Clos Saint-Denis, Clos des Lambrays, and Clos de Tart. Les Genavrières shows clear Premier Cru characteristics while demonstrating why it has not achieved Grand Cru status. The wines typically lack the concentration, complexity, and aging potential of the Grand Crus, though they often display excellent terroir expression and can age gracefully for 15-20 years in optimal vintages.
 
 Clos de la Roche, the largest and perhaps most powerful of Morey-Saint-Denis's Grand Crus, produces wines with significantly more concentration and aging potential than Les Genavrières. However, Les Genavrières often shows more immediate charm and accessibility, making it attractive to consumers seeking Premier Cru quality without the intensity that requires extended cellaring.
 

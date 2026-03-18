@@ -36,7 +36,7 @@ The exposition predominantly faces east and southeast, capturing morning sunligh
 
 ## Vineyard Classification System
 
-Beaune's vineyard classification reflects the commune's role as a premier cru specialist within Burgundy's hierarchical structure. Unlike neighboring villages such as Aloxe-Corton or Puligny-Montrachet, Beaune contains no grand cru vineyards. However, the appellation compensates with an extensive premier cru system encompassing 42 designated climats covering 329 hectares—nearly 80% of the total vineyard area.
+Beaune's vineyard classification reflects the commune's role as a premier cru specialist within Burgundy's hierarchical structure. Unlike neighboring villages such as Aloxe-Corton or Puligny-Montrachet, Beaune contains no grand cru vineyards. However, the appellation compensates with an extensive premier cru system encompassing 42 designated climats covering 329 hectares, nearly 80% of the total vineyard area.
 
 The premier cru classification system in Beaune demonstrates remarkable complexity, with individual climats often subdivided into smaller parcels that reflect subtle terroir variations. These premier cru vineyards occupy the optimal mid-slope positions where soil depth, drainage, and exposition combine to produce wines of exceptional quality and longevity.
 
@@ -48,7 +48,7 @@ Beaune's premier cru system contrasts with neighboring appellations through its 
 
 ## Wine Styles & Characteristics
 
-Beaune produces wines of remarkable stylistic diversity, reflecting the appellation's extensive vineyard holdings and varied terroir conditions. Red wines, representing the vast majority of production, exhibit medium to full body with elegant structure that balances power and finesse. The archetypal Beaune rouge displays bright red fruit character—cherry, raspberry, and red currant—supported by earthy undertones and mineral complexity derived from limestone-rich soils.
+Beaune produces wines of remarkable stylistic diversity, reflecting the appellation's extensive vineyard holdings and varied terroir conditions. Red wines, representing the vast majority of production, exhibit medium to full body with elegant structure that balances power and finesse. The archetypal Beaune rouge displays bright red fruit character (cherry, raspberry, and red currant) supported by earthy undertones and mineral complexity derived from limestone-rich soils.
 
 The tannin structure in Beaune red wines tends toward elegance rather than power, creating approachable wines in youth that develop complexity through extended aging. Young Beaune wines often show vibrant acidity and fresh fruit character, while mature examples develop tertiary aromas including leather, game, forest floor, and truffle notes that exemplify Pinot Noir's capacity for graceful evolution.
 
@@ -68,7 +68,7 @@ The contrast with Volnay proves particularly instructive, as both appellations e
 
 Northern neighbor Savigny-lès-Beaune produces wines with more rustic character and firmer tannin structure, reflecting the different geological conditions and cooler microclimate of that appellation. Beaune wines generally show more immediate charm and accessibility while maintaining comparable aging potential.
 
-In comparison to the white wine specialists of the southern Côte de Beaune—Meursault, Puligny-Montrachet, and Chassagne-Montrachet—Beaune's white wines display more restraint and mineral-driven character. While lacking the power and richness of premier white wine appellations, Beaune blanc offers exceptional value and food compatibility.
+In comparison to the white wine specialists of the southern Côte de Beaune. Meursault, Puligny-Montrachet, and Chassagne-Montrachet. Beaune's white wines display more restraint and mineral-driven character. While lacking the power and richness of premier white wine appellations, Beaune blanc offers exceptional value and food compatibility.
 
 The relationship with Aloxe-Corton presents an interesting comparison, as both appellations feature extensive premier cru holdings without achieving the ultimate prestige of grand cru neighbors. However, Beaune's wines typically show more consistency across different vineyard sites, while Aloxe-Corton demonstrates greater variation between premier cru climats.
 

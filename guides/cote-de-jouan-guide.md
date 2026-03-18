@@ -28,7 +28,7 @@ The hillside positioning provides natural air drainage, reducing frost risk comp
 
 ### Terroir Expression
 
-The terroir of Côte de Jouan imparts the wines with characteristics that are simultaneously recognizable as Chablis while possessing their own nuanced personality. The Kimmeridgian influence manifests as that ineffable minerality—often described as flinty, chalky, or saline—that distinguishes Chablis from Chardonnays grown elsewhere. The specific microclimate and exposition of this particular site will subtly influence ripeness levels, acid retention, and aromatic development, creating a distinct expression within the broader Premier Cru category.
+The terroir of Côte de Jouan imparts the wines with characteristics that are simultaneously recognizable as Chablis while possessing their own nuanced personality. The Kimmeridgian influence manifests as that ineffable minerality (often described as flinty, chalky, or saline) that distinguishes Chablis from Chardonnays grown elsewhere. The specific microclimate and exposition of this particular site will subtly influence ripeness levels, acid retention, and aromatic development, creating a distinct expression within the broader Premier Cru category.
 
 ## Wine Character
 
@@ -38,15 +38,15 @@ Wines from Côte de Jouan exhibit the hallmark characteristics of Chablis Premie
 
 ### Flavor Profile and Aromatics
 
-The aromatic profile typically opens with citrus notes—lemon zest, lime, and green apple—accompanied by white flowers and that distinctive mineral character that evokes wet stones, crushed seashells, or flint struck against steel. As the wine opens, subtle orchard fruit notes may emerge: white peach, pear, and occasionally a hint of quince.
+The aromatic profile typically opens with citrus notes (lemon zest, lime, and green apple) accompanied by white flowers and that distinctive mineral character that evokes wet stones, crushed seashells, or flint struck against steel. As the wine opens, subtle orchard fruit notes may emerge: white peach, pear, and occasionally a hint of quince.
 
 On the palate, Côte de Jouan demonstrates the linear, focused structure characteristic of Premier Cru Chablis. The acidity is pronounced but integrated, providing both refreshment and aging potential. The minerality observed on the nose carries through, often intensifying on the mid-palate and finish. There's typically a lean, athletic quality to the wine rather than overt richness, though well-made examples achieve excellent concentration and depth within this framework.
 
-The texture ranges from crisp and tensile in youth to more rounded and complex with age, though it never loses that essential spine of acidity. The finish is typically long and saline, leaving the palate refreshed and eager for the next sip—or bite of food.
+The texture ranges from crisp and tensile in youth to more rounded and complex with age, though it never loses that essential spine of acidity. The finish is typically long and saline, leaving the palate refreshed and eager for the next sip, or bite of food.
 
 ### Comparative Context
 
-Within the spectrum of Chablis Premier Crus, smaller climats like Côte de Jouan often fall into the category of sites that produce classic, well-balanced expressions rather than wines of extreme power or distinctive idiosyncrasy. While a Premier Cru like Montée de Tonnerre might show more immediately commanding structure and intensity, and Fourchaume might display slightly riper fruit character, Côte de Jouan likely represents a middle path—thoroughly Premier Cru in quality but perhaps more approachable and versatile.
+Within the spectrum of Chablis Premier Crus, smaller climats like Côte de Jouan often fall into the category of sites that produce classic, well-balanced expressions rather than wines of extreme power or distinctive idiosyncrasy. While a Premier Cru like Montée de Tonnerre might show more immediately commanding structure and intensity, and Fourchaume might display slightly riper fruit character, Côte de Jouan likely represents a middle path, thoroughly Premier Cru in quality but perhaps more approachable and versatile.
 
 ### Body and Structure
 
@@ -60,7 +60,7 @@ Chardonnay is the sole permitted variety for all white Chablis wines, and the vi
 
 Frost protection remains a significant concern, with producers employing various methods including smudge pots, wind machines, and sprinkler systems during vulnerable spring periods. Canopy management ensures adequate sun exposure for the grapes while preventing excessive yields that would dilute quality.
 
-Harvest timing is critical, with producers carefully monitoring both sugar accumulation and acid retention. The goal is to pick at optimal phenolic ripeness—when flavors are fully developed—while maintaining the high natural acidity that provides structure and aging potential.
+Harvest timing is critical, with producers carefully monitoring both sugar accumulation and acid retention. The goal is to pick at optimal phenolic ripeness (when flavors are fully developed) while maintaining the high natural acidity that provides structure and aging potential.
 
 ### Production Scale
 
@@ -106,7 +106,7 @@ Store bottles horizontally in cool (50-55°F/10-13°C), dark, humid conditions w
 
 ### Serving Guidelines
 
-Serve Côte de Jouan slightly warmer than standard white wine refrigeration—around 50-54°F (10-12°C). This temperature range allows the wine's aromatics and complexity to express fully while maintaining refreshing qualities. Over-chilling mutes the subtle nuances that make Premier Cru Chablis distinctive.
+Serve Côte de Jouan slightly warmer than standard white wine refrigeration, around 50-54°F (10-12°C). This temperature range allows the wine's aromatics and complexity to express fully while maintaining refreshing qualities. Over-chilling mutes the subtle nuances that make Premier Cru Chablis distinctive.
 
 Use generous white wine glasses with adequate bowl size to allow the wine to breathe and develop in the glass. Decanting is generally unnecessary for younger wines but can benefit bottles with significant age.
 
@@ -138,4 +138,4 @@ The high acidity, mineral character, and lean profile of Côte de Jouan make it 
 
 ## Conclusion
 
-Côte de Jouan exemplifies the depth and breadth of quality within Chablis's Premier Cru classification. While it may not be a household name, wines from this climat offer serious wine enthusiasts an opportunity to explore authentic Premier Cru Chablis, often at more accessible prices than their famous neighbors. The combination of Kimmeridgian terroir, favorable exposition, and skilled winemaking yields wines that express both the regional character and specific site personality—pure Chardonnay expressions that showcase why Chablis remains one of the world's most distinctive wine regions. For those willing to look beyond the most famous names, climats like Côte de Jouan represent discoveries waiting to be made, bottled expressions of place that reward attention and pair beautifully with food.
+Côte de Jouan exemplifies the depth and breadth of quality within Chablis's Premier Cru classification. While it may not be a household name, wines from this climat offer serious wine enthusiasts an opportunity to explore authentic Premier Cru Chablis, often at more accessible prices than their famous neighbors. The combination of Kimmeridgian terroir, favorable exposition, and skilled winemaking yields wines that express both the regional character and specific site personality, pure Chardonnay expressions that showcase why Chablis remains one of the world's most distinctive wine regions. For those willing to look beyond the most famous names, climats like Côte de Jouan represent discoveries waiting to be made, bottled expressions of place that reward attention and pair beautifully with food.

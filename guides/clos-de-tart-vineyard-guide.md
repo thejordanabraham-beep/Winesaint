@@ -2,7 +2,7 @@
 
 ## Overview & Location
 
-Clos de Tart stands as one of Burgundy's most prestigious and historically significant vineyards, occupying a unique position within the commune of Morey-Saint-Denis in the Côte de Nuits. This Grand Cru vineyard holds the exceptional distinction of being a monopole—entirely owned by a single proprietor—making it one of only five such holdings among Burgundy's Grand Cru appellations.
+Clos de Tart stands as one of Burgundy's most prestigious and historically significant vineyards, occupying a unique position within the commune of Morey-Saint-Denis in the Côte de Nuits. This Grand Cru vineyard holds the exceptional distinction of being a monopole (entirely owned by a single proprietor) making it one of only five such holdings among Burgundy's Grand Cru appellations.
 
 Located in the heart of the Côte de Nuits, approximately 15 kilometers south of Dijon and 20 kilometers north of Beaune, Clos de Tart sits strategically positioned on the famous golden slope that defines this legendary wine region. The vineyard occupies the northern portion of Morey-Saint-Denis's Grand Cru sector, bordered by Clos des Lambrays to the south and Clos Saint-Denis to the southeast. To the north, it shares boundaries with Gevrey-Chambertin's southern Premier Cru vineyards, creating a seamless transition between two of Burgundy's most celebrated wine communes.
 
@@ -10,11 +10,11 @@ The vineyard's position within the broader context of the Côte de Nuits places 
 
 ## Size & Parcellation
 
-Clos de Tart encompasses 7.53 hectares (18.6 acres), making it a moderately sized Grand Cru by Burgundian standards. What distinguishes it from virtually all other Grand Cru vineyards is its status as a monopole, meaning the entire appellation belongs to a single owner—currently Maison Artemis, which acquired the property in 2018 from the Mommessin family, who had owned it since 1932.
+Clos de Tart encompasses 7.53 hectares (18.6 acres), making it a moderately sized Grand Cru by Burgundian standards. What distinguishes it from virtually all other Grand Cru vineyards is its status as a monopole, meaning the entire appellation belongs to a single owner, currently Maison Artemis, which acquired the property in 2018 from the Mommessin family, who had owned it since 1932.
 
 This monopole status represents an extraordinary rarity in Burgundy, where centuries of inheritance laws and land divisions have typically fragmented vineyard ownership into tiny parcels among numerous proprietors. Only Romanée-Conti, La Tâche, La Romanée, and La Grande Rue share this distinction among red wine Grand Crus, with Chablis's La Moutonne being the sole white wine monopole Grand Cru.
 
-The vineyard is not subdivided into separate parcels with different owners, though internal variations in terroir and exposition create natural zones that influence vineyard management decisions. The property includes not only the producing vineyard area but also the historic winemaking facilities, cellars, and administrative buildings that have served the estate for centuries. This unified ownership allows for consistent viticultural practices across the entire site and enables the production of a single, unblended expression of the terroir—a luxury unavailable to most Burgundian producers who must work with small, scattered parcels.
+The vineyard is not subdivided into separate parcels with different owners, though internal variations in terroir and exposition create natural zones that influence vineyard management decisions. The property includes not only the producing vineyard area but also the historic winemaking facilities, cellars, and administrative buildings that have served the estate for centuries. This unified ownership allows for consistent viticultural practices across the entire site and enables the production of a single, unblended expression of the terroir: a luxury unavailable to most Burgundian producers who must work with small, scattered parcels.
 
 ## Terroir & Geology
 
@@ -64,7 +64,7 @@ Harvest timing represents one of the most critical decisions each vintage, with 
 
 Clos de Tart produces wines of extraordinary depth and complexity, representing one of the most distinctive expressions of Pinot Noir in Burgundy. The monopole status allows for a singular interpretation of the terroir, creating wines that showcase the full breadth of the site's potential without the dilution or variation that might result from multiple producers working different parcels.
 
-The aromatic profile of Clos de Tart typically displays remarkable complexity, opening with intense red and black fruit characteristics—cherries, raspberries, and blackberries—intertwined with distinctive floral notes of violets and roses. As the wine develops in the glass, secondary aromas emerge, including exotic spices, particularly cinnamon, cardamom, and white pepper, alongside earthy undertones of forest floor, truffle, and wet limestone.
+The aromatic profile of Clos de Tart typically displays remarkable complexity, opening with intense red and black fruit characteristics (cherries, raspberries, and blackberries) intertwined with distinctive floral notes of violets and roses. As the wine develops in the glass, secondary aromas emerge, including exotic spices, particularly cinnamon, cardamom, and white pepper, alongside earthy undertones of forest floor, truffle, and wet limestone.
 
 The mineral signature of Clos de Tart is particularly distinctive, reflecting the limestone-rich soils and providing a backbone of chalky, stone-like character that supports and integrates the fruit and floral elements. This minerality becomes more pronounced with age, eventually dominating the aromatic profile in mature wines while maintaining harmony with the evolved fruit characteristics.
 
@@ -138,13 +138,13 @@ The evolution of Clos de Tart wines follows predictable patterns, though individ
 
 ## Market Position & Collectibility
 
-Clos de Tart occupies an elite position in the international wine market, commanding prices that reflect both its Grand Cru status and monopole rarity. The combination of limited production—approximately 25,000-30,000 bottles annually—and global demand creates market dynamics that consistently drive prices upward, particularly for older vintages and exceptional years.
+Clos de Tart occupies an elite position in the international wine market, commanding prices that reflect both its Grand Cru status and monopole rarity. The combination of limited production (approximately 25,000-30,000 bottles annually) and global demand creates market dynamics that consistently drive prices upward, particularly for older vintages and exceptional years.
 
 Current release prices typically range from $400-600 per bottle, varying by vintage quality and market conditions. This pricing places Clos de Tart among the most expensive Burgundies, comparable to other prestigious monopole Grand Crus and the finest parcels from celebrated producers in appellations like Gevrey-Chambertin and Vosne-Romanée.
 
 The collector market for Clos de Tart shows consistent strength, with mature vintages from exceptional years commanding premium prices at auction. Legendary vintages such as 1985, 1990, 1999, 2005, and 2010 frequently appear at major wine auctions, often achieving prices significantly above original release levels. The wines' proven aging ability and historical performance support strong secondary market values.
 
-Investment potential for Clos de Tart wines remains strong, though subject to the broader market forces affecting fine Burgundy. The monopole status provides certain advantages for collectors, as there are no producer variations or quality differences among different bottlings—each vintage represents a single interpretation of the terroir under unified ownership and management.
+Investment potential for Clos de Tart wines remains strong, though subject to the broader market forces affecting fine Burgundy. The monopole status provides certain advantages for collectors, as there are no producer variations or quality differences among different bottlings, each vintage represents a single interpretation of the terroir under unified ownership and management.
 
 Market demand continues to grow as appreciation for terroir-driven wines increases globally, particularly in emerging markets where Burgundy represents the pinnacle of wine collecting. The limited production ensures that supply constraints will likely support continued price appreciation, though economic conditions and changing consumer preferences could influence future market dynamics.
 

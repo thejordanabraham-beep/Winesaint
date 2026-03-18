@@ -18,7 +18,7 @@ The compact nature of the vineyard allows for consistent terroir expression acro
 
 The geological foundation of Clos de la Rougeotte reflects the complex layering characteristic of the Côte de Beaune's Jurassic limestone formations. The vineyard sits primarily on Bathonian limestone, dating to the Middle Jurassic period, which provides the mineral backbone essential for Burgundian Pinot Noir's distinctive character.
 
-The soil composition features a relatively thin topsoil layer, typically 30-50 centimeters deep, composed of reddish-brown clay-limestone mixture with notable iron oxide content—a characteristic that may contribute to the climat's name, "Rougeotte" suggesting the reddish coloration of the soil. Beneath this active soil layer lies the limestone bedrock, fractured and weathered to allow for excellent drainage while providing a reservoir of mineral nutrients accessible to deep-rooted vines.
+The soil composition features a relatively thin topsoil layer, typically 30-50 centimeters deep, composed of reddish-brown clay-limestone mixture with notable iron oxide content: a characteristic that may contribute to the climat's name, "Rougeotte" suggesting the reddish coloration of the soil. Beneath this active soil layer lies the limestone bedrock, fractured and weathered to allow for excellent drainage while providing a reservoir of mineral nutrients accessible to deep-rooted vines.
 
 Clay content in the topsoil ranges from 25-35%, providing sufficient water retention during dry periods while maintaining the drainage characteristics essential for Pinot Noir cultivation. The presence of limestone fragments throughout the soil profile enhances drainage further and contributes to the wine's mineral complexity.
 

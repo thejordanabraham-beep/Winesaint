@@ -2,7 +2,7 @@
 
 At 20,100 hectares, Côtes de Provence dwarfs every other appellation in the region. This is not a subtle distinction. The AOC produces roughly 40% of France's entire rosé output, making it the undisputed engine of the global pale pink wine phenomenon. But size brings complexity: the appellation's boundaries encompass wildly disparate terroirs, from sub-Alpine hillsides to sun-scorched Mediterranean coastline, from isolated mountain pockets to the glamorous beaches of St-Tropez.
 
-The challenge—and the opportunity—lies in understanding that "Côtes de Provence" describes not one wine region, but many.
+The challenge (and the opportunity) lies in understanding that "Côtes de Provence" describes not one wine region, but many.
 
 ## Geography: A Patchwork Appellation
 
@@ -14,11 +14,11 @@ The northern zones, cooled by Alpine influence, experience markedly different co
 
 ## Climate: Mediterranean with Alpine Interruptions
 
-Provence operates under a warm Mediterranean climate regime with adequate rainfall in most vintages. The defining climatic feature is the Mistral—the cold, fierce wind that roars down from the north. This wind functions as both blessing and curse.
+Provence operates under a warm Mediterranean climate regime with adequate rainfall in most vintages. The defining climatic feature is the Mistral: the cold, fierce wind that roars down from the north. This wind functions as both blessing and curse.
 
 On the positive side, the Mistral provides crucial cooling influence in what would otherwise be an unrelentingly hot growing environment. It also dramatically reduces fungal disease pressure by keeping humidity low and air circulation high. This favorable disease climate helps explain why Provence claims double the national average of organic vineyard acreage.
 
-The drawback? The Mistral can interrupt flowering and fruit set, particularly in exposed sites, reducing yields substantially. The most consistent production comes from vineyards with natural shelter from these cold winds—typically sites with northern hillside protection or strategic positioning in valley pockets.
+The drawback? The Mistral can interrupt flowering and fruit set, particularly in exposed sites, reducing yields substantially. The most consistent production comes from vineyards with natural shelter from these cold winds, typically sites with northern hillside protection or strategic positioning in valley pockets.
 
 ## The Rosé Reality
 
@@ -28,13 +28,13 @@ This commercial success has both elevated and constrained the region. Investment
 
 ## Beyond Pink: The Red Wine Emergence
 
-Red wine has become a renewed focus, though production volumes remain small. The same varieties that form rosé blends—Grenache Noir, Syrah, Cinsaut, Mourvèdre, and Carignan—show genuine potential for serious red wines when yields drop and site selection improves. The best examples come from cooler northern sites where these varieties retain acidity and develop complexity rather than simply accumulating sugar.
+Red wine has become a renewed focus, though production volumes remain small. The same varieties that form rosé blends (Grenache Noir, Syrah, Cinsaut, Mourvèdre, and Carignan) show genuine potential for serious red wines when yields drop and site selection improves. The best examples come from cooler northern sites where these varieties retain acidity and develop complexity rather than simply accumulating sugar.
 
 White wine production remains minuscule. Vermentino (locally called Rolle, as in Sardinia) and Clairette form the backbone, producing wines that range from simple and fresh to textured and age-worthy, depending on ambition level.
 
 ## Terroir Diversity: The Unspoken Challenge
 
-The research available provides limited specific soil data for Côtes de Provence, which itself reveals something important: this appellation lacks the geological coherence of more tightly defined zones like Bandol or Cassis. The sheer geographic spread guarantees varied substrates—limestone in some sectors, schist in others, alluvial deposits near waterways, clay-limestone mixtures in transitional zones.
+The research available provides limited specific soil data for Côtes de Provence, which itself reveals something important: this appellation lacks the geological coherence of more tightly defined zones like Bandol or Cassis. The sheer geographic spread guarantees varied substrates, limestone in some sectors, schist in others, alluvial deposits near waterways, clay-limestone mixtures in transitional zones.
 
 This diversity means "Côtes de Provence" on a label tells you very little about what's in the bottle. A wine from the cool northern hills shares almost nothing with one from coastal St-Tropez except administrative classification.
 
@@ -42,7 +42,7 @@ This diversity means "Côtes de Provence" on a label tells you very little about
 
 Provence's double-the-national-average rate of organic viticulture deserves emphasis. The warm, dry climate and Mistral's disease-suppressing effects make organic and biodynamic farming significantly more viable here than in humid continental regions. This has attracted a wave of quality-minded producers who view clean farming as both philosophically important and practically achievable.
 
-The organic trend correlates with—though doesn't guarantee—improved wine quality. Estates committed to organic certification often also practice lower yields, better site selection, and more careful winemaking.
+The organic trend correlates with (though doesn't guarantee) improved wine quality. Estates committed to organic certification often also practice lower yields, better site selection, and more careful winemaking.
 
 ## Key Producers
 
@@ -54,7 +54,7 @@ For red wines, properties in the cooler northern sectors have shown the most pro
 
 The Mediterranean climate provides generally consistent conditions, though the Mistral's intensity varies year to year. Vintages with moderate Mistral activity during flowering tend to produce better yields without sacrificing quality. Excessive heat can flatten rosés into one-dimensional fruit bombs, while cooler years preserve the tension and freshness that define the best examples.
 
-For the emerging red wine category, cooler vintages with extended hang time allow phenolic ripeness without excessive alcohol—the key challenge in warm-climate Grenache and Syrah production.
+For the emerging red wine category, cooler vintages with extended hang time allow phenolic ripeness without excessive alcohol: the key challenge in warm-climate Grenache and Syrah production.
 
 ---
 

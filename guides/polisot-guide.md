@@ -1,34 +1,34 @@
 # Polisot: The Côte des Bar's Quiet Contrarian
 
-Polisot sits in the southeastern corner of the Côte des Bar, a sub-region that has spent the better part of two centuries proving it belongs in Champagne. While the rest of the Côte des Bar fights for recognition against the Marne's limestone aristocracy, Polisot operates on its own terms—cooler, higher, and distinctly Burgundian in character. This is not a subtle distinction.
+Polisot sits in the southeastern corner of the Côte des Bar, a sub-region that has spent the better part of two centuries proving it belongs in Champagne. While the rest of the Côte des Bar fights for recognition against the Marne's limestone aristocracy, Polisot operates on its own terms, cooler, higher, and distinctly Burgundian in character. This is not a subtle distinction.
 
-The village produces some of the most structured, mineral-driven Champagnes in the entire Aube department, yet remains almost unknown outside specialist circles. If you've tasted a Polisot Champagne, you were likely drinking at a natural wine bar or buying directly from a grower's cellar. The sub-region's producers number fewer than a dozen serious domaines, most farming between 3 and 8 hectares. They bottle perhaps 150,000 bottles collectively per year—a rounding error in Champagne's 300-million-bottle annual production.
+The village produces some of the most structured, mineral-driven Champagnes in the entire Aube department, yet remains almost unknown outside specialist circles. If you've tasted a Polisot Champagne, you were likely drinking at a natural wine bar or buying directly from a grower's cellar. The sub-region's producers number fewer than a dozen serious domaines, most farming between 3 and 8 hectares. They bottle perhaps 150,000 bottles collectively per year: a rounding error in Champagne's 300-million-bottle annual production.
 
 ## Geography and Mesoclimate
 
 Polisot occupies elevated terrain in the Laignes valley, approximately 15 kilometers southeast of Bar-sur-Aube. The vineyards range from 280 to 340 meters in elevation, making them among the highest in Champagne. For context, the Grand Cru villages of the Montagne de Reims sit between 150 and 280 meters; even Champagne's coldest sites in the Vallée de la Marne rarely exceed 250 meters.
 
-This elevation matters profoundly. The mesoclimate here trends 0.5 to 1.0°C cooler than the Côte des Bar's lower-lying sectors around Bar-sur-Seine, with a growing season that extends 7 to 10 days longer. Spring frost remains a persistent threat—2021 and 2016 both saw significant crop losses—but the extended hang time produces Pinot Noir with remarkable aromatic complexity and natural acidity that can exceed 8 g/L at harvest.
+This elevation matters profoundly. The mesoclimate here trends 0.5 to 1.0°C cooler than the Côte des Bar's lower-lying sectors around Bar-sur-Seine, with a growing season that extends 7 to 10 days longer. Spring frost remains a persistent threat (2021 and 2016 both saw significant crop losses) but the extended hang time produces Pinot Noir with remarkable aromatic complexity and natural acidity that can exceed 8 g/L at harvest.
 
 The topography creates a complex patchwork of exposures. South- and southeast-facing slopes dominate, but pockets of northeast and even north-facing parcels exist, particularly around the lieux-dits of Les Crouates and Derrière le Village. These cooler sites often go into base wines for non-vintage cuvées, while the warmest exposures produce the region's rare vintage-dated bottlings.
 
 ## Soil: The Kimmeridgian Connection
 
-The Côte des Bar's geological identity centers on Kimmeridgian marl, the same 150-million-year-old marine sediment that defines Chablis, located just 60 kilometers southwest. In Polisot, this connection intensifies. The soil profile here contains 70-80% marl to 20-30% limestone—even more clay-rich than the typical Côte des Bar ratio of 60:40.
+The Côte des Bar's geological identity centers on Kimmeridgian marl, the same 150-million-year-old marine sediment that defines Chablis, located just 60 kilometers southwest. In Polisot, this connection intensifies. The soil profile here contains 70-80% marl to 20-30% limestone, even more clay-rich than the typical Côte des Bar ratio of 60:40.
 
-This matters because marl behaves differently than pure limestone. It retains water more effectively during dry periods but drains adequately to prevent waterlogging—what Dr. Gérard Seguin described as "well-regulated, moderately sufficient water supply" in his foundational terroir research. The practical result: Polisot's vines rarely experience the extreme water stress that can shut down photosynthesis in late summer, even in warm vintages like 2018 and 2020.
+This matters because marl behaves differently than pure limestone. It retains water more effectively during dry periods but drains adequately to prevent waterlogging, what Dr. Gérard Seguin described as "well-regulated, moderately sufficient water supply" in his foundational terroir research. The practical result: Polisot's vines rarely experience the extreme water stress that can shut down photosynthesis in late summer, even in warm vintages like 2018 and 2020.
 
-The marl also contributes directly to wine character. While the "minerality" debate continues in academic circles—Alex Maltman's research suggests soil minerals don't transfer directly to wine—the correlation between Kimmeridgian marl and a particular saline, chalky texture is undeniable. Polisot Champagnes display this characteristic emphatically: a stony, almost iodine-like quality that recalls Chablis more than Champagne.
+The marl also contributes directly to wine character. While the "minerality" debate continues in academic circles (Alex Maltman's research suggests soil minerals don't transfer directly to wine) the correlation between Kimmeridgian marl and a particular saline, chalky texture is undeniable. Polisot Champagnes display this characteristic emphatically: a stony, almost iodine-like quality that recalls Chablis more than Champagne.
 
-Fossil content is visible throughout the vineyards. Exogyra virgula (small oyster shells) and other marine fossils appear in nearly every soil pit, evidence of the shallow Jurassic sea that once covered this region. Some producers incorporate this imagery into their labels and marketing, though the fossils themselves contribute nothing to vine nutrition—they're simply limestone in a different form.
+Fossil content is visible throughout the vineyards. Exogyra virgula (small oyster shells) and other marine fossils appear in nearly every soil pit, evidence of the shallow Jurassic sea that once covered this region. Some producers incorporate this imagery into their labels and marketing, though the fossils themselves contribute nothing to vine nutrition, they're simply limestone in a different form.
 
 ## Pinot Noir Dominance
 
 Polisot is overwhelmingly a Pinot Noir sub-region. Approximately 85% of plantings are Pinot Noir, with Chardonnay accounting for 12-13% and Pinot Meunier making up the remainder. This ratio mirrors the broader Côte des Bar (80% Pinot Noir) but diverges sharply from Champagne overall, where Pinot Noir represents only 38% of total plantings.
 
-The Pinot Noir here develops differently than in the Marne. Cooler temperatures and extended hang time produce wines with red fruit character—cherry, raspberry, cranberry—rather than the darker, riper fruit notes common in warmer Côte des Bar sites. Phenolic ripeness arrives slowly; tannins remain fine-grained and integrated rather than extracted and grippy.
+The Pinot Noir here develops differently than in the Marne. Cooler temperatures and extended hang time produce wines with red fruit character (cherry, raspberry, cranberry) rather than the darker, riper fruit notes common in warmer Côte des Bar sites. Phenolic ripeness arrives slowly; tannins remain fine-grained and integrated rather than extracted and grippy.
 
-Chardonnay, while minor in total area, performs exceptionally on the highest, coolest sites. The variety's natural acidity—often 7-8 g/L at harvest—requires no acidification, even in warm years. Several producers make pure Chardonnay Blanc de Blancs that could be mistaken for Chablis in blind tastings: taut, mineral, almost austere in youth but developing considerable complexity after 3-4 years on cork.
+Chardonnay, while minor in total area, performs exceptionally on the highest, coolest sites. The variety's natural acidity (often 7-8 g/L at harvest) requires no acidification, even in warm years. Several producers make pure Chardonnay Blanc de Blancs that could be mistaken for Chablis in blind tastings: taut, mineral, almost austere in youth but developing considerable complexity after 3-4 years on cork.
 
 ## Key Producers and Philosophies
 
@@ -38,23 +38,23 @@ Olivier Horiot operates 5 hectares in Polisot and the adjacent village of Les Ri
 
 Horiot farms biodynamically, though he eschews certification and dislikes the term. His practices include extreme vine density (10,000-12,000 vines per hectare versus the Champagne standard of 8,000), no herbicides or synthetic treatments since 2000, and extensive use of tisanes (plant-based teas) for disease prevention. He plows with horses in his steepest parcels.
 
-In the cellar, Horiot ferments with indigenous yeasts in a combination of old foudres, demi-muids, and concrete eggs. Malolactic fermentation occurs naturally and completely. Dosage is minimal—typically 2-3 g/L—and several cuvées receive zero dosage. Sulfur additions rarely exceed 30 mg/L total.
+In the cellar, Horiot ferments with indigenous yeasts in a combination of old foudres, demi-muids, and concrete eggs. Malolactic fermentation occurs naturally and completely. Dosage is minimal (typically 2-3 g/L) and several cuvées receive zero dosage. Sulfur additions rarely exceed 30 mg/L total.
 
-His "En Barmont" bottling, from a single lieu-dit of pure Kimmeridgian marl, exemplifies Polisot's character: tense, saline, with white cherry and crushed stone aromatics. The wine requires 5-7 years to fully express itself. His rosé, made by direct press of Pinot Noir (not blending), shows remarkable depth and structure—this is not frivolous pink Champagne.
+His "En Barmont" bottling, from a single lieu-dit of pure Kimmeridgian marl, exemplifies Polisot's character: tense, saline, with white cherry and crushed stone aromatics. The wine requires 5-7 years to fully express itself. His rosé, made by direct press of Pinot Noir (not blending), shows remarkable depth and structure: this is not frivolous pink Champagne.
 
 ### Cédric Bouchard (Roses de Jeanne)
 
-Though Bouchard's estate, Roses de Jeanne, is technically based in Celles-sur-Ource, he farms significant parcels in Polisot, including his celebrated "La Haute Lemblé" site. Bouchard produces single-vineyard, single-vintage Champagnes exclusively—no blending across sites or years.
+Though Bouchard's estate, Roses de Jeanne, is technically based in Celles-sur-Ource, he farms significant parcels in Polisot, including his celebrated "La Haute Lemblé" site. Bouchard produces single-vineyard, single-vintage Champagnes exclusively, no blending across sites or years.
 
 His approach borders on obsessive. Each parcel is vinified separately in small barrels (228-400 liters), with extended lees aging (typically 4-6 years before disgorgement). He picks at full phenolic ripeness, sometimes 10-14 days later than neighbors, seeking what he calls "vinous" rather than "sparkly" wines.
 
 The Polisot parcels produce some of Bouchard's most structured wines. "La Haute Lemblé," planted in 1971 on pure marl at 320 meters elevation, yields Pinot Blanc (a rare variety in Champagne) with extraordinary concentration and longevity. The wine shows beeswax, quince, and saline minerality, with enough structure to age 15-20 years.
 
-Bouchard's production is minuscule—approximately 3,000 bottles per cuvée—and allocation-based. His wines sell for €80-150 per bottle, placing them among Champagne's most expensive. Whether this represents genuine quality or clever marketing remains debated, but the wines are undeniably distinctive.
+Bouchard's production is minuscule (approximately 3,000 bottles per cuvée) and allocation-based. His wines sell for €80-150 per bottle, placing them among Champagne's most expensive. Whether this represents genuine quality or clever marketing remains debated, but the wines are undeniably distinctive.
 
 ### Marie Courtin
 
-Dominique Moreau produces approximately 15,000 bottles annually under the Marie Courtin label from 2.5 hectares in Polisot. She represents a more restrained interpretation of natural winemaking—organic viticulture (certified since 2008) but controlled cellar work.
+Dominique Moreau produces approximately 15,000 bottles annually under the Marie Courtin label from 2.5 hectares in Polisot. She represents a more restrained interpretation of natural winemaking, organic viticulture (certified since 2008) but controlled cellar work.
 
 Moreau ferments in a combination of stainless steel and neutral oak, with partial malolactic fermentation. Her dosage averages 4-5 g/L, and she uses moderate sulfur (40-50 mg/L total). The wines balance Polisot's inherent austerity with approachability, making them useful benchmarks for understanding the sub-region without the extreme stylistic choices of Horiot or Bouchard.
 
@@ -66,7 +66,7 @@ Her "Présence" cuvée, roughly 60% Pinot Noir and 40% Chardonnay from a single 
 
 **Pierre Gerbais** farms 18 hectares across the Côte des Bar, including parcels in Polisot. His "Grains de Celles" cuvée, while blended across sites, showcases the tense, mineral character typical of the area.
 
-Several smaller growers—Benoît Cocteaux, Serge Faust—produce excellent wines but in quantities too limited for export markets. These are cellar-door discoveries, not restaurant list staples.
+Several smaller growers (Benoît Cocteaux, Serge Faust) produce excellent wines but in quantities too limited for export markets. These are cellar-door discoveries, not restaurant list staples.
 
 ## Viticulture and Challenges
 
@@ -84,7 +84,7 @@ Training systems are predominantly Chablis (single Guyot) or Cordon de Royat, wi
 
 Polisot's producers tend toward minimal intervention, though not uniformly. Common practices include:
 
-**Fermentation**: Indigenous yeasts dominate, with fermentation in old barrels (228-600 liters), foudres (2,000-5,000 liters), or concrete. Stainless steel is rare. Temperature control is minimal—fermentations proceed at ambient cellar temperatures (15-20°C).
+**Fermentation**: Indigenous yeasts dominate, with fermentation in old barrels (228-600 liters), foudres (2,000-5,000 liters), or concrete. Stainless steel is rare. Temperature control is minimal, fermentations proceed at ambient cellar temperatures (15-20°C).
 
 **Malolactic fermentation**: Most producers allow full malolactic conversion, softening the naturally high acidity. A few (notably Bouchard) block malolactic in specific cuvées for additional tension.
 
@@ -100,7 +100,7 @@ Polisot Champagnes display consistent stylistic markers:
 
 **Aromatics**: Red fruits (cherry, raspberry, red currant) dominate over darker fruits. Floral notes (white flowers, acacia) are common. With age, tertiary notes of dried herbs, hay, and mushroom develop. The "autolytic" character (bread, brioche, toast) is less pronounced than in Marne Champagnes, reflecting shorter lees aging and lower dosage.
 
-**Palate**: High acidity (typically 7-9 g/L) provides structure and drives the wine forward. The texture is often described as "chalky" or "stony"—a fine-grained, almost dusty sensation distinct from creamy or oily textures. Tannin, particularly in Pinot Noir-dominant cuvées, is perceptible but fine.
+**Palate**: High acidity (typically 7-9 g/L) provides structure and drives the wine forward. The texture is often described as "chalky" or "stony", a fine-grained, almost dusty sensation distinct from creamy or oily textures. Tannin, particularly in Pinot Noir-dominant cuvées, is perceptible but fine.
 
 **Finish**: Length is excellent, often 30-45 seconds, with a distinctive saline or iodine-like quality. The wines leave the mouth feeling refreshed rather than coated.
 
@@ -138,9 +138,9 @@ Most producers farm parcels across multiple lieux-dits, blending for complexity.
 
 Polisot has become associated with "natural" Champagne, a loaded term that means different things to different people. Most Polisot producers practice organic or biodynamic viticulture and use minimal cellar intervention, but few embrace the full natural wine orthodoxy (no sulfur, no filtration, no temperature control).
 
-The association stems partly from the sub-region's small scale and grower-focused model. Large Champagne houses source negligible fruit from Polisot—the quantities are too small and the style too distinctive for blending into branded cuvées. This leaves production in the hands of individual vignerons, many of whom came of age during the natural wine movement's expansion in the 2000s.
+The association stems partly from the sub-region's small scale and grower-focused model. Large Champagne houses source negligible fruit from Polisot: the quantities are too small and the style too distinctive for blending into branded cuvées. This leaves production in the hands of individual vignerons, many of whom came of age during the natural wine movement's expansion in the 2000s.
 
-Whether this represents authentic philosophical commitment or savvy marketing positioning is debatable. What's undeniable is that Polisot Champagnes taste different—more vinous, less industrial, more terroir-specific—than mainstream Champagne. Whether you attribute this to farming practices, winemaking choices, or simply terroir itself depends on your perspective.
+Whether this represents authentic philosophical commitment or savvy marketing positioning is debatable. What's undeniable is that Polisot Champagnes taste different (more vinous, less industrial, more terroir-specific) than mainstream Champagne. Whether you attribute this to farming practices, winemaking choices, or simply terroir itself depends on your perspective.
 
 ## Practical Considerations
 
@@ -156,11 +156,11 @@ Whether this represents authentic philosophical commitment or savvy marketing po
 
 Polisot sits at an inflection point. The sub-region has gained recognition among sommeliers and natural wine enthusiasts, driving demand and prices upward. Several producers have expanded production modestly, though the area's limited suitable vineyard land constrains growth.
 
-Climate change may benefit Polisot. As Champagne warms—average temperatures have increased approximately 1.2°C since 1980—the sub-region's elevation and northern position provide a buffer. Sites that struggled to ripen fully in the 1990s now achieve optimal ripeness regularly. If warming continues, Polisot may emerge as one of Champagne's most balanced terroirs, neither too hot nor too cool.
+Climate change may benefit Polisot. As Champagne warms, average temperatures have increased approximately 1.2°C since 1980: the sub-region's elevation and northern position provide a buffer. Sites that struggled to ripen fully in the 1990s now achieve optimal ripeness regularly. If warming continues, Polisot may emerge as one of Champagne's most balanced terroirs, neither too hot nor too cool.
 
 The challenge is maintaining quality and identity as commercial pressure increases. Polisot's current producers are largely first- or second-generation vignerons, deeply committed to their land and willing to accept financial risk for quality. As property values rise and larger entities take interest, this could change.
 
-For now, Polisot remains Champagne's quiet contrarian—a sub-region producing wines of genuine distinction for those willing to look beyond the famous names and Grand Cru labels.
+For now, Polisot remains Champagne's quiet contrarian: a sub-region producing wines of genuine distinction for those willing to look beyond the famous names and Grand Cru labels.
 
 ## Recommended Bottles
 

@@ -20,9 +20,9 @@ The establishment of Carnuntum DAC in 2019 marked a significant milestone, provi
 
 ### Climate and General Terroir Characteristics
 
-Carnuntum enjoys one of Austria's most favorable viticultural climates, characterized by what locals call the "clash of climates." The region experiences approximately 2,000 hours of sunshine annually—among the highest in Austria—combined with moderate rainfall of around 550-600mm per year. This abundance of sunshine, comparable to renowned wine regions much further south, allows for optimal phenolic ripeness in both red and white varieties.
+Carnuntum enjoys one of Austria's most favorable viticultural climates, characterized by what locals call the "clash of climates." The region experiences approximately 2,000 hours of sunshine annually (among the highest in Austria) combined with moderate rainfall of around 550-600mm per year. This abundance of sunshine, comparable to renowned wine regions much further south, allows for optimal phenolic ripeness in both red and white varieties.
 
-The Pannonian influence from the east brings warm, dry conditions during the growing season, with hot summers that promote full physiological ripeness in red varieties. Meanwhile, cool air descending from the nearby Leitha Mountains and the moderating influence of the Danube River preserve crucial acidity and aromatic complexity in the grapes. Diurnal temperature variations can exceed 20°C during the ripening period, allowing grapes to develop intensity while maintaining freshness—a hallmark of Carnuntum's finest wines.
+The Pannonian influence from the east brings warm, dry conditions during the growing season, with hot summers that promote full physiological ripeness in red varieties. Meanwhile, cool air descending from the nearby Leitha Mountains and the moderating influence of the Danube River preserve crucial acidity and aromatic complexity in the grapes. Diurnal temperature variations can exceed 20°C during the ripening period, allowing grapes to develop intensity while maintaining freshness: a hallmark of Carnuntum's finest wines.
 
 The proximity to both the Danube River and the Neusiedlersee creates mesoclimatic effects that protect vineyards from extreme temperature fluctuations and late spring frosts. The region's relatively flat to gently rolling topography, with elevations ranging from 150 to 300 meters above sea level, ensures good air circulation and reduces disease pressure, allowing for more sustainable and organic viticulture practices.
 
@@ -80,11 +80,11 @@ The gentle topography facilitates mechanization where desired, though top produc
 
 ### Terroir Influence on Wine Styles
 
-The interaction between Carnuntum's diverse soils, favorable climate, and varied topography creates distinctive wine styles that reflect specific terroirs. Wines from loess soils typically show elegant fruit expression, fine-grained tannins, and refined aromatics—qualities that make them approachable in youth while possessing good aging potential. Limestone-based sites produce more austere, mineral-driven wines that require time to reveal their complexity but reward patience with extraordinary longevity.
+The interaction between Carnuntum's diverse soils, favorable climate, and varied topography creates distinctive wine styles that reflect specific terroirs. Wines from loess soils typically show elegant fruit expression, fine-grained tannins, and refined aromatics, qualities that make them approachable in youth while possessing good aging potential. Limestone-based sites produce more austere, mineral-driven wines that require time to reveal their complexity but reward patience with extraordinary longevity.
 
 Gravel sites yield powerful, sun-drenched wines with ripe fruit profiles and substantial extract, while clay-rich soils produce structured wines with firm tannins and savory complexity. The most sophisticated producers have identified these terroir distinctions and increasingly bottle site-specific wines that showcase individual vineyard characteristics.
 
-The region's mesoclimate—the beneficial clash between Pannonian warmth and Alpine coolness—ensures that even the most powerful wines retain crucial freshness and aromatic complexity. This balance between ripeness and vitality has become the defining characteristic of Carnuntum's finest wines, distinguishing them from Austrian regions with either cooler or warmer climates.
+The region's mesoclimate (the beneficial clash between Pannonian warmth and Alpine coolness) ensures that even the most powerful wines retain crucial freshness and aromatic complexity. This balance between ripeness and vitality has become the defining characteristic of Carnuntum's finest wines, distinguishing them from Austrian regions with either cooler or warmer climates.
 
 ## 4. Classification System
 
@@ -102,13 +102,13 @@ Red wine production focuses primarily on Zweigelt and Blaufränkisch, though oth
 
 **Riedenwein** (Single Vineyard Wine): Top-tier wines from classified vineyard sites, demonstrating exceptional terroir expression, complexity, and aging potential.
 
-Wines that fall outside DAC parameters—including varieties like Pinot Noir, international grapes, or wines with non-typical stylistic profiles—may be labeled as "Niederösterreich" (Lower Austria) or under proprietary names.
+Wines that fall outside DAC parameters, including varieties like Pinot Noir, international grapes, or wines with non-typical stylistic profiles, may be labeled as "Niederösterreich" (Lower Austria) or under proprietary names.
 
 ### Erste Lage Classification
 
 Carnuntum has established a classification system for its most prestigious vineyard sites, though this system operates somewhat independently of the DAC regulations and involves strict quality criteria. These classified sites represent the region's finest terroirs and are subject to rigorous standards regarding yields, viticultural practices, and wine quality.
 
-Producers seeking to label wines from these classified sites must adhere to maximum yields of 3,500 liters per hectare for white wines and 3,000 liters per hectare for red wines—significantly below the standard DAC limits. Wines must undergo rigorous analytical and sensory evaluation, and producers must demonstrate consistent quality over multiple vintages to maintain classification status.
+Producers seeking to label wines from these classified sites must adhere to maximum yields of 3,500 liters per hectare for white wines and 3,000 liters per hectare for red wines, significantly below the standard DAC limits. Wines must undergo rigorous analytical and sensory evaluation, and producers must demonstrate consistent quality over multiple vintages to maintain classification status.
 
 The classified vineyard system emphasizes transparency and terroir expression, requiring wines to clearly display the characteristics of their specific sites. This approach aligns with broader European traditions of vineyard classification while respecting Carnuntum's distinctive characteristics and relatively recent quality renaissance.
 
@@ -222,7 +222,7 @@ Beyond traditional Austrian cuisine, Carnuntum wines pair successfully with inte
 
 **Light Red Wines**: Young, fruit-forward Zweigelts benefit from slight chilling to 14-16°C (57-61°F), which emphasizes freshness and makes them excellent warm-weather reds. Serve in medium-sized red wine glasses.
 
-**Structured Red Wines**: Blaufränkisch, aged Zweigelt, and Rubin Carnuntum blends should be served at 16-18°C (61-64°F). These wines benefit from decanting, particularly young examples with firm tannins. Use Burgundy-style or Bordeaux-style glasses depending on the wine's character—rounder, fruit-forward wines favor Burgundy stems, while more structured wines suit Bordeaux glasses.
+**Structured Red Wines**: Blaufränkisch, aged Zweigelt, and Rubin Carnuntum blends should be served at 16-18°C (61-64°F). These wines benefit from decanting, particularly young examples with firm tannins. Use Burgundy-style or Bordeaux-style glasses depending on the wine's character, rounder, fruit-forward wines favor Burgundy stems, while more structured wines suit Bordeaux glasses.
 
 ### Vintage Variations to Consider
 

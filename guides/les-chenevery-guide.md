@@ -48,7 +48,7 @@ Harvest timing in Les Chenevery typically occurs in the second or third week of 
 
 ## Wine Character & Style
 
-Wines from Les Chenevery display a distinctive character that places them among the more elegant expressions of Morey-Saint-Denis Premier Cru. The aromatic profile typically combines red fruit characteristics—particularly cherry and raspberry—with subtle floral notes of violet and rose petal. As the wines develop, more complex tertiary aromas emerge, including forest floor, mushroom, and the distinctive mineral notes that reflect the limestone bedrock.
+Wines from Les Chenevery display a distinctive character that places them among the more elegant expressions of Morey-Saint-Denis Premier Cru. The aromatic profile typically combines red fruit characteristics (particularly cherry and raspberry) with subtle floral notes of violet and rose petal. As the wines develop, more complex tertiary aromas emerge, including forest floor, mushroom, and the distinctive mineral notes that reflect the limestone bedrock.
 
 The palate structure demonstrates the classic balance that defines great Burgundy, with silky tannins that provide framework without overwhelming the fruit character. The limestone influence is evident in the wine's mineral backbone and the subtle chalky texture that appears in the mid-palate. Acidity levels are typically well-balanced, providing freshness and aging potential without the sharp edge that can characterize some limestone-based terroirs.
 
@@ -68,7 +68,7 @@ When compared to the Grand Cru Clos Saint-Denis, which lies in proximity, Les Ch
 
 The relationship with Premier Cru Les Millandes, another well-regarded site in the commune, reveals subtle but important differences in style. Les Millandes typically produces wines with more obvious power and darker fruit characteristics, while Les Chenevery emphasizes finesse and mineral complexity. This distinction reflects the subtle geological differences between the sites, with Les Chenevery's higher limestone content contributing to its more elegant profile.
 
-Compared to the famous Grand Cru sites of neighboring communes—such as Bonnes-Mares in Chambolle-Musigny or Clos de Tart in Morey-Saint-Denis itself—Les Chenevery offers a glimpse of similar terroir characteristics at a more accessible level. While lacking the extraordinary depth and aging potential of these legendary sites, it provides insight into the geological and climatic factors that make this corner of Burgundy so exceptional.
+Compared to the famous Grand Cru sites of neighboring communes, such as Bonnes-Mares in Chambolle-Musigny or Clos de Tart in Morey-Saint-Denis itself. Les Chenevery offers a glimpse of similar terroir characteristics at a more accessible level. While lacking the extraordinary depth and aging potential of these legendary sites, it provides insight into the geological and climatic factors that make this corner of Burgundy so exceptional.
 
 ## Notable Producers
 

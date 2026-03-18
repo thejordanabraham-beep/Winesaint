@@ -4,7 +4,7 @@
 
 Les Brus stands as one of the most distinguished Premier Cru vineyards within the Montagny appellation, situated in the heart of Burgundy's Côte Chalonnaise. This climat occupies a privileged position on the slopes above the village of Montagny-lès-Buxy, approximately 20 kilometers southwest of Beaune and forming part of the southern extension of Burgundy's renowned viticultural landscape.
 
-The Côte Chalonnaise represents a transitional zone between the prestigious Côte d'Or to the north and the Mâconnais to the south, characterized by a more fragmented geological structure and diverse expositions. Within this context, Montagny distinguishes itself as an exclusively white wine appellation, dedicated entirely to Chardonnay production—a rarity in Burgundy's predominantly mixed-variety landscape.
+The Côte Chalonnaise represents a transitional zone between the prestigious Côte d'Or to the north and the Mâconnais to the south, characterized by a more fragmented geological structure and diverse expositions. Within this context, Montagny distinguishes itself as an exclusively white wine appellation, dedicated entirely to Chardonnay production: a rarity in Burgundy's predominantly mixed-variety landscape.
 
 Les Brus is strategically positioned on the eastern slopes of the commune, benefiting from optimal solar exposure while maintaining the elevation necessary for the slow, measured ripening that defines great Burgundian Chardonnay. The vineyard forms part of a natural amphitheater of vineyards that cascade down from the plateau above Montagny, creating a microenvironmental cocoon that protects the vines from harsh westerly winds while maximizing sun exposure throughout the growing season.
 
@@ -62,7 +62,7 @@ Soil management practices vary among producers, with some maintaining grass cove
 
 Les Brus produces Chardonnay wines of exceptional minerality and precision, characterized by a distinctive combination of power and elegance that reflects both the site's limestone-rich terroir and its optimal microclimate. These wines typically display a pale gold color with green highlights in youth, evolving to deeper golden tones with age while maintaining brilliant clarity.
 
-The aromatic profile of Les Brus Chardonnay exhibits pronounced mineral notes, particularly wet limestone and chalk, which provide a distinctive signature that identifies the climat. Fresh citrus aromas, including lemon zest and grapefruit, dominate in young wines, while white flower notes—acacia, hawthorn, and elderflower—add complexity and lift. As wines mature, honeyed characteristics emerge alongside subtle spice notes of white pepper and ginger.
+The aromatic profile of Les Brus Chardonnay exhibits pronounced mineral notes, particularly wet limestone and chalk, which provide a distinctive signature that identifies the climat. Fresh citrus aromas, including lemon zest and grapefruit, dominate in young wines, while white flower notes (acacia, hawthorn, and elderflower) add complexity and lift. As wines mature, honeyed characteristics emerge alongside subtle spice notes of white pepper and ginger.
 
 Oak treatment varies among producers, but the finest expressions of Les Brus typically employ restrained wood aging that supports rather than dominates the fruit character. Well-integrated oak contributes vanilla and brioche notes while providing textural richness without masking the site's inherent minerality.
 

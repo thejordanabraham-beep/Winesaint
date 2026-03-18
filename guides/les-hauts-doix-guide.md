@@ -14,7 +14,7 @@ Les Hauts Doix encompasses approximately 1.47 hectares (3.63 acres), making it o
 
 The compact nature of Les Hauts Doix contributes to its terroir homogeneity, as the entire climat shares similar geological characteristics, slope orientation, and microclimate conditions. This uniformity allows for consistent expression of the site's terroir across different vintages and among the various producers who own parcels within the appellation.
 
-Despite its small size, Les Hauts Doix represents a complete geological and climatic unit, with clearly defined boundaries that separate it from neighboring Premier Crus. The climat's limited production—typically yielding only 400-500 cases annually across all producers—ensures that wines from Les Hauts Doix remain among Burgundy's more exclusive offerings.
+Despite its small size, Les Hauts Doix represents a complete geological and climatic unit, with clearly defined boundaries that separate it from neighboring Premier Crus. The climat's limited production (typically yielding only 400-500 cases annually across all producers) ensures that wines from Les Hauts Doix remain among Burgundy's more exclusive offerings.
 
 ## Terroir & Geology
 

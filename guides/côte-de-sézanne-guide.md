@@ -1,6 +1,6 @@
 # Côte de Sézanne: Champagne's Southern Secret
 
-The Côte de Sézanne produces some of the most misunderstood Champagnes in the entire region. Located 30 kilometers south of the Côte des Blancs, this sub-region has long operated in the shadow of its more famous neighbor. The comparison is inevitable—both focus on Chardonnay, both feature chalk soils, both claim finesse as their calling card. But this is not a subtle distinction. The Côte de Sézanne makes fundamentally different wines, shaped by a terroir that is warmer, deeper-soiled, and geologically younger than the Côte des Blancs.
+The Côte de Sézanne produces some of the most misunderstood Champagnes in the entire region. Located 30 kilometers south of the Côte des Blancs, this sub-region has long operated in the shadow of its more famous neighbor. The comparison is inevitable, both focus on Chardonnay, both feature chalk soils, both claim finesse as their calling card. But this is not a subtle distinction. The Côte de Sézanne makes fundamentally different wines, shaped by a terroir that is warmer, deeper-soiled, and geologically younger than the Côte des Blancs.
 
 For decades, the region served primarily as a source of base wines for the grandes marques, its grapes disappearing anonymously into multi-regional blends. That role is changing. As climate change pushes ripeness levels higher in the northern zones and land prices in the Montagne de Reims and Côte des Blancs reach stratospheric levels, the Côte de Sézanne has emerged as both a practical necessity and a stylistic opportunity.
 
@@ -10,7 +10,7 @@ The Côte de Sézanne extends roughly 20 kilometers from north to south, centere
 
 The climate tells the real story. Mean annual temperatures here run approximately 0.5 to 0.8°C warmer than in Épernay, a seemingly minor difference that translates to grapes ripening 7 to 10 days earlier. This is Champagne, where harvest dates matter enormously. The growing season accumulates roughly 50 additional degree-days compared to the Côte des Blancs. Frost risk diminishes. Phenolic ripeness comes more reliably.
 
-The continental influence strengthens as you move south and east. Summer heat spikes occur more frequently. Diurnal temperature variation increases, particularly in September and October. Rain patterns shift subtly—annual precipitation averages 650mm, about 50mm less than in Reims, with slightly drier summers and wetter autumns.
+The continental influence strengthens as you move south and east. Summer heat spikes occur more frequently. Diurnal temperature variation increases, particularly in September and October. Rain patterns shift subtly, annual precipitation averages 650mm, about 50mm less than in Reims, with slightly drier summers and wetter autumns.
 
 This warmer mesoclimate fundamentally alters the winemaking calculus. In the Côte des Blancs, growers chase ripeness in all but the warmest vintages. In the Côte de Sézanne, the challenge often becomes managing ripeness while preserving acidity.
 
@@ -18,19 +18,19 @@ This warmer mesoclimate fundamentally alters the winemaking calculus. In the Cô
 
 The Champagne chalk mythology requires examination. Yes, the Côte de Sézanne sits on chalk. No, it is not the same chalk as Cramant or Le Mesnil-sur-Oger.
 
-The bedrock here belongs primarily to the Campanian stage of the Upper Cretaceous period, formed approximately 80 to 72 million years ago. This makes it geologically younger than the Turonian and Senonian chalk that underlies much of the Côte des Blancs, which dates to 90 to 85 million years ago. The distinction matters. Campanian chalk typically contains higher clay content and greater porosity. The belemnite fossil content differs—fewer of the pencil-shaped cephalopod remains that characterize the Côte des Blancs, more amorphous organic material.
+The bedrock here belongs primarily to the Campanian stage of the Upper Cretaceous period, formed approximately 80 to 72 million years ago. This makes it geologically younger than the Turonian and Senonian chalk that underlies much of the Côte des Blancs, which dates to 90 to 85 million years ago. The distinction matters. Campanian chalk typically contains higher clay content and greater porosity. The belemnite fossil content differs, fewer of the pencil-shaped cephalopod remains that characterize the Côte des Blancs, more amorphous organic material.
 
 The soil profiles run deeper here, often 80 to 120 centimeters before hitting solid chalk, compared to 40 to 60 centimeters in villages like Avize or Oger. The topsoil contains more clay and silt, creating a heavier, more water-retentive matrix. In practical terms, this means vines access water more easily during drought but face greater risk of vigor management issues in wet years.
 
-The drainage characteristics differ notably. The Côte des Blancs chalk acts like a sponge—absorbing winter rainfall, releasing it slowly through the growing season. The Côte de Sézanne chalk drains more variably depending on the clay content in the overlying soil. Some parcels exhibit excellent drainage; others become waterlogged after heavy rain.
+The drainage characteristics differ notably. The Côte des Blancs chalk acts like a sponge, absorbing winter rainfall, releasing it slowly through the growing season. The Côte de Sézanne chalk drains more variably depending on the clay content in the overlying soil. Some parcels exhibit excellent drainage; others become waterlogged after heavy rain.
 
 ## Viticulture: Chardonnay Country with Complications
 
-Chardonnay dominates the Côte de Sézanne, representing approximately 65% of total plantings across the sub-region's roughly 1,800 hectares. Pinot Noir accounts for most of the remainder at 25%, with Pinot Meunier and other varieties making up the final 10%. These percentages have shifted dramatically over the past three decades. In 1990, Chardonnay represented only 45% of plantings. The conversion reflects both market demand and viticultural reality—Chardonnay thrives here.
+Chardonnay dominates the Côte de Sézanne, representing approximately 65% of total plantings across the sub-region's roughly 1,800 hectares. Pinot Noir accounts for most of the remainder at 25%, with Pinot Meunier and other varieties making up the final 10%. These percentages have shifted dramatically over the past three decades. In 1990, Chardonnay represented only 45% of plantings. The conversion reflects both market demand and viticultural reality. Chardonnay thrives here.
 
 But it expresses differently than in the Côte des Blancs. The warmer temperatures and deeper soils produce Chardonnay with more immediate fruit character, lower natural acidity, and riper phenolics. Where Côte des Blancs Chardonnay often shows citrus, chalk, and saline minerality, Côte de Sézanne Chardonnay tends toward orchard fruits, white flowers, and a rounder, more generous texture.
 
-This is not a qualitative judgment—it is a stylistic reality. The challenge for serious growers lies in preserving tension and energy in wines that want to be soft and fruity. Harvest timing becomes critical. Pick too early, and you get green, underripe flavors without the compensating acidity you'd find further north. Pick too late, and you sacrifice the very freshness that defines quality Champagne.
+This is not a qualitative judgment, it is a stylistic reality. The challenge for serious growers lies in preserving tension and energy in wines that want to be soft and fruity. Harvest timing becomes critical. Pick too early, and you get green, underripe flavors without the compensating acidity you'd find further north. Pick too late, and you sacrifice the very freshness that defines quality Champagne.
 
 Yields run higher here than in premier and grand cru villages to the north, averaging 11,000 to 12,000 kg/ha compared to 10,000 to 10,500 kg/ha in the Côte des Blancs. The appellation allows up to 15,500 kg/ha in abundant vintages, though quality-focused growers typically restrict themselves to 10,000 kg/ha or less.
 
@@ -42,7 +42,7 @@ For most of the 20th century, the Côte de Sézanne functioned primarily as a gr
 
 The grower-producer movement arrived later here than in the Aube or even parts of the Marne Valley. The shift accelerated in the 1990s and 2000s as younger generations returned to family estates with formal winemaking training and ambitions beyond grape-growing.
 
-**Domaine Piollot** in Polisot represents the quality ceiling. Established in 1920 but reinvigorated under current management, the estate farms 13 hectares, predominantly Chardonnay, across some of the best-exposed parcels in the southern Côte de Sézanne. Their "Cuvée de Réserve" shows what the terroir can achieve—Chardonnay with flesh and generosity but also genuine mineral tension and aging potential. They ferment in a combination of stainless steel and neutral oak, use partial malolactic fermentation selectively, and age on lees for a minimum of 36 months.
+**Domaine Piollot** in Polisot represents the quality ceiling. Established in 1920 but reinvigorated under current management, the estate farms 13 hectares, predominantly Chardonnay, across some of the best-exposed parcels in the southern Côte de Sézanne. Their "Cuvée de Réserve" shows what the terroir can achieve. Chardonnay with flesh and generosity but also genuine mineral tension and aging potential. They ferment in a combination of stainless steel and neutral oak, use partial malolactic fermentation selectively, and age on lees for a minimum of 36 months.
 
 **Jacques Lassaigne** in Montgueux technically falls just outside the official Côte de Sézanne boundaries but works with similar terroir and represents the modern grower-Champagne aesthetic applied to this southern zone. Emmanuel Lassaigne produces single-vineyard, single-vintage Champagnes that emphasize terroir expression over house style. The wines show remarkable precision and energy despite the warm mesoclimate.
 
@@ -56,7 +56,7 @@ The Côte de Sézanne occupies an awkward position in Champagne's historical qua
 
 The ratings reflected both historical reputation and political reality. When the system was formalized in the early 20th century, the Côte de Sézanne remained underdeveloped viticultural territory. The grandes marques had limited holdings here. The region lacked the centuries-old reputation of Aÿ or Bouzy.
 
-But the échelle never captured terroir potential—it measured market power and historical precedent. The formal abolition of the system in 2003 theoretically leveled the playing field, though the psychological legacy persists. Côte de Sézanne grapes still command lower prices than Côte des Blancs fruit, typically 30-40% less per kilogram.
+But the échelle never captured terroir potential, it measured market power and historical precedent. The formal abolition of the system in 2003 theoretically leveled the playing field, though the psychological legacy persists. Côte de Sézanne grapes still command lower prices than Côte des Blancs fruit, typically 30-40% less per kilogram.
 
 This price differential creates both challenge and opportunity. Established houses can source high-quality Chardonnay at reasonable cost. Ambitious grower-producers can invest in quality viticulture and winemaking without the crippling land costs that make entry nearly impossible in grand cru villages.
 
@@ -68,15 +68,15 @@ Côte de Sézanne Champagnes occupy a middle ground between the steely precision
 
 **Palate Structure**: Medium to medium-full body. The texture shows more flesh and generosity than Côte des Blancs Champagnes, less overt power than Montagne de Reims Pinot Noir-based wines. Acidity ranges from medium-plus to high depending on vintage and harvest timing. The best examples balance ripeness with tension, avoiding both green austerity and flabby softness.
 
-**Aging Potential**: Quality Côte de Sézanne Champagnes age gracefully for 5 to 8 years, occasionally longer. They develop tertiary complexity—honey, toast, dried fruits—but rarely the profound mineral evolution of great Côte des Blancs wines. The warmer terroir produces wines that drink well younger but may not reward extended cellaring as consistently.
+**Aging Potential**: Quality Côte de Sézanne Champagnes age gracefully for 5 to 8 years, occasionally longer. They develop tertiary complexity (honey, toast, dried fruits) but rarely the profound mineral evolution of great Côte des Blancs wines. The warmer terroir produces wines that drink well younger but may not reward extended cellaring as consistently.
 
-**Blending Role**: In multi-regional Champagnes, Côte de Sézanne fruit typically provides mid-palate generosity and approachability. It rounds out the angular precision of Côte des Blancs Chardonnay and softens the structure of Montagne de Reims Pinot Noir. This is not faint praise—great Champagne depends on skillful blending, and Côte de Sézanne provides essential components.
+**Blending Role**: In multi-regional Champagnes, Côte de Sézanne fruit typically provides mid-palate generosity and approachability. It rounds out the angular precision of Côte des Blancs Chardonnay and softens the structure of Montagne de Reims Pinot Noir. This is not faint praise, great Champagne depends on skillful blending, and Côte de Sézanne provides essential components.
 
 ## Vintage Variation: The Climate Change Factor
 
 Vintage variation in the Côte de Sézanne follows Champagne-wide patterns but with distinctive local inflections. The warmer baseline temperatures mean that cool vintages (2013, 2014, 2021) often produce better results here than in the Côte des Blancs, with more complete ripeness and better phenolic maturity. Conversely, hot vintages (2003, 2018, 2019, 2020) push ripeness to challenging levels, sometimes resulting in wines with high alcohol, low acidity, and reduced aging potential.
 
-The 2015 vintage demonstrated the sub-region's potential—warm but not excessive, with good diurnal variation and a long, dry harvest period. The resulting Champagnes showed ripe fruit character balanced by refreshing acidity and genuine complexity.
+The 2015 vintage demonstrated the sub-region's potential, warm but not excessive, with good diurnal variation and a long, dry harvest period. The resulting Champagnes showed ripe fruit character balanced by refreshing acidity and genuine complexity.
 
 The 2018 and 2019 vintages revealed the challenges. Both years produced ripe, generous wines, but some examples lacked the tension and energy that define great Champagne. Growers who managed yields carefully and harvested at optimal timing made excellent wines; those who prioritized quantity struggled.
 
@@ -86,7 +86,7 @@ Climate projections suggest the Côte de Sézanne will become increasingly impor
 
 The rounder, more fruit-forward character of Côte de Sézanne Champagnes makes them particularly versatile with food. They work beautifully with:
 
-**Seafood and Shellfish**: The generosity complements richer preparations—lobster with butter sauce, scallops with cream, grilled prawns. The texture and fruit can handle more assertive seasoning than austere Blanc de Blancs.
+**Seafood and Shellfish**: The generosity complements richer preparations, lobster with butter sauce, scallops with cream, grilled prawns. The texture and fruit can handle more assertive seasoning than austere Blanc de Blancs.
 
 **Poultry and White Meats**: Roast chicken, turkey, pork tenderloin. The wine's structure supports the protein without overwhelming delicate flavors.
 

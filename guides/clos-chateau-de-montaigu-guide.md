@@ -6,7 +6,7 @@ Clos Château de Montaigu stands as one of Mercurey's most distinguished Premier
 
 The vineyard sits strategically on the eastern slopes of Mercurey's amphitheater-like valley system, positioned between the village of Mercurey proper and the hamlet of Bourgneuf-Val-d'Or. This location places it within the heart of the appellation's most favored exposition, where the interplay of elevation, aspect, and soil composition creates optimal conditions for both Pinot Noir and Chardonnay cultivation. The climat benefits from its integration into Mercurey's broader geological framework while maintaining distinct characteristics that justify its Premier Cru classification.
 
-Within the Côte Chalonnaise's hierarchical structure, Clos Château de Montaigu represents the pinnacle of quality expression in Mercurey, a commune that produces approximately 85% red wine from Pinot Noir and 15% white wine from Chardonnay. The vineyard's positioning relative to other Premier Crus in Mercurey—including Clos des Myglands, Clos du Roi, and Les Fourneaux—demonstrates the commune's remarkable diversity of terroir expressions within a relatively compact geographical area.
+Within the Côte Chalonnaise's hierarchical structure, Clos Château de Montaigu represents the pinnacle of quality expression in Mercurey, a commune that produces approximately 85% red wine from Pinot Noir and 15% white wine from Chardonnay. The vineyard's positioning relative to other Premier Crus in Mercurey (including Clos des Myglands, Clos du Roi, and Les Fourneaux) demonstrates the commune's remarkable diversity of terroir expressions within a relatively compact geographical area.
 
 ## Size and Vineyard Configuration
 

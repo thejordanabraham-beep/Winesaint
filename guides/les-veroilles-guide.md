@@ -92,7 +92,7 @@ When compared to Les Cras, which shares similar elevation and exposure, Les Vér
 
 Les Véroilles differs markedly from the village's higher-elevation Premier Crus like Les Fuées or Les Beaux Bruns, which benefit from proximity to the Grand Crus. These upper-slope vineyards typically produce wines with greater intensity and aging potential, while Les Véroilles offers more immediate accessibility combined with distinctive mineral character.
 
-Relative to Chambolle-Musigny's Grand Crus—Musigny and the Chambolle portion of Bonnes-Mares—Les Véroilles naturally shows less concentration and complexity but maintains recognizable family resemblance. The Grand Crus display greater depth, longevity, and sheer presence, while Les Véroilles offers an elegant introduction to the commune's terroir characteristics at a more approachable level.
+Relative to Chambolle-Musigny's Grand Crus. Musigny and the Chambolle portion of Bonnes-Mares. Les Véroilles naturally shows less concentration and complexity but maintains recognizable family resemblance. The Grand Crus display greater depth, longevity, and sheer presence, while Les Véroilles offers an elegant introduction to the commune's terroir characteristics at a more approachable level.
 
 ## Notable Producers
 

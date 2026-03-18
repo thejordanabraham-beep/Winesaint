@@ -18,7 +18,7 @@ The vineyard's boundaries have remained stable since the formal classification s
 
 The geological foundation of Les Boucherottes exemplifies the complex interplay of limestone, clay, and marl that defines great Burgundian terroir. The vineyard sits upon the Bathonian limestone formation dating from the Middle Jurassic period, approximately 170 million years ago. This ancient bedrock provides the mineral backbone that gives Les Boucherottes wines their characteristic precision and longevity.
 
-The topsoil composition varies subtly across the climat, with the upper sections containing higher proportions of limestone scree and fragments, creating excellent drainage while maintaining sufficient clay content—typically 25-35%—to retain moisture during dry periods. Moving down the slope, clay content gradually increases, reaching 35-45% in the lower sections, providing greater water retention and contributing to wines of increased richness and body.
+The topsoil composition varies subtly across the climat, with the upper sections containing higher proportions of limestone scree and fragments, creating excellent drainage while maintaining sufficient clay content (typically 25-35%) to retain moisture during dry periods. Moving down the slope, clay content gradually increases, reaching 35-45% in the lower sections, providing greater water retention and contributing to wines of increased richness and body.
 
 The soil depth across Les Boucherottes ranges from 30 to 60 centimeters, with the thinner soils on the upper slope forcing vine roots to penetrate deep into the fractured limestone bedrock. This geological stress contributes to the concentration and mineral complexity that characterizes wines from this site. The presence of iron-rich ochre deposits throughout the vineyard adds another layer of complexity, contributing to the distinctive earthy undertones found in Les Boucherottes wines.
 
@@ -54,7 +54,7 @@ Harvest timing in Les Boucherottes typically occurs 7-14 days later than in vill
 
 ## Wine Character & Style
 
-Wines from Les Boucherottes display a distinctive character that positions them among Beaune's most elegant and age-worthy Premier Crus. The aromatic profile typically opens with intense red fruit notes—particularly cherry, raspberry, and cranberry—accompanied by subtle floral elements including violet and rose petal. As the wines develop, secondary aromas of forest floor, dried herbs, and mineral-driven undertones emerge, reflecting the limestone-rich terroir.
+Wines from Les Boucherottes display a distinctive character that positions them among Beaune's most elegant and age-worthy Premier Crus. The aromatic profile typically opens with intense red fruit notes (particularly cherry, raspberry, and cranberry) accompanied by subtle floral elements including violet and rose petal. As the wines develop, secondary aromas of forest floor, dried herbs, and mineral-driven undertones emerge, reflecting the limestone-rich terroir.
 
 The palate structure of Les Boucherottes wines shows remarkable balance between fruit concentration and mineral precision. Tannins are typically firm yet refined, providing structural backbone without overwhelming the delicate fruit character. The limestone influence manifests as a distinctive chalky minerality that runs through the wine's mid-palate, contributing to length and complexity while maintaining freshness.
 

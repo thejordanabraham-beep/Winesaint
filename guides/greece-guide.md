@@ -2,7 +2,7 @@
 
 ## Overview
 
-Greece operates on a scale that defies simple categorization. With over 300 indigenous grape varieties cultivated across 61,500 hectares—90% of which are planted to native vines—this is not a country playing catch-up with international trends. This is one of the world's oldest wine cultures reclaiming its place at the table.
+Greece operates on a scale that defies simple categorization. With over 300 indigenous grape varieties cultivated across 61,500 hectares (90% of which are planted to native vines) this is not a country playing catch-up with international trends. This is one of the world's oldest wine cultures reclaiming its place at the table.
 
 The modern Greek wine industry divides roughly into three geographical spheres: Northern Greece (Macedonia and Thrace), dominated by structured reds from Xinomavro and Agiorgitiko; the Aegean Islands, where volcanic soils and maritime winds produce some of Europe's most distinctive whites; and Southern Greece (Peloponnese and Crete), home to both ancient sweet wine traditions and contemporary dry wine innovation. White wine accounts for over 70% of national production, an unusual profile that reflects both the country's warm climate and its indigenous grape arsenal.
 
@@ -26,7 +26,7 @@ International varieties began appearing in Greek vineyards during the late 1980s
 
 ## Classification System
 
-Greece's current wine law framework reflects multiple historical layers. The country boasts some of the world's oldest wine laws—that ancient Thracian delineation—but its modern system dates to the late 1960s and early 1970s, with significant revisions following EU accession in the 1980s and a major overhaul in 2009.
+Greece's current wine law framework reflects multiple historical layers. The country boasts some of the world's oldest wine laws (that ancient Thracian delineation) but its modern system dates to the late 1960s and early 1970s, with significant revisions following EU accession in the 1980s and a major overhaul in 2009.
 
 ### The 2009 Reform
 
@@ -34,7 +34,7 @@ The original top-tier designations were OPAP (Onomasia Proelefsos Anoteras Pioti
 
 ### PDO (Protected Designation of Origin)
 
-Greece's PDOs represent geographically defined appellations with production regulations governing permitted varieties, yields, winemaking methods, and aging requirements. The system covers both dry wines (formerly OPAP) and traditional sweet wines (formerly OPE). Grand cru designation exists but applies only to certain Muscats and sweet Liatiko from Crete's Daphnes PDO—a remarkably narrow application compared to other European wine countries.
+Greece's PDOs represent geographically defined appellations with production regulations governing permitted varieties, yields, winemaking methods, and aging requirements. The system covers both dry wines (formerly OPAP) and traditional sweet wines (formerly OPE). Grand cru designation exists but applies only to certain Muscats and sweet Liatiko from Crete's Daphnes PDO: a remarkably narrow application compared to other European wine countries.
 
 ### PGI (Protected Geographical Indication)
 
@@ -42,7 +42,7 @@ The PGI category encompasses wines tied to broader geographical areas with less 
 
 ### Wine from Greece
 
-The large category of wine without geographical indication—formerly table wine, now simply "Wine from Greece"—includes both successful generic brands and interesting wines made outside appellation regulations. Some producers choose this category deliberately to avoid PDO restrictions on varieties, blending, or winemaking techniques.
+The large category of wine without geographical indication (formerly table wine, now simply "Wine from Greece") includes both successful generic brands and interesting wines made outside appellation regulations. Some producers choose this category deliberately to avoid PDO restrictions on varieties, blending, or winemaking techniques.
 
 ## Geography & Climate
 
@@ -80,17 +80,17 @@ Many Greek wine regions experience significant summer drought. Savatiano's domin
 
 ### Red Varieties
 
-**Xinomavro** (3.44% of plantings) produces Greece's most structured and age-worthy red wines. The variety's name translates to "acid-black," referencing its high acidity and deep color, though the wines often show a distinctive orange hue at the rim even in youth. Four PDOs are dedicated exclusively to Xinomavro: Naoussa, Amyndeo, Rapsani, and Goumenissa (the latter two permit blending). The variety's high tannin, high acidity, and complex aromatics—often compared to Nebbiolo—require careful site selection and extended aging.
+**Xinomavro** (3.44% of plantings) produces Greece's most structured and age-worthy red wines. The variety's name translates to "acid-black," referencing its high acidity and deep color, though the wines often show a distinctive orange hue at the rim even in youth. Four PDOs are dedicated exclusively to Xinomavro: Naoussa, Amyndeo, Rapsani, and Goumenissa (the latter two permit blending). The variety's high tannin, high acidity, and complex aromatics (often compared to Nebbiolo) require careful site selection and extended aging.
 
 **Agiorgitiko** (5.28% of plantings) centers on Nemea in the Peloponnese. The variety produces wines ranging from soft, fruity styles to structured, age-worthy expressions depending on elevation and winemaking. Higher-altitude vineyards yield wines with greater acidity and structure; lower sites produce riper, softer wines. The variety's versatility has made it commercially successful both domestically and in export markets.
 
 **Liatiko** (3.85% of plantings) grows primarily on Crete, where it produces both dry reds and sweet wines. The variety ripens early and produces wines with moderate tannin and alcohol, often showing red fruit character with herbal notes.
 
-**Mavrodaphne** produces both dry reds and sweet fortified wines, with the latter style—particularly from Patras—representing its most distinctive expression. The sweet wines undergo oxidative aging similar to Madeira or Tawny Port, developing complex nutty and dried fruit flavors.
+**Mavrodaphne** produces both dry reds and sweet fortified wines, with the latter style (particularly from Patras) representing its most distinctive expression. The sweet wines undergo oxidative aging similar to Madeira or Tawny Port, developing complex nutty and dried fruit flavors.
 
 ### The Indigenous Advantage
 
-Greece's 300+ indigenous varieties represent both opportunity and challenge. The genetic diversity is extraordinary, but many varieties remain obscure even within Greece. Some exist in such small quantities that comprehensive evaluation remains impossible. The question facing Greek viticulture is not whether to preserve this diversity—that seems settled—but how to identify which varieties merit expanded cultivation and investment.
+Greece's 300+ indigenous varieties represent both opportunity and challenge. The genetic diversity is extraordinary, but many varieties remain obscure even within Greece. Some exist in such small quantities that comprehensive evaluation remains impossible. The question facing Greek viticulture is not whether to preserve this diversity (that seems settled) but how to identify which varieties merit expanded cultivation and investment.
 
 ## Wine Styles
 
@@ -100,21 +100,21 @@ Greek dry whites span from crisp, mineral-driven wines to richer, more textured 
 
 ### Dry Reds
 
-Northern Greece produces the country's most structured reds, with Xinomavro-based wines from Naoussa showing particular aging potential. These wines combine high acidity and firm tannin with complex aromatics—dried herbs, tomato leaf, red fruits, and earth. Agiorgitiko from Nemea produces more approachable wines with softer tannins, though high-elevation examples can age for a decade or more. Blends incorporating international varieties alongside indigenous grapes have found commercial success, particularly in the PGI category.
+Northern Greece produces the country's most structured reds, with Xinomavro-based wines from Naoussa showing particular aging potential. These wines combine high acidity and firm tannin with complex aromatics, dried herbs, tomato leaf, red fruits, and earth. Agiorgitiko from Nemea produces more approachable wines with softer tannins, though high-elevation examples can age for a decade or more. Blends incorporating international varieties alongside indigenous grapes have found commercial success, particularly in the PGI category.
 
 ### Sweet Wines
 
-Greece's sweet wine tradition predates most European wine regions. Samos produces both Vin Doux Naturel and Vin Naturellement Doux styles from Muscat Blanc à Petits Grains, with wines ranging from fresh and grapey to complex and aged. Mavrodaphne of Patras undergoes oxidative aging, developing nutty, caramelized flavors similar to Tawny Port. Santorini's Vinsanto (unrelated to Tuscany's Vin Santo) comes from sun-dried Assyrtiko and other varieties, producing intensely concentrated wines with remarkable aging potential—some examples can cellar for decades.
+Greece's sweet wine tradition predates most European wine regions. Samos produces both Vin Doux Naturel and Vin Naturellement Doux styles from Muscat Blanc à Petits Grains, with wines ranging from fresh and grapey to complex and aged. Mavrodaphne of Patras undergoes oxidative aging, developing nutty, caramelized flavors similar to Tawny Port. Santorini's Vinsanto (unrelated to Tuscany's Vin Santo) comes from sun-dried Assyrtiko and other varieties, producing intensely concentrated wines with remarkable aging potential, some examples can cellar for decades.
 
 ### Retsina
 
-Retsina deserves separate consideration. This resinated wine—traditionally made by adding pine resin during fermentation—polarizes drinkers. Modern Retsina tends toward subtlety compared to the aggressively resinous examples that dominated mid-20th century production. Quality Retsina shows delicate pine notes integrated with the base wine's fruit character rather than overwhelming it. The style's decline from historical dominance to 7-7.5% of production reflects changing consumer preferences, though it remains culturally significant within Greece.
+Retsina deserves separate consideration. This resinated wine (traditionally made by adding pine resin during fermentation) polarizes drinkers. Modern Retsina tends toward subtlety compared to the aggressively resinous examples that dominated mid-20th century production. Quality Retsina shows delicate pine notes integrated with the base wine's fruit character rather than overwhelming it. The style's decline from historical dominance to 7-7.5% of production reflects changing consumer preferences, though it remains culturally significant within Greece.
 
 ## Key Regions
 
 ### Naoussa (Northern Greece)
 
-Naoussa produces Xinomavro exclusively, with vineyards ranging from 150 to 400 meters elevation in the foothills of Mount Vermion. The PDO's continental climate—cold winters, warm summers, significant diurnal variation—suits this late-ripening variety. Soils vary from sandy to clay-limestone. The wines require aging to integrate their considerable tannin and acidity; the best examples develop complexity over 10-20 years. Key producers include Kir-Yianni, Thymiopoulos, and Boutari, whose Naoussa bottling helped establish the appellation's modern reputation.
+Naoussa produces Xinomavro exclusively, with vineyards ranging from 150 to 400 meters elevation in the foothills of Mount Vermion. The PDO's continental climate (cold winters, warm summers, significant diurnal variation) suits this late-ripening variety. Soils vary from sandy to clay-limestone. The wines require aging to integrate their considerable tannin and acidity; the best examples develop complexity over 10-20 years. Key producers include Kir-Yianni, Thymiopoulos, and Boutari, whose Naoussa bottling helped establish the appellation's modern reputation.
 
 ### Amyndeo (Northern Greece)
 
@@ -130,11 +130,11 @@ This high-altitude plateau (650 meters average elevation) specializes in Moschof
 
 ### Santorini (Cyclades)
 
-Santorini's volcanic terroir produces Greece's most internationally recognized wines. The island's volcanic soils—ash, pumice, and lava—contain no organic matter and retain minimal water. Vines are trained in low basket shapes (kouloura) to protect against persistent winds that can exceed 100 km/h. Rainfall during the growing season is negligible; vines survive on morning fog and dew.
+Santorini's volcanic terroir produces Greece's most internationally recognized wines. The island's volcanic soils (ash, pumice, and lava) contain no organic matter and retain minimal water. Vines are trained in low basket shapes (kouloura) to protect against persistent winds that can exceed 100 km/h. Rainfall during the growing season is negligible; vines survive on morning fog and dew.
 
 Assyrtiko dominates, producing wines that combine 13.5-14.5% alcohol with remarkably high acidity (often 7-8 g/L total acidity). The wines show citrus fruit, saline minerality, and pronounced tension. They age exceptionally well; examples from quality producers can develop for 15-20 years. Vinsanto, made from sun-dried grapes, produces intensely concentrated sweet wines with extraordinary aging potential.
 
-Key producers include Sigalas, Hatzidakis, Argyros, and Gaia Estate. Estate Argyros farms some of the island's oldest vines, including ungrafted specimens over 200 years old—phylloxera has never established itself in Santorini's volcanic soils.
+Key producers include Sigalas, Hatzidakis, Argyros, and Gaia Estate. Estate Argyros farms some of the island's oldest vines, including ungrafted specimens over 200 years old, phylloxera has never established itself in Santorini's volcanic soils.
 
 ### Patras (Peloponnese)
 
@@ -172,11 +172,11 @@ This island specializes in Muscat Blanc à Petits Grains, producing both Vin Dou
 
 Greece's wine industry stands at an inflection point. The pioneering work of the late 20th century established quality benchmarks and introduced international markets to Greek varieties. The current generation builds on this foundation, with increasing focus on organic and biodynamic viticulture, minimal intervention winemaking, and exploration of obscure indigenous varieties.
 
-The economic challenges Greece has faced since 2008 have impacted the wine industry, but export growth—particularly to the United States and Canada—provides optimism. The question is whether this growth can accelerate sufficiently to support the quality-focused small producers who have driven recent improvements.
+The economic challenges Greece has faced since 2008 have impacted the wine industry, but export growth (particularly to the United States and Canada) provides optimism. The question is whether this growth can accelerate sufficiently to support the quality-focused small producers who have driven recent improvements.
 
 Climate change poses both challenges and opportunities. Rising temperatures may make some traditional sites too warm for quality production, but Greece's mountainous terrain offers abundant high-elevation vineyard potential. The country's indigenous varieties, many adapted to drought and heat, may prove increasingly relevant as other Mediterranean wine regions struggle with warming.
 
-The diversity of Greece's 300+ indigenous varieties represents an unparalleled genetic resource, but only a handful have achieved international recognition. Assyrtiko, Xinomavro, and Agiorgitiko have established footholds in export markets; varieties like Malagousia and Moschofilero are gaining awareness. Whether Greece can successfully introduce additional varieties to international consumers—or whether consolidation around a smaller number of flagship grapes proves more commercially viable—remains to be seen.
+The diversity of Greece's 300+ indigenous varieties represents an unparalleled genetic resource, but only a handful have achieved international recognition. Assyrtiko, Xinomavro, and Agiorgitiko have established footholds in export markets; varieties like Malagousia and Moschofilero are gaining awareness. Whether Greece can successfully introduce additional varieties to international consumers (or whether consolidation around a smaller number of flagship grapes proves more commercially viable) remains to be seen.
 
 What seems certain is that Greek wine has moved decisively beyond its Retsina-dominated past. The wines being produced today from indigenous varieties in distinctive terroirs have nothing to do with the bulk wine that defined Greece's international reputation for much of the 20th century. This is not a minor evolution. This is a fundamental transformation.
 

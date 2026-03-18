@@ -2,7 +2,7 @@
 
 ## Overview & Location
 
-Les Saussilles stands as one of Pommard's most distinctive Premier Cru vineyards, occupying a strategic position in the northern sector of this prestigious Côte de Beaune commune. Situated between the famous climats of Les Rugiens and Les Jarolières, Les Saussilles represents the quintessential expression of Pommard's terroir—powerful yet refined, structured yet approachable. The vineyard's location within Pommard places it at the heart of the Côte de Beaune's red wine production, where Pinot Noir reaches extraordinary heights of complexity and longevity.
+Les Saussilles stands as one of Pommard's most distinctive Premier Cru vineyards, occupying a strategic position in the northern sector of this prestigious Côte de Beaune commune. Situated between the famous climats of Les Rugiens and Les Jarolières, Les Saussilles represents the quintessential expression of Pommard's terroir, powerful yet refined, structured yet approachable. The vineyard's location within Pommard places it at the heart of the Côte de Beaune's red wine production, where Pinot Noir reaches extraordinary heights of complexity and longevity.
 
 The climat lies approximately 3.5 kilometers southwest of Beaune, positioned along the gentle slopes that characterize this section of the Côte d'Or. Les Saussilles benefits from its proximity to the village of Pommard itself, sitting just above the main settlement and enjoying the protection of the Montagne de Beaune to the west. This geographical positioning creates a natural amphitheater effect, concentrating the vineyard's exposure to optimal sunlight while providing shelter from harsh western winds.
 
@@ -16,7 +16,7 @@ The vineyard's dimensions contribute to its exclusivity and the intimate scale o
 
 ## Terroir & Geology
 
-The geological foundation of Les Saussilles reveals the complex sedimentary history that defines the Côte de Beaune. The vineyard sits primarily on Bathonian limestone from the Middle Jurassic period, approximately 165 million years old. This limestone base provides excellent drainage while retaining sufficient moisture to sustain vines through dry periods—a crucial balance for Pinot Noir cultivation.
+The geological foundation of Les Saussilles reveals the complex sedimentary history that defines the Côte de Beaune. The vineyard sits primarily on Bathonian limestone from the Middle Jurassic period, approximately 165 million years old. This limestone base provides excellent drainage while retaining sufficient moisture to sustain vines through dry periods: a crucial balance for Pinot Noir cultivation.
 
 The topsoil composition consists of brown limestone-clay mixtures with varying proportions throughout the climat. The upper sections contain higher limestone content with scattered iron-rich deposits that contribute to the wines' mineral backbone and aging potential. Lower sections show increased clay content, typically ranging from 20-35%, which provides water retention and contributes to the wines' characteristic depth and structure.
 
@@ -58,7 +58,7 @@ On the palate, Les Saussilles wines demonstrate the structured power associated 
 
 Textural characteristics include medium to full body with silky tannins that become increasingly integrated with proper aging. The wines show excellent length, with flavors persisting and evolving across extended finishes that can last 30-45 seconds in exceptional examples.
 
-What distinguishes Les Saussilles from other Pommard Premier Crus is its particular combination of power and elegance—more refined than the raw intensity of Les Rugiens, yet more structured than the softer character of Les Epenots. The wines display distinctive mineral precision that reflects their limestone-rich soils, combined with a depth and concentration that speaks to careful viticulture and optimal terroir expression.
+What distinguishes Les Saussilles from other Pommard Premier Crus is its particular combination of power and elegance, more refined than the raw intensity of Les Rugiens, yet more structured than the softer character of Les Epenots. The wines display distinctive mineral precision that reflects their limestone-rich soils, combined with a depth and concentration that speaks to careful viticulture and optimal terroir expression.
 
 ## Comparison to Surrounding Crus
 
@@ -70,7 +70,7 @@ When compared to Les Epenots, Pommard's largest Premier Cru, Les Saussilles demo
 
 The contrast with Les Pézerolles, another respected Premier Cru, reveals Les Saussilles' stronger mineral backbone and more pronounced limestone influence. Les Pézerolles often shows more immediate fruit charm and softer tannins, making it approachable earlier than typical Les Saussilles examples.
 
-Pommard contains no Grand Cru vineyards, placing Les Saussilles at the apex of the commune's quality hierarchy alongside other Premier Crus. However, when compared to Grand Crus from neighboring communes—such as Corton from Aloxe-Corton or theoretical comparisons to Volnay's Premier Crus—Les Saussilles demonstrates the powerful, structured style that defines Pommard, with greater intensity and aging requirement than most Volnay Premier Crus while maintaining more elegance than the most powerful Corton examples.
+Pommard contains no Grand Cru vineyards, placing Les Saussilles at the apex of the commune's quality hierarchy alongside other Premier Crus. However, when compared to Grand Crus from neighboring communes, such as Corton from Aloxe-Corton or theoretical comparisons to Volnay's Premier Crus. Les Saussilles demonstrates the powerful, structured style that defines Pommard, with greater intensity and aging requirement than most Volnay Premier Crus while maintaining more elegance than the most powerful Corton examples.
 
 ## Notable Producers
 

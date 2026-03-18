@@ -118,7 +118,7 @@ Red wines from Naches Heights, while less extensively planted, show promising re
 
 Compared to other Yakima Valley sub-AVAs like Red Mountain (known for powerful Cabernet Sauvignon) or Rattlesnake Hills (diverse site characteristics), Naches Heights occupies a distinct niche as a cooler, higher-elevation region particularly suited to aromatic whites and elegant wine styles. The wines show more acid retention and lower alcohol than typical Columbia Valley bottlings, often falling in the 12-13.5% range for whites and 13-14% for reds, compared to 13.5-15%+ common elsewhere.
 
-The minerality often attributed to Naches Heights wines—whether from soils, climate, or winemaking—provides a distinctive signature that distinguishes them from fruit-forward, riper expressions from warmer sites.
+The minerality often attributed to Naches Heights wines (whether from soils, climate, or winemaking) provides a distinctive signature that distinguishes them from fruit-forward, riper expressions from warmer sites.
 
 ### Quality Levels and Market Position
 
@@ -198,6 +198,6 @@ However, opportunities abound:
 
 Naches Heights AVA represents an important piece in the complex mosaic of Washington State wine country. While small in size and young in development, the region has quickly established a reputation for distinctive wines, particularly aromatic whites that showcase the benefits of high-elevation viticulture in a continental climate.
 
-The combination of cooling elevation, dramatic diurnal temperature swings, mineral-rich loess soils, and meticulous viticulture creates conditions for wines of elegance, aromatic intensity, and refreshing acidity—qualities increasingly valued in contemporary wine culture.
+The combination of cooling elevation, dramatic diurnal temperature swings, mineral-rich loess soils, and meticulous viticulture creates conditions for wines of elegance, aromatic intensity, and refreshing acidity, qualities increasingly valued in contemporary wine culture.
 
 As the AVA matures and more producers recognize its potential, Naches Heights seems positioned to become an increasingly important source of premium fruit and a distinctive voice within Washington's diverse wine landscape. For wine enthusiasts seeking wines of place with distinctive character, Naches Heights offers compelling expressions that speak to the unique terroir of this elevated plateau above the Yakima Valley.

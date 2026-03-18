@@ -1,10 +1,10 @@
 # Stellenbosch: South Africa's Academic Heart and Historic Soul
 
-Stellenbosch is where South African wine learned to walk—and now sprints. This is the country's intellectual epicenter, home to its only viticulture degree program, its most established wine estates (some dating to the 1600s), and a concentration of capital and ambition unmatched anywhere else on the continent. Only Constantia can claim deeper historical roots, but Stellenbosch has the infrastructure, the diversity, and the sheer winemaking firepower that defines modern South African wine.
+Stellenbosch is where South African wine learned to walk, and now sprints. This is the country's intellectual epicenter, home to its only viticulture degree program, its most established wine estates (some dating to the 1600s), and a concentration of capital and ambition unmatched anywhere else on the continent. Only Constantia can claim deeper historical roots, but Stellenbosch has the infrastructure, the diversity, and the sheer winemaking firepower that defines modern South African wine.
 
-Located an hour's drive from Cape Town, the district radiates outward from the university town of the same name, where white-washed, steepled buildings recall the region's Dutch colonial origins. The surrounding countryside contains some of the most well-funded, professionally managed wine estates in the Southern Hemisphere—many functioning as mini-resorts complete with restaurants, spas, galleries, and lodging. This is not rustic vigneronne culture. This is South African wine as serious business.
+Located an hour's drive from Cape Town, the district radiates outward from the university town of the same name, where white-washed, steepled buildings recall the region's Dutch colonial origins. The surrounding countryside contains some of the most well-funded, professionally managed wine estates in the Southern Hemisphere, many functioning as mini-resorts complete with restaurants, spas, galleries, and lodging. This is not rustic vigneronne culture. This is South African wine as serious business.
 
-But Stellenbosch's real distinction lies beneath the surface: in its remarkable geological complexity, its mesoclimate diversity spanning from False Bay's cooling maritime influence to sheltered inland valleys, and its role as the testing ground for South African wine law itself. The country's estate wine system—requiring grapes to be grown, vinified, and bottled on a single property—was designed here. The 85% varietal labeling requirement? Stellenbosch pushed it. The 100% appellation accuracy rule? Adam Mason from Mulderbosch explains it bluntly: "If you blend in even a liter from a different appellation, you can't call your wine Stellenbosch anymore."
+But Stellenbosch's real distinction lies beneath the surface: in its remarkable geological complexity, its mesoclimate diversity spanning from False Bay's cooling maritime influence to sheltered inland valleys, and its role as the testing ground for South African wine law itself. The country's estate wine system (requiring grapes to be grown, vinified, and bottled on a single property) was designed here. The 85% varietal labeling requirement? Stellenbosch pushed it. The 100% appellation accuracy rule? Adam Mason from Mulderbosch explains it bluntly: "If you blend in even a liter from a different appellation, you can't call your wine Stellenbosch anymore."
 
 This is precision viticulture meeting Old World regulation, filtered through New World pragmatism.
 
@@ -12,27 +12,27 @@ This is precision viticulture meeting Old World regulation, filtered through New
 
 ### The Foundational Truth
 
-Stellenbosch's soils are predominantly decomposed granite and sandstone, with significant pockets of shale. This is not limestone country—the calcareous bedrock that defines Burgundy, Champagne, or even parts of the Cape's own Walker Bay is largely absent here. Instead, Stellenbosch sits on ancient igneous and metamorphic formations, weathered over millions of years into deeply stratified, well-drained profiles.
+Stellenbosch's soils are predominantly decomposed granite and sandstone, with significant pockets of shale. This is not limestone country: the calcareous bedrock that defines Burgundy, Champagne, or even parts of the Cape's own Walker Bay is largely absent here. Instead, Stellenbosch sits on ancient igneous and metamorphic formations, weathered over millions of years into deeply stratified, well-drained profiles.
 
-The contrast with nearby regions is instructive. While Elgin to the southeast—an elevated bowl ringed by mountains—features decomposed sandstone and shale with elevations between 300-500 meters, Stellenbosch's terrain is more varied and generally lower. The district stretches from the False Bay coastline inland, creating a gradient of soil types, drainage patterns, and heat accumulation zones.
+The contrast with nearby regions is instructive. While Elgin to the southeast (an elevated bowl ringed by mountains) features decomposed sandstone and shale with elevations between 300-500 meters, Stellenbosch's terrain is more varied and generally lower. The district stretches from the False Bay coastline inland, creating a gradient of soil types, drainage patterns, and heat accumulation zones.
 
 ### Granite Dominance and Drainage
 
-Decomposed granite soils—technically classified as sandy loams with low clay content—dominate the higher-elevation sites and eastern portions of the district. These soils drain aggressively, forcing vines to root deeply in search of water. The result: naturally low yields, concentrated fruit, and wines with pronounced minerality and structure. Cabernet Sauvignon thrives here, developing the tannin backbone and ageability that has made Stellenbosch synonymous with South Africa's finest reds.
+Decomposed granite soils (technically classified as sandy loams with low clay content) dominate the higher-elevation sites and eastern portions of the district. These soils drain aggressively, forcing vines to root deeply in search of water. The result: naturally low yields, concentrated fruit, and wines with pronounced minerality and structure. Cabernet Sauvignon thrives here, developing the tannin backbone and ageability that has made Stellenbosch synonymous with South Africa's finest reds.
 
-Sandstone-derived soils appear throughout the district, often interbedded with shale layers. These soils retain slightly more moisture than pure granite but still drain well—critical in a region where irrigation is standard practice (more on that shortly). The sandstone weathers into sandy clay loams, providing enough water retention to sustain vine health through the dry summer months without waterlogging roots.
+Sandstone-derived soils appear throughout the district, often interbedded with shale layers. These soils retain slightly more moisture than pure granite but still drain well, critical in a region where irrigation is standard practice (more on that shortly). The sandstone weathers into sandy clay loams, providing enough water retention to sustain vine health through the dry summer months without waterlogging roots.
 
 ### Shale Pockets and Alluvial Intrusions
 
-Shale appears in discrete pockets, particularly in valley floors and lower-slope positions. Unlike the paper-like *schiste carton* of the Jura's Liassic marls, Stellenbosch's shale is harder, more compacted, and less prone to erosion. It contributes clay to the soil profile, moderating drainage and increasing water-holding capacity. White varieties—particularly Chenin Blanc and Chardonnay—perform well on these sites, where the slightly cooler, moister conditions preserve acidity.
+Shale appears in discrete pockets, particularly in valley floors and lower-slope positions. Unlike the paper-like *schiste carton* of the Jura's Liassic marls, Stellenbosch's shale is harder, more compacted, and less prone to erosion. It contributes clay to the soil profile, moderating drainage and increasing water-holding capacity. White varieties (particularly Chenin Blanc and Chardonnay) perform well on these sites, where the slightly cooler, moister conditions preserve acidity.
 
-Alluvial deposits appear along watercourses and valley bottoms, formed from centuries of sediment deposition. These soils are deeper, richer in organic matter, and more fertile—often too fertile for premium viticulture. Yields spike on alluvial sites unless rigorously managed through canopy control and crop thinning.
+Alluvial deposits appear along watercourses and valley bottoms, formed from centuries of sediment deposition. These soils are deeper, richer in organic matter, and more fertile, often too fertile for premium viticulture. Yields spike on alluvial sites unless rigorously managed through canopy control and crop thinning.
 
 ### No Limestone, No Problem?
 
 The absence of significant limestone is worth addressing directly. In Burgundy's Côte d'Or, approximately 80% of the base rock is limestone and 20% is marl. Stellenbosch inverts this entirely: virtually no limestone, with granite and sandstone constituting the geological foundation. Does this matter?
 
-Yes and no. Limestone contributes calcium to the soil, influences pH, and—in the case of porous chalk—allows deep rooting through its fissured structure. Stellenbosch's granite and sandstone also permit deep rooting through weathered cracks and decomposed layers, but they don't provide the same calcium buffering. Soil pH in Stellenbosch tends slightly acidic, requiring occasional lime amendments in some vineyards. But the region's winemakers have learned to work with what they have: the granitic minerality in their reds, the textural weight from sandstone-derived loams, the clay-modulated freshness from shale pockets.
+Yes and no. Limestone contributes calcium to the soil, influences pH, and (in the case of porous chalk) allows deep rooting through its fissured structure. Stellenbosch's granite and sandstone also permit deep rooting through weathered cracks and decomposed layers, but they don't provide the same calcium buffering. Soil pH in Stellenbosch tends slightly acidic, requiring occasional lime amendments in some vineyards. But the region's winemakers have learned to work with what they have: the granitic minerality in their reds, the textural weight from sandstone-derived loams, the clay-modulated freshness from shale pockets.
 
 Terroir is not a formula. It's an adaptation.
 
@@ -40,19 +40,19 @@ Terroir is not a formula. It's an adaptation.
 
 ### The Cooling Influence of False Bay
 
-Stellenbosch's climate is defined by its proximity to False Bay and the cooling influence of the Cape Doctor—the strong southeasterly wind that funnels through the region during summer months. Sites closer to the coast experience markedly cooler temperatures than inland valleys, creating a mesoclimate gradient that spans several degrees Celsius over relatively short distances.
+Stellenbosch's climate is defined by its proximity to False Bay and the cooling influence of the Cape Doctor: the strong southeasterly wind that funnels through the region during summer months. Sites closer to the coast experience markedly cooler temperatures than inland valleys, creating a mesoclimate gradient that spans several degrees Celsius over relatively short distances.
 
-This is not subtle. Coastal-proximate vineyards can experience mean February temperatures (the height of summer in the Southern Hemisphere) 2-3°C cooler than sites 20 kilometers inland. For context, Elgin—the elevated bowl to Stellenbosch's southeast—records a mean February temperature of only 19.7°C, among the coolest in South Africa. Stellenbosch's coastal fringe approaches these conditions, while its inland valleys push into significantly warmer territory.
+This is not subtle. Coastal-proximate vineyards can experience mean February temperatures (the height of summer in the Southern Hemisphere) 2-3°C cooler than sites 20 kilometers inland. For context, Elgin (the elevated bowl to Stellenbosch's southeast) records a mean February temperature of only 19.7°C, among the coolest in South Africa. Stellenbosch's coastal fringe approaches these conditions, while its inland valleys push into significantly warmer territory.
 
 ### Wind as Viticultural Asset and Challenge
 
-The Cape Doctor is both blessing and curse. On the positive side, it suppresses fungal disease pressure by reducing humidity and keeping canopies dry—critical in a region that receives over 600mm of rainfall annually, much of it concentrated in the winter months (May-August). The constant air movement also moderates heat spikes, preventing the kind of extreme temperature events that can shut down photosynthesis and halt ripening.
+The Cape Doctor is both blessing and curse. On the positive side, it suppresses fungal disease pressure by reducing humidity and keeping canopies dry, critical in a region that receives over 600mm of rainfall annually, much of it concentrated in the winter months (May-August). The constant air movement also moderates heat spikes, preventing the kind of extreme temperature events that can shut down photosynthesis and halt ripening.
 
 But wind stress is real. Excessive wind can slow vine growth, damage young shoots, and interfere with flowering and fruit set. Vineyard orientation matters enormously in Stellenbosch. Rows aligned perpendicular to prevailing winds risk excessive exposure; rows aligned parallel benefit from airflow without the battering.
 
 ### Rainfall, Irrigation, and the Dry Summer Reality
 
-Stellenbosch receives approximately 600-700mm of annual rainfall—substantially less than Elgin's 1,000mm+ and concentrated almost entirely in the winter months. From November through March (the growing season), rainfall is minimal to non-existent. This creates an irrigation imperative.
+Stellenbosch receives approximately 600-700mm of annual rainfall, substantially less than Elgin's 1,000mm+ and concentrated almost entirely in the winter months. From November through March (the growing season), rainfall is minimal to non-existent. This creates an irrigation imperative.
 
 Drip irrigation is universal in Stellenbosch. Unlike regions where dry-farming remains viable (parts of the Barossa, old-vine Priorat, pre-phylloxera Lodi), Stellenbosch's summer drought makes supplemental water essential for vine survival, let alone quality fruit production. The question is not whether to irrigate, but how much and when.
 
@@ -62,9 +62,9 @@ Progressive estates use deficit irrigation strategies: applying just enough wate
 
 Frost is not a major concern in most of Stellenbosch, though low-lying valley sites can experience occasional spring frost events. The maritime influence and generally moderate temperatures keep extreme cold at bay. Heat, however, is the emerging challenge.
 
-Growing-season temperatures in many of the world's best wine regions increased 1.43°C between 1900-2017, and Stellenbosch is no exception. Harvest dates have crept earlier—sometimes by two to three weeks compared to the 1980s. Winemakers report faster accumulation of sugar relative to phenolic ripeness, leading to higher potential alcohol levels and the risk of imbalanced wines.
+Growing-season temperatures in many of the world's best wine regions increased 1.43°C between 1900-2017, and Stellenbosch is no exception. Harvest dates have crept earlier, sometimes by two to three weeks compared to the 1980s. Winemakers report faster accumulation of sugar relative to phenolic ripeness, leading to higher potential alcohol levels and the risk of imbalanced wines.
 
-The response has been multifaceted: planting at higher elevations, shifting to cooler aspects (south-facing slopes in the Southern Hemisphere), exploring earlier-ripening rootstocks, and—most significantly—reconsidering varietal selection. Bordeaux varieties still dominate, but there's growing interest in Mediterranean varieties (Grenache, Mourvèdre, Carignan) that evolved in hot, dry climates and maintain acidity at higher ripeness levels.
+The response has been multifaceted: planting at higher elevations, shifting to cooler aspects (south-facing slopes in the Southern Hemisphere), exploring earlier-ripening rootstocks, and (most significantly) reconsidering varietal selection. Bordeaux varieties still dominate, but there's growing interest in Mediterranean varieties (Grenache, Mourvèdre, Carignan) that evolved in hot, dry climates and maintain acidity at higher ripeness levels.
 
 ## GRAPES: Bordeaux Foundations and Chenin's Quiet Revolution
 
@@ -72,7 +72,7 @@ The response has been multifaceted: planting at higher elevations, shifting to c
 
 Cabernet Sauvignon is Stellenbosch's calling card. The variety occupies more vineyard area here than any other red grape and produces the region's most age-worthy, critically acclaimed wines. The granitic soils, warm-but-not-hot temperatures, and extended ripening period (harvest typically runs February-March) allow Cabernet to achieve full phenolic maturity without excessive alcohol.
 
-Stellenbosch Cabernet tends toward the structured, savory end of the spectrum rather than the opulent, fruit-forward style of Napa Valley. Expect blackcurrant, graphite, tobacco, and dried herbs—classic Bordeaux markers—with firm tannins that demand bottle age. The best examples can cellar for 15-20 years, developing tertiary complexity (leather, cigar box, forest floor) while retaining core fruit intensity.
+Stellenbosch Cabernet tends toward the structured, savory end of the spectrum rather than the opulent, fruit-forward style of Napa Valley. Expect blackcurrant, graphite, tobacco, and dried herbs (classic Bordeaux markers) with firm tannins that demand bottle age. The best examples can cellar for 15-20 years, developing tertiary complexity (leather, cigar box, forest floor) while retaining core fruit intensity.
 
 Viticulturally, Cabernet is well-suited to Stellenbosch's conditions. It buds late (reducing frost risk, minimal as it is) and ripens late, taking full advantage of the long, dry autumn. The variety's small berries and thick skins contribute to the tannic structure and color intensity that define the region's top reds. Clonal selection has improved significantly over the past two decades, with newer French clones (337, 341) replacing older, more virus-prone selections.
 
@@ -80,31 +80,31 @@ Viticulturally, Cabernet is well-suited to Stellenbosch's conditions. It buds la
 
 Merlot plays a supporting role in Stellenbosch, rarely bottled as a varietal wine but essential in Bordeaux-style blends. It ripens earlier than Cabernet, adding mid-palate flesh, softening tannins, and contributing plummy fruit that balances Cabernet's austerity.
 
-The variety struggles on Stellenbosch's hottest sites, where it can over-ripen quickly, losing acidity and developing jammy, pruney flavors. Cooler pockets—valley floors with shale influence, higher-elevation sites with maritime exposure—produce the best Merlot, retaining the variety's characteristic suppleness while avoiding flabbiness.
+The variety struggles on Stellenbosch's hottest sites, where it can over-ripen quickly, losing acidity and developing jammy, pruney flavors. Cooler pockets (valley floors with shale influence, higher-elevation sites with maritime exposure) produce the best Merlot, retaining the variety's characteristic suppleness while avoiding flabbiness.
 
 ### Shiraz (Syrah): The Alternative Red
 
-Shiraz (the term used interchangeably with Syrah in South Africa) has gained ground in Stellenbosch over the past 15 years, offering a stylistic alternative to Cabernet dominance. The variety adapts well to the region's granite soils, producing wines with black pepper, smoked meat, and dark fruit—closer to Northern Rhône Syrah than to Australian Shiraz in character.
+Shiraz (the term used interchangeably with Syrah in South Africa) has gained ground in Stellenbosch over the past 15 years, offering a stylistic alternative to Cabernet dominance. The variety adapts well to the region's granite soils, producing wines with black pepper, smoked meat, and dark fruit, closer to Northern Rhône Syrah than to Australian Shiraz in character.
 
-The best Stellenbosch Shiraz comes from cooler sites where the variety retains its savory, peppery profile. On warmer sites, it can veer into overripe, jammy territory, losing the tension that makes Syrah compelling. Whole-bunch fermentation—increasingly popular among quality-focused producers—adds aromatic lift and structural complexity.
+The best Stellenbosch Shiraz comes from cooler sites where the variety retains its savory, peppery profile. On warmer sites, it can veer into overripe, jammy territory, losing the tension that makes Syrah compelling. Whole-bunch fermentation (increasingly popular among quality-focused producers) adds aromatic lift and structural complexity.
 
 ### Chenin Blanc: The Underappreciated White
 
 Chenin Blanc is South Africa's most planted variety nationally, but in Stellenbosch it plays second fiddle to Cabernet and the international white varieties (Chardonnay, Sauvignon Blanc). This is a missed opportunity.
 
-Old-vine Chenin—some blocks planted in the 1960s and 70s—produces some of Stellenbosch's most compelling whites: textured, age-worthy wines with stone fruit, honey, and lanolin complexity. The variety's naturally high acidity (a godsend in a warming climate) and ability to express site specificity make it ideal for serious winemaking.
+Old-vine Chenin (some blocks planted in the 1960s and 70s) produces some of Stellenbosch's most compelling whites: textured, age-worthy wines with stone fruit, honey, and lanolin complexity. The variety's naturally high acidity (a godsend in a warming climate) and ability to express site specificity make it ideal for serious winemaking.
 
-Chenin thrives on Stellenbosch's shale-influenced soils, where the clay component moderates ripening and preserves freshness. Winemaking approaches vary from crisp, unoaked styles to barrel-fermented, lees-aged expressions that rival white Burgundy in texture and complexity. The variety's versatility—from bone-dry to late-harvest sweet—remains underexploited in Stellenbosch, though a new generation of winemakers is beginning to explore its full potential.
+Chenin thrives on Stellenbosch's shale-influenced soils, where the clay component moderates ripening and preserves freshness. Winemaking approaches vary from crisp, unoaked styles to barrel-fermented, lees-aged expressions that rival white Burgundy in texture and complexity. The variety's versatility (from bone-dry to late-harvest sweet) remains underexploited in Stellenbosch, though a new generation of winemakers is beginning to explore its full potential.
 
 ### Chardonnay: Burgundian Aspirations
 
-Chardonnay arrived in Stellenbosch with Burgundian ambitions, and the best examples deliver. Cooler sites—particularly those with maritime influence—produce Chardonnay with citrus, white peach, and mineral notes, balanced acidity, and the structure to support oak aging.
+Chardonnay arrived in Stellenbosch with Burgundian ambitions, and the best examples deliver. Cooler sites (particularly those with maritime influence) produce Chardonnay with citrus, white peach, and mineral notes, balanced acidity, and the structure to support oak aging.
 
 Clonal diversity has improved dramatically. Early plantings relied on a narrow genetic base, but newer vineyards incorporate Burgundian clones (76, 95, 96) that offer smaller berries, tighter clusters, and more aromatic complexity. Winemaking has evolved too: less new oak, more whole-cluster pressing, extended lees aging, and malolactic fermentation managed for texture rather than buttery excess.
 
 ### Sauvignon Blanc: The Coastal Specialist
 
-Sauvignon Blanc in Stellenbosch occupies a niche: cooler, exposed sites where the variety's green, herbaceous character can shine without tipping into underripe vegetal notes. The style trends toward the greener end of the Sauvignon spectrum—think Sancerre rather than Marlborough—with citrus, gooseberry, and fresh-cut grass.
+Sauvignon Blanc in Stellenbosch occupies a niche: cooler, exposed sites where the variety's green, herbaceous character can shine without tipping into underripe vegetal notes. The style trends toward the greener end of the Sauvignon spectrum (think Sancerre rather than Marlborough) with citrus, gooseberry, and fresh-cut grass.
 
 Significant producers include Bloemendal and Diemersdal, both working coastal-proximate sites where the Cape Doctor moderates temperatures and extends hang time. The variety is picked early to preserve acidity and aromatic intensity, typically vinified in stainless steel to emphasize purity and freshness.
 
@@ -118,9 +118,9 @@ This is not a casual designation. It requires vineyard ownership or long-term le
 
 ### Labeling Laws: Precision and Accountability
 
-South African wine law is strict—stricter, in some respects, than EU regulations. Initial rules required only 30% of a stated variety to appear on the label, but today that threshold is 85%. Vintage requirement is also 85%, but place of origin is a non-negotiable 100%. As Adam Mason notes, even a single liter from outside the appellation disqualifies the wine from using the Stellenbosch designation.
+South African wine law is strict, stricter, in some respects, than EU regulations. Initial rules required only 30% of a stated variety to appear on the label, but today that threshold is 85%. Vintage requirement is also 85%, but place of origin is a non-negotiable 100%. As Adam Mason notes, even a single liter from outside the appellation disqualifies the wine from using the Stellenbosch designation.
 
-Blended wines are not required to detail varietal composition, but if they do, grapes must be listed in descending order of dominance. If one variety is mentioned, all must be included—unless two or more grapes combine to form over 85% of the blend and each represents at least 20% individually.
+Blended wines are not required to detail varietal composition, but if they do, grapes must be listed in descending order of dominance. If one variety is mentioned, all must be included, unless two or more grapes combine to form over 85% of the blend and each represents at least 20% individually.
 
 This regulatory framework encourages transparency and discourages corner-cutting. It also reflects Stellenbosch's role as the industry's standard-bearer: what happens here sets the tone for South African wine law nationally.
 
@@ -128,19 +128,19 @@ This regulatory framework encourages transparency and discourages corner-cutting
 
 Stellenbosch's reputation rests on Bordeaux-style red blends: Cabernet Sauvignon-dominant wines blended with Merlot, Cabernet Franc, and occasionally Petit Verdot or Malbec. These wines are typically aged in French oak (225-liter barriques, 30-60% new) for 12-24 months, then bottle-aged before release.
 
-The style is structured, savory, and built for aging. Tannins are firm but ripe, acidity is moderate, and alcohol levels have crept upward over the past two decades—now typically 14-14.5% ABV, occasionally higher. The best examples balance power with elegance, showing restraint despite the warm climate.
+The style is structured, savory, and built for aging. Tannins are firm but ripe, acidity is moderate, and alcohol levels have crept upward over the past two decades, now typically 14-14.5% ABV, occasionally higher. The best examples balance power with elegance, showing restraint despite the warm climate.
 
 Shiraz-based wines offer an alternative: darker, more brooding, with smoked meat and black pepper complexity. Whole-bunch fermentation is increasingly common, adding aromatic lift and textural complexity without the green tannins that plague underripe whole-cluster experiments.
 
 ### White Wine Styles: Oak and Freshness
 
-Stellenbosch whites divide into two camps: oaked and unoaked. Chardonnay and barrel-fermented Chenin Blanc fall into the former category, often aged on lees for 8-12 months to build texture and complexity. These wines are rich, textured, and age-worthy—designed to compete with white Burgundy and premium Californian Chardonnay.
+Stellenbosch whites divide into two camps: oaked and unoaked. Chardonnay and barrel-fermented Chenin Blanc fall into the former category, often aged on lees for 8-12 months to build texture and complexity. These wines are rich, textured, and age-worthy, designed to compete with white Burgundy and premium Californian Chardonnay.
 
-Sauvignon Blanc and unoaked Chenin prioritize freshness and aromatic purity. Fermentation occurs in stainless steel at cool temperatures (12-15°C) to preserve volatile aromatics. Malolactic fermentation is blocked to retain acidity, and the wines are bottled young—typically within six months of harvest.
+Sauvignon Blanc and unoaked Chenin prioritize freshness and aromatic purity. Fermentation occurs in stainless steel at cool temperatures (12-15°C) to preserve volatile aromatics. Malolactic fermentation is blocked to retain acidity, and the wines are bottled young, typically within six months of harvest.
 
 ## APPELLATIONS: Wards Within Stellenbosch
 
-Stellenbosch functions as a district within the broader Western Cape wine region, but it contains multiple wards—sub-appellations that reflect mesoclimate and soil differences. Key wards include:
+Stellenbosch functions as a district within the broader Western Cape wine region, but it contains multiple wards, sub-appellations that reflect mesoclimate and soil differences. Key wards include:
 
 - **Simonsberg-Stellenbosch**: Higher-elevation sites on the slopes of Simonsberg Mountain, known for structured Cabernet Sauvignon.
 - **Jonkershoek Valley**: A cooler, more sheltered valley producing elegant reds and age-worthy whites.
@@ -150,7 +150,7 @@ Stellenbosch functions as a district within the broader Western Cape wine region
 - **Devon Valley**: Diverse mesoclimates producing both powerful reds and refined whites.
 - **Polkadraai Hills**: Rolling terrain with mixed exposures and soil types.
 
-These wards are not yet widely used on labels—most producers opt for the broader Stellenbosch designation—but they provide useful reference points for understanding the district's internal diversity.
+These wards are not yet widely used on labels (most producers opt for the broader Stellenbosch designation) but they provide useful reference points for understanding the district's internal diversity.
 
 ## PRACTICAL MATTERS: Cellaring, Service, and Food
 
@@ -164,7 +164,7 @@ Chardonnay and barrel-fermented Chenin Blanc can age for 8-12 years, gaining nut
 
 Stellenbosch reds benefit from slight cooling: 16-18°C rather than room temperature. The wines are structured and tannic; excessive warmth amplifies alcohol and makes tannins seem harsher. Decanting is recommended for wines under 10 years old.
 
-Whites should be served at 10-12°C—cool enough to preserve freshness, warm enough to allow texture and complexity to emerge.
+Whites should be served at 10-12°C, cool enough to preserve freshness, warm enough to allow texture and complexity to emerge.
 
 ### Food Pairing
 
@@ -218,4 +218,4 @@ Stellenbosch stands at a crossroads. Climate change is real, and the region's wi
 
 But the region's greatest asset may be its willingness to question assumptions. Cabernet Sauvignon dominance? Being reconsidered. Oak regimes? Dialed back. Old-vine Chenin Blanc? Finally getting the respect it deserves.
 
-Stellenbosch learned to walk in the 1600s. It learned to run in the 1990s. Now it's learning to adapt—and that may be the most important skill of all.
+Stellenbosch learned to walk in the 1600s. It learned to run in the 1990s. Now it's learning to adapt, and that may be the most important skill of all.

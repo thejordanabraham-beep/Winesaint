@@ -58,11 +58,11 @@ Sustainable and biodynamic practices have gained increasing adoption among Chamb
 
 ## Wine Character & Style
 
-Chambertin produces wines of extraordinary complexity, power, and elegance that epitomize Pinot Noir's highest expression. The aromatic profile typically features intense red and black fruit notes—cherry, raspberry, blackberry, and cassis—interwoven with distinctive mineral undertones derived from the limestone-rich terroir. These fruit characteristics evolve significantly with age, developing into more complex expressions of dried fruits, leather, earth, and exotic spices.
+Chambertin produces wines of extraordinary complexity, power, and elegance that epitomize Pinot Noir's highest expression. The aromatic profile typically features intense red and black fruit notes (cherry, raspberry, blackberry, and cassis) interwoven with distinctive mineral undertones derived from the limestone-rich terroir. These fruit characteristics evolve significantly with age, developing into more complex expressions of dried fruits, leather, earth, and exotic spices.
 
 The structural foundation of Chambertin reveals remarkable depth and sophistication. Tannins display both power and refinement, providing substantial backbone without overwhelming the wine's inherent elegance. The limestone terroir contributes natural acidity that maintains freshness even in ripe vintages, while the complex soil profile generates multi-layered mineral components that emerge gradually during the wine's evolution.
 
-Texture represents perhaps Chambertin's most distinctive characteristic—a silky yet substantial mouthfeel that combines density with finesse. Young wines often display considerable intensity and concentration, yet never at the expense of elegance or terroir expression. The interplay between fruit richness and mineral precision creates a tension that defines great Chambertin and distinguishes it from more straightforward expressions of Pinot Noir.
+Texture represents perhaps Chambertin's most distinctive characteristic: a silky yet substantial mouthfeel that combines density with finesse. Young wines often display considerable intensity and concentration, yet never at the expense of elegance or terroir expression. The interplay between fruit richness and mineral precision creates a tension that defines great Chambertin and distinguishes it from more straightforward expressions of Pinot Noir.
 
 Color intensity in Chambertin typically ranges from deep ruby to garnet, depending on vintage conditions and winemaking approaches. The wine's visual presentation often hints at its extraordinary depth, displaying the concentrated core and subtle color gradations that suggest complex development potential.
 
@@ -122,7 +122,7 @@ Vintage variation impacts aging potential considerably, with cooler years often 
 
 Chambertin occupies the pinnacle of Burgundy's pricing structure, with wines from top producers commanding prices that reflect both rarity and quality. Current market pricing typically ranges from $800-2,000 per bottle for recent vintages from established producers, while mature vintages from legendary domaines can exceed $5,000-10,000 per bottle at auction.
 
-The extreme rarity of authentic Chambertin—total annual production rarely exceeds 40,000 bottles globally—ensures continued collector demand and price appreciation. This scarcity is compounded by the wine's extended aging requirement, as most bottles require decade-long cellaring before approaching maturity, removing substantial quantities from active circulation.
+The extreme rarity of authentic Chambertin (total annual production rarely exceeds 40,000 bottles globally) ensures continued collector demand and price appreciation. This scarcity is compounded by the wine's extended aging requirement, as most bottles require decade-long cellaring before approaching maturity, removing substantial quantities from active circulation.
 
 Collector interest focuses particularly on specific producers with established track records, vintage reputation, and provenance certainty. Armand Rousseau, Leroy, and historic bottlings from deceased vignerons like Henri Jayer's Chambertin command premium prices that reflect both quality and investment potential.
 

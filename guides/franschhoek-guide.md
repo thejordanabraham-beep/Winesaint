@@ -2,21 +2,21 @@
 
 Franschhoek produces some of South Africa's most compelling wines in what may be the country's most constrained geography. This is not a subtle distinction. While neighboring Stellenbosch sprawls across 17,000 hectares of vines, Franschhoek compresses roughly 1,200 hectares into a narrow valley flanked by mountains that reach 1,800 meters. The result? Extreme mesoclimate variation, radical aspect differences, and terroir diversity that would embarrass regions ten times its size.
 
-The valley's name—"French Corner" in Afrikaans—references the Huguenot refugees who arrived in 1688, though their actual viticultural impact has been wildly overstated. The Huguenots brought religious conviction and farming knowledge, but modern Franschhoek owes far more to geology laid down 500 million years ago and to the replanting revolution that began in the 1990s.
+The valley's name ("French Corner" in Afrikaans) references the Huguenot refugees who arrived in 1688, though their actual viticultural impact has been wildly overstated. The Huguenots brought religious conviction and farming knowledge, but modern Franschhoek owes far more to geology laid down 500 million years ago and to the replanting revolution that began in the 1990s.
 
-What makes Franschhoek genuinely distinctive is its geology-climate intersection. The valley sits at the convergence of three major soil formations—Table Mountain Sandstone, Malmesbury Shale, and Cape Granite—creating a patchwork of terroirs compressed into roughly 15 kilometers. Add extreme elevation variation (150 to 600 meters within vineyard sites), aspect diversity (from cool southeast-facing slopes to warm northwest exposures), and you have conditions that can ripen Sauvignon Blanc and Cabernet Sauvignon with equal success, sometimes within a kilometer of each other.
+What makes Franschhoek genuinely distinctive is its geology-climate intersection. The valley sits at the convergence of three major soil formations (Table Mountain Sandstone, Malmesbury Shale, and Cape Granite) creating a patchwork of terroirs compressed into roughly 15 kilometers. Add extreme elevation variation (150 to 600 meters within vineyard sites), aspect diversity (from cool southeast-facing slopes to warm northwest exposures), and you have conditions that can ripen Sauvignon Blanc and Cabernet Sauvignon with equal success, sometimes within a kilometer of each other.
 
 This is South Africa's Napa Valley in scale and ambition, but with European complexity.
 
 ## GEOLOGY: Where Three Foundations Meet
 
-Franschhoek's geological story begins in the Precambrian, approximately 650-500 million years ago, when the Malmesbury Group formed. These metamorphic rocks—primarily shales and phyllites—constitute the valley floor and lower slopes. They're ancient, marine-deposited sediments that were subsequently compressed and heated, creating layered, often fractured rock that weathers into clay-rich soils.
+Franschhoek's geological story begins in the Precambrian, approximately 650-500 million years ago, when the Malmesbury Group formed. These metamorphic rocks (primarily shales and phyllites) constitute the valley floor and lower slopes. They're ancient, marine-deposited sediments that were subsequently compressed and heated, creating layered, often fractured rock that weathers into clay-rich soils.
 
-The Malmesbury Shale varies considerably in composition. Some sections contain significant quartz veining, others are more purely argillaceous (clay-rich). When weathered, these shales produce deep, fertile soils with good water-holding capacity—excellent for vigorous growth but requiring careful canopy management to avoid excessive yields. The pH typically ranges from 5.5 to 6.5, moderately acidic by South African standards.
+The Malmesbury Shale varies considerably in composition. Some sections contain significant quartz veining, others are more purely argillaceous (clay-rich). When weathered, these shales produce deep, fertile soils with good water-holding capacity, excellent for vigorous growth but requiring careful canopy management to avoid excessive yields. The pH typically ranges from 5.5 to 6.5, moderately acidic by South African standards.
 
-Approximately 510 million years ago, during the Cambrian period, the Cape Granite Suite intruded into the Malmesbury rocks. This coarse-grained, plutonic rock appears most prominently in the Franschhoek mountains themselves and on certain elevated vineyard sites. Where Cape Granite dominates, soils are sandy, well-drained, and relatively infertile—classic conditions for quality viticulture. The granite weathers slowly, producing soils rich in quartz, feldspar, and mica, with pH values often between 6.0 and 7.0.
+Approximately 510 million years ago, during the Cambrian period, the Cape Granite Suite intruded into the Malmesbury rocks. This coarse-grained, plutonic rock appears most prominently in the Franschhoek mountains themselves and on certain elevated vineyard sites. Where Cape Granite dominates, soils are sandy, well-drained, and relatively infertile, classic conditions for quality viticulture. The granite weathers slowly, producing soils rich in quartz, feldspar, and mica, with pH values often between 6.0 and 7.0.
 
-The third major formation is Table Mountain Sandstone (TMS), deposited during the Ordovician period, roughly 450-500 million years ago. This quartzitic sandstone forms the dramatic peaks surrounding the valley—Franschhoek Peak, the Groot Drakenstein, and the Simonsberg massif. TMS rarely appears at vineyard level in Franschhoek proper, but colluvial deposits—material eroded from the mountains and transported downslope—bring TMS-derived material into certain sites, particularly on the valley's eastern edge.
+The third major formation is Table Mountain Sandstone (TMS), deposited during the Ordovician period, roughly 450-500 million years ago. This quartzitic sandstone forms the dramatic peaks surrounding the valley. Franschhoek Peak, the Groot Drakenstein, and the Simonsberg massif. TMS rarely appears at vineyard level in Franschhoek proper, but colluvial deposits (material eroded from the mountains and transported downslope) bring TMS-derived material into certain sites, particularly on the valley's eastern edge.
 
 These colluvial soils, combining sandstone fragments with weathered shale, create some of Franschhoek's most interesting terroirs: well-drained but with sufficient clay to retain moisture, naturally low in fertility, and typically deeper than pure granite-derived soils.
 
@@ -24,13 +24,13 @@ These colluvial soils, combining sandstone fragments with weathered shale, creat
 
 The practical result is a geological mosaic:
 
-- **Valley floor**: Predominantly Malmesbury Shale derivatives, often deep alluvial soils with clay content of 25-40%. These sites require careful variety selection—too vigorous for delicate varieties like Pinot Noir, but excellent for Semillon, Chenin Blanc, and robust reds.
+- **Valley floor**: Predominantly Malmesbury Shale derivatives, often deep alluvial soils with clay content of 25-40%. These sites require careful variety selection, too vigorous for delicate varieties like Pinot Noir, but excellent for Semillon, Chenin Blanc, and robust reds.
 
 - **Mid-slope positions (200-400m elevation)**: Mixed colluvial soils combining shale, granite, and sandstone fragments. Clay content typically 15-30%, with rocky material providing natural drainage. Prime real estate for Cabernet Sauvignon, Syrah, and Chardonnay.
 
 - **Upper slopes and ridges**: Granite-dominated soils, often shallow (30-60cm to bedrock), with clay content below 15%. These sites stress vines naturally, producing lower yields and concentrated fruit. Ideal for Cabernet Franc, Semillon, and increasingly, Chenin Blanc.
 
-Compare this to Stellenbosch, where approximately 60% of vineyard soils derive from granite and 30% from shale, with relatively homogeneous distribution across large areas. Franschhoek inverts this pattern—similar proportions but compressed into a fraction of the space, creating extreme variability within individual farms.
+Compare this to Stellenbosch, where approximately 60% of vineyard soils derive from granite and 30% from shale, with relatively homogeneous distribution across large areas. Franschhoek inverts this pattern, similar proportions but compressed into a fraction of the space, creating extreme variability within individual farms.
 
 The soil depth variation is equally dramatic. Some valley-floor sites have soil profiles exceeding 2 meters, while certain granite ridges show barely 40 centimeters before hitting solid rock. This affects water stress patterns profoundly, particularly given Franschhoek's relatively low rainfall.
 
@@ -42,7 +42,7 @@ The valley receives approximately 800-1,000mm of annual rainfall, with significa
 
 This creates a viticultural paradox: despite being one of South Africa's wetter regions, irrigation is essential. Summer drought is absolute, and the soils' water-holding capacity varies so dramatically that blanket irrigation strategies fail. Granite-based vineyards may require weekly irrigation during January and February, while deeper shale soils might manage on fortnightly schedules.
 
-Growing season temperatures (October-April in the Southern Hemisphere) average 18.5-19.5°C, placing Franschhoek in the warm climate category by international standards—comparable to Napa Valley's cooler sections or the Northern Rhône. However, this average conceals extreme variation.
+Growing season temperatures (October-April in the Southern Hemisphere) average 18.5-19.5°C, placing Franschhoek in the warm climate category by international standards, comparable to Napa Valley's cooler sections or the Northern Rhône. However, this average conceals extreme variation.
 
 ### The Aspect Effect
 
@@ -52,21 +52,21 @@ Franschhoek's valley runs roughly southwest to northeast, with mountains on both
 
 - **Northwest-facing slopes**: Full afternoon sun exposure, often 3-4°C warmer than southeast aspects. These sites accumulate heat rapidly, achieving full phenolic ripeness for Cabernet Sauvignon, Syrah, and Merlot. The challenge is maintaining acid balance, particularly in warmer vintages.
 
-- **Valley floor**: Less aspect-driven but subject to temperature inversions. Cold air drainage creates frost risk in spring (September-October), though significant frost events are rare—perhaps once every 5-7 years. More critically, valley-floor sites experience smaller diurnal temperature ranges, typically 10-12°C versus 14-16°C on slopes.
+- **Valley floor**: Less aspect-driven but subject to temperature inversions. Cold air drainage creates frost risk in spring (September-October), though significant frost events are rare, perhaps once every 5-7 years. More critically, valley-floor sites experience smaller diurnal temperature ranges, typically 10-12°C versus 14-16°C on slopes.
 
 The diurnal range is crucial for quality. Franschhoek's relatively dry air and clear nights allow rapid temperature drops after sunset, preserving aromatic compounds and maintaining acidity. In February, daytime maximums might reach 30-32°C on northwest slopes, but nights regularly drop to 16-18°C. This 14-16°C swing rivals Mendoza and exceeds most Australian regions.
 
 ### Wind Patterns
 
-The valley's orientation creates a natural wind tunnel. The prevailing summer wind—the "Cape Doctor," a strong southeasterly—funnels through the valley, moderating temperatures and reducing disease pressure. Wind speeds can exceed 40 km/h on summer afternoons, enough to stress vines and occasionally damage young shoots.
+The valley's orientation creates a natural wind tunnel. The prevailing summer wind (the "Cape Doctor," a strong southeasterly) funnels through the valley, moderating temperatures and reducing disease pressure. Wind speeds can exceed 40 km/h on summer afternoons, enough to stress vines and occasionally damage young shoots.
 
-This wind is both blessing and curse. It reduces fungal disease pressure dramatically—Franschhoek sees far less botrytis and powdery mildew than Constantia or Elgin—but it also increases evapotranspiration, exacerbating water stress on shallow soils. Canopy management must account for wind exposure; excessive leaf removal on windward sides can lead to sunburn and desiccation.
+This wind is both blessing and curse. It reduces fungal disease pressure dramatically (Franschhoek sees far less botrytis and powdery mildew than Constantia or Elgin) but it also increases evapotranspiration, exacerbating water stress on shallow soils. Canopy management must account for wind exposure; excessive leaf removal on windward sides can lead to sunburn and desiccation.
 
 ### Climate Change Impacts
 
 Like most wine regions globally, Franschhoek has experienced measurable warming. Growing season temperatures have increased approximately 1.2°C since 1990, with more significant warming at night than during the day. The frost-free period has lengthened by roughly 10-15 days, and harvest dates have advanced by 7-12 days depending on variety.
 
-The 2015 and 2016 vintages were exceptionally hot—among the warmest on record—producing ripe, powerful wines that divided opinion. Some producers saw them as heralding a new, richer style; others viewed them as cautionary tales requiring adaptation. The response has included:
+The 2015 and 2016 vintages were exceptionally hot (among the warmest on record) producing ripe, powerful wines that divided opinion. Some producers saw them as heralding a new, richer style; others viewed them as cautionary tales requiring adaptation. The response has included:
 
 - **Elevation seeking**: New plantings increasingly target sites above 400m, where temperatures remain 2-3°C cooler
 - **Aspect reconsideration**: Southeast-facing slopes, once considered marginal for reds, are now producing compelling Cabernet Franc and Syrah
@@ -80,13 +80,13 @@ Franschhoek's plantings reflect South Africa's post-apartheid evolution. In 1990
 
 ### Semillon: The Unsung Hero
 
-Semillon occupies roughly 12% of Franschhoek's plantings—far higher than the South African average of 2-3%. This is the valley's most underappreciated variety and, increasingly, its most distinctive.
+Semillon occupies roughly 12% of Franschhoek's plantings, far higher than the South African average of 2-3%. This is the valley's most underappreciated variety and, increasingly, its most distinctive.
 
-Franschhoek Semillon falls into two camps: the traditional, oaked style and the modern, fresh approach. The traditional wines, often blended with Sauvignon Blanc in Bordeaux proportions, spend 8-12 months in oak (20-40% new) and develop waxy, lanolin textures with citrus and stone fruit complexity. They age remarkably well—15-20 years for the best examples—developing honey, toast, and nutty complexity.
+Franschhoek Semillon falls into two camps: the traditional, oaked style and the modern, fresh approach. The traditional wines, often blended with Sauvignon Blanc in Bordeaux proportions, spend 8-12 months in oak (20-40% new) and develop waxy, lanolin textures with citrus and stone fruit complexity. They age remarkably well (15-20 years for the best examples) developing honey, toast, and nutty complexity.
 
 The modern style minimizes oak, emphasizing Semillon's natural texture and mineral expression. These wines show Meyer lemon, white peach, and a distinctive flinty character, particularly from granite-based sites. The texture is Semillon's calling card: viscous but not heavy, with a phenolic grip that Sauvignon Blanc lacks.
 
-Semillon thrives on Franschhoek's granite slopes, where natural water stress concentrates flavors without excessive alcohol. The variety buds early—a minor frost risk—but ripens mid-season, avoiding both spring cold and late-summer heat spikes. Yields of 6-8 tons/hectare are typical, producing wines of 13-14% alcohol with natural acidity around 6-7 g/L.
+Semillon thrives on Franschhoek's granite slopes, where natural water stress concentrates flavors without excessive alcohol. The variety buds early (a minor frost risk) but ripens mid-season, avoiding both spring cold and late-summer heat spikes. Yields of 6-8 tons/hectare are typical, producing wines of 13-14% alcohol with natural acidity around 6-7 g/L.
 
 The variety's biggest challenge is market perception. International buyers remain skeptical of South African Semillon, associating the variety with Australia or Bordeaux. This is slowly changing as sommeliers discover the wines' quality-to-price ratio.
 
@@ -94,17 +94,17 @@ The variety's biggest challenge is market perception. International buyers remai
 
 Cabernet Sauvignon represents approximately 18% of plantings and produces Franschhoek's most commercially successful wines. The variety's thick skins and late ripening suit the valley's warm, dry autumns, and its affinity for well-drained soils aligns perfectly with granite-based sites.
 
-Franschhoek Cabernet typically shows ripe cassis and blackberry fruit, with herbal notes (eucalyptus, mint) that reflect either site character or viticultural choices. The best examples balance fruit concentration with structural elegance—this is not Napa-level opulence but rather a style closer to Pessac-Léognan or Bolgheri.
+Franschhoek Cabernet typically shows ripe cassis and blackberry fruit, with herbal notes (eucalyptus, mint) that reflect either site character or viticultural choices. The best examples balance fruit concentration with structural elegance: this is not Napa-level opulence but rather a style closer to Pessac-Léognan or Bolgheri.
 
-The variety performs best on mid-slope positions (250-450m elevation) with northwest or west-facing aspects. These sites accumulate sufficient heat for full phenolic ripeness—critical for tannin polymerization—while maintaining acid balance. Harvest typically occurs in late February or early March, at 24-26° Brix, producing wines of 13.5-14.5% alcohol.
+The variety performs best on mid-slope positions (250-450m elevation) with northwest or west-facing aspects. These sites accumulate sufficient heat for full phenolic ripeness (critical for tannin polymerization) while maintaining acid balance. Harvest typically occurs in late February or early March, at 24-26° Brix, producing wines of 13.5-14.5% alcohol.
 
 Franschhoek Cabernet faces stiff domestic competition from Stellenbosch, which has both greater scale and stronger brand recognition. The differentiation lies in elegance: Franschhoek Cabernet tends toward 14% alcohol rather than 15%, with more evident minerality and less overt oak influence. Whether this represents terroir or stylistic choice remains debatable.
 
 ### Syrah/Shiraz: Identity Crisis
 
-Syrah (or Shiraz—the terminology itself signals stylistic confusion) occupies roughly 8% of plantings. The variety arrived in the 1990s during South Africa's "anything but Pinotage" phase and initially produced ripe, New World-styled wines that pleased export markets.
+Syrah (or Shiraz: the terminology itself signals stylistic confusion) occupies roughly 8% of plantings. The variety arrived in the 1990s during South Africa's "anything but Pinotage" phase and initially produced ripe, New World-styled wines that pleased export markets.
 
-The current trajectory is toward cooler sites and more restrained winemaking. Southeast-facing slopes and higher elevations (above 350m) produce Syrah with black pepper, olive tapenade, and charcuterie complexity—distinctly Northern Rhône in character. These wines show 13-14% alcohol, firm tannins, and the variety's characteristic savory edge.
+The current trajectory is toward cooler sites and more restrained winemaking. Southeast-facing slopes and higher elevations (above 350m) produce Syrah with black pepper, olive tapenade, and charcuterie complexity, distinctly Northern Rhône in character. These wines show 13-14% alcohol, firm tannins, and the variety's characteristic savory edge.
 
 The challenge is market positioning. South African Shiraz competes with Australia (established, lower-priced) and the Rhône (prestigious, terroir-driven). Franschhoek's wines fall awkwardly between: more expensive than Australian Shiraz, less recognized than Côte-Rôtie. The solution may lie in single-vineyard bottlings that emphasize site specificity over varietal character.
 
@@ -114,7 +114,7 @@ Chardonnay represents approximately 10% of plantings, concentrated on southeast-
 
 Franschhoek Chardonnay divides between the overtly oaked, buttery style that dominated the 1990s and the more restrained, mineral-driven approach that has emerged since 2010. The modern style emphasizes whole-bunch pressing, wild fermentation, and judicious oak (20-30% new, larger formats). These wines show white peach, citrus, and a distinctive chalky texture, particularly from granite sites.
 
-The best Franschhoek Chardonnays achieve 13-13.5% alcohol with natural acidity around 6-7 g/L—numbers that suggest moderate rather than cool climate. They lack the razor-sharp acidity of Elgin or Hemel-en-Aarde but offer more textural richness and earlier approachability. Age-worthiness is proven—10-15 years for top examples—though the style remains more Meursault than Chablis.
+The best Franschhoek Chardonnays achieve 13-13.5% alcohol with natural acidity around 6-7 g/L, numbers that suggest moderate rather than cool climate. They lack the razor-sharp acidity of Elgin or Hemel-en-Aarde but offer more textural richness and earlier approachability. Age-worthiness is proven (10-15 years for top examples) though the style remains more Meursault than Chablis.
 
 ### Sauvignon Blanc: Commercial Necessity
 
@@ -128,7 +128,7 @@ The variety's future in Franschhoek is uncertain. As climate warming continues, 
 
 Chenin Blanc once dominated Franschhoek but now represents less than 8% of plantings. This is both historical oversight and missed opportunity. Old-vine Chenin (40+ years) on Franschhoek's shale soils produces wines of remarkable complexity: quince, honey, lanolin, and a waxy texture that develops beautifully with age.
 
-The variety's versatility—dry, off-dry, sweet, sparkling—has been both strength and weakness. Franschhoek Chenin lacks clear stylistic identity, ranging from crisp, unoaked wines (13% alcohol, high acid) to rich, barrel-fermented examples (14%+, malo, extended lees aging). The best wines split the difference: partial barrel fermentation, minimal new oak, natural malolactic, and extended lees contact producing wines of 13.5% alcohol with 6-7 g/L acidity.
+The variety's versatility (dry, off-dry, sweet, sparkling) has been both strength and weakness. Franschhoek Chenin lacks clear stylistic identity, ranging from crisp, unoaked wines (13% alcohol, high acid) to rich, barrel-fermented examples (14%+, malo, extended lees aging). The best wines split the difference: partial barrel fermentation, minimal new oak, natural malolactic, and extended lees contact producing wines of 13.5% alcohol with 6-7 g/L acidity.
 
 Chenin's challenge is market perception. International buyers associate the variety with Loire (prestigious but expensive) or bulk South African wine (cheap but undistinguished). Franschhoek's wines fall between, lacking both Loire's cachet and commodity Chenin's price point. This may change as sommeliers increasingly seek textured, age-worthy whites outside Chardonnay.
 
@@ -138,7 +138,7 @@ Cabernet Franc represents less than 3% of plantings but generates disproportiona
 
 Franc's earlier ripening than Cabernet Sauvignon (typically 10-14 days) allows harvest before late-summer heat spikes, preserving aromatics and acid balance. The variety's thinner skins produce more elegant tannins, and its natural acidity (often 6-7 g/L at harvest) provides structural backbone without harshness.
 
-The best Franschhoek Cabernet Franc comes from sites between 300-500m elevation with good sun exposure but afternoon shade. These wines show 13.5-14% alcohol, vibrant acidity, and a savory complexity that improves with 5-10 years of bottle age. They're more Loire than Napa, more Chinon than St. Émilion—a style that resonates with current sommelier preferences.
+The best Franschhoek Cabernet Franc comes from sites between 300-500m elevation with good sun exposure but afternoon shade. These wines show 13.5-14% alcohol, vibrant acidity, and a savory complexity that improves with 5-10 years of bottle age. They're more Loire than Napa, more Chinon than St. Émilion: a style that resonates with current sommelier preferences.
 
 ## WINES: From Méthode Cap Classique to Bordeaux Blends
 
@@ -146,11 +146,11 @@ Franschhoek's wine styles reflect its varietal diversity and stylistic uncertain
 
 ### Méthode Cap Classique: South Africa's Sparkling Wine
 
-Méthode Cap Classique (MCC)—South Africa's term for traditional-method sparkling wine—finds significant expression in Franschhoek. The valley's cool southeast-facing slopes and higher elevations provide conditions for the acid retention and moderate alcohol levels that sparkling wine requires.
+Méthode Cap Classique (MCC), South Africa's term for traditional-method sparkling wine, finds significant expression in Franschhoek. The valley's cool southeast-facing slopes and higher elevations provide conditions for the acid retention and moderate alcohol levels that sparkling wine requires.
 
 MCC production follows Champagne methodology: whole-bunch pressing, primary fermentation in tank or barrel, assemblage, secondary fermentation in bottle, and extended lees aging (minimum 12 months, often 24-48 months for premium cuvées). The primary varieties are Chardonnay and Pinot Noir, with occasional Pinot Meunier.
 
-Franschhoek MCC typically shows riper fruit character than Champagne—more stone fruit and citrus, less green apple and brioche—reflecting warmer base wine production. Dosage levels vary widely, from Brut Nature (0-3 g/L) to Brut (6-12 g/L), with some producers experimenting with higher dosage for richer styles.
+Franschhoek MCC typically shows riper fruit character than Champagne (more stone fruit and citrus, less green apple and brioche) reflecting warmer base wine production. Dosage levels vary widely, from Brut Nature (0-3 g/L) to Brut (6-12 g/L), with some producers experimenting with higher dosage for richer styles.
 
 The category's challenge is price positioning. Quality MCC requires significant investment (minimum 2-3 years from harvest to release, expensive bottles and closures, labor-intensive riddling), yet market perception limits pricing to €15-25 retail. This makes MCC economically marginal for many producers, despite quality that often rivals Champagne at half the price.
 
@@ -158,9 +158,9 @@ The category's challenge is price positioning. Quality MCC requires significant 
 
 White blends, typically Semillon-Sauvignon Blanc in varying proportions, represent Franschhoek's most distinctive white wine style. These wines range from Sauvignon-dominant (60-80%) blends emphasizing freshness and aromatics to Semillon-dominant (60-80%) blends prioritizing texture and age-worthiness.
 
-The best examples combine Sauvignon's aromatic intensity and acid backbone with Semillon's textural richness and complexity. Winemaking typically involves separate variety fermentation—Sauvignon Blanc in stainless steel to preserve aromatics, Semillon in oak (20-40% new) for texture—followed by assemblage and extended lees aging (6-12 months).
+The best examples combine Sauvignon's aromatic intensity and acid backbone with Semillon's textural richness and complexity. Winemaking typically involves separate variety fermentation (Sauvignon Blanc in stainless steel to preserve aromatics, Semillon in oak (20-40% new) for texture) followed by assemblage and extended lees aging (6-12 months).
 
-These wines show citrus, stone fruit, and herbal complexity, with a waxy, lanolin texture and mineral finish. Alcohol typically ranges from 13-14%, with acidity around 6-7 g/L. They age well—10-15 years for top examples—developing honey, toast, and nutty complexity.
+These wines show citrus, stone fruit, and herbal complexity, with a waxy, lanolin texture and mineral finish. Alcohol typically ranges from 13-14%, with acidity around 6-7 g/L. They age well (10-15 years for top examples) developing honey, toast, and nutty complexity.
 
 ### Red Blends: Bordeaux Meets Rhône
 
@@ -174,9 +174,9 @@ Rhône-styled blends remain less common but are increasing. These typically feat
 
 ## APPELLATIONS AND WARDS: Administrative Geography
 
-South Africa's Wine of Origin (WO) system, established in 1973, provides geographical authentication but limited quality indication. Franschhoek itself is a "ward"—a sub-region within the larger Coastal Region, which also includes Stellenbosch, Paarl, and Constantia.
+South Africa's Wine of Origin (WO) system, established in 1973, provides geographical authentication but limited quality indication. Franschhoek itself is a "ward", a sub-region within the larger Coastal Region, which also includes Stellenbosch, Paarl, and Constantia.
 
-The WO system requires that 100% of grapes come from the stated region, vintage (if specified), and variety (if specified at 85% or greater). It does not regulate yields, vineyard practices, or winemaking methods—these remain producer decisions.
+The WO system requires that 100% of grapes come from the stated region, vintage (if specified), and variety (if specified at 85% or greater). It does not regulate yields, vineyard practices, or winemaking methods: these remain producer decisions.
 
 Within Franschhoek, no official sub-ward divisions exist, though informal terroir recognition is emerging:
 
@@ -185,19 +185,19 @@ Within Franschhoek, no official sub-ward divisions exist, though informal terroi
 - **Drakenstein foothills**: Southeast-facing, cooler, suited to Chardonnay, Sauvignon Blanc, and Pinot Noir
 - **Upper valley (toward Theewaterskloof Dam)**: Higher elevation, cooler, experimental plantings of Pinot Noir and Chardonnay
 
-This informal terroir mapping lacks official status but increasingly appears in producer marketing and sommelier discourse. Whether formal sub-ward classification emerges depends on producer consensus and regulatory appetite—both uncertain.
+This informal terroir mapping lacks official status but increasingly appears in producer marketing and sommelier discourse. Whether formal sub-ward classification emerges depends on producer consensus and regulatory appetite, both uncertain.
 
 ## PRACTICAL MATTERS: Drinking, Serving, Buying
 
 ### Food Pairing
 
-Franschhoek's wine styles suit both traditional Cape cuisine and modern fine dining. The region's Semillon-based whites pair exceptionally with linefish (yellowtail, kingklip) prepared simply—grilled with lemon and herbs. The waxy texture and citrus notes complement the fish's richness without overwhelming delicate flavors.
+Franschhoek's wine styles suit both traditional Cape cuisine and modern fine dining. The region's Semillon-based whites pair exceptionally with linefish (yellowtail, kingklip) prepared simply, grilled with lemon and herbs. The waxy texture and citrus notes complement the fish's richness without overwhelming delicate flavors.
 
-Cabernet-based blends match classic preparations of Karoo lamb—the region's signature protein. The wines' firm tannins and moderate alcohol (compared to Napa Cabernet) suit slow-roasted lamb shoulder or grilled chops with rosemary. The herbal notes in the wine echo the lamb's natural flavors, while the tannins cut through the fat.
+Cabernet-based blends match classic preparations of Karoo lamb: the region's signature protein. The wines' firm tannins and moderate alcohol (compared to Napa Cabernet) suit slow-roasted lamb shoulder or grilled chops with rosemary. The herbal notes in the wine echo the lamb's natural flavors, while the tannins cut through the fat.
 
-Syrah-based wines pair well with game—springbok, kudu, or ostrich—particularly when prepared with peppercorn crusts or rich, reduced sauces. The variety's savory character and firm structure complement game's lean, intense flavors without requiring the heavy saucing that richer wines demand.
+Syrah-based wines pair well with game (springbok, kudu, or ostrich) particularly when prepared with peppercorn crusts or rich, reduced sauces. The variety's savory character and firm structure complement game's lean, intense flavors without requiring the heavy saucing that richer wines demand.
 
-MCC sparkling wines suit the Cape's seafood bounty—West Coast oysters, Saldanha Bay mussels, or Cape crayfish. The wines' citrus notes and crisp acidity refresh the palate between bites, while the mousse provides textural contrast to the seafood's brininess.
+MCC sparkling wines suit the Cape's seafood bounty. West Coast oysters, Saldanha Bay mussels, or Cape crayfish. The wines' citrus notes and crisp acidity refresh the palate between bites, while the mousse provides textural contrast to the seafood's brininess.
 
 ### Serving Temperatures
 
@@ -231,7 +231,7 @@ The region's red wines, in particular, suffer from over-warming. At 20°C+, alco
 
 **Rating scale**: 95-100 (Exceptional), 90-94 (Excellent), 85-89 (Very Good), 80-84 (Good), Below 80 (Average to Poor)
 
-The 2015 vintage stands as the decade's benchmark—warm but not excessive, with full phenolic ripeness and balanced acidity. The 2021 vintage may ultimately rival it, showing more moderate alcohol and vibrant freshness. The 2018 vintage, while concentrated, shows the stress of severe drought; wines are powerful but sometimes lack harmony.
+The 2015 vintage stands as the decade's benchmark, warm but not excessive, with full phenolic ripeness and balanced acidity. The 2021 vintage may ultimately rival it, showing more moderate alcohol and vibrant freshness. The 2018 vintage, while concentrated, shows the stress of severe drought; wines are powerful but sometimes lack harmony.
 
 ### Buying Strategies
 
@@ -266,7 +266,7 @@ The future likely involves:
 - **Single-vineyard focus**: Emphasizing terroir specificity over varietal character
 - **Sustainable certification**: Responding to export market demands and environmental concerns
 
-Franschhoek's greatest asset remains its geological and climatic diversity compressed into a small, manageable area. This allows producers to experiment, to plant multiple varieties, to discover what works where—a luxury that larger regions lack. Whether this potential translates into international recognition depends on producer discipline, marketing sophistication, and the global wine market's appetite for complexity over simplicity.
+Franschhoek's greatest asset remains its geological and climatic diversity compressed into a small, manageable area. This allows producers to experiment, to plant multiple varieties, to discover what works where: a luxury that larger regions lack. Whether this potential translates into international recognition depends on producer discipline, marketing sophistication, and the global wine market's appetite for complexity over simplicity.
 
 The wines are already excellent. The question is whether the world will notice.
 

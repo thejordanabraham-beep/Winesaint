@@ -12,11 +12,11 @@ The history of Côte de Savant, like many Chablis climats, likely extends back c
 
 ## Terroir & Geology
 
-The terroir of Côte de Savant is fundamentally defined by the same geological marvel that makes all of Chablis unique: Kimmeridgian marl. This ancient marine sediment, deposited during the Late Jurassic period approximately 150 million years ago, contains countless fossilized oyster shells (Exogyra virgula) and other marine organisms. This limestone-rich, clay-bearing soil is not merely a geological curiosity—it is the foundation of Chablis's distinctive character and the source of the legendary minerality that defines these wines.
+The terroir of Côte de Savant is fundamentally defined by the same geological marvel that makes all of Chablis unique: Kimmeridgian marl. This ancient marine sediment, deposited during the Late Jurassic period approximately 150 million years ago, contains countless fossilized oyster shells (Exogyra virgula) and other marine organisms. This limestone-rich, clay-bearing soil is not merely a geological curiosity, it is the foundation of Chablis's distinctive character and the source of the legendary minerality that defines these wines.
 
-The Kimmeridgian soils of Côte de Savant provide several crucial benefits to vine cultivation. The limestone component offers excellent drainage, preventing waterlogging while the clay fraction retains sufficient moisture during dry periods—a valuable insurance policy in an era of increasingly variable weather patterns. The alkaline pH of these soils naturally limits vine vigor, encouraging the vines to produce smaller berries with more concentrated flavors and higher skin-to-juice ratios.
+The Kimmeridgian soils of Côte de Savant provide several crucial benefits to vine cultivation. The limestone component offers excellent drainage, preventing waterlogging while the clay fraction retains sufficient moisture during dry periods: a valuable insurance policy in an era of increasingly variable weather patterns. The alkaline pH of these soils naturally limits vine vigor, encouraging the vines to produce smaller berries with more concentrated flavors and higher skin-to-juice ratios.
 
-Perhaps most importantly, the mineral composition of these ancient seabeds imparts something ineffable to the wines—that distinctive "pierre à fusil" (gunflint) character, the saline note, the sense of drinking liquefied stone that makes Chablis immediately recognizable to those familiar with the region. In Côte de Savant, this minerality expresses itself with particular clarity, providing a steely backbone to the wine's fruit flavors.
+Perhaps most importantly, the mineral composition of these ancient seabeds imparts something ineffable to the wines, that distinctive "pierre à fusil" (gunflint) character, the saline note, the sense of drinking liquefied stone that makes Chablis immediately recognizable to those familiar with the region. In Côte de Savant, this minerality expresses itself with particular clarity, providing a steely backbone to the wine's fruit flavors.
 
 The vineyard's exposure and elevation play equally critical roles in shaping its character. Premier Cru sites in Chablis are typically positioned on slopes with favorable southeastern to southwestern aspects, maximizing solar exposure in this marginal climate where Chardonnay is pushed to its northern limits in France. These slopes also provide crucial air drainage, allowing cold air to flow downward on frosty spring nights, reducing the risk of devastating frost damage that has historically plagued Chablis viticulture.
 
@@ -24,27 +24,27 @@ The mesoclimate of Côte de Savant, influenced by its specific positioning withi
 
 ## Wine Character
 
-Wines from Côte de Savant express the classic Chablis Premier Cru profile with particular elegance and precision. These are wines of restraint and architectural purity rather than exuberance—more about structure, tension, and nuance than obvious fruit or oak influence.
+Wines from Côte de Savant express the classic Chablis Premier Cru profile with particular elegance and precision. These are wines of restraint and architectural purity rather than exuberance, more about structure, tension, and nuance than obvious fruit or oak influence.
 
-On the nose, Côte de Savant typically presents a refined bouquet of citrus fruits—lemon zest, green apple, and subtle white grapefruit notes—often accompanied by white flowers, particularly acacia and chamomile. As the wines develop, stone fruit notes may emerge—white peach and nectarine—but always maintaining a cool-climate freshness. The mineral signature is often immediately apparent: wet stones, chalk, oyster shell, and that distinctive flinty character that seems to capture the essence of the Kimmeridgian soils.
+On the nose, Côte de Savant typically presents a refined bouquet of citrus fruits (lemon zest, green apple, and subtle white grapefruit notes) often accompanied by white flowers, particularly acacia and chamomile. As the wines develop, stone fruit notes may emerge (white peach and nectarine) but always maintaining a cool-climate freshness. The mineral signature is often immediately apparent: wet stones, chalk, oyster shell, and that distinctive flinty character that seems to capture the essence of the Kimmeridgian soils.
 
-The palate reveals the true character of Premier Cru Chablis. Côte de Savant wines typically display vibrant, mouth-watering acidity—the hallmark of great Chardonnay from cool climates—that provides both freshness and remarkable aging potential. This acidity is not harsh or green, but rather precisely integrated, giving the wine energy and lift. The texture tends toward the medium-bodied, with a fine, almost saline minerality running through the wine's core like a wire providing structure and direction.
+The palate reveals the true character of Premier Cru Chablis. Côte de Savant wines typically display vibrant, mouth-watering acidity (the hallmark of great Chardonnay from cool climates) that provides both freshness and remarkable aging potential. This acidity is not harsh or green, but rather precisely integrated, giving the wine energy and lift. The texture tends toward the medium-bodied, with a fine, almost saline minerality running through the wine's core like a wire providing structure and direction.
 
-The flavor profile mirrors the aromatics but with added depth and complexity. Citrus dominates—particularly lemon and lime—but there's often a subtle salinity, a whisper of iodine or sea breeze that recalls the maritime origins of the Kimmeridgian marl. Depending on winemaking approach, there may be subtle notes of hazelnut, brioche, or butter from lees contact or judicious oak use, but in well-made examples, these never overwhelm the fundamental expression of place.
+The flavor profile mirrors the aromatics but with added depth and complexity. Citrus dominates (particularly lemon and lime) but there's often a subtle salinity, a whisper of iodine or sea breeze that recalls the maritime origins of the Kimmeridgian marl. Depending on winemaking approach, there may be subtle notes of hazelnut, brioche, or butter from lees contact or judicious oak use, but in well-made examples, these never overwhelm the fundamental expression of place.
 
-Compared to the more powerful Premier Crus like Montée de Tonnerre, which can show greater weight and aging potential, Côte de Savant tends toward greater finesse and immediate approachability while still maintaining the structure for medium to long-term cellaring. It may show more delicacy than the robust Vaillons or the concentrated intensity of Montmains, positioning it as an example of elegance over power—the satin glove rather than the iron fist.
+Compared to the more powerful Premier Crus like Montée de Tonnerre, which can show greater weight and aging potential, Côte de Savant tends toward greater finesse and immediate approachability while still maintaining the structure for medium to long-term cellaring. It may show more delicacy than the robust Vaillons or the concentrated intensity of Montmains, positioning it as an example of elegance over power: the satin glove rather than the iron fist.
 
 The finish in quality examples is persistent and pure, with the mineral notes and acidity extending long after swallowing. This length is a hallmark of Premier Cru quality and one of the features that distinguishes these wines from village-level Chablis.
 
 ## Viticulture & Production
 
-Côte de Savant, like all Chablis, is planted exclusively to Chardonnay—the only permitted variety for the appellation. The vines are typically trained using the Guyot or Cordon de Royat systems, adapted to the needs of this cool climate and the specific characteristics of each parcel.
+Côte de Savant, like all Chablis, is planted exclusively to Chardonnay: the only permitted variety for the appellation. The vines are typically trained using the Guyot or Cordon de Royat systems, adapted to the needs of this cool climate and the specific characteristics of each parcel.
 
-Viticulture in Chablis, and in Côte de Savant specifically, has evolved considerably in recent decades. Modern growers balance traditional practices with contemporary understanding of vine physiology and sustainable agriculture. Canopy management is crucial—ensuring adequate sun exposure for the grapes while maintaining sufficient leaf area for photosynthesis in this northern climate. Many producers have moved toward more sustainable or organic practices, recognizing that healthy soils and balanced vines produce the most authentic expressions of terroir.
+Viticulture in Chablis, and in Côte de Savant specifically, has evolved considerably in recent decades. Modern growers balance traditional practices with contemporary understanding of vine physiology and sustainable agriculture. Canopy management is crucial, ensuring adequate sun exposure for the grapes while maintaining sufficient leaf area for photosynthesis in this northern climate. Many producers have moved toward more sustainable or organic practices, recognizing that healthy soils and balanced vines produce the most authentic expressions of terroir.
 
-Frost protection remains a perennial concern. The spring frosts that can devastate Chablis vineyards—as occurred dramatically in 2016 and 2017—require vigilant protection measures. Many growers employ various techniques: aspersion (sprinkler systems that coat vines in protective ice), smudge pots, or wind machines to circulate warmer air. These investments are essential but expensive, particularly challenging for smaller producers working with limited parcels.
+Frost protection remains a perennial concern. The spring frosts that can devastate Chablis vineyards (as occurred dramatically in 2016 and 2017) require vigilant protection measures. Many growers employ various techniques: aspersion (sprinkler systems that coat vines in protective ice), smudge pots, or wind machines to circulate warmer air. These investments are essential but expensive, particularly challenging for smaller producers working with limited parcels.
 
-Côte de Savant is among the smaller Premier Cru designations in terms of production volume, with relatively limited vineyard area under vine. This scarcity contributes to its lesser-known status but also means that bottles reaching the market represent genuine limited production—attractive to collectors seeking less-commercial expressions of Premier Cru Chablis.
+Côte de Savant is among the smaller Premier Cru designations in terms of production volume, with relatively limited vineyard area under vine. This scarcity contributes to its lesser-known status but also means that bottles reaching the market represent genuine limited production, attractive to collectors seeking less-commercial expressions of Premier Cru Chablis.
 
 Yields in Premier Cru vineyards are regulated by appellation law, with a base yield of 58 hectoliters per hectare (though this can be adjusted slightly by annual decree based on vintage conditions). Quality-focused producers often harvest below these limits, preferring concentration and intensity over volume.
 
@@ -56,34 +56,34 @@ Winemaking philosophy for Côte de Savant varies by producer, reflecting the bro
 
 The traditional Chablis approach emphasizes purity and minerality, fermenting and aging the wine in stainless steel or neutral containers to preserve the direct expression of terroir. This produces wines of crystalline clarity and precision, where the Kimmeridgian minerality shines without interference. Many producers favor this approach for Premier Crus, believing it best captures the unique character of each climat.
 
-However, other producers employ a more Burgundian approach, fermenting in oak barrels (typically 228-liter pièces) and aging on fine lees with periodic bâtonnage (lees stirring). The oak is usually older (several years old) and the proportion of new oak minimal for Premier Crus—perhaps 10-20% at most. This technique adds texture, subtle complexity, and a rounder mouthfeel without overwhelming the wine's fundamental character. When done skillfully, oak integration can actually enhance the wine's ageability and add layers of complexity.
+However, other producers employ a more Burgundian approach, fermenting in oak barrels (typically 228-liter pièces) and aging on fine lees with periodic bâtonnage (lees stirring). The oak is usually older (several years old) and the proportion of new oak minimal for Premier Crus, perhaps 10-20% at most. This technique adds texture, subtle complexity, and a rounder mouthfeel without overwhelming the wine's fundamental character. When done skillfully, oak integration can actually enhance the wine's ageability and add layers of complexity.
 
-Most producers employ some form of malolactic fermentation, though practices vary. Complete malolactic conversion creates a softer, rounder wine, while partial or blocked malolactic preserves more vivid acidity and freshness. The choice often depends on vintage conditions—warmer years may benefit from retained malic acid, while cooler vintages might profit from the softening effect of malolactic conversion.
+Most producers employ some form of malolactic fermentation, though practices vary. Complete malolactic conversion creates a softer, rounder wine, while partial or blocked malolactic preserves more vivid acidity and freshness. The choice often depends on vintage conditions, warmer years may benefit from retained malic acid, while cooler vintages might profit from the softening effect of malolactic conversion.
 
 Aging on lees (sur lie) is nearly universal, typically lasting 8-12 months. This contact with dead yeast cells adds texture, complexity, and subtle autolytic characters (bread dough, brioche) while also providing natural protection against oxidation. The duration and degree of lees stirring significantly influence the final wine's texture and weight.
 
 ## Producers
 
-Given Côte de Savant's status as a smaller Premier Cru, production is typically limited to a handful of domaines with holdings in this climat. These parcels may be quite small—perhaps only a few rows of vines—making the wines genuinely rare.
+Given Côte de Savant's status as a smaller Premier Cru, production is typically limited to a handful of domaines with holdings in this climat. These parcels may be quite small (perhaps only a few rows of vines) making the wines genuinely rare.
 
 Producers working with Côte de Savant parcels may include both established Chablis names and smaller grower-producers. These vignerons typically have holdings across multiple Premier Cru sites, allowing them to showcase the subtle differences between climats. When encountering a bottle of Côte de Savant, you're likely experiencing either a domaine bottling from a grower who owns vines there, or possibly a négociant bottling from a merchant who has purchased grapes or wine from the site.
 
-The relative obscurity of Côte de Savant compared to famous Premier Crus can actually work to the advantage of consumers—these wines often offer exceptional quality-to-price ratios, as they don't command the premiums associated with more famous names. Knowledgeable buyers seeking authentic Premier Cru Chablis at fair prices should actively seek out these lesser-known climats.
+The relative obscurity of Côte de Savant compared to famous Premier Crus can actually work to the advantage of consumers: these wines often offer exceptional quality-to-price ratios, as they don't command the premiums associated with more famous names. Knowledgeable buyers seeking authentic Premier Cru Chablis at fair prices should actively seek out these lesser-known climats.
 
-When evaluating producers of Côte de Savant, look for domaines with a reputation for terroir-driven winemaking, careful viticulture, and appropriate use (or non-use) of oak. The producer's overall portfolio quality is often the best indicator—if their other Premier Crus show well, their Côte de Savant likely will too.
+When evaluating producers of Côte de Savant, look for domaines with a reputation for terroir-driven winemaking, careful viticulture, and appropriate use (or non-use) of oak. The producer's overall portfolio quality is often the best indicator, if their other Premier Crus show well, their Côte de Savant likely will too.
 
 ## Aging & Service
 
-Côte de Savant, as a Premier Cru, possesses considerable aging potential. While it can be enjoyed relatively young—after 2-3 years when the primary fruit is still vibrant—these wines truly reveal their complexity with cellaring.
+Côte de Savant, as a Premier Cru, possesses considerable aging potential. While it can be enjoyed relatively young (after 2-3 years when the primary fruit is still vibrant) these wines truly reveal their complexity with cellaring.
 
 In the medium term (5-8 years), the wines develop additional nuance. The citrus fruit becomes more complex, honeyed notes emerge, and the minerality becomes more integrated and textured. The texture also evolves, becoming more supple and silky while maintaining the characteristic Chablis tension.
 
-With extended cellaring (10-15+ years for excellent vintages), Côte de Savant can reach a fascinating tertiary stage. The color deepens to old gold, the aromatics shift toward dried fruits, honey, beeswax, and mushroom, while the mineral core remains as a constant thread. Old Chablis develops an almost Burgundian richness while retaining its fundamental identity—a remarkable transformation worth experiencing.
+With extended cellaring (10-15+ years for excellent vintages), Côte de Savant can reach a fascinating tertiary stage. The color deepens to old gold, the aromatics shift toward dried fruits, honey, beeswax, and mushroom, while the mineral core remains as a constant thread. Old Chablis develops an almost Burgundian richness while retaining its fundamental identity: a remarkable transformation worth experiencing.
 
 Storage is crucial for aging potential. Chablis should be kept at cool, stable temperatures (10-13°C ideal), with adequate humidity and darkness. The natural high acidity and mineral structure act as preservatives, but proper storage conditions are essential.
 
 **Serving recommendations:**
-- **Temperature:** 10-12°C (50-54°F)—cool but not ice-cold, which would mute the aromatics and complexity
+- **Temperature:** 10-12°C (50-54°F), cool but not ice-cold, which would mute the aromatics and complexity
 - **Glassware:** A tulip-shaped white Burgundy glass with adequate bowl size to concentrate aromatics
 - **Decanting:** Generally unnecessary for young to moderately aged bottles, though heavily aged examples might benefit from 30 minutes of breathing
 
@@ -91,11 +91,11 @@ Storage is crucial for aging potential. Chablis should be kept at cool, stable t
 
 Côte de Savant's mineral intensity, vibrant acidity, and medium body make it exceptionally food-friendly. Classic pairings include:
 
-**Shellfish:** The legendary pairing—raw oysters, particularly Brittany oysters or other European varieties, find their perfect partner in Chablis Premier Cru. The wine's salinity and minerality create a seamless bridge with the briny sweetness of oysters.
+**Shellfish:** The legendary pairing, raw oysters, particularly Brittany oysters or other European varieties, find their perfect partner in Chablis Premier Cru. The wine's salinity and minerality create a seamless bridge with the briny sweetness of oysters.
 
 **Cooked shellfish:** Scallops (especially with butter or light cream sauce), langoustines, crab, lobster, and prawns all shine with Côte de Savant. The wine's acidity cuts through richness while its delicate fruit complements sweet shellfish meat.
 
-**Fish:** Poached, grilled, or roasted white fish—sole, turbot, sea bass, halibut—particularly with beurre blanc, light cream sauces, or simply with lemon and herbs.
+**Fish:** Poached, grilled, or roasted white fish (sole, turbot, sea bass, halibut) particularly with beurre blanc, light cream sauces, or simply with lemon and herbs.
 
 **Chicken and pork:** Roasted or poached chicken, especially in cream-based preparations. Pork tenderloin with mushrooms or light apple-based sauces.
 
@@ -107,4 +107,4 @@ The key principle is pairing Côte de Savant with dishes that respect its elegan
 
 ## Conclusion
 
-Côte de Savant represents a compelling entry point into the world of Chablis Premier Cru—a wine that delivers authentic expression of this remarkable terroir without the premium pricing of more famous sites. For those seeking to understand what makes Chablis special, exploring lesser-known Premier Crus like Côte de Savant offers both educational value and drinking pleasure. These wines capture the essence of Kimmeridgian minerality, cool-climate Chardonnay precision, and the unique character that has made Chablis a benchmark appellation for centuries.
+Côte de Savant represents a compelling entry point into the world of Chablis Premier Cru: a wine that delivers authentic expression of this remarkable terroir without the premium pricing of more famous sites. For those seeking to understand what makes Chablis special, exploring lesser-known Premier Crus like Côte de Savant offers both educational value and drinking pleasure. These wines capture the essence of Kimmeridgian minerality, cool-climate Chardonnay precision, and the unique character that has made Chablis a benchmark appellation for centuries.

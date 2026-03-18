@@ -1,58 +1,58 @@
 # Burgenland: Austria's Pannonian Powerhouse
 
-Burgenland produces Austria's most hedonistic wines. This is not a subtle distinction. While the alpine regions of Austria craft lean, mineral-driven expressions, Burgenland—tucked against the Hungarian border on the Pannonian Plain—delivers ripeness, concentration, and a breadth of styles unmatched elsewhere in the country. From bone-dry Blaufränkisch that rivals Burgundy's structure to Trockenbeerenauslese of staggering sweetness, this is Austria's warmest, most diverse, and arguably most misunderstood wine region.
+Burgenland produces Austria's most hedonistic wines. This is not a subtle distinction. While the alpine regions of Austria craft lean, mineral-driven expressions, Burgenland (tucked against the Hungarian border on the Pannonian Plain) delivers ripeness, concentration, and a breadth of styles unmatched elsewhere in the country. From bone-dry Blaufränkisch that rivals Burgundy's structure to Trockenbeerenauslese of staggering sweetness, this is Austria's warmest, most diverse, and arguably most misunderstood wine region.
 
-Created in 1921 from former German West Hungary, Burgenland only joined the Austrian Republic after World War I. The region's wine industry remained dormant through Soviet occupation until 1956. Today, it represents roughly 30% of Austria's vineyard area, stretching 160 kilometers along the eastern edge from Bratislava's outskirts to a sliver of border with Slovenia. Croatian remains the state's second language—a reminder of the region's complex Central European identity.
+Created in 1921 from former German West Hungary, Burgenland only joined the Austrian Republic after World War I. The region's wine industry remained dormant through Soviet occupation until 1956. Today, it represents roughly 30% of Austria's vineyard area, stretching 160 kilometers along the eastern edge from Bratislava's outskirts to a sliver of border with Slovenia. Croatian remains the state's second language: a reminder of the region's complex Central European identity.
 
-What makes Burgenland exceptional is not just warmth but contrast. The shallow, warming influence of Neusiedlersee—one of Europe's largest steppe lakes—creates a microclimate of extremes. Morning fog and afternoon sun. Continental heat and lacustrine humidity. This is where botrytis thrives alongside powerful reds, where international varieties coexist with indigenous grapes, where six distinct DACs produce wines with fundamentally different characters within a single administrative region.
+What makes Burgenland exceptional is not just warmth but contrast. The shallow, warming influence of Neusiedlersee (one of Europe's largest steppe lakes) creates a microclimate of extremes. Morning fog and afternoon sun. Continental heat and lacustrine humidity. This is where botrytis thrives alongside powerful reds, where international varieties coexist with indigenous grapes, where six distinct DACs produce wines with fundamentally different characters within a single administrative region.
 
 ## GEOLOGY: Where the Pannonian Plain Meets Alpine Foothills
 
 Burgenland's geological complexity rivals any region in Central Europe. Unlike Lower Austria's granite and loess or Styria's sedimentary patchwork, Burgenland sits at a tectonic crossroads where Danubian deposits, alpine uplift, and ancient seabeds converge.
 
-The dominant feature is the Pannonian Basin's influence. Millennia of Danube activity deposited calcareous sandy gravels across much of the region—free-draining soils that promote early ripening and concentration. These gravels form the foundation for Neusiedlersee's vineyards, particularly around Illmitz and Apetlon, where vines push deep into porous substrates that retain just enough moisture to survive the region's hot, dry summers.
+The dominant feature is the Pannonian Basin's influence. Millennia of Danube activity deposited calcareous sandy gravels across much of the region, free-draining soils that promote early ripening and concentration. These gravels form the foundation for Neusiedlersee's vineyards, particularly around Illmitz and Apetlon, where vines push deep into porous substrates that retain just enough moisture to survive the region's hot, dry summers.
 
-Central Burgenland tells a different story. Here, pockets of silty loam and non-calcareous clays dominate—heavier soils that moderate vigor and delay ripening. These are Blaufränkisch's preferred terroirs. The clay's water retention provides crucial insurance against drought stress, while its density forces roots to work harder, producing wines of remarkable structure and longevity. The best examples from Mittelburgenland—the heart of Blaufränkisch country—come from these clay-rich sites.
+Central Burgenland tells a different story. Here, pockets of silty loam and non-calcareous clays dominate, heavier soils that moderate vigor and delay ripening. These are Blaufränkisch's preferred terroirs. The clay's water retention provides crucial insurance against drought stress, while its density forces roots to work harder, producing wines of remarkable structure and longevity. The best examples from Mittelburgenland (the heart of Blaufränkisch country) come from these clay-rich sites.
 
-Leithaberg, the region's geological outlier, rises as a limestone ridge composed of fossilized sea creatures—pentacrines and shell fragments from a shallow Miocene sea that covered this area 20 million years ago. This is Austria's answer to Burgundy's Côte d'Or, though the comparison only goes so far. Where Burgundy's limestone is primarily calcium carbonate, Leithaberg's fossil-rich substrate includes dolomitic elements and schist intrusions. The result? Wines of pronounced minerality and tension, particularly from Grüner Veltliner and Weissburgunder (Pinot Blanc), that display crystalline precision rarely associated with Burgenland's typically opulent style.
+Leithaberg, the region's geological outlier, rises as a limestone ridge composed of fossilized sea creatures, pentacrines and shell fragments from a shallow Miocene sea that covered this area 20 million years ago. This is Austria's answer to Burgundy's Côte d'Or, though the comparison only goes so far. Where Burgundy's limestone is primarily calcium carbonate, Leithaberg's fossil-rich substrate includes dolomitic elements and schist intrusions. The result? Wines of pronounced minerality and tension, particularly from Grüner Veltliner and Weissburgunder (Pinot Blanc), that display crystalline precision rarely associated with Burgenland's typically opulent style.
 
-Schist and gneiss appear sporadically, particularly in western sections near the foothills. These crystalline rocks—formed under intense heat and pressure—provide excellent drainage and heat retention. Vineyards on these soils ripen fruit reliably even in cooler vintages, producing wines with distinct spice notes and firm tannic structure.
+Schist and gneiss appear sporadically, particularly in western sections near the foothills. These crystalline rocks (formed under intense heat and pressure) provide excellent drainage and heat retention. Vineyards on these soils ripen fruit reliably even in cooler vintages, producing wines with distinct spice notes and firm tannic structure.
 
-The soil diversity creates distinct subregional identities. Neusiedlersee's sandy gravels yield soft, approachable reds and botrytis-affected sweet whites. Mittelburgenland's clays produce age-worthy Blaufränkisch. Leithaberg's limestone crafts elegant, mineral-driven whites and surprisingly refined reds. Eisenberg's iron-rich schist—the name literally means "iron mountain"—imparts a savory, almost metallic edge to its Blaufränkisch. No other Austrian region offers this geological range within such compact geography.
+The soil diversity creates distinct subregional identities. Neusiedlersee's sandy gravels yield soft, approachable reds and botrytis-affected sweet whites. Mittelburgenland's clays produce age-worthy Blaufränkisch. Leithaberg's limestone crafts elegant, mineral-driven whites and surprisingly refined reds. Eisenberg's iron-rich schist (the name literally means "iron mountain") imparts a savory, almost metallic edge to its Blaufränkisch. No other Austrian region offers this geological range within such compact geography.
 
 ## CLIMATE: Pannonian Heat Meets Lacustrine Humidity
 
-Burgenland is Austria's hottest wine region. Average growing season temperatures exceed 18.5°C, placing it firmly in the "warm climate" category—comparable to Rioja or Napa's cooler sites. This is the Pannonian Plain's influence: a continental climate characterized by hot summers, cold winters, and minimal maritime moderation.
+Burgenland is Austria's hottest wine region. Average growing season temperatures exceed 18.5°C, placing it firmly in the "warm climate" category, comparable to Rioja or Napa's cooler sites. This is the Pannonian Plain's influence: a continental climate characterized by hot summers, cold winters, and minimal maritime moderation.
 
-But raw heat tells only part of the story. Neusiedlersee, at just 1.8 meters deep and covering 315 square kilometers, functions as a massive solar collector and humidifier. The lake warms quickly in spring, accelerating budbreak and extending the growing season. By late summer, it creates morning fog that persists until mid-morning—crucial for botrytis development. Without this lacustrine effect, Burgenland's sweet wines wouldn't exist. The fog provides the humidity botrytis requires, while afternoon sunshine concentrates sugars and prevents grey rot.
+But raw heat tells only part of the story. Neusiedlersee, at just 1.8 meters deep and covering 315 square kilometers, functions as a massive solar collector and humidifier. The lake warms quickly in spring, accelerating budbreak and extending the growing season. By late summer, it creates morning fog that persists until mid-morning, crucial for botrytis development. Without this lacustrine effect, Burgenland's sweet wines wouldn't exist. The fog provides the humidity botrytis requires, while afternoon sunshine concentrates sugars and prevents grey rot.
 
-Annual rainfall varies dramatically. Western sections near Sopron receive 700-800mm annually—adequate for viticulture without irrigation. Moving east toward Neusiedlersee, precipitation drops to 550-600mm, with some vineyards receiving barely 500mm. This makes Burgenland one of Austria's driest regions, comparable to parts of Mendoza or Central Otago. Irrigation, while not universal, has become increasingly common, particularly for young vines on sandy soils.
+Annual rainfall varies dramatically. Western sections near Sopron receive 700-800mm annually, adequate for viticulture without irrigation. Moving east toward Neusiedlersee, precipitation drops to 550-600mm, with some vineyards receiving barely 500mm. This makes Burgenland one of Austria's driest regions, comparable to parts of Mendoza or Central Otago. Irrigation, while not universal, has become increasingly common, particularly for young vines on sandy soils.
 
-The region faces significant frost risk. Spring frosts in 2016, 2017, and 2021 devastated yields across Austria, with Burgenland suffering substantial losses. The problem isn't winter cold—vines go fully dormant—but late spring freezes after budbreak. Warmer springs driven by climate change have shifted budbreak earlier, increasing vulnerability. Some producers now employ wind machines and heaters, though these remain expensive solutions for a region of predominantly small growers.
+The region faces significant frost risk. Spring frosts in 2016, 2017, and 2021 devastated yields across Austria, with Burgenland suffering substantial losses. The problem isn't winter cold (vines go fully dormant) but late spring freezes after budbreak. Warmer springs driven by climate change have shifted budbreak earlier, increasing vulnerability. Some producers now employ wind machines and heaters, though these remain expensive solutions for a region of predominantly small growers.
 
-Continental extremes define the growing season. Summer days regularly exceed 35°C, pushing photosynthesis to its limits. Nights cool dramatically—diurnal shifts of 15-20°C are common—preserving acidity and aromatic complexity. This diurnal range separates Burgenland from truly hot regions like Puglia or the Central Valley, where night temperatures remain elevated. The cooling allows Blaufränkisch and Zweigelt to retain freshness despite full phenolic ripeness.
+Continental extremes define the growing season. Summer days regularly exceed 35°C, pushing photosynthesis to its limits. Nights cool dramatically (diurnal shifts of 15-20°C are common) preserving acidity and aromatic complexity. This diurnal range separates Burgenland from truly hot regions like Puglia or the Central Valley, where night temperatures remain elevated. The cooling allows Blaufränkisch and Zweigelt to retain freshness despite full phenolic ripeness.
 
-Climate change has been both blessing and curse. The 1980s and 1990s saw marginal ripening for reds in many vintages. Today, full ripeness is almost guaranteed, and the challenge has shifted to managing alcohol and maintaining balance. Harvest dates have advanced 10-14 days since 1990. Producers increasingly plant later-ripening varieties or seek higher-elevation sites. Some have begun experimenting with Mediterranean varieties—Syrah, Tempranillo—that tolerate heat better than traditional Austrian grapes.
+Climate change has been both blessing and curse. The 1980s and 1990s saw marginal ripening for reds in many vintages. Today, full ripeness is almost guaranteed, and the challenge has shifted to managing alcohol and maintaining balance. Harvest dates have advanced 10-14 days since 1990. Producers increasingly plant later-ripening varieties or seek higher-elevation sites. Some have begun experimenting with Mediterranean varieties (Syrah, Tempranillo) that tolerate heat better than traditional Austrian grapes.
 
 Wind plays an underappreciated role. The region experiences both hot winds from the southeast and cooler currents from the north. These air movements reduce disease pressure and moderate extreme heat, creating better growing conditions than temperature alone would suggest.
 
 ## GRAPES: Indigenous Tradition Meets International Ambition
 
-Burgenland cultivates over 40 approved varieties—more diversity than any other Austrian region. This reflects both historical complexity (multiple empires, shifting borders) and modern ambition (producers seeking optimal variety-terroir matches). The region has embraced international varieties more enthusiastically than Austria's other regions, yet indigenous grapes still define its identity.
+Burgenland cultivates over 40 approved varieties, more diversity than any other Austrian region. This reflects both historical complexity (multiple empires, shifting borders) and modern ambition (producers seeking optimal variety-terroir matches). The region has embraced international varieties more enthusiastically than Austria's other regions, yet indigenous grapes still define its identity.
 
 ### Blaufränkisch
 
-Burgenland's signature red grape, Blaufränkisch accounts for roughly 2,800 hectares—over half Austria's total plantings. Called Lemberger in Germany and Kékfrankos in Hungary, this late-ripening variety produces Austria's most structured, age-worthy reds.
+Burgenland's signature red grape, Blaufränkisch accounts for roughly 2,800 hectares, over half Austria's total plantings. Called Lemberger in Germany and Kékfrankos in Hungary, this late-ripening variety produces Austria's most structured, age-worthy reds.
 
-DNA analysis reveals Blaufränkisch as a natural cross between Gouais Blanc (Heunisch) and an unknown variety. It shares Gouais as a parent with Gamay, Chardonnay, and dozens of other European varieties—evidence of Gouais's promiscuity and utility in medieval viticulture.
+DNA analysis reveals Blaufränkisch as a natural cross between Gouais Blanc (Heunisch) and an unknown variety. It shares Gouais as a parent with Gamay, Chardonnay, and dozens of other European varieties, evidence of Gouais's promiscuity and utility in medieval viticulture.
 
 Blaufränkisch buds relatively late, providing some frost protection, but requires a long, warm growing season to achieve full phenolic ripeness. Harvest typically occurs in mid-to-late October, sometimes extending into November in cooler sites. The variety is moderately vigorous and performs best on clay-rich soils that moderate growth and concentrate flavors.
 
-The best Blaufränkisch comes from Mittelburgenland's heavy clays, particularly around Deutschkreutz, Horitschon, and Neckenmarkt. These wines display dense dark fruit—blackberry, black cherry, plum—with pronounced spice notes (black pepper, clove), firm but fine-grained tannins, and vibrant acidity. They age magnificently, developing tertiary complexity over 10-20 years.
+The best Blaufränkisch comes from Mittelburgenland's heavy clays, particularly around Deutschkreutz, Horitschon, and Neckenmarkt. These wines display dense dark fruit (blackberry, black cherry, plum) with pronounced spice notes (black pepper, clove), firm but fine-grained tannins, and vibrant acidity. They age magnificently, developing tertiary complexity over 10-20 years.
 
-Eisenberg's schist produces a different expression: more savory, with iron-like minerality, dried herbs, and slightly lighter body. Leithaberg's limestone yields the most elegant versions—less powerful but more perfumed, with red fruit notes and chalky texture.
+Eisenberg's schist produces a different expression: more savory, with iron-like minerality, dried herbs, and slightly lighter body. Leithaberg's limestone yields the most elegant versions, less powerful but more perfumed, with red fruit notes and chalky texture.
 
-The Blaufränkisch Myth: Many sources describe Blaufränkisch as "rustic" or "simple." This is wrong—or rather, outdated. Poorly made examples from the 1970s-1990s were often over-cropped, under-ripe, and excessively tannic. Modern viticulture (lower yields, better site selection, physiological ripeness) has revealed Blaufränkisch's true potential: wines of Burgundian structure with Rhône-like power.
+The Blaufränkisch Myth: Many sources describe Blaufränkisch as "rustic" or "simple." This is wrong, or rather, outdated. Poorly made examples from the 1970s-1990s were often over-cropped, under-ripe, and excessively tannic. Modern viticulture (lower yields, better site selection, physiological ripeness) has revealed Blaufränkisch's true potential: wines of Burgundian structure with Rhône-like power.
 
 ### Zweigelt
 
@@ -64,9 +64,9 @@ Quality Zweigelt displays bright cherry and red berry fruit, violet aromatics, s
 
 ### St. Laurent
 
-This Pinot Noir relative covers roughly 400 hectares in Burgenland. DNA analysis confirms St. Laurent as either a Pinot Noir seedling or close relative—the exact relationship remains debated. It shares Pinot's finicky nature: susceptibility to coulure (poor fruit set), sensitivity to rot, and preference for specific terroirs.
+This Pinot Noir relative covers roughly 400 hectares in Burgenland. DNA analysis confirms St. Laurent as either a Pinot Noir seedling or close relative: the exact relationship remains debated. It shares Pinot's finicky nature: susceptibility to coulure (poor fruit set), sensitivity to rot, and preference for specific terroirs.
 
-St. Laurent ripens mid-season, between Zweigelt and Blaufränkisch. It produces deeply colored wines with dark cherry, chocolate, and earthy notes—more structured than Zweigelt, less tannic than Blaufränkisch. The best examples come from Leithaberg and Neusiedlersee's gravel sites.
+St. Laurent ripens mid-season, between Zweigelt and Blaufränkisch. It produces deeply colored wines with dark cherry, chocolate, and earthy notes, more structured than Zweigelt, less tannic than Blaufränkisch. The best examples come from Leithaberg and Neusiedlersee's gravel sites.
 
 The variety fell out of favor in the 1980s-1990s due to viticultural challenges, but quality-focused producers have revived it. Modern clonal selection and better site matching have improved consistency. St. Laurent now appears in both varietal bottlings and blends, adding complexity and mid-palate depth.
 
@@ -74,15 +74,15 @@ The variety fell out of favor in the 1980s-1990s due to viticultural challenges,
 
 Not related to Riesling despite its name, Welschriesling is Burgenland's most important white variety for sweet wines. It covers approximately 1,200 hectares, primarily around Neusiedlersee.
 
-The variety's origins remain obscure—likely from somewhere in Central or Eastern Europe. It ripens mid-to-late season and retains high acidity even at full ripeness, making it ideal for botrytis-affected styles. Welschriesling's relatively neutral character allows botrytis and terroir to express themselves without strong varietal interference.
+The variety's origins remain obscure, likely from somewhere in Central or Eastern Europe. It ripens mid-to-late season and retains high acidity even at full ripeness, making it ideal for botrytis-affected styles. Welschriesling's relatively neutral character allows botrytis and terroir to express themselves without strong varietal interference.
 
-Dry Welschriesling tends toward citrus and green apple, with crisp acidity and light body. Sweet versions—from Auslese through Trockenbeerenauslese—develop honey, apricot, and marmalade notes, balanced by that crucial acidity. The finest Trockenbeerenauslesen from Neusiedlersee can age 20-30+ years, developing extraordinary complexity.
+Dry Welschriesling tends toward citrus and green apple, with crisp acidity and light body. Sweet versions (from Auslese through Trockenbeerenauslese) develop honey, apricot, and marmalade notes, balanced by that crucial acidity. The finest Trockenbeerenauslesen from Neusiedlersee can age 20-30+ years, developing extraordinary complexity.
 
 ### Grüner Veltliner
 
 Austria's national variety plays a supporting role in Burgenland, covering roughly 600 hectares. Most plantings occur in Leithaberg, where limestone soils produce Grüner of pronounced minerality and tension.
 
-Burgenland's Grüner differs markedly from Wachau or Kamptal expressions. The warmer climate yields riper fruit—stone fruit rather than citrus—while Leithaberg's limestone adds chalky texture and saline notes. Alcohol levels typically reach 13-13.5%, higher than northern regions, but the best examples maintain balance through that limestone-derived acidity.
+Burgenland's Grüner differs markedly from Wachau or Kamptal expressions. The warmer climate yields riper fruit (stone fruit rather than citrus) while Leithaberg's limestone adds chalky texture and saline notes. Alcohol levels typically reach 13-13.5%, higher than northern regions, but the best examples maintain balance through that limestone-derived acidity.
 
 ### Weissburgunder (Pinot Blanc)
 
@@ -92,13 +92,13 @@ Leithaberg Weissburgunder displays white stone fruit, subtle spice, and pronounc
 
 ### Chardonnay
 
-Planted on roughly 300 hectares, Chardonnay appears primarily in Leithaberg and northern Neusiedlersee. Burgenland's warm climate produces ripe, textured Chardonnay—more Meursault than Chablis.
+Planted on roughly 300 hectares, Chardonnay appears primarily in Leithaberg and northern Neusiedlersee. Burgenland's warm climate produces ripe, textured Chardonnay, more Meursault than Chablis.
 
 Top producers employ Burgundian techniques: whole-cluster pressing, native fermentation, extended lees aging, judicious oak. The results can be impressive: wines of weight and complexity that balance Pannonian ripeness with limestone-derived freshness.
 
 ### International Varieties
 
-Burgenland cultivates significant plantings of Cabernet Sauvignon, Merlot, Syrah, and other international varieties—unusual for Austria. These grapes thrive in Burgenland's warm climate, producing wines that can compete internationally.
+Burgenland cultivates significant plantings of Cabernet Sauvignon, Merlot, Syrah, and other international varieties, unusual for Austria. These grapes thrive in Burgenland's warm climate, producing wines that can compete internationally.
 
 Cabernet Sauvignon and Merlot appear primarily in Bordeaux-style blends, often incorporating Blaufränkisch or St. Laurent. The best examples come from gravel soils around Neusiedlersee, where drainage and heat retention ensure full ripeness. Syrah remains experimental but shows promise, particularly on schist sites where it develops Northern Rhône-like character.
 
@@ -124,19 +124,19 @@ Burgenland's dry whites have improved dramatically over the past two decades. Le
 
 Leithaberg DAC whites must contain minimum 85% Grüner Veltliner, Weissburgunder, Chardonnay, or Neuburger. The best examples display pronounced minerality, textural richness, and surprising aging potential. They're typically fermented in larger oak formats, aged on lees for 6-12 months, and released after minimum 18 months total aging.
 
-These whites challenge assumptions about Austrian wine. They're riper and more textured than Wachau or Kamptal expressions, with alcohol often reaching 13-14%, yet limestone-derived acidity maintains balance. They pair brilliantly with rich fish, poultry, and cream-based dishes—foods that would overwhelm leaner Austrian whites.
+These whites challenge assumptions about Austrian wine. They're riper and more textured than Wachau or Kamptal expressions, with alcohol often reaching 13-14%, yet limestone-derived acidity maintains balance. They pair brilliantly with rich fish, poultry, and cream-based dishes, foods that would overwhelm leaner Austrian whites.
 
 ### Sweet Wines
 
 Burgenland produces Austria's finest sweet wines, rivaling Sauternes, Tokaji, and German Trockenbeerenauslese. The combination of Neusiedlersee's morning fog and afternoon sun creates ideal botrytis conditions.
 
-The quality hierarchy follows Prädikatswein classifications: Spätlese, Auslese, Beerenauslese (BA), Ausbruch, and Trockenbeerenauslese (TBA). Ausbruch is specific to the town of Rust, requiring minimum must weight of 30°KMW (approximately 156° Oechsle)—between BA and TBA.
+The quality hierarchy follows Prädikatswein classifications: Spätlese, Auslese, Beerenauslese (BA), Ausbruch, and Trockenbeerenauslese (TBA). Ausbruch is specific to the town of Rust, requiring minimum must weight of 30°KMW (approximately 156° Oechsle), between BA and TBA.
 
-Welschriesling dominates sweet wine production, though Chardonnay, Weissburgunder, and other varieties appear. The wines display extraordinary concentration: honey, dried apricot, marmalade, candied citrus, exotic spice. Acidity—crucial for balance and aging—remains vibrant even at 120-150+ g/L residual sugar.
+Welschriesling dominates sweet wine production, though Chardonnay, Weissburgunder, and other varieties appear. The wines display extraordinary concentration: honey, dried apricot, marmalade, candied citrus, exotic spice. Acidity (crucial for balance and aging) remains vibrant even at 120-150+ g/L residual sugar.
 
 The best TBAs achieve remarkable longevity. Bottles from the 1960s-1970s remain fresh and complex, developing tertiary notes of caramel, nuts, and dried flowers while retaining primary fruit intensity. These wines represent Austria's answer to d'Yquem, though prices remain more accessible.
 
-Production is painstaking. Botrytis-affected grapes are hand-harvested in multiple passes (tries), sometimes requiring 6-8 passes through the vineyard. Yields are minuscule: 3-5 hl/ha for TBA, sometimes less. Fermentation proceeds slowly—weeks or months—as yeasts struggle with high sugar concentrations. The resulting wines contain 6-10% alcohol with 150-200+ g/L residual sugar.
+Production is painstaking. Botrytis-affected grapes are hand-harvested in multiple passes (tries), sometimes requiring 6-8 passes through the vineyard. Yields are minuscule: 3-5 hl/ha for TBA, sometimes less. Fermentation proceeds slowly (weeks or months) as yeasts struggle with high sugar concentrations. The resulting wines contain 6-10% alcohol with 150-200+ g/L residual sugar.
 
 ### Rosé
 
@@ -174,7 +174,7 @@ Burgenland's wines demand rich, flavorful foods. The region's proximity to Hunga
 
 **Zweigelt** suits lighter preparations: roasted chicken, pork tenderloin, grilled sausages, mushroom dishes. Its bright fruit and soft tannins make it versatile with both meat and vegetarian options.
 
-**Leithaberg whites** handle rich fish (turbot, halibut), roasted poultry, cream sauces, and aged Gruyère-style cheeses. Their texture and minerality bridge the gap between Burgundy and Alsace—think coq au vin, lobster with butter sauce, or roasted chicken with mushrooms.
+**Leithaberg whites** handle rich fish (turbot, halibut), roasted poultry, cream sauces, and aged Gruyère-style cheeses. Their texture and minerality bridge the gap between Burgundy and Alsace, think coq au vin, lobster with butter sauce, or roasted chicken with mushrooms.
 
 **Sweet wines** pair with blue cheese (Roquefort, Stilton), foie gras, fruit-based desserts, or simply drink alone. The classic pairing is Sauternes-style: Roquefort and TBA. The cheese's salt and umami balance the wine's sweetness while its fat smooths the wine's acidity.
 
@@ -182,9 +182,9 @@ Burgenland's wines demand rich, flavorful foods. The region's proximity to Hunga
 
 **Red wines**: Serve Blaufränkisch at 16-18°C (61-64°F). Young, tannic examples benefit from decanting 1-2 hours before serving. Older wines (10+ years) require careful decanting to separate sediment. Zweigelt can be served slightly cooler, 14-16°C.
 
-**White wines**: Leithaberg whites show best at 12-14°C (54-57°F)—warmer than typical Austrian whites. This temperature reveals their texture and complexity without muting aromatics. Avoid over-chilling, which emphasizes alcohol and diminishes nuance.
+**White wines**: Leithaberg whites show best at 12-14°C (54-57°F), warmer than typical Austrian whites. This temperature reveals their texture and complexity without muting aromatics. Avoid over-chilling, which emphasizes alcohol and diminishes nuance.
 
-**Sweet wines**: Serve at 10-12°C (50-54°F). Colder temperatures mute complexity; warmer temperatures emphasize alcohol and sweetness. Use smaller glasses to concentrate aromatics. These wines are rich—2-3 oz pours suffice.
+**Sweet wines**: Serve at 10-12°C (50-54°F). Colder temperatures mute complexity; warmer temperatures emphasize alcohol and sweetness. Use smaller glasses to concentrate aromatics. These wines are rich, 2-3 oz pours suffice.
 
 ### Vintage Chart (2010-2023)
 
@@ -232,9 +232,9 @@ Burgenland's wines demand rich, flavorful foods. The region's proximity to Hunga
 
 Burgenland faces several challenges. Climate change has shifted the region from marginal to warm, requiring adaptation. Producers are experimenting with later-ripening varieties, seeking higher elevations, and adjusting canopy management to slow ripening and preserve acidity.
 
-Water availability is becoming critical. Neusiedlersee's water level fluctuates dramatically—it nearly dried completely in the 1860s—and recent dry years have reduced the lake's moderating influence. Some producers have installed irrigation systems, though this remains controversial in a region that historically farmed without it.
+Water availability is becoming critical. Neusiedlersee's water level fluctuates dramatically (it nearly dried completely in the 1860s) and recent dry years have reduced the lake's moderating influence. Some producers have installed irrigation systems, though this remains controversial in a region that historically farmed without it.
 
-Market recognition lags quality. While Austrian wine has gained international respect, Burgenland remains less known than Wachau or the Kamptal. The region's stylistic diversity—both blessing and curse—makes it harder to communicate a clear identity. A Mittelburgenland Blaufränkisch shares little with a Neusiedlersee TBA, yet both are "Burgenland wines."
+Market recognition lags quality. While Austrian wine has gained international respect, Burgenland remains less known than Wachau or the Kamptal. The region's stylistic diversity (both blessing and curse) makes it harder to communicate a clear identity. A Mittelburgenland Blaufränkisch shares little with a Neusiedlersee TBA, yet both are "Burgenland wines."
 
 The DAC system has helped establish clearer regional identities, but it's still evolving. Some producers chafe at restrictions, preferring to work outside the system. Others embrace it as necessary for building recognition.
 

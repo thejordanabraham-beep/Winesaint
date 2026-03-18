@@ -14,7 +14,7 @@ Ghemme's winemaking heritage extends back to Roman times, with Pliny the Elder p
 
 The phylloxera epidemic of the late 19th century devastated the region, and unlike the Langhe (home to Barolo and Barbaresco), Alto Piemonte never fully recovered its prominence in the 20th century. Industrial development, particularly the textile industry, drew workers away from viticulture, and many historic vineyard sites were abandoned. By the mid-20th century, Ghemme had diminished to a shadow of its former glory, with only a handful of producers maintaining the tradition.
 
-The appellation received DOC status in 1969, recognition of its historical importance even during this period of decline. However, the real renaissance began in the 1990s and accelerated in the 2000s, as a new generation of winemakers—both local families and outside investors—recognized the potential of Alto Piemonte's unique terroirs. This revival culminated in Ghemme's elevation to DOCG status in 2018, acknowledging both its historical pedigree and the renewed quality focus of its producers.
+The appellation received DOC status in 1969, recognition of its historical importance even during this period of decline. However, the real renaissance began in the 1990s and accelerated in the 2000s, as a new generation of winemakers (both local families and outside investors) recognized the potential of Alto Piemonte's unique terroirs. This revival culminated in Ghemme's elevation to DOCG status in 2018, acknowledging both its historical pedigree and the renewed quality focus of its producers.
 
 ### DOCG Status and Regulations
 
@@ -49,7 +49,7 @@ Ghemme's geological foundation is one of its most distinctive features, setting 
 
 **Volcanic Porphyry:** The bedrock throughout much of Ghemme consists of porphyry, an igneous rock formed from ancient volcanic activity dating back to the Permian period (roughly 280 million years ago). This weathered volcanic material creates soils rich in minerals, particularly iron, which contributes to the wine's structure and distinctive savory character. The porphyritic soils tend to produce wines with pronounced minerality, firm tannins, and excellent aging potential.
 
-**Glacial Moraines:** During the Quaternary period, Alpine glaciers advanced and retreated multiple times, depositing layers of heterogeneous material—sand, gravel, clay, and rocks of various sizes. These glacial moraines create well-draining soils that force vine roots to dig deep for water and nutrients, concentrating flavors in the grapes. The presence of stones and gravel also aids in heat retention, helping grapes achieve optimal ripeness.
+**Glacial Moraines:** During the Quaternary period, Alpine glaciers advanced and retreated multiple times, depositing layers of heterogeneous material, sand, gravel, clay, and rocks of various sizes. These glacial moraines create well-draining soils that force vine roots to dig deep for water and nutrients, concentrating flavors in the grapes. The presence of stones and gravel also aids in heat retention, helping grapes achieve optimal ripeness.
 
 **Marine Sediments:** Underlying these volcanic and glacial layers are marine sediments from when this area was covered by an ancient sea. These sedimentary layers contribute clay and limestone components to certain vineyard sites, adding complexity to the soil matrix and influencing wine texture and aromatics.
 
@@ -98,7 +98,7 @@ The moderate climate allows Nebbiolo to ripen fully while maintaining higher aci
 
 **Nebbiolo (Spanna):** The protagonist of Ghemme must constitute at least 85% of the blend. In Alto Piemonte, Nebbiolo is traditionally called Spanna, though the grape is genetically identical to the Nebbiolo of Langhe. The term "Spanna" likely derives from "spanna" (span), referring to the length of the grape clusters.
 
-Nebbiolo's characteristics—late ripening, vigorous growth, susceptibility to disease, and demanding terroir requirements—make it a challenging variety to cultivate. However, when conditions are right, it produces wines of exceptional complexity, longevity, and terroir expression. In Ghemme, Nebbiolo typically develops elegant floral aromatics (rose, violet), red fruit flavors (cherry, raspberry, cranberry), and distinctive savory notes (tar, leather, tobacco, dried herbs).
+Nebbiolo's characteristics (late ripening, vigorous growth, susceptibility to disease, and demanding terroir requirements) make it a challenging variety to cultivate. However, when conditions are right, it produces wines of exceptional complexity, longevity, and terroir expression. In Ghemme, Nebbiolo typically develops elegant floral aromatics (rose, violet), red fruit flavors (cherry, raspberry, cranberry), and distinctive savory notes (tar, leather, tobacco, dried herbs).
 
 **Vespolina:** This indigenous variety can comprise up to 15% of the blend (often 5-10% in practice). Vespolina contributes aromatic complexity, particularly spicy and peppery notes, along with bright acidity and vibrant color. The variety ripens earlier than Nebbiolo, adding freshness to the blend. Its name derives from "vespa" (wasp), as the sweet berries attract wasps at harvest time.
 
@@ -135,7 +135,7 @@ Modern producers approach blending with more precision:
 
 **100% Nebbiolo:** While permitted to use up to 15% other varieties, some producers make 100% Nebbiolo Ghemme, emphasizing purity of expression. These wines tend to show more austere structure in youth but can develop exceptional complexity with age.
 
-The choice of blending approach often distinguishes producer styles within the appellation, with no consensus on which produces superior results—rather, it reflects philosophical differences about tradition and terroir expression.
+The choice of blending approach often distinguishes producer styles within the appellation, with no consensus on which produces superior results, rather, it reflects philosophical differences about tradition and terroir expression.
 
 ### Vineyard Practices and Traditions
 
@@ -167,7 +167,7 @@ Ghemme's winemaking landscape encompasses both traditional and modern approaches
 **Aging:**
 - **Large Format Oak:** Traditional aging vessels include botti (large Slavonian oak casks of 2,000-5,000+ liters) that allow slow oxidation and integration without imparting overt oak flavors. Many historic producers maintain botti that are decades or even centuries old.
 - **Barrique Influence:** Some modern producers incorporate a percentage of smaller French oak barrels (225-500 liters) to add structural complexity and subtle oak flavors. This approach remains controversial, with traditionalists arguing it obscures terroir.
-- **Duration:** Beyond minimum legal requirements, many top producers age wines longer—48+ months for normale, 60+ months for Riserva—believing extended aging creates more harmonious wines.
+- **Duration:** Beyond minimum legal requirements, many top producers age wines longer (48+ months for normale, 60+ months for Riserva) believing extended aging creates more harmonious wines.
 
 **Clarification and Stabilization:**
 - Traditional producers often bottle without fining or filtration, accepting some sediment in exchange for greater textural complexity.
@@ -195,7 +195,7 @@ These requirements are among the longest in Italy, reflecting both Nebbiolo's ne
 
 **Single-Vineyard Ghemme:** Increasingly, producers designate wines from specific vineyards (e.g., "Ghemme Collis Breclemae" from Antichi Vigneti di Cantalupo), highlighting terroir differences within the appellation. These represent the estates' finest fruit and most careful winemaking.
 
-**Ghemme Riserva:** The top designation requires additional aging and theoretically represents selection from the best fruit of superior vintages. In practice, quality varies by producer—some make Riserva only in exceptional years, while others produce it annually.
+**Ghemme Riserva:** The top designation requires additional aging and theoretically represents selection from the best fruit of superior vintages. In practice, quality varies by producer, some make Riserva only in exceptional years, while others produce it annually.
 
 **Producer Selection:** Quality distinctions are often more about producer than about designation, as Ghemme lacks the rigid hierarchical classification of Burgundy or Barolo's MGAs. Knowing the producer's philosophy and track record is essential for assessing quality.
 
@@ -240,14 +240,14 @@ With the most diverse blend requirements (50-80% Nebbiolo), Bramaterra produces 
 **Fara DOC:**
 Small appellation south of Ghemme, across the Sesia River, with similar terroir but even smaller production. Fara (50-70% Nebbiolo) typically shows rounder, more generous character than Ghemme.
 
-Ghemme occupies a middle ground within Alto Piemonte—more structured and serious than Bramaterra or Fara, but more accessible than Gattinara or Boca, combining power with elegance in a distinctive balance.
+Ghemme occupies a middle ground within Alto Piemonte, more structured and serious than Bramaterra or Fara, but more accessible than Gattinara or Boca, combining power with elegance in a distinctive balance.
 
 ### Comparison to Barolo and Barbaresco
 
 While all three appellations are based on Nebbiolo, significant differences emerge from terroir and tradition:
 
 **Structure and Power:**
-Barolo typically shows the most power and concentration, with massive tannins requiring extended aging. Barbaresco offers more elegance and earlier approachability while maintaining structure. Ghemme falls between Barbaresco and Barolo in structure but with a different tannic quality—fine-grained rather than bold, firm rather than massive.
+Barolo typically shows the most power and concentration, with massive tannins requiring extended aging. Barbaresco offers more elegance and earlier approachability while maintaining structure. Ghemme falls between Barbaresco and Barolo in structure but with a different tannic quality, fine-grained rather than bold, firm rather than massive.
 
 **Aromatics:**
 Ghemme often displays more pronounced floral and aromatic complexity than Langhe wines, with distinctive mineral/volcanic notes absent in Barolo and Barbaresco. The inclusion of Vespolina adds spice aromatics not found in pure Nebbiolo wines.
@@ -274,7 +274,7 @@ Ghemme's aging curve reflects both its firm structure and elevated acidity:
 
 **7-15 Years:** Prime drinking window for most Ghemme. Tannins have resolved, acidity remains vibrant, and tertiary complexity develops while fruit persists. The wine shows its full personality.
 
-**15-25 Years:** Top examples from excellent vintages continue evolving, developing extraordinary complexity—truffle, leather, dried flowers, forest floor—while maintaining structure. Only the finest bottlings justify this patience.
+**15-25 Years:** Top examples from excellent vintages continue evolving, developing extraordinary complexity (truffle, leather, dried flowers, forest floor) while maintaining structure. Only the finest bottlings justify this patience.
 
 **25+ Years:** Exceptional bottles from legendary vintages and top producers can age even longer, though this is rare and depends on perfect storage and inherent concentration.
 
@@ -374,7 +374,7 @@ Large Burgundy-style glasses with generous bowls allow the wine's aromatics to e
 - **Very old bottles:** Consider double-decanting or simply careful pouring to minimize oxygen exposure
 
 **Service Timing:**
-Open bottles 30-60 minutes before pouring, even if decanting, to allow initial volatile compounds to dissipate. Monitor evolution in the glass—Ghemme often improves dramatically over 30-60 minutes of aeration.
+Open bottles 30-60 minutes before pouring, even if decanting, to allow initial volatile compounds to dissipate. Monitor evolution in the glass. Ghemme often improves dramatically over 30-60 minutes of aeration.
 
 ### Vintage Considerations
 

@@ -4,17 +4,17 @@ The Sonnenberg vineyard represents one of the Ahr valley's most distinctive terr
 
 ## Geography & Microclimate
 
-Sonnenberg occupies steep south-facing slopes in the Ahr valley, one of Germany's smallest and most northerly red wine regions. The vineyard's gradient ranges from 30 to 50 percent in its steepest sections—angles that necessitate hand-harvesting and make mechanization impossible. This steepness serves a critical function: maximum solar exposure in a marginal climate where every degree of ripeness matters.
+Sonnenberg occupies steep south-facing slopes in the Ahr valley, one of Germany's smallest and most northerly red wine regions. The vineyard's gradient ranges from 30 to 50 percent in its steepest sections, angles that necessitate hand-harvesting and make mechanization impossible. This steepness serves a critical function: maximum solar exposure in a marginal climate where every degree of ripeness matters.
 
-The Ahr valley itself functions as a thermal corridor. The river carves through the Eifel highlands, creating a microclimate approximately 1.5–2°C warmer than surrounding areas. Cold air drains down the slopes into the valley floor at night, while the south-facing aspect captures sunlight from mid-morning through late afternoon. This diurnal temperature variation—often 15°C or more during the growing season—preserves acidity while allowing phenolic ripeness in Spätburgunder.
+The Ahr valley itself functions as a thermal corridor. The river carves through the Eifel highlands, creating a microclimate approximately 1.5–2°C warmer than surrounding areas. Cold air drains down the slopes into the valley floor at night, while the south-facing aspect captures sunlight from mid-morning through late afternoon. This diurnal temperature variation (often 15°C or more during the growing season) preserves acidity while allowing phenolic ripeness in Spätburgunder.
 
-Sonnenberg sits at elevations between 120 and 200 meters above sea level. The lower sections near the valley floor experience slightly warmer temperatures and earlier ripening, while the upper portions maintain higher natural acidity and produce wines with more pronounced mineral character. The vineyard's name—"sun mountain"—reflects its privileged solar exposure, though this designation appears throughout German wine regions and should not be confused with other Sonnenberg sites in the Rheingau, Baden, or Franken.
+Sonnenberg sits at elevations between 120 and 200 meters above sea level. The lower sections near the valley floor experience slightly warmer temperatures and earlier ripening, while the upper portions maintain higher natural acidity and produce wines with more pronounced mineral character. The vineyard's name ("sun mountain") reflects its privileged solar exposure, though this designation appears throughout German wine regions and should not be confused with other Sonnenberg sites in the Rheingau, Baden, or Franken.
 
 The Ahr's continental climate brings frost risk in spring and occasional hail in summer. Sonnenberg's elevation and slope angle provide some protection against late spring frosts, which settle in the valley bottom. Annual rainfall averages 650–700mm, concentrated in winter months. The growing season from April through October remains relatively dry, reducing disease pressure and allowing grapes to ripen without excessive dilution.
 
 ## Geological Foundation & Soil Composition
 
-Sonnenberg's geological identity stems from Devonian slate, formed 400–360 million years ago when this region lay beneath an ancient ocean. The slate here—technically a metamorphic rock created when sedimentary mudstone and shale underwent intense pressure and heat—fractures into thin, angular plates. This structure provides excellent drainage while allowing vine roots to penetrate deeply in search of water and nutrients.
+Sonnenberg's geological identity stems from Devonian slate, formed 400–360 million years ago when this region lay beneath an ancient ocean. The slate here, technically a metamorphic rock created when sedimentary mudstone and shale underwent intense pressure and heat, fractures into thin, angular plates. This structure provides excellent drainage while allowing vine roots to penetrate deeply in search of water and nutrients.
 
 The slate composition at Sonnenberg includes significant iron content, which oxidizes to give the rock a characteristic blue-grey to rust-red coloration. This mineralization influences wine character in ways that remain debated among viticulturists. While direct mineral uptake from slate into wine flavor remains scientifically contentious, the indirect effects are clear: slate soils warm quickly in sunlight, radiating heat to grape clusters during the day and releasing stored thermal energy at night. This extends the effective growing season and promotes even ripening.
 
@@ -26,7 +26,7 @@ Unlike the calcareous marls found in nearby Rheinhessen or the red sandstone of 
 
 Sonnenberg Spätburgunder displays a distinctive aromatic profile: red cherry, cranberry, and raspberry dominate, with secondary notes of dried herbs, forest floor, and a pronounced slate-derived minerality that manifests as wet stone or graphite. This is emphatically not the black fruit, chocolatey style of warmer-climate Pinot Noir. The wines show transparency and lift rather than power and extraction.
 
-Acidity levels typically range from 6.5 to 8.5 g/L, notably higher than Spätburgunder from Baden or Pfalz, where 5.5–6.5 g/L is more common. This elevated acidity provides aging potential—well-made Sonnenberg Spätburgunder can develop for 10–15 years, evolving tertiary notes of leather, tobacco, and truffle while maintaining freshness.
+Acidity levels typically range from 6.5 to 8.5 g/L, notably higher than Spätburgunder from Baden or Pfalz, where 5.5–6.5 g/L is more common. This elevated acidity provides aging potential, well-made Sonnenberg Spätburgunder can develop for 10–15 years, evolving tertiary notes of leather, tobacco, and truffle while maintaining freshness.
 
 Alcohol levels have crept upward over recent decades due to climate warming and stylistic preferences. Where 12.5–13% abv was once standard, contemporary Sonnenberg Spätburgunder now typically reaches 13–13.5% abv. The best producers maintain balance despite higher alcohol through careful canopy management and harvest timing that prioritizes physiological ripeness over sugar accumulation.
 
@@ -36,13 +36,13 @@ The minerality in Sonnenberg Spätburgunder deserves particular attention. Taste
 
 ## Comparison to Neighboring Vineyards
 
-Sonnenberg occupies a middle position in the Ahr's quality hierarchy, flanked by several notable sites that provide useful comparative context. The nearby Walporzheimer Kräuterberg, located approximately 2 kilometers upriver, features similar Devonian slate but with a slightly different iron content that produces wines with more pronounced herbal notes—hence the "Kräuter" (herb) designation.
+Sonnenberg occupies a middle position in the Ahr's quality hierarchy, flanked by several notable sites that provide useful comparative context. The nearby Walporzheimer Kräuterberg, located approximately 2 kilometers upriver, features similar Devonian slate but with a slightly different iron content that produces wines with more pronounced herbal notes, hence the "Kräuter" (herb) designation.
 
 Downstream, the Mayschosser Mönchberg presents an interesting contrast. While also slate-based, Mönchberg's gentler slopes and deeper soils produce fuller-bodied Spätburgunder with lower acidity and more immediate fruit appeal. Sonnenberg wines require more patience but offer greater aging potential and complexity.
 
-The Dernauer Pfarrwingert, considered by many to be the Ahr's premier site, shares Sonnenberg's steep gradient and slate composition but benefits from an even more protected position within an amphitheater-like valley formation. Pfarrwingert Spätburgunder typically shows greater concentration and depth while maintaining similar acidity levels—a function of the site's exceptional mesoclimate rather than soil differences.
+The Dernauer Pfarrwingert, considered by many to be the Ahr's premier site, shares Sonnenberg's steep gradient and slate composition but benefits from an even more protected position within an amphitheater-like valley formation. Pfarrwingert Spätburgunder typically shows greater concentration and depth while maintaining similar acidity levels: a function of the site's exceptional mesoclimate rather than soil differences.
 
-Compared to the Ahr's volcanic sites in the lower valley near Bad Neuenahr, where basalt and tuff create darker, more structured wines, Sonnenberg produces more elegant, aromatic expressions with brighter acidity and less tannic weight. The slate versus volcanic terroir distinction in the Ahr parallels similar contrasts in other German regions—slate's tendency toward finesse versus volcanic soil's propensity for power.
+Compared to the Ahr's volcanic sites in the lower valley near Bad Neuenahr, where basalt and tuff create darker, more structured wines, Sonnenberg produces more elegant, aromatic expressions with brighter acidity and less tannic weight. The slate versus volcanic terroir distinction in the Ahr parallels similar contrasts in other German regions, slate's tendency toward finesse versus volcanic soil's propensity for power.
 
 ## Viticultural Practices & Challenges
 
@@ -58,7 +58,7 @@ Harvest timing represents a critical decision. Pick too early, and the wines sho
 
 ## Key Producers & Winemaking Approaches
 
-The Ahr valley's small size—just 560 hectares under vine—means that most producers work multiple sites rather than specializing in single vineyards. However, several estates have established reputations for exceptional Sonnenberg Spätburgunder.
+The Ahr valley's small size (just 560 hectares under vine) means that most producers work multiple sites rather than specializing in single vineyards. However, several estates have established reputations for exceptional Sonnenberg Spätburgunder.
 
 **Meyer-Näkel** stands as the Ahr's most internationally recognized estate, and their Sonnenberg bottlings exemplify the site's potential. Werner Näkel pioneered quality-focused Spätburgunder production in the Ahr during the 1980s, moving away from the region's tradition of semi-sweet, light-bodied reds toward dry, structured wines capable of aging. The estate's Sonnenberg Spätburgunder sees 12–18 months in French oak barrels, with 20–30% new wood, and displays classic red fruit, herbal complexity, and pronounced minerality.
 
@@ -66,7 +66,7 @@ The Ahr valley's small size—just 560 hectares under vine—means that most pro
 
 **Jean Stodden** represents another stylistic pole, crafting powerful, concentrated Sonnenberg Spätburgunder through extended maceration and higher new oak usage. While some critics argue this approach obscures terroir specificity, others appreciate the wines' depth and aging potential. Stodden's best Sonnenberg bottlings can develop for 15+ years, evolving considerable complexity.
 
-Smaller producers like **Weingut Kreuzberg** and **Weingut Adeneuer** also work parcels within Sonnenberg, typically producing single-barrel or small-lot bottlings that emphasize site expression over winemaker intervention. These wines often see minimal new oak, native yeast fermentations, and gentle extractions—techniques that prioritize transparency and allow the slate terroir's influence to dominate.
+Smaller producers like **Weingut Kreuzberg** and **Weingut Adeneuer** also work parcels within Sonnenberg, typically producing single-barrel or small-lot bottlings that emphasize site expression over winemaker intervention. These wines often see minimal new oak, native yeast fermentations, and gentle extractions, techniques that prioritize transparency and allow the slate terroir's influence to dominate.
 
 Winemaking techniques across producers share certain commonalities: cold soaking periods of 3–5 days to extract color and aromatics without harsh tannins; fermentation temperatures of 28–32°C to promote color stability and tannin polymerization; and minimal sulfur additions to preserve freshness while allowing controlled oxidative development. Most producers avoid fining and filtration, bottling their Sonnenberg Spätburgunder with minimal intervention to preserve texture and complexity.
 
@@ -74,11 +74,11 @@ Winemaking techniques across producers share certain commonalities: cold soaking
 
 Sonnenberg holds classification as an **Einzellage** (individual vineyard site) under German wine law, a designation that requires wines to display site-specific characteristics distinct from surrounding vineyards. This classification provides more specificity than regional Ahr designations but less prestige than Grosse Lage (Grand Cru) status within the VDP system.
 
-The **VDP (Verband Deutscher Prädikatsweingüter)** represents Germany's association of elite estates, and several Sonnenberg producers hold membership. Within the VDP's four-tier classification system—Gutswein (estate wine), Ortswein (village wine), Erste Lage (premier cru), and Grosse Lage (grand cru)—Sonnenberg has received Erste Lage recognition from certain estates, positioning it as a premier rather than grand cru site.
+The **VDP (Verband Deutscher Prädikatsweingüter)** represents Germany's association of elite estates, and several Sonnenberg producers hold membership. Within the VDP's four-tier classification system. Gutswein (estate wine), Ortswein (village wine), Erste Lage (premier cru), and Grosse Lage (grand cru), Sonnenberg has received Erste Lage recognition from certain estates, positioning it as a premier rather than grand cru site.
 
 This classification reflects both Sonnenberg's genuine quality potential and the political realities of VDP designation. The Ahr's limited size and the concentration of top sites means that Grosse Lage status remains reserved for sites like Dernauer Pfarrwingert and Walporzheimer Kräuterberg, which have demonstrated exceptional quality over longer time periods and command higher prices in the market.
 
-For consumers, Sonnenberg's Erste Lage status signals serious quality without the price premium attached to Grosse Lage designations. These wines typically retail for €25–45 per bottle, compared to €50–80+ for the Ahr's grand cru bottlings—a meaningful value proposition for those seeking authentic slate-driven Spätburgunder.
+For consumers, Sonnenberg's Erste Lage status signals serious quality without the price premium attached to Grosse Lage designations. These wines typically retail for €25–45 per bottle, compared to €50–80+ for the Ahr's grand cru bottlings: a meaningful value proposition for those seeking authentic slate-driven Spätburgunder.
 
 ## Historical Context & Evolution
 
@@ -92,7 +92,7 @@ The post-flood reconstruction period has prompted reflection about climate adapt
 
 ## Vintage Variation & Optimal Conditions
 
-Sonnenberg performs most consistently in moderate to warm vintages that provide adequate ripeness without excessive heat. The site's naturally high acidity means that cooler vintages—while producing elegant wines—can result in green tannins and harsh structure if harvest timing isn't carefully managed.
+Sonnenberg performs most consistently in moderate to warm vintages that provide adequate ripeness without excessive heat. The site's naturally high acidity means that cooler vintages (while producing elegant wines) can result in green tannins and harsh structure if harvest timing isn't carefully managed.
 
 Exceptional recent vintages include **2015**, which combined warmth with adequate water availability, producing concentrated yet balanced Sonnenberg Spätburgunder with ripe tannins and vibrant acidity. **2018**, despite extreme heat and drought across much of Europe, succeeded in Sonnenberg due to the slate's water retention capacity, yielding rich wines with surprising freshness.
 

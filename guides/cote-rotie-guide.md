@@ -1,12 +1,12 @@
 # Côte-Rôtie: The Roasted Slope
 
-Côte-Rôtie produces some of the world's most profound Syrah. This is not hyperbole. The appellation's precipitous slopes—some reaching gradients of 60 degrees—create wines of uncommon aromatic complexity and structural finesse that stand apart from every other expression of the grape, even within the Northern Rhône itself.
+Côte-Rôtie produces some of the world's most profound Syrah. This is not hyperbole. The appellation's precipitous slopes (some reaching gradients of 60 degrees) create wines of uncommon aromatic complexity and structural finesse that stand apart from every other expression of the grape, even within the Northern Rhône itself.
 
 The name translates to "roasted slope," a reference to the sun-baked, south-facing hillsides that define this tiny appellation. With annual production rarely exceeding 80,000 cases across approximately 280 hectares, Côte-Rôtie remains one of France's most limited fine wine regions. To put this in perspective: Hermitage, located just 60 kilometers south, produces roughly similar volumes from 137 hectares. Côte-Rôtie is spread thin across dramatically steep terrain, making mechanization impossible and yields naturally low.
 
 ## The Two Hills: More Than Marketing
 
-The division between Côte Brune and Côte Blonde isn't wine marketing mythology—it's geological reality.
+The division between Côte Brune and Côte Blonde isn't wine marketing mythology, it's geological reality.
 
 **Côte Brune** occupies the northern section of the appellation, characterized by schist mixed with iron-rich clay and mica. The darker soils here contain more iron oxide, giving them their characteristic brown-black appearance. These soils drain quickly but retain just enough water during the growing season to prevent excessive stress. The wines reflect this: darker fruit profiles (blackberry, black olive), more pronounced tannin structure, greater density, and a distinctly savory, almost meaty character. They demand patience. Ten years is often the minimum for proper expression.
 
@@ -16,21 +16,21 @@ The textural distinction between the two slopes is immediately apparent in blind
 
 ## Viognier: The White Ghost in the Red Wine
 
-Côte-Rôtie permits—and traditionally employed—co-fermentation of up to 20% Viognier with Syrah. The actual percentage used today rarely exceeds 5%, and many producers use none at all. This is worth examining.
+Côte-Rôtie permits (and traditionally employed) co-fermentation of up to 20% Viognier with Syrah. The actual percentage used today rarely exceeds 5%, and many producers use none at all. This is worth examining.
 
 The practice originated not from oenological experimentation but from practical necessity. Viognier and Syrah often shared the same parcels in historical plantings. When harvest arrived, vignerons picked everything together and co-fermented by default. The technique persisted because it worked: Viognier's aromatic terpenes (primarily linalool and geraniol) volatilize during fermentation, binding with Syrah's anthocyanins to stabilize color and enhance aromatic complexity. The white grape also moderates tannin extraction, softening the wine's structure without diluting its intensity.
 
-The Viognier Debate: Modern winemakers divide into camps. Traditionalists like René Rostaing maintain small Viognier plantings and co-ferment religiously. Modernists argue that superior Syrah clones and precise viticulture make the white grape unnecessary. Neither position is "correct"—the wines simply express different philosophical approaches to the same terroir. Blind tasting reveals that wines with 3-5% Viognier often show more lifted aromatics in youth (violet, apricot, white pepper) while 100% Syrah bottlings display greater mineral tension and longer aging trajectories.
+The Viognier Debate: Modern winemakers divide into camps. Traditionalists like René Rostaing maintain small Viognier plantings and co-ferment religiously. Modernists argue that superior Syrah clones and precise viticulture make the white grape unnecessary. Neither position is "correct", the wines simply express different philosophical approaches to the same terroir. Blind tasting reveals that wines with 3-5% Viognier often show more lifted aromatics in youth (violet, apricot, white pepper) while 100% Syrah bottlings display greater mineral tension and longer aging trajectories.
 
 ## Terroir Architecture: Schist, Slope, and Stress
 
-The geological foundation of Côte-Rôtie dates to the Paleozoic era, roughly 540 to 250 million years ago, when intense heat and pressure metamorphosed sedimentary rocks into crystalline schist and gneiss. This ancient bedrock fractures along parallel planes, creating natural drainage channels that force vine roots to dive deep—often 4 to 6 meters—in search of water and nutrients.
+The geological foundation of Côte-Rôtie dates to the Paleozoic era, roughly 540 to 250 million years ago, when intense heat and pressure metamorphosed sedimentary rocks into crystalline schist and gneiss. This ancient bedrock fractures along parallel planes, creating natural drainage channels that force vine roots to dive deep (often 4 to 6 meters) in search of water and nutrients.
 
 The topsoil layer varies from 30 to 80 centimeters in depth, a thin skin over the bedrock. This shallow soil profile limits nutrient availability, restricting vigor and naturally reducing yields to 35-40 hectoliters per hectare (compared to 50-55 hl/ha in much of the Southern Rhône). Low yields concentrate flavor compounds, but the mechanism matters: it's not starvation but regulated water stress during specific phenological windows that optimizes grape composition.
 
-**Elevation and Exposition**: The vineyards range from 180 to 325 meters above sea level, climbing the slopes above the village of Ampuis. The best parcels occupy the mid-slope position—high enough to escape frost pockets and valley fog, low enough to avoid excessive wind exposure. South and southeast exposures dominate, maximizing sun interception during the critical ripening period from August through September.
+**Elevation and Exposition**: The vineyards range from 180 to 325 meters above sea level, climbing the slopes above the village of Ampuis. The best parcels occupy the mid-slope position, high enough to escape frost pockets and valley fog, low enough to avoid excessive wind exposure. South and southeast exposures dominate, maximizing sun interception during the critical ripening period from August through September.
 
-The region averages 2,100 hours of annual sunshine, approximately 200 hours less than Châteauneuf-du-Pape. This matters. The slightly cooler, cloudier conditions preserve acidity and aromatic freshness that distinguish Northern Rhône Syrah from its southern counterparts. Morning fog frequently blankets the valley during autumn, burning off by mid-morning to reveal warm, sun-drenched afternoons. This diurnal pattern—cool nights, warm days—extends the ripening period and develops aromatic complexity without sacrificing structural integrity.
+The region averages 2,100 hours of annual sunshine, approximately 200 hours less than Châteauneuf-du-Pape. This matters. The slightly cooler, cloudier conditions preserve acidity and aromatic freshness that distinguish Northern Rhône Syrah from its southern counterparts. Morning fog frequently blankets the valley during autumn, burning off by mid-morning to reveal warm, sun-drenched afternoons. This diurnal pattern (cool nights, warm days) extends the ripening period and develops aromatic complexity without sacrificing structural integrity.
 
 ## Climate: La Bise and the Northern Limit
 
@@ -38,17 +38,17 @@ Côte-Rôtie occupies the northernmost position in the Rhône Valley, making it 
 
 **La Bise**, the cold, dry north wind, plays a crucial viticultural role. Unlike the Mistral that dominates the Southern Rhône, La Bise blows intermittently rather than persistently. When it arrives, it desiccates the canopy, reducing disease pressure from mildew and botrytis. The wind also moderates temperature spikes during heat waves, preventing the shut-down of photosynthesis that can occur above 35°C.
 
-The appellation's northern position means later harvest dates than Hermitage or Cornas—typically mid-September to early October, compared to late August/early September further south. This extended hang time allows for slow, steady accumulation of phenolic compounds while maintaining natural acidity levels between 3.4 and 3.8 pH. The best vintages combine warm, dry Septembers with cool nights, allowing sugars to accumulate (13-14% potential alcohol) without losing freshness.
+The appellation's northern position means later harvest dates than Hermitage or Cornas, typically mid-September to early October, compared to late August/early September further south. This extended hang time allows for slow, steady accumulation of phenolic compounds while maintaining natural acidity levels between 3.4 and 3.8 pH. The best vintages combine warm, dry Septembers with cool nights, allowing sugars to accumulate (13-14% potential alcohol) without losing freshness.
 
 ## Lieux-Dits: The Hidden Geography
 
-Côte-Rôtie contains over 70 officially recognized lieux-dits, though only a handful appear regularly on labels. Unlike Burgundy's climat system, these designations carry no legal weight—they're cadastral references that producers may or may not choose to highlight. The most significant include:
+Côte-Rôtie contains over 70 officially recognized lieux-dits, though only a handful appear regularly on labels. Unlike Burgundy's climat system, these designations carry no legal weight, they're cadastral references that producers may or may not choose to highlight. The most significant include:
 
-**La Landonne** (Côte Brune): Perhaps the most celebrated lieu-dit, located on the steepest section of the Brune slope. The combination of pure schist, extreme gradient, and full southern exposure produces wines of almost savage power in youth—black fruit, smoked meat, iron, graphite. Guigal's single-vineyard bottling from here, first produced in 1978, established the site's reputation. René Rostaing farms 1.6 hectares here, producing wines that rival Guigal's in concentration while showing more immediate aromatic charm.
+**La Landonne** (Côte Brune): Perhaps the most celebrated lieu-dit, located on the steepest section of the Brune slope. The combination of pure schist, extreme gradient, and full southern exposure produces wines of almost savage power in youth, black fruit, smoked meat, iron, graphite. Guigal's single-vineyard bottling from here, first produced in 1978, established the site's reputation. René Rostaing farms 1.6 hectares here, producing wines that rival Guigal's in concentration while showing more immediate aromatic charm.
 
-**La Mouline** (Côte Blonde): Guigal's monopole (2.5 hectares) on the Blonde slope, planted to approximately 11% Viognier. The site's gneiss and granite bedrock with sandy topsoils produces wines of extraordinary perfume—raspberry, violet, bacon fat, white pepper. More approachable young than La Landonne, but no less age-worthy.
+**La Mouline** (Côte Blonde): Guigal's monopole (2.5 hectares) on the Blonde slope, planted to approximately 11% Viognier. The site's gneiss and granite bedrock with sandy topsoils produces wines of extraordinary perfume, raspberry, violet, bacon fat, white pepper. More approachable young than La Landonne, but no less age-worthy.
 
-**La Turque**: Another Guigal monopole (1.7 hectares), positioned between Blonde and Brune both geographically and stylistically. The terroir combines elements of both slopes—schist with some limestone influence—producing wines that bridge power and elegance. Planted in the 1980s with help from Pierre Gaillard, who worked for Guigal before establishing his own domaine.
+**La Turque**: Another Guigal monopole (1.7 hectares), positioned between Blonde and Brune both geographically and stylistically. The terroir combines elements of both slopes (schist with some limestone influence) producing wines that bridge power and elegance. Planted in the 1980s with help from Pierre Gaillard, who worked for Guigal before establishing his own domaine.
 
 **Côte Baudin**: Located in the southern section near Tupin, this lieu-dit produces wines of notable finesse and floral character. Several producers, including Jasmin, farm parcels here.
 
@@ -64,33 +64,33 @@ The producer landscape in Côte-Rôtie divides roughly into three generations, e
 
 ### The Traditionalists
 
-**René Rostaing** represents the apex of traditional Côte-Rôtie. Now managed by his son Pierre, the estate farms 7.5 hectares across 20 parcels in 14 lieux-dits—a testament to the appellation's fragmented ownership structure. Rostaing inherited prime vineyard land from both Albert Dervieux-Thaize and Marius Gentaz-Dervieux in 1990, instantly acquiring some of the finest terroir in the appellation.
+**René Rostaing** represents the apex of traditional Côte-Rôtie. Now managed by his son Pierre, the estate farms 7.5 hectares across 20 parcels in 14 lieux-dits: a testament to the appellation's fragmented ownership structure. Rostaing inherited prime vineyard land from both Albert Dervieux-Thaize and Marius Gentaz-Dervieux in 1990, instantly acquiring some of the finest terroir in the appellation.
 
-The domaine produces three wines: a classic Côte-Rôtie (blend of multiple sites), Côte Blonde (from Blonde parcels including La Viaillère), and La Landonne (from 1.6 hectares in the famous lieu-dit). Rostaing co-ferments 3-5% Viognier, uses indigenous yeasts, and employs extended maceration (three to four weeks). Aging occurs in 10-20% new French oak for 20-22 months. The wines show extraordinary aromatic complexity from youth—bacon fat, olive tapenade, dark cherry, violet, white pepper—but require 8-10 years to fully integrate their substantial tannins.
+The domaine produces three wines: a classic Côte-Rôtie (blend of multiple sites), Côte Blonde (from Blonde parcels including La Viaillère), and La Landonne (from 1.6 hectares in the famous lieu-dit). Rostaing co-ferments 3-5% Viognier, uses indigenous yeasts, and employs extended maceration (three to four weeks). Aging occurs in 10-20% new French oak for 20-22 months. The wines show extraordinary aromatic complexity from youth (bacon fat, olive tapenade, dark cherry, violet, white pepper) but require 8-10 years to fully integrate their substantial tannins.
 
 **Domaine Jasmin**, now run by fourth-generation Patrick Jasmin (also a champion Kart-Cross racer), farms 5.3 hectares across eight lieux-dits in the southern section: La Chevalière, Les Moutonnes, Le Baleyat, Côteaux de Tupin, and Baudin. The estate maintains old-vine plantings (some approaching 60 years) of 95% Syrah and 5% Viognier on schist, granite, clay, and limestone soils.
 
-Jasmin's approach emphasizes minimal intervention: no green harvesting, traditional destemming, indigenous fermentation, and aging in older barrels (minimal new oak). The resulting wines show more restraint than many modern Côte-Rôties—medium-bodied, elegantly structured, with pronounced floral and red fruit aromatics. They drink well relatively young (5-7 years) but age gracefully for 15-20 years.
+Jasmin's approach emphasizes minimal intervention: no green harvesting, traditional destemming, indigenous fermentation, and aging in older barrels (minimal new oak). The resulting wines show more restraint than many modern Côte-Rôties, medium-bodied, elegantly structured, with pronounced floral and red fruit aromatics. They drink well relatively young (5-7 years) but age gracefully for 15-20 years.
 
 ### The Modernists
 
-**E. Guigal** dominates Côte-Rôtie both commercially and stylistically. The négociant business (founded 1946) produces approximately 40% of the appellation's total output, but it's the single-vineyard "La-La" wines—La Mouline, La Landonne, La Turque—that defined modern Côte-Rôtie.
+**E. Guigal** dominates Côte-Rôtie both commercially and stylistically. The négociant business (founded 1946) produces approximately 40% of the appellation's total output, but it's the single-vineyard "La-La" wines (La Mouline, La Landonne, La Turque) that defined modern Côte-Rôtie.
 
-Marcel Guigal's controversial use of 100% new oak and extended barrel aging (42 months) initially drew criticism from traditionalists who argued the wines sacrificed terroir expression for international appeal. Time has proven otherwise: the La-La wines age magnificently for 30-40+ years, gradually absorbing their oak to reveal profound expressions of site. The 1978 La Landonne, tasted in 2023, showed no oak dominance whatsoever—just concentrated black fruit, iron, smoke, and that distinctive Brune savory complexity.
+Marcel Guigal's controversial use of 100% new oak and extended barrel aging (42 months) initially drew criticism from traditionalists who argued the wines sacrificed terroir expression for international appeal. Time has proven otherwise: the La-La wines age magnificently for 30-40+ years, gradually absorbing their oak to reveal profound expressions of site. The 1978 La Landonne, tasted in 2023, showed no oak dominance whatsoever, just concentrated black fruit, iron, smoke, and that distinctive Brune savory complexity.
 
 The standard Guigal Côte-Rôtie Brune et Blonde (produced from purchased fruit and estate vineyards) offers excellent value and surprising ageability. The use of 24 months in oak (30% new) and 3-5% Viognier creates wines that balance immediate appeal with 10-15 year aging potential.
 
 ### The New Generation
 
-**Stéphane Ogier** represents the modern artisan producer. The estate began modestly—the Ogier family initially sold fruit to Guigal and Chapoutier—before beginning estate bottling in 1982. Stéphane took over from his father Michel and has expanded holdings while refining the winemaking approach.
+**Stéphane Ogier** represents the modern artisan producer. The estate began modestly (the Ogier family initially sold fruit to Guigal and Chapoutier) before beginning estate bottling in 1982. Stéphane took over from his father Michel and has expanded holdings while refining the winemaking approach.
 
-Ogier produces multiple cuvées: Lancement (entry-level), Côte-Rôtie classique, and single-site bottlings from Belle Hélène and Lancement lieux-dits. The wines show more fruit-forward character than traditional styles—ripe black cherry, plum, violets—with polished tannins and judicious oak (20-30% new, 18-20 months aging). They offer earlier approachability (3-5 years) while maintaining 15-20 year aging potential.
+Ogier produces multiple cuvées: Lancement (entry-level), Côte-Rôtie classique, and single-site bottlings from Belle Hélène and Lancement lieux-dits. The wines show more fruit-forward character than traditional styles (ripe black cherry, plum, violets) with polished tannins and judicious oak (20-30% new, 18-20 months aging). They offer earlier approachability (3-5 years) while maintaining 15-20 year aging potential.
 
-**Pierre Gaillard**, who helped plant Guigal's La Turque vineyard before founding his own domaine in 1986, started with just 0.25 hectares. Today the estate spans 25 hectares across the Northern Rhône (including holdings in Condrieu and Saint-Joseph). Gaillard's Côte-Rôtie emphasizes precision and elegance over power—whole-cluster fermentation (20-30%), moderate extraction, and careful oak integration (25% new, 18 months). The wines show beautiful balance between fruit, earth, and floral notes, drinking well from 5-6 years but aging gracefully for 20+.
+**Pierre Gaillard**, who helped plant Guigal's La Turque vineyard before founding his own domaine in 1986, started with just 0.25 hectares. Today the estate spans 25 hectares across the Northern Rhône (including holdings in Condrieu and Saint-Joseph). Gaillard's Côte-Rôtie emphasizes precision and elegance over power, whole-cluster fermentation (20-30%), moderate extraction, and careful oak integration (25% new, 18 months). The wines show beautiful balance between fruit, earth, and floral notes, drinking well from 5-6 years but aging gracefully for 20+.
 
 ## Winemaking: Tradition Meets Technology
 
-Côte-Rôtie winemaking has evolved significantly over the past 40 years, though core principles remain constant. The extreme slopes necessitate hand harvesting—no exceptions. Grapes arrive at the winery in small bins (20-30 kg) to prevent crushing during transport down the hillsides.
+Côte-Rôtie winemaking has evolved significantly over the past 40 years, though core principles remain constant. The extreme slopes necessitate hand harvesting, no exceptions. Grapes arrive at the winery in small bins (20-30 kg) to prevent crushing during transport down the hillsides.
 
 **Destemming practices** vary by producer and vintage. Traditionalists like Rostaing destem completely, arguing that stems from Côte-Rôtie's steep, sun-exposed sites rarely achieve full lignification and can contribute vegetal notes. Modernists like Gaillard include 20-40% whole clusters in favorable vintages, seeking additional aromatic complexity and structural refinement from stem tannins. The decision depends on stem ripeness, which varies by site, vintage, and harvest date.
 
@@ -118,7 +118,7 @@ The best examples maintain remarkable freshness even at 30-40 years, a testament
 
 Côte-Rôtie's northern position makes it more vintage-sensitive than southern appellations. Cool, wet Septembers can prevent full phenolic ripeness, producing wines with green tannins and vegetal notes. Excessive heat can shut down photosynthesis, leading to high alcohol with low acidity.
 
-**Outstanding Recent Vintages**: 2019 (powerful, concentrated), 2016 (structured, age-worthy), 2015 (opulent, forward), 2010 (classic, balanced), 2009 (rich, approachable), 2005 (structured, profound), 2003 (powerful, controversial—some heat damage), 1999 (elegant, drinking perfectly now)
+**Outstanding Recent Vintages**: 2019 (powerful, concentrated), 2016 (structured, age-worthy), 2015 (opulent, forward), 2010 (classic, balanced), 2009 (rich, approachable), 2005 (structured, profound), 2003 (powerful, controversial, some heat damage), 1999 (elegant, drinking perfectly now)
 
 **Challenging Vintages**: 2014 (uneven ripening), 2013 (difficult harvest conditions), 2008 (cool, requiring careful site selection), 2002 (rain during harvest)
 
@@ -129,10 +129,10 @@ Côte-Rôtie's northern position makes it more vintage-sensitive than southern a
 
 ## Food Pairing: Beyond Duck Breast
 
-The classic pairing—duck breast with black cherry sauce—works because Côte-Rôtie's structure and savory complexity mirror the dish's richness and fruit elements. But the wines' versatility extends far beyond this cliché.
+The classic pairing (duck breast with black cherry sauce) works because Côte-Rôtie's structure and savory complexity mirror the dish's richness and fruit elements. But the wines' versatility extends far beyond this cliché.
 
 **Ideal pairings**:
-- **Game**: Venison, wild boar, pigeon—the wine's iron and earth notes complement gamey flavors
+- **Game**: Venison, wild boar, pigeon: the wine's iron and earth notes complement gamey flavors
 - **Lamb**: Herb-crusted rack of lamb, lamb shoulder braised with olives
 - **Charcuterie**: Saucisson sec, pâté de campagne, especially with black pepper
 - **Mushrooms**: Wild mushroom risotto, porcini-crusted beef tenderloin

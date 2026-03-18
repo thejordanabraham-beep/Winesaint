@@ -52,7 +52,7 @@ The classification's logic reflects both terroir quality and historical reputati
 
 Nuits-Saint-Georges produces exclusively red wines from Pinot Noir, with no white wine production permitted under the appellation rules. The wines exhibit distinctive characteristics that set them apart within the Côte de Nuits spectrum, displaying greater power, structure, and tannic presence than most neighboring communes.
 
-The archetypal Nuits-Saint-Georges presents deep ruby to garnet color with excellent intensity and clarity. The aromatic profile typically features dark fruit characteristics—black cherry, blackberry, and plum—alongside earthy undertones of forest floor, leather, and game. Floral notes, particularly violet and rose, emerge with proper cellaring, while mineral expressions vary significantly by terroir.
+The archetypal Nuits-Saint-Georges presents deep ruby to garnet color with excellent intensity and clarity. The aromatic profile typically features dark fruit characteristics (black cherry, blackberry, and plum) alongside earthy undertones of forest floor, leather, and game. Floral notes, particularly violet and rose, emerge with proper cellaring, while mineral expressions vary significantly by terroir.
 
 Structurally, these wines demonstrate substantial backbone with firm tannins that require extended aging to integrate fully. Alcohol levels typically range from 12.5% to 14%, with natural acidity maintaining freshness and aging potential. The wines show excellent concentration without excessive weight, achieving a balance between power and elegance that defines the appellation's character.
 

@@ -1,10 +1,10 @@
 # Mareuil-sur-Aÿ: Champagne's Superpremier Cru
 
-The question is debated in cellars and at dinner tables across Champagne: Why does Mareuil-sur-Aÿ hold only premier cru status when it's home to the Clos des Goisses, arguably one of the region's five finest vineyards? The answer reveals more about the limitations of Champagne's classification system than about the quality of Mareuil's terroir. Like Chambolle-Musigny's Les Amoureuses or Meursault's Perrières in Burgundy—both premier cru sites that command grand cru prices and respect—Mareuil-sur-Aÿ exists in a category of its own. This is the superpremier cru.
+The question is debated in cellars and at dinner tables across Champagne: Why does Mareuil-sur-Aÿ hold only premier cru status when it's home to the Clos des Goisses, arguably one of the region's five finest vineyards? The answer reveals more about the limitations of Champagne's classification system than about the quality of Mareuil's terroir. Like Chambolle-Musigny's Les Amoureuses or Meursault's Perrières in Burgundy, both premier cru sites that command grand cru prices and respect. Mareuil-sur-Aÿ exists in a category of its own. This is the superpremier cru.
 
 ## Geography and Administrative Context
 
-Mareuil-sur-Aÿ sits in the Grande Vallée de la Marne, though this administrative designation obscures more than it clarifies. While traditionally grouped with the Vallée de la Marne, Mareuil functions as the southern flank of the Montagne de Reims, completing the horseshoe of vineyards that encircle the plateau. The village lies immediately adjacent to Aÿ, separated by boundaries that are more bureaucratic than geological. The Marne River flows along its northern edge, and it's this proximity to water—combined with dramatic slope exposure—that defines the mesoclimate here.
+Mareuil-sur-Aÿ sits in the Grande Vallée de la Marne, though this administrative designation obscures more than it clarifies. While traditionally grouped with the Vallée de la Marne, Mareuil functions as the southern flank of the Montagne de Reims, completing the horseshoe of vineyards that encircle the plateau. The village lies immediately adjacent to Aÿ, separated by boundaries that are more bureaucratic than geological. The Marne River flows along its northern edge, and it's this proximity to water (combined with dramatic slope exposure) that defines the mesoclimate here.
 
 The distinction matters. The Vallée de la Marne proper is Meunier country, with gentler slopes and heavier soils. Mareuil-sur-Aÿ is Pinot Noir territory, with the steep, chalky exposures that characterize Champagne's most prestigious sites.
 
@@ -20,51 +20,51 @@ The Clos des Goisses occupies the eastern edge of this sector, where the slope p
 
 ### The Western Sector: Clay and Power
 
-Move west through Mareuil, and the soil profile shifts dramatically toward clay. These parcels produce wines with different textural profiles—broader, more muscular, with less of the chalky tension that defines the eastern vineyards. The clay holds more water and nutrients, yielding richer fruit but potentially less precision.
+Move west through Mareuil, and the soil profile shifts dramatically toward clay. These parcels produce wines with different textural profiles, broader, more muscular, with less of the chalky tension that defines the eastern vineyards. The clay holds more water and nutrients, yielding richer fruit but potentially less precision.
 
 Interestingly, as you continue west toward the border with Aÿ, chalky parcels reappear. This geological complexity within a single village explains why blanket village-level classifications fail to capture terroir nuance. A wine from Mareuil's clay-rich center shares little with one from the Clos des Goisses beyond administrative boundaries.
 
 ## The Microclimate Advantage
 
-The Marne's influence on Mareuil's mesoclimate cannot be overstated. Large bodies of water moderate temperature through thermal mass—water heats and cools more slowly than land. In spring, this delays budbreak slightly, reducing frost risk. In summer and autumn, it extends the growing season, allowing for more complete phenolic ripeness while maintaining acidity.
+The Marne's influence on Mareuil's mesoclimate cannot be overstated. Large bodies of water moderate temperature through thermal mass, water heats and cools more slowly than land. In spring, this delays budbreak slightly, reducing frost risk. In summer and autumn, it extends the growing season, allowing for more complete phenolic ripeness while maintaining acidity.
 
 The river also increases humidity, which has both benefits and risks. Higher humidity can reduce water stress during dry periods, but it also increases disease pressure, particularly for botrytis and powdery mildew. Modern viticulture in Mareuil requires vigilant canopy management and, increasingly, organic or biodynamic approaches to maintain vine health without relying on systemic fungicides.
 
-The southern and southeastern exposures capture maximum sunlight throughout the growing season. In Champagne's marginal climate, this matters enormously. The difference between a south-facing slope and a north-facing one can mean the difference between 11% and 12.5% potential alcohol—the difference between adequate and exceptional base wine.
+The southern and southeastern exposures capture maximum sunlight throughout the growing season. In Champagne's marginal climate, this matters enormously. The difference between a south-facing slope and a north-facing one can mean the difference between 11% and 12.5% potential alcohol: the difference between adequate and exceptional base wine.
 
 ## Clos des Goisses: The Benchmark
 
 No discussion of Mareuil-sur-Aÿ can avoid extended consideration of the Clos des Goisses. Owned by Philipponnat since 1935, this 5.5-hectare monopole represents one of Champagne's most distinctive terroirs.
 
-The site's defining characteristic is its extreme slope—among the steepest planted vineyards in Champagne. This gradient creates multiple effects: enhanced drainage, increased sun exposure (the slope acts as a solar collector), and warmer temperatures (cold air drains downslope rather than pooling). The chalk here sits close to the surface, providing the vine roots access to this porous, water-regulating bedrock.
+The site's defining characteristic is its extreme slope, among the steepest planted vineyards in Champagne. This gradient creates multiple effects: enhanced drainage, increased sun exposure (the slope acts as a solar collector), and warmer temperatures (cold air drains downslope rather than pooling). The chalk here sits close to the surface, providing the vine roots access to this porous, water-regulating bedrock.
 
-Philipponnat's Clos des Goisses is always vintage-dated, typically composed of approximately two-thirds Pinot Noir and one-third Chardonnay. A portion ferments in barrel, but the wine never undergoes malolactic fermentation. This choice preserves the site's formidable natural acidity—a defining characteristic that can make young Clos des Goisses almost overwhelming in its intensity. The wine receives eight years of aging sur latte before disgorgement.
+Philipponnat's Clos des Goisses is always vintage-dated, typically composed of approximately two-thirds Pinot Noir and one-third Chardonnay. A portion ferments in barrel, but the wine never undergoes malolactic fermentation. This choice preserves the site's formidable natural acidity: a defining characteristic that can make young Clos des Goisses almost overwhelming in its intensity. The wine receives eight years of aging sur latte before disgorgement.
 
-The result is a Champagne of almost violent energy in youth: piercing acidity, profound chalk-driven minerality, and a structure built for decades of evolution. With thirty years or more of bottle age, this tension resolves into vibrant complexity, the acidity integrating while the wine develops extraordinary depth. It's a profound expression of terroir—one that justifies the "superpremier cru" designation more eloquently than any bureaucratic reclassification could.
+The result is a Champagne of almost violent energy in youth: piercing acidity, profound chalk-driven minerality, and a structure built for decades of evolution. With thirty years or more of bottle age, this tension resolves into vibrant complexity, the acidity integrating while the wine develops extraordinary depth. It's a profound expression of terroir, one that justifies the "superpremier cru" designation more eloquently than any bureaucratic reclassification could.
 
 ## Key Producers and Their Approaches
 
 ### Philipponnat
 
-Beyond the Clos des Goisses, Philipponnat has recently intensified its focus on viticulture, implementing organic practices across its holdings. The house produces several other wines from Mareuil fruit, including components of their non-vintage blends and the prestige cuvée Le Léon. The new viticultural direction—emphasizing soil health, biodiversity, and reduced chemical inputs—should only enhance what has long been a legendary wine.
+Beyond the Clos des Goisses, Philipponnat has recently intensified its focus on viticulture, implementing organic practices across its holdings. The house produces several other wines from Mareuil fruit, including components of their non-vintage blends and the prestige cuvée Le Léon. The new viticultural direction (emphasizing soil health, biodiversity, and reduced chemical inputs) should only enhance what has long been a legendary wine.
 
 ### R. Pouillon et Fils
 
-Fabrice Pouillon represents Champagne's new generation: third-generation winemaker, but with a thoroughly modern approach. His 6.5 hectares are concentrated in the Grande Vallée, with significant holdings in Mareuil-sur-Aÿ. Pouillon employs organic composts, biodynamic preparations, and herbal tisanes to maintain vine health. He plows his soils rather than using herbicides—still a minority practice in Champagne.
+Fabrice Pouillon represents Champagne's new generation: third-generation winemaker, but with a thoroughly modern approach. His 6.5 hectares are concentrated in the Grande Vallée, with significant holdings in Mareuil-sur-Aÿ. Pouillon employs organic composts, biodynamic preparations, and herbal tisanes to maintain vine health. He plows his soils rather than using herbicides, still a minority practice in Champagne.
 
 Pouillon's winemaking emphasizes texture. Nearly everything ferments in barrel, and he experiments with ceramics, clay vessels, and amphorae for élevage. This creates wines of substantial richness and breadth, taking full advantage of the Grande Vallée's powerful fruit. His vintage-dated Les Blanchiens from Mareuil-sur-Aÿ showcases the eastern sector's chalky precision, while his non-vintage Blanc de Blancs (from Mareuil, Tauxières, and Aÿ) demonstrates how barrel fermentation and extended aging can build complexity without sacrificing freshness.
 
-The Extra Brut Rosé, dosed at just 5 grams per liter, shows remarkable delicacy despite its intense aromatics—a testament to the quality of the base wines. Pouillon's top cuvée, Liesse d'Harbonville, is predominantly Chardonnay, vinified in barrique. It's a wine of elegant clarity and refinement, with the longevity to develop for fifteen years or more.
+The Extra Brut Rosé, dosed at just 5 grams per liter, shows remarkable delicacy despite its intense aromatics: a testament to the quality of the base wines. Pouillon's top cuvée, Liesse d'Harbonville, is predominantly Chardonnay, vinified in barrique. It's a wine of elegant clarity and refinement, with the longevity to develop for fifteen years or more.
 
 ### Billecart-Salmon
 
-Billecart-Salmon's Clos Saint-Hilaire represents another monopole site in Mareuil-sur-Aÿ, though less celebrated than the Clos des Goisses. This one-hectare parcel, planted entirely to Pinot Noir, produces a vintage-dated wine of considerable finesse. Where Clos des Goisses emphasizes power and structure, Clos Saint-Hilaire leans toward elegance and aromatic complexity. The house style—emphasizing purity, precision, and refinement—suits this terroir well.
+Billecart-Salmon's Clos Saint-Hilaire represents another monopole site in Mareuil-sur-Aÿ, though less celebrated than the Clos des Goisses. This one-hectare parcel, planted entirely to Pinot Noir, produces a vintage-dated wine of considerable finesse. Where Clos des Goisses emphasizes power and structure, Clos Saint-Hilaire leans toward elegance and aromatic complexity. The house style (emphasizing purity, precision, and refinement) suits this terroir well.
 
 ### Jacques Selosse
 
 Anselme Selosse's Mareuil-sur-Aÿ Sous le Mont comes from parcels just behind the Clos des Goisses. Like all of Selosse's lieu-dit wines, it's based on a solera system, with the Mareuil solera established in the mid-1990s. The wine expresses Selosse's philosophy that solera's ability to obliterate vintage variation reveals the mark of place more clearly than vintage-dated wines.
 
-Sous le Mont shows the chalky intensity of Mareuil's eastern sector, but filtered through Selosse's oxidative, barrel-aged style. It's impossible to compare directly to Clos des Goisses or other Mareuil wines—the winemaking approach is too distinct. But it demonstrates that this terroir can support multiple stylistic interpretations while maintaining its fundamental character.
+Sous le Mont shows the chalky intensity of Mareuil's eastern sector, but filtered through Selosse's oxidative, barrel-aged style. It's impossible to compare directly to Clos des Goisses or other Mareuil wines: the winemaking approach is too distinct. But it demonstrates that this terroir can support multiple stylistic interpretations while maintaining its fundamental character.
 
 ### Marc Hébrart
 
@@ -80,7 +80,7 @@ Beyond the Clos des Goisses and Clos Saint-Hilaire, several lieux-dits deserve r
 
 **Les Blanchiens**: Pouillon's site, on the eastern, chalkier side of the village.
 
-The lack of widespread lieu-dit labeling in Champagne represents a missed opportunity. These sites have distinct characteristics that deserve recognition. As more producers move toward single-vineyard bottlings—following the lead of Selosse, Philipponnat, and others—the geography of Mareuil-sur-Aÿ will become clearer to consumers.
+The lack of widespread lieu-dit labeling in Champagne represents a missed opportunity. These sites have distinct characteristics that deserve recognition. As more producers move toward single-vineyard bottlings (following the lead of Selosse, Philipponnat, and others) the geography of Mareuil-sur-Aÿ will become clearer to consumers.
 
 ## Wine Characteristics and Style
 
@@ -88,7 +88,7 @@ Champagnes from Mareuil-sur-Aÿ, particularly from the eastern, chalky sector, s
 
 **Intense acidity**: The chalk provides excellent water regulation, preventing dilution while maintaining high natural acidity. This is especially pronounced in wines that skip malolactic fermentation.
 
-**Mineral tension**: Tasters frequently describe these wines as "chalky" or "mineral," though the scientific basis for such descriptors remains debated. Vineyard minerals and rocks are practically insoluble and do not volatilize—prerequisites for giving taste and odor. Yet the sensory impression persists, perhaps reflecting the wines' textural qualities and acidity profile rather than literal mineral content.
+**Mineral tension**: Tasters frequently describe these wines as "chalky" or "mineral," though the scientific basis for such descriptors remains debated. Vineyard minerals and rocks are practically insoluble and do not volatilize, prerequisites for giving taste and odor. Yet the sensory impression persists, perhaps reflecting the wines' textural qualities and acidity profile rather than literal mineral content.
 
 **Structural power**: The combination of ripe fruit (from favorable sun exposure) and high acidity creates wines with substantial structure. These are not delicate Champagnes; they demand food or extended aging.
 
@@ -104,7 +104,7 @@ Wines from the clay-rich western sector show different profiles: richer, broader
 
 Aÿ, Mareuil's immediate neighbor and a grand cru village, shares similar geology and exposure in its best sites. Jacques Selosse's Aÿ La Côte Faron and Jacquesson's Vauzelle Terme demonstrate the quality potential. The differences are subtle: Aÿ perhaps shows slightly more power and concentration, Mareuil slightly more elegance and length. But these are generalizations that individual sites and winemaking choices can easily override.
 
-The classification difference—grand cru versus premier cru—reflects historical politics more than terroir quality. Both villages deserve top-tier recognition.
+The classification difference (grand cru versus premier cru) reflects historical politics more than terroir quality. Both villages deserve top-tier recognition.
 
 ### Versus Vallée de la Marne Proper
 
@@ -114,13 +114,13 @@ Mareuil-sur-Aÿ has more in common with the Montagne de Reims than with the Vall
 
 ### Versus Montagne de Reims
 
-The Montagne de Reims's best sites—Ambonnay, Verzenay, Bouzy—produce powerful, structured Pinot Noir-based Champagnes. Mareuil matches this power but adds the river's tempering influence, creating wines with additional breadth and, in some cases, earlier approachability. The Montagne's wines can be almost austere in youth; Mareuil's show more generosity.
+The Montagne de Reims's best sites (Ambonnay, Verzenay, Bouzy) produce powerful, structured Pinot Noir-based Champagnes. Mareuil matches this power but adds the river's tempering influence, creating wines with additional breadth and, in some cases, earlier approachability. The Montagne's wines can be almost austere in youth; Mareuil's show more generosity.
 
 ## Viticulture and the Future
 
 The shift toward organic and biodynamic viticulture in Mareuil-sur-Aÿ reflects broader trends across Champagne. Producers like Pouillon lead this movement, but even established houses like Philipponnat are converting significant holdings.
 
-The chalky soils drain well, reducing disease pressure compared to heavier clay sites. This makes organic viticulture more feasible, though the river's humidity still requires vigilant canopy management. The steep slopes present mechanical challenges—much work must be done by hand, increasing labor costs but also allowing for more precise viticulture.
+The chalky soils drain well, reducing disease pressure compared to heavier clay sites. This makes organic viticulture more feasible, though the river's humidity still requires vigilant canopy management. The steep slopes present mechanical challenges, much work must be done by hand, increasing labor costs but also allowing for more precise viticulture.
 
 Climate change affects Mareuil-sur-Aÿ like all of Champagne. Rising temperatures mean higher potential alcohol, lower acidity, and earlier harvests. The Clos des Goisses, which historically struggled to ripen in cool years, now achieves full ripeness almost annually. This may be improving wine quality in the short term, but it raises questions about long-term character. Will these sites lose their distinctive tension as temperatures continue rising?
 
@@ -163,13 +163,13 @@ The high acidity and structural power of Mareuil-sur-Aÿ Champagnes make them ex
 - Sweet preparations (the wine's dryness clashes)
 - Very spicy dishes (the acidity amplifies heat)
 
-The barrel-aged, textural style of producers like Pouillon can handle richer preparations and even white meats. The oxidative character of Selosse's Sous le Mont pairs unexpectedly well with mushrooms, truffles, and aged cheeses—more Jura than Champagne in its versatility.
+The barrel-aged, textural style of producers like Pouillon can handle richer preparations and even white meats. The oxidative character of Selosse's Sous le Mont pairs unexpectedly well with mushrooms, truffles, and aged cheeses, more Jura than Champagne in its versatility.
 
 ## The Classification Question
 
 Why does Mareuil-sur-Aÿ remain a premier cru when it produces wines that rival or exceed many grand cru sites? The Échelle des Crus, Champagne's classification system, was established in 1911 and revised several times through the mid-20th century. It was designed primarily as a pricing mechanism for grapes, not a quality hierarchy like Burgundy's.
 
-The system rates villages from 80% to 100%, with grand cru villages at 100% and premier cru villages at 90-99%. Mareuil-sur-Aÿ sits at 98%—just below the grand cru threshold. This rating reflects historical grape prices and political negotiations as much as terroir quality.
+The system rates villages from 80% to 100%, with grand cru villages at 100% and premier cru villages at 90-99%. Mareuil-sur-Aÿ sits at 98%, just below the grand cru threshold. This rating reflects historical grape prices and political negotiations as much as terroir quality.
 
 The Clos des Goisses demonstrates that exceptional sites exist within premier cru villages. The same is true in Burgundy, where premier cru sites like Les Amoureuses or Clos Saint-Jacques arguably merit grand cru status. The difference is that Burgundy's system recognizes individual vineyards; Champagne's rates entire villages.
 
@@ -177,11 +177,11 @@ Will Mareuil-sur-Aÿ ever be reclassified? Unlikely. The Échelle des Crus is la
 
 ## Conclusion: A Terroir Worth Seeking
 
-Mareuil-sur-Aÿ represents everything compelling about terroir-focused Champagne. The dramatic slopes, chalky soils, and river-moderated climate create conditions for exceptional viticulture. The best sites—particularly the Clos des Goisses—produce wines of profound character and aging potential. Yet the village remains somewhat obscure, overshadowed by grand cru neighbors and undervalued by a classification system that fails to recognize individual vineyard quality.
+Mareuil-sur-Aÿ represents everything compelling about terroir-focused Champagne. The dramatic slopes, chalky soils, and river-moderated climate create conditions for exceptional viticulture. The best sites (particularly the Clos des Goisses) produce wines of profound character and aging potential. Yet the village remains somewhat obscure, overshadowed by grand cru neighbors and undervalued by a classification system that fails to recognize individual vineyard quality.
 
 For consumers, this creates opportunity. Wines from Mareuil-sur-Aÿ often offer better value than equivalent-quality grand cru Champagnes. For producers, it creates incentive to prove their terroir's worth through quality rather than relying on classification prestige.
 
-The shift toward single-vineyard bottlings and terroir-focused winemaking will only increase Mareuil-sur-Aÿ's profile. As more producers follow the examples of Philipponnat, Pouillon, Selosse, and Billecart-Salmon, the geography of this superpremier cru will become clearer. The question is not whether Mareuil-sur-Aÿ deserves recognition—the wines answer that definitively—but whether Champagne's classification system will ever catch up to reality.
+The shift toward single-vineyard bottlings and terroir-focused winemaking will only increase Mareuil-sur-Aÿ's profile. As more producers follow the examples of Philipponnat, Pouillon, Selosse, and Billecart-Salmon, the geography of this superpremier cru will become clearer. The question is not whether Mareuil-sur-Aÿ deserves recognition (the wines answer that definitively) but whether Champagne's classification system will ever catch up to reality.
 
 ---
 

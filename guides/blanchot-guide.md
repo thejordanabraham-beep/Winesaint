@@ -12,7 +12,7 @@ The climat is situated approximately 2 kilometers from the town center of Chabli
 
 Blanchot holds the distinction of being one of only seven officially recognized Grand Cru climats in Chablis, representing the pinnacle of the appellation's four-tier classification system (Petit Chablis, Chablis, Premier Cru, and Grand Cru). The Grand Cru designation was formalized in 1938 when the Institut National des Appellations d'Origine (INAO) established the boundaries and regulations governing these exceptional vineyard sites.
 
-The Grand Cru climats of Chablis—Blanchot, Les Clos, Valmur, Grenouilles, Vaudésir, Les Preuses, and Bougros—collectively represent approximately 100 hectares out of Chablis's total 5,800 hectares of vineyard land. This exclusivity, representing less than 2% of total production, underscores the exceptional nature of Blanchot's terroir and the wines it produces.
+The Grand Cru climats of Chablis (Blanchot, Les Clos, Valmur, Grenouilles, Vaudésir, Les Preuses, and Bougros) collectively represent approximately 100 hectares out of Chablis's total 5,800 hectares of vineyard land. This exclusivity, representing less than 2% of total production, underscores the exceptional nature of Blanchot's terroir and the wines it produces.
 
 ### Size and Boundaries
 
@@ -32,7 +32,7 @@ Throughout the medieval and modern periods, Blanchot developed a reputation for 
 
 Blanchot's geological foundation is built upon the famous Kimmeridgian marl, a Upper Jurassic sedimentary rock formation approximately 150 million years old. This soil type is the defining characteristic of Chablis Grand Cru terroir and contains a remarkable composition: a gray-blue limestone matrix embedded with countless fossilized oyster shells (*Exogyra virgula*) and other marine organisms from the ancient Jurassic sea that once covered this region.
 
-The Kimmeridgian marl in Blanchot is particularly rich in limestone content, with a clay-limestone balance that tends slightly more toward limestone than some neighboring climats. This composition provides excellent drainage while retaining sufficient moisture during dry periods—a crucial balance for Chardonnay viticulture. The soil depth varies across the climat, typically ranging from 30 to 50 centimeters before reaching the mother rock, though some areas feature deeper soil pockets.
+The Kimmeridgian marl in Blanchot is particularly rich in limestone content, with a clay-limestone balance that tends slightly more toward limestone than some neighboring climats. This composition provides excellent drainage while retaining sufficient moisture during dry periods: a crucial balance for Chardonnay viticulture. The soil depth varies across the climat, typically ranging from 30 to 50 centimeters before reaching the mother rock, though some areas feature deeper soil pockets.
 
 The visible presence of fossil shells in the soil has become iconic, though their direct contribution to wine minerality remains debated among scientists. What is indisputable is that this geological makeup creates a unique growing environment that imparts distinctive characteristics to the wine.
 
@@ -74,9 +74,9 @@ Annual rainfall in Chablis averages 700-750mm, distributed relatively evenly thr
 
 Spring frost represents the most significant climatic threat to Chablis viticulture, and Blanchot is no exception. The region experiences an average of 5-10 frost events per spring, with devastating episodes occurring roughly once every five years. The critical period spans from bud break in early April through late May, when young shoots are vulnerable to sub-zero temperatures.
 
-Producers with holdings in Blanchot employ various frost protection strategies. The most traditional method involves burning bales (chaufferettes)—small oil or paraffin burners placed between vine rows—which create a warming blanket of air when temperatures drop dangerously. On clear, calm nights when radiation frost threatens, the sight of thousands of burning pots across the Grand Cru slope has become an iconic, if expensive, part of Chablis viticulture.
+Producers with holdings in Blanchot employ various frost protection strategies. The most traditional method involves burning bales (chaufferettes), small oil or paraffin burners placed between vine rows, which create a warming blanket of air when temperatures drop dangerously. On clear, calm nights when radiation frost threatens, the sight of thousands of burning pots across the Grand Cru slope has become an iconic, if expensive, part of Chablis viticulture.
 
-Wind machines (éoliennes) have been installed by some producers, particularly those with larger holdings. These giant fans mix warmer air from above the inversion layer with the cold air settling at vine level, raising temperatures by 1-2°C—often sufficient to prevent damage. Sprinkler systems (aspersion) represent another approach, where water is sprayed onto vines; as it freezes, it releases latent heat that protects the buds within a protective ice coating.
+Wind machines (éoliennes) have been installed by some producers, particularly those with larger holdings. These giant fans mix warmer air from above the inversion layer with the cold air settling at vine level, raising temperatures by 1-2°C, often sufficient to prevent damage. Sprinkler systems (aspersion) represent another approach, where water is sprayed onto vines; as it freezes, it releases latent heat that protects the buds within a protective ice coating.
 
 Modern weather forecasting and precision temperature monitoring allow producers to deploy protection measures strategically, though the costs remain substantial. The investment required for frost protection in Grand Cru vineyards is justified by the wine's value and the irreplaceable nature of these terroirs.
 
@@ -96,23 +96,23 @@ Canopy management is crucial in Chablis's cool climate, with careful leaf thinni
 
 Sustainable and organic viticulture has gained increasing adoption in Blanchot, with several leading producers farming organically or biodynamically. The limestone soils naturally resist compaction and maintain good soil biology, while the slope's excellent drainage reduces disease pressure. Cover crops, composting, and reduced copper usage represent common practices among quality-conscious domaines.
 
-Harvest timing in Blanchot typically occurs in mid-to-late September, though vintage variation can shift this by two weeks either direction. Producers seek the optimal balance between sugar ripeness, acidity retention, and aromatic maturity—a narrower window than in warmer regions. Hand harvesting remains standard for Grand Cru fruit, allowing selective picking and gentle handling.
+Harvest timing in Blanchot typically occurs in mid-to-late September, though vintage variation can shift this by two weeks either direction. Producers seek the optimal balance between sugar ripeness, acidity retention, and aromatic maturity: a narrower window than in warmer regions. Hand harvesting remains standard for Grand Cru fruit, allowing selective picking and gentle handling.
 
 ## Wine Character & Style
 
 ### Typical Flavor Profiles and Aromas
 
-Blanchot produces wines of extraordinary refinement, characterized by a complex aromatic profile that evolves gracefully with age. In youth, the wines display intense primary aromas: white flowers (acacia, hawthorn, white lilac), citrus fruits (lemon zest, lime, grapefruit), green apple, and white peach. The mineral signature is pronounced, often described as wet stone, flint, oyster shell, or sea spray—a saline, iodine-tinged character that speaks directly to the terroir.
+Blanchot produces wines of extraordinary refinement, characterized by a complex aromatic profile that evolves gracefully with age. In youth, the wines display intense primary aromas: white flowers (acacia, hawthorn, white lilac), citrus fruits (lemon zest, lime, grapefruit), green apple, and white peach. The mineral signature is pronounced, often described as wet stone, flint, oyster shell, or sea spray: a saline, iodine-tinged character that speaks directly to the terroir.
 
 As the wines develop, secondary and tertiary aromas emerge: honey, beeswax, toasted almond, hazelnut, dried herbs, and sometimes white truffle or mushroom. The mineral backbone remains constant, providing a through-line that connects youth to maturity. Many tasters describe Blanchot wines as having a particular purity and precision, with aromatics that are focused rather than diffuse, crystalline rather than broad.
 
 On the palate, Blanchot reveals its true character: a wine of texture and nuance rather than power. The attack is typically energetic and fresh, with vibrant acidity that frames and lifts the fruit. The mid-palate shows impressive density without heaviness, a silky, almost creamy texture that coats the mouth. The limestone terroir contributes a chalky, fine-grained tannin-like structure that provides grip and definition.
 
-The finish is long and saline, often leaving a mouthwatering minerality that calls for another sip. The balance between fruit intensity, acidity, and mineral character defines Blanchot's style—neither too austere nor too generous, finding an elegant middle path.
+The finish is long and saline, often leaving a mouthwatering minerality that calls for another sip. The balance between fruit intensity, acidity, and mineral character defines Blanchot's style, neither too austere nor too generous, finding an elegant middle path.
 
 ### Comparison to Other Chablis Grand Crus
 
-Within the constellation of Chablis Grand Crus, Blanchot occupies a distinctive position. Compared to Les Clos—often considered the most powerful and structured Grand Cru—Blanchot offers greater immediate approachability and finesse. Where Les Clos can be almost impenetrable in youth, requiring years to reveal its complexity, Blanchot shows more aromatics and texture from the outset while still possessing serious aging potential.
+Within the constellation of Chablis Grand Crus, Blanchot occupies a distinctive position. Compared to Les Clos, often considered the most powerful and structured Grand Cru. Blanchot offers greater immediate approachability and finesse. Where Les Clos can be almost impenetrable in youth, requiring years to reveal its complexity, Blanchot shows more aromatics and texture from the outset while still possessing serious aging potential.
 
 Relative to Valmur, which lies adjacent to the east, Blanchot tends toward greater elegance and less overt richness. Valmur often displays more tropical fruit notes and broader texture, while Blanchot maintains a tighter, more linear profile. The difference reflects subtle variations in soil depth and composition, as well as slightly different sun exposure patterns.
 
@@ -126,7 +126,7 @@ The concept of minerality in wine remains controversial among scientists, but in
 
 Acidity in Blanchot is typically high by global standards but beautifully integrated within the wine's structure. Total acidity often measures 6-8 g/L, with pH values around 3.0-3.2. This natural acidity preserves freshness, provides aging potential, and creates the mouthwatering quality that makes Chablis the perfect wine for oysters and seafood. The acidity is rarely aggressive or sharp; instead, it presents as energetic and vivacious, contributing to the wine's overall harmony.
 
-Body and texture represent perhaps Blanchot's most distinctive qualities. These are not lightweight wines despite their elegance; they possess surprising density and presence on the palate. The body is typically medium to medium-full, with alcohol levels around 12.5-13.5%. The texture is particularly noteworthy—a combination of silkiness from lees contact and fine-grained structure from the limestone terroir creates a tactile experience that distinguishes great Chablis from mere good examples.
+Body and texture represent perhaps Blanchot's most distinctive qualities. These are not lightweight wines despite their elegance; they possess surprising density and presence on the palate. The body is typically medium to medium-full, with alcohol levels around 12.5-13.5%. The texture is particularly noteworthy: a combination of silkiness from lees contact and fine-grained structure from the limestone terroir creates a tactile experience that distinguishes great Chablis from mere good examples.
 
 ### How Terroir Shapes the Wine
 
@@ -134,7 +134,7 @@ Every element of Blanchot's terroir contributes to the wine's final character. T
 
 The southwest exposition ensures adequate warmth for full phenolic ripeness while the northern latitude preserves acidity and aromatic freshness. The slope angle promotes air movement and drainage, reducing disease pressure and frost risk. The altitude moderates temperature extremes, creating a longer, more gradual ripening period that develops complexity without losing elegance.
 
-The mesoclimate created by the amphitheater-like Grand Cru slope concentrates warmth and light, creating conditions several degrees warmer than the surrounding region—enough to reliably ripen Chardonnay to Grand Cru quality standards while maintaining the tension and energy that defines great Chablis. In Blanchot, all these factors align to produce wines that are unmistakably of their place, impossible to replicate elsewhere.
+The mesoclimate created by the amphitheater-like Grand Cru slope concentrates warmth and light, creating conditions several degrees warmer than the surrounding region, enough to reliably ripen Chardonnay to Grand Cru quality standards while maintaining the tension and energy that defines great Chablis. In Blanchot, all these factors align to produce wines that are unmistakably of their place, impossible to replicate elsewhere.
 
 ## Aging & Evolution
 
@@ -150,7 +150,7 @@ Proper cellaring conditions are essential for realizing Blanchot's aging potenti
 
 The evolution of Blanchot in bottle follows a predictable but fascinating trajectory. In the first 1-3 years, the wines display vibrant primary fruit, intense florality, and pronounced minerality. The acidity is prominent, the texture still developing, and oak influences (if present) still integrating. These young wines offer intense pleasure but only hint at future complexity.
 
-Between 3-8 years, the wines typically become more reserved, with primary fruit receding and secondary characteristics not yet fully developed. The mineral backbone becomes more apparent, and the texture gains weight and complexity. This intermediate stage requires discernment—the wines are not at their peak but show fascinating evolution.
+Between 3-8 years, the wines typically become more reserved, with primary fruit receding and secondary characteristics not yet fully developed. The mineral backbone becomes more apparent, and the texture gains weight and complexity. This intermediate stage requires discernment: the wines are not at their peak but show fascinating evolution.
 
 From 8-15 years, Blanchot reaches its first plateau of maturity. The aromatics become more complex, showing honey, nut, dried fruit, and mushroom alongside retained citrus notes. The texture is silky and fully integrated, the acidity remains vibrant but softer, and the mineral character provides structure and definition. This is when many enthusiasts prefer to drink their wines.
 
@@ -174,7 +174,7 @@ Vintage variation in Chablis is significant due to the marginal climate. Warm, s
 
 Frost years can reduce yields dramatically but may produce concentrated wines from the surviving fruit. Hail damage, though less frequent, can devastate production in affected areas. These vintage variables make knowledge of specific years essential for collectors and consumers.
 
-Some benchmark vintages for Blanchot include: 2002, 2005, 2008, 2010, 2012, 2014, 2017, and 2018—each offering different expressions of the terroir based on seasonal conditions. Consulting vintage charts and producer notes helps navigate this complexity.
+Some benchmark vintages for Blanchot include: 2002, 2005, 2008, 2010, 2012, 2014, 2017, and 2018, each offering different expressions of the terroir based on seasonal conditions. Consulting vintage charts and producer notes helps navigate this complexity.
 
 ## Notable Producers
 
@@ -203,7 +203,7 @@ When exploring Blanchot, several bottlings stand out as reference points:
 - **Christian Moreau Blanchot**: Old-vine intensity with classical winemaking
 - **Domaine Laroche Blanchots Réserve de l'Obédience**: Premium cuvée showing ultimate potential
 
-These bottlings offer different perspectives on the same terroir, illustrating how winemaking choices interact with site characteristics. Comparative tastings of these producers reveal Blanchot's common threads—minerality, elegance, structure—while showcasing different stylistic interpretations.
+These bottlings offer different perspectives on the same terroir, illustrating how winemaking choices interact with site characteristics. Comparative tastings of these producers reveal Blanchot's common threads (minerality, elegance, structure) while showcasing different stylistic interpretations.
 
 ### Winemaking Approaches
 
@@ -215,7 +215,7 @@ Malolactic fermentation is typically completed, softening the naturally high mal
 
 Oak usage varies dramatically: from zero (Louis Michel) to 30-50% new oak (William Fèvre), with most producers falling somewhere in between. The trend in recent years has moved toward larger format oak (400-600L) and lower new oak percentages, allowing terroir to speak more clearly while still benefiting from micro-oxygenation and textural enhancement.
 
-Bottling typically occurs 15-20 months after harvest, often without fining or filtration for top cuvées, though light filtration remains common. The goal across all approaches is preserving the essential character of Blanchot—its elegance, minerality, and aging potential—while imprinting an individual stamp.
+Bottling typically occurs 15-20 months after harvest, often without fining or filtration for top cuvées, though light filtration remains common. The goal across all approaches is preserving the essential character of Blanchot (its elegance, minerality, and aging potential) while imprinting an individual stamp.
 
 ## Food Pairing & Service
 
@@ -223,7 +223,7 @@ Bottling typically occurs 15-20 months after harvest, often without fining or fi
 
 Blanchot's elegance, acidity, and mineral character make it extraordinarily versatile with food, though certain pairings have achieved classic status:
 
-**Oysters**: The iconic pairing—Blanchot's saline minerality and high acidity perfectly complement raw oysters, especially those from Normandy or Brittany. The wine's subtle citrus notes enhance the bivalves' sweetness while its minerality mirrors their oceanic character.
+**Oysters**: The iconic pairing. Blanchot's saline minerality and high acidity perfectly complement raw oysters, especially those from Normandy or Brittany. The wine's subtle citrus notes enhance the bivalves' sweetness while its minerality mirrors their oceanic character.
 
 **Lobster and Crab**: Rich crustaceans find an ideal partner in Blanchot, whose acidity cuts through butter-based preparations while its texture matches the meat's density. Lobster thermidor, crab bisque, or simple grilled preparations all excel.
 
@@ -239,7 +239,7 @@ Blanchot's elegance, acidity, and mineral character make it extraordinarily vers
 
 ### Serving Temperature
 
-Proper serving temperature is crucial for experiencing Blanchot's full complexity. The wine should be served at 10-12°C (50-54°F)—cool but not cold. Over-chilling mutes aromatics and makes the wine seem more austere, while serving too warm emphasizes alcohol and reduces freshness.
+Proper serving temperature is crucial for experiencing Blanchot's full complexity. The wine should be served at 10-12°C (50-54°F), cool but not cold. Over-chilling mutes aromatics and makes the wine seem more austere, while serving too warm emphasizes alcohol and reduces freshness.
 
 Remove the bottle from a 6-8°C refrigerator about 20-30 minutes before serving, or place it in an ice bucket for 10-15 minutes. If the wine seems closed upon opening, allowing it to warm gradually in the glass reveals additional layers of complexity.
 
@@ -261,4 +261,4 @@ When in doubt, taste upon opening and make decisions based on the wine's present
 
 ---
 
-Blanchot represents one of Burgundy's most refined expressions of Chardonnay, a climat where the Kimmeridgian terroir speaks with particular elegance and finesse. Understanding this Grand Cru requires patience—both in the cellar as the wines evolve and in the glass as they reveal their complexities. For those willing to invest the time and attention, Blanchot offers rewards that few white wines can match: a perfect balance of power and restraint, fruit and mineral, immediacy and profundity. It stands as testimony to the remarkable diversity within Chablis's compact Grand Cru slope, a unique voice in one of the wine world's most prestigious ensembles.
+Blanchot represents one of Burgundy's most refined expressions of Chardonnay, a climat where the Kimmeridgian terroir speaks with particular elegance and finesse. Understanding this Grand Cru requires patience, both in the cellar as the wines evolve and in the glass as they reveal their complexities. For those willing to invest the time and attention, Blanchot offers rewards that few white wines can match: a perfect balance of power and restraint, fruit and mineral, immediacy and profundity. It stands as testimony to the remarkable diversity within Chablis's compact Grand Cru slope, a unique voice in one of the wine world's most prestigious ensembles.

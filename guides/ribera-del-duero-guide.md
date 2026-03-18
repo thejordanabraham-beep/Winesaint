@@ -2,7 +2,7 @@
 
 Ribera del Duero makes some of the most powerful, age-worthy expressions of Tempranillo in the world. This is not hyperbole. While Rioja claims historical prestige and international recognition, Ribera del Duero offers something more primal: wines of extraordinary concentration, structure, and longevity forged in one of Europe's most extreme continental climates.
 
-The region occupies a narrow corridor along the Duero River (the same waterway that becomes Portugal's famous Douro) on the Meseta Central, Spain's vast interior plateau. Here, at elevations reaching 850-1,000 meters above sea level, vines endure scorching summer days, frigid nights, and winters cold enough to kill unprotected vines. The result? Tempranillo—known locally as Tinto Fino or Tinta del País—develops thicker skins, higher tannin levels, and more intense color than virtually anywhere else in Spain.
+The region occupies a narrow corridor along the Duero River (the same waterway that becomes Portugal's famous Douro) on the Meseta Central, Spain's vast interior plateau. Here, at elevations reaching 850-1,000 meters above sea level, vines endure scorching summer days, frigid nights, and winters cold enough to kill unprotected vines. The result? Tempranillo (known locally as Tinto Fino or Tinta del País) develops thicker skins, higher tannin levels, and more intense color than virtually anywhere else in Spain.
 
 The modern DO dates only to 1982, making it younger than most American wine drinkers. Yet its viticultural history stretches back centuries, and its rapid ascent from obscurity to international acclaim represents one of the wine world's most dramatic transformations. Understanding why requires examining the geology beneath these high-altitude vineyards, the climate that shapes them, and the specific biotypes of Tempranillo that have adapted to survive here.
 
@@ -10,11 +10,11 @@ The modern DO dates only to 1982, making it younger than most American wine drin
 
 ### Foundation and Formation
 
-The Meseta Central—the elevated plateau that dominates interior Spain—began forming approximately 300 million years ago during the Variscan orogeny, when tectonic collisions created the Iberian Massif. This ancient basement rock, composed primarily of granite and metamorphic formations, provides the geological foundation for everything above it.
+The Meseta Central (the elevated plateau that dominates interior Spain) began forming approximately 300 million years ago during the Variscan orogeny, when tectonic collisions created the Iberian Massif. This ancient basement rock, composed primarily of granite and metamorphic formations, provides the geological foundation for everything above it.
 
 The Duero River valley itself represents a more recent geological feature. During the Miocene epoch (23-5 million years ago), the region underwent significant sedimentation as ancient river systems deposited layers of limestone, clay, sand, and gravel across the plateau. These sedimentary deposits now form the primary soil types encountered in Ribera del Duero's vineyards, typically reaching depths of 2-15 meters before hitting the older basement rock.
 
-The river carved its current path through these sedimentary layers during the Pliocene and Pleistocene epochs, creating the characteristic terraces that define the region's topography. These terraces—geological "steps" rising from the riverbed—provide the prime vineyard sites, with distinct soil compositions at different elevations.
+The river carved its current path through these sedimentary layers during the Pliocene and Pleistocene epochs, creating the characteristic terraces that define the region's topography. These terraces (geological "steps" rising from the riverbed) provide the prime vineyard sites, with distinct soil compositions at different elevations.
 
 ### Soil Types and Distribution
 
@@ -22,13 +22,13 @@ The dominant soil type across Ribera del Duero is calcareous clay, accounting fo
 
 The second major soil type is sandy-clay over limestone bedrock, found primarily in the higher terraces and accounting for approximately 20-25% of plantings. These soils offer excellent drainage and force vines to root deeply, accessing water and nutrients from fractured limestone below. Vineyards on these soils typically produce wines with higher acidity and more pronounced mineral character.
 
-A third category—alluvial deposits of sand, gravel, and rounded stones—occupies the lower terraces closest to the river, representing perhaps 10-15% of the region. These younger soils, deposited by the Duero during flood events, warm quickly in spring but can struggle with water stress in dry vintages. They're generally considered less prestigious for quality wine production.
+A third category (alluvial deposits of sand, gravel, and rounded stones) occupies the lower terraces closest to the river, representing perhaps 10-15% of the region. These younger soils, deposited by the Duero during flood events, warm quickly in spring but can struggle with water stress in dry vintages. They're generally considered less prestigious for quality wine production.
 
 ### The Rioja Comparison
 
-Comparing Ribera del Duero's geology to Rioja Alavesa and Rioja Alta—Spain's other famous Tempranillo regions—reveals instructive differences. Rioja's vineyards sit at lower elevations (400-600 meters versus 750-1,000 meters) on soils formed by the Ebro River's alluvial deposits mixed with calcareous clay. Rioja's soil profile tends toward higher fertility and deeper topsoil, which partially explains the region's traditionally higher yields and more elegant, perfumed wine style.
+Comparing Ribera del Duero's geology to Rioja Alavesa and Rioja Alta (Spain's other famous Tempranillo regions) reveals instructive differences. Rioja's vineyards sit at lower elevations (400-600 meters versus 750-1,000 meters) on soils formed by the Ebro River's alluvial deposits mixed with calcareous clay. Rioja's soil profile tends toward higher fertility and deeper topsoil, which partially explains the region's traditionally higher yields and more elegant, perfumed wine style.
 
-Ribera del Duero's thinner topsoil layer and higher limestone content create more viticultural stress. Vines work harder here. This geological reality, combined with extreme climate, produces smaller berries with higher skin-to-juice ratios—the physical basis for Ribera's characteristic color intensity and tannic structure.
+Ribera del Duero's thinner topsoil layer and higher limestone content create more viticultural stress. Vines work harder here. This geological reality, combined with extreme climate, produces smaller berries with higher skin-to-juice ratios: the physical basis for Ribera's characteristic color intensity and tannic structure.
 
 The iron content in Ribera del Duero's soils also deserves mention. While not as pronounced as in some volcanic regions, the presence of iron oxides (particularly in the clay-limestone soils) contributes to the distinctive rusty-red color of the topsoil and may influence the wines' deep purple-black hues.
 
@@ -38,15 +38,15 @@ The iron content in Ribera del Duero's soils also deserves mention. While not as
 
 Ribera del Duero occupies the highest significant wine region in Spain, with most vineyards planted between 750-1,000 meters above sea level. Some parcels exceed 1,000 meters, pushing the viable limits for ripening Tempranillo. For context, Burgundy's Côte d'Or sits at 200-400 meters; Rioja ranges from 400-700 meters; even Priorat rarely exceeds 700 meters.
 
-This elevation creates a paradox: despite sitting at roughly 41-42°N latitude (similar to Rome or northern California), Ribera del Duero experiences one of Europe's most extreme continental climates. The altitude moderates summer heat while amplifying winter cold and increasing diurnal temperature variation—the swing between daytime highs and nighttime lows.
+This elevation creates a paradox: despite sitting at roughly 41-42°N latitude (similar to Rome or northern California), Ribera del Duero experiences one of Europe's most extreme continental climates. The altitude moderates summer heat while amplifying winter cold and increasing diurnal temperature variation: the swing between daytime highs and nighttime lows.
 
-During the growing season (April-October), diurnal shifts regularly exceed 20°C (36°F). A typical August day might reach 35°C (95°F) at 3 PM, then plummet to 12°C (54°F) by dawn. This dramatic cooling preserves acidity and aromatic compounds that would otherwise be lost in sustained heat. It's the primary reason Ribera del Duero produces wines with both power and freshness—a combination that shouldn't theoretically coexist.
+During the growing season (April-October), diurnal shifts regularly exceed 20°C (36°F). A typical August day might reach 35°C (95°F) at 3 PM, then plummet to 12°C (54°F) by dawn. This dramatic cooling preserves acidity and aromatic compounds that would otherwise be lost in sustained heat. It's the primary reason Ribera del Duero produces wines with both power and freshness: a combination that shouldn't theoretically coexist.
 
 ### The Mountain Ring
 
 Ribera del Duero's continental extremes are amplified by geography. The region sits landlocked in the center of the Iberian Peninsula, surrounded by mountain ranges that block maritime influence from the Atlantic (300 kilometers west) and Mediterranean (250 kilometers east). The Sistema Central mountains to the south and the Cordillera Cantábrica to the north create an effective climatic barrier.
 
-This isolation means the region receives minimal moderating influence from large bodies of water. Summer heat builds without oceanic cooling; winter cold descends without coastal buffering. The result is an annual temperature range that can span 50°C—from summer highs of 40°C to winter lows of -10°C or colder.
+This isolation means the region receives minimal moderating influence from large bodies of water. Summer heat builds without oceanic cooling; winter cold descends without coastal buffering. The result is an annual temperature range that can span 50°C, from summer highs of 40°C to winter lows of -10°C or colder.
 
 ### Precipitation Patterns and Drought
 
@@ -54,7 +54,7 @@ Annual rainfall in Ribera del Duero averages just 400-450mm (16-18 inches), conc
 
 However, the region's low rainfall combined with high evapotranspiration rates creates significant water stress. Vines must root deeply to access moisture, and drought years can severely impact yields. The 2022 vintage saw some areas receive barely 250mm of annual rainfall, pushing even deep-rooted old vines to their limits.
 
-Irrigation remains controversial and highly regulated. The DO permits supplemental irrigation only for young vines (under four years) and in cases of extreme drought with official authorization. This restriction forces producers to select appropriate sites and rootstocks for dry-farming—a quality-driven constraint that separates serious producers from those seeking easy yields.
+Irrigation remains controversial and highly regulated. The DO permits supplemental irrigation only for young vines (under four years) and in cases of extreme drought with official authorization. This restriction forces producers to select appropriate sites and rootstocks for dry-farming: a quality-driven constraint that separates serious producers from those seeking easy yields.
 
 ### Frost: The Perennial Threat
 
@@ -62,7 +62,7 @@ Spring frost represents the single greatest climatic risk in Ribera del Duero. L
 
 The region's high elevation and continental climate create ideal frost conditions: clear spring nights allow rapid radiative cooling, and cold air settles in valley bottoms and depressions. Vineyards on mid-slopes and plateaus fare better than those in frost pockets near the river.
 
-Some producers have invested in frost protection systems—wind machines, heaters, or sprinkler systems—but these remain relatively rare given the cost and the region's traditional focus on dry-farming. Most growers simply accept frost as an unavoidable risk, maintaining lower yields in good years to compensate for inevitable losses.
+Some producers have invested in frost protection systems (wind machines, heaters, or sprinkler systems) but these remain relatively rare given the cost and the region's traditional focus on dry-farming. Most growers simply accept frost as an unavoidable risk, maintaining lower yields in good years to compensate for inevitable losses.
 
 ### Climate Change Impacts
 
@@ -76,7 +76,7 @@ These shifts present both challenges and opportunities. Warmer temperatures impr
 
 ### Tempranillo: Tinto Fino and Tinta del País
 
-Tempranillo dominates Ribera del Duero, representing 95%+ of plantings and forming the backbone of virtually every wine. But this isn't generic Tempranillo. The biotypes cultivated here—known locally as Tinto Fino or Tinta del País—have adapted over centuries to the region's extreme conditions, developing distinct characteristics that differentiate them from Tempranillo clones in Rioja, Toro, or elsewhere in Spain.
+Tempranillo dominates Ribera del Duero, representing 95%+ of plantings and forming the backbone of virtually every wine. But this isn't generic Tempranillo. The biotypes cultivated here (known locally as Tinto Fino or Tinta del País) have adapted over centuries to the region's extreme conditions, developing distinct characteristics that differentiate them from Tempranillo clones in Rioja, Toro, or elsewhere in Spain.
 
 **Genetic Identity and Clonal Variation**
 
@@ -86,7 +86,7 @@ The most significant clonal selections include Tinto Fino RJ-43, RJ-51, and seve
 
 **Viticultural Characteristics**
 
-Tinto Fino buds relatively early—typically late March to early April—making it vulnerable to spring frost. The variety is moderately vigorous and responds well to the region's calcareous soils, which help control excessive vegetative growth. Left unchecked, Tempranillo can produce large crops of dilute fruit, but Ribera del Duero's combination of altitude, drought, and limestone naturally limits yields.
+Tinto Fino buds relatively early (typically late March to early April) making it vulnerable to spring frost. The variety is moderately vigorous and responds well to the region's calcareous soils, which help control excessive vegetative growth. Left unchecked, Tempranillo can produce large crops of dilute fruit, but Ribera del Duero's combination of altitude, drought, and limestone naturally limits yields.
 
 The variety ripens in mid-to-late September in most sites, though harvest can extend into October at higher elevations or in cooler vintages. Achieving full phenolic ripeness while maintaining adequate acidity requires the long growing season that altitude provides. In warm, low-elevation sites, Tinto Fino can ripen too quickly, producing high-alcohol wines lacking freshness.
 
@@ -130,11 +130,11 @@ Pure Albillo wines exist but remain rare. The variety requires careful handling 
 
 **The Comparison Question**
 
-Ribera del Duero inevitably invites comparison to Rioja—Spain's two most prominent Tempranillo regions locked in perpetual contrast. The conventional wisdom holds that Rioja produces elegant, perfumed, lighter-bodied wines while Ribera del Duero makes powerful, dark, tannic bruisers. This characterization contains truth but oversimplifies both regions' stylistic diversity.
+Ribera del Duero inevitably invites comparison to Rioja. Spain's two most prominent Tempranillo regions locked in perpetual contrast. The conventional wisdom holds that Rioja produces elegant, perfumed, lighter-bodied wines while Ribera del Duero makes powerful, dark, tannic bruisers. This characterization contains truth but oversimplifies both regions' stylistic diversity.
 
-Ribera del Duero wines do tend toward darker fruit profiles—blackberry, black cherry, plum—versus Rioja's red cherry and strawberry. Tannin levels are generally higher, color intensity greater, and alcohol often 0.5-1% higher. These differences stem from Ribera's altitude, diurnal temperature variation, and the specific Tinto Fino biotypes cultivated here.
+Ribera del Duero wines do tend toward darker fruit profiles (blackberry, black cherry, plum) versus Rioja's red cherry and strawberry. Tannin levels are generally higher, color intensity greater, and alcohol often 0.5-1% higher. These differences stem from Ribera's altitude, diurnal temperature variation, and the specific Tinto Fino biotypes cultivated here.
 
-However, significant stylistic variation exists within Ribera del Duero. Wines from Soria province (the region's eastern extreme) often show brighter acidity, lighter body, and more red fruit character—closer to Rioja than to the powerful wines from Valladolid or Burgos provinces. Elevation matters: wines from 1,000-meter vineyards differ markedly from those at 750 meters. And winemaking philosophy varies enormously, from traditional extended oak aging to minimal-intervention natural wines.
+However, significant stylistic variation exists within Ribera del Duero. Wines from Soria province (the region's eastern extreme) often show brighter acidity, lighter body, and more red fruit character, closer to Rioja than to the powerful wines from Valladolid or Burgos provinces. Elevation matters: wines from 1,000-meter vineyards differ markedly from those at 750 meters. And winemaking philosophy varies enormously, from traditional extended oak aging to minimal-intervention natural wines.
 
 ### Production Methods and Oak Aging
 
@@ -142,15 +142,15 @@ However, significant stylistic variation exists within Ribera del Duero. Wines f
 
 The traditional Ribera del Duero style emphasizes extended oak aging in small American or French oak barrels. This approach, modeled partly on Rioja's practices and partly on Bordeaux, aims to soften Tinto Fino's substantial tannins and add vanilla, toast, and spice notes to the wine's fruit core.
 
-Historically, American oak dominated—cheaper, more available, and imparting the sweet vanilla and coconut notes Spanish consumers expected. Barrels were often used for many years, contributing texture and oxidation rather than strong oak flavor. Extended aging (2-4 years in barrel plus additional bottle aging) was standard for top wines.
+Historically, American oak dominated, cheaper, more available, and imparting the sweet vanilla and coconut notes Spanish consumers expected. Barrels were often used for many years, contributing texture and oxidation rather than strong oak flavor. Extended aging (2-4 years in barrel plus additional bottle aging) was standard for top wines.
 
-This method produces wines of considerable power and longevity. The best examples develop complex tertiary aromas—leather, tobacco, dried fruit, forest floor—while maintaining fruit intensity and structure for decades. Vega Sicilia's Único, aged for a decade before release, represents the apotheosis of this style.
+This method produces wines of considerable power and longevity. The best examples develop complex tertiary aromas (leather, tobacco, dried fruit, forest floor) while maintaining fruit intensity and structure for decades. Vega Sicilia's Único, aged for a decade before release, represents the apotheosis of this style.
 
 **Modern Evolution**
 
 Beginning in the 1990s and accelerating through the 2000s-2010s, many producers shifted toward French oak, shorter aging periods, and larger barrel formats. This evolution reflected changing consumer preferences, influence from international winemaking consultants, and a desire to emphasize fruit and terroir over oak character.
 
-French oak—particularly from Allier, Tronçais, and Vosges forests—imparts more subtle flavors than American oak: toast, spice, and savory notes rather than sweet vanilla. Barrels are replaced more frequently (every 3-5 years versus 10+ years), and aging periods have shortened to 12-24 months for many wines.
+French oak (particularly from Allier, Tronçais, and Vosges forests) imparts more subtle flavors than American oak: toast, spice, and savory notes rather than sweet vanilla. Barrels are replaced more frequently (every 3-5 years versus 10+ years), and aging periods have shortened to 12-24 months for many wines.
 
 Some producers have adopted 500-liter puncheons or larger foudres to minimize oak influence while still providing the micro-oxygenation benefits of barrel aging. Others ferment in concrete or stainless steel and age in barrel only briefly, or skip barrel aging entirely for their younger wines.
 
@@ -170,7 +170,7 @@ The DO Ribera del Duero enforces strict minimum aging requirements, among the mo
 
 These requirements exceed those in Rioja (where Crianza requires only 12 months total aging, 6 in oak) and most other Spanish DOs. They reflect Ribera del Duero's commitment to age-worthy wines and the region's belief that its powerful Tinto Fino benefits from extended maturation.
 
-However, many producers—particularly quality-focused estates—have moved away from these designations. They argue that the labels emphasize aging time over quality and don't reflect modern winemaking. A wine labeled simply "Ribera del Duero" with no aging designation may have seen 18 months in French oak and represent the estate's top cuvée, while a Gran Reserva from a bulk producer might be mediocre wine that sat in old barrels for five years.
+However, many producers (particularly quality-focused estates) have moved away from these designations. They argue that the labels emphasize aging time over quality and don't reflect modern winemaking. A wine labeled simply "Ribera del Duero" with no aging designation may have seen 18 months in French oak and represent the estate's top cuvée, while a Gran Reserva from a bulk producer might be mediocre wine that sat in old barrels for five years.
 
 ### Rosado: The Overlooked Category
 
@@ -202,7 +202,7 @@ The region divides informally into several geographic areas based on provincial 
 
 **Burgos (Central Zone)**: The heart of production, including Aranda de Duero (the region's largest town and commercial center), Roa, and La Horra. Diverse soil types and elevations produce varied wine styles. Most of the DO's large bodegas are located here.
 
-**Soria (Eastern Zone)**: The highest, coolest, and most recently developed area. Vineyards here often exceed 900-1,000 meters elevation. Wines tend toward brighter acidity, more elegant structure, and red fruit character—distinctly different from the power of western zones.
+**Soria (Eastern Zone)**: The highest, coolest, and most recently developed area. Vineyards here often exceed 900-1,000 meters elevation. Wines tend toward brighter acidity, more elegant structure, and red fruit character, distinctly different from the power of western zones.
 
 ### The Single-Appellation Debate
 
@@ -216,7 +216,7 @@ The contrast with neighboring Rioja is instructive. Rioja's established subregio
 
 ### The Founding Estates
 
-**Vega Sicilia**: The region's most iconic producer, founded in 1864 when Don Eloy Lecanda planted Bordeaux varieties alongside Tempranillo. The estate's Único—a blend of Tinto Fino with Cabernet Sauvignon, Merlot, and Malbec aged for a decade before release—represents Ribera del Duero's most prestigious wine. Único consistently ranks among Spain's greatest wines, with prices and critical acclaim to match. The estate also produces Valbuena (aged 5 years) and Alión (a more modern, Tinto Fino-focused wine from a separate project).
+**Vega Sicilia**: The region's most iconic producer, founded in 1864 when Don Eloy Lecanda planted Bordeaux varieties alongside Tempranillo. The estate's Único (a blend of Tinto Fino with Cabernet Sauvignon, Merlot, and Malbec aged for a decade before release) represents Ribera del Duero's most prestigious wine. Único consistently ranks among Spain's greatest wines, with prices and critical acclaim to match. The estate also produces Valbuena (aged 5 years) and Alión (a more modern, Tinto Fino-focused wine from a separate project).
 
 **Pesquera**: Alejandro Fernández established Bodegas Pesquera in 1972 and released his first vintage in 1975, before the DO existed. His powerful, 100% Tinto Fino wines helped define the modern Ribera del Duero style and proved the region could produce world-class wines without Bordeaux varieties. Pesquera's success inspired a generation of producers and contributed significantly to the DO's establishment in 1982.
 
@@ -224,7 +224,7 @@ The contrast with neighboring Rioja is instructive. Rioja's established subregio
 
 The 1980s-1990s saw an explosion of new producers, investment, and quality improvement. Peter Sisseck's Pingus (first vintage 1995) demonstrated that Ribera del Duero could command Bordeaux-level prices for tiny-production, terroir-focused wines. Other notable estates emerged: Aalto, Dominio de Pingus, Hacienda Monasterio, Pago de Carraovejas, and many others.
 
-This period brought international consultants, modern winemaking techniques, and significant capital investment. Quality improved dramatically, but some critics argued that wines became homogenized—powerful, extracted, heavily oaked, and indistinguishable from one another.
+This period brought international consultants, modern winemaking techniques, and significant capital investment. Quality improved dramatically, but some critics argued that wines became homogenized, powerful, extracted, heavily oaked, and indistinguishable from one another.
 
 ### The Contemporary Scene
 
@@ -232,7 +232,7 @@ The current generation of producers shows greater stylistic diversity. Some cont
 
 Notable contemporary producers include: Dominio del Águila (old-vine, terroir-focused wines), Comando G (natural wines with minimal intervention), Bodegas y Viñedos Alonso del Yerro (elegant, balanced style), and Bodegas Emilio Moro (family estate producing consistently excellent wines across multiple tiers).
 
-The region now contains approximately 300 bodegas, ranging from historic estates to modern cooperatives to tiny garage operations. This diversity offers consumers unprecedented choice but also requires careful selection—the DO label alone guarantees nothing about quality or style.
+The region now contains approximately 300 bodegas, ranging from historic estates to modern cooperatives to tiny garage operations. This diversity offers consumers unprecedented choice but also requires careful selection: the DO label alone guarantees nothing about quality or style.
 
 ## PRACTICAL MATTERS: Drinking, Storing, and Pairing
 
@@ -248,7 +248,7 @@ The region now contains approximately 300 bodegas, ranging from historic estates
 
 ### Serving Temperature and Decanting
 
-Ribera del Duero's power and tannin demand appropriate serving conditions. Serve at 16-18°C (60-64°F)—cooler than room temperature but warmer than typical refrigerator temperature. Over-warm wines taste alcoholic and flabby; over-chilled wines taste astringent and closed.
+Ribera del Duero's power and tannin demand appropriate serving conditions. Serve at 16-18°C (60-64°F), cooler than room temperature but warmer than typical refrigerator temperature. Over-warm wines taste alcoholic and flabby; over-chilled wines taste astringent and closed.
 
 Young wines (under 5 years) benefit from decanting 1-2 hours before serving to soften tannins and open aromatics. Mature wines (10+ years) should be decanted carefully just before serving to separate sediment but preserve delicate aromas.
 
@@ -256,7 +256,7 @@ Young wines (under 5 years) benefit from decanting 1-2 hours before serving to s
 
 Ribera del Duero's structure and power demand substantial food. The wines' high tannin and acidity cut through fat and protein, making them ideal for:
 
-**Roasted meats**: Lamb, beef, venison, or game birds. The classic pairing is lechazo (milk-fed lamb) roasted in a wood oven—a Castilian specialty that matches the wine's intensity.
+**Roasted meats**: Lamb, beef, venison, or game birds. The classic pairing is lechazo (milk-fed lamb) roasted in a wood oven: a Castilian specialty that matches the wine's intensity.
 
 **Stews and braises**: Cocido (chickpea stew with meat), rabo de toro (oxtail stew), or any slow-cooked meat preparation. The wine's tannin softens in the presence of rich, fatty sauces.
 
@@ -264,7 +264,7 @@ Ribera del Duero's structure and power demand substantial food. The wines' high 
 
 **Charcuterie**: Chorizo, morcilla (blood sausage), or jamón ibérico. The wine's fruit complements the meat's savory, spiced character.
 
-Avoid delicate fish, light poultry, or subtle preparations—they'll be overwhelmed. Ribera del Duero is not a cocktail wine; it demands food and attention.
+Avoid delicate fish, light poultry, or subtle preparations, they'll be overwhelmed. Ribera del Duero is not a cocktail wine; it demands food and attention.
 
 ### Vintage Chart (2010-2023)
 
@@ -302,9 +302,9 @@ Ribera del Duero faces several challenges and opportunities in the coming decade
 
 The quality conversation continues evolving. The region has proven it can produce world-class wines, but questions remain about identity and distinctiveness. As producers move away from heavy oak aging and international blending, what defines Ribera del Duero? Is it power and concentration, or can elegance and finesse also represent the region?
 
-The lack of formal terroir classifications limits the region's ability to communicate site-specific quality and justify premium pricing. Whether Ribera del Duero will eventually establish a vineyard hierarchy—recognizing exceptional sites and encouraging terroir-focused winemaking—remains uncertain.
+The lack of formal terroir classifications limits the region's ability to communicate site-specific quality and justify premium pricing. Whether Ribera del Duero will eventually establish a vineyard hierarchy (recognizing exceptional sites and encouraging terroir-focused winemaking) remains uncertain.
 
-What is certain: Ribera del Duero produces some of Spain's most compelling wines. At its best, the region offers Tempranillo of extraordinary depth, structure, and longevity—wines that can stand alongside the world's finest. Understanding the geology, climate, and viticultural practices that make this possible transforms appreciation from simple enjoyment to genuine comprehension of place.
+What is certain: Ribera del Duero produces some of Spain's most compelling wines. At its best, the region offers Tempranillo of extraordinary depth, structure, and longevity, wines that can stand alongside the world's finest. Understanding the geology, climate, and viticultural practices that make this possible transforms appreciation from simple enjoyment to genuine comprehension of place.
 
 ## SOURCES AND FURTHER READING
 

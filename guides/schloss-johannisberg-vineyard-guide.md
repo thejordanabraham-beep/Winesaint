@@ -1,16 +1,16 @@
 # Schloss Johannisberg: The Riesling Monopole That Defined a Region
 
-Schloss Johannisberg is not merely a famous Rheingau vineyard—it is a monopole of ecclesiastical origin that has been planted exclusively to Riesling since 1720. This makes it one of the oldest documented single-variety Riesling sites in the world, and arguably the most historically significant. When wine professionals speak of Rheingau's identity as Riesling's spiritual home, they are speaking, in large part, about this estate.
+Schloss Johannisberg is not merely a famous Rheingau vineyard, it is a monopole of ecclesiastical origin that has been planted exclusively to Riesling since 1720. This makes it one of the oldest documented single-variety Riesling sites in the world, and arguably the most historically significant. When wine professionals speak of Rheingau's identity as Riesling's spiritual home, they are speaking, in large part, about this estate.
 
 ## Geography and Site Character
 
 The Schloss Johannisberg monopole sits in the village of Johannisberg, positioned in the central Rheingau between Rüdesheim to the west and Winkel to the east. The vineyard occupies a prominent south-facing slope overlooking the Rhine, benefiting from the river's moderating influence and reflected heat. This exposition is critical: the combination of aspect, elevation, and proximity to the Rhine creates conditions that allow for extended hang time and the development of noble rot in favorable years.
 
-The site shares its village with other notable vineyards—Goldatzel, Hölle, Mittelhölle, and Klaus—but the Schloss Johannisberg monopole stands apart both historically and legally. While neighboring villages like Winkel (with Jesuitengarten and Hasensprung) and Hattenheim (Pfaffenberg, Nussbrunnen) produce Rieslings of comparable quality, Schloss Johannisberg's unbroken ownership and viticultural focus give it singular status.
+The site shares its village with other notable vineyards (Goldatzel, Hölle, Mittelhölle, and Klaus) but the Schloss Johannisberg monopole stands apart both historically and legally. While neighboring villages like Winkel (with Jesuitengarten and Hasensprung) and Hattenheim (Pfaffenberg, Nussbrunnen) produce Rieslings of comparable quality, Schloss Johannisberg's unbroken ownership and viticultural focus give it singular status.
 
 ## Terroir
 
-The soils of the central Rheingau villages alternate between loess, sand, and marl—a departure from the purely slate-driven profiles of the Mosel or the red slate and quartzite of Rüdesheim's Berg sites. This soil composition contributes to wines that are less overtly mineral-driven than Mosel Rieslings, with more textural depth and body. The loess and marl provide water retention and nutrient availability that support physiological ripeness even in cooler vintages.
+The soils of the central Rheingau villages alternate between loess, sand, and marl: a departure from the purely slate-driven profiles of the Mosel or the red slate and quartzite of Rüdesheim's Berg sites. This soil composition contributes to wines that are less overtly mineral-driven than Mosel Rieslings, with more textural depth and body. The loess and marl provide water retention and nutrient availability that support physiological ripeness even in cooler vintages.
 
 The site's geological foundation allows for wines that combine richness with structure, avoiding the peachy opulence of the steeper Berg vineyards at Rüdesheim while maintaining tension and aging potential.
 

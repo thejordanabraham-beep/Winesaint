@@ -6,7 +6,7 @@ Les Lavrottes stands as one of Chambolle-Musigny's most distinguished Premier Cr
 
 The vineyard sits in the southern sector of Chambolle-Musigny's Premier Cru holdings, positioned along the hillside that forms part of the famous Côte d'Or escarpment. This location places Les Lavrottes within the optimal viticultural zone of the Côte de Nuits, benefiting from the geological complexity and climatic conditions that have made this region the global benchmark for Pinot Noir excellence.
 
-Within the broader context of Burgundy's hierarchical classification system, Les Lavrottes occupies the Premier Cru tier, ranking below the Grand Cru vineyards but above the village-level appellations. The climat's position relative to Chambolle-Musigny's two Grand Crus—Musigny and Bonnes-Mares—provides it with similar geological foundations while maintaining its own distinct terroir characteristics that produce wines of remarkable individuality and quality.
+Within the broader context of Burgundy's hierarchical classification system, Les Lavrottes occupies the Premier Cru tier, ranking below the Grand Cru vineyards but above the village-level appellations. The climat's position relative to Chambolle-Musigny's two Grand Crus (Musigny and Bonnes-Mares) provides it with similar geological foundations while maintaining its own distinct terroir characteristics that produce wines of remarkable individuality and quality.
 
 The vineyard's location offers excellent connectivity to the commune's other prestigious sites, sharing borders and geological continuity with several notable Premier Cru climats. This positioning allows Les Lavrottes to benefit from the microclimate effects and terroir influences that characterize this exceptional viticultural landscape.
 

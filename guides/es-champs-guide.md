@@ -56,13 +56,13 @@ Site-specific challenges include managing vine vigor on the more fertile lower s
 
 Chardonnay from Es Champs demonstrates the mineral precision and elegant structure characteristic of exceptional Côte de Beaune white wines while maintaining distinctive site-specific qualities that set it apart from neighboring Premier Crus. These wines typically display brilliant golden hues with subtle green reflections, indicating the site's ability to preserve freshness while achieving full phenolic maturity.
 
-Aromatic profiles combine citrus elements—particularly lemon zest and lime—with stone fruit notes including white peach and nectarine. Floral components, notably acacia and hawthorn, emerge with bottle age, while the limestone terroir contributes distinctive mineral undertones reminiscent of wet stones and crushed shells. Oak integration, when employed, remains subtle and supportive rather than dominant.
+Aromatic profiles combine citrus elements (particularly lemon zest and lime) with stone fruit notes including white peach and nectarine. Floral components, notably acacia and hawthorn, emerge with bottle age, while the limestone terroir contributes distinctive mineral undertones reminiscent of wet stones and crushed shells. Oak integration, when employed, remains subtle and supportive rather than dominant.
 
 Structural characteristics include vibrant acidity that provides backbone and aging potential, typically ranging from 6.0-6.5 g/L tartaric acid equivalent. Alcohol levels generally reach 12.5-13.5%, reflecting complete ripening without excessive concentration. The mineral content contributes a distinctive salinity that enhances food compatibility and provides textural complexity.
 
 Pinot Noir from Es Champs exhibits the elegant, perfumed character associated with limestone-based terroirs while displaying sufficient structure and depth to merit Premier Cru classification. Color intensity varies with vintage and winemaking approach but typically achieves medium ruby depth with brilliant clarity.
 
-Red wine aromatics emphasize red fruit spectrum—cherry, raspberry, and strawberry—complemented by floral notes including violet and rose petal. Earth tones, particularly forest floor and mushroom, develop with age, while spice elements including white pepper and clove add complexity. The limestone influence appears as subtle chalky minerality that frames and extends the fruit character.
+Red wine aromatics emphasize red fruit spectrum (cherry, raspberry, and strawberry) complemented by floral notes including violet and rose petal. Earth tones, particularly forest floor and mushroom, develop with age, while spice elements including white pepper and clove add complexity. The limestone influence appears as subtle chalky minerality that frames and extends the fruit character.
 
 Tannin structure remains fine-grained and well-integrated, providing support without overwhelming the wine's essential elegance. Acidity levels mirror the white wines in their precision and persistence, ensuring aging potential and food versatility.
 

@@ -6,7 +6,7 @@ Chambolle-Musigny occupies a position of singular distinction within the Côte d
 
 The appellation encompasses 185 hectares of vineyard land, making it one of the smaller communes in the Côte de Nuits. This compact size belies its outsized reputation and influence within Burgundy's hierarchy. The village itself sits at approximately 240 meters above sea level, while the vineyards extend upslope to nearly 400 meters elevation, creating a dramatic amphitheater of vines that face predominantly east and southeast.
 
-The climate here mirrors that of the broader Côte de Nuits—continental with oceanic influences—but benefits from specific microclimatic advantages. The village's position creates natural protection from prevailing winds, while the slope's orientation maximizes morning sun exposure and provides afternoon shelter. Annual rainfall averages 750mm, with the crucial growing season typically receiving optimal precipitation distribution. The exposition ranges from due east in the lower slopes to southeast and south in the higher elevations, creating diverse mesoclimates that contribute to the complexity of terroir expression.
+The climate here mirrors that of the broader Côte de Nuits (continental with oceanic influences) but benefits from specific microclimatic advantages. The village's position creates natural protection from prevailing winds, while the slope's orientation maximizes morning sun exposure and provides afternoon shelter. Annual rainfall averages 750mm, with the crucial growing season typically receiving optimal precipitation distribution. The exposition ranges from due east in the lower slopes to southeast and south in the higher elevations, creating diverse mesoclimates that contribute to the complexity of terroir expression.
 
 ## 2. Historical Background
 
@@ -16,7 +16,7 @@ The village's dual name reflects its historical evolution. "Chambolle" derives f
 
 Throughout the 18th and 19th centuries, Chambolle-Musigny developed its reputation as the producer of Burgundy's most ethereal and perfumed red wines. The commune's wines gained favor among French aristocracy and, later, international connoisseurs who appreciated their distinctive elegance and finesse. The phylloxera crisis of the late 19th century devastated the vineyards, but reconstruction occurred swiftly, with vignerons maintaining traditional grape varieties and cultivation methods.
 
-The modern appellation system, established in the 1930s, formally recognized Chambolle-Musigny's classifications. The commune's Grand Cru vineyards—Musigny and a portion of Bonnes-Mares—received their elevated status in 1936, while the Premier Cru classifications were finalized in 1943. This official recognition codified centuries of empirical knowledge about site quality and terroir expression.
+The modern appellation system, established in the 1930s, formally recognized Chambolle-Musigny's classifications. The commune's Grand Cru vineyards (Musigny and a portion of Bonnes-Mares) received their elevated status in 1936, while the Premier Cru classifications were finalized in 1943. This official recognition codified centuries of empirical knowledge about site quality and terroir expression.
 
 ## 3. Terroir & Geology
 
@@ -56,7 +56,7 @@ Village Chambolle-Musigny encompasses approximately 100 hectares in the lower sl
 Chambolle-Musigny produces red wines that embody elegance, finesse, and aromatic complexity above all other characteristics. The commune's signature style emphasizes perfume over power, creating wines that achieve intensity through subtlety rather than concentration. This philosophical approach to winemaking reflects both terroir influence and historical tradition.
 
 **Aromatic Profile:**
-The aromatic signatures of Chambolle-Musigny wines center on red fruit expressions, particularly cherry, raspberry, and strawberry. These primary fruit characteristics integrate with distinctive floral elements—rose petals, violet, and dried flowers feature prominently. Spice notes include cinnamon, clove, and white pepper, while mineral undertones reflect the limestone-rich soils. As wines mature, tertiary aromatics develop toward forest floor, truffle, game, and exotic spices.
+The aromatic signatures of Chambolle-Musigny wines center on red fruit expressions, particularly cherry, raspberry, and strawberry. These primary fruit characteristics integrate with distinctive floral elements, rose petals, violet, and dried flowers feature prominently. Spice notes include cinnamon, clove, and white pepper, while mineral undertones reflect the limestone-rich soils. As wines mature, tertiary aromatics develop toward forest floor, truffle, game, and exotic spices.
 
 **Structural Characteristics:**
 The tannin profile of Chambolle-Musigny wines emphasizes finesse over brute strength. Tannins present themselves as silky, refined, and well-integrated, rarely displaying the aggressive or drying characteristics found in more powerful Burgundian expressions. This tannin refinement allows the wines to achieve elegance while maintaining aging potential.
@@ -77,7 +77,7 @@ Chambolle-Musigny occupies a unique position within the Côte de Nuits stylistic
 Gevrey-Chambertin produces wines of greater power, concentration, and masculine character. Where Gevrey emphasizes earth, structure, and aging potential through robust tannins, Chambolle-Musigny achieves longevity through aromatic complexity and refined structure. Gevrey wines typically require longer cellaring to achieve optimal drinking condition, while Chambolle-Musigny wines often provide earlier accessibility without sacrificing aging potential.
 
 **Versus Morey-Saint-Denis:**
-Morey-Saint-Denis wines occupy a stylistic middle ground between Gevrey-Chambertin's power and Chambolle-Musigny's finesse. Morey wines generally display more structure and earthiness than Chambolle-Musigny while maintaining greater elegance than Gevrey-Chambertin. The shared Bonnes-Mares Grand Cru illustrates these differences—the Morey portion typically shows more muscle and mineral backbone, while the Chambolle section emphasizes perfume and silkiness.
+Morey-Saint-Denis wines occupy a stylistic middle ground between Gevrey-Chambertin's power and Chambolle-Musigny's finesse. Morey wines generally display more structure and earthiness than Chambolle-Musigny while maintaining greater elegance than Gevrey-Chambertin. The shared Bonnes-Mares Grand Cru illustrates these differences: the Morey portion typically shows more muscle and mineral backbone, while the Chambolle section emphasizes perfume and silkiness.
 
 **Versus Vougeot:**
 Vougeot, dominated by Clos de Vougeot Grand Cru, produces wines with more variable character due to the large vineyard's diverse terroirs. However, the general Vougeot style tends toward greater earthiness and structure compared to Chambolle-Musigny's ethereal approach. Vougeot wines often require more time to integrate tannins and achieve harmony.

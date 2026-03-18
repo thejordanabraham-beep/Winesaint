@@ -52,11 +52,11 @@ Village-level Montagny, produced from sites that fail to achieve the Premier Cru
 
 Montagny Chardonnay exhibits a distinctive profile that bridges the mineral austerity of Chablis with the richer, more approachable character of Mâconnais whites. The wines are characterized by their crystalline clarity, pronounced mineral backbone, and remarkable aging potential despite their moderate body and alcohol levels.
 
-The aromatic profile typically opens with citrus notes—lemon zest, grapefruit, and lime—supported by white flowers, particularly acacia and hawthorn. As wines mature, these primary aromas evolve into more complex expressions including honey, toasted almonds, and distinctive mineral notes reminiscent of wet limestone and crushed shells. The finest examples develop exotic spice notes—white pepper, ginger, and cardamom—particularly wines from iron-rich soils in Saint-Vallerin.
+The aromatic profile typically opens with citrus notes (lemon zest, grapefruit, and lime) supported by white flowers, particularly acacia and hawthorn. As wines mature, these primary aromas evolve into more complex expressions including honey, toasted almonds, and distinctive mineral notes reminiscent of wet limestone and crushed shells. The finest examples develop exotic spice notes (white pepper, ginger, and cardamom) particularly wines from iron-rich soils in Saint-Vallerin.
 
 On the palate, Montagny wines demonstrate exceptional balance between richness and freshness. The texture is typically medium-bodied with a silky, almost creamy mouthfeel in Premier Cru examples, while maintaining vibrant acidity that provides structure and aging potential. The mineral component is immediately apparent, presenting as a saline, almost chalky sensation that persists through the finish.
 
-The finish is characteristically long and precise, with mineral notes dominating and citrus undertones providing freshness. The finest wines exhibit what local vignerons describe as "pierre à fusil"—a gunflint-like mineral note that develops with bottle age and distinguishes Montagny from other Chardonnay expressions.
+The finish is characteristically long and precise, with mineral notes dominating and citrus undertones providing freshness. The finest wines exhibit what local vignerons describe as "pierre à fusil", a gunflint-like mineral note that develops with bottle age and distinguishes Montagny from other Chardonnay expressions.
 
 Oak usage varies significantly among producers, with traditional estates favoring minimal new oak (10-20%) to preserve terroir expression, while modern producers may employ higher percentages for added complexity and texture. The limestone-dominated terroir integrates oak particularly well, allowing wood notes to enhance rather than mask the underlying mineral character.
 
@@ -64,7 +64,7 @@ Alcohol levels typically range from 12.5% to 13.5%, with the automatic Premier C
 
 ## 6. Comparison to Neighboring Villages
 
-Montagny's position as the southernmost Côte Chalonnaise appellation creates distinct stylistic differences from its northern neighbors—Mercurey, Givry, and Rully. While all four appellations share Jurassic limestone geology, climate variations and specific soil compositions produce markedly different wine profiles.
+Montagny's position as the southernmost Côte Chalonnaise appellation creates distinct stylistic differences from its northern neighbors. Mercurey, Givry, and Rully. While all four appellations share Jurassic limestone geology, climate variations and specific soil compositions produce markedly different wine profiles.
 
 Compared to Rully, Montagny produces more concentrated and mineral-driven Chardonnays. Rully's cooler climate and higher elevation result in wines with higher natural acidity but often less phenolic ripeness. Montagny's warmer mesoclimate allows for greater fruit concentration while maintaining sufficient acidity for balance and aging potential. The limestone content in Montagny is also higher on average, contributing to more pronounced mineral character.
 
@@ -72,7 +72,7 @@ The contrast with Mercurey and Givry is even more pronounced, as these appellati
 
 Within the broader Burgundy context, Montagny occupies a unique position between the steel-edged minerals of Chablis and the golden richness of Côte de Beaune villages like Meursault and Puligny-Montrachet. Montagny lacks Chablis's Kimmeridgian soils and harsh continental climate, resulting in wines with more fruit concentration and approachability. Conversely, Montagny's limestone dominance and elevation create wines with more mineral precision and less opulent texture than premier Côte de Beaune sites.
 
-The transition to Mâconnais character becomes apparent when comparing Montagny to Pouilly-Fuissé, located just 20 kilometers south. While both appellations produce limestone-influenced Chardonnay, Pouilly-Fuissé's warmer climate and different geological structure (including volcanic influences) create wines with more tropical fruit character and less pronounced acidity. Montagny maintains distinctly Burgundian characteristics—restraint, mineral precision, and aging complexity—that distinguish it from Mâconnais expressions.
+The transition to Mâconnais character becomes apparent when comparing Montagny to Pouilly-Fuissé, located just 20 kilometers south. While both appellations produce limestone-influenced Chardonnay, Pouilly-Fuissé's warmer climate and different geological structure (including volcanic influences) create wines with more tropical fruit character and less pronounced acidity. Montagny maintains distinctly Burgundian characteristics (restraint, mineral precision, and aging complexity) that distinguish it from Mâconnais expressions.
 
 ## 7. Notable Vineyards
 
@@ -108,11 +108,11 @@ Louis Latour sources Montagny from top growers for their négociant operations, 
 
 Montagny Chardonnays demonstrate exceptional aging potential relative to their modest price points, with Premier Cru examples regularly developing over 10-15 years and the finest vineyard sites producing wines capable of 20+ year evolution. This longevity stems from the wines' natural acidity, mineral structure, and moderate alcohol levels that preserve freshness while allowing complexity to develop.
 
-In their youth (0-2 years), Montagny wines exhibit primary fruit characteristics—citrus, green apple, and white flowers—with mineral notes providing structure but not yet integrated. The wines often appear somewhat tight and restrained, requiring time for their various components to harmonize. This youthful austerity is particularly pronounced in wines from the finest limestone sites.
+In their youth (0-2 years), Montagny wines exhibit primary fruit characteristics (citrus, green apple, and white flowers) with mineral notes providing structure but not yet integrated. The wines often appear somewhat tight and restrained, requiring time for their various components to harmonize. This youthful austerity is particularly pronounced in wines from the finest limestone sites.
 
 The early maturation phase (3-5 years) marks the beginning of Montagny's true character emergence. Primary fruit evolves into more complex secondary aromas including honey, toasted almonds, and developing mineral complexity. The texture becomes more integrated and silky, while maintaining vibrant acidity. This period often represents optimal drinking for those preferring fresher styles, though the wines continue developing.
 
-Peak maturity (6-12 years) reveals Montagny's full potential, with complete aromatic integration and maximum complexity. Tertiary aromas emerge—spice, exotic herbs, and pronounced mineral character—while maintaining freshness and balance. The finest Premier Cru examples achieve remarkable complexity during this phase, rivaling much more expensive Burgundian appellations.
+Peak maturity (6-12 years) reveals Montagny's full potential, with complete aromatic integration and maximum complexity. Tertiary aromas emerge (spice, exotic herbs, and pronounced mineral character) while maintaining freshness and balance. The finest Premier Cru examples achieve remarkable complexity during this phase, rivaling much more expensive Burgundian appellations.
 
 Extended aging (12+ years) is possible for exceptional examples from top vineyards and careful storage. Wines at this stage develop profound mineral complexity, honeyed richness, and remarkable length while retaining sufficient acidity for balance. The limestone terroir's influence becomes most apparent during extended aging, with distinctive "pierre à fusil" mineral notes reaching full expression.
 
@@ -126,7 +126,7 @@ Montagny occupies a unique position in the global Burgundy market, offering auth
 
 Current market pricing positions Montagny Premier Cru between $25-45 per bottle for quality examples, with exceptional single-vineyard cuvées from top producers reaching $50-70. This pricing represents exceptional value compared to Premier Cru wines from Puligny-Montrachet or Chassagne-Montrachet, which typically cost 2-3 times more while offering comparable quality and aging potential.
 
-The appellation's limited production—approximately 1.8 million bottles annually—creates natural scarcity that supports stable pricing while preventing the speculative investment that has inflated prices for more famous Burgundy appellations. This production volume is sufficient to maintain international distribution while preserving exclusivity.
+The appellation's limited production, approximately 1.8 million bottles annually, creates natural scarcity that supports stable pricing while preventing the speculative investment that has inflated prices for more famous Burgundy appellations. This production volume is sufficient to maintain international distribution while preserving exclusivity.
 
 International market recognition has grown substantially over the past decade, with influential wine critics and Master of Wine candidates recognizing Montagny's exceptional quality-price ratio. This recognition has driven increased demand, particularly in markets where consumers appreciate terroir-driven wines over brand prestige.
 

@@ -8,7 +8,7 @@ Situated in the northern section of Chambolle-Musigny, La Combe d'Orveau extends
 
 Within the broader context of the Côte de Nuits, La Combe d'Orveau represents the continuation of the geological and climatic conditions that make this stretch of Burgundy so exceptional for Pinot Noir cultivation. The climat sits at an elevation that places it in the sweet spot of the slope, where drainage, sun exposure, and soil depth converge to create conditions ideally suited for producing wines of remarkable finesse and complexity.
 
-The vineyard's position relative to Chambolle-Musigny's Grand Crus—Musigny and Bonnes-Mares—provides important context for understanding its character. While geographically separated from these supreme sites, La Combe d'Orveau shares certain geological foundations and climatic influences that contribute to its ability to produce wines of Premier Cru quality and distinction.
+The vineyard's position relative to Chambolle-Musigny's Grand Crus (Musigny and Bonnes-Mares) provides important context for understanding its character. While geographically separated from these supreme sites, La Combe d'Orveau shares certain geological foundations and climatic influences that contribute to its ability to produce wines of Premier Cru quality and distinction.
 
 ## Size and Vineyard Configuration
 
@@ -48,7 +48,7 @@ Wind patterns in the vineyard are influenced by the topographical features of th
 
 ## Viticulture
 
-Pinot Noir represents the exclusive grape variety cultivated in La Combe d'Orveau, reflecting both appellation regulations and the site's optimal suitability for this noble Burgundian variety. The vineyard's terroir characteristics—soil composition, drainage, exposure, and microclimate—align perfectly with Pinot Noir's specific requirements, allowing the variety to express the site's unique terroir characteristics.
+Pinot Noir represents the exclusive grape variety cultivated in La Combe d'Orveau, reflecting both appellation regulations and the site's optimal suitability for this noble Burgundian variety. The vineyard's terroir characteristics (soil composition, drainage, exposure, and microclimate) align perfectly with Pinot Noir's specific requirements, allowing the variety to express the site's unique terroir characteristics.
 
 Vine age in La Combe d'Orveau varies among different parcels and producers, with many sections containing vines ranging from 25-50 years old. These mature vines have developed extensive root systems that penetrate deep into the limestone subsoil, accessing mineral nutrients and water reserves that contribute to fruit complexity and concentration. Some parcels contain even older vines, approaching 60-70 years, which produce smaller quantities of fruit but with enhanced concentration and terroir expression.
 
@@ -112,7 +112,7 @@ The variation among producers working with La Combe d'Orveau demonstrates how wi
 
 La Combe d'Orveau's history as a classified vineyard reflects the gradual development of Burgundy's appellation system and the recognition of terroir distinctions that had been observed by vignerons for centuries. The climat was officially classified as Premier Cru as part of the comprehensive classification system established for Burgundy during the mid-20th century, though its reputation for producing quality wine extends much further into history.
 
-Historical records indicate that the vineyard area now known as La Combe d'Orveau was under vine cultivation by at least the medieval period, when monastic communities in Burgundy began the systematic development of vineyard sites throughout the Côte d'Or. The specific terroir characteristics that distinguish this climat—its limestone soils, optimal exposure, and distinctive microclimate—would have been recognized by these early viticulturists, even if the formal classification system had not yet been established.
+Historical records indicate that the vineyard area now known as La Combe d'Orveau was under vine cultivation by at least the medieval period, when monastic communities in Burgundy began the systematic development of vineyard sites throughout the Côte d'Or. The specific terroir characteristics that distinguish this climat (its limestone soils, optimal exposure, and distinctive microclimate) would have been recognized by these early viticulturists, even if the formal classification system had not yet been established.
 
 The name "Combe d'Orveau" reflects the geographical characteristics of the site, with "combe" referring to the valley or slope position of the vineyard within the broader topographical context of Chambolle-Musigny. This nomenclature connects the climat to the physical features that influence its terroir and distinguish it from surrounding vineyard areas.
 
@@ -126,7 +126,7 @@ Throughout its classified history, La Combe d'Orveau has maintained a reputation
 
 Wines from La Combe d'Orveau demonstrate substantial aging potential that reflects both the site's terroir characteristics and the quality of fruit typically achieved from this Premier Cru climat. The limestone influence, balanced structure, and natural acidity provide the foundation for graceful evolution over extended periods, allowing these wines to develop complexity and refinement through careful cellaring.
 
-Young La Combe d'Orveau wines typically display immediate appeal with bright fruit characteristics and floral aromatics, making them accessible within 3-5 years of the vintage. However, the wines' structural components—tannin integration, acid balance, and mineral backbone—support much longer development periods, with high-quality examples reaching full maturity between 8-12 years after harvest.
+Young La Combe d'Orveau wines typically display immediate appeal with bright fruit characteristics and floral aromatics, making them accessible within 3-5 years of the vintage. However, the wines' structural components (tannin integration, acid balance, and mineral backbone) support much longer development periods, with high-quality examples reaching full maturity between 8-12 years after harvest.
 
 The evolution pattern of La Combe d'Orveau wines follows the classic Burgundian trajectory, with primary fruit and floral characteristics gradually integrating with secondary and tertiary flavors developed through aging. The limestone influence becomes more pronounced with time, providing a mineral framework that unifies the various flavor components while adding complexity and depth to the overall wine character.
 

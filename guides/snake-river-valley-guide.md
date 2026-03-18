@@ -1,42 +1,42 @@
 # Snake River Valley: The High Desert Frontier of American Viticulture
 
-The Snake River Valley occupies a paradoxical position in American wine geography. At first glance, the numbers seem hostile to viticulture: elevations between 2,200 and 3,500 feet, winter temperatures that regularly plunge below -10°F, and a high desert climate that receives less than 12 inches of annual precipitation. Yet this 8,000-square-mile AVA—the second-largest in the United States—has emerged as one of the most compelling wine regions in the American West, producing wines of remarkable aromatic intensity and structural precision that reflect their extreme continental origins.
+The Snake River Valley occupies a paradoxical position in American wine geography. At first glance, the numbers seem hostile to viticulture: elevations between 2,200 and 3,500 feet, winter temperatures that regularly plunge below -10°F, and a high desert climate that receives less than 12 inches of annual precipitation. Yet this 8,000-square-mile AVA (the second-largest in the United States) has emerged as one of the most compelling wine regions in the American West, producing wines of remarkable aromatic intensity and structural precision that reflect their extreme continental origins.
 
-Approved in 2007, the Snake River Valley AVA spans both Idaho and eastern Oregon along the winding path of the Snake River and its tributaries. This is not wine country in the traditional sense. The landscape recalls Central Otago more than Napa: sagebrush-covered hillsides, volcanic outcrops, and dramatic diurnal temperature swings that can exceed 50°F during the growing season. These conditions create wines with a distinctive signature—vibrant acidity, concentrated fruit, and an almost electric tension that separates them from their Pacific Northwest neighbors.
+Approved in 2007, the Snake River Valley AVA spans both Idaho and eastern Oregon along the winding path of the Snake River and its tributaries. This is not wine country in the traditional sense. The landscape recalls Central Otago more than Napa: sagebrush-covered hillsides, volcanic outcrops, and dramatic diurnal temperature swings that can exceed 50°F during the growing season. These conditions create wines with a distinctive signature, vibrant acidity, concentrated fruit, and an almost electric tension that separates them from their Pacific Northwest neighbors.
 
-The region's modern wine industry effectively began in 1970 with a single experimental vineyard planted in the Snake River Valley. That tentative beginning has evolved into a diverse viticultural landscape with over 1,600 acres under vine and more than 50 wineries, primarily concentrated in Idaho's portion of the AVA. The 2015 approval of the Eagle Foothills sub-AVA—Idaho's first entirely in-state viticultural area—signals the region's increasing sophistication and recognition of distinct terroir variations within this vast territory.
+The region's modern wine industry effectively began in 1970 with a single experimental vineyard planted in the Snake River Valley. That tentative beginning has evolved into a diverse viticultural landscape with over 1,600 acres under vine and more than 50 wineries, primarily concentrated in Idaho's portion of the AVA. The 2015 approval of the Eagle Foothills sub-AVA (Idaho's first entirely in-state viticultural area) signals the region's increasing sophistication and recognition of distinct terroir variations within this vast territory.
 
 ## GEOLOGY: Volcanic Foundations and Windblown Soils
 
-The Snake River Valley's geological story begins with catastrophic violence. Between 17 and 2 million years ago, the region experienced repeated volcanic eruptions as the North American plate moved southwest over the Yellowstone hotspot. These eruptions deposited massive layers of basalt and rhyolite across the landscape, creating the foundation for today's wine country. The Columbia River Basalt Group, which covers much of the region, represents one of the largest flood basalt provinces on Earth—some individual flows exceeded 300 miles in length.
+The Snake River Valley's geological story begins with catastrophic violence. Between 17 and 2 million years ago, the region experienced repeated volcanic eruptions as the North American plate moved southwest over the Yellowstone hotspot. These eruptions deposited massive layers of basalt and rhyolite across the landscape, creating the foundation for today's wine country. The Columbia River Basalt Group, which covers much of the region, represents one of the largest flood basalt provinces on Earth, some individual flows exceeded 300 miles in length.
 
 But the volcanic activity tells only part of the story. The Missoula Floods, which occurred repeatedly between 15,000 and 13,000 years ago, fundamentally reshaped the region's surface geology. As glacial Lake Missoula catastrophically released its waters, massive floods carved channels through the basalt, deposited sediments, and created the terraced landscapes that now host many of the region's finest vineyards. These floods moved at speeds exceeding 60 miles per hour and carried ice rafts the size of houses, creating a chaotic depositional environment that left behind complex soil patterns.
 
 ### Soil Composition and Viticultural Implications
 
-The predominant soil type across the Snake River Valley is wind-deposited loess overlying volcanic bedrock. This loess—fine-grained sediment carried by prevailing winds during the last ice age—varies in depth from a few inches to over 100 feet. The texture is typically silt loam, with excellent drainage characteristics despite the fine particle size. This drainage capacity proves critical in a region where irrigation is mandatory but overwatering can dilute wine quality.
+The predominant soil type across the Snake River Valley is wind-deposited loess overlying volcanic bedrock. This loess (fine-grained sediment carried by prevailing winds during the last ice age) varies in depth from a few inches to over 100 feet. The texture is typically silt loam, with excellent drainage characteristics despite the fine particle size. This drainage capacity proves critical in a region where irrigation is mandatory but overwatering can dilute wine quality.
 
-Beneath the loess, growers encounter various volcanic substrates. Basalt dominates in the lower elevations and valley floors, while rhyolite and other volcanic rocks appear more frequently in higher-elevation sites. The basalt weathers slowly in this arid climate, contributing minimal nutrients to the soil profile—a viticultural advantage that naturally limits vine vigor. Soil pH ranges from 6.5 to 8.0, generally higher than in the maritime Pacific Northwest. Some sites contain significant calcium carbonate deposits, particularly in areas where ancient lake beds once existed.
+Beneath the loess, growers encounter various volcanic substrates. Basalt dominates in the lower elevations and valley floors, while rhyolite and other volcanic rocks appear more frequently in higher-elevation sites. The basalt weathers slowly in this arid climate, contributing minimal nutrients to the soil profile: a viticultural advantage that naturally limits vine vigor. Soil pH ranges from 6.5 to 8.0, generally higher than in the maritime Pacific Northwest. Some sites contain significant calcium carbonate deposits, particularly in areas where ancient lake beds once existed.
 
 The contrast with neighboring Washington's Columbia Valley is instructive. While both regions share volcanic origins and Missoula Flood influences, the Snake River Valley's higher elevation and more extreme continentality have produced shallower, less developed soils. Where Columbia Valley sites might have 3-6 feet of developed topsoil, Snake River Valley vineyards often work with 12-24 inches before encountering restrictive layers. This forces vines to struggle more intensely, generally producing smaller berries with higher skin-to-juice ratios.
 
 ## CLIMATE: Continental Extremes and the Latitude Paradox
 
-The Snake River Valley operates at the absolute margin of commercial viticulture in the continental United States. The region sits between the 43rd and 44th parallels—roughly equivalent to Bordeaux or southern Piedmont—but the similarity ends there. This is high desert country with a fiercely continental climate that bears little resemblance to maritime Europe.
+The Snake River Valley operates at the absolute margin of commercial viticulture in the continental United States. The region sits between the 43rd and 44th parallels (roughly equivalent to Bordeaux or southern Piedmont) but the similarity ends there. This is high desert country with a fiercely continental climate that bears little resemblance to maritime Europe.
 
 Winter temperatures present the most obvious challenge. The region regularly experiences temperatures below 0°F, with extreme events reaching -20°F or colder. The catastrophic winter of 1978-79 killed virtually every vinifera vine in the state, a reminder that grape selection here must account for cold hardiness as much as ripening potential. Modern viticulture has adapted through careful site selection, cold-hardy rootstock choices, and in some cases, dual-trunk training systems that provide insurance against trunk damage.
 
 ### Growing Season Dynamics
 
-The growing season typically runs from late April through late October, providing 160-180 frost-free days depending on elevation and site specifics. Accumulation of growing degree days (GDD) varies considerably across the AVA, ranging from approximately 2,400 GDD (Celsius base 10) in cooler, higher sites to over 2,800 GDD in warmer valley floor locations. This places the region in a climate band roughly comparable to Burgundy's Côte d'Or at the cool end and northern Rhône at the warm end—though direct comparisons mislead given the dramatically different diurnal patterns.
+The growing season typically runs from late April through late October, providing 160-180 frost-free days depending on elevation and site specifics. Accumulation of growing degree days (GDD) varies considerably across the AVA, ranging from approximately 2,400 GDD (Celsius base 10) in cooler, higher sites to over 2,800 GDD in warmer valley floor locations. This places the region in a climate band roughly comparable to Burgundy's Côte d'Or at the cool end and northern Rhône at the warm end, though direct comparisons mislead given the dramatically different diurnal patterns.
 
-The defining climatic feature is the extreme diurnal temperature variation. During peak growing season, temperatures commonly reach 90-95°F during the day before plummeting to 45-55°F at night. These 40-50°F swings create conditions that simultaneously promote phenolic ripeness during warm days while preserving acidity and aromatic compounds during cool nights. The low humidity—relative humidity often drops below 20% during summer afternoons—intensifies sunlight and increases evapotranspiration, naturally concentrating flavors while requiring careful irrigation management.
+The defining climatic feature is the extreme diurnal temperature variation. During peak growing season, temperatures commonly reach 90-95°F during the day before plummeting to 45-55°F at night. These 40-50°F swings create conditions that simultaneously promote phenolic ripeness during warm days while preserving acidity and aromatic compounds during cool nights. The low humidity (relative humidity often drops below 20% during summer afternoons) intensifies sunlight and increases evapotranspiration, naturally concentrating flavors while requiring careful irrigation management.
 
-Annual precipitation averages just 10-12 inches across most of the AVA, with the majority falling between November and May. Summer rainfall is negligible—some sites receive less than 2 inches between June and September. This aridity eliminates many fungal disease pressures that plague more humid regions, but makes irrigation absolutely essential. Most vineyards employ drip irrigation with careful deficit irrigation protocols during ripening to control vigor and concentrate fruit.
+Annual precipitation averages just 10-12 inches across most of the AVA, with the majority falling between November and May. Summer rainfall is negligible, some sites receive less than 2 inches between June and September. This aridity eliminates many fungal disease pressures that plague more humid regions, but makes irrigation absolutely essential. Most vineyards employ drip irrigation with careful deficit irrigation protocols during ripening to control vigor and concentrate fruit.
 
 ### Climate Change Impacts
 
-The Snake River Valley presents an unusual case study in climate change adaptation. While warming trends concern many traditional wine regions, moderate warming here has actually expanded the range of varieties that can successfully ripen. Varieties like Tempranillo, Malbec, and even Cabernet Sauvignon—once considered too late-ripening for reliable production—now achieve consistent ripeness in well-sited vineyards. The 2000s and 2010s saw notably fewer catastrophic winter freeze events than the 1970s and 1980s, though whether this represents a genuine trend or natural variation remains debated.
+The Snake River Valley presents an unusual case study in climate change adaptation. While warming trends concern many traditional wine regions, moderate warming here has actually expanded the range of varieties that can successfully ripen. Varieties like Tempranillo, Malbec, and even Cabernet Sauvignon (once considered too late-ripening for reliable production) now achieve consistent ripeness in well-sited vineyards. The 2000s and 2010s saw notably fewer catastrophic winter freeze events than the 1970s and 1980s, though whether this represents a genuine trend or natural variation remains debated.
 
 However, warming brings complications. Earlier bud break increases spring frost risk, and higher peak temperatures during late summer can shut down photosynthesis and create overripe flavors. The 2021 heat dome event, which saw temperatures exceed 115°F across the region, demonstrated the vulnerability to extreme heat events. Water availability also emerges as an increasing concern, with Snake River water rights becoming more contested as agricultural and urban demands increase.
 
@@ -48,23 +48,23 @@ Grape selection in the Snake River Valley requires balancing multiple competing 
 
 Riesling has emerged as the region's most compelling white variety and arguably its strongest claim to distinctiveness in the American wine landscape. The combination of high elevation, intense sunlight, dramatic diurnals, and naturally high acidity creates Rieslings with remarkable aromatic intensity and structural precision.
 
-Snake River Valley Rieslings typically show pronounced citrus and stone fruit aromatics—Meyer lemon, white peach, apricot—with distinctive mineral and floral notes. The high UV exposure at elevation contributes to complex terpene development, while cool nights preserve the volatile aromatics that can blow off in warmer climates. Natural acidity regularly exceeds 7 g/L, allowing production of off-dry and sweet styles with genuine balance rather than the flabby character that plagues warm-climate Riesling.
+Snake River Valley Rieslings typically show pronounced citrus and stone fruit aromatics (Meyer lemon, white peach, apricot) with distinctive mineral and floral notes. The high UV exposure at elevation contributes to complex terpene development, while cool nights preserve the volatile aromatics that can blow off in warmer climates. Natural acidity regularly exceeds 7 g/L, allowing production of off-dry and sweet styles with genuine balance rather than the flabby character that plagues warm-climate Riesling.
 
-The variety shows particular affinity for higher-elevation sites with volcanic soils. Vines planted above 2,800 feet often produce wines with almost Mosel-like tension and precision, though with riper fruit character and higher alcohol—typically 12-13% versus 8-10% in Germany's coolest sites. The combination of physiological ripeness at relatively high acidity creates wines that can age for a decade or more, developing petrol and honeyed notes while retaining freshness.
+The variety shows particular affinity for higher-elevation sites with volcanic soils. Vines planted above 2,800 feet often produce wines with almost Mosel-like tension and precision, though with riper fruit character and higher alcohol, typically 12-13% versus 8-10% in Germany's coolest sites. The combination of physiological ripeness at relatively high acidity creates wines that can age for a decade or more, developing petrol and honeyed notes while retaining freshness.
 
 ### Syrah
 
-Syrah thrives in the Snake River Valley's continental extremes, producing wines that stylistically fall between northern Rhône and cooler New World examples. The variety's cold hardiness—superior to Cabernet Sauvignon or Merlot—makes it viable across most of the AVA, while its relatively early ripening ensures consistent maturity even in cooler vintages.
+Syrah thrives in the Snake River Valley's continental extremes, producing wines that stylistically fall between northern Rhône and cooler New World examples. The variety's cold hardiness (superior to Cabernet Sauvignon or Merlot) makes it viable across most of the AVA, while its relatively early ripening ensures consistent maturity even in cooler vintages.
 
-The wines typically show dark fruit character—blackberry, black cherry, plum—with pronounced peppery spice, olive, and smoked meat notes. The high diurnal range preserves the variety's characteristic savory complexity while the intense sunlight develops ripe tannins. Whole cluster inclusion is common, adding stem tannin and aromatic lift. Alcohol levels typically range from 13.5-14.5%, moderate by New World standards, with natural acidity between 5.5-6.5 g/L.
+The wines typically show dark fruit character (blackberry, black cherry, plum) with pronounced peppery spice, olive, and smoked meat notes. The high diurnal range preserves the variety's characteristic savory complexity while the intense sunlight develops ripe tannins. Whole cluster inclusion is common, adding stem tannin and aromatic lift. Alcohol levels typically range from 13.5-14.5%, moderate by New World standards, with natural acidity between 5.5-6.5 g/L.
 
 Site selection proves critical for Syrah quality. South and southwest-facing slopes at elevations between 2,400-2,800 feet appear optimal, providing sufficient heat accumulation while maintaining acid retention. Lower-elevation sites can produce overripe, jammy wines lacking the variety's signature savory character, while excessive elevation risks underripeness in cooler vintages.
 
 ### Cabernet Sauvignon and Bordeaux Varieties
 
-Cabernet Sauvignon occupies an ambiguous position in the Snake River Valley. In warm, protected sites it achieves full ripeness, producing wines with classic cassis and cedar character, firm tannins, and good aging potential. However, the variety's late ripening and moderate cold hardiness make it viable only in the warmest microclimates—typically south-facing slopes below 2,600 feet with maximum heat accumulation.
+Cabernet Sauvignon occupies an ambiguous position in the Snake River Valley. In warm, protected sites it achieves full ripeness, producing wines with classic cassis and cedar character, firm tannins, and good aging potential. However, the variety's late ripening and moderate cold hardiness make it viable only in the warmest microclimates, typically south-facing slopes below 2,600 feet with maximum heat accumulation.
 
-The best examples show more restraint than typical New World Cabernet, with alcohol around 13.5-14.5% and pronounced herbal notes—sage, dried herbs, tobacco—that reflect the high desert environment. Tannin structure tends toward firmness rather than plushness, requiring extended aging or blending with softer varieties. Merlot and Cabernet Franc often perform more consistently than Cabernet Sauvignon, ripening earlier while maintaining varietal character.
+The best examples show more restraint than typical New World Cabernet, with alcohol around 13.5-14.5% and pronounced herbal notes (sage, dried herbs, tobacco) that reflect the high desert environment. Tannin structure tends toward firmness rather than plushness, requiring extended aging or blending with softer varieties. Merlot and Cabernet Franc often perform more consistently than Cabernet Sauvignon, ripening earlier while maintaining varietal character.
 
 ### Chardonnay
 
@@ -74,7 +74,7 @@ The variety's early bud break makes it vulnerable to spring frost, limiting plan
 
 ### Tempranillo and Spanish Varieties
 
-Tempranillo has emerged as an unexpected success in the Snake River Valley, with the variety's moderate cold hardiness and mid-season ripening proving well-adapted to local conditions. The wines show cherry, plum, and leather character with firm acidity and moderate tannins—closer to Rioja than Ribera del Duero in style. Graciano and Albariño have also shown promise in limited plantings, suggesting potential for expanded Spanish variety exploration.
+Tempranillo has emerged as an unexpected success in the Snake River Valley, with the variety's moderate cold hardiness and mid-season ripening proving well-adapted to local conditions. The wines show cherry, plum, and leather character with firm acidity and moderate tannins, closer to Rioja than Ribera del Duero in style. Graciano and Albariño have also shown promise in limited plantings, suggesting potential for expanded Spanish variety exploration.
 
 ### Pinot Gris and Pinot Noir
 
@@ -84,7 +84,7 @@ Pinot Noir remains challenging in the Snake River Valley. While the elevation an
 
 ## WINES: Styles and Production Approaches
 
-Wine production in the Snake River Valley reflects both the region's extreme conditions and its relative youth as a fine wine region. Most producers work on a small scale—many under 5,000 cases annually—with hands-on approaches that allow vintage-by-vintage adaptation to the challenging growing conditions.
+Wine production in the Snake River Valley reflects both the region's extreme conditions and its relative youth as a fine wine region. Most producers work on a small scale (many under 5,000 cases annually) with hands-on approaches that allow vintage-by-vintage adaptation to the challenging growing conditions.
 
 ### White Wine Production
 
@@ -120,7 +120,7 @@ Approved December 31, 2015, the Eagle Foothills AVA represents Idaho's first ent
 
 The Eagle Foothills occupy a distinct geological position on the transition between the Snake River Plain and the Boise Foothills. Soils are predominantly sandy loam and loam derived from granitic parent material, contrasting with the basalt-influenced soils of lower-elevation Snake River Valley sites. The higher elevation and foothill position create cooler temperatures and increased diurnal swings compared to valley floor locations, favoring aromatic varieties and acid retention.
 
-Drainage patterns differ notably from the broader Snake River Valley, with multiple small drainages creating varied aspect and exposure. South and southwest-facing slopes receive maximum solar radiation, while north-facing slopes remain significantly cooler—differences that allow growers to match varieties to specific thermal environments within relatively small areas.
+Drainage patterns differ notably from the broader Snake River Valley, with multiple small drainages creating varied aspect and exposure. South and southwest-facing slopes receive maximum solar radiation, while north-facing slopes remain significantly cooler, differences that allow growers to match varieties to specific thermal environments within relatively small areas.
 
 ### Lewis-Clark Valley AVA
 
@@ -128,7 +128,7 @@ Though approved in 2016 and technically part of Idaho's wine geography, the Lewi
 
 ## VINTAGE VARIATION: Continental Volatility
 
-Vintage variation in the Snake River Valley exceeds that of most American wine regions, reflecting the extreme continental climate and marginal growing conditions. The difference between an ideal vintage and a challenging one can mean the difference between full physiological ripeness and underripe, vegetal character—particularly for late-ripening varieties.
+Vintage variation in the Snake River Valley exceeds that of most American wine regions, reflecting the extreme continental climate and marginal growing conditions. The difference between an ideal vintage and a challenging one can mean the difference between full physiological ripeness and underripe, vegetal character, particularly for late-ripening varieties.
 
 ### Ideal Vintage Conditions
 
@@ -144,11 +144,11 @@ Difficult vintages typically involve one or more of several factors: catastrophi
 
 Late spring frost presents a recurring challenge. The 2017 vintage saw significant frost damage in early May, reducing yields and delaying ripening. Early autumn freeze events, while less common, can force premature harvest. The 2019 vintage experienced an early October freeze that caught some late-ripening varieties before optimal maturity, resulting in wines with less complexity and harder tannins.
 
-Extreme summer heat, increasingly common in recent years, creates different challenges. The 2021 heat dome pushed temperatures above 115°F across the region, causing photosynthesis shutdown, berry dehydration, and in some cases, vine damage. The resulting wines showed riper, jammier character with lower acidity—atypical for the region and less distinctive.
+Extreme summer heat, increasingly common in recent years, creates different challenges. The 2021 heat dome pushed temperatures above 115°F across the region, causing photosynthesis shutdown, berry dehydration, and in some cases, vine damage. The resulting wines showed riper, jammier character with lower acidity, atypical for the region and less distinctive.
 
 ### Variety-Specific Vintage Sensitivity
 
-Early-ripening varieties like Chardonnay, Pinot Gris, and Riesling show less vintage variation than late-ripening Cabernet Sauvignon or Malbec. Riesling, in particular, performs consistently across vintages, with cooler years producing more elegant, mineral-driven wines and warmer years yielding richer, more tropical-fruited expressions—both valid interpretations of the variety.
+Early-ripening varieties like Chardonnay, Pinot Gris, and Riesling show less vintage variation than late-ripening Cabernet Sauvignon or Malbec. Riesling, in particular, performs consistently across vintages, with cooler years producing more elegant, mineral-driven wines and warmer years yielding richer, more tropical-fruited expressions, both valid interpretations of the variety.
 
 Syrah occupies a middle ground, with sufficient cold hardiness and moderate ripening requirements to perform well in most vintages. Only in the coolest years does the variety struggle to achieve full ripeness, and even then, the resulting wines often show appealing savory character if less concentration.
 
@@ -176,7 +176,7 @@ Huston Vineyards, located in the Snake River Valley's Caldwell district, focuses
 
 ### Coiled Wines
 
-A relative newcomer, Coiled represents the next generation of Snake River Valley producers—smaller scale, quality-focused, and willing to experiment with varieties and techniques. The winery sources fruit from multiple vineyards across the AVA, crafting wines that showcase site differences while maintaining a house style emphasizing freshness, precision, and aromatic complexity. Coiled's Rieslings and Grüner Veltliner demonstrate the region's potential for Austrian and German varieties beyond Riesling.
+A relative newcomer, Coiled represents the next generation of Snake River Valley producers, smaller scale, quality-focused, and willing to experiment with varieties and techniques. The winery sources fruit from multiple vineyards across the AVA, crafting wines that showcase site differences while maintaining a house style emphasizing freshness, precision, and aromatic complexity. Coiled's Rieslings and Grüner Veltliner demonstrate the region's potential for Austrian and German varieties beyond Riesling.
 
 ### Oregon Side Producers
 
@@ -192,7 +192,7 @@ The region's extreme climate, while creating distinctive wines, also creates ris
 
 Market positioning remains unresolved. Should the Snake River Valley emphasize its similarities to established regions (Burgundy, Rhône, etc.) or stress its unique high desert character? Should marketing focus on specific varieties where the region excels (Riesling, Syrah) or maintain diversity? These questions lack consensus among producers, creating somewhat fragmented regional messaging.
 
-Despite these challenges, the Snake River Valley's future appears promising. The region produces distinctive wines that fill a unique niche in American viticulture—neither Pacific Northwest maritime nor California Mediterranean, but something entirely its own. As consumers increasingly seek wines with clear regional identity and distinctive character, the Snake River Valley's extreme terroir becomes an asset rather than a liability.
+Despite these challenges, the Snake River Valley's future appears promising. The region produces distinctive wines that fill a unique niche in American viticulture, neither Pacific Northwest maritime nor California Mediterranean, but something entirely its own. As consumers increasingly seek wines with clear regional identity and distinctive character, the Snake River Valley's extreme terroir becomes an asset rather than a liability.
 
 The establishment of the Eagle Foothills sub-AVA signals increasing sophistication in understanding and communicating terroir differences within the broader region. Additional sub-AVA petitions seem likely as the industry matures and distinct zones emerge. This increasing granularity should help consumers navigate the vast Snake River Valley AVA while allowing producers to communicate site-specific character.
 

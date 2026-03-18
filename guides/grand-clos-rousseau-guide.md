@@ -42,7 +42,7 @@ Compared to surrounding sites within Santenay, Grand Clos Rousseau typically exp
 
 ## Viticulture
 
-Grand Clos Rousseau is planted exclusively to Pinot Noir, reflecting both the site's suitability for this variety and the traditional focus on red wine production within Santenay. The vineyard's terroir characteristics—including soil composition, drainage, exposition, and climate—align perfectly with Pinot Noir's specific requirements, allowing this demanding variety to express the site's unique characteristics fully.
+Grand Clos Rousseau is planted exclusively to Pinot Noir, reflecting both the site's suitability for this variety and the traditional focus on red wine production within Santenay. The vineyard's terroir characteristics (including soil composition, drainage, exposition, and climate) align perfectly with Pinot Noir's specific requirements, allowing this demanding variety to express the site's unique characteristics fully.
 
 Vine age within Grand Clos Rousseau varies among different parcels and producers, though the average vine age typically ranges from 35-50 years. This maturity level is ideal for producing concentrated, complex wines, as older vines naturally regulate their yields while developing deeper root systems that access diverse soil layers and provide greater vintage-to-vintage consistency.
 

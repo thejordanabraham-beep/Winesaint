@@ -34,7 +34,7 @@ The Grand Cru's specific microclimate further enhances these regional advantages
 
 Morning sun exposure arrives early on Moenchberg's slopes, helping to dry dew and reduce fungal disease pressure. The southeastern orientation means the vineyard captures gentle morning warmth that gradually intensifies through midday, avoiding the potentially damaging afternoon heat that west-facing sites can experience during heat waves.
 
-Diurnal temperature variation—the difference between day and night temperatures—plays a crucial role in Moenchberg's wine quality. Cool nighttime temperatures, enhanced by the vineyard's elevation and proximity to forested areas above the vines, help preserve acidity in ripening grapes. This natural acidity retention proves essential for producing wines with longevity and structural integrity, particularly from varieties like Riesling that depend on acidity for balance.
+Diurnal temperature variation (the difference between day and night temperatures) plays a crucial role in Moenchberg's wine quality. Cool nighttime temperatures, enhanced by the vineyard's elevation and proximity to forested areas above the vines, help preserve acidity in ripening grapes. This natural acidity retention proves essential for producing wines with longevity and structural integrity, particularly from varieties like Riesling that depend on acidity for balance.
 
 Air drainage represents another critical microclimatic advantage. Cold air naturally flows downslope, away from the vineyard, reducing frost risk during vulnerable spring budbreak periods. This natural air movement also helps moderate extreme temperatures during summer heat events, preventing vine stress that could compromise fruit quality.
 
@@ -68,9 +68,9 @@ Harvest timing at Moenchberg demands precision. The site's ability to achieve fu
 
 Wines from Moenchberg Grand Cru express a distinctive personality immediately recognizable to experienced Alsace enthusiasts, characterized above all by crystalline purity, penetrating minerality, and remarkable tension between ripeness and freshness. The pink sandstone terroir imparts an unmistakable signature that distinguishes these wines from those produced on the region's limestone, granite, or clay-rich sites.
 
-Moenchberg Riesling exemplifies the Grand Cru's character most completely. In youth, these wines display vivid citrus notes—lemon, lime, and grapefruit—often accompanied by white peach, green apple, and subtle stone fruit undertones. A pronounced mineral dimension emerges, frequently described as wet stone, crushed rock, or slate-like precision, though the sandstone origin creates a subtly different mineral expression than the steely character associated with slate-based Rieslings from other regions.
+Moenchberg Riesling exemplifies the Grand Cru's character most completely. In youth, these wines display vivid citrus notes (lemon, lime, and grapefruit) often accompanied by white peach, green apple, and subtle stone fruit undertones. A pronounced mineral dimension emerges, frequently described as wet stone, crushed rock, or slate-like precision, though the sandstone origin creates a subtly different mineral expression than the steely character associated with slate-based Rieslings from other regions.
 
-The aromatic profile typically exhibits restraint compared to more obviously fruity Alsace Rieslings, with the terroir's influence channeling the variety's expression toward linear precision rather than exuberant fruitiness. Floral notes—white flowers, acacia blossom—appear delicately woven through the aromatic tapestry, never dominating but adding complexity.
+The aromatic profile typically exhibits restraint compared to more obviously fruity Alsace Rieslings, with the terroir's influence channeling the variety's expression toward linear precision rather than exuberant fruitiness. Floral notes (white flowers, acacia blossom) appear delicately woven through the aromatic tapestry, never dominating but adding complexity.
 
 On the palate, Moenchberg Riesling demonstrates remarkable structure. The sandstone-derived acidity provides a taut backbone that supports concentrated fruit without heaviness. The texture often shows a distinctive fine-grained quality, almost saline in character, with a subtle graininess that recalls the sandy terroir. This textural precision distinguishes Moenchberg from rounder, more voluptuous Rieslings from clay-limestone sites.
 
@@ -82,7 +82,7 @@ Pinot Gris achieves a compelling middle ground between the variety's natural ric
 
 The aging potential of Moenchberg wines, particularly Riesling, ranks among the highest in Alsace. The combination of natural acidity, extract concentration, and mineral structure enables these wines to evolve gracefully over decades. Young Moenchberg Rieslings often show some austerity, requiring 3-5 years to begin revealing their complexity. With 10-15 years of bottle age, they develop extraordinary depth, with petrol notes, honeyed richness, and dried fruit characters emerging while the mineral core remains vibrant.
 
-Exceptional vintages from top producers can age 20-30 years or longer, developing the profound tertiary complexity—dried apricot, honey, beeswax, truffle—that demonstrates world-class Riesling's capacity for longevity. Throughout this evolution, the sandstone signature persists, anchoring the wine's development and maintaining freshness even as fruit characters transform.
+Exceptional vintages from top producers can age 20-30 years or longer, developing the profound tertiary complexity (dried apricot, honey, beeswax, truffle) that demonstrates world-class Riesling's capacity for longevity. Throughout this evolution, the sandstone signature persists, anchoring the wine's development and maintaining freshness even as fruit characters transform.
 
 ## Notable Producers
 

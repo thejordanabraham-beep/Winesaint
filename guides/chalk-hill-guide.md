@@ -2,7 +2,7 @@
 
 ## The Name is a Lie
 
-Chalk Hill contains no chalk. This is not a semantic quibble—it's fundamental to understanding why this AVA produces the wines it does. The dramatic white soils that inspired the region's name are volcanic in origin, derived from ancient Mayacamas eruptions, not the calcium carbonate bedrock that defines classic white wine regions like Champagne's Côte des Blancs or Chablis. The misnomer dates to 1972, when pilot and entrepreneur Fred Furth flew his plane over northeastern Sonoma County and spotted what appeared to be brilliant white hillsides cutting through the landscape. He bought 1,300 acres on the spot. The "chalk" he saw was actually weathered volcanic ash and pumice—a completely different geological animal that would shape the region's identity in unexpected ways.
+Chalk Hill contains no chalk. This is not a semantic quibble, it's fundamental to understanding why this AVA produces the wines it does. The dramatic white soils that inspired the region's name are volcanic in origin, derived from ancient Mayacamas eruptions, not the calcium carbonate bedrock that defines classic white wine regions like Champagne's Côte des Blancs or Chablis. The misnomer dates to 1972, when pilot and entrepreneur Fred Furth flew his plane over northeastern Sonoma County and spotted what appeared to be brilliant white hillsides cutting through the landscape. He bought 1,300 acres on the spot. The "chalk" he saw was actually weathered volcanic ash and pumice: a completely different geological animal that would shape the region's identity in unexpected ways.
 
 This geological confusion matters because it explains Chalk Hill's split personality: an AVA that grows both Burgundian and Bordeaux varieties with equal conviction, a rarity in California where most regions commit firmly to one camp or the other.
 
@@ -12,7 +12,7 @@ Chalk Hill occupies 8,400 acres in the northeastern corner of the Russian River 
 
 The Russian River Valley's defining characteristic is Pacific fog that funnels through the Petaluma Gap, cooling vineyards and extending hang time for Pinot Noir and Chardonnay. Chalk Hill exists at the margins of this fog influence. Morning fog may reach the lower elevations, but it burns off earlier and penetrates less deeply into the hillsides than in the valley proper. The result: Chalk Hill is consistently 5-10°F warmer than the Russian River Valley benchmarks of Olivet Lane or Green Valley.
 
-This temperature difference is not subtle. It's the difference between Region I and Region II on the Winkler scale, the difference between struggling to ripen Cabernet Sauvignon and ripening it reliably. Where Russian River Valley vineyards might accumulate 2,200-2,500 growing degree days (Fahrenheit), Chalk Hill sites regularly see 2,600-2,900. The fog doesn't disappear entirely—it provides crucial nighttime cooling that preserves acidity—but its diminished presence fundamentally alters what can be grown successfully.
+This temperature difference is not subtle. It's the difference between Region I and Region II on the Winkler scale, the difference between struggling to ripen Cabernet Sauvignon and ripening it reliably. Where Russian River Valley vineyards might accumulate 2,200-2,500 growing degree days (Fahrenheit), Chalk Hill sites regularly see 2,600-2,900. The fog doesn't disappear entirely (it provides crucial nighttime cooling that preserves acidity) but its diminished presence fundamentally alters what can be grown successfully.
 
 ## Volcanic Soils: The Mayacamas Fingerprint
 
@@ -25,9 +25,9 @@ The predominant soil series is Raynor loam, characterized by:
 - Low nutrient density, stressing vines appropriately
 - pH typically between 5.5-6.5 (moderately acidic)
 
-Compare this to the Goldridge sandy loam that defines much of the Russian River Valley—derived from coastal marine sediments, higher in organic matter, more water-retentive. Or to the red volcanic soils of nearby Alexander Valley, which contain more iron and weather to a rust color. Chalk Hill's white volcanic soils are distinctly their own.
+Compare this to the Goldridge sandy loam that defines much of the Russian River Valley, derived from coastal marine sediments, higher in organic matter, more water-retentive. Or to the red volcanic soils of nearby Alexander Valley, which contain more iron and weather to a rust color. Chalk Hill's white volcanic soils are distinctly their own.
 
-This drainage capacity cannot be overstated. In wet years when Russian River Valley vineyards struggle with waterlogged soils and dilution, Chalk Hill's volcanic pumice acts like a geological sieve. The vines never get wet feet. This makes the region particularly valuable in El Niño years and explains why Bordeaux varieties—which despise wet soils—perform so well here.
+This drainage capacity cannot be overstated. In wet years when Russian River Valley vineyards struggle with waterlogged soils and dilution, Chalk Hill's volcanic pumice acts like a geological sieve. The vines never get wet feet. This makes the region particularly valuable in El Niño years and explains why Bordeaux varieties (which despise wet soils) perform so well here.
 
 The volcanic origin also contributes minerality to the wines, though this term requires precision. We're not talking about literal minerals leaching into grapes (they don't). Rather, the low nutrient density and excellent drainage create vine stress that concentrates flavors and produces wines with tension, energy, and a stony quality that tasters often describe as "mineral." In Chardonnay, this manifests as flint and wet stone. In Sauvignon Blanc, as crushed rock and gunflint.
 
@@ -44,9 +44,9 @@ This diversity is unusual for Sonoma. Most sub-AVAs specialize. Green Valley is 
 
 ### Chardonnay: The Unexpected Star
 
-Given the warmth and volcanic soils, you might expect Chalk Hill Chardonnay to be broad, tropical, and heavy. It's not. The best examples show remarkable tension and minerality, with stone fruit and citrus prevailing over banana and pineapple. The volcanic soils and diurnal temperature swings—often 40-50°F between day and night—preserve acidity that can reach 6-7 g/L even at full ripeness.
+Given the warmth and volcanic soils, you might expect Chalk Hill Chardonnay to be broad, tropical, and heavy. It's not. The best examples show remarkable tension and minerality, with stone fruit and citrus prevailing over banana and pineapple. The volcanic soils and diurnal temperature swings (often 40-50°F between day and night) preserve acidity that can reach 6-7 g/L even at full ripeness.
 
-Rodney Strong has bottled a Chalk Hill Chardonnay since the 1970s, treating it as a distinct terroir within their portfolio. The wine typically shows Meyer lemon, white peach, and a distinctive flinty edge. Malolactic fermentation is usually completed, but the inherent acidity of the fruit means the wines don't become flabby. Oak treatment varies by producer, but the terroir can handle new French oak better than you'd expect—the wine's natural structure provides a frame that integrates the wood.
+Rodney Strong has bottled a Chalk Hill Chardonnay since the 1970s, treating it as a distinct terroir within their portfolio. The wine typically shows Meyer lemon, white peach, and a distinctive flinty edge. Malolactic fermentation is usually completed, but the inherent acidity of the fruit means the wines don't become flabby. Oak treatment varies by producer, but the terroir can handle new French oak better than you'd expect: the wine's natural structure provides a frame that integrates the wood.
 
 Arnot-Roberts, known for their site-specific, terroir-driven approach, sources Chardonnay from Trenton Estate in Chalk Hill. Their bottling emphasizes the region's mineral qualities, using neutral oak and native yeasts to let the volcanic terroir speak. The wine often shows saline notes and crushed stone alongside Gravenstein apple and lemon zest.
 
@@ -63,7 +63,7 @@ Chalk Hill Estate Winery, the 1,300-acre property Fred Furth established, has ma
 
 The wines are usually fermented in stainless steel or neutral oak, though some producers experiment with barrel fermentation and skin contact. The volcanic soils seem to suppress the green bell pepper character that can plague warm-climate Sauvignon Blanc, instead emphasizing mineral and citrus qualities.
 
-This is not Sancerre—the fruit is riper, the texture is rounder. But it's not Napa Valley either, where Sauvignon Blanc often becomes indistinguishable from oaked Chardonnay. Chalk Hill occupies a middle ground that deserves more attention.
+This is not Sancerre: the fruit is riper, the texture is rounder. But it's not Napa Valley either, where Sauvignon Blanc often becomes indistinguishable from oaked Chardonnay. Chalk Hill occupies a middle ground that deserves more attention.
 
 ### Cabernet Sauvignon and Bordeaux Varieties: The Warm-Climate Advantage
 
@@ -76,7 +76,7 @@ The volcanic soils contribute structure and tannin. Cabernet from Chalk Hill typ
 - Moderate alcohol (13.5-14.5%) compared to Napa (14.5-15.5%)
 - Bright acidity that keeps the wines fresh
 
-Rodney Strong's Chalk Hill Cabernet Sauvignon, first produced in the 1980s, established the template. The wine shows Bordeaux-like restraint with California ripeness—not as austere as Médoc, not as opulent as Oakville. It occupies a stylistic space similar to Sonoma Mountain or Diamond Mountain, where elevation and cooling influences moderate the warmth.
+Rodney Strong's Chalk Hill Cabernet Sauvignon, first produced in the 1980s, established the template. The wine shows Bordeaux-like restraint with California ripeness, not as austere as Médoc, not as opulent as Oakville. It occupies a stylistic space similar to Sonoma Mountain or Diamond Mountain, where elevation and cooling influences moderate the warmth.
 
 Merlot performs particularly well, benefiting from the drainage (it's prone to rot in wet soils) and the diurnal swings that preserve acidity. Bordeaux blends incorporating Cabernet Franc, Petit Verdot, and Malbec are increasingly common, with the volcanic soils providing enough structure to support these varieties without excessive oak or extraction.
 
@@ -91,7 +91,7 @@ Notable vineyard blocks include:
 - **Furth Vineyard**: Estate Cabernet Sauvignon, volcanic ash soils
 - **Rodgers Creek Bench**: Sauvignon Blanc, exceptional drainage
 
-The estate produces approximately 40,000 cases annually, with Sauvignon Blanc and Chardonnay leading volume. Quality is reliable rather than exceptional—these are well-made wines that express Chalk Hill's character clearly, if not profoundly.
+The estate produces approximately 40,000 cases annually, with Sauvignon Blanc and Chardonnay leading volume. Quality is reliable rather than exceptional: these are well-made wines that express Chalk Hill's character clearly, if not profoundly.
 
 ### Rodney Strong Vineyards
 
@@ -103,7 +103,7 @@ Strong's Chardonnay bottling is particularly noteworthy for its consistency acro
 
 This cult producer's involvement in Chalk Hill signals the region's terroir credibility. Arnot-Roberts sources Chardonnay from Trenton Estate, a vineyard planted in the 1970s on white volcanic soils at approximately 400 feet elevation.
 
-The Arnot-Roberts approach—native yeasts, neutral oak, minimal intervention—strips away winemaking artifice to reveal terroir. Their Chalk Hill Chardonnay shows the AVA at its most transparent: stony, tense, citrus-driven, with subtle stone fruit and a long, mineral finish. Production is tiny (200-300 cases), and the wine sells out quickly, but it proves what Chalk Hill can achieve in the right hands.
+The Arnot-Roberts approach (native yeasts, neutral oak, minimal intervention) strips away winemaking artifice to reveal terroir. Their Chalk Hill Chardonnay shows the AVA at its most transparent: stony, tense, citrus-driven, with subtle stone fruit and a long, mineral finish. Production is tiny (200-300 cases), and the wine sells out quickly, but it proves what Chalk Hill can achieve in the right hands.
 
 ### Other Notable Producers
 
@@ -119,7 +119,7 @@ Russian River Valley is cooler, foggier, and defined by marine sediment soils (G
 
 ### Versus Alexander Valley
 
-Alexander Valley, to the north, is warmer still—a true Region III climate that excels with Cabernet Sauvignon and Zinfandel. Its soils are predominantly red volcanic and alluvial, with more iron content. Wines show darker fruit, more power, higher alcohol. Chalk Hill is cooler, with white volcanic soils that produce more elegance and restraint. Alexander Valley is Napa-adjacent in style; Chalk Hill is distinctly Sonoma.
+Alexander Valley, to the north, is warmer still: a true Region III climate that excels with Cabernet Sauvignon and Zinfandel. Its soils are predominantly red volcanic and alluvial, with more iron content. Wines show darker fruit, more power, higher alcohol. Chalk Hill is cooler, with white volcanic soils that produce more elegance and restraint. Alexander Valley is Napa-adjacent in style; Chalk Hill is distinctly Sonoma.
 
 ### Versus Knights Valley
 
@@ -147,7 +147,7 @@ Chalk Hill's warmth provides vintage consistency that cooler Sonoma regions lack
 
 ## Food Pairing Considerations
 
-Chalk Hill's wines occupy a stylistic middle ground that makes them exceptionally food-versatile. The Chardonnays have enough weight for richer preparations (roasted chicken, lobster with butter) but sufficient acidity for lighter fare (grilled fish, Caesar salad). The Sauvignon Blancs excel with raw oysters, goat cheese, and herb-driven dishes—think spring vegetables, pesto, fresh herbs.
+Chalk Hill's wines occupy a stylistic middle ground that makes them exceptionally food-versatile. The Chardonnays have enough weight for richer preparations (roasted chicken, lobster with butter) but sufficient acidity for lighter fare (grilled fish, Caesar salad). The Sauvignon Blancs excel with raw oysters, goat cheese, and herb-driven dishes, think spring vegetables, pesto, fresh herbs.
 
 The Cabernet Sauvignons and Bordeaux blends are structured enough for grilled meats but not so tannic that they overwhelm food. Try them with:
 - Grilled lamb chops with rosemary
@@ -163,7 +163,7 @@ Chalk Hill remains undervalued relative to its quality potential. The AVA lacks 
 
 Climate change may actually benefit Chalk Hill. As Russian River Valley warms and fog patterns shift, Chalk Hill's established warmth and drought-resistant volcanic soils position it well for the future. Producers are experimenting with Mediterranean varieties (Albariño, Grenache, Mourvèdre) that may thrive as temperatures rise.
 
-The key challenge is identity. Chalk Hill needs to decide what it wants to be: a Chardonnay region, a Sauvignon Blanc region, a Bordeaux region, or all three. The terroir supports all three, but the marketing lacks focus. Arnot-Roberts' involvement suggests a path forward—small-production, terroir-driven wines that emphasize the volcanic soils and unique mesoclimate. Whether larger producers follow this lead remains to be seen.
+The key challenge is identity. Chalk Hill needs to decide what it wants to be: a Chardonnay region, a Sauvignon Blanc region, a Bordeaux region, or all three. The terroir supports all three, but the marketing lacks focus. Arnot-Roberts' involvement suggests a path forward, small-production, terroir-driven wines that emphasize the volcanic soils and unique mesoclimate. Whether larger producers follow this lead remains to be seen.
 
 For now, Chalk Hill remains Sonoma's volcanic anomaly: a region named for something it isn't, growing grapes it shouldn't, and producing wines that deserve far more attention than they receive.
 

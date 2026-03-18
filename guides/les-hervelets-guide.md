@@ -6,7 +6,7 @@ Les Hervelets stands as one of Fixin's most distinguished Premier Cru vineyards,
 
 Geographically, Les Hervelets sits approximately 15 kilometers south of Dijon, positioned on the mid-slope of the Côte d'Or's eastern face. The vineyard occupies prime real estate on the hillside, benefiting from the optimal exposure and elevation that characterizes Burgundy's greatest sites. Within Fixin itself, Les Hervelets is situated in the northern section of the commune's Premier Cru vineyards, creating a natural bridge between the village appellations to the north and the more famous Premier and Grand Crus that extend southward through Gevrey-Chambertin.
 
-The climat's position within the broader Côte de Nuits context is particularly significant, as it represents the first serious expression of the geological and climatic conditions that will define the entire slope. Here, the fundamental characteristics of Burgundian terroir—the interplay of limestone, marl, and precise mesoclimate—begin to express themselves with the complexity and nuance that make the Côte de Nuits legendary among wine regions worldwide.
+The climat's position within the broader Côte de Nuits context is particularly significant, as it represents the first serious expression of the geological and climatic conditions that will define the entire slope. Here, the fundamental characteristics of Burgundian terroir (the interplay of limestone, marl, and precise mesoclimate) begin to express themselves with the complexity and nuance that make the Côte de Nuits legendary among wine regions worldwide.
 
 ## Size
 
@@ -58,7 +58,7 @@ Site-specific challenges in Les Hervelets include managing the limestone-rich so
 
 Wines from Les Hervelets exhibit a distinctive character that reflects both the site's terroir and its position within the Fixin commune. These Pinot Noirs typically display medium to medium-full body with elegant structure, combining power and finesse in a manner characteristic of fine Côte de Nuits Premier Crus.
 
-Aromatically, Les Hervelets produces wines of considerable complexity, with primary fruit characteristics centered on red berry fruits—particularly cherry, raspberry, and strawberry—complemented by subtle dark berry notes in riper vintages. Floral elements, especially violet and rose, frequently appear in young wines, while earthy undertones including forest floor, mushroom, and wet limestone emerge with aging.
+Aromatically, Les Hervelets produces wines of considerable complexity, with primary fruit characteristics centered on red berry fruits (particularly cherry, raspberry, and strawberry) complemented by subtle dark berry notes in riper vintages. Floral elements, especially violet and rose, frequently appear in young wines, while earthy undertones including forest floor, mushroom, and wet limestone emerge with aging.
 
 The wine's aromatic profile often includes distinctive mineral notes that reflect the limestone-rich terroir, manifesting as chalk, wet stone, and subtle metallic elements that add complexity and terroir expression. Spice characteristics, including white pepper, cinnamon, and subtle herbs, contribute additional layers of complexity, particularly in wines from older vines.
 

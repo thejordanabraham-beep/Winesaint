@@ -12,13 +12,13 @@ The towns of Mattawa and Royal City serve as the primary communities within the 
 
 ## Climate & Geography
 
-Royal Slope exhibits classic desert continental climate characteristics, moderated by its significant elevation range and proximity to the Columbia River. The region experiences hot, dry summers with intense sunlight and remarkably cool nights—a diurnal temperature variation that often exceeds 40-50°F during the peak growing season. This dramatic day-to-night temperature swing is crucial for maintaining natural acidity in grapes while allowing sugars to develop during warm daylight hours.
+Royal Slope exhibits classic desert continental climate characteristics, moderated by its significant elevation range and proximity to the Columbia River. The region experiences hot, dry summers with intense sunlight and remarkably cool nights: a diurnal temperature variation that often exceeds 40-50°F during the peak growing season. This dramatic day-to-night temperature swing is crucial for maintaining natural acidity in grapes while allowing sugars to develop during warm daylight hours.
 
 Annual precipitation averages a mere 6-8 inches, making irrigation an absolute necessity for grape cultivation. The arid climate brings significant advantages: minimal disease pressure, extended hang time, and exceptional control over vine water stress. Growers rely on water rights from the Columbia Basin Project, utilizing drip irrigation and other precision viticulture techniques to manage vine vigor and fruit quality.
 
 The AVA's topography is its defining characteristic. Elevations range from approximately 580 feet near the Columbia River to over 1,900 feet at the eastern boundary along the Frenchman Hills. This 1,300-foot elevation differential creates multiple mesoclimates within the region. Lower-elevation vineyards experience warmer conditions suitable for later-ripening varieties, while higher-elevation sites benefit from cooler temperatures, increased wind exposure, and a longer growing season that can extend into late October or early November.
 
-The southwest-facing aspect of Royal Slope's primary vineyard areas maximizes sun exposure throughout the growing season, with the Saddle Mountains and Frenchman Hills providing protection from harsh northerly winds. The elevation gradient also contributes to excellent air drainage, reducing frost risk in many vineyard sites—a critical advantage during spring bud break and fall harvest periods.
+The southwest-facing aspect of Royal Slope's primary vineyard areas maximizes sun exposure throughout the growing season, with the Saddle Mountains and Frenchman Hills providing protection from harsh northerly winds. The elevation gradient also contributes to excellent air drainage, reducing frost risk in many vineyard sites: a critical advantage during spring bud break and fall harvest periods.
 
 The region experiences approximately 2,800-3,200 growing degree days (GDD) depending on elevation, placing it in an intermediate zone within the Columbia Valley. This GDD range is comparable to renowned wine regions like the Médoc in Bordeaux or parts of Tuscany, though Washington's concentrated summer heat and long daylight hours create a unique ripening environment.
 
@@ -30,7 +30,7 @@ The dominant soil types include:
 
 **Quincy Series Soils**: Sandy to sandy loam soils found at lower to mid-elevations, typically well-drained with low water-holding capacity. These soils warm quickly in spring, promoting early vine growth, and naturally limit vigor, concentrating flavors in the fruit. Quincy soils are particularly prevalent in the central portion of the AVA.
 
-**Hezel Series and Burbank Loamy Fine Sand**: Light-textured soils with excellent drainage, found on slopes and terraces. These soils stress vines appropriately, producing smaller berries with concentrated flavors and thick skins—ideal for premium red wine production.
+**Hezel Series and Burbank Loamy Fine Sand**: Light-textured soils with excellent drainage, found on slopes and terraces. These soils stress vines appropriately, producing smaller berries with concentrated flavors and thick skins, ideal for premium red wine production.
 
 **Sagehill and Warden Series**: Silt loam soils found in areas influenced by wind-blown (aeolian) deposits. These soils retain more moisture than the sandier types, requiring careful irrigation management but producing wines with elegant structure and complexity.
 
@@ -62,7 +62,7 @@ Current vineyard acreage sits at approximately 1,800 acres, with significant pot
 
 **Growing Season Characteristics:**
 
-Bud break typically occurs in early to mid-April, with flowering in late May to early June. The extended growing season—often 190-210 days from bud break to harvest—allows for gradual flavor development and physiological ripeness. The intense summer heat from July through August drives sugar accumulation, while September's cooling trend and dramatic diurnal shifts facilitate flavor complexity and tannin polymerization.
+Bud break typically occurs in early to mid-April, with flowering in late May to early June. The extended growing season (often 190-210 days from bud break to harvest) allows for gradual flavor development and physiological ripeness. The intense summer heat from July through August drives sugar accumulation, while September's cooling trend and dramatic diurnal shifts facilitate flavor complexity and tannin polymerization.
 
 Harvest begins in late August for early-ripening whites and extends through October for Cabernet Sauvignon and other late-season varieties. In exceptional years, fruit can hang into early November at higher elevations, benefiting from Washington's typically dry autumn weather.
 
@@ -80,11 +80,11 @@ Royal Slope produces wines that elegantly balance power and finesse, reflecting 
 
 **Red Wine Profiles:**
 
-**Cabernet Sauvignon** from Royal Slope typically shows dense black fruit character—cassis, blackberry, and black cherry—with notable herbal complexity ranging from dried sage to tobacco leaf. The structured tannins provide an architectural framework that promises excellent aging potential, typically 10-20 years for well-made examples. Oak integration tends toward balance rather than dominance, with French oak most commonly employed. Alcohol levels typically range from 13.5% to 15%, with the best examples maintaining freshness despite ripe fruit character.
+**Cabernet Sauvignon** from Royal Slope typically shows dense black fruit character (cassis, blackberry, and black cherry) with notable herbal complexity ranging from dried sage to tobacco leaf. The structured tannins provide an architectural framework that promises excellent aging potential, typically 10-20 years for well-made examples. Oak integration tends toward balance rather than dominance, with French oak most commonly employed. Alcohol levels typically range from 13.5% to 15%, with the best examples maintaining freshness despite ripe fruit character.
 
 **Syrah** emerges as perhaps Royal Slope's most distinctive offering. The wines display the variety's characteristic range: dark berry fruits, black olive, cracked pepper, smoked meat, and exotic spices. The elevation's cooling influence preserves the savory, Northern Rhône-inspired character while Washington's sunny disposition ensures full, ripe fruit. These wines typically show moderate alcohol (13.5-14.5%), supple tannins, and remarkable aromatic complexity.
 
-**Merlot** offers approachability with substance—plum and cherry fruit, chocolate notes, soft tannins, and medium to full body. The best examples avoid the over-ripe jamminess that plagued some Washington Merlot in previous decades, instead presenting balanced, food-friendly wines with genuine varietal character.
+**Merlot** offers approachability with substance, plum and cherry fruit, chocolate notes, soft tannins, and medium to full body. The best examples avoid the over-ripe jamminess that plagued some Washington Merlot in previous decades, instead presenting balanced, food-friendly wines with genuine varietal character.
 
 Bordeaux-style blends incorporating Cabernet Sauvignon, Merlot, Cabernet Franc, Malbec, and Petit Verdot are increasingly common, with many producers creating their flagship wines from Royal Slope fruit. These blends often show greater complexity and integration than single-variety bottlings, expressing a sense of place that transcends individual varieties.
 
@@ -96,11 +96,11 @@ Bordeaux-style blends incorporating Cabernet Sauvignon, Merlot, Cabernet Franc, 
 
 **Comparison to Other Columbia Valley Sub-AVAs:**
 
-Compared to the powerful, tannic wines from Red Mountain, Royal Slope offerings typically show more elegance and aromatic complexity. Relative to the cooler Ancient Lakes or Lake Chelan AVAs, Royal Slope wines display riper fruit character and fuller body while maintaining better acidity than the warmest Columbia Valley sites. The region occupies a "Goldilocks zone" within Washington wine country—not too cool, not too warm, but balanced for producing age-worthy wines with both immediate appeal and long-term potential.
+Compared to the powerful, tannic wines from Red Mountain, Royal Slope offerings typically show more elegance and aromatic complexity. Relative to the cooler Ancient Lakes or Lake Chelan AVAs, Royal Slope wines display riper fruit character and fuller body while maintaining better acidity than the warmest Columbia Valley sites. The region occupies a "Goldilocks zone" within Washington wine country, not too cool, not too warm, but balanced for producing age-worthy wines with both immediate appeal and long-term potential.
 
 **Quality Levels and Price Points:**
 
-Royal Slope wines span a wide quality and price spectrum. Value-oriented wines from the AVA typically retail for $15-25, offering excellent quality-to-price ratios. Mid-tier single-vineyard and reserve designations range from $30-60, while premium and ultra-premium bottlings—particularly from benchmark vineyards—can command $75-150 or more. The region's reputation continues to build, with prices gradually rising as quality and recognition increase.
+Royal Slope wines span a wide quality and price spectrum. Value-oriented wines from the AVA typically retail for $15-25, offering excellent quality-to-price ratios. Mid-tier single-vineyard and reserve designations range from $30-60, while premium and ultra-premium bottlings (particularly from benchmark vineyards) can command $75-150 or more. The region's reputation continues to build, with prices gradually rising as quality and recognition increase.
 
 ## Notable Producers & Vineyards
 
@@ -126,7 +126,7 @@ While Royal Slope is a relatively young AVA, several producers and vineyards hav
 
 **Maison Bleue** and **Grand Rêve** have produced notable wines sourcing from Royal Slope vineyards, contributing to the region's growing reputation for Bordeaux-style blends.
 
-Several large-scale producers, including **Chateau Ste. Michelle** and **Columbia Crest**, source from Royal Slope, with fruit appearing in various tiers of their extensive portfolios. This dual market—both premium small-lot wines and larger-volume quality wines—speaks to the region's versatility and reliability.
+Several large-scale producers, including **Chateau Ste. Michelle** and **Columbia Crest**, source from Royal Slope, with fruit appearing in various tiers of their extensive portfolios. This dual market (both premium small-lot wines and larger-volume quality wines) speaks to the region's versatility and reliability.
 
 **Historic Development:**
 
@@ -144,7 +144,7 @@ However, visitors to the region can experience authentic agricultural Washington
 
 Spring brings dramatic displays of wildflowers, while autumn harvest season offers golden vineyard colors against the backdrop of the Saddle Mountains. Photography enthusiasts find endless inspiration in the region's expansive vistas and agricultural landscapes.
 
-Practical considerations for visitors include limited services in the immediate area—Quincy to the north offers lodging and dining options, while Moses Lake, approximately 30 miles northeast, provides more extensive visitor amenities. The region's best accessed by personal vehicle, with Interstate 90 providing the primary access corridor.
+Practical considerations for visitors include limited services in the immediate area. Quincy to the north offers lodging and dining options, while Moses Lake, approximately 30 miles northeast, provides more extensive visitor amenities. The region's best accessed by personal vehicle, with Interstate 90 providing the primary access corridor.
 
 **Development and Trends:**
 
@@ -170,6 +170,6 @@ Specific trends to watch include:
 
 - **International recognition** as wine critics and publications increasingly identify Royal Slope as a distinct source of premium Washington fruit.
 
-The AVA's designation in 2020 marked not an end but a beginning—formal recognition of what passionate growers and winemakers have built over two decades. As vineyards mature, winemaking practices refine, and site-specific knowledge deepens, Royal Slope is positioned to join Washington's elite wine regions as a source of distinctive, terroir-driven wines that express a unique place within America's dynamic wine landscape.
+The AVA's designation in 2020 marked not an end but a beginning, formal recognition of what passionate growers and winemakers have built over two decades. As vineyards mature, winemaking practices refine, and site-specific knowledge deepens, Royal Slope is positioned to join Washington's elite wine regions as a source of distinctive, terroir-driven wines that express a unique place within America's dynamic wine landscape.
 
 For wine professionals and enthusiasts, Royal Slope represents an opportunity to discover an emerging region before it achieves full recognition, to taste wines that balance power with finesse, and to appreciate how elevation, soils, and dedicated farming combine to create wines of genuine distinction. The Royal Slope story is still being written, vintage by vintage, but the opening chapters suggest a narrative of quality, consistency, and distinctive character that will resonate with discerning wine lovers for generations to come.

@@ -1,12 +1,12 @@
 # McMinnville AVA: Oregon's Wind-Swept Frontier
 
-The Van Duzer Corridor doesn't whisper through McMinnville—it roars. This 20-mile gap in the Coast Range funnels Pacific air directly into the westernmost sub-AVA of the Willamette Valley, creating what one winemaker bluntly describes as "catastrophic" growing conditions. The constant westerly gusts denude vines, shrink berries, thicken skins, and generally torment both grower and vine. This is not subtle terroir expression. McMinnville produces some of Oregon's most structured, tannic, and age-worthy Pinot Noir precisely because nothing here comes easy.
+The Van Duzer Corridor doesn't whisper through McMinnville, it roars. This 20-mile gap in the Coast Range funnels Pacific air directly into the westernmost sub-AVA of the Willamette Valley, creating what one winemaker bluntly describes as "catastrophic" growing conditions. The constant westerly gusts denude vines, shrink berries, thicken skins, and generally torment both grower and vine. This is not subtle terroir expression. McMinnville produces some of Oregon's most structured, tannic, and age-worthy Pinot Noir precisely because nothing here comes easy.
 
 Established in 2005, McMinnville encompasses approximately 600 planted acres in Yamhill County. The AVA sits at the mouth of the Van Duzer gap, positioned to receive the full brunt of marine influence that other Willamette sub-regions experience only intermittently. While Dundee Hills basks 15 miles to the east with its gentle, warm exposures, McMinnville growers battle wind speeds that can exceed 35 mph during the growing season. The result? Wines with darker fruit profiles, more pronounced tannin structure, and phenolic intensity that sets them apart from their valley neighbors.
 
 ## Geology and Soils: Ancient Seabeds Meet Volcanic Debris
 
-The McMinnville AVA occupies a geologically distinct zone within the Willamette Valley. Unlike the volcanic Jory soils that dominate Dundee Hills and Ribbon Ridge, McMinnville's defining soil series is—appropriately—McMinnville. This sedimentary soil formed from marine siltstones and sandstones of the Yamhill Formation, deposited between 55 and 40 million years ago when this region lay beneath a shallow sea.
+The McMinnville AVA occupies a geologically distinct zone within the Willamette Valley. Unlike the volcanic Jory soils that dominate Dundee Hills and Ribbon Ridge, McMinnville's defining soil series is, appropriately. McMinnville. This sedimentary soil formed from marine siltstones and sandstones of the Yamhill Formation, deposited between 55 and 40 million years ago when this region lay beneath a shallow sea.
 
 McMinnville soils are characterized by:
 - **Depth**: Moderately deep to deep profiles, typically 40-60 inches to bedrock
@@ -15,11 +15,11 @@ McMinnville soils are characterized by:
 - **pH**: Slightly acidic, ranging from 5.5 to 6.2
 - **Parent material**: Marine sedimentary rocks (Yamhill Formation)
 
-These sedimentary soils contrast sharply with the basalt-derived Jory series found in eastern Willamette sub-AVAs. Where Jory soils are deep, red, and iron-rich, McMinnville soils are browner, finer-textured, and contain more clay. The practical viticultural consequence? McMinnville soils hold water differently—not as freely draining as pure Jory, but far from water-retentive. Combined with the constant wind, this creates moderate water stress throughout the growing season.
+These sedimentary soils contrast sharply with the basalt-derived Jory series found in eastern Willamette sub-AVAs. Where Jory soils are deep, red, and iron-rich, McMinnville soils are browner, finer-textured, and contain more clay. The practical viticultural consequence? McMinnville soils hold water differently, not as freely draining as pure Jory, but far from water-retentive. Combined with the constant wind, this creates moderate water stress throughout the growing season.
 
-Importantly, McMinnville's geology doesn't directly flavor the wine—minerals don't volatilize from soil into grape must. But the indirect effects are profound. The soil's water-holding capacity, combined with wind-driven transpiration stress, produces smaller berries with higher skin-to-juice ratios. This is the mechanism behind McMinnville's tannic backbone, not some mystical mineral transfer.
+Importantly, McMinnville's geology doesn't directly flavor the wine, minerals don't volatilize from soil into grape must. But the indirect effects are profound. The soil's water-holding capacity, combined with wind-driven transpiration stress, produces smaller berries with higher skin-to-juice ratios. This is the mechanism behind McMinnville's tannic backbone, not some mystical mineral transfer.
 
-Pockets of volcanic Nekia soils appear in scattered sites, particularly at higher elevations. These shallower, rockier soils (20-40 inches deep) over basalt bedrock add another layer of complexity to site selection. Vineyards on Nekia experience earlier water stress and lower yields—desirable traits when seeking concentration.
+Pockets of volcanic Nekia soils appear in scattered sites, particularly at higher elevations. These shallower, rockier soils (20-40 inches deep) over basalt bedrock add another layer of complexity to site selection. Vineyards on Nekia experience earlier water stress and lower yields, desirable traits when seeking concentration.
 
 ## The Van Duzer Effect: Mesoclimate as Defining Factor
 
@@ -31,45 +31,45 @@ The effects are multiple and compounding:
 
 **Reduced fungal pressure**: Constant air movement keeps canopies dry, dramatically reducing botrytis and powdery mildew pressure. Organic and biodynamic farming is more feasible here than in the valley's more humid pockets.
 
-**Vine stress and adaptation**: Persistent wind causes vines to develop smaller leaves with thicker cuticles, reducing transpiration surface area. Berry size decreases—sometimes by 20-30% compared to sheltered sites. Crop loads naturally diminish as the vine diverts energy to structural reinforcement rather than fruit production.
+**Vine stress and adaptation**: Persistent wind causes vines to develop smaller leaves with thicker cuticles, reducing transpiration surface area. Berry size decreases, sometimes by 20-30% compared to sheltered sites. Crop loads naturally diminish as the vine diverts energy to structural reinforcement rather than fruit production.
 
-**Directional planting**: Smart growers orient rows north-south and plant on east-facing slopes to gain morning sun while using topography as a windbreak against afternoon westerlies. West-facing exposures are largely avoided—the wind simply strips leaves and damages fruit.
+**Directional planting**: Smart growers orient rows north-south and plant on east-facing slopes to gain morning sun while using topography as a windbreak against afternoon westerlies. West-facing exposures are largely avoided: the wind simply strips leaves and damages fruit.
 
 Elevation matters here. Most quality vineyards sit between 200 and 800 feet (60-245 meters), with the sweet spot around 400-600 feet. Higher sites gain better air drainage and more wind protection from surrounding ridges, while lower valley floor positions suffer from frost risk and excessive wind exposure.
 
-The growing season averages 1,800-2,000 degree days (Celsius), placing McMinnville firmly in Region I on the Winkler scale—similar to Burgundy's Côte d'Or. But this number obscures the daily drama: warm mornings followed by wind-cooled afternoons create a stop-start ripening pattern that extends hang time well into October. Harvest typically occurs 7-14 days later than Dundee Hills, despite similar heat accumulation.
+The growing season averages 1,800-2,000 degree days (Celsius), placing McMinnville firmly in Region I on the Winkler scale, similar to Burgundy's Côte d'Or. But this number obscures the daily drama: warm mornings followed by wind-cooled afternoons create a stop-start ripening pattern that extends hang time well into October. Harvest typically occurs 7-14 days later than Dundee Hills, despite similar heat accumulation.
 
 ## Pinot Noir: Structure and Savory Complexity
 
 McMinnville produces Pinot Noir that challenges preconceptions about Oregon's style. Where Dundee Hills offers red fruit and silky texture, and Eola-Amity Hills delivers floral aromatics and bright acidity, McMinnville tends toward darker fruit, more obvious tannin, and savory complexity.
 
 Typical flavor profile:
-- **Fruit**: Blackberry, black cherry, plum—darker spectrum than most Willamette Pinot
+- **Fruit**: Blackberry, black cherry, plum, darker spectrum than most Willamette Pinot
 - **Secondary**: Black tea, dried herbs (thyme, sage), tobacco, forest floor
 - **Structure**: Pronounced but fine-grained tannins, medium-plus body
 - **Acidity**: Moderate to high, with a saline or mineral-like tension
 - **Texture**: Gripping rather than plush, with a chalky or dusty quality
 
-The wines don't broadcast opulence. They require time—both in barrel and bottle. Many producers employ longer élevage (16-18 months) and higher percentages of new oak (25-40%) than they might use for fruit from warmer sites. The structure can handle it.
+The wines don't broadcast opulence. They require time, both in barrel and bottle. Many producers employ longer élevage (16-18 months) and higher percentages of new oak (25-40%) than they might use for fruit from warmer sites. The structure can handle it.
 
-This is Pinot Noir for Barolo drinkers. The tannins grip, the acidity persists, and the wines can age 10-15 years in good vintages. In youth, they can seem almost severe—closed, tannic, reluctant. But with 3-5 years of bottle age, complexity emerges: sous-bois, truffle, dried flowers, and that distinctive savory thread that makes you reach for another glass.
+This is Pinot Noir for Barolo drinkers. The tannins grip, the acidity persists, and the wines can age 10-15 years in good vintages. In youth, they can seem almost severe, closed, tannic, reluctant. But with 3-5 years of bottle age, complexity emerges: sous-bois, truffle, dried flowers, and that distinctive savory thread that makes you reach for another glass.
 
 ## Key Producers and Philosophical Approaches
 
 ### Eyrie Vineyards
-The McMinnville pioneers, though their original vineyard predates the AVA designation. David Lett planted here in the early 1970s, recognizing the parallel to Burgundy's climate. Current winemaker Jason Lett continues the low-intervention approach: native yeast, minimal sulfur, extended aging in neutral oak. The wines emphasize transparency and restraint—not the most powerful expressions of McMinnville terroir, but perhaps the most cerebral.
+The McMinnville pioneers, though their original vineyard predates the AVA designation. David Lett planted here in the early 1970s, recognizing the parallel to Burgundy's climate. Current winemaker Jason Lett continues the low-intervention approach: native yeast, minimal sulfur, extended aging in neutral oak. The wines emphasize transparency and restraint, not the most powerful expressions of McMinnville terroir, but perhaps the most cerebral.
 
 ### Maysara Winery
-Moe and Flora Tahmasebi farm 532 acres biodynamically in the McMinnville foothills—one of Oregon's largest biodynamic operations. Their Jamsheed bottling showcases McMinnville's structural potential: dense, dark-fruited, with 15+ year aging potential. The scale allows for detailed parcel selection; their "3 Degrees" wine blends three distinct elevations to capture the AVA's range.
+Moe and Flora Tahmasebi farm 532 acres biodynamically in the McMinnville foothills, one of Oregon's largest biodynamic operations. Their Jamsheed bottling showcases McMinnville's structural potential: dense, dark-fruited, with 15+ year aging potential. The scale allows for detailed parcel selection; their "3 Degrees" wine blends three distinct elevations to capture the AVA's range.
 
 ### Brittan Vineyards
-Robert Brittan's 30-acre estate sits at 450-600 feet elevation on sedimentary soils. A Burgundy veteran (formerly at Stags' Leap), Brittan brings French sensibility to Oregon fruit. Whole-cluster fermentation (typically 40-60%) adds structure and spice. The wines balance McMinnville's inherent power with elegance—no small feat.
+Robert Brittan's 30-acre estate sits at 450-600 feet elevation on sedimentary soils. A Burgundy veteran (formerly at Stags' Leap), Brittan brings French sensibility to Oregon fruit. Whole-cluster fermentation (typically 40-60%) adds structure and spice. The wines balance McMinnville's inherent power with elegance, no small feat.
 
 ### R. Stuart & Co.
 Rob Stuart sources from multiple McMinnville sites, including the acclaimed Folin Vineyard. His approach emphasizes site expression through minimal intervention: native yeast, no fining, light filtration. The wines display McMinnville's savory character without excessive extraction.
 
 ### Youngberg Hill
-Perched at 700 feet, among the AVA's highest vineyards, Youngberg Hill gains wind protection from surrounding topography while maintaining excellent air drainage. The wines show more red fruit than typical McMinnville bottlings—a function of elevation and exposure—but retain the characteristic tannic structure.
+Perched at 700 feet, among the AVA's highest vineyards, Youngberg Hill gains wind protection from surrounding topography while maintaining excellent air drainage. The wines show more red fruit than typical McMinnville bottlings (a function of elevation and exposure) but retain the characteristic tannic structure.
 
 ## Notable Vineyards and Lieux-Dits
 
@@ -83,7 +83,7 @@ Unlike Burgundy or even Dundee Hills, McMinnville hasn't developed a formal hier
 
 **Zenith Vineyard**: At 700-750 feet on Peavine Ridge, Zenith occupies one of McMinnville's most wind-protected sites. The wines show more immediate charm than lower-elevation bottlings while retaining structural backbone.
 
-The lack of lieu-dit nomenclature partly reflects McMinnville's youth—the AVA is not yet 20 years old. But it also reflects American wine culture's focus on producer brands rather than vineyard hierarchy. This may change as the region matures and certain sites consistently demonstrate superiority.
+The lack of lieu-dit nomenclature partly reflects McMinnville's youth: the AVA is not yet 20 years old. But it also reflects American wine culture's focus on producer brands rather than vineyard hierarchy. This may change as the region matures and certain sites consistently demonstrate superiority.
 
 ## Viticulture: Adapting to Adversity
 
@@ -95,7 +95,7 @@ Growing grapes in McMinnville requires specific adaptations:
 
 **Training systems**: VSP (vertical shoot positioning) dominates, with shoots trained upward and carefully tucked to prevent wind damage. Cane pruning is more common than spur pruning, allowing annual adjustment of bud count based on vine stress levels.
 
-**Canopy management**: Aggressive leaf removal on the west (windward) side is unnecessary—wind handles it naturally. East-facing fruit zones often require more careful leaf pulling to ensure adequate sun exposure and air flow.
+**Canopy management**: Aggressive leaf removal on the west (windward) side is unnecessary, wind handles it naturally. East-facing fruit zones often require more careful leaf pulling to ensure adequate sun exposure and air flow.
 
 **Harvest timing**: Patience is essential. McMinnville's extended hang time means October harvests are routine, sometimes stretching into early November in cool years. Growers must balance phenolic ripeness (which comes late) against autumn rain risk.
 
@@ -133,9 +133,9 @@ The pattern is clear: McMinnville occupies the cool, structural end of the Willa
 
 McMinnville's marginal climate creates significant vintage variation:
 
-**Warm vintages** (2014, 2015, 2018): The structure remains, but fruit ripeness increases. Wines show more black fruit, fuller body, and earlier approachability. These vintages can be deceptive—they're charming young but still age beautifully for 12-15 years.
+**Warm vintages** (2014, 2015, 2018): The structure remains, but fruit ripeness increases. Wines show more black fruit, fuller body, and earlier approachability. These vintages can be deceptive, they're charming young but still age beautifully for 12-15 years.
 
-**Cool vintages** (2010, 2011, 2017): Extended hang time and lower sugar accumulation. More herbal notes, brighter acidity, tighter structure. These wines require patience—5+ years to show well—but can develop extraordinary complexity with age.
+**Cool vintages** (2010, 2011, 2017): Extended hang time and lower sugar accumulation. More herbal notes, brighter acidity, tighter structure. These wines require patience (5+ years to show well) but can develop extraordinary complexity with age.
 
 **Wet vintages** (2016): Autumn rain is the nemesis. Careful sorting and lower yields are essential. The wines may lack concentration but can still show typicity if harvest timing was judicious.
 
@@ -148,16 +148,16 @@ Aging potential deserves emphasis. Where many Oregon Pinot Noirs peak at 5-8 yea
 McMinnville Pinot Noir's tannic structure and savory character call for different pairings than softer Oregon expressions:
 
 **Ideal matches**:
-- Duck breast with cherry gastrique—the tannins handle the fat, the fruit echoes the sauce
-- Grilled lamb chops with herbs de Provence—savory wine meets savory meat
-- Wild mushroom risotto—earthy wine, earthy food, textural harmony
-- Aged Gruyère or Comté—the wine's structure stands up to nutty, complex cheese
-- Beef bourguignon—classic Burgundian pairing works with Oregon's structured interpretation
+- Duck breast with cherry gastrique (the tannins handle the fat, the fruit echoes the sauce
+- Grilled lamb chops with herbs de Provence) savory wine meets savory meat
+- Wild mushroom risotto (earthy wine, earthy food, textural harmony
+- Aged Gruyère or Comté) the wine's structure stands up to nutty, complex cheese
+- Beef bourguignon (classic Burgundian pairing works with Oregon's structured interpretation
 
 **Avoid**:
-- Delicate fish—the tannins overwhelm
-- Raw preparations—the structure needs fat and protein
-- Spicy Asian cuisine—better suited to softer, fruitier Oregon Pinot
+- Delicate fish) the tannins overwhelm
+- Raw preparations (the structure needs fat and protein
+- Spicy Asian cuisine) better suited to softer, fruitier Oregon Pinot
 
 The wines also pair exceptionally well with game: venison, wild boar, pheasant. The dark fruit and forest floor notes create natural bridges.
 
@@ -171,7 +171,7 @@ While Pinot Noir dominates (comprising roughly 85% of plantings), McMinnville pr
 
 **Riesling**: A handful of producers experiment with Riesling, and the results intrigue. The cool nights and extended hang time allow aromatic development while preserving acidity. Bone-dry to off-dry styles both work.
 
-**Syrah**: Contrarian plantings exist, particularly at warmer, more protected sites. The wines show Northern Rhône influence—peppery, savory, medium-bodied—rather than Australian opulence.
+**Syrah**: Contrarian plantings exist, particularly at warmer, more protected sites. The wines show Northern Rhône influence (peppery, savory, medium-bodied) rather than Australian opulence.
 
 These remain curiosities rather than defining wines. McMinnville's reputation rests on Pinot Noir, and that's unlikely to change.
 
@@ -189,31 +189,31 @@ Several factors suggest growing recognition:
 
 **Climate change implications**: As the Willamette Valley warms, McMinnville's cooling winds may become an asset rather than a challenge. Sites that struggled to ripen fruit in the 1990s now achieve full phenolic maturity regularly.
 
-The risk is over-extraction and manipulation. As McMinnville gains recognition, the temptation to make "bigger" wines—more oak, more extraction, more alcohol—could obscure terroir expression. The best producers resist this, trusting that structure and savagery will find their audience.
+The risk is over-extraction and manipulation. As McMinnville gains recognition, the temptation to make "bigger" wines (more oak, more extraction, more alcohol) could obscure terroir expression. The best producers resist this, trusting that structure and savagery will find their audience.
 
 ## Wines to Seek Out
 
 For those wanting to explore McMinnville's range and potential:
 
 **Entry level** ($30-50):
-- Eyrie Vineyards Estate Pinot Noir—restrained, classic, cerebral
-- R. Stuart "Big Fire" Pinot Noir—accessible but true to place
-- Youngberg Hill Estate Pinot Noir—balanced introduction to the AVA
+- Eyrie Vineyards Estate Pinot Noir, restrained, classic, cerebral
+- R. Stuart "Big Fire" Pinot Noir (accessible but true to place
+- Youngberg Hill Estate Pinot Noir) balanced introduction to the AVA
 
 **Mid-range** ($50-80):
-- Brittan Vineyards Basalt Block Pinot Noir—whole cluster complexity, age-worthy
-- Maysara "3 Degrees" Pinot Noir—elevation blend showing AVA breadth
-- R. Stuart Folin Vineyard Pinot Noir—benchmark single-vineyard expression
+- Brittan Vineyards Basalt Block Pinot Noir (whole cluster complexity, age-worthy
+- Maysara "3 Degrees" Pinot Noir) elevation blend showing AVA breadth
+- R. Stuart Folin Vineyard Pinot Noir (benchmark single-vineyard expression
 
 **Premium** ($80-150):
-- Maysara Jamsheed Pinot Noir—powerful, structured, built for decades
-- Brittan Vineyards Gestalt Block Pinot Noir—old-vine intensity, Burgundian restraint
+- Maysara Jamsheed Pinot Noir) powerful, structured, built for decades
+- Brittan Vineyards Gestalt Block Pinot Noir, old-vine intensity, Burgundian restraint
 
 These wines reward patience. If possible, taste older vintages (2012-2015) alongside current releases to understand the aging trajectory.
 
 ## Conclusion: Oregon's Structured Alternative
 
-McMinnville challenges assumptions about Oregon Pinot Noir. This is not fruit-forward, immediately charming wine. It's structured, savory, and demands time. The Van Duzer winds ensure that nothing comes easy—not for the grower, not for the winemaker, not for the drinker willing to cellar bottles for 5-10 years.
+McMinnville challenges assumptions about Oregon Pinot Noir. This is not fruit-forward, immediately charming wine. It's structured, savory, and demands time. The Van Duzer winds ensure that nothing comes easy, not for the grower, not for the winemaker, not for the drinker willing to cellar bottles for 5-10 years.
 
 But for those seeking Pinot Noir with backbone, McMinnville delivers. The wines offer an alternative to both New World opulence and the softer expressions found elsewhere in the Willamette Valley. They prove that Oregon can produce age-worthy, complex Pinot Noir that holds its own against fine Burgundy.
 

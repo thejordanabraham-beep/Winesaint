@@ -14,7 +14,7 @@ The climat's location within the broader Côte de Beaune context is particularly
 
 Taille Pieds encompasses approximately 6.35 hectares (15.7 acres), making it a moderately sized Premier Cru within Volnay's hierarchy of classified vineyards. This size places it among the more substantial individual climats in the commune, though still intimate enough to maintain the focused character that defines great Burgundy sites.
 
-The vineyard's dimensions allow for meaningful diversity in exposure and soil composition while maintaining coherent stylistic characteristics that define the Taille Pieds identity. Within this area, the parcellaire—the intricate division of ownership that characterizes Burgundy—creates a mosaic of individual holdings that typically range from small plots of a few rows to more substantial parcels of several hectares.
+The vineyard's dimensions allow for meaningful diversity in exposure and soil composition while maintaining coherent stylistic characteristics that define the Taille Pieds identity. Within this area, the parcellaire (the intricate division of ownership that characterizes Burgundy) creates a mosaic of individual holdings that typically range from small plots of a few rows to more substantial parcels of several hectares.
 
 This scale proves optimal for expressing the site's unique terroir characteristics while allowing multiple producers to interpret the vineyard's potential through their individual approaches to viticulture and winemaking. The result is a range of expressions that, while maintaining the fundamental Taille Pieds character, showcase the subtle variations possible within even this relatively compact area.
 
@@ -28,7 +28,7 @@ The slope orientation faces predominantly east-southeast, providing optimal morn
 
 Elevation ranges from approximately 240 to 280 meters above sea level, positioning Taille Pieds in the sweet spot where morning mists dissipate quickly while cool evening temperatures preserve aromatic compounds and natural acidity. The aspect ensures maximum photosynthetic efficiency during the growing season while protecting against the harsh westerly winds that can damage developing grape clusters.
 
-The limestone content varies throughout the vineyard, with higher concentrations in the upper sections gradually transitioning to increased clay content in the lower portions. This variation creates distinct microzones within Taille Pieds, each contributing different elements to the final wine's complexity—the limestone sections providing elegance and minerality, while the clay-rich areas contribute color intensity and structured tannins.
+The limestone content varies throughout the vineyard, with higher concentrations in the upper sections gradually transitioning to increased clay content in the lower portions. This variation creates distinct microzones within Taille Pieds, each contributing different elements to the final wine's complexity: the limestone sections providing elegance and minerality, while the clay-rich areas contribute color intensity and structured tannins.
 
 ## Climate & Microclimate
 
@@ -60,11 +60,11 @@ Site-specific challenges include erosion management on steeper slopes, which req
 
 Taille Pieds produces wines of remarkable elegance and complexity, embodying the refined character that has made Volnay legendary among Burgundy enthusiasts. The wines typically display a brilliant ruby color with remarkable transparency, evolving toward garnet and brick tones with extended aging.
 
-Aromatic characteristics reveal layers of red fruit complexity, with cherry, raspberry, and strawberry forming the foundation, supported by floral notes of violet and rose petal. As the wines develop, spice elements emerge—white pepper, cinnamon, and subtle clove—along with earthy undertones of forest floor, mushroom, and wet limestone that speak directly to the vineyard's geological foundation.
+Aromatic characteristics reveal layers of red fruit complexity, with cherry, raspberry, and strawberry forming the foundation, supported by floral notes of violet and rose petal. As the wines develop, spice elements emerge (white pepper, cinnamon, and subtle clove) along with earthy undertones of forest floor, mushroom, and wet limestone that speak directly to the vineyard's geological foundation.
 
 The palate reveals exceptional balance between fruit intensity and structural elements. Taille Pieds wines show remarkable purity of fruit expression, with red berry flavors that maintain freshness even in ripe vintages. The tannin structure is notably refined, providing support without overwhelming the delicate fruit, while natural acidity creates a backbone that ensures aging potential.
 
-Textural qualities distinguish Taille Pieds from neighboring climats through a unique combination of silky elegance and underlying power. The wines possess what Burgundians call "race"—a thoroughbred quality that combines breeding with athleticism, showing both immediate appeal and the structure necessary for long-term development.
+Textural qualities distinguish Taille Pieds from neighboring climats through a unique combination of silky elegance and underlying power. The wines possess what Burgundians call "race", a thoroughbred quality that combines breeding with athleticism, showing both immediate appeal and the structure necessary for long-term development.
 
 The limestone influence appears consistently in the wine's mineral finish, a characteristic chalk and wet stone character that provides both complexity and a sense of place. This minerality becomes more pronounced with age, eventually dominating the flavor profile in mature bottles while maintaining harmony with evolved fruit and tertiary characteristics.
 
@@ -72,13 +72,13 @@ The limestone influence appears consistently in the wine's mineral finish, a cha
 
 Taille Pieds occupies a distinctive position within Volnay's Premier Cru hierarchy, sharing certain characteristics with neighboring climats while maintaining unique attributes that distinguish it from surrounding vineyards.
 
-Compared to Clos des Chênes, its northern neighbor, Taille Pieds typically shows greater finesse and floral character, while Clos des Chênes tends toward more robust structure and earth-driven complexity. The soil compositions explain this difference—Taille Pieds' higher limestone content creates more elegant wines, while Clos des Chênes' deeper clay provides additional power and longevity.
+Compared to Clos des Chênes, its northern neighbor, Taille Pieds typically shows greater finesse and floral character, while Clos des Chênes tends toward more robust structure and earth-driven complexity. The soil compositions explain this difference. Taille Pieds' higher limestone content creates more elegant wines, while Clos des Chênes' deeper clay provides additional power and longevity.
 
 Against Champans to the south, Taille Pieds demonstrates more immediate accessibility and charming fruit expression, whereas Champans often requires extended aging to reveal its full potential. Both sites produce wines of exceptional quality, but Champans' iron-rich soils create wines with greater color intensity and more structured tannins.
 
 The comparison with Caillerets, another prestigious Volnay Premier Cru, reveals Taille Pieds' position as slightly more elegant and perfumed, while Caillerets shows greater depth and concentration. These differences reflect varying exposures and soil compositions, with Caillerets benefiting from slightly more clay content and protection from wind.
 
-Within the broader context of Volnay Premier Crus, Taille Pieds represents the epitome of the commune's elegant style—more refined than the powerful Pommard Premier Crus to the north, yet showing greater complexity than many Beaune sites to the south. This positioning makes Taille Pieds an ideal introduction to fine Burgundy while offering sufficient complexity to satisfy the most demanding enthusiasts.
+Within the broader context of Volnay Premier Crus, Taille Pieds represents the epitome of the commune's elegant style, more refined than the powerful Pommard Premier Crus to the north, yet showing greater complexity than many Beaune sites to the south. This positioning makes Taille Pieds an ideal introduction to fine Burgundy while offering sufficient complexity to satisfy the most demanding enthusiasts.
 
 ## Notable Producers
 
@@ -90,15 +90,15 @@ Domaine Michel Lafarge produces a Taille Pieds that reflects their philosophy of
 
 Domaine Roblet-Monnot crafts wines from their Taille Pieds parcels with attention to vintage variation and terroir expression. Their approach emphasizes hand harvesting and careful selection, producing wines that consistently reflect both the vintage character and the unique attributes of their specific parcels within the climat.
 
-Each producer's interpretation reveals different aspects of Taille Pieds' potential—some emphasizing immediate charm and accessibility, others focusing on structure and aging potential. These variations demonstrate the richness inherent in this exceptional terroir while maintaining the fundamental characteristics that define the climat's identity.
+Each producer's interpretation reveals different aspects of Taille Pieds' potential, some emphasizing immediate charm and accessibility, others focusing on structure and aging potential. These variations demonstrate the richness inherent in this exceptional terroir while maintaining the fundamental characteristics that define the climat's identity.
 
 ## Historical Background & Classification
 
-The name "Taille Pieds" derives from the French term meaning "cut feet," likely referencing either the steep terrain that challenged vineyard workers or the practice of cutting vine stocks close to the ground during pruning—both interpretations reflect the intimate relationship between place and practice that defines Burgundian viticulture.
+The name "Taille Pieds" derives from the French term meaning "cut feet," likely referencing either the steep terrain that challenged vineyard workers or the practice of cutting vine stocks close to the ground during pruning, both interpretations reflect the intimate relationship between place and practice that defines Burgundian viticulture.
 
 Historical records indicate viticultural activity in this area dating to the medieval period, when Cistercian monks from nearby abbeys first recognized the site's exceptional potential for wine production. The monks' meticulous observation and documentation of different parcels' characteristics laid the foundation for Burgundy's classification system, identifying Taille Pieds as consistently producing wines of superior quality.
 
-The formal recognition of Taille Pieds as a Premier Cru occurred with the creation of the Appellation d'Origine Contrôlée system in 1936, when French authorities codified centuries of empirical knowledge about vineyard quality hierarchies. This classification acknowledged what local vignerons had known for generations—that Taille Pieds consistently produced wines superior to village-level sites while approaching the quality levels associated with Grand Cru vineyards.
+The formal recognition of Taille Pieds as a Premier Cru occurred with the creation of the Appellation d'Origine Contrôlée system in 1936, when French authorities codified centuries of empirical knowledge about vineyard quality hierarchies. This classification acknowledged what local vignerons had known for generations, that Taille Pieds consistently produced wines superior to village-level sites while approaching the quality levels associated with Grand Cru vineyards.
 
 Throughout the 20th century, Taille Pieds maintained its reputation for producing wines of exceptional elegance and aging potential. The vineyard survived the challenges of phylloxera, two world wars, and various economic difficulties, with each generation of vignerons preserving and refining the viticultural practices that maximize the site's potential.
 
@@ -112,7 +112,7 @@ Young Taille Pieds wines display vibrant fruit character supported by firm but a
 
 The transition period between 5-10 years reveals Taille Pieds' true character, as primary fruit evolves into more complex expressions while secondary characteristics emerge. Floral notes become more pronounced, earth and spice elements gain prominence, and the mineral foundation begins to assert itself more clearly. Tannins integrate fully during this period, creating silky textures that define mature Burgundy.
 
-Fully mature Taille Pieds wines, typically 10-20 years old, demonstrate the vineyard's potential for extraordinary complexity. Tertiary characteristics—leather, truffle, game, and forest floor—blend harmoniously with evolved fruit, while the limestone minerality provides structure and length. These mature wines showcase why Burgundy enthusiasts prize aged examples, revealing depths impossible to appreciate in youth.
+Fully mature Taille Pieds wines, typically 10-20 years old, demonstrate the vineyard's potential for extraordinary complexity. Tertiary characteristics (leather, truffle, game, and forest floor) blend harmoniously with evolved fruit, while the limestone minerality provides structure and length. These mature wines showcase why Burgundy enthusiasts prize aged examples, revealing depths impossible to appreciate in youth.
 
 Quality consistency remains remarkably high across vintages, though vintage variation creates interesting stylistic differences. Warm years produce wines with greater concentration and power, while cooler vintages emphasize elegance and mineral precision. Both styles age successfully, though following different trajectories toward ultimate complexity.
 

@@ -48,7 +48,7 @@ Harvest timing in Charmes typically occurs in mid to late September, with produc
 
 ## Wine Character & Style
 
-Wines from Charmes Premier Cru exhibit a distinctive profile that reflects the climat's terroir while showcasing classic Meursault characteristics. The wines typically display a golden yellow color with hints of green in their youth, evolving toward deeper gold with age. The aromatic profile combines stone fruit elements—particularly white peach, pear, and apple—with subtle citrus notes and distinctive mineral undertones.
+Wines from Charmes Premier Cru exhibit a distinctive profile that reflects the climat's terroir while showcasing classic Meursault characteristics. The wines typically display a golden yellow color with hints of green in their youth, evolving toward deeper gold with age. The aromatic profile combines stone fruit elements (particularly white peach, pear, and apple) with subtle citrus notes and distinctive mineral undertones.
 
 The mineral character in Charmes wines often manifests as wet stone or limestone dust, providing a backbone that supports the fruit expression without overwhelming it. Floral notes, including hawthorn and acacia, frequently appear, especially in wines from younger vines or cooler vintages. Oak influence varies among producers but typically contributes vanilla, spice, and toasty elements that integrate harmoniously with the fruit and mineral components.
 

@@ -6,7 +6,7 @@
 
 The Traisental wine region represents one of Austria's most distinctive and geologically diverse viticultural areas, despite being one of its smallest Districtus Austriae Controllatus (DAC) designations. Located in Lower Austria (Niederösterreich), approximately 60 kilometers west of Vienna, the region takes its name from the Traisen River, which flows northward from the Alpine foothills through the region before joining the Danube River near the town of Traismauer.
 
-The region encompasses roughly 790 hectares of vineyards distributed across several municipalities, with the wine-producing villages of Inzersdorf ob der Traisen, Reichersdorf, Getzersdorf, Nussdorf ob der Traisen, and Traismauer forming the heart of the designation. This compact area sits at the transition zone between two of Austria's larger wine regions—the Wachau to the west and Kremstal to the north—creating a unique viticultural identity that combines influences from both neighbors while maintaining its own distinct character.
+The region encompasses roughly 790 hectares of vineyards distributed across several municipalities, with the wine-producing villages of Inzersdorf ob der Traisen, Reichersdorf, Getzersdorf, Nussdorf ob der Traisen, and Traismauer forming the heart of the designation. This compact area sits at the transition zone between two of Austria's larger wine regions (the Wachau to the west and Kremstal to the north) creating a unique viticultural identity that combines influences from both neighbors while maintaining its own distinct character.
 
 ### Historical Development
 
@@ -20,7 +20,7 @@ The pivotal moment came in 2006 when Traisental received DAC status, becoming Au
 
 The Traisental benefits from a complex mesoclimate system that results from its unique geographical position at the intersection of multiple climatic influences. The region experiences a transitional climate where cool Alpine air from the nearby Dunkelsteinerwald forest meets the warmer, continental influences of the Pannonian Plain to the east. The Traisen River valley itself acts as a climatic corridor, channeling cool air from higher elevations northward toward the Danube.
 
-This climatic duality creates ideal conditions for cultivating both early-ripening and later-ripening varieties. The diurnal temperature variation—the difference between day and night temperatures—proves particularly beneficial for developing aromatic complexity and maintaining natural acidity in the grapes. Summer days can be quite warm, facilitating physiological ripeness and flavor development, while cool nights preserve the fresh, vivacious character that defines quality Traisental wines.
+This climatic duality creates ideal conditions for cultivating both early-ripening and later-ripening varieties. The diurnal temperature variation (the difference between day and night temperatures) proves particularly beneficial for developing aromatic complexity and maintaining natural acidity in the grapes. Summer days can be quite warm, facilitating physiological ripeness and flavor development, while cool nights preserve the fresh, vivacious character that defines quality Traisental wines.
 
 Annual precipitation averages between 600-700mm, with the western portions of the region receiving slightly more rainfall due to their proximity to the Alpine foothills. The growing season typically extends from April through late October, with harvest usually occurring between late September and early November, depending on the variety and desired wine style.
 
@@ -40,7 +40,7 @@ Traisental Grüner Veltliner typically displays aromas of green apple, white pep
 
 Riesling comprises approximately 15% of plantings and represents the region's second flagship variety. The Traisental DAC regulations specifically recognize both Grüner Veltliner and Riesling as the authorized varieties, underscoring Riesling's importance to regional identity. Here, Riesling finds expression in a style that differs markedly from the steely, austere Rieslings of the Kamptal or the more opulent versions from warmer sites in Kremstal.
 
-Traisental Riesling excels on the primary rock soils of the western and southern portions of the region, where ancient crystalline formations impart distinctive mineral character and structural complexity. These wines typically show classic Riesling aromatics—lime, green apple, white peach, and stone fruit—layered with floral notes and a characteristic flinty or smoky minerality. The acidity tends to be vibrant but not aggressive, providing framework without dominating the wine's profile.
+Traisental Riesling excels on the primary rock soils of the western and southern portions of the region, where ancient crystalline formations impart distinctive mineral character and structural complexity. These wines typically show classic Riesling aromatics (lime, green apple, white peach, and stone fruit) layered with floral notes and a characteristic flinty or smoky minerality. The acidity tends to be vibrant but not aggressive, providing framework without dominating the wine's profile.
 
 The Traisen valley's mesoclimate allows Riesling to achieve full phenolic ripeness while maintaining freshness, resulting in wines that express purity of fruit alongside textural depth. Many producers harvest Riesling at moderate must weights to preserve the variety's inherent elegance, though Spätlese and occasionally Auslese-level wines are produced in exceptional vintages.
 
@@ -48,7 +48,7 @@ The Traisen valley's mesoclimate allows Riesling to achieve full phenolic ripene
 
 While the DAC regulations focus exclusively on Grüner Veltliner and Riesling, the Traisental's winemaking tradition encompasses other varieties that, while labeled under the broader "Niederösterreich" designation, contribute to the region's viticultural diversity.
 
-Roter Veltliner, an unrelated variety despite its name, finds expression in the Traisental, particularly around Inzersdorf and Reichersdorf. This indigenous Austrian variety produces structured white wines with distinctive character—notes of citrus peel, dried herbs, and spice, often with a slightly broader texture than Grüner Veltliner.
+Roter Veltliner, an unrelated variety despite its name, finds expression in the Traisental, particularly around Inzersdorf and Reichersdorf. This indigenous Austrian variety produces structured white wines with distinctive character, notes of citrus peel, dried herbs, and spice, often with a slightly broader texture than Grüner Veltliner.
 
 Small plantings of Weissburgunder (Pinot Blanc) and Chardonnay exist, typically used for wines outside the DAC system. Some producers also cultivate limited amounts of red varieties, primarily Zweigelt and Sankt Laurent, though these represent a minor component of production.
 
@@ -66,7 +66,7 @@ Extended lees contact has become increasingly common, particularly for premium-t
 
 The Traisental's geological complexity represents its most distinctive viticultural asset and the primary factor differentiating it from neighboring regions. The area sits at a remarkable geological transition zone where three major formations converge: the crystalline rocks of the Bohemian Massif to the west, the Alpine foothills to the south, and the sedimentary deposits of the Molasse Basin extending northward toward the Danube.
 
-This geological diversity creates a patchwork of soil types within an extraordinarily compact area—conditions that would typically require traveling many kilometers to observe in most wine regions. Vintners working in the Traisental often cultivate vineyards on multiple soil types, allowing for nuanced parcel selection and blending strategies that leverage each substrate's distinctive contribution.
+This geological diversity creates a patchwork of soil types within an extraordinarily compact area, conditions that would typically require traveling many kilometers to observe in most wine regions. Vintners working in the Traisental often cultivate vineyards on multiple soil types, allowing for nuanced parcel selection and blending strategies that leverage each substrate's distinctive contribution.
 
 ### Primary Rock Formations (Urgestein)
 
@@ -78,15 +78,15 @@ Key vineyard sites on primary rock include portions of Wiederstein and Reitherko
 
 ### Loess and Loess-Loam
 
-The central and northern sections of the Traisental, particularly around Getzersdorf and the Danube-proximate areas near Traismauer, feature deep loess deposits laid down during the Pleistocene epoch. These windblown sediments—composed primarily of fine silt and clay particles—create fertile, deep soils with excellent water retention characteristics.
+The central and northern sections of the Traisental, particularly around Getzersdorf and the Danube-proximate areas near Traismauer, feature deep loess deposits laid down during the Pleistocene epoch. These windblown sediments (composed primarily of fine silt and clay particles) create fertile, deep soils with excellent water retention characteristics.
 
 Loess soils produce wines with generous fruit expression, aromatic lift, and approachable texture. Grüner Veltliner from loess terraces tends toward fuller body and richer mid-palate weight compared to primary rock expressions, with pronounced fruit character (stone fruit, yellow apple) complementing the variety's characteristic spice and herbal notes.
 
-The Stadt vineyard near Traismauer exemplifies loess terroir, producing wines that balance richness with freshness—powerful enough to accompany substantial cuisine yet maintaining the elegant acid structure essential to quality Austrian white wine.
+The Stadt vineyard near Traismauer exemplifies loess terroir, producing wines that balance richness with freshness, powerful enough to accompany substantial cuisine yet maintaining the elegant acid structure essential to quality Austrian white wine.
 
 ### Conglomerate and Mixed Formations
 
-Several important sites feature conglomerate formations—consolidated gravels and stones bound together by calcareous or clayey matrices. These mixed soils combine aspects of both primary rock drainage characteristics and the fertility of sedimentary deposits, producing wines of notable complexity and balance.
+Several important sites feature conglomerate formations, consolidated gravels and stones bound together by calcareous or clayey matrices. These mixed soils combine aspects of both primary rock drainage characteristics and the fertility of sedimentary deposits, producing wines of notable complexity and balance.
 
 The Rosenberg vineyard demonstrates this geological diversity particularly well, with sections encompassing weathered gneiss, loess-loam, and conglomerate formations within a single classified site. This complexity allows producers to craft wines that layer different terroir expressions, achieving both immediate appeal and long-term development potential.
 
@@ -114,9 +114,9 @@ The Traisental Districtus Austriae Controllatus (DAC) system, established in 200
 
 2. **Ortswein (Village Wine)**: Mid-tier wines from specific communities within the DAC, showing enhanced complexity and site character. Minimum must weights increase to 17° KMW (approximately 95° Oechsle), and wines cannot be released before May 1 following harvest. These wines display greater concentration and typically benefit from short-term bottle age before release.
 
-3. **Riedenwein (Single Vineyard/Erste Lage)**: The pinnacle classification, reserved for wines from classified vineyards. These wines must achieve 18° KMW minimum must weight and cannot be released until May 1 of the second year following harvest—for example, wines from the 2023 vintage cannot be sold before May 1, 2025. This extended mandatory aging ensures the wines have begun to develop complexity and integrated their structural components.
+3. **Riedenwein (Single Vineyard/Erste Lage)**: The pinnacle classification, reserved for wines from classified vineyards. These wines must achieve 18° KMW minimum must weight and cannot be released until May 1 of the second year following harvest, for example, wines from the 2023 vintage cannot be sold before May 1, 2025. This extended mandatory aging ensures the wines have begun to develop complexity and integrated their structural components.
 
-**Stylistic Parameters**: Traisental DAC wines must be vinified dry (maximum 4 g/l residual sugar, with total acidity never more than 3 g/l below residual sugar). The use of new oak is permitted but should not dominate the wine's character—most producers favor minimal oak influence to preserve terroir transparency.
+**Stylistic Parameters**: Traisental DAC wines must be vinified dry (maximum 4 g/l residual sugar, with total acidity never more than 3 g/l below residual sugar). The use of new oak is permitted but should not dominate the wine's character, most producers favor minimal oak influence to preserve terroir transparency.
 
 ### Erste Lage (First Growth) Vineyards
 
@@ -147,7 +147,7 @@ The Rosenberg vineyard, located primarily around Inzersdorf ob der Traisen, enco
 
 This geological complexity manifests in wines of remarkable layering and depth. Grüner Veltliner from Rosenberg typically displays both the aromatic generosity associated with loess terraces and the structural precision characteristic of primary rock sites. The wines often show notes of citrus, white pepper, and stone fruit, underpinned by a distinctive mineral backbone that emerges with bottle age.
 
-The varied exposure within Rosenberg—from southeast-facing slopes that capture morning light to west-facing sections that avoid excessive afternoon heat—allows producers to harvest at optimal ripeness while maintaining freshness. Several leading estates bottle separate parcels from different Rosenberg sections, illustrating how soil type and microclimate variations within a single classified vineyard can produce markedly different wine profiles.
+The varied exposure within Rosenberg, from southeast-facing slopes that capture morning light to west-facing sections that avoid excessive afternoon heat, allows producers to harvest at optimal ripeness while maintaining freshness. Several leading estates bottle separate parcels from different Rosenberg sections, illustrating how soil type and microclimate variations within a single classified vineyard can produce markedly different wine profiles.
 
 ### Wiederstein
 
@@ -169,7 +169,7 @@ The Stadt vineyard's gentle slopes and southeast exposure create ideal condition
 
 Located in the southern portion of the region, Reitherkogel encompasses steep slopes with primary rock soils and excellent sun exposure. The vineyard name ("Reither hill") reflects its elevated position and commanding views over the Traisen valley. Like Wiederstein, this site produces wines of pronounced mineral character and structural definition.
 
-Reitherkogel Grüner Veltliner tends toward taut, linear expressions with vibrant acidity and distinctive savory notes—white pepper, crushed herbs, and a characteristic smoky or graphite-like quality. These wines require patience, typically showing best after 4-6 years of bottle age when primary fruit integrates with developing tertiary complexity.
+Reitherkogel Grüner Veltliner tends toward taut, linear expressions with vibrant acidity and distinctive savory notes, white pepper, crushed herbs, and a characteristic smoky or graphite-like quality. These wines require patience, typically showing best after 4-6 years of bottle age when primary fruit integrates with developing tertiary complexity.
 
 The vineyard's drainage characteristics make it particularly well-suited to wet vintages, as the shallow soils and slope angle prevent waterlogging and dilution. Conversely, drought years can stress vines on this site, necessitating careful canopy management to balance yield and quality.
 
@@ -177,7 +177,7 @@ The vineyard's drainage characteristics make it particularly well-suited to wet 
 
 The Schlossberg vineyard derives its name from nearby castle ruins (Schloss = castle, berg = mountain/hill) and occupies prime south-facing slopes with mixed geological formations. The site combines elements of weathered primary rock with loess-loam deposits, creating moderately deep soils that balance fertility with drainage.
 
-This geological middle ground produces wines that integrate the minerality of crystalline formations with the aromatic generosity of loess terraces. Both Grüner Veltliner and Riesling from Schlossberg typically display harmonious proportions—sufficient concentration and structure for medium-term aging alongside approachable fruit character that provides drinking pleasure in youth.
+This geological middle ground produces wines that integrate the minerality of crystalline formations with the aromatic generosity of loess terraces. Both Grüner Veltliner and Riesling from Schlossberg typically display harmonious proportions, sufficient concentration and structure for medium-term aging alongside approachable fruit character that provides drinking pleasure in youth.
 
 The vineyard's aspect and elevation create a favorable mesoclimate with good air circulation and moderate heat accumulation, allowing for extended hang time and gradual ripening. This slower maturation process contributes to complexity and aromatic development while preserving freshness.
 
@@ -209,7 +209,7 @@ Grüner Veltliner from Zwiering often demonstrates notable complexity and aging 
 
 **Grüner Veltliner - Erste Lage**: Single vineyard Grüner Veltliner from classified sites represents the pinnacle of Traisental expression. These wines combine concentration and structure with elegant restraint, avoiding excessive power in favor of precision and transparency. Primary rock expressions tend toward linear, mineral-driven profiles with savory complexity, while loess-based wines show greater fruit generosity balanced by underlying structure. Alcohol typically ranges from 13-13.5%, with some examples reaching 14% in warm vintages, though the best wines never show heat or imbalance.
 
-**Riesling Profiles**: Traisental Riesling occupies a stylistic space between Wachau intensity and Kamptal austerity. The wines display classic Riesling aromatics—lime, green apple, white peach, citrus blossom—enhanced by distinctive mineral character, particularly from primary rock sites. Acidity is vibrant but not aggressive, providing structure without dominating. The finest examples show remarkable complexity, layering fruit purity with stony minerality and subtle herbal or floral notes.
+**Riesling Profiles**: Traisental Riesling occupies a stylistic space between Wachau intensity and Kamptal austerity. The wines display classic Riesling aromatics (lime, green apple, white peach, citrus blossom) enhanced by distinctive mineral character, particularly from primary rock sites. Acidity is vibrant but not aggressive, providing structure without dominating. The finest examples show remarkable complexity, layering fruit purity with stony minerality and subtle herbal or floral notes.
 
 ### Aging Potential and Drinking Windows
 
@@ -217,7 +217,7 @@ Grüner Veltliner from Zwiering often demonstrates notable complexity and aging 
 
 **Ortswein Level**: Village-designated wines benefit from 2-3 years of bottle age to integrate their components and develop early complexity. The drinking window extends to 5-7 years for well-structured examples, particularly from cooler vintages with higher natural acidity.
 
-**Erste Lage/Riedenwein**: Single vineyard wines, especially from primary rock sites, require patience. While technically drinkable upon release (already minimum 18 months old), these wines truly begin to reveal their potential after 4-5 years. Prime drinking windows typically occur between 6-12 years of age, when fruit character remains present but tertiary complexity—honeyed notes, savory depth, enhanced minerality—has developed. Exceptional vintages from top sites can age gracefully for 15-20 years, developing profound complexity while retaining freshness.
+**Erste Lage/Riedenwein**: Single vineyard wines, especially from primary rock sites, require patience. While technically drinkable upon release (already minimum 18 months old), these wines truly begin to reveal their potential after 4-5 years. Prime drinking windows typically occur between 6-12 years of age, when fruit character remains present but tertiary complexity (honeyed notes, savory depth, enhanced minerality) has developed. Exceptional vintages from top sites can age gracefully for 15-20 years, developing profound complexity while retaining freshness.
 
 **Vintage Variation**: Cool, wet vintages tend to produce wines of pronounced acidity and mineral character, often requiring extended aging to achieve balance. Warm, dry vintages yield riper, more immediately approachable wines with fuller body, though the finest examples maintain freshness and age gracefully. Balanced vintages with moderate temperatures and timely rainfall produce archetypal expressions that combine concentration with elegance.
 
@@ -229,11 +229,11 @@ The cuisine of Lower Austria and the Traisental region provides natural context 
 
 **Grüner Veltliner Pairings**:
 
-*Entry-level Gebietswein* pairs beautifully with Austrian classics like Wiener Schnitzel (breaded veal cutlet), where the wine's crispness cuts through the richness of the fried coating while the subtle pepper spice complements the meat's delicate flavor. These wines also excel with asparagus preparations—particularly white asparagus with hollandaise sauce, a springtime staple in Austria—as Grüner Veltliner's herbal character harmonizes with asparagus's vegetal sweetness.
+*Entry-level Gebietswein* pairs beautifully with Austrian classics like Wiener Schnitzel (breaded veal cutlet), where the wine's crispness cuts through the richness of the fried coating while the subtle pepper spice complements the meat's delicate flavor. These wines also excel with asparagus preparations (particularly white asparagus with hollandaise sauce, a springtime staple in Austria) as Grüner Veltliner's herbal character harmonizes with asparagus's vegetal sweetness.
 
-*Ortswein and Erste Lage Grüner Veltliner* possess sufficient structure and complexity to accompany richer preparations. Consider pairing these wines with Tafelspitz (boiled beef with horseradish and apple compote), river fish preparations like Saibling (char) or Forelle (trout) with herb butter, or creamy risottos. The wines' minerality and texture complement shellfish beautifully—try Erste Lage expressions with langoustines, scallops, or lobster prepared simply with butter and herbs.
+*Ortswein and Erste Lage Grüner Veltliner* possess sufficient structure and complexity to accompany richer preparations. Consider pairing these wines with Tafelspitz (boiled beef with horseradish and apple compote), river fish preparations like Saibling (char) or Forelle (trout) with herb butter, or creamy risottos. The wines' minerality and texture complement shellfish beautifully, try Erste Lage expressions with langoustines, scallops, or lobster prepared simply with butter and herbs.
 
-Grüner Veltliner's versatility extends to international cuisines. The wine's white pepper spice and fresh acidity make it an excellent match for Southeast Asian dishes with moderate spice levels—Thai green curry, Vietnamese pho, or Malaysian laksa. The mineral character complements Japanese cuisine, particularly sashimi, sushi, and grilled fish preparations.
+Grüner Veltliner's versatility extends to international cuisines. The wine's white pepper spice and fresh acidity make it an excellent match for Southeast Asian dishes with moderate spice levels. Thai green curry, Vietnamese pho, or Malaysian laksa. The mineral character complements Japanese cuisine, particularly sashimi, sushi, and grilled fish preparations.
 
 **Riesling Pairings**:
 
@@ -275,7 +275,7 @@ Understanding vintage variation helps set appropriate expectations and make info
 
 **Balanced Vintages**: Produce archetypal expressions that combine concentration with elegance, providing both immediate appeal and aging potential. These are the vintages to cellar from top sites, as they develop complexity while retaining freshness over extended periods.
 
-When selecting wines, consider the application—near-term consumption or cellaring, light or substantial cuisine, preference for austere minerality or generous fruit expression. The Traisental's diverse terroirs and quality tiers provide options for virtually any context, from casual midweek dinners to special occasion celebrations.
+When selecting wines, consider the application, near-term consumption or cellaring, light or substantial cuisine, preference for austere minerality or generous fruit expression. The Traisental's diverse terroirs and quality tiers provide options for virtually any context, from casual midweek dinners to special occasion celebrations.
 
 ---
 

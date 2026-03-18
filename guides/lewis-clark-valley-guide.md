@@ -6,7 +6,7 @@
 
 The Lewis-Clark Valley AVA occupies a distinctive position in Pacific Northwest wine country as one of the region's few bi-state appellations, straddling southeastern Washington and western Idaho. Contrary to common assumption, the Lewis-Clark Valley is **not** a sub-AVA of the Columbia Valley; rather, it stands as an independent American Viticultural Area with its own distinct characteristics and identity.
 
-Designated on March 21, 2016, the Lewis-Clark Valley AVA encompasses approximately 306,400 acres centered around the confluence of the Snake and Clearwater Rivers. The appellation derives its name from the twin cities of Lewiston, Idaho, and Clarkston, Washington—themselves named after the famous explorers Meriwether Lewis and William Clark, who traveled through this region during their historic expedition in 1805-1806.
+Designated on March 21, 2016, the Lewis-Clark Valley AVA encompasses approximately 306,400 acres centered around the confluence of the Snake and Clearwater Rivers. The appellation derives its name from the twin cities of Lewiston, Idaho, and Clarkston, Washington, themselves named after the famous explorers Meriwether Lewis and William Clark, who traveled through this region during their historic expedition in 1805-1806.
 
 The AVA's boundaries follow natural geographic features, including river drainages and elevation contours. On the Washington side, the appellation includes portions of Asotin and Garfield counties, while on the Idaho side, it encompasses parts of Nez Perce, Lewis, and Idaho counties. The region sits at the western edge of Idaho and the southeastern corner of Washington, positioned where the high desert plateau gives way to steep river canyons.
 
@@ -29,7 +29,7 @@ The Lewis-Clark Valley enjoys a climate distinctly warmer than surrounding areas
 
 The AVA experiences a **continental climate** with hot, dry summers and relatively mild winters compared to the surrounding plateau. Key climate characteristics include:
 
-- **Growing degree days**: Approximately 2,700-3,200 GDD (Fahrenheit), placing it in Region III of the Winkler scale—significantly warmer than most Columbia Valley sites
+- **Growing degree days**: Approximately 2,700-3,200 GDD (Fahrenheit), placing it in Region III of the Winkler scale, significantly warmer than most Columbia Valley sites
 - **Average annual rainfall**: 11-13 inches, with most precipitation falling during winter and spring
 - **Frost-free days**: 180-200 days, longer than surrounding higher-elevation areas
 - **Summer temperatures**: Daily highs frequently exceed 95°F (35°C) in July and August

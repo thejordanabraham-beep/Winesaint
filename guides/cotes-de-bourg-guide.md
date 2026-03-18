@@ -1,6 +1,6 @@
 # Côtes de Bourg: Bordeaux's Concentrated Right Bank
 
-The Côtes de Bourg sits on a privileged strip of clay-limestone hillsides on the right bank of the Dordogne River, just upstream from its confluence with the Garonne. This is not a subtle distinction. While much of Bordeaux's Right Bank sprawls across gentle plateaus and low-lying plains, Bourg occupies characterfully undulating terrain that rises sharply from the water. The result? Red wines with more concentration and aging potential than its larger neighbor to the north, Blaye—a fact often overlooked in Bordeaux's hierarchy.
+The Côtes de Bourg sits on a privileged strip of clay-limestone hillsides on the right bank of the Dordogne River, just upstream from its confluence with the Garonne. This is not a subtle distinction. While much of Bordeaux's Right Bank sprawls across gentle plateaus and low-lying plains, Bourg occupies characterfully undulating terrain that rises sharply from the water. The result? Red wines with more concentration and aging potential than its larger neighbor to the north, Blaye: a fact often overlooked in Bordeaux's hierarchy.
 
 ## Geography and Terroir
 
@@ -8,7 +8,7 @@ The appellation encompasses 3,412 hectares of vines as of 2020, compact by Borde
 
 The soil structure tells the region's geological story. Clay and limestone form the foundational base, overlaid with sandy gravel deposits and scattered marls. This combination offers both water retention (clay) and drainage (gravel), with limestone contributing minerality and structure to the wines. The clay-limestone matrix is more pronounced here than in neighboring Blaye, where soils trend gentler and more varied.
 
-Unlike Blaye's expansive mixed agriculture and undulating-but-gentler terrain, Bourg presents a more focused viticultural landscape. The elevation shifts are more dramatic, the hillsides steeper, the vineyard land more concentrated. Some areas in Blaye sit too close to the water table to sustain healthy vines—a problem Bourg's elevated sites avoid entirely.
+Unlike Blaye's expansive mixed agriculture and undulating-but-gentler terrain, Bourg presents a more focused viticultural landscape. The elevation shifts are more dramatic, the hillsides steeper, the vineyard land more concentrated. Some areas in Blaye sit too close to the water table to sustain healthy vines: a problem Bourg's elevated sites avoid entirely.
 
 ## Grape Varieties and Planting
 
@@ -22,7 +22,7 @@ The appellation operates under a single, straightforward AOP designation: Côtes
 
 ## Wine Character
 
-The best Côtes de Bourg reds deliver concentration and structure that punches above the appellation's modest reputation. The clay-limestone terroir imparts a firmer tannic backbone than the softer, Merlot-driven wines from flatter Right Bank sites. Expect dark fruit character with earthy, mineral undertones—the limestone signature coming through. These are not wines built for immediate consumption; the better examples reward 5-10 years of cellaring, developing tertiary complexity that rivals more expensive appellations.
+The best Côtes de Bourg reds deliver concentration and structure that punches above the appellation's modest reputation. The clay-limestone terroir imparts a firmer tannic backbone than the softer, Merlot-driven wines from flatter Right Bank sites. Expect dark fruit character with earthy, mineral undertones: the limestone signature coming through. These are not wines built for immediate consumption; the better examples reward 5-10 years of cellaring, developing tertiary complexity that rivals more expensive appellations.
 
 The aging potential separates serious Bourg from generic Bordeaux. Where many Right Bank wines from lesser appellations peak within 3-5 years, top Côtes de Bourg can evolve for a decade or more. This longevity stems directly from the terroir: hillside exposure concentrates flavors, clay provides structure, and limestone adds the acid backbone necessary for long-term development.
 
@@ -30,7 +30,7 @@ The aging potential separates serious Bourg from generic Bordeaux. Where many Ri
 
 Blaye sprawls across 6,500+ hectares, nearly double Bourg's footprint. The larger region encompasses more variable terrain, including low-lying sectors and areas of mixed agriculture where vines compete with other crops. Less than 5% of Blaye's vineyards are planted to white grapes today, a dramatic shift from its historical profile.
 
-Bourg's smaller size and more homogeneous terroir create consistency. When a bottle says Côtes de Bourg, you know it comes from hillside clay-limestone sites with good drainage. Blaye's diversity, while offering potential, also means greater variability in quality and style. Cabernet Sauvignon's superior performance in Bourg versus Blaye reflects this fundamental terroir difference—the grape simply gets riper, more reliably, on Bourg's better-exposed slopes.
+Bourg's smaller size and more homogeneous terroir create consistency. When a bottle says Côtes de Bourg, you know it comes from hillside clay-limestone sites with good drainage. Blaye's diversity, while offering potential, also means greater variability in quality and style. Cabernet Sauvignon's superior performance in Bourg versus Blaye reflects this fundamental terroir difference: the grape simply gets riper, more reliably, on Bourg's better-exposed slopes.
 
 ## Market Position
 
@@ -40,7 +40,7 @@ The appellation lacks the marketing power of Saint-Émilion or Pomerol, and it d
 
 ## Looking Forward
 
-As Bordeaux's climate warms and earlier-ripening sites gain advantage, Bourg's hillside exposures and natural cooling from the estuary position it well. The clay content provides water retention during increasingly dry summers, while the elevation and air circulation prevent heat stress. The appellation's challenge isn't viticultural—it's commercial. Raising the profile of Côtes de Bourg requires consistent quality and patient marketing in a region dominated by historic brands.
+As Bordeaux's climate warms and earlier-ripening sites gain advantage, Bourg's hillside exposures and natural cooling from the estuary position it well. The clay content provides water retention during increasingly dry summers, while the elevation and air circulation prevent heat stress. The appellation's challenge isn't viticultural, it's commercial. Raising the profile of Côtes de Bourg requires consistent quality and patient marketing in a region dominated by historic brands.
 
 The terroir is already there. The concentration is already there. What remains is recognition.
 
