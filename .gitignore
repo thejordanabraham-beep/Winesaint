@@ -43,3 +43,15 @@ next-env.d.ts
 # Large data files
 /data/inao/*.zip
 /data/inao/inao-extracted/
+
+# Development and temporary files
+.sanity/
+DEPLOYMENT_ANALYSIS.md
+SANITY_MIGRATION_TODO.md
+WINE_SAINT_CERTIFIED_PROJECT.md
+check-editors-picks.mjs
+dist/
+migration-output.log
+regions-export.ndjson
+sanity.config.ts
+wine-saint-certified/
