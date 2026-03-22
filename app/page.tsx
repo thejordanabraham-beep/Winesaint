@@ -86,36 +86,36 @@ export default async function Home() {
     <div className="bg-[#FAF7F2]">
       {/* Hero Section */}
       <section className="border-b-3 border-[#1C1C1C] bg-gradient-to-br from-[#722F37] to-[#6d597a]">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12 md:py-16">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 md:py-12">
           <div className="text-center">
-            <h1 className="font-serif text-4xl md:text-6xl italic text-white mb-4">
+            <h1 className="font-serif text-3xl md:text-5xl italic text-white mb-3">
               #1 Wine Education Resource
             </h1>
-            <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl mx-auto">
+            <p className="text-lg md:text-xl text-white/90 mb-6 max-w-3xl mx-auto">
               In depth guides, expert reviews, producer profiles, detailed maps and learning resources for experienced wine enthusiasts as well as those just getting started
             </p>
 
             {/* Stats Grid */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-4xl mx-auto mb-8">
-              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-4">
-                <div className="text-3xl md:text-4xl font-bold text-[#f4d35e] mb-1">2,500+</div>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-3 max-w-4xl mx-auto mb-6">
+              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-3">
+                <div className="text-2xl md:text-3xl font-bold text-[#f4d35e] mb-1">2,500+</div>
                 <div className="text-white text-xs md:text-sm">In-Depth Wine Region & Vineyard Guides</div>
               </div>
 
-              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-4">
-                <div className="text-3xl md:text-4xl font-bold text-[#f4d35e] mb-1">10,000+</div>
+              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-3">
+                <div className="text-2xl md:text-3xl font-bold text-[#f4d35e] mb-1">10,000+</div>
                 <div className="text-white text-xs md:text-sm">Expert Wine Reviews</div>
               </div>
 
-              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-4">
-                <div className="text-3xl md:text-4xl font-bold text-[#f4d35e] mb-1">✓</div>
+              <div className="bg-white/10 backdrop-blur border-2 border-white/20 rounded-lg p-3">
+                <div className="text-2xl md:text-3xl font-bold text-[#f4d35e] mb-1">✓</div>
                 <div className="text-white text-xs md:text-sm">Maps, Educational Materials & Original Articles</div>
               </div>
             </div>
 
             {/* Additional Copy */}
             <div className="max-w-3xl mx-auto">
-              <p className="text-white/80 text-lg leading-relaxed">
+              <p className="text-white/80 text-base md:text-lg leading-relaxed">
                 San Francisco's Premier Independent Wine Media. Wine Saint provides a full circle approach to wine education for experts and novices alike with an emphasis on California, small producers and good people.
               </p>
             </div>
