@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useRef, useEffect } from 'react';
+import { useState, useCallback, useRef, useEffect, useMemo } from 'react';
 import Map, { Source, Layer, Popup, NavigationControl } from 'react-map-gl/mapbox';
 import type { MapMouseEvent, MapRef } from 'react-map-gl/mapbox';
 import { useRouter } from 'next/navigation';
@@ -92,7 +92,7 @@ export default function HierarchicalMap({
       : null;
 
   // Convert children to GeoJSON
-  const childrenGeoJSON: FeatureCollection<Polygon | MultiPolygon> = {
+  const childrenGeoJSON: FeatureCollection<Polygon | MultiPolygon> = useMemo(() => ({
     type: 'FeatureCollection',
     features: children
       .filter((c) => {
@@ -122,10 +122,10 @@ export default function HierarchicalMap({
           } as Polygon | MultiPolygon,
         };
       }),
-  };
+  }), [children]);
 
   // Labels GeoJSON
-  const labelsGeoJSON: FeatureCollection<Point> = {
+  const labelsGeoJSON: FeatureCollection<Point> = useMemo(() => ({
     type: 'FeatureCollection',
     features: children
       .filter((c) => {
@@ -157,10 +157,10 @@ export default function HierarchicalMap({
           geometry: { type: 'Point', coordinates },
         };
       }),
-  };
+  }), [children]);
 
   // Siblings GeoJSON
-  const siblingsGeoJSON: FeatureCollection<Polygon | MultiPolygon> = {
+  const siblingsGeoJSON: FeatureCollection<Polygon | MultiPolygon> = useMemo(() => ({
     type: 'FeatureCollection',
     features: siblings
       .filter((s) => s.boundaries?.geometry?.coordinates)
@@ -182,9 +182,9 @@ export default function HierarchicalMap({
           } as Polygon | MultiPolygon,
         };
       }),
-  };
+  }), [siblings]);
 
-  const siblingLabelsGeoJSON: FeatureCollection<Point> = {
+  const siblingLabelsGeoJSON: FeatureCollection<Point> = useMemo(() => ({
     type: 'FeatureCollection',
     features: siblings
       .filter((s) => s.centerPoint || s.boundaries?.geometry?.coordinates)
@@ -205,7 +205,7 @@ export default function HierarchicalMap({
           geometry: { type: 'Point', coordinates },
         };
       }),
-  };
+  }), [siblings]);
 
   const onClick = useCallback(
     (event: MapMouseEvent) => {

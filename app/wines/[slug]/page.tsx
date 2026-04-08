@@ -2,9 +2,8 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { client } from '@/lib/sanity/client';
-import { wineBySlugQuery } from '@/lib/sanity/queries';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
-import { formatDrinkingWindow, formatPriceRange, convertTo10Point } from '@/lib/utils';
+import { formatDrinkingWindow, convertTo10Point } from '@/lib/utils';
 import { getVineyardPath } from '@/lib/guide-config';
 
 interface Wine {
