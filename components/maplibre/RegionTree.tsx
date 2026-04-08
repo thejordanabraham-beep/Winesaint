@@ -1,8 +1,8 @@
 'use client';
 import { useState, useCallback, useMemo, memo } from 'react';
-import { COUNTRIES } from '../data/colorPalette';
-import { isVisibleAtZoom } from '../data/hierarchyConfig';
-import { countFeatures, getDescendantIds } from '../hooks/useHierarchyTree';
+import { COUNTRIES } from '@/lib/maplibre/colorPalette';
+import { isVisibleAtZoom } from '@/lib/maplibre/hierarchyConfig';
+import { countFeatures, getDescendantIds } from '@/hooks/maplibre/useHierarchyTree';
 
 function RegionTree({
   visibleCountries,

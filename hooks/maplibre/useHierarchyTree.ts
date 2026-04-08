@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
-import { getDepth } from '../data/hierarchyConfig';
-import { GRAND_CRU_VILLAGE_MAP, GRAND_CRU_PDO_ONLY_MAP, HIDDEN_GC_PDO_NAMES, HIDDEN_APPELLATIONS } from '../data/burgundyClimatMap';
+import { getDepth } from '@/lib/maplibre/hierarchyConfig';
+import { GRAND_CRU_VILLAGE_MAP, GRAND_CRU_PDO_ONLY_MAP, HIDDEN_GC_PDO_NAMES, HIDDEN_APPELLATIONS } from '@/lib/maplibre/burgundyClimatMap';
 
 /**
  * Builds an in-memory tree from a flat array of GeoJSON features.
