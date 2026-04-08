@@ -207,24 +207,34 @@ export default function WineMap() {
 
   // Compute which features should be visible based on checkbox tree
   useEffect(() => {
-    const allTrees = Object.values(countryTrees);
-    if (allTrees.length === 0) return;
+    if (Object.keys(countryTrees).length === 0) return;
 
-    const vis = getVisibleFeatureIds(allTrees, checkboxTree.checked);
-    setHiddenFeatureIds(vis.hidden);
-    setParentOnlyHiddenIds(vis.parentOnlyHidden);
+    const allVisibleIds = new Set();
+    const allFadedIds = new Set();
 
-    // Compute fade sets
-    const fade = new Set();
-    for (const tree of allTrees) {
-      for (const node of tree.byId.values()) {
-        if (shouldFadeAtZoom(node.depth, zoomLevel)) {
-          fade.add(node.id);
+    // Process each country's tree
+    for (const [countryId, tree] of Object.entries(countryTrees)) {
+      const uncheckedIds = checkboxTree.getUncheckedIds(countryId);
+      const result = getVisibleFeatureIds(tree, zoomLevel, uncheckedIds);
+
+      // Merge results
+      for (const id of result.visible) allVisibleIds.add(id);
+      for (const id of result.faded) allFadedIds.add(id);
+    }
+
+    // Compute hidden IDs (all feature IDs that are NOT visible)
+    const allHidden = new Set();
+    for (const tree of Object.values(countryTrees)) {
+      for (const node of tree.nodeMap.values()) {
+        if (!allVisibleIds.has(node.id)) {
+          allHidden.add(node.id);
         }
       }
     }
-    setFadedFeatureIds(fade);
-  }, [countryTrees, checkboxTree.checked, zoomLevel]);
+
+    setHiddenFeatureIds(allHidden);
+    setFadedFeatureIds(allFadedIds);
+  }, [countryTrees, checkboxTree._state, zoomLevel, checkboxTree]);
 
   const handleZoomChange = useCallback((z: number) => {
     setZoomLevel(z);
