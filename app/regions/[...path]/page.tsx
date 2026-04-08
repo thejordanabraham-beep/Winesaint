@@ -5,18 +5,20 @@ import { useMemo } from 'react';
 import Link from 'next/link';
 import Breadcrumb from '@/components/Breadcrumb';
 import regionsData from '../../data/regions_hierarchical.json';
+import type { RegionsHierarchical, PageData, BreadcrumbItem, Region } from '@/types/regions';
 
 export default function RegionPage() {
   const params = useParams();
   const path = Array.isArray(params.path) ? params.path : [params.path];
 
   // Find the current region/country data
-  const pageData = useMemo(() => {
+  const pageData = useMemo((): PageData => {
     if (path.length === 0) return null;
 
     const countrySlug = path[0];
     if (!countrySlug) return null;
-    const country = (regionsData.countries as any)[countrySlug];
+    const typedData = regionsData as unknown as RegionsHierarchical;
+    const country = typedData.countries[countrySlug];
 
     if (!country) return null;
 
@@ -36,8 +38,8 @@ export default function RegionPage() {
     }
 
     // Navigate through the hierarchy
-    let current: any = null;
-    let breadcrumb = [
+    let current: Region | undefined = undefined;
+    let breadcrumb: BreadcrumbItem[] = [
       { name: 'Wine Region Guide', href: '/regions' },
       { name: country.name, href: `/regions/${countrySlug}` }
     ];
@@ -53,7 +55,7 @@ export default function RegionPage() {
       } else {
         // Sub-region - search in current's children
         if (current && current.children) {
-          current = current.children.find((child: any) => child.slug === slug);
+          current = current.children.find((child: Region) => child.slug === slug);
         }
       }
 
@@ -181,7 +183,7 @@ export default function RegionPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {(pageData.type === 'country' ? pageData.regions : pageData.children || []).map(
-                (region: any) => {
+                (region: Region) => {
                   const regionPath = pageData.type === 'country'
                     ? `/regions/${path[0]}/${region.slug}`
                     : `/regions/${path.join('/')}/${region.slug}`;
