@@ -17,7 +17,9 @@ export default function MapsPage() {
           Explore appellations, vineyards, and terroir across 20+ countries.
         </p>
         <a
-          href="https://maps.winesaint.com"
+          href="https://wine-saint-maps.vercel.app"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-block px-8 py-4 bg-[#722F37] text-white font-semibold uppercase tracking-wide hover:bg-[#5a252c] transition-colors rounded"
         >
           Open Wine Maps
