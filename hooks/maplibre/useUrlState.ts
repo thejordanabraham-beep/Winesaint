@@ -8,6 +8,7 @@ const DEFAULTS = {
 };
 
 function parseHash() {
+  if (typeof window === 'undefined') return null;
   const hash = window.location.hash.slice(1);
   if (!hash) return null;
 
@@ -67,6 +68,7 @@ export function useUrlState() {
   const initialCountries = parsed?.countries ?? DEFAULTS.countries;
 
   const updateUrl = useCallback((zoom, center, style, countries) => {
+    if (typeof window === 'undefined') return;
     if (timerRef.current) clearTimeout(timerRef.current);
     timerRef.current = setTimeout(() => {
       const hash = buildHash(zoom, center, style, countries);
