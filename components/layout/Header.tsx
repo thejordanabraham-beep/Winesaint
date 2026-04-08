@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
-import { MapsDropdown } from './MapsDropdown';
 import { MobileMenu } from './MobileMenu';
 import RegionsDropdown from './RegionsDropdown';
 
@@ -54,7 +53,12 @@ export function Header() {
               Wine Reviews
             </Link>
             <span className="text-gray-400 px-1">•</span>
-            <MapsDropdown />
+            <Link
+              href="/maps"
+              className="px-2 py-2 text-sm font-semibold uppercase tracking-wide whitespace-nowrap text-[#1C1C1C] hover:text-[#722F37] transition-colors"
+            >
+              Map
+            </Link>
           </div>
 
           {/* Logo - Centered */}

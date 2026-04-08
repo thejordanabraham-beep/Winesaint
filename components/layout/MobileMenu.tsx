@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
-import { MAP_SECTIONS } from '@/lib/constants';
 
 interface MobileMenuProps {
   isOpen: boolean;
@@ -20,7 +19,6 @@ const NAV_LINKS = [
 export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState('');
-  const [mapExpanded, setMapExpanded] = useState(false);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -64,45 +62,13 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
           </Link>
         ))}
 
-        {/* Mobile Maps Accordion */}
-        <div>
-          <button
-            onClick={() => setMapExpanded(!mapExpanded)}
-            className="w-full flex items-center justify-between px-4 py-3 text-base font-semibold uppercase tracking-wider text-[#1C1C1C] hover:bg-[#722F37]/10 hover:text-[#722F37] rounded transition-colors"
-          >
-            Maps
-            <svg
-              className={`w-4 h-4 transition-transform ${mapExpanded ? 'rotate-180' : ''}`}
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-            </svg>
-          </button>
-          {mapExpanded && (
-            <div className="pl-4 border-l-2 border-[#722F37]/20 ml-4 mt-1 space-y-1">
-              {MAP_SECTIONS.map((section, sectionIndex) => (
-                <div key={section.title}>
-                  {sectionIndex > 0 && <div className="border-t border-gray-200 my-2" />}
-                  <div className="px-4 py-1 text-xs font-bold uppercase tracking-wider text-gray-400">
-                    {section.title}
-                  </div>
-                  {section.links.map((link) => (
-                    <Link
-                      key={link.href}
-                      href={link.href}
-                      className={`block ${link.indent ? 'px-6 py-1.5 text-xs text-gray-500' : 'px-4 py-2 text-sm text-[#1C1C1C]'} hover:text-[#722F37] transition-colors`}
-                      onClick={onClose}
-                    >
-                      {link.label}
-                    </Link>
-                  ))}
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
+        <Link
+          href="/maps"
+          className="block px-4 py-3 text-base font-semibold uppercase tracking-wider text-[#1C1C1C] hover:bg-[#722F37]/10 hover:text-[#722F37] rounded transition-colors"
+          onClick={onClose}
+        >
+          Map
+        </Link>
       </div>
     </div>
   );
