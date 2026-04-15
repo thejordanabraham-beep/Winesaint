@@ -1,6 +1,6 @@
 {
   "albania": {
-    "title": "Major Wine Regions",
+    "title": "Albania",
     "level": "country",
     "contentFile": "albania-guide.md",
     "sidebarLinks": [
@@ -308,26 +308,106 @@
     "level": "country",
     "contentFile": "australia-guide.md",
     "sidebarLinks": [
-      { "name": "Barossa Valley", "slug": "barossa-valley", "classification": "south-australia" },
-      { "name": "Eden Valley", "slug": "eden-valley", "classification": "south-australia" },
-      { "name": "McLaren Vale", "slug": "mclaren-vale", "classification": "south-australia" },
-      { "name": "Clare Valley", "slug": "clare-valley", "classification": "south-australia" },
-      { "name": "Adelaide Hills", "slug": "adelaide-hills", "classification": "south-australia" },
-      { "name": "Coonawarra", "slug": "coonawarra", "classification": "south-australia" },
-      { "name": "Yarra Valley", "slug": "yarra-valley", "classification": "victoria" },
-      { "name": "Mornington Peninsula", "slug": "mornington-peninsula", "classification": "victoria" },
-      { "name": "Heathcote", "slug": "heathcote", "classification": "victoria" },
-      { "name": "Geelong", "slug": "geelong", "classification": "victoria" },
-      { "name": "Beechworth", "slug": "beechworth", "classification": "victoria" },
-      { "name": "Gippsland", "slug": "gippsland", "classification": "victoria" },
-      { "name": "Margaret River", "slug": "margaret-river", "classification": "western-australia" },
-      { "name": "Great Southern", "slug": "great-southern", "classification": "western-australia" },
-      { "name": "Pemberton", "slug": "pemberton", "classification": "western-australia" },
-      { "name": "Hunter Valley", "slug": "hunter-valley", "classification": "new-south-wales" },
-      { "name": "Mudgee", "slug": "mudgee", "classification": "new-south-wales" },
-      { "name": "Orange", "slug": "orange", "classification": "new-south-wales" },
-      { "name": "Hilltops", "slug": "hilltops", "classification": "new-south-wales" },
-      { "name": "Tasmania", "slug": "tasmania", "classification": "tasmania" }
+      {
+        "name": "Barossa Valley",
+        "slug": "barossa-valley",
+        "classification": "south-australia"
+      },
+      {
+        "name": "Eden Valley",
+        "slug": "eden-valley",
+        "classification": "south-australia"
+      },
+      {
+        "name": "McLaren Vale",
+        "slug": "mclaren-vale",
+        "classification": "south-australia"
+      },
+      {
+        "name": "Clare Valley",
+        "slug": "clare-valley",
+        "classification": "south-australia"
+      },
+      {
+        "name": "Adelaide Hills",
+        "slug": "adelaide-hills",
+        "classification": "south-australia"
+      },
+      {
+        "name": "Coonawarra",
+        "slug": "coonawarra",
+        "classification": "south-australia"
+      },
+      {
+        "name": "Yarra Valley",
+        "slug": "yarra-valley",
+        "classification": "victoria"
+      },
+      {
+        "name": "Mornington Peninsula",
+        "slug": "mornington-peninsula",
+        "classification": "victoria"
+      },
+      {
+        "name": "Heathcote",
+        "slug": "heathcote",
+        "classification": "victoria"
+      },
+      {
+        "name": "Geelong",
+        "slug": "geelong",
+        "classification": "victoria"
+      },
+      {
+        "name": "Beechworth",
+        "slug": "beechworth",
+        "classification": "victoria"
+      },
+      {
+        "name": "Gippsland",
+        "slug": "gippsland",
+        "classification": "victoria"
+      },
+      {
+        "name": "Margaret River",
+        "slug": "margaret-river",
+        "classification": "western-australia"
+      },
+      {
+        "name": "Great Southern",
+        "slug": "great-southern",
+        "classification": "western-australia"
+      },
+      {
+        "name": "Pemberton",
+        "slug": "pemberton",
+        "classification": "western-australia"
+      },
+      {
+        "name": "Hunter Valley",
+        "slug": "hunter-valley",
+        "classification": "new-south-wales"
+      },
+      {
+        "name": "Mudgee",
+        "slug": "mudgee",
+        "classification": "new-south-wales"
+      },
+      {
+        "name": "Orange",
+        "slug": "orange",
+        "classification": "new-south-wales"
+      },
+      {
+        "name": "Hilltops",
+        "slug": "hilltops",
+        "classification": "new-south-wales"
+      },
+      {
+        "name": "Tasmania",
+        "slug": "tasmania",
+        "classification": "tasmania"
+      }
     ]
   },
   "australia/pemberton": {
@@ -2632,7 +2712,7 @@
     "parentRegion": "austria/wien"
   },
   "bosnia-herzegovina": {
-    "title": "Major Wine Regions",
+    "title": "Bosnia Herzegovina",
     "level": "country",
     "contentFile": "bosnia-herzegovina-guide.md",
     "sidebarLinks": [
@@ -2643,7 +2723,7 @@
     ]
   },
   "bulgaria": {
-    "title": "Major Wine Regions",
+    "title": "Bulgaria",
     "level": "country",
     "contentFile": "bulgaria-guide.md",
     "sidebarLinks": [
@@ -2654,7 +2734,7 @@
     ]
   },
   "canada": {
-    "title": "Major Wine Regions",
+    "title": "Canada",
     "level": "country",
     "contentFile": "canada-guide.md",
     "sidebarLinks": [
@@ -2840,7 +2920,7 @@
     "parentRegion": "chile"
   },
   "croatia": {
-    "title": "Major Wine Regions",
+    "title": "Croatia",
     "level": "country",
     "contentFile": "croatia-guide.md",
     "sidebarLinks": [
@@ -2851,7 +2931,7 @@
     ]
   },
   "cyprus": {
-    "title": "Major Wine Regions",
+    "title": "Cyprus",
     "level": "country",
     "contentFile": "cyprus-guide.md",
     "sidebarLinks": [
@@ -2862,7 +2942,7 @@
     ]
   },
   "czech-republic": {
-    "title": "Major Wine Regions",
+    "title": "Czech Republic",
     "level": "country",
     "contentFile": "czech-republic-guide.md",
     "sidebarLinks": [
@@ -2873,7 +2953,7 @@
     ]
   },
   "england": {
-    "title": "Major Wine Regions",
+    "title": "England",
     "level": "country",
     "contentFile": "england-guide.md",
     "sidebarLinks": [
@@ -15267,7 +15347,7 @@
     "parentRegion": "france/southern-rhone"
   },
   "georgia": {
-    "title": "Major Wine Regions",
+    "title": "Georgia",
     "level": "country",
     "contentFile": "georgia-guide.md",
     "sidebarLinks": [
@@ -18780,7 +18860,7 @@
     "parentRegion": "greece"
   },
   "hungary": {
-    "title": "Major Wine Regions",
+    "title": "Hungary",
     "level": "country",
     "contentFile": "hungary-guide.md",
     "sidebarLinks": [
@@ -18791,7 +18871,7 @@
     ]
   },
   "israel": {
-    "title": "Major Wine Regions",
+    "title": "Israel",
     "level": "country",
     "contentFile": "israel-guide.md",
     "sidebarLinks": [
@@ -22581,7 +22661,7 @@
     "parentRegion": "italy"
   },
   "lebanon": {
-    "title": "Major Wine Regions",
+    "title": "Lebanon",
     "level": "country",
     "contentFile": "lebanon-guide.md",
     "sidebarLinks": [
@@ -22592,7 +22672,7 @@
     ]
   },
   "mexico": {
-    "title": "Major Wine Regions",
+    "title": "Mexico",
     "level": "country",
     "contentFile": "mexico-guide.md",
     "sidebarLinks": [
@@ -22607,7 +22687,7 @@
     ]
   },
   "moldova": {
-    "title": "Major Wine Regions",
+    "title": "Moldova",
     "level": "country",
     "contentFile": "moldova-guide.md",
     "sidebarLinks": [
@@ -22618,7 +22698,7 @@
     ]
   },
   "montenegro": {
-    "title": "Major Wine Regions",
+    "title": "Montenegro",
     "level": "country",
     "contentFile": "montenegro-guide.md",
     "sidebarLinks": [
@@ -22774,7 +22854,7 @@
     "parentRegion": "new-zealand"
   },
   "north-macedonia": {
-    "title": "Major Wine Regions",
+    "title": "North Macedonia",
     "level": "country",
     "contentFile": "north-macedonia-guide.md",
     "sidebarLinks": [
@@ -22983,7 +23063,7 @@
     "parentRegion": "portugal"
   },
   "romania": {
-    "title": "Major Wine Regions",
+    "title": "Romania",
     "level": "country",
     "contentFile": "romania-guide.md",
     "sidebarLinks": [
@@ -22994,7 +23074,7 @@
     ]
   },
   "russia": {
-    "title": "Major Wine Regions",
+    "title": "Russia",
     "level": "country",
     "contentFile": "russia-guide.md",
     "sidebarLinks": [
@@ -23005,7 +23085,7 @@
     ]
   },
   "serbia": {
-    "title": "Major Wine Regions",
+    "title": "Serbia",
     "level": "country",
     "contentFile": "serbia-guide.md",
     "sidebarLinks": [
@@ -23016,7 +23096,7 @@
     ]
   },
   "slovakia": {
-    "title": "Major Wine Regions",
+    "title": "Slovakia",
     "level": "country",
     "contentFile": "slovakia-guide.md",
     "sidebarLinks": [
@@ -23027,7 +23107,7 @@
     ]
   },
   "slovenia": {
-    "title": "Major Wine Regions",
+    "title": "Slovenia",
     "level": "country",
     "contentFile": "slovenia-guide.md",
     "sidebarLinks": [
@@ -23562,7 +23642,7 @@
     "parentRegion": "spain"
   },
   "switzerland": {
-    "title": "Major Wine Regions",
+    "title": "Switzerland",
     "level": "country",
     "contentFile": "switzerland-guide.md",
     "sidebarLinks": [
@@ -23573,7 +23653,7 @@
     ]
   },
   "turkey": {
-    "title": "Major Wine Regions",
+    "title": "Turkey",
     "level": "country",
     "contentFile": "turkey-guide.md",
     "sidebarLinks": [
@@ -23584,7 +23664,7 @@
     ]
   },
   "ukraine": {
-    "title": "Major Wine Regions",
+    "title": "Ukraine",
     "level": "country",
     "contentFile": "ukraine-guide.md",
     "sidebarLinks": [
