@@ -7,6 +7,14 @@ const nextConfig: NextConfig = {
     optimizePackageImports: ['@sanity/client'],
   },
 
+  // Exclude server-only packages from client bundling
+  serverExternalPackages: [
+    'drizzle-kit',
+    '@libsql/client',
+    '@libsql/linux-x64-gnu',
+    '@libsql/linux-arm64-gnu',
+  ],
+
   // Skip bundle analysis during build
   outputFileTracingIncludes: {
     '/': [],

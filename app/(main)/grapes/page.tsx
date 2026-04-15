@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { applyGrapeOverrides } from '@/app/utils/grapeOverrides';
+import { applyGrapeOverrides } from '@/app/(main)/utils/grapeOverrides';
 
 // Color mapping for display
 const getColorBadge = (berryColor: string) => {

@@ -1,30 +1,18 @@
-'use client';
-
-import { useState, useMemo } from 'react';
 import Link from 'next/link';
-import regionsData from '../data/regions_hierarchical.json';
+import { getAllCountries, getChildRegionCount } from '@/lib/payload';
 
-export default function WineRegionGuidePage() {
-  const [searchQuery, setSearchQuery] = useState('');
+export const dynamic = 'force-dynamic';
 
-  // Get all countries
-  const countries = useMemo(() => {
-    return Object.entries(regionsData.countries).map(([slug, data]: [string, any]) => ({
-      slug,
-      name: data.name,
-      regionCount: Object.keys(data.regions).length,
-      overview: data.overview
-    }));
-  }, []);
+export default async function WineRegionGuidePage() {
+  const countries = await getAllCountries();
 
-  // Filter countries by search
-  const filteredCountries = useMemo(() => {
-    if (!searchQuery) return countries;
-
-    return countries.filter(country =>
-      country.name.toLowerCase().includes(searchQuery.toLowerCase())
-    );
-  }, [countries, searchQuery]);
+  // Get region counts for each country
+  const countriesWithCounts = await Promise.all(
+    countries.map(async (country) => ({
+      ...country,
+      regionCount: await getChildRegionCount(country.id)
+    }))
+  );
 
   return (
     <div className="bg-gray-50 min-h-screen">
@@ -33,40 +21,24 @@ export default function WineRegionGuidePage() {
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900">Wine Region Guide</h1>
           <p className="mt-2 text-gray-600">
-            Explore the world's wine regions from {regionsData.total_countries} countries.
+            Explore the world's wine regions from {countries.length} countries.
             Discover terroir, climate, grape varieties, and the unique characteristics that define each region.
           </p>
-        </div>
-
-        {/* Search */}
-        <div className="bg-white rounded-lg border border-gray-200 p-4 mb-8">
-          <div className="max-w-md">
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              Search Countries
-            </label>
-            <input
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search by country name..."
-              className="w-full border border-gray-300 rounded-md px-3 py-2 text-sm focus:ring-red-500 focus:border-red-500"
-            />
-          </div>
         </div>
 
         {/* Results Count */}
         <div className="mb-4">
           <p className="text-sm text-gray-600">
-            Showing {filteredCountries.length} countries
+            Showing {countries.length} countries
           </p>
         </div>
 
         {/* Country Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {filteredCountries.map((country) => (
+          {countriesWithCounts.map((country) => (
             <Link
-              key={country.slug}
-              href={`/regions/${country.slug}`}
+              key={country.id}
+              href={`/regions/${country.fullSlug}`}
               className="bg-white rounded-lg border border-gray-200 p-6 hover:shadow-lg hover:border-[#722F37] transition-all group"
             >
               <div className="flex items-center justify-between mb-3">
@@ -93,9 +65,9 @@ export default function WineRegionGuidePage() {
                   {country.regionCount} wine {country.regionCount === 1 ? 'region' : 'regions'}
                 </p>
 
-                {country.overview && (
+                {country.description && (
                   <p className="text-xs text-gray-500 line-clamp-3">
-                    {country.overview.substring(0, 150)}...
+                    {country.description.substring(0, 150)}...
                   </p>
                 )}
               </div>
@@ -121,15 +93,9 @@ export default function WineRegionGuidePage() {
         </div>
 
         {/* No Results */}
-        {filteredCountries.length === 0 && (
+        {countries.length === 0 && (
           <div className="text-center py-12">
-            <p className="text-gray-500">No countries match your search.</p>
-            <button
-              onClick={() => setSearchQuery('')}
-              className="mt-2 text-red-600 hover:text-red-700 font-semibold"
-            >
-              Clear search
-            </button>
+            <p className="text-gray-500">No countries found. Check that the database is connected.</p>
           </div>
         )}
       </div>
