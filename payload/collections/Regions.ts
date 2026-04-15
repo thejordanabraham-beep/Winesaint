@@ -79,14 +79,14 @@ export const Regions: CollectionConfig = {
       name: 'description',
       type: 'textarea',
       admin: {
-        description: 'Short description for previews',
+        description: 'Full guide content in Markdown format',
       },
     },
     {
       name: 'content',
       type: 'richText',
       admin: {
-        description: 'Full guide content',
+        description: 'Full guide content (rich text editor)',
       },
     },
     {
