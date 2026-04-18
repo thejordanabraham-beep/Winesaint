@@ -1,153 +1,71 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { client } from '@/lib/sanity/client';
+import { getPayload } from 'payload';
+import config from '@payload-config';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
-import { formatDrinkingWindow, convertTo10Point } from '@/lib/utils';
+import { formatWineDisplayName } from '@/lib/utils';
 import { getVineyardPath } from '@/lib/guide-config';
 
 interface Wine {
-  _id: string;
+  id: number;
   name: string;
   slug: string;
   vintage: number;
   wineType?: string;
-  appellation?: string;
-  vineyard?: {
-    _id: string;
-    name: string;
-    slug: string;
-    region?: string;
-  } | null;
-  grapeVarieties: string[];
-  priceRange?: string;
-  priceUsd?: number;
-  alcoholPercentage?: number;
-  criticAvg?: number;
-  vivinoScore?: number;
-  flavorMentions?: string[];
   producer: {
+    id: number;
     name: string;
     slug: string;
     description?: string;
-    website?: string;
   } | null;
   region: {
+    id: number;
     name: string;
     slug: string;
     country: string;
-    description?: string;
-  } | null;
-  climat?: {
-    _id: string;
-    name: string;
-    slug: string;
-    classification?: string;
-    acreage?: number;
-    soilTypes?: string[];
-    aspect?: string;
-    description?: string;
-    historicalNotes?: string;
-    appellation?: { name: string } | null;
   } | null;
   reviews?: Array<{
-    _id: string;
+    id: number;
     score: number;
+    tastingNotes?: string;
     shortSummary?: string;
-    tastingNotes: string;
-    flavorProfile?: string[];
-    drinkThisIf?: string;
-    foodPairings?: string[];
-    drinkingWindowStart?: number;
-    drinkingWindowEnd?: number;
-    reviewerName: string;
-    reviewDate: string;
-    isAiGenerated?: boolean;
+    flavorProfile?: Array<{ flavor: string }>;
+    reviewerName?: string;
+    reviewDate?: string;
   }>;
-  vintageReport?: {
-    _id: string;
-    year: number;
-    slug: string;
-    overview: string;
-    overallRating: string;
-  } | null;
 }
 
 async function getWine(slug: string): Promise<Wine | null> {
-  // Update query to include new fields
-  const query = `*[_type == "wine" && slug.current == $slug][0] {
-    _id,
-    name,
-    "slug": slug.current,
-    vintage,
-    wineType,
-    grapeVarieties,
-    priceRange,
-    priceUsd,
-    criticAvg,
-    vivinoScore,
-    flavorMentions,
-    alcoholPercentage,
-    appellation,
-    vineyard->{
-      _id,
-      name,
-      "slug": slug.current,
-      region
-    },
-    image,
-    producer->{
-      _id,
-      name,
-      "slug": slug.current,
-      description,
-      website,
-      image
-    },
-    region->{
-      _id,
-      name,
-      "slug": slug.current,
-      country,
-      description
-    },
-    climat->{
-      _id,
-      name,
-      "slug": slug.current,
-      classification,
-      acreage,
-      soilTypes,
-      aspect,
-      description,
-      historicalNotes,
-      appellation->{
-        name
-      }
-    },
-    "reviews": *[_type == "review" && wine._ref == ^._id] | order(reviewDate desc) {
-      _id,
-      score,
-      shortSummary,
-      tastingNotes,
-      flavorProfile,
-      drinkThisIf,
-      foodPairings,
-      drinkingWindowStart,
-      drinkingWindowEnd,
-      reviewerName,
-      reviewDate,
-      isAiGenerated
-    },
-    "vintageReport": *[_type == "vintageReport" && region._ref == ^.region._id && year == ^.vintage][0]{
-      _id,
-      year,
-      "slug": slug.current,
-      overview,
-      overallRating
-    }
-  }`;
-  return await client.fetch(query, { slug });
+  try {
+    const payload = await getPayload({ config });
+
+    // Query Payload for wine by slug
+    const wineResult = await payload.find({
+      collection: 'wines',
+      where: { slug: { equals: slug } },
+      depth: 2,
+      limit: 1,
+    });
+
+    if (!wineResult.docs || wineResult.docs.length === 0) return null;
+
+    const wine = wineResult.docs[0] as unknown as Wine;
+
+    // Fetch reviews for this wine
+    const reviewResult = await payload.find({
+      collection: 'reviews',
+      where: { wine: { equals: wine.id } },
+      depth: 0,
+    });
+
+    wine.reviews = (reviewResult.docs || []) as unknown as Wine['reviews'];
+
+    return wine;
+  } catch (error) {
+    console.error('Error fetching wine:', error);
+    return null;
+  }
 }
 
 interface PageProps {
@@ -164,7 +82,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
-  const fullTitle = `${wine.producer?.name} ${wine.name} ${wine.vintage}`;
+  const fullTitle = formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage);
   const latestReview = wine.reviews?.[0];
   const description = latestReview?.shortSummary || latestReview?.tastingNotes?.substring(0, 160) || `Expert review of ${fullTitle}`;
 
@@ -210,8 +128,8 @@ export default async function WineDetailPage({ params }: PageProps) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Product',
-    name: `${wine.producer?.name} ${wine.name} ${wine.vintage}`,
-    description: latestReview?.tastingNotes || `${wine.producer?.name} ${wine.name} from ${wine.vintage}`,
+    name: formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage),
+    description: latestReview?.tastingNotes || `${formatWineDisplayName(wine.producer?.name, wine.name)} from ${wine.vintage}`,
     brand: {
       '@type': 'Brand',
       name: wine.producer?.name || 'Unknown Producer',
@@ -287,7 +205,7 @@ export default async function WineDetailPage({ params }: PageProps) {
             </li>
             <li>/</li>
             <li className="text-[#1C1C1C] font-medium">
-              {wine.producer?.name} {wine.name} {wine.vintage}
+              {formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage)}
             </li>
           </ol>
         </nav>
@@ -297,33 +215,9 @@ export default async function WineDetailPage({ params }: PageProps) {
           <div className="space-y-6">
             {/* Header + Reviews Combined */}
             <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
-              {(() => {
-                const climatName = wine.climat?.name;
-                const producerName = wine.producer?.name || 'Unknown Producer';
-
-                // If we have a climat, display producer + climat + vintage (for Burgundy Grand Cru wines)
-                if (climatName) {
-                  const fullTitle = [producerName, climatName, wine.vintage].filter(Boolean).join(' ');
-                  return (
-                    <div>
-                      <h1 className="font-serif text-3xl italic text-[#1C1C1C]">{fullTitle}</h1>
-                      {wine.climat?.classification && (
-                        <p className="text-sm text-[#B8926A] uppercase tracking-wide mt-2">
-                          {wine.climat.classification === 'grand_cru' && 'Grand Cru'}
-                          {wine.climat.classification === 'premier_cru' && 'Premier Cru'}
-                          {wine.climat.classification === 'village' && 'Village'}
-                          {wine.climat.classification === 'mga' && 'Menzioni Geografiche Aggiuntive'}
-                          {wine.climat.classification === 'grosses_gewachs' && 'Grosses Gewächs'}
-                        </p>
-                      )}
-                    </div>
-                  );
-                }
-
-                // For all other wines, display producer + wine name + vintage
-                const fullTitle = [producerName, wine.name, wine.vintage].filter(Boolean).join(' ');
-                return <h1 className="font-serif text-3xl italic text-[#1C1C1C]">{fullTitle}</h1>;
-              })()}
+              <h1 className="font-serif text-3xl italic text-[#1C1C1C]">
+                {formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage)}
+              </h1>
 
               {wine.wineType && (
                 <div className="mt-2">
@@ -367,57 +261,37 @@ export default async function WineDetailPage({ params }: PageProps) {
                   <div className="space-y-6">
                     {wine.reviews.map((review, index) => (
                       <div
-                        key={review._id}
+                        key={review.id}
                         className={index > 0 ? 'pt-6 border-t-2 border-[#1C1C1C]/10' : ''}
                       >
                         <div className="flex items-start gap-4">
                           <ScoreBadge score={review.score} size="md" />
                           <div className="flex-1">
-                            <div className="flex items-center gap-2 mb-2">
-                              <span className="font-medium text-[#1C1C1C]">
-                                {review.reviewerName}
-                              </span>
-                            </div>
-
-                            {review.shortSummary && (
-                              <p className="text-lg font-medium text-[#1C1C1C] mb-2">
-                                {review.shortSummary}
-                              </p>
-                            )}
-
-                            <p className="text-gray-700 leading-relaxed">
-                              {review.tastingNotes}
-                            </p>
-
-                            {review.flavorProfile && review.flavorProfile.length > 0 && (
-                              <div className="mt-3 flex flex-wrap gap-1">
-                                {review.flavorProfile.map((flavor) => (
-                                  <span
-                                    key={flavor}
-                                    className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded"
-                                  >
-                                    {flavor}
-                                  </span>
-                                ))}
+                            {review.reviewerName && (
+                              <div className="flex items-center gap-2 mb-2">
+                                <span className="font-medium text-[#1C1C1C]">
+                                  {review.reviewerName}
+                                </span>
                               </div>
                             )}
 
-                            {review.foodPairings && review.foodPairings.length > 0 && (
-                              <p className="mt-3 text-sm text-gray-600">
-                                <span className="font-medium">Pairs with:</span> {review.foodPairings.join(', ')}
+                            {review.tastingNotes && (
+                              <p className="text-gray-700 leading-relaxed">
+                                {review.tastingNotes}
                               </p>
                             )}
 
-                            {review.drinkThisIf && (
-                              <p className="mt-2 text-sm text-[#722F37] font-medium">
-                                Drink this if: {review.drinkThisIf} 🍷
-                              </p>
-                            )}
-
-                            {(review.drinkingWindowStart || review.drinkingWindowEnd) && (
-                              <p className="mt-2 text-sm text-gray-500">
-                                Drinking window: {formatDrinkingWindow(review.drinkingWindowStart, review.drinkingWindowEnd)}
-                              </p>
+                            {review.flavorProfile && review.flavorProfile.length > 0 && (
+                              <div className="mt-3 flex flex-wrap gap-2">
+                                {review.flavorProfile.map((item, i) => (
+                                  <span
+                                    key={i}
+                                    className="px-2 py-1 bg-[#FAF7F2] border border-[#1C1C1C]/20 rounded text-xs text-gray-600"
+                                  >
+                                    {item.flavor}
+                                  </span>
+                                ))}
+                              </div>
                             )}
                           </div>
                         </div>
@@ -432,130 +306,22 @@ export default async function WineDetailPage({ params }: PageProps) {
               </div>
             </div>
 
-            {/* Flavor Profile */}
-            {wine.flavorMentions && wine.flavorMentions.length > 0 && (
-              <div className="bg-[#f4d35e] border-3 border-[#1C1C1C] rounded-lg p-6">
-                <h2 className="font-serif text-xl italic text-[#1C1C1C] mb-4">Flavor Profile</h2>
-                <div className="flex flex-wrap gap-2">
-                  {wine.flavorMentions.map((flavor: string) => (
-                    <span
-                      key={flavor}
-                      className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-white text-[#1C1C1C]"
-                    >
-                      {flavor}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            )}
-
             {/* Producer Info */}
             {wine.producer && (
-              <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
-                <h3 className="font-semibold text-[#1C1C1C]">{wine.producer.name}</h3>
+              <Link
+                href={`/producers/${wine.producer.slug}`}
+                className="block bg-white border-3 border-[#1C1C1C] rounded-lg p-6 hover:bg-gray-50 transition-colors group"
+              >
+                <div className="flex justify-between items-center">
+                  <h3 className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37]">{wine.producer.name}</h3>
+                  <span className="text-gray-400 group-hover:text-[#722F37]">→</span>
+                </div>
                 {wine.producer.description && (
                   <p className="mt-2 text-gray-600">{wine.producer.description}</p>
                 )}
-              </div>
-            )}
-
-            {/* Vineyard/Climat - Enhanced clickable box */}
-            {wine.climat && (
-              <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
-                <h3 className="font-semibold text-[#1C1C1C] mb-3">Vineyard Details</h3>
-
-                {/* Classification Badge */}
-                {wine.climat.classification && (
-                  <div className="mb-3">
-                    <span className={`
-                      inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide
-                      ${wine.climat.classification === 'grand_cru' ? 'bg-amber-500 text-white' : ''}
-                      ${wine.climat.classification === 'premier_cru' ? 'bg-[#722F37] text-white' : ''}
-                      ${wine.climat.classification === 'village' ? 'bg-gray-500 text-white' : ''}
-                      ${wine.climat.classification === 'mga' ? 'bg-purple-600 text-white' : ''}
-                      ${wine.climat.classification === 'grosses_gewachs' ? 'bg-green-700 text-white' : ''}
-                    `}>
-                      {wine.climat.classification === 'grand_cru' && 'Grand Cru'}
-                      {wine.climat.classification === 'premier_cru' && 'Premier Cru'}
-                      {wine.climat.classification === 'village' && 'Village'}
-                      {wine.climat.classification === 'mga' && 'MGA'}
-                      {wine.climat.classification === 'grosses_gewachs' && 'Grosses Gewächs'}
-                    </span>
-                  </div>
-                )}
-
-                {/* Clickable Vineyard Name */}
-                {wine.climat.slug && (
-                  <Link
-                    href={getVineyardPath(wine.climat.slug)}
-                    className="text-lg font-medium text-[#722F37] hover:underline inline-flex items-center gap-2"
-                  >
-                    {wine.climat.name}
-                    <span className="text-sm">→</span>
-                  </Link>
-                )}
-
-                {/* Quick Facts */}
-                <div className="mt-4 space-y-2 text-sm text-gray-600">
-                  {wine.climat.acreage && (
-                    <p>
-                      <span className="font-medium">Size:</span> {wine.climat.acreage} hectares
-                    </p>
-                  )}
-                  {wine.climat.soilTypes && wine.climat.soilTypes.length > 0 && (
-                    <p>
-                      <span className="font-medium">Soils:</span> {wine.climat.soilTypes.join(', ')}
-                    </p>
-                  )}
-                  {wine.climat.aspect && (
-                    <p>
-                      <span className="font-medium">Aspect:</span> {wine.climat.aspect}
-                    </p>
-                  )}
-                  {wine.climat.appellation?.name && (
-                    <p>
-                      <span className="font-medium">Appellation:</span> {wine.climat.appellation.name}
-                    </p>
-                  )}
-                </div>
-
-                {/* Description snippet */}
-                {wine.climat.description && (
-                  <p className="mt-3 text-sm text-gray-700 line-clamp-2">
-                    {wine.climat.description}
-                  </p>
-                )}
-              </div>
-            )}
-
-            {/* Fallback for vineyard (non-climat) */}
-            {!wine.climat && wine.vineyard && (
-              <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
-                <h3 className="font-semibold text-[#1C1C1C] mb-2">
-                  {wine.vineyard.name}
-                </h3>
-                {wine.vineyard.region && (
-                  <p className="text-sm text-gray-600">{wine.vineyard.region}</p>
-                )}
-              </div>
-            )}
-
-            {/* Vintage Report Box */}
-            {wine.vintageReport && wine.region && (
-              <Link href={`/vintages/${wine.region.slug}/${wine.vintageReport.slug}`}>
-                <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6 hover:bg-gray-50 transition-colors cursor-pointer">
-                  <h3 className="font-semibold text-[#1C1C1C] mb-2">
-                    {wine.region.name} {wine.vintageReport.year}
-                  </h3>
-                  <p className="text-sm text-gray-600 line-clamp-2">
-                    {wine.vintageReport.overview}
-                  </p>
-                  <div className="mt-2 text-xs text-[#722F37] font-medium">
-                    View vintage report →
-                  </div>
-                </div>
               </Link>
             )}
+
           </div>
         </div>
       </div>

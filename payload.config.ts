@@ -42,7 +42,12 @@ const Media: CollectionConfig = {
 const Regions: CollectionConfig = {
   slug: 'regions',
   admin: { useAsTitle: 'name', defaultColumns: ['name', 'level', 'parentRegion', 'country'] },
-  access: { read: () => true },
+  access: {
+    read: () => true,
+    create: ({ req: { user } }) => !!user,
+    update: ({ req: { user } }) => !!user,
+    delete: ({ req: { user } }) => !!user,
+  },
   fields: [
     { name: 'name', type: 'text', required: true },
     { name: 'slug', type: 'text', required: true },
@@ -86,17 +91,60 @@ const Regions: CollectionConfig = {
 const Producers: CollectionConfig = {
   slug: 'producers',
   admin: { useAsTitle: 'name', defaultColumns: ['name', 'region', 'country'] },
-  access: { read: () => true },
+  access: {
+    read: () => true,
+    create: ({ req: { user } }) => !!user,
+    update: ({ req: { user } }) => !!user,
+    delete: ({ req: { user } }) => !!user,
+  },
   fields: [
     { name: 'name', type: 'text', required: true },
     { name: 'slug', type: 'text', required: true, unique: true },
     { name: 'region', type: 'relationship', relationTo: 'regions', required: true },
     { name: 'country', type: 'text' },
+    { name: 'summary', type: 'textarea', admin: { description: 'Brief summary for preview cards (2-3 sentences)' } },
     { name: 'description', type: 'richText' },
     { name: 'website', type: 'text' },
     { name: 'founded', type: 'number' },
     { name: 'winemaker', type: 'text' },
     { name: 'image', type: 'upload', relationTo: 'media' },
+  ],
+}
+
+const Vintages: CollectionConfig = {
+  slug: 'vintages',
+  admin: {
+    useAsTitle: 'displayName',
+    defaultColumns: ['year', 'region', 'rating', 'quality']
+  },
+  access: { read: () => true },
+  fields: [
+    { name: 'year', type: 'number', required: true, min: 1900, max: 2100 },
+    { name: 'region', type: 'relationship', relationTo: 'regions', required: true },
+    { name: 'displayName', type: 'text', admin: { description: 'Auto-generated: "2024 Wachau"' } },
+    {
+      name: 'rating',
+      type: 'number',
+      min: 1,
+      max: 5,
+      admin: { description: 'Vintage quality rating (1-5 stars)' },
+    },
+    { name: 'drinkFrom', type: 'number', admin: { description: 'Year when wines start drinking well' } },
+    { name: 'drinkUntil', type: 'number', admin: { description: 'Year when wines are past peak' } },
+    { name: 'weather', type: 'textarea', admin: { description: 'Growing season weather summary' } },
+    { name: 'harvest', type: 'text', admin: { description: 'Harvest timing (early/normal/late)' } },
+    {
+      name: 'yields',
+      type: 'select',
+      options: [
+        { label: 'Very Low', value: 'very_low' },
+        { label: 'Low', value: 'low' },
+        { label: 'Normal', value: 'normal' },
+        { label: 'High', value: 'high' },
+      ],
+    },
+    { name: 'summary', type: 'textarea', admin: { description: 'Brief vintage summary for cards' } },
+    { name: 'notes', type: 'richText', admin: { description: 'Full vintage report' } },
   ],
 }
 
@@ -129,14 +177,21 @@ const Grapes: CollectionConfig = {
 const Wines: CollectionConfig = {
   slug: 'wines',
   admin: { useAsTitle: 'name', defaultColumns: ['name', 'vintage', 'producer', 'region'] },
-  access: { read: () => true },
+  access: {
+    read: () => true,
+    create: ({ req: { user } }) => !!user,
+    update: ({ req: { user } }) => !!user,
+    delete: ({ req: { user } }) => !!user,
+  },
   fields: [
     { name: 'name', type: 'text', required: true },
     { name: 'slug', type: 'text', required: true, unique: true },
     { name: 'vintage', type: 'number', required: true },
     { name: 'producer', type: 'relationship', relationTo: 'producers', required: true },
     { name: 'region', type: 'relationship', relationTo: 'regions', required: true },
-    { name: 'vineyard', type: 'relationship', relationTo: 'regions' },
+    { name: 'vineyard', type: 'relationship', relationTo: 'regions', admin: { description: 'Link to vineyard page if it exists' } },
+    { name: 'vineyardName', type: 'text', admin: { description: 'Vineyard name (always stored, even if no page exists)' } },
+    { name: 'vintageReport', type: 'relationship', relationTo: 'vintages', admin: { description: 'Link to vintage report for this region+year (optional)' } },
     { name: 'grapes', type: 'relationship', relationTo: 'grapes', hasMany: true },
     {
       name: 'wineType',
@@ -170,17 +225,34 @@ const Wines: CollectionConfig = {
 const Reviews: CollectionConfig = {
   slug: 'reviews',
   admin: { useAsTitle: 'wine', defaultColumns: ['wine', 'score', 'reviewerName', 'reviewDate'] },
-  access: { read: () => true },
+  access: {
+    read: () => true,
+    create: ({ req: { user } }) => !!user,
+    update: ({ req: { user } }) => !!user,
+    delete: ({ req: { user } }) => !!user,
+  },
   fields: [
     { name: 'wine', type: 'relationship', relationTo: 'wines', required: true },
     { name: 'score', type: 'number', required: true, min: 1, max: 10 },
     { name: 'tastingNotes', type: 'textarea', required: true },
     { name: 'shortSummary', type: 'text' },
+    {
+      name: 'flavorProfile',
+      type: 'array',
+      admin: { description: 'Flavor descriptors (e.g., "green apple", "lemon zest")' },
+      fields: [{ name: 'flavor', type: 'text' }],
+    },
+    {
+      name: 'foodPairings',
+      type: 'array',
+      admin: { description: 'Suggested food pairings (optional)' },
+      fields: [{ name: 'pairing', type: 'text' }],
+    },
     { name: 'drinkThisIf', type: 'text' },
     { name: 'drinkingWindowStart', type: 'number' },
     { name: 'drinkingWindowEnd', type: 'number' },
     { name: 'reviewerName', type: 'text', required: true },
-    { name: 'reviewDate', type: 'date', required: true },
+    { name: 'reviewDate', type: 'date' },
     { name: 'isFeatured', type: 'checkbox', defaultValue: false },
   ],
 }
@@ -239,6 +311,7 @@ export default buildConfig({
     Users,
     Media,
     Regions,
+    Vintages,
     Wines,
     Reviews,
     Producers,
