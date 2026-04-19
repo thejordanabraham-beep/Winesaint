@@ -1,0 +1,988 @@
+{
+  "guide_type": "oak_encyclopedia",
+  "created_date": "2026-04-19",
+  "sections": {
+    "overview": {
+      "title": "The Role of Oak in Winemaking",
+      "description": "Oak barrels and alternatives have shaped wine for centuries, contributing flavor, texture, and controlled oxidation. Understanding oak origins, cooperage techniques, and flavor chemistry helps decode the character of wines from Rioja to Burgundy to Napa Valley."
+    },
+    "species": {
+      "title": "Oak Species",
+      "description": "Only three species of the 500+ Quercus genus matter for cooperage. Each brings distinct chemical properties that fundamentally shape barrel character.",
+      "items": [
+        {
+          "id": "quercus-petraea",
+          "name": "Quercus petraea",
+          "common_name": "Sessile Oak",
+          "origin": "Europe (France, Hungary)",
+          "grain": "Tight to medium",
+          "characteristics": [
+            "Lower tannin than Q. robur",
+            "Higher aromatic compounds",
+            "Elevated triterpenoids (perceived sweetness)",
+            "Must be split, not sawn (20% yield)"
+          ],
+          "flavor_profile": ["Vanilla", "Spice", "Subtle toast", "Elegant tannin"],
+          "best_for": "Premium red and white wines where finesse matters"
+        },
+        {
+          "id": "quercus-robur",
+          "name": "Quercus robur",
+          "common_name": "Pedunculate Oak",
+          "origin": "Europe (France, Eastern Europe)",
+          "grain": "Coarse to medium",
+          "characteristics": [
+            "Higher tannin content",
+            "Lower aromatic compounds than petraea",
+            "More aggressive extraction",
+            "Must be split, not sawn"
+          ],
+          "flavor_profile": ["Pronounced tannin", "Earthiness", "Spice"],
+          "best_for": "Spirits (Cognac), large format casks, robust wines"
+        },
+        {
+          "id": "quercus-alba",
+          "name": "Quercus alba",
+          "common_name": "American White Oak",
+          "origin": "Eastern United States",
+          "grain": "Medium to wide",
+          "characteristics": [
+            "Watertight thyllae allow sawing (higher yield)",
+            "2-3x higher lactone concentration than French",
+            "Lower ellagitannin content",
+            "More aggressive flavor profile"
+          ],
+          "flavor_profile": ["Coconut", "Vanilla", "Dill", "Sweet spice"],
+          "best_for": "Rioja, Australian Shiraz, bourbon-influenced styles"
+        }
+      ]
+    },
+    "forests": {
+      "title": "Oak Forests",
+      "description": "Forest origin determines grain tightness, tannin levels, and aromatic intensity. Cooler climates and poorer soils produce slower growth and tighter grain.",
+      "regions": [
+        {
+          "id": "french-oak",
+          "name": "French Oak",
+          "country": "France",
+          "forests": [
+            {
+              "id": "troncais",
+              "name": "Tronçais",
+              "department": "Allier",
+              "species_mix": "73% Q. petraea, 27% Q. robur",
+              "grain": "Very tight",
+              "tree_age": "Up to 300 years",
+              "characteristics": "Highest ellagitannin concentration, slow extraction, complex aromatics",
+              "flavor_notes": "Elegant vanilla, subtle spice, fine-grained tannin",
+              "price_tier": "Premium ($4,000+ per barrel)",
+              "best_for": "Grand Cru Burgundy, top Bordeaux, premium Chardonnay"
+            },
+            {
+              "id": "allier",
+              "name": "Allier",
+              "department": "Allier",
+              "species_mix": "Predominantly Q. petraea",
+              "grain": "Tight",
+              "characteristics": "Similar to Tronçais, slightly more accessible pricing",
+              "flavor_notes": "Spicy, vanilla, balanced tannin",
+              "price_tier": "High",
+              "best_for": "Burgundy, Bordeaux, California Pinot Noir"
+            },
+            {
+              "id": "nevers",
+              "name": "Nevers",
+              "department": "Nièvre",
+              "species_mix": "Q. petraea dominant",
+              "grain": "Medium",
+              "characteristics": "Balanced extraction rate, versatile",
+              "flavor_notes": "Vanilla, toast, moderate tannin",
+              "price_tier": "High",
+              "best_for": "Bordeaux blends, Cabernet Sauvignon"
+            },
+            {
+              "id": "vosges",
+              "name": "Vosges",
+              "department": "Eastern France",
+              "species_mix": "Q. petraea and Q. robur",
+              "grain": "Looser than Allier",
+              "characteristics": "Faster extraction, more tannin contribution",
+              "flavor_notes": "Pronounced spice, firmer tannin",
+              "price_tier": "Medium-high",
+              "best_for": "Full-bodied reds, some Alsace wines"
+            },
+            {
+              "id": "limousin",
+              "name": "Limousin",
+              "department": "Central France",
+              "species_mix": "Predominantly Q. robur",
+              "grain": "Coarse/wide",
+              "characteristics": "High tannin, aggressive extraction, fast flavor delivery",
+              "flavor_notes": "Robust tannin, less aromatic refinement",
+              "price_tier": "Medium",
+              "best_for": "Cognac, Armagnac (rarely wine)"
+            }
+          ]
+        },
+        {
+          "id": "american-oak",
+          "name": "American Oak",
+          "country": "United States",
+          "forests": [
+            {
+              "id": "missouri",
+              "name": "Missouri (Ozarks)",
+              "species": "Q. alba",
+              "grain": "Medium",
+              "characteristics": "Most common American source, classic lactone-forward profile",
+              "flavor_notes": "Coconut, vanilla, dill, sweet spice",
+              "price_tier": "Standard ($360-500 per barrel)",
+              "best_for": "Rioja, bourbon, Australian Shiraz"
+            },
+            {
+              "id": "oregon",
+              "name": "Oregon",
+              "species": "Q. garryana (Oregon White Oak)",
+              "grain": "Tight (similar to French)",
+              "characteristics": "20% denser than Q. alba, must be split not sawn, limited supply",
+              "flavor_notes": "Clove, nutmeg, closer to French than American profile",
+              "price_tier": "Premium (limited production)",
+              "best_for": "Oregon Pinot Noir, experimental cuvées"
+            }
+          ]
+        },
+        {
+          "id": "hungarian-oak",
+          "name": "Hungarian Oak",
+          "country": "Hungary",
+          "forests": [
+            {
+              "id": "zemplen",
+              "name": "Zemplén Hills",
+              "species": "95-100% Q. petraea",
+              "grain": "Tight",
+              "characteristics": "Cold climate and rocky volcanic soil produce very tight grain, highest petraea concentration of any forest",
+              "flavor_notes": "Similar to French, slightly more spice",
+              "price_tier": "Medium (~$600 per barrel)",
+              "best_for": "Tokaji, Central European wines, value alternative to French"
+            }
+          ],
+          "traditional_format": {
+            "name": "Gönci",
+            "capacity_liters": 136,
+            "use": "Traditional Tokaji aging"
+          }
+        },
+        {
+          "id": "slavonian-oak",
+          "name": "Slavonian Oak",
+          "country": "Croatia/Slovenia",
+          "forests": [
+            {
+              "id": "slavonia",
+              "name": "Slavonia Region",
+              "species": "Q. robur",
+              "grain": "Compact and tight (despite being robur)",
+              "characteristics": "Used for large botti, gentler extraction due to vessel size, reused for decades",
+              "flavor_notes": "Subtle, neutral, allows fruit expression",
+              "price_tier": "Variable (large format)",
+              "best_for": "Barolo, Barbaresco, Brunello di Montalcino, Amarone"
+            }
+          ]
+        }
+      ]
+    },
+    "cooperage": {
+      "title": "The Cooperage Craft",
+      "description": "Barrel making is a centuries-old craft where each step shapes the final wine. From tree selection to toasting, cooperage decisions rival vineyard choices in importance.",
+      "tree_requirements": {
+        "minimum_age": "80-100 years",
+        "yield": "1-4 barrels per mature tree",
+        "selection": "Straight trunk, minimal knots, proper grain orientation"
+      },
+      "seasoning": {
+        "description": "Air drying leaches harsh tannins and develops aromatic precursors",
+        "methods": [
+          {
+            "name": "Air Seasoning",
+            "duration": "18-48 months",
+            "quality": "Preferred for wine barrels",
+            "notes": "Staves stacked outdoors, rain and sun exposure, gradual tannin reduction"
+          },
+          {
+            "name": "Kiln Drying",
+            "duration": "Weeks",
+            "quality": "Inferior, used for spirits",
+            "notes": "Faster but retains more harsh compounds"
+          }
+        ],
+        "target_moisture": "Below 15% for structural integrity"
+      },
+      "stave_preparation": {
+        "french_oak": "Must be split along medullary rays (20% yield)",
+        "american_oak": "Can be quarter-sawn (higher yield, lower cost)"
+      },
+      "barrel_forming": {
+        "stages": [
+          {
+            "name": "Chauffage",
+            "translation": "Warm-up",
+            "duration": "30-40 minutes",
+            "purpose": "Heat staves for flexibility"
+          },
+          {
+            "name": "Cintrage",
+            "translation": "Bending/Shaping",
+            "method": "Fire, water, or steam",
+            "purpose": "Form staves into barrel shape, apply hoops"
+          },
+          {
+            "name": "Bousinage",
+            "translation": "Toasting",
+            "duration": "20-60 minutes",
+            "purpose": "Apply final toast level, develop flavor compounds"
+          }
+        ]
+      },
+      "heat_sources": [
+        {
+          "name": "Oak Fire (écourtures)",
+          "description": "Traditional method using oak scraps",
+          "character": "Variable, artisanal"
+        },
+        {
+          "name": "Natural Gas",
+          "description": "More consistent heat distribution",
+          "character": "Uniform, reproducible"
+        },
+        {
+          "name": "Steam/Water",
+          "description": "Gentler bending method",
+          "character": "Less caramelization"
+        }
+      ],
+      "famous_cooperages": {
+        "description": "The choice of cooperage is among the most important decisions a winemaker makes. Different coopers impart distinctive signatures based on their wood sourcing, seasoning methods, and toasting techniques.",
+        "price_tiers": [
+          { "type": "American Oak", "range": "$360-500", "notes": "Missouri Ozarks sourcing" },
+          { "type": "Hungarian Oak", "range": "~$600", "notes": "Zemplén Hills, value alternative to French" },
+          { "type": "French Oak (standard)", "range": "$850-1,200", "notes": "Various forest origins" },
+          { "type": "French Oak (premium)", "range": "$1,500-2,500", "notes": "Premium forest selection" },
+          { "type": "French Oak (Tronçais)", "range": "$4,000+", "notes": "Tightest grain, highest ellagitannin" }
+        ],
+        "regions": [
+          {
+            "name": "France",
+            "cooperages": [
+              {
+                "id": "francois-freres",
+                "name": "Tonnellerie François Frères",
+                "location": "Saint-Romain, Burgundy",
+                "founded": "1910",
+                "annual_production": "~40,000 barrels",
+                "style": "Burgundian",
+                "classification": "Premier",
+                "notable_clients": ["Domaine de la Romanée-Conti", "Domaine Leroy", "Domaine Armand Rousseau", "Domaine Georges Roumier", "Domaine Comte Georges de Vogüé", "Domaine Méo-Camuzet", "Domaine Comte Liger-Belair", "Domaine Jacques-Frédéric Mugnier", "Clos de Tart", "Hospices de Beaune", "Domaine Coche-Dury", "Domaine Leflaive", "Domaine Ramonet", "Angelo Gaja"],
+                "characteristics": "Owns 3 stave mills, sources all raw oak directly. DRC selects its own wood, dried 3-4 years. Domaine Leroy uses 100% François Frères. First international clients: Gaja (Italy), Robert Mondavi (USA).",
+                "specialty": "The benchmark for Grand Cru Burgundy",
+                "history": "Joseph François established a small cooperage in Saint-Romain in 1910, nestled among the limestone hills that would become synonymous with the world's greatest white wines. In 1942, his sons Robert and Henri formally incorporated the business. The transformation from regional artisan to global icon came with the third generation when Jean François and his wife Noëlle pursued international markets, with Angelo Gaja becoming an early convert in Italy, followed by Robert Mondavi in California. In 1982, the cooperage won the Grand Prix de l'Exportation Artisanale. Today, the fourth generation continues the legacy with Jerome François at the helm. Despite becoming publicly traded and the nucleus of TFF Group, François Frères remains tied to Saint-Romain, where the microclimate is essential for natural seasoning."
+              },
+              {
+                "id": "taransaud",
+                "name": "Tonnellerie Taransaud",
+                "location": "Cognac",
+                "founded": "1932",
+                "style": "Bordelaise",
+                "classification": "Premier",
+                "notable_clients": ["Château Bélair-Monange", "Château Petit-Village", "Sociando-Mallet", "Pahlmeyer"],
+                "characteristics": "Family barrel-making documented since 1652. Powerful and austere character. Less seductive in youth but excellent for long-term aging. Multiple coopers awarded Meilleur Ouvrier de France. Pahlmeyer uses 75% new Taransaud for Merlot.",
+                "specialty": "Structure-focused barrels built for grand vin",
+                "history": "The Taransaud name has been synonymous with barrel-making in Cognac since 1652, making them one of the oldest coopering families in France. The modern cooperage was established in 1932 by Roger Taransaud with his sons Pierre and Jean. On May 15, 1944, a devastating fire destroyed the workshops during World War II. The family rebuilt at Merpins, where they remain today. Jean Taransaud, a Compagnon du Devoir craftsman, authored 'Le Livre de la Tonnellerie' in 1973, the definitive reference on barrel-making. In 1997, Henri de Pracomtal (former Chairman of Hennessy) acquired the cooperage and founded Chêne & Cie. Today his sons Guillaume and Jacquelin ensure continuity into the next generation."
+              },
+              {
+                "id": "seguin-moreau",
+                "name": "Tonnellerie Seguin Moreau",
+                "location": "Cognac/Napa",
+                "founded": "1877",
+                "style": "Bordelaise",
+                "classification": "Premier",
+                "notable_clients": ["Château Haut-Brion", "Château Mouton Rothschild", "Château Trotanoy", "Dominique Lafon"],
+                "characteristics": "First eco-certified cooperage. Scientific partnership with Bordeaux Faculty of Oenology since 1978. Haut-Brion partnership provides ~70% of their barrels. 2013 innovation partnership with Mouton for clear stave fermentation vessels.",
+                "specialty": "Research-driven innovation, First Growth partnerships",
+                "history": "The story of Seguin Moreau is the tale of two cooperage dynasties. In 1838, Jean Moreau established his cooperage in Cognac. In 1870, Alfred Seguin founded his own workshop. Jean Moreau's great-grandson was taken prisoner during WWI and returned nearly blind. Without an heir, he handed his workshops to the Seguin cooperage in 1964. Rémy Martin had acquired a stake in 1958 and became sole owner in 1970. The combined entity took the name Seguin Moreau in 1972. In 1989, they patented 'Bousinage,' an oenological toasting process adopted across the industry. Now part of OENEO Group, they celebrate 185 years of combined heritage."
+              },
+              {
+                "id": "sylvain",
+                "name": "Tonnellerie Sylvain",
+                "location": "Libourne, Bordeaux",
+                "founded": "1957",
+                "annual_production": "33,000+ barrels",
+                "style": "Bordelaise",
+                "classification": "Premier",
+                "notable_clients": ["Château Latour", "Château Mouton Rothschild", "Château Cheval Blanc", "Screaming Eagle", "Harlan Estate"],
+                "characteristics": "Elegant and subtle aromas. Improved mid-palate structure. Notable length in wines. Bureau Veritas certified 100% French origin.",
+                "specialty": "First Growth and cult wine supplier",
+                "history": "In 1957, Gérard Sylvain opened a modest barrel-repair workshop in Libourne, in the heart of Bordeaux's Right Bank. Jean-Luc Sylvain joined in the 1980s, bringing engineering expertise that transformed the repair business into full production. In 1991, the growing operation relocated to Saint-Denis de Pile. Now in its third generation, Tonnellerie Sylvain has grown to become the largest family-owned cooperage in France. In 2015, they acquired Marc Grenier in Burgundy, expanding the 'Famille Sylvain' group."
+              },
+              {
+                "id": "damy",
+                "name": "Tonnellerie Damy",
+                "location": "Meursault, Burgundy",
+                "founded": "1946",
+                "annual_production": "20,000 barrels",
+                "style": "Burgundian",
+                "classification": "Premier",
+                "notable_clients": ["Domaine de la Romanée-Conti", "Hospices de Beaune", "80%+ of Côtes de Beaune/Nuits domaines"],
+                "characteristics": "Two coopers awarded Meilleur Ouvrier de France: Jacques (1976), Jérôme (2007). Featured in over 80% of Burgundy domaines. DRC began including Damy barrels post-2020. Hospices de Beaune whites matured in Damy.",
+                "specialty": "The benchmark for Burgundy",
+                "history": "In 1946, Roger Damy established a cooperage in the Burgundian village of Nantoux. In 1970, his son Jacques relocated to Meursault, purchasing the Meyer workshop. Jacques earned the Meilleur Ouvrier de France title in 1976. The third generation continues with Jérôme Damy, who built a new 6,000 square meter workshop employing 35 coopers. Jérôme also earned the MOF distinction, following in his father's footsteps. Together with sister company Tonnellerie Billon, they form 'Les Tonnelleries de Bourgogne.'"
+              },
+              {
+                "id": "dargaud-jaegle",
+                "name": "Tonnellerie Dargaud & Jaeglé",
+                "location": "Romanèche-Thorins, Southern Burgundy",
+                "founded": "1921",
+                "annual_production": "~100 casks/day",
+                "style": "Burgundian",
+                "classification": "Premier",
+                "notable_clients": ["Château de La Chaize"],
+                "characteristics": "Celebrated 100 years in 2021. Unique approach: sells barrels based on forest origin rather than grain. Pioneered water-bent barrels in Mâcon tradition for preserving fruit. Marcel Cadet ultra-premium line uses 36-month seasoned wood.",
+                "specialty": "Forest-based wood selection, terroir approach to oak",
+                "history": "In 1921, Marcel Dargaud and his wife Jeanne opened a cooperage in Romanèche-Thorins. Ten years later, a thirteen-year-old orphan named Marcel Jaeglé knocked on the door seeking an apprenticeship. Nicknamed 'Le Cadet,' young Marcel became fully orphaned at 18. The Dargauds made an extraordinary decision: they became his legal guardians. In 1968, the business was renamed Dargaud & Jaeglé, permanently honoring the young man they had taken in. The signature 'Marcel Cadet' barrel, created in 2001, uses 36-month seasoned wood as a tribute to Marcel Jaeglé."
+              },
+              {
+                "id": "billon",
+                "name": "Tonnellerie Billon",
+                "location": "Beaune, Burgundy",
+                "founded": "1947",
+                "annual_production": "12,000 barrels",
+                "style": "Burgundian",
+                "notable_clients": ["Domaine Antoine Jobard"],
+                "characteristics": "Led by Vincent Damy, Meilleur Ouvrier de France 2007. Sources from 10 French forests including Allier, Cher, Vosges, Jura. 75% export. Sister company to Damy.",
+                "specialty": "Exclusive 20+ year partnership with Domaine Antoine Jobard (Meursault)",
+                "history": "In 1947, Gaston Billon established his cooperage in Beaune. The Damy family eventually acquired Tonnellerie Billon, creating a partnership with their Meursault-based operation. Together they form 'Les Tonnelleries de Bourgogne,' one of the few cooperages still able to offer oak selection by specific forest origin."
+              },
+              {
+                "id": "demptos",
+                "name": "Tonnellerie Demptos",
+                "location": "Bordeaux/Napa",
+                "founded": "1825",
+                "style": "Bordelaise",
+                "notable_clients": ["Château Haut-Brion", "Château Latour", "Château Margaux", "Château Mouton Rothschild", "Château Trotanoy", "Darioush Winery", "Clos du Val"],
+                "characteristics": "Oldest family-owned cooperage in France. First to open in Napa Valley (1982). Demptos Research Center established 1991. 80% export to 40 countries.",
+                "specialty": "All five First Growths among clients",
+                "history": "On April 1, 1777, Pierre Demptos was baptized in Saint-Caprais-de-Bordeaux into a family of winegrowers and coopers. In 1825, at forty-eight, he formally founded his cooperage during the Restoration period. The business passed through world wars and industry transformations while maintaining headquarters at Saint-Caprais. In 1989, the François family gave fresh momentum. Demptos established operations in Napa (1982), Hungary (2000), Spain (2000), South Africa (2003), and China (2006). In 2025, they celebrated their bicentenary."
+              },
+              {
+                "id": "nadalie",
+                "name": "Tonnellerie Nadalié",
+                "location": "Ludon-Médoc/Napa",
+                "founded": "1902",
+                "annual_production": "35,000/year",
+                "style": "Bordelaise",
+                "characteristics": "First French cooperage in Napa Valley (1980). 5th generation family. Own sawmill near felling sites. Both French and American oak programs.",
+                "specialty": "French-American bridge, Napa presence since 1980"
+              },
+              {
+                "id": "rousseau",
+                "name": "Tonnellerie Rousseau",
+                "location": "Gevrey-Chambertin, Burgundy",
+                "founded": "1954",
+                "style": "Burgundian",
+                "annual_production": "11,000 barrels + 350 foudres",
+                "notable_clients": ["Domaine Laurent Roumier", "Champagne Legras & Haas"],
+                "characteristics": "10 Meilleurs Ouvriers de France trained since founding. All formats from 57L to 10,000L. Only company in Burgundy with dual activity as cooper and foudre maker.",
+                "specialty": "Confidential Range limited edition, wide format range"
+              },
+              {
+                "id": "cadus",
+                "name": "Tonnellerie Cadus",
+                "location": "Ladoix-Serrigny, Burgundy",
+                "founded": "1996",
+                "style": "Burgundian",
+                "notable_clients": ["Maison Louis Jadot"],
+                "characteristics": "Small circle of leading, exclusive French coopers. Close long-term partnership with Louis Jadot; share technical comparisons and research. Jadot buys wood in advance through Cadus. 20 quality levels available.",
+                "specialty": "Technical partnership with top négociants"
+              },
+              {
+                "id": "boutes",
+                "name": "Tonnellerie Boutes",
+                "location": "Beychac et Caillau, Bordeaux",
+                "founded": "1880",
+                "style": "Bordelaise",
+                "notable_clients": ["Sociando-Mallet"],
+                "characteristics": "Only ISO 14001 certified French cooperage. 5th generation family. Known for keeping the fruit, good for earlier-drinking wines.",
+                "specialty": "Environmental certification, fruit-forward character"
+              },
+              {
+                "id": "radoux",
+                "name": "Tonnellerie Radoux",
+                "location": "Jonzac, Charentes",
+                "founded": "1947",
+                "style": "Bordelaise",
+                "classification": "Premier",
+                "notable_clients": ["Vega Sicilia", "Château Mouton Rothschild", "Marchesi Antinori", "Ridge Vineyards"],
+                "characteristics": "Vega Sicilia is the largest customer with 3,000 barrels/year for all wineries. Ridge Vineyards Monte Bello program uses Radoux Bordeaux barriques. Part of Oeneo Group.",
+                "specialty": "Major international supplier to iconic estates"
+              }
+            ]
+          },
+          {
+            "name": "United States",
+            "cooperages": [
+              {
+                "id": "world-cooperage",
+                "name": "World Cooperage / Independent Stave Company",
+                "location": "Missouri",
+                "founded": "1912",
+                "classification": "Largest in world",
+                "notable_clients": ["Schweiger Vineyards"],
+                "characteristics": "Fourth-generation family business. Multiple stave mills throughout US. SFI certified. Profile systems: 52 (fruit/vanilla), 107 (smooth, Pinot-friendly), 33 (traditional American). Partnerships with UC Davis, Fresno State, Washington State.",
+                "specialty": "Scale, consistency, proprietary toast profiles"
+              },
+              {
+                "id": "canton-cooperage",
+                "name": "Canton Cooperage",
+                "location": "Lebanon, Kentucky",
+                "founded": "1988",
+                "notable_clients": ["Turley Wine Cellars", "Ridge Vineyards", "Vega Sicilia"],
+                "characteristics": "Owned by Chêne & Cie (Taransaud parent). First to offer 3-year air-dried American oak (2002), then 4-year (2005). Paul Draper personally selected staves for decades. Vega Sicilia imports staves for on-site cooperage.",
+                "specialty": "Premium American oak, long-seasoned staves"
+              },
+              {
+                "id": "oak-cooperage",
+                "name": "The Oak Cooperage",
+                "location": "Higbee, Missouri",
+                "founded": "1972",
+                "notable_clients": ["Silver Oak"],
+                "characteristics": "Acquired by Silver Oak in 2015, now provides 100% of their barrels. Handcrafted American oak barrels for wine, whiskey, and bourbon.",
+                "specialty": "Silver Oak exclusive supplier"
+              }
+            ]
+          },
+          {
+            "name": "Hungary",
+            "cooperages": [
+              {
+                "id": "kadar-hungary",
+                "name": "Kádár Hungary",
+                "location": "Budapest/Erdőbénye",
+                "founded": "1851",
+                "classification": "Premier Hungarian",
+                "notable_clients": ["Szepsy", "300+ wineries globally"],
+                "characteristics": "Joint venture with Chêne & Cie (Taransaud owner). István Szepsy Jr. sources most barrels here. 164 different barrel types. Proprietary temperature sensors for slow toasting. Sources densest, tightest-grained sessile oak from Northern Carpathian/Tokaj region.",
+                "specialty": "Hungarian oak expertise, Szepsy's preferred cooperage"
+              },
+              {
+                "id": "trust-cooperage",
+                "name": "Trust Cooperage",
+                "location": "Szigetvár",
+                "classification": "Largest in Hungary",
+                "characteristics": "High volume Hungarian oak production.",
+                "specialty": "Scale in Hungarian market"
+              }
+            ]
+          },
+          {
+            "name": "Spain",
+            "cooperages": [
+              {
+                "id": "murua",
+                "name": "Tonelería Murúa",
+                "location": "Rioja",
+                "founded": "1898",
+                "characteristics": "Most modern cooperage in Spain. Barrels from Spanish, French, and American oak. Focus on research and innovation.",
+                "specialty": "Modern technology, multi-origin oak"
+              },
+              {
+                "id": "magrenan",
+                "name": "Tonelería Magreñán",
+                "location": "Alfaro, Rioja",
+                "founded": "1820",
+                "characteristics": "Craft tradition since 1820. 5th generation at Alfaro since 1950. American, French, and European stave oak.",
+                "specialty": "Historic Rioja tradition"
+              },
+              {
+                "id": "quercus",
+                "name": "Tonelería Quercus",
+                "location": "Rioja",
+                "characteristics": "Pioneer in forest-based wood selection. First to use oak from La Rioja, Navarre, and northern Spain. Proprietary TRH toasting system.",
+                "specialty": "Spanish oak innovation, proprietary toasting"
+              }
+            ]
+          },
+          {
+            "name": "Italy",
+            "cooperages": [
+              {
+                "id": "garbellotto",
+                "name": "Garbellotto",
+                "location": "Conegliano, Veneto",
+                "founded": "1775",
+                "classification": "Italy's oldest cooperage",
+                "notable_clients": ["Tommasi", "Menegolli"],
+                "characteristics": "Oldest and most famous Italian cooperage. Produces vessels from 10 to 80,000 liters. Commissioned 'Magnifica' for Tommasi, the world's largest aging barrel (Guinness Record 2010). 'Romeo and Juliet' barrel for Menegolli at 42,500 liters.",
+                "specialty": "Large format specialists, Guinness record holders"
+              },
+              {
+                "id": "gamba",
+                "name": "Botti Gamba",
+                "location": "Castell'Alfero d'Asti, Piedmont",
+                "founded": "1772",
+                "classification": "Italy's premier cooperage",
+                "annual_production": "300 botti, 9,500 barrels",
+                "characteristics": "7 generations of master coopers spanning 250+ years. Direct sourcing from Nevers, Allier, Fontainebleau. Brettanomyces-free, TCA-free certified. 1,000 clients worldwide.",
+                "specialty": "Traditional Italian botti, large format casks"
+              }
+            ]
+          }
+        ],
+        "classification_styles": {
+          "burgundian": {
+            "description": "Generally more integrated oak, emphasis on elegance and terroir expression",
+            "stave_thickness": "27mm for 228L pièce",
+            "cooperages": ["François Frères", "Damy", "Billon", "Cadus", "Rousseau", "Dargaud & Jaeglé"]
+          },
+          "bordelaise": {
+            "description": "Structure-focused, cedar and tobacco notes",
+            "stave_thickness": "20mm for 225L barrique",
+            "cooperages": ["Taransaud", "Seguin Moreau", "Sylvain", "Boutes", "Nadalié", "Demptos"]
+          }
+        }
+      }
+    },
+    "toast_levels": {
+      "title": "Toast Levels",
+      "description": "Toasting transforms oak chemistry through the Maillard reaction. Temperature and time determine which compounds develop and which break down.",
+      "levels": [
+        {
+          "id": "light",
+          "name": "Light Toast",
+          "temperature_f": "~300°F",
+          "temperature_c": "~150°C",
+          "duration": "~25 minutes",
+          "wood_appearance": "Pale, minimal color change",
+          "characteristics": [
+            "Preserves fruit character",
+            "Higher lactone content",
+            "Can be tannic/astringent",
+            "Raw wood aromatics present"
+          ],
+          "flavor_compounds": ["Vanilla", "Coconut", "Caramel", "Clove", "Cinnamon"],
+          "ellagitannins": "High (less degradation)",
+          "best_for": "Aromatic whites, delicate Pinot Noir"
+        },
+        {
+          "id": "medium",
+          "name": "Medium Toast",
+          "temperature_f": "~350-375°F",
+          "temperature_c": "~175-190°C",
+          "duration": "~35 minutes",
+          "wood_appearance": "Brown coloration",
+          "characteristics": [
+            "Balanced lactones and vanillin",
+            "Smoother tannins",
+            "Versatile for most wines"
+          ],
+          "flavor_compounds": ["Vanilla", "Honey", "Caramel", "Roasted nut"],
+          "ellagitannins": "Moderate",
+          "best_for": "Most red wines, barrel-fermented Chardonnay"
+        },
+        {
+          "id": "medium-plus",
+          "name": "Medium-Plus Toast",
+          "temperature_f": "~375-400°F",
+          "temperature_c": "~190-205°C",
+          "duration": "~45 minutes",
+          "wood_appearance": "Dark brown",
+          "characteristics": [
+            "Caramel and toffee dominant",
+            "Reduced tannin",
+            "Popular for rich reds"
+          ],
+          "flavor_compounds": ["Toffee", "Coffee", "Dark chocolate", "Smoke"],
+          "ellagitannins": "Lower",
+          "best_for": "Cabernet Sauvignon, Merlot, Syrah"
+        },
+        {
+          "id": "heavy",
+          "name": "Heavy Toast",
+          "temperature_f": "~400-450°F",
+          "temperature_c": "~205-230°C",
+          "duration": "~50-60 minutes",
+          "wood_appearance": "Very dark, near char",
+          "characteristics": [
+            "Lowest lactone content",
+            "Highest guaiacol (smoke)",
+            "Risk of charred/burnt notes",
+            "Silky tannins"
+          ],
+          "flavor_compounds": ["Roasted coffee", "Espresso", "Smoke", "Char", "Butterscotch"],
+          "ellagitannins": "Very low",
+          "best_for": "Bold reds, specific stylistic choices"
+        }
+      ],
+      "toasted_heads": {
+        "description": "Option to toast barrel ends for more toast flavor with less tannin",
+        "effect": "Adds aromatic complexity without extending contact"
+      }
+    },
+    "barrel_formats": {
+      "title": "Barrel Formats",
+      "description": "Size matters. Surface-to-volume ratio determines extraction rate, oxygen exposure, and oak influence. Larger vessels offer gentler aging.",
+      "formats": [
+        {
+          "id": "barrique",
+          "name": "Barrique (Bordeaux)",
+          "capacity_liters": 225,
+          "dimensions": "95cm height, 20mm stave thickness",
+          "origin": "Bordeaux, France",
+          "characteristics": "Standard for most fine wine aging worldwide",
+          "oak_influence": "High (small surface-to-volume ratio)"
+        },
+        {
+          "id": "piece",
+          "name": "Pièce (Burgundy)",
+          "capacity_liters": 228,
+          "dimensions": "88cm height, 27mm stave thickness",
+          "origin": "Burgundy, France",
+          "characteristics": "Slightly thicker staves, different shape",
+          "oak_influence": "High"
+        },
+        {
+          "id": "hogshead",
+          "name": "Hogshead",
+          "capacity_liters": 300,
+          "origin": "Various (often rebuilt from barrique staves)",
+          "characteristics": "Common in Australia, Scotland",
+          "oak_influence": "Medium-high"
+        },
+        {
+          "id": "puncheon",
+          "name": "Puncheon",
+          "capacity_liters": 500,
+          "origin": "Various",
+          "characteristics": "Popular in Rhône, Spain",
+          "oak_influence": "Medium"
+        },
+        {
+          "id": "demi-muid",
+          "name": "Demi-Muid",
+          "capacity_liters": 600,
+          "origin": "Rhône Valley (Châteauneuf-du-Pape)",
+          "characteristics": "Tradition in southern Rhône",
+          "oak_influence": "Medium"
+        },
+        {
+          "id": "tonneau",
+          "name": "Tonneau",
+          "capacity_liters": 900,
+          "origin": "Bordeaux (measurement unit = 4 barriques)",
+          "characteristics": "Less common for aging",
+          "oak_influence": "Low-medium"
+        },
+        {
+          "id": "fuder",
+          "name": "Fuder",
+          "capacity_liters": 1000,
+          "origin": "Mosel, Germany",
+          "characteristics": "Traditional for German Riesling",
+          "oak_influence": "Low"
+        },
+        {
+          "id": "stuck",
+          "name": "Stück",
+          "capacity_liters": 1200,
+          "origin": "Rhine, Germany",
+          "characteristics": "Traditional for Rhine wines",
+          "oak_influence": "Low"
+        },
+        {
+          "id": "botte",
+          "name": "Botte/Botti",
+          "capacity_liters": "500-5000+",
+          "origin": "Italy",
+          "characteristics": "Traditional for Barolo, Brunello, Amarone",
+          "oak_influence": "Very low (especially when old)"
+        },
+        {
+          "id": "foudre",
+          "name": "Foudre",
+          "capacity_liters": "1000-12000",
+          "origin": "France/Alsace",
+          "characteristics": "Large upright vats",
+          "oak_influence": "Minimal"
+        }
+      ],
+      "size_impact": {
+        "small_format": "Higher extraction, more oxygen, faster aging, more new oak character",
+        "large_format": "Gentler extraction, less oxygen, slower aging, more neutral character"
+      }
+    },
+    "chemistry": {
+      "title": "Oak Chemistry",
+      "description": "Oak contributes hundreds of compounds to wine. Understanding the major players explains why barrels cost thousands and why alternatives struggle to replicate them.",
+      "oak_composition": {
+        "cellulose": "40-45%",
+        "hemicellulose": "20-25%",
+        "lignin": "25-35%",
+        "tannins": "5-10%"
+      },
+      "compounds": [
+        {
+          "id": "vanillin",
+          "name": "Vanillin",
+          "source": "Lignin degradation during toasting",
+          "aroma": "Vanilla, sweet",
+          "notes": "French oak typically higher than American. Reduced by yeast during fermentation (converted to vanillic acid).",
+          "toast_effect": "Increases with toast level"
+        },
+        {
+          "id": "oak-lactones",
+          "name": "Oak Lactones (Whiskey Lactones)",
+          "source": "Native to oak wood",
+          "aroma": "Coconut, woody, creamy",
+          "isomers": {
+            "cis": {
+              "concentration": "2x trans isomer",
+              "potency": "10x greater than trans",
+              "threshold_red_wine": "0.074 mg/L (20 μg/L in 12% alcohol)"
+            },
+            "trans": {
+              "threshold_red_wine": "0.32 mg/L (130 μg/L in 12% alcohol)"
+            }
+          },
+          "notes": "American oak has 2-3x higher lactone levels than French. Continue releasing indefinitely in acidic wine.",
+          "toast_effect": "Decrease with higher toast"
+        },
+        {
+          "id": "ellagitannins",
+          "name": "Ellagitannins",
+          "source": "Hydrolyzable tannins native to oak",
+          "types": ["Castalagin", "Vescalagin"],
+          "effect": "Structure, mouthfeel, color stabilization (react with anthocyanins)",
+          "notes": "French oak has 2x+ concentration vs American. Tronçais has highest levels.",
+          "toast_effect": "Decrease with higher toast"
+        },
+        {
+          "id": "eugenol",
+          "name": "Eugenol",
+          "source": "Increases during seasoning",
+          "aroma": "Clove, spicy",
+          "notes": "Important contributor to spicy oak character",
+          "toast_effect": "Moderate increase with toast"
+        },
+        {
+          "id": "guaiacol",
+          "name": "Guaiacol & 4-Methylguaiacol",
+          "source": "Lignin breakdown during toasting",
+          "aroma": "Smoke, char, bacon",
+          "notes": "Also present in smoke-tainted wines. Threshold varies by wine matrix.",
+          "toast_effect": "Significant increase with heavy toast"
+        },
+        {
+          "id": "furfural",
+          "name": "Furfural & 5-Methylfurfural",
+          "source": "Hemicellulose degradation",
+          "aroma": "Caramel, butterscotch, toasted almonds",
+          "notes": "Key contributor to toasty, sweet oak character",
+          "toast_effect": "Increase with toast level"
+        }
+      ]
+    },
+    "new_vs_used": {
+      "title": "New vs Used Oak",
+      "description": "New barrels deliver maximum flavor impact. Each subsequent use extracts less, until the barrel becomes neutral. But neutral does not mean useless.",
+      "extraction_rates": [
+        {
+          "use": "New (1st fill)",
+          "extraction": "100%",
+          "character": "Full oak flavor, maximum tannin"
+        },
+        {
+          "use": "Second fill",
+          "extraction": "~50%",
+          "character": "Moderate oak influence"
+        },
+        {
+          "use": "Third fill",
+          "extraction": "~25%",
+          "character": "Subtle oak, gentle tannin"
+        },
+        {
+          "use": "Fourth-Fifth fill",
+          "extraction": "~10-15%",
+          "character": "Considered neutral"
+        },
+        {
+          "use": "5+ uses",
+          "extraction": "Minimal",
+          "character": "Primarily oxygenation vessel"
+        }
+      ],
+      "lactone_note": "Oak lactones continue releasing indefinitely in acidic wine environment, even in neutral barrels",
+      "oxygen_note": "Even neutral barrels provide micro-oxygenation through stave porosity",
+      "typical_usage": {
+        "first_growth_bordeaux": "80-100% new oak",
+        "premier_cru_burgundy": "30-50% new oak",
+        "village_burgundy": "10-25% new oak",
+        "california_cabernet": "50-100% new oak",
+        "traditional_rioja": "Multiple-fill American oak"
+      },
+      "barrel_refresh": {
+        "method": "Interior shaving and re-toasting",
+        "effectiveness": "Limited, extends life but inferior to new",
+        "cost": "~$100 vs $500-4000 for new"
+      }
+    },
+    "regional_traditions": {
+      "title": "Regional Oak Traditions",
+      "description": "Oak choice often defines regional style as much as grape variety or terroir. These traditions evolved over centuries and continue to shape wine identity.",
+      "regions": [
+        {
+          "region": "Rioja, Spain",
+          "oak_type": "American oak (traditionally)",
+          "format": "225L barrica",
+          "inventory": "1.3+ million barrels in region",
+          "tradition": "Established late 1800s when Bordeaux winemakers fled phylloxera",
+          "style_impact": "Coconut, vanilla character defines classic Rioja",
+          "modern_trend": "Increasing French oak use among modern producers",
+          "aging_requirements": "Crianza (1 year), Reserva (1 year barrel + 2 total), Gran Reserva (2 years barrel + 5 total)"
+        },
+        {
+          "region": "Burgundy, France",
+          "oak_type": "French oak (local forests)",
+          "format": "228L pièce",
+          "tradition": "Centuries-old relationship with local coopers",
+          "style_impact": "Integrated oak, spice, elegance",
+          "new_oak_usage": "Varies: 10% (village) to 100% (some Grand Cru)",
+          "notable_coopers": ["François Frères", "Billon", "Rousseau", "Cadus"]
+        },
+        {
+          "region": "Bordeaux, France",
+          "oak_type": "French oak",
+          "format": "225L barrique (gave name to format)",
+          "tradition": "18-24 month aging standard",
+          "style_impact": "Structure, cedar, tobacco notes",
+          "new_oak_usage": "50-100% for classified growths",
+          "barrel_economy": "Châteaux pass barrels down to lesser properties"
+        },
+        {
+          "region": "Barolo & Barbaresco, Italy",
+          "oak_type": "Slavonian oak (traditional) or French (modern)",
+          "format": "Large botti (20-50+ hectoliters) vs small barriques",
+          "tradition": "Extended aging (3-5+ years) in neutral large oak",
+          "style_impact": "Traditional: fruit purity, subtle oak. Modern: more oak influence",
+          "debate": "Traditionalist vs Modernist philosophies still contested"
+        },
+        {
+          "region": "Brunello di Montalcino, Italy",
+          "oak_type": "Slavonian (traditional) or French (modern)",
+          "format": "Various sizes",
+          "tradition": "Minimum 2 years oak aging required by law",
+          "style_impact": "Traditional style favors large neutral oak"
+        },
+        {
+          "region": "Germany (Mosel/Rhine)",
+          "oak_type": "Old neutral oak",
+          "format": "Fuder (1,000L) and Stück (1,200L)",
+          "tradition": "Same casks used for decades",
+          "style_impact": "Preserves fruit purity, no oak flavor intended",
+          "new_oak_usage": "Extremely rare"
+        },
+        {
+          "region": "Australia",
+          "oak_type": "American oak (traditional for Shiraz)",
+          "format": "Various",
+          "tradition": "American oak defines classic Barossa style",
+          "style_impact": "Coconut, vanilla complement ripe fruit",
+          "modern_trend": "French oak increasingly common"
+        },
+        {
+          "region": "California",
+          "oak_type": "French oak (premium), American oak (value)",
+          "format": "225L barrique standard",
+          "tradition": "Heavy new oak use in 1990s-2000s",
+          "style_impact": "Cedar, vanilla, toast integration",
+          "modern_trend": "Trend toward less oak, larger formats"
+        }
+      ]
+    },
+    "alternatives": {
+      "title": "Oak Alternatives",
+      "description": "Chips, staves, and spirals offer oak character at a fraction of barrel cost. Quality varies widely, and purists dismiss them, but alternatives have legitimate applications.",
+      "formats": [
+        {
+          "id": "chips",
+          "name": "Oak Chips",
+          "extraction_speed": "Fast (days to weeks)",
+          "surface_area": "Very high",
+          "pros": ["Cheapest option", "Quick turnaround", "Toast level options"],
+          "cons": ["Risk of over-oaking", "Can taste harsh", "Variable quality"],
+          "cost": "$2-5 per kg (treats hundreds of liters)",
+          "quality_tier": "Entry level"
+        },
+        {
+          "id": "cubes",
+          "name": "Oak Cubes/Beans",
+          "extraction_speed": "Medium-fast (weeks)",
+          "surface_area": "High",
+          "pros": ["More controlled than chips", "Toast options"],
+          "cons": ["Still can taste extractive"],
+          "quality_tier": "Entry-mid level"
+        },
+        {
+          "id": "spirals",
+          "name": "Oak Spirals",
+          "extraction_speed": "Medium (4-8 weeks)",
+          "surface_area": "Medium-high (end grain exposed)",
+          "pros": ["Faster than staves", "Good flavor integration"],
+          "cons": ["End grain extraction differs from barrel"],
+          "quality_tier": "Mid level"
+        },
+        {
+          "id": "staves",
+          "name": "Oak Staves (Tank Staves)",
+          "extraction_speed": "Slow (2-6 months)",
+          "surface_area": "Medium (side grain like barrels)",
+          "pros": ["Most barrel-like extraction", "Toast and origin options", "Reusable"],
+          "cons": ["Slower than other alternatives", "No oxygenation"],
+          "cost": "$100-200 treats equivalent of barrel volume",
+          "quality_tier": "Best alternative"
+        },
+        {
+          "id": "barrel-inserts",
+          "name": "Barrel Inserts (Infusion Systems)",
+          "extraction_speed": "Variable",
+          "pros": ["Refreshes old barrels", "Controlled dosage"],
+          "cons": ["Doesn't replicate full barrel experience"],
+          "quality_tier": "Mid level"
+        }
+      ],
+      "micro_oxygenation": {
+        "description": "Controlled bubbling of oxygen into tank to replicate barrel porosity",
+        "pairing": "Often used alongside oak alternatives",
+        "purpose": "Polymerize tannins, stabilize color, integrate flavors"
+      },
+      "cost_comparison": {
+        "barrel": "$400-4,000+ (treats 225-228L)",
+        "alternatives": "$10-50 (treats equivalent volume)"
+      },
+      "legal_status": {
+        "prohibited": "Many European appellations for top wines",
+        "allowed": "Entry-level wines, regional designations, New World"
+      },
+      "quality_hierarchy": "Barrels > Staves > Spirals > Cubes > Chips"
+    }
+  },
+  "barrel_costs": {
+    "title": "Current Barrel Pricing",
+    "prices": [
+      {"type": "American Oak (standard)", "price_range": "$360-500"},
+      {"type": "Hungarian Oak", "price_range": "~$600"},
+      {"type": "French Oak (standard)", "price_range": "$850-1,200"},
+      {"type": "French Oak (premium)", "price_range": "$1,500-2,500"},
+      {"type": "French Oak (Tronçais premium)", "price_range": "$4,000+"}
+    ]
+  }
+}
