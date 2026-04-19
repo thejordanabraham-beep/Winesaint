@@ -42,6 +42,26 @@ interface VineyardData {
   producers?: Array<{ name: string; slug: string }>;
 }
 
+// Fetch region content (description) from Payload
+async function getRegionContent(fullSlug: string): Promise<string | null> {
+  try {
+    const response = await fetch(
+      `${API_URL}/regions?where[fullSlug][equals]=${encodeURIComponent(fullSlug)}&depth=0`,
+      { next: { revalidate: 60 } }
+    );
+
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    const region = data.docs?.[0];
+
+    return region?.description || null;
+  } catch (error) {
+    console.error('Error fetching region content:', error);
+    return null;
+  }
+}
+
 // Fetch vineyard data from Payload for vineyard-level pages
 async function getVineyardDataFromPayload(fullSlug: string): Promise<VineyardData | null> {
   try {
@@ -216,6 +236,9 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
   // Normalize level to match RegionLayout expectations
   const normalizedLevel = config.level === 'subregion' ? 'sub-region' : config.level;
 
+  // Fetch content from Payload
+  const content = await getRegionContent(fullSlug);
+
   // For vineyard-level pages, fetch rich vineyard data from Payload
   let vineyardData: VineyardData | undefined;
   if (config.level === 'vineyard') {
@@ -231,7 +254,7 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
       classification={config.classification}
       sidebarLinks={sidebarLinks}
       sidebarTitle={config.sidebarTitle || dynamicSidebarTitle}
-      contentFile={config.contentFile || `${slug[slug.length - 1]}-guide.md`}
+      content={content || undefined}
       vineyardData={vineyardData}
     />
   );

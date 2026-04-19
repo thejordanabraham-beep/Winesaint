@@ -105,6 +105,12 @@ export const WEG_REGIONS: Record<string, WEGRegion> = {
     country: 'austria',
     url: '/regions/austria/kremstal'
   },
+  'wagram': {
+    name: 'Wagram',
+    slug: 'wagram',
+    country: 'austria',
+    url: '/regions/austria/wagram'
+  },
 
   // FRANCE
   'burgundy': {

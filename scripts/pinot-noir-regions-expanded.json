@@ -1,0 +1,372 @@
+{
+  "regional_expressions": [
+    {
+      "region": "Burgundy, Côte de Nuits",
+      "country": "France",
+      "slug": "burgundy-cote-de-nuits",
+      "importance": "benchmark",
+      "climate": "Continental with cool growing season",
+      "soils": ["Limestone", "Marl", "Clay-limestone"],
+      "style_summary": "The benchmark for Pinot Noir worldwide. Structured, age-worthy wines with remarkable terroir expression.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine but firm",
+        "aromatics": "Red cherry, raspberry, violet, earth, iron, game (with age)"
+      },
+      "key_appellations": [
+        { "name": "Gevrey-Chambertin", "style": "Powerful, structured, masculine" },
+        { "name": "Morey-Saint-Denis", "style": "Balance of power and elegance" },
+        { "name": "Chambolle-Musigny", "style": "Elegant, perfumed, silky" },
+        { "name": "Vougeot", "style": "Variable, includes Clos de Vougeot Grand Cru" },
+        { "name": "Vosne-Romanée", "style": "Complex, velvety, legendary depth" },
+        { "name": "Nuits-Saint-Georges", "style": "Firm, earthy, structured" }
+      ],
+      "notable_producers": ["Domaine de la Romanée-Conti", "Domaine Leroy", "Domaine Georges Roumier", "Domaine Armand Rousseau", "Domaine Dujac"],
+      "aging_potential": "10-50+ years for top wines",
+      "price_range": "$$$ to $$$$$"
+    },
+    {
+      "region": "Burgundy, Côte de Beaune",
+      "country": "France",
+      "slug": "burgundy-cote-de-beaune",
+      "importance": "major",
+      "climate": "Continental, slightly warmer than Côte de Nuits",
+      "soils": ["Limestone", "Clay", "Marl"],
+      "style_summary": "Generally softer, more approachable wines than Côte de Nuits. Red fruit emphasis with earlier drinking windows.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Softer, rounder",
+        "aromatics": "Strawberry, cherry, rose, earth"
+      },
+      "key_appellations": [
+        { "name": "Pommard", "style": "Firm, tannic, rustic power" },
+        { "name": "Volnay", "style": "Elegant, perfumed, feminine" },
+        { "name": "Beaune", "style": "Classic, balanced, accessible" },
+        { "name": "Savigny-lès-Beaune", "style": "Fresh, fruity, good value" },
+        { "name": "Corton", "style": "The only red Grand Cru in Côte de Beaune" }
+      ],
+      "notable_producers": ["Domaine de Montille", "Domaine Marquis d'Angerville", "Domaine Comte Armand", "Domaine Michel Lafarge"],
+      "aging_potential": "5-25 years for top wines",
+      "price_range": "$$ to $$$$"
+    },
+    {
+      "region": "Champagne",
+      "country": "France",
+      "slug": "champagne",
+      "importance": "major",
+      "climate": "Cool continental, marginal for ripening",
+      "soils": ["Chalk", "Limestone", "Clay"],
+      "style_summary": "Pinot Noir provides body, structure, and red fruit character to Champagne blends. Rarely made as still wine.",
+      "typical_character": {
+        "body": "Provides structure to sparkling blends",
+        "acidity": "Very high (essential for sparkling)",
+        "tannin": "Minimal extraction for sparkling",
+        "aromatics": "Red apple, cherry, brioche (after aging on lees)"
+      },
+      "key_appellations": [
+        { "name": "Montagne de Reims", "style": "Primary Pinot Noir zone, powerful wines" },
+        { "name": "Côte des Bar (Aube)", "style": "Southern zone, riper fruit" },
+        { "name": "Vallée de la Marne", "style": "Mixed plantings with Meunier" }
+      ],
+      "wine_styles": ["Blanc de Noirs (100% Pinot Noir)", "Rosé Champagne", "Traditional blend with Chardonnay and Meunier"],
+      "notable_producers": ["Krug", "Bollinger", "Egly-Ouriet", "Jacques Selosse", "Philipponnat"],
+      "aging_potential": "5-30+ years depending on style",
+      "price_range": "$$ to $$$$$"
+    },
+    {
+      "region": "Willamette Valley",
+      "country": "United States (Oregon)",
+      "slug": "willamette-valley",
+      "importance": "major",
+      "climate": "Marine-influenced, cool, wet winters, dry summers",
+      "soils": ["Volcanic (Jory)", "Marine sedimentary", "Loess"],
+      "style_summary": "Often called the closest New World equivalent to Burgundy. Bright acidity, earthy complexity, elegant structure.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine, silky",
+        "aromatics": "Cherry, cranberry, forest floor, baking spice, cola"
+      },
+      "key_appellations": [
+        { "name": "Dundee Hills", "style": "Volcanic Jory soils, iron minerality" },
+        { "name": "Eola-Amity Hills", "style": "Wind-exposed, bright acidity, tension" },
+        { "name": "Chehalem Mountains", "style": "Diverse soils, varied expressions" },
+        { "name": "Ribbon Ridge", "style": "Marine sedimentary, elegant wines" },
+        { "name": "McMinnville", "style": "Warmer, riper fruit" }
+      ],
+      "notable_producers": ["Domaine Drouhin Oregon", "Eyrie Vineyards", "Beaux Frères", "Bergström", "Evening Land"],
+      "aging_potential": "5-20 years for top wines",
+      "price_range": "$$ to $$$$"
+    },
+    {
+      "region": "Sonoma Coast",
+      "country": "United States (California)",
+      "slug": "sonoma-coast",
+      "importance": "major",
+      "climate": "Cool, fog-influenced, Pacific maritime",
+      "soils": ["Goldridge (sandy loam)", "Volcanic", "Marine sedimentary"],
+      "style_summary": "California's answer to cool-climate Pinot Noir. More structured than Russian River, with oceanic influence.",
+      "typical_character": {
+        "body": "Medium",
+        "acidity": "Medium to high",
+        "tannin": "Moderate, fine-grained",
+        "aromatics": "Dark cherry, plum, sea salt, herbs, forest"
+      },
+      "key_appellations": [
+        { "name": "Fort Ross-Seaview", "style": "Extreme coast, intense, mineral" },
+        { "name": "Petaluma Gap", "style": "Wind-exposed, bright, structured" },
+        { "name": "West Sonoma Coast", "style": "True coastal, Burgundian tension" }
+      ],
+      "notable_producers": ["Hirsch Vineyards", "Littorai", "Flowers", "Failla", "Red Car"],
+      "aging_potential": "5-15 years",
+      "price_range": "$$ to $$$$"
+    },
+    {
+      "region": "Russian River Valley",
+      "country": "United States (California)",
+      "slug": "russian-river-valley",
+      "importance": "major",
+      "climate": "Cool, fog-influenced, warmer than true Sonoma Coast",
+      "soils": ["Goldridge (sandy loam)", "Alluvial"],
+      "style_summary": "Riper, more opulent California style while retaining freshness from fog influence.",
+      "typical_character": {
+        "body": "Medium to medium-full",
+        "acidity": "Medium",
+        "tannin": "Soft, plush",
+        "aromatics": "Ripe cherry, cola, baking spice, vanilla (if oaked)"
+      },
+      "key_appellations": [
+        { "name": "Green Valley", "style": "Coolest sub-region, more tension" },
+        { "name": "Middle Reach", "style": "Classic Russian River warmth" }
+      ],
+      "notable_producers": ["Williams Selyem", "Rochioli", "Kistler", "Merry Edwards", "Gary Farrell"],
+      "aging_potential": "3-12 years",
+      "price_range": "$$ to $$$$"
+    },
+    {
+      "region": "Santa Barbara County",
+      "country": "United States (California)",
+      "slug": "santa-barbara",
+      "importance": "major",
+      "climate": "Cool, transverse valleys channel Pacific air",
+      "soils": ["Diatomaceous earth", "Clay", "Sandy loam", "Limestone"],
+      "style_summary": "Unique transverse mountain ranges create cool conditions. Distinctive, often powerful Pinot Noirs.",
+      "typical_character": {
+        "body": "Medium to full",
+        "acidity": "High",
+        "tannin": "Firm",
+        "aromatics": "Black cherry, pomegranate, sage, lavender, iron"
+      },
+      "key_appellations": [
+        { "name": "Sta. Rita Hills", "style": "Coolest, most structured, mineral" },
+        { "name": "Santa Maria Valley", "style": "Classic, balanced, long-lived" },
+        { "name": "Santa Ynez Valley", "style": "Warmer, riper style" }
+      ],
+      "notable_producers": ["Sandhi", "Domaine de la Côte", "Au Bon Climat", "Brewer-Clifton", "Sea Smoke"],
+      "aging_potential": "5-15 years",
+      "price_range": "$$ to $$$$"
+    },
+    {
+      "region": "Central Otago",
+      "country": "New Zealand",
+      "slug": "central-otago",
+      "importance": "major",
+      "climate": "Continental, high altitude, dramatic diurnal shifts",
+      "soils": ["Schist", "Loess", "Gravel"],
+      "style_summary": "The world's southernmost wine region. Intense, fruit-forward Pinot with firm structure from cool nights.",
+      "typical_character": {
+        "body": "Medium to medium-full",
+        "acidity": "High",
+        "tannin": "Firm, ripe",
+        "aromatics": "Dark cherry, plum, thyme, schist minerality"
+      },
+      "key_appellations": [
+        { "name": "Bannockburn", "style": "Powerful, concentrated, warm" },
+        { "name": "Gibbston", "style": "Highest, coolest, most elegant" },
+        { "name": "Bendigo", "style": "Rich, ripe, generous" },
+        { "name": "Wanaka", "style": "Emerging, crisp, mineral" }
+      ],
+      "notable_producers": ["Felton Road", "Burn Cottage", "Rippon", "Mt. Difficulty", "Amisfield"],
+      "aging_potential": "5-15 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Martinborough",
+      "country": "New Zealand",
+      "slug": "martinborough",
+      "importance": "major",
+      "climate": "Cool, dry, wind-influenced",
+      "soils": ["Gravel terraces", "Silt over gravel"],
+      "style_summary": "New Zealand's original Pinot Noir region. Elegant, Burgundian in style with distinctive herbal notes.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine, silky",
+        "aromatics": "Cherry, dried herbs, earth, leather"
+      },
+      "key_appellations": [
+        { "name": "Te Muna Road", "style": "Stony terraces, mineral precision" },
+        { "name": "Martinborough Terrace", "style": "Classic, original plantings" }
+      ],
+      "notable_producers": ["Ata Rangi", "Dry River", "Escarpment", "Palliser", "Craggy Range (Te Muna)"],
+      "aging_potential": "5-15 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Baden",
+      "country": "Germany",
+      "slug": "baden",
+      "importance": "major",
+      "climate": "Germany's warmest region, continental",
+      "soils": ["Limestone", "Volcanic", "Loess"],
+      "style_summary": "Germany's most Burgundian expressions. Increasingly serious wines rivaling French benchmarks.",
+      "typical_character": {
+        "body": "Medium",
+        "acidity": "Medium to high",
+        "tannin": "Fine to moderate",
+        "aromatics": "Cherry, raspberry, smoke, earth"
+      },
+      "key_appellations": [
+        { "name": "Kaiserstuhl", "style": "Volcanic soils, warmest, ripest" },
+        { "name": "Tuniberg", "style": "Limestone, elegant" },
+        { "name": "Markgräflerland", "style": "Southern warmth, approachable" }
+      ],
+      "notable_producers": ["Bernhard Huber", "Ziereisen", "Dr. Heger", "Franz Keller"],
+      "aging_potential": "5-15 years for top wines",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Ahr",
+      "country": "Germany",
+      "slug": "ahr",
+      "importance": "moderate",
+      "climate": "Cool, northern, sheltered valley",
+      "soils": ["Slate", "Volcanic", "Loess"],
+      "style_summary": "Tiny region producing elegant, delicate Pinot Noirs from steep slate slopes. Germany's red wine heartland.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine, delicate",
+        "aromatics": "Red cherry, smoke, mineral, violet"
+      },
+      "key_appellations": [
+        { "name": "Walporzheim", "style": "Steep slate slopes" },
+        { "name": "Dernau", "style": "Classic Ahr elegance" }
+      ],
+      "notable_producers": ["Meyer-Näkel", "Deutzerhof", "Jean Stodden", "Kreuzberg"],
+      "aging_potential": "5-12 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Tasmania",
+      "country": "Australia",
+      "slug": "tasmania",
+      "importance": "major",
+      "climate": "Cool maritime, Australia's coldest wine region",
+      "soils": ["Dolerite", "Sandstone", "Basalt"],
+      "style_summary": "Australia's most Burgundian Pinot Noirs. Elegant, aromatic, with bright acidity and fine tannins.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine, silky",
+        "aromatics": "Red cherry, strawberry, florals, herbs"
+      },
+      "key_appellations": [
+        { "name": "Coal River Valley", "style": "Dry, warm(ish), structured" },
+        { "name": "Derwent Valley", "style": "Elegant, aromatic" },
+        { "name": "Tamar Valley", "style": "Maritime, fresh, bright" },
+        { "name": "Huon Valley", "style": "Coolest, most delicate" }
+      ],
+      "notable_producers": ["Tolpuddle", "Pooley", "Stefano Lubiana", "Dawson & James", "Home Hill"],
+      "aging_potential": "5-15 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Yarra Valley",
+      "country": "Australia",
+      "slug": "yarra-valley",
+      "importance": "major",
+      "climate": "Cool to moderate continental",
+      "soils": ["Grey and red volcanic", "Clay loam"],
+      "style_summary": "Victoria's premium Pinot region. Range of styles from elegant Upper Yarra to richer Lower Yarra.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "Medium to high",
+        "tannin": "Fine to moderate",
+        "aromatics": "Cherry, plum, spice, eucalyptus hints"
+      },
+      "key_appellations": [
+        { "name": "Upper Yarra", "style": "Cooler, more elegant, Burgundian" },
+        { "name": "Lower Yarra", "style": "Warmer, riper, fuller" }
+      ],
+      "notable_producers": ["Yarra Yering", "Mount Mary", "Coldstream Hills", "Giant Steps", "Mac Forbes"],
+      "aging_potential": "5-12 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Mornington Peninsula",
+      "country": "Australia",
+      "slug": "mornington-peninsula",
+      "importance": "moderate",
+      "climate": "Cool maritime, wind-influenced",
+      "soils": ["Volcanic", "Clay", "Sandy"],
+      "style_summary": "Maritime-influenced Pinot with bright aromatics and saline freshness from proximity to the bay.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine",
+        "aromatics": "Cherry, herbs, saline, florals"
+      },
+      "key_appellations": [],
+      "notable_producers": ["Paringa Estate", "Ten Minutes by Tractor", "Moorooduc", "Kooyong", "Port Phillip Estate"],
+      "aging_potential": "3-10 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Sancerre",
+      "country": "France",
+      "slug": "sancerre",
+      "importance": "moderate",
+      "climate": "Cool continental",
+      "soils": ["Limestone", "Clay-limestone", "Flint"],
+      "style_summary": "Famous for Sauvignon Blanc but produces excellent light, elegant Pinot Noir rosé and red.",
+      "typical_character": {
+        "body": "Light",
+        "acidity": "Very high",
+        "tannin": "Light, delicate",
+        "aromatics": "Red cherry, raspberry, white pepper, minerals"
+      },
+      "key_appellations": [
+        { "name": "Sancerre Rouge", "style": "Light, fresh, mineral red" },
+        { "name": "Sancerre Rosé", "style": "Crisp, pale, refreshing" }
+      ],
+      "notable_producers": ["Vincent Pinard", "François Cotat", "Domaine Vacheron", "Henri Bourgeois"],
+      "aging_potential": "2-8 years",
+      "price_range": "$$ to $$$"
+    },
+    {
+      "region": "Alto Adige",
+      "country": "Italy",
+      "slug": "alto-adige",
+      "importance": "moderate",
+      "climate": "Cool alpine with warm sunny days",
+      "soils": ["Porphyry", "Limestone", "Gravel"],
+      "style_summary": "Italian Pinot Nero at its best. Bright, elegant wines with alpine freshness and aromatic lift.",
+      "typical_character": {
+        "body": "Light to medium",
+        "acidity": "High",
+        "tannin": "Fine, soft",
+        "aromatics": "Cherry, raspberry, alpine herbs, spice"
+      },
+      "key_appellations": [
+        { "name": "Mazzon", "style": "Premier cru-quality site, complex" },
+        { "name": "Glen", "style": "High altitude, elegant" }
+      ],
+      "notable_producers": ["Franz Haas", "Elena Walch", "J. Hofstätter", "Gottardi", "Castelfeder"],
+      "aging_potential": "3-10 years",
+      "price_range": "$$ to $$$"
+    }
+  ]
+}

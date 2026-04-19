@@ -1,0 +1,142 @@
+{
+  "disease_profile": {
+    "susceptibilities": [
+      {
+        "disease": "Botrytis cinerea (Grey Rot)",
+        "severity": "high",
+        "type": "fungal",
+        "conditions": "Humid conditions, rain during ripening, poor air circulation",
+        "notes": "Pinot Noir's tight clusters trap moisture between berries, creating ideal conditions for botrytis. Unlike in white varieties where botrytis can be beneficial (noble rot), grey rot destroys red wine quality by degrading color and producing off-flavors.",
+        "management": [
+          "Leaf removal in fruit zone to improve airflow",
+          "Green harvesting to loosen clusters",
+          "Careful canopy management",
+          "Sorting infected fruit at harvest",
+          "Fungicide applications in wet years"
+        ],
+        "impact_on_wine": "Degraded color, oxidized flavors, loss of fruit character, musty or moldy notes"
+      },
+      {
+        "disease": "Powdery Mildew (Oidium)",
+        "severity": "high",
+        "type": "fungal",
+        "conditions": "Warm, dry conditions with high humidity; shade and poor air circulation",
+        "notes": "Pinot Noir's thin skin provides less natural protection against powdery mildew than thicker-skinned varieties. The fungus appears as white powdery coating on leaves, shoots, and fruit. Infected berries may split, inviting secondary infections.",
+        "management": [
+          "Sulfur applications (organic approved)",
+          "Canopy management for air circulation",
+          "Removing infected plant material",
+          "Stylet oil applications",
+          "Synthetic fungicides in severe cases"
+        ],
+        "impact_on_wine": "Reduced yields, off-flavors described as musty or moldy, impaired fermentation"
+      },
+      {
+        "disease": "Downy Mildew (Peronospora)",
+        "severity": "moderate",
+        "type": "fungal",
+        "conditions": "Wet, humid conditions; rain and temperatures above 10°C",
+        "notes": "Less problematic for Pinot Noir than powdery mildew in most regions. Appears as oily spots on leaves with white fuzzy growth underneath. Can defoliate vines and damage fruit if untreated.",
+        "management": [
+          "Copper-based sprays (Bordeaux mixture)",
+          "Good drainage in vineyard",
+          "Canopy management",
+          "Systemic fungicides"
+        ],
+        "impact_on_wine": "Primarily affects vine health and yield rather than direct wine quality"
+      },
+      {
+        "disease": "Phylloxera",
+        "severity": "moderate",
+        "type": "insect",
+        "conditions": "Present in most wine regions worldwide; spreads through soil and plant material",
+        "notes": "The aphid-like pest that devastated European vineyards in the late 1800s. Pinot Noir, like all Vitis vinifera, is susceptible. Phylloxera feeds on roots, eventually killing the vine. Nearly all Pinot Noir worldwide is now grafted onto resistant American rootstocks.",
+        "management": [
+          "Grafting onto resistant rootstocks (most common)",
+          "Sandy soils can provide natural protection",
+          "Quarantine of plant material",
+          "Flooding (historically used)"
+        ],
+        "impact_on_wine": "Vine death if ungrafted; rootstock selection affects vine vigor and fruit character"
+      },
+      {
+        "disease": "Eutypa Dieback",
+        "severity": "moderate",
+        "type": "fungal",
+        "conditions": "Enters through pruning wounds during wet weather",
+        "notes": "A trunk disease that slowly kills vine cordons and eventually the entire plant. Symptoms include stunted shoots with small, chlorotic leaves. More common in older vineyards. Pinot Noir is moderately susceptible.",
+        "management": [
+          "Pruning during dry weather",
+          "Delayed pruning (double pruning)",
+          "Wound protectants after pruning",
+          "Removing and burning infected wood"
+        ],
+        "impact_on_wine": "Reduced yields, eventual vine death, replanting costs"
+      },
+      {
+        "disease": "Esca (Black Measles)",
+        "severity": "moderate",
+        "type": "fungal complex",
+        "conditions": "Stress conditions; enters through wounds; associated with older vines",
+        "notes": "A complex of fungal pathogens causing trunk disease. Symptoms include tiger-striped leaves and berry spotting. Can cause sudden vine collapse (apoplexy) in hot weather. Increasingly problematic worldwide.",
+        "management": [
+          "No fully effective treatment exists",
+          "Trunk renewal through suckering",
+          "Sodium arsenite (banned in most regions)",
+          "Preventive wound protection"
+        ],
+        "impact_on_wine": "Reduced yields, vine death, inconsistent fruit quality"
+      },
+      {
+        "disease": "Sour Rot",
+        "severity": "moderate to high",
+        "type": "bacterial/fungal complex",
+        "conditions": "Damaged berries, high humidity, presence of fruit flies",
+        "notes": "A complex involving yeasts, bacteria, and fungi that causes berry breakdown with a distinctive vinegar smell. Often follows damage from birds, insects, or botrytis. Pinot Noir's thin skin and tight clusters increase vulnerability.",
+        "management": [
+          "Controlling botrytis and other primary damage",
+          "Fruit fly management",
+          "Sorting at harvest",
+          "Early harvest if pressure is high"
+        ],
+        "impact_on_wine": "Volatile acidity, vinegar notes, degraded color, undrinkable wine if severe"
+      },
+      {
+        "disease": "Fanleaf Virus (GFLV)",
+        "severity": "moderate",
+        "type": "viral",
+        "conditions": "Spread by dagger nematodes in soil; infected plant material",
+        "notes": "Causes fan-shaped leaves, short internodes, and reduced yields. Can reduce vine lifespan significantly. No cure exists; infected vines must be removed. Soil must be fumigated before replanting.",
+        "management": [
+          "Planting certified virus-free material",
+          "Soil fumigation before replanting",
+          "Fallow periods between plantings",
+          "Nematode-resistant rootstocks"
+        ],
+        "impact_on_wine": "Reduced yields, uneven ripening, shorter vine life"
+      },
+      {
+        "disease": "Leafroll Virus",
+        "severity": "moderate",
+        "type": "viral",
+        "conditions": "Spread by mealybugs and scale insects; infected plant material",
+        "notes": "Causes leaf margins to roll downward and turn red (in red varieties) in autumn. Delays ripening and reduces sugar accumulation. Increasingly problematic in many regions.",
+        "management": [
+          "Planting certified virus-free material",
+          "Mealybug and scale control",
+          "Roguing infected vines",
+          "Insecticide applications"
+        ],
+        "impact_on_wine": "Lower sugar levels, reduced color, delayed ripening, herbaceous flavors"
+      }
+    ],
+    "resistances": [
+      {
+        "condition": "Pierce's Disease",
+        "level": "moderate",
+        "notes": "Pinot Noir shows moderate tolerance compared to some varieties, though still susceptible. Less commonly grown in high-pressure areas like Southern California."
+      }
+    ],
+    "general_notes": "Pinot Noir's thin skin, tight clusters, and early budding make it one of the more disease-prone major varieties. This susceptibility is a primary reason yields in Burgundy are lower than in other French wine regions, and why careful viticulture is essential for quality production."
+  }
+}

@@ -1,6 +1,7 @@
 import Link from 'next/link';
+import { getPayload } from 'payload';
+import config from '@payload-config';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
-import { client } from '@/lib/sanity/client';
 import { LivexWidget } from '@/components/home/LivexWidget';
 
 // Demo articles
@@ -62,18 +63,43 @@ type PowerRanking = {
   slug: string;
 };
 
+async function fetchPowerRankings(): Promise<PowerRanking[]> {
+  try {
+    const payload = await getPayload({ config });
+
+    // Fetch top reviews from Payload
+    const reviewResult = await payload.find({
+      collection: 'reviews',
+      limit: 4,
+      sort: '-score',
+      depth: 2,
+    });
+
+    const reviews = reviewResult.docs || [];
+
+    return reviews.map((review) => {
+      const wine = typeof review.wine === 'object' ? review.wine : null;
+      const producer = wine && typeof wine.producer === 'object' ? wine.producer : null;
+      const region = wine && typeof wine.region === 'object' ? wine.region : null;
+
+      return {
+        score: review.score,
+        producerName: producer?.name || 'Unknown',
+        wineName: wine?.name || 'Unknown',
+        vintage: wine?.vintage || '',
+        regionName: region?.name || 'Unknown',
+        slug: wine?.slug || '',
+      };
+    });
+  } catch (error) {
+    console.error('Error fetching power rankings:', error);
+    return [];
+  }
+}
+
 export default async function Home() {
-  // Fetch top-rated wines from the database
-  const powerRankings: PowerRanking[] = await client.fetch(`
-    *[_type == 'review' && defined(score) && defined(wine->slug.current)] | order(score desc)[0...4] {
-      score,
-      'producerName': wine->producer->name,
-      'wineName': wine->name,
-      'vintage': wine->vintage,
-      'regionName': wine->region->name,
-      'slug': wine->slug.current
-    }
-  `);
+  // Fetch top-rated wines from Payload
+  const powerRankings = await fetchPowerRankings();
 
   return (
     <div className="bg-[#FAF7F2]">

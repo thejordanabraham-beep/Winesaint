@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer className="bg-[#FAF7F2] border-t-3 border-[#1C1C1C]">
       <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div className="md:col-span-1">
             <Link href="/" className="font-serif text-3xl italic">
@@ -27,8 +27,18 @@ export function Footer() {
             </h4>
             <ul className="space-y-3 text-sm">
               <li>
-                <Link href="/wines" className="fun-link text-gray-600 hover:text-[#722F37]">
+                <Link href="/search" className="fun-link text-gray-600 hover:text-[#722F37]">
                   Reviews
+                </Link>
+              </li>
+              <li>
+                <Link href="/producers" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Producers
+                </Link>
+              </li>
+              <li>
+                <Link href="/regions" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Regions
                 </Link>
               </li>
               <li>
@@ -42,42 +52,8 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/education" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  Education
-                </Link>
-              </li>
-              <li>
                 <Link href="/articles" className="fun-link text-gray-600 hover:text-[#722F37]">
                   Articles
-                </Link>
-              </li>
-            </ul>
-          </div>
-
-          {/* Regions */}
-          <div>
-            <h4 className="font-medium text-sm uppercase tracking-wider mb-4">
-              Popular Regions
-            </h4>
-            <ul className="space-y-3 text-sm">
-              <li>
-                <Link href="/wines?region=bordeaux" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  🇫🇷 Bordeaux
-                </Link>
-              </li>
-              <li>
-                <Link href="/wines?region=burgundy" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  🇫🇷 Burgundy
-                </Link>
-              </li>
-              <li>
-                <Link href="/wines?region=napa-valley" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  🇺🇸 Napa Valley
-                </Link>
-              </li>
-              <li>
-                <Link href="/wines?region=tuscany" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  🇮🇹 Tuscany
                 </Link>
               </li>
             </ul>

@@ -12,7 +12,7 @@ interface MobileMenuProps {
 const NAV_LINKS = [
   { href: '/regions', label: 'Wine Region Guide' },
   { href: '/grapes', label: 'Grape Guide' },
-  { href: '/vintages', label: 'Vintage Chart' },
+  { href: '/resources', label: 'Resources' },
   { href: '/chat', label: 'François AI' },
 ];
 

@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { MobileMenu } from './MobileMenu';
 import RegionsDropdown from './RegionsDropdown';
+import ResourcesDropdown from './ResourcesDropdown';
 
 export function Header() {
   const router = useRouter();
@@ -70,12 +71,7 @@ export function Header() {
 
           {/* Right Navigation */}
           <div className="hidden md:flex md:items-center md:space-x-0 flex-1 justify-end">
-            <Link
-              href="/vintages"
-              className="px-2 py-2 text-sm font-semibold uppercase tracking-wide whitespace-nowrap text-[#1C1C1C] hover:text-[#722F37] transition-colors"
-            >
-              Vintage Chart
-            </Link>
+            <ResourcesDropdown />
             <span className="text-gray-400 px-1">•</span>
             <Link
               href="/learn"

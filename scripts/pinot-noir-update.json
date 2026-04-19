@@ -1,0 +1,114 @@
+{
+  "level_1": {
+    "description": "Pinot Noir is one of the oldest and most genetically unstable grape varieties, with documented cultivation in Burgundy dating to at least the 14th century. The variety produces wines ranging from light and perfumed to complex and age-worthy, depending on climate, clone, and winemaking. Its thin skin yields wines with relatively light color and moderate tannins but high aromatic intensity. Pinot Noir is notoriously difficult to grow and vinify, requiring specific climatic conditions and careful handling at every stage."
+  },
+  "level_2": {
+    "full_description": "Pinot Noir is one of the oldest and most genetically unstable grape varieties, with documented cultivation in Burgundy dating to at least the 14th century. The variety produces wines ranging from light and perfumed to complex and age-worthy, depending on climate, clone, and winemaking. Its thin skin yields wines with relatively light color and moderate tannins but high aromatic intensity. Pinot Noir is notoriously difficult to grow and vinify, requiring specific climatic conditions and careful handling at every stage.",
+    "origins_history": "Pinot Noir originated in Burgundy, France, with the earliest reliable references appearing in records from the 1370s. DNA analysis has confirmed Traminer as one parent, though the other remains unknown. The name likely derives from the French words for \"pine\" (pin) and \"black\" (noir), referencing the variety's tight, pinecone-shaped clusters.\n\nCistercian monks in Burgundy were instrumental in developing Pinot Noir cultivation, systematically mapping vineyard sites and observing how the grape expressed differently across parcels. This work laid the foundation for Burgundy's climat system. By the 17th century, Pinot Noir had spread throughout northeastern France and into Germany, where it became known as Spätburgunder.\n\nThe variety arrived in the New World in the 19th century but struggled until the late 20th century, when cooler-climate regions in Oregon, New Zealand, and Tasmania demonstrated that quality Pinot Noir could be produced outside Burgundy.",
+    "viticultural_characteristics": "Pinot Noir requires a narrow temperature band. Too warm and the grapes lose acidity and aromatic complexity; too cold and they fail to ripen. The variety performs best where average growing season temperatures fall between 14-16°C (57-61°F). It buds early, making it vulnerable to spring frosts, and ripens early to mid-season.\n\nThe variety's thin skin and tight clusters make it particularly vulnerable to disease. Botrytis (grey rot) is the primary concern, as tight clusters trap moisture. Powdery mildew also poses significant challenges due to the thin skin. These disease pressures are a primary reason Burgundy has lower yields than other French wine regions.",
+    "wine_styles": "Pinot Noir wines exhibit remarkable stylistic diversity:\n\nBurgundy Style (Cool Climate): Light to medium body, high acidity, delicate tannins. Aromatics emphasize red fruits (cherry, raspberry, strawberry), florals (rose, violet), and with age, earth, mushroom, and forest floor. Best examples age 10-30+ years.\n\nNew World Style (Moderate Climate): Medium body, ripe fruit character, softer acidity. More emphasis on darker fruits (black cherry, plum) and oak influence (vanilla, toast). Generally approachable younger.\n\nSparkling: Pinot Noir is essential to Champagne production, providing body, structure, and red fruit character. Used for Blanc de Noirs, Rosé Champagne, and traditional blends with Chardonnay and Pinot Meunier.",
+    "regional_details": "Burgundy, Côte de Nuits: The northern half of the Côte d'Or produces the most structured, longest-lived Burgundies. Key villages include Gevrey-Chambertin, Chambolle-Musigny, Vosne-Romanée, and Nuits-Saint-Georges.\n\nBurgundy, Côte de Beaune: Southern Côte d'Or produces generally softer, more approachable wines with red fruit emphasis. Key villages include Pommard, Volnay, and Beaune.\n\nOregon, Willamette Valley: Closest climate to Burgundy in the US. Volcanic Jory soils and Dijon clones produce wines with bright acidity and earthy complexity.\n\nNew Zealand: Martinborough and Central Otago produce concentrated, structured Pinot Noir with intense fruit.\n\nGermany: Known as Spätburgunder. Baden and Pfalz produce riper styles; Ahr produces elegant, Burgundy-like wines."
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "parents": [
+        { "name": "Traminer", "slug": "traminer", "confirmed": true },
+        { "name": "Unknown", "slug": null, "confirmed": false }
+      ],
+      "offspring": [
+        { "name": "Chardonnay", "slug": "chardonnay", "other_parent": "Gouais Blanc" },
+        { "name": "Gamay", "slug": "gamay", "other_parent": "Gouais Blanc" },
+        { "name": "Aligoté", "slug": "aligote", "other_parent": "Gouais Blanc" },
+        { "name": "Melon de Bourgogne", "slug": "melon-de-bourgogne", "other_parent": "Gouais Blanc" },
+        { "name": "Auxerrois", "slug": "auxerrois", "other_parent": "Gouais Blanc" }
+      ],
+      "mutations": [
+        { "name": "Pinot Gris", "slug": "pinot-gris", "type": "color", "description": "Pink/grey-skinned mutation producing fuller-bodied white wines" },
+        { "name": "Pinot Blanc", "slug": "pinot-blanc", "type": "color", "description": "White-skinned mutation, lighter and crisper than Gris" },
+        { "name": "Pinot Meunier", "slug": "pinot-meunier", "type": "possible", "description": "Possibly a mutation or close relative, used extensively in Champagne" }
+      ]
+    },
+    "clones": [
+      {
+        "name": "Dijon 115",
+        "origin": "Burgundy, France",
+        "characteristics": "Small clusters, intense color and flavor, low yields",
+        "yield": "low",
+        "regions": ["Burgundy", "Oregon", "New Zealand"]
+      },
+      {
+        "name": "Dijon 667",
+        "origin": "Burgundy, France",
+        "characteristics": "Medium clusters, good color, slightly higher yields than 115",
+        "yield": "moderate",
+        "regions": ["Burgundy", "Oregon", "California"]
+      },
+      {
+        "name": "Dijon 777",
+        "origin": "Burgundy, France",
+        "characteristics": "Very small berries, high acidity, loose clusters reducing rot pressure",
+        "yield": "low",
+        "regions": ["Burgundy", "Oregon", "Champagne"]
+      },
+      {
+        "name": "Dijon 828",
+        "origin": "Burgundy, France",
+        "characteristics": "Larger clusters, more structured wines",
+        "yield": "moderate",
+        "regions": ["Burgundy"]
+      },
+      {
+        "name": "Pommard",
+        "origin": "Burgundy, France",
+        "characteristics": "Larger berries, more tannic wines with darker color",
+        "yield": "moderate",
+        "regions": ["California", "Oregon"]
+      },
+      {
+        "name": "Wadenswil",
+        "origin": "Switzerland",
+        "characteristics": "Produces aromatic, lighter-bodied wines",
+        "yield": "moderate",
+        "regions": ["Oregon", "Switzerland"]
+      },
+      {
+        "name": "Mariafeld",
+        "origin": "Switzerland",
+        "characteristics": "Larger clusters, higher yields",
+        "yield": "high",
+        "regions": ["Switzerland", "Germany"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone/Chalk",
+        "effect": "Produces wines with pronounced minerality, tension, and aging potential. High calcium content influences acidity retention.",
+        "regions": ["Burgundy", "Champagne"]
+      },
+      {
+        "soil": "Clay",
+        "effect": "Produces fuller-bodied, more powerful wines with deeper color.",
+        "regions": ["Pommard", "Côte de Beaune"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Yields wines with distinctive iron-tinged minerality and firm structure.",
+        "regions": ["Oregon (Willamette Valley)", "New Zealand"]
+      },
+      {
+        "soil": "Sandy/Alluvial",
+        "effect": "Produces more aromatic, earlier-drinking wines with less structure.",
+        "regions": ["Alsace", "Germany"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        { "disease": "Botrytis (Grey Rot)", "severity": "high", "notes": "Tight clusters trap moisture, encouraging rot. Requires careful canopy management." },
+        { "disease": "Powdery Mildew", "severity": "high", "notes": "Thin skin provides less protection. Sulfur applications are standard prevention." },
+        { "disease": "Downy Mildew", "severity": "moderate", "notes": "Less problematic than powdery mildew but still requires monitoring." },
+        { "disease": "Phylloxera", "severity": "moderate", "notes": "Like most vinifera, requires grafting to resistant rootstocks." }
+      ],
+      "resistances": []
+    }
+  }
+}

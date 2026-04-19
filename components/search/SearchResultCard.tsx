@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { formatWineDisplayName } from '@/lib/utils';
 
 interface WineResult {
   _id: string;
@@ -31,8 +32,8 @@ interface SearchResultCardProps {
 }
 
 export function SearchResultCard({ wine, isExpanded, onToggle }: SearchResultCardProps) {
-  // Display Producer + Wine Name + Vintage
-  const fullTitle = `${wine.producer?.name || 'Unknown Producer'} ${wine.name} ${wine.vintage}`;
+  // Display Producer + Wine Name + Vintage (deduped when same)
+  const fullTitle = formatWineDisplayName(wine.producer?.name || 'Unknown Producer', wine.name, wine.vintage);
 
   return (
     <div className="py-5">

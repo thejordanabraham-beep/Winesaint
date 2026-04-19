@@ -8,6 +8,9 @@ export const Reviews: CollectionConfig = {
   },
   access: {
     read: () => true,
+    create: ({ req: { user } }) => !!user,
+    update: ({ req: { user } }) => !!user,
+    delete: ({ req: { user } }) => !!user,
   },
   fields: [
     {
@@ -90,7 +93,6 @@ export const Reviews: CollectionConfig = {
     {
       name: 'reviewDate',
       type: 'date',
-      required: true,
     },
     {
       name: 'isFeatured',

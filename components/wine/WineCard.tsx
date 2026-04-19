@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
-import { formatPriceRange } from '@/lib/utils';
+import { formatPriceRange, formatWineDisplayName } from '@/lib/utils';
 
 interface WineCardProps {
   wine: {
@@ -36,7 +36,9 @@ export function WineCard({ wine }: WineCardProps) {
 
         <div className="p-4">
           <h3 className="font-serif font-medium text-[#1C1C1C] group-hover:text-[#722F37] transition-colors line-clamp-2">
-            {wine.climat?.name ? `${wine.vintage} ${wine.producer?.name} ${wine.climat.name}` : wine.name}
+            {wine.climat?.name
+              ? `${wine.vintage} ${wine.producer?.name} ${wine.climat.name}`
+              : formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage)}
           </h3>
 
           {wine.climat?.classification && (

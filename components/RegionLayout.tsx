@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import { remark } from 'remark';
 import html from 'remark-html';
 import Link from 'next/link';
@@ -9,10 +7,10 @@ interface RegionLayoutProps {
   title: string;
   level: 'country' | 'region' | 'sub-region' | 'village' | 'vineyard';
   parentRegion?: string;
-  classification?: string; // Added for vineyard-level classification
+  classification?: string;
   sidebarLinks?: ReadonlyArray<{ name: string; slug: string; type?: string; classification?: ClassificationType }>;
-  sidebarTitle?: string; // Optional custom sidebar title
-  contentFile: string;
+  sidebarTitle?: string;
+  content?: string; // Markdown content from Payload
   vineyardData?: {
     classification?: string;
     acreage?: number;
@@ -32,26 +30,19 @@ export default async function RegionLayout({
   classification,
   sidebarLinks,
   sidebarTitle,
-  contentFile,
+  content,
   vineyardData
 }: RegionLayoutProps) {
-  // Read and parse markdown file
-  const guidesDir = path.join(process.cwd(), 'guides');
-  const filePath = path.join(guidesDir, contentFile);
-
+  // Parse markdown content from Payload
   let contentHtml = '';
-  let fileExists = false;
+  const hasContent = !!content;
 
-  try {
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
-    fileExists = true;
-
+  if (content) {
     const processedContent = await remark()
       .use(html)
-      .process(fileContent);
-
+      .process(content);
     contentHtml = processedContent.toString();
-  } catch (error) {
+  } else {
     contentHtml = '<p class="text-gray-600">Guide content coming soon...</p>';
   }
 
@@ -417,7 +408,7 @@ export default async function RegionLayout({
             />
 
             {/* Footer note */}
-            {fileExists && (
+            {hasContent && (
               <div className="mt-16 pt-8 border-t border-gray-200">
                 <p className="text-sm text-gray-500 italic">
                   This comprehensive guide is part of the WineSaint Wine Region Guide collection.

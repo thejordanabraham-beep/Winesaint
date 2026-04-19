@@ -51,7 +51,7 @@ function SearchContent() {
     const fetchAllWines = async () => {
       setLoading(true);
       try {
-        const response = await fetch('/api/wines');
+        const response = await fetch('/api/wines-list');
         const data = await response.json();
         setAllWines(data);
         if (initialQuery) {

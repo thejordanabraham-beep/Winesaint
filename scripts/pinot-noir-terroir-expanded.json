@@ -1,0 +1,148 @@
+{
+  "terroir": [
+    {
+      "soil": "Limestone/Chalk",
+      "also_known_as": ["Calcaire", "Kimmeridgian", "Comblanchien"],
+      "effect": "The classic pairing for Pinot Noir. High calcium content promotes strong root development and influences acidity retention. Wines show pronounced minerality, tension, and exceptional aging potential. The best Burgundy vineyards sit on variations of limestone.",
+      "wine_character": {
+        "body": "light to medium",
+        "acidity": "high",
+        "tannin": "fine, elegant",
+        "aromatics": "Mineral, white flowers, red fruits, chalky texture",
+        "aging_potential": "excellent"
+      },
+      "drainage": "excellent",
+      "vigor": "low to moderate",
+      "regions": ["Burgundy (Côte d'Or)", "Champagne", "Chablis", "Sancerre", "parts of Oregon"],
+      "notable_vineyards": ["Romanée-Conti", "La Tâche", "Chambertin", "Musigny"]
+    },
+    {
+      "soil": "Clay",
+      "also_known_as": ["Argile", "Clay-limestone", "Marl"],
+      "effect": "Heavier clay soils retain more water and nutrients, producing fuller-bodied wines with deeper color and more powerful structure. Clay cools vine roots, extending the growing season. Common in lower-slope Burgundy sites.",
+      "wine_character": {
+        "body": "medium to full",
+        "acidity": "moderate",
+        "tannin": "firm, structured",
+        "aromatics": "Dark fruits, earth, more powerful expression",
+        "aging_potential": "very good"
+      },
+      "drainage": "poor to moderate",
+      "vigor": "high",
+      "regions": ["Pommard", "Côte de Beaune", "parts of Nuits-Saint-Georges", "Carneros"],
+      "notable_vineyards": ["Pommard Rugiens", "Corton"]
+    },
+    {
+      "soil": "Volcanic (Basalt/Jory)",
+      "also_known_as": ["Jory", "Red volcanic", "Basaltic"],
+      "effect": "Iron-rich volcanic soils impart distinctive mineral character. Excellent drainage with good water retention in the subsoil. Common in Oregon's Willamette Valley where ancient volcanic activity created the Jory soil series.",
+      "wine_character": {
+        "body": "medium",
+        "acidity": "high",
+        "tannin": "firm, fine-grained",
+        "aromatics": "Iron, blood orange, crushed rock, dark cherry",
+        "aging_potential": "very good"
+      },
+      "drainage": "excellent",
+      "vigor": "moderate",
+      "regions": ["Oregon (Dundee Hills, Eola-Amity)", "parts of New Zealand", "Tasmania"],
+      "notable_vineyards": ["Eyrie Vineyards", "Domaine Drouhin Oregon"]
+    },
+    {
+      "soil": "Granite",
+      "also_known_as": ["Decomposed granite", "Sandy granite"],
+      "effect": "Well-drained, mineral-rich soils that stress vines appropriately. Low fertility forces deep root development. Produces wines with notable mineral tension and aromatic purity. Less common for Pinot Noir but found in select sites.",
+      "wine_character": {
+        "body": "light to medium",
+        "acidity": "high",
+        "tannin": "fine, delicate",
+        "aromatics": "Floral, perfumed, precise fruit",
+        "aging_potential": "good"
+      },
+      "drainage": "excellent",
+      "vigor": "low",
+      "regions": ["Northern Rhône (rare Pinot)", "parts of Alsace", "some California sites"],
+      "notable_vineyards": []
+    },
+    {
+      "soil": "Slate/Schist",
+      "also_known_as": ["Schiefer", "Ardoise"],
+      "effect": "Heat-retaining dark stones help ripen grapes in cool climates. Excellent drainage with mineral complexity. The fractured rock allows deep root penetration. Important in German Pinot Noir (Spätburgunder) regions.",
+      "wine_character": {
+        "body": "light to medium",
+        "acidity": "high",
+        "tannin": "fine",
+        "aromatics": "Smoky, mineral, delicate red fruits",
+        "aging_potential": "good to very good"
+      },
+      "drainage": "excellent",
+      "vigor": "low to moderate",
+      "regions": ["Ahr (Germany)", "parts of Baden", "Alsace"],
+      "notable_vineyards": ["Deutzerhof (Ahr)", "Meyer-Näkel (Ahr)"]
+    },
+    {
+      "soil": "Sandy/Alluvial",
+      "also_known_as": ["Sable", "River deposits", "Loam"],
+      "effect": "Lighter soils with excellent drainage but lower water retention. Produces more aromatic, earlier-drinking wines with less structure. Phylloxera has difficulty in sandy soils, allowing some ungrafted vines to survive.",
+      "wine_character": {
+        "body": "light",
+        "acidity": "moderate to high",
+        "tannin": "light, soft",
+        "aromatics": "Perfumed, red fruits, floral, less earthy",
+        "aging_potential": "moderate"
+      },
+      "drainage": "excellent",
+      "vigor": "moderate to high",
+      "regions": ["Parts of Alsace", "some German sites", "Central Otago river terraces"],
+      "notable_vineyards": []
+    },
+    {
+      "soil": "Gravel/Alluvial Terraces",
+      "also_known_as": ["Graves", "River stones", "Greywacke"],
+      "effect": "Excellent drainage with heat reflection from stones. Stresses vines and concentrates flavors. Common in New Zealand's Martinborough where old river terraces provide ideal conditions.",
+      "wine_character": {
+        "body": "medium",
+        "acidity": "high",
+        "tannin": "moderate, fine",
+        "aromatics": "Pure fruit, mineral, herbal notes",
+        "aging_potential": "good to very good"
+      },
+      "drainage": "excellent",
+      "vigor": "low to moderate",
+      "regions": ["Martinborough (New Zealand)", "parts of Central Otago", "Santa Barbara (terraces)"],
+      "notable_vineyards": ["Ata Rangi", "Dry River"]
+    },
+    {
+      "soil": "Loess",
+      "also_known_as": ["Wind-blown silt", "Löss"],
+      "effect": "Fine, silty soil deposited by wind over millennia. Good water retention with moderate drainage. Produces wines with aromatic intensity and softer structure. Common in parts of Germany and Austria.",
+      "wine_character": {
+        "body": "medium",
+        "acidity": "moderate",
+        "tannin": "soft, rounded",
+        "aromatics": "Fruit-forward, less mineral, approachable",
+        "aging_potential": "moderate"
+      },
+      "drainage": "moderate",
+      "vigor": "moderate to high",
+      "regions": ["Pfalz (Germany)", "parts of Austria", "parts of Oregon"],
+      "notable_vineyards": []
+    },
+    {
+      "soil": "Marine Sedimentary",
+      "also_known_as": ["Monterey shale", "Diatomaceous earth", "Ancient seabed"],
+      "effect": "Fossilized marine deposits provide unique mineral profile. Often high in calcium from ancient shells. Found in California coastal regions where the Pacific once covered the land.",
+      "wine_character": {
+        "body": "medium",
+        "acidity": "high",
+        "tannin": "moderate",
+        "aromatics": "Saline, mineral, ocean-influenced",
+        "aging_potential": "good to very good"
+      },
+      "drainage": "variable",
+      "vigor": "low to moderate",
+      "regions": ["Santa Rita Hills", "Sta. Rita Hills", "Santa Maria Valley", "Sonoma Coast"],
+      "notable_vineyards": ["Sanford & Benedict", "Bien Nacido"]
+    }
+  ]
+}

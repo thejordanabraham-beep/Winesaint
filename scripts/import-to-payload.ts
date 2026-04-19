@@ -225,54 +225,46 @@ async function getFrancoisContext(query: string): Promise<string> {
 
 // Reword review in WineSaint voice
 async function rewordReview(wine: any, originalReview: string, francoisContext: string, convertedScore: number): Promise<any> {
-  const prompt = `You are rewriting a wine review for WineSaint. Your job is to capture the same observations as the original critic but in your own words.
+  const prompt = `Write a brief wine tasting note (2-4 sentences).
 
-## WINE DETAILS:
-- Producer: ${wine.Producer}
-- Wine: ${wine['Wine Name']}
-- Vintage: ${wine.Vintage}
-- Region: ${wine.Region || 'Unknown'}
-- Grapes: ${wine['Grape Varieties'] || 'Unknown'}
+WINE: ${wine.Producer} ${wine['Wine Name']} ${wine.Vintage}
+REGION: ${wine.Region || 'Unknown'}
+GRAPES: ${wine['Grape Varieties'] || 'Unknown'}
 
-## ORIGINAL PROFESSIONAL REVIEW:
+ORIGINAL CRITIC NOTE:
 ${originalReview}
 
-${francoisContext ? `## CONTEXT FROM FRANCOIS (use to enrich your understanding):\n${francoisContext}\n` : ''}
+${francoisContext ? `TERROIR CONTEXT (include if adds value):\n${francoisContext}\n` : ''}
 
-## YOUR TASK:
-Rewrite this review in WineSaint's academic wine-expert voice:
-- Capture the same tasting observations but in your own words
-- Write like a Master Sommelier or wine academic - technical, precise, authoritative
-- Use sophisticated wine terminology naturally: phenolic maturity, textural amplitude, structural tension, aromatic profile, palate architecture
-- Reference terroir, geology, viticulture where relevant from the François context
-- Length should match the depth of the original (short original = short rewrite, detailed original = detailed rewrite)
-- Start sentences with "This" or "The" - never truncated words
-- Stay faithful to what the original critic actually observed - don't invent new flavors or characteristics
+RULES:
+- 2-4 sentences
+- Start with key flavors/aromas (no "The wine presents" or "Aromas of")
+- Include texture/structure assessment
+- End with drinking window or cellar recommendation if known
+- NO color descriptions
+- NO "aromatic profile", "palate architecture", "textural amplitude", "structural tension"
+- Be direct and specific, not flowery
+- Include terroir details from context ONLY if genuinely informative (specific vineyard, soil type, elevation)
 
-AVOID these specific awkward phrases:
-- "given the vintage parameters" or "vintage parameters"
-- "compositional integrity"
-- "exemplary expression"
-- "dimensionality"
-- Generic corporate language that sounds like marketing copy
+GOOD EXAMPLE:
+"Blackberry, cracked pepper, and iron filings. Firm but fine tannins with real density. Needs 5+ years."
 
-NEVER use em dashes (—). Use commas, periods, or semicolons instead.
+BAD EXAMPLE:
+"The wine displays a deep ruby core. The aromatic profile reveals layers of dark fruit. The palate architecture shows remarkable structural tension."
 
-Also provide:
-1. **Short Summary**: One punchy sentence (15 words max) capturing the wine's essence
-2. **Flavor Profile**: 4-6 specific flavor descriptors mentioned in the review
+Also provide a short summary (10 words max) and 4-6 flavor descriptors.
 
-Generate JSON:
+JSON format:
 {
-  "shortSummary": "One sentence wine essence",
-  "tastingNotes": "Your rewritten review - length varies based on source",
+  "shortSummary": "Brief essence",
+  "tastingNotes": "2-3 sentence note",
   "flavorProfile": ["flavor1", "flavor2", "flavor3", "flavor4"]
 }`;
 
   const message = await anthropic.messages.create({
     model: 'claude-sonnet-4-5-20250929',
-    max_tokens: 1000,
-    temperature: 0.7,
+    max_tokens: 300,
+    temperature: 0.5,
     messages: [{ role: 'user', content: prompt }]
   });
 
@@ -345,7 +337,7 @@ async function findOrCreateRegion(token: string, regionSlug: string, countryName
     w.charAt(0).toUpperCase() + w.slice(1)
   ).join(' ');
 
-  console.log(`   Creating region: ${regionName}`);
+  console.log(`   Creating region: ${regionName} (${countryName})`);
   const createRes = await fetch(`${PAYLOAD_URL}/api/regions`, {
     method: 'POST',
     headers: {
@@ -357,6 +349,7 @@ async function findOrCreateRegion(token: string, regionSlug: string, countryName
       slug: regionSlug,
       level: 'region',
       fullSlug: regionSlug,
+      country: countryName,
     })
   });
 
@@ -472,10 +465,30 @@ async function importWineWithReview(
     const reworded = await rewordReview(wine, wine['Tasting Notes'], francoisContext, convertedScore);
     console.log(`   Summary: ${reworded.shortSummary}`);
 
+    // Map sheet names to countries
+    const sheetToCountry: Record<string, string> = {
+      'Australia': 'Australia',
+      'Austria': 'Austria',
+      'California': 'United States',
+      'Champagne': 'France',
+      'France - Burgundy': 'France',
+      'France - Loire': 'France',
+      'France - Rhone': 'France',
+      'France - SW + Lang': 'France',
+      'Germany': 'Germany',
+      'Italy': 'Italy',
+      'New Zealand': 'New Zealand',
+      'Oregon': 'United States',
+      'Portugal': 'Portugal',
+      'Spain': 'Spain',
+      'South Africa': 'South Africa',
+    };
+    const countryFromSheet = sheetToCountry[sheetName] || 'Unknown';
+
     // Get or determine region
     let regionId: number;
     if (wine.Region) {
-      regionId = await findOrCreateRegion(token, wine.Region);
+      regionId = await findOrCreateRegion(token, slugify(wine.Region), countryFromSheet);
     } else {
       console.log(`   No region in Excel, asking Claude...`);
       const determined = await determineRegion(wine, sheetName);
@@ -484,7 +497,7 @@ async function importWineWithReview(
         regionId = await findOrCreateRegion(token, determined.slug, determined.country);
       } else {
         // Fallback to sheet name as region
-        regionId = await findOrCreateRegion(token, slugify(sheetName), sheetName);
+        regionId = await findOrCreateRegion(token, slugify(sheetName), countryFromSheet);
       }
     }
 

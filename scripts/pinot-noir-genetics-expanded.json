@@ -1,0 +1,215 @@
+{
+  "genetic_lineage": {
+    "overview": "Pinot Noir is one of the most genetically significant grape varieties in existence, serving as a parent to dozens of important varieties and spawning numerous mutations. Its genetic instability has made it a natural source of new grape varieties for centuries.",
+    "parents": [
+      {
+        "name": "Traminer",
+        "slug": "traminer",
+        "confirmed": true,
+        "relationship": "parent",
+        "notes": "Confirmed through DNA analysis by researchers at UC Davis in 1999. Traminer (also known as Savagnin) is an ancient variety from northeastern France, likely originating in the Jura region. The aromatic character of Traminer can occasionally be detected in certain Pinot Noir expressions.",
+        "evidence": "DNA microsatellite analysis"
+      },
+      {
+        "name": "Unknown",
+        "slug": null,
+        "confirmed": false,
+        "relationship": "parent",
+        "notes": "The second parent of Pinot Noir has never been identified. It may be an extinct variety or one that has not yet been DNA-tested. Some researchers speculate it could be a wild vine or an early cultivated variety from Burgundy.",
+        "evidence": "None available"
+      }
+    ],
+    "offspring": [
+      {
+        "name": "Chardonnay",
+        "slug": "chardonnay",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "major",
+        "notes": "The world's most popular white grape variety. The cross likely occurred spontaneously in northeastern France during the Middle Ages. Chardonnay inherited Pinot Noir's ability to express terroir while gaining Gouais Blanc's vigor and productivity."
+      },
+      {
+        "name": "Gamay",
+        "slug": "gamay",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "major",
+        "notes": "The grape of Beaujolais. Banned from Burgundy in 1395 by Philip the Bold, who called it a 'disloyal plant.' Despite this, Gamay produces fresh, fruity wines beloved worldwide. Shares Pinot Noir's sensitivity to terroir."
+      },
+      {
+        "name": "Aligoté",
+        "slug": "aligote",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "moderate",
+        "notes": "Burgundy's 'other' white grape. Produces crisp, acidic wines traditionally used in Kir (with cassis). Less prestigious than Chardonnay but increasingly valued for its freshness and minerality."
+      },
+      {
+        "name": "Melon de Bourgogne",
+        "slug": "melon-de-bourgogne",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "moderate",
+        "notes": "Known as Muscadet in the Loire Valley, where it produces crisp, saline wines perfect with oysters. Frost-tolerant offspring that thrives in cool maritime climates."
+      },
+      {
+        "name": "Auxerrois",
+        "slug": "auxerrois",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "moderate",
+        "notes": "Grown primarily in Alsace and Luxembourg. Produces soft, rounded white wines often blended with Pinot Blanc. Not to be confused with Auxerrois as a synonym for Malbec."
+      },
+      {
+        "name": "Romorantin",
+        "slug": "romorantin",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "minor",
+        "notes": "A rare variety found only in the Loire Valley appellation of Cour-Cheverny. Produces distinctive, age-worthy white wines. Nearly extinct but protected by its AOC status."
+      },
+      {
+        "name": "Sacy",
+        "slug": "sacy",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "minor",
+        "notes": "Rare variety still found in small quantities in the Yonne department of Burgundy. Produces neutral white wines, historically used for Crémant de Bourgogne."
+      },
+      {
+        "name": "Bachet Noir",
+        "slug": "bachet-noir",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "minor",
+        "notes": "Nearly extinct variety once grown in the Yonne. Mentioned in historical records but rarely cultivated today."
+      },
+      {
+        "name": "Roublot",
+        "slug": "roublot",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "minor",
+        "notes": "Extremely rare variety from Burgundy. Virtually extinct in commercial cultivation."
+      },
+      {
+        "name": "Knipperlé",
+        "slug": "knipperle",
+        "other_parent": "Gouais Blanc",
+        "cross_type": "natural",
+        "importance": "minor",
+        "notes": "Historically grown in Alsace, now nearly extinct. Produced light, acidic white wines."
+      }
+    ],
+    "mutations": [
+      {
+        "name": "Pinot Gris",
+        "slug": "pinot-gris",
+        "type": "color",
+        "mutation_type": "somatic",
+        "importance": "major",
+        "description": "Pink/grey-skinned mutation producing fuller-bodied white wines with stone fruit and honey notes. Known as Pinot Grigio in Italy (lighter style) and Grauburgunder in Germany. The mutation affects skin color only; DNA is identical to Pinot Noir.",
+        "regions": ["Alsace", "Oregon", "Northern Italy", "Germany", "New Zealand"],
+        "discovery": "First documented in Burgundy in the Middle Ages, though the exact date is unknown."
+      },
+      {
+        "name": "Pinot Blanc",
+        "slug": "pinot-blanc",
+        "type": "color",
+        "mutation_type": "somatic",
+        "importance": "major",
+        "description": "White-skinned mutation producing crisp, lighter wines than Pinot Gris. Important in Alsace and Alto Adige. Often confused with Chardonnay in blind tastings due to similar weight and character.",
+        "regions": ["Alsace", "Germany", "Austria", "Alto Adige", "California"],
+        "discovery": "Documented since at least the 14th century in Burgundy."
+      },
+      {
+        "name": "Pinot Meunier",
+        "slug": "pinot-meunier",
+        "type": "possible",
+        "mutation_type": "chimeric or close relative",
+        "importance": "major",
+        "description": "May be a mutation of Pinot Noir or a very close relative. The name means 'miller's Pinot' due to the flour-like white dusting on its leaves. Essential component of Champagne, providing fruitiness and earlier maturity. More frost-resistant than Pinot Noir.",
+        "regions": ["Champagne", "Germany (as Schwarzriesling)", "England"],
+        "discovery": "Documented in Champagne since the 16th century."
+      },
+      {
+        "name": "Pinot Noir Précoce",
+        "slug": "pinot-noir-precoce",
+        "type": "timing",
+        "mutation_type": "somatic",
+        "importance": "moderate",
+        "description": "Early-ripening mutation that matures two weeks before standard Pinot Noir. Known as Frühburgunder in Germany. Produces darker, more structured wines. Valuable in cool climates where standard Pinot Noir struggles to ripen.",
+        "regions": ["Germany", "England", "Alsace"],
+        "discovery": "Selected and propagated in Germany, exact origin unclear."
+      },
+      {
+        "name": "Pinot Teinturier",
+        "slug": null,
+        "type": "color",
+        "mutation_type": "somatic",
+        "importance": "minor",
+        "description": "A rare mutation with red flesh (teinturier), unlike standard Pinot Noir which has colorless juice. Produces deeply colored wines. Very rare and mostly of academic interest.",
+        "regions": ["Limited experimental plantings"],
+        "discovery": "Documented but rarely cultivated."
+      },
+      {
+        "name": "Pinot Liébault",
+        "slug": null,
+        "type": "cluster",
+        "mutation_type": "somatic",
+        "importance": "minor",
+        "description": "Mutation with extremely small, loose clusters. Named after the viticulturalist who selected it. Produces concentrated wines but very low yields make commercial cultivation difficult.",
+        "regions": ["Burgundy (experimental)"],
+        "discovery": "Selected in Burgundy in the 19th century."
+      }
+    ],
+    "siblings": [
+      {
+        "name": "Aubin Vert",
+        "slug": "aubin-vert",
+        "relationship": "half-sibling",
+        "shared_parent": "Traminer",
+        "notes": "Shares Traminer as a parent. Rare variety found in Lorraine."
+      }
+    ],
+    "grandchildren": [
+      {
+        "name": "Müller-Thurgau",
+        "slug": "muller-thurgau",
+        "parents": "Riesling x Madeleine Royale",
+        "connection": "Madeleine Royale is a Pinot Noir offspring",
+        "notes": "Originally thought to be Riesling x Sylvaner, now known to involve Pinot Noir genetics through Madeleine Royale."
+      }
+    ],
+    "modern_crosses": [
+      {
+        "name": "Pinotage",
+        "slug": "pinotage",
+        "cross": "Pinot Noir x Cinsaut",
+        "year": 1925,
+        "breeder": "Abraham Izak Perold",
+        "location": "South Africa",
+        "notes": "South Africa's signature grape. Created to combine Pinot Noir's quality with Cinsaut's hardiness. Produces distinctive wines with smoky, earthy character."
+      },
+      {
+        "name": "Dornfelder",
+        "slug": "dornfelder",
+        "cross": "Helfensteiner x Heroldrebe (both contain Pinot Noir genetics)",
+        "year": 1955,
+        "breeder": "August Herold",
+        "location": "Germany",
+        "notes": "Germany's most successful modern red variety. Deep color and fruit-forward character. Contains Pinot Noir in its ancestry through both parents."
+      },
+      {
+        "name": "Rotberger",
+        "slug": null,
+        "cross": "Trollinger x Riesling",
+        "year": 1928,
+        "breeder": "Heinrich Birk",
+        "location": "Germany",
+        "notes": "Trollinger (Schiava) shares genetic material with Pinot Noir. Minor variety in Germany."
+      }
+    ],
+    "genetic_significance": "Pinot Noir's genetic significance cannot be overstated. Through its numerous offspring with Gouais Blanc, it is an ancestor of over 20 modern varieties. Its mutations (Pinot Gris, Pinot Blanc, Pinot Meunier) are themselves major varieties. The Pinot family represents one of the most important genetic lineages in Vitis vinifera, second perhaps only to the Muscat family in historical importance."
+  }
+}

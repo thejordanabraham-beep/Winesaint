@@ -17,7 +17,9 @@
     "auto-categorize": "tsx scripts/auto-categorize-wines.ts",
     "auto-categorize:apply": "tsx scripts/auto-categorize-wines.ts --apply",
     "import-wine": "tsx scripts/auto-import-wine.ts",
-    "import-wine:dry": "tsx scripts/auto-import-wine.ts --dry-run"
+    "import-wine:dry": "tsx scripts/auto-import-wine.ts --dry-run",
+    "import:payload": "tsx scripts/import-wines-api.ts",
+    "import:payload:sample": "tsx scripts/import-wines-api.ts scripts/sample-import.csv"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
