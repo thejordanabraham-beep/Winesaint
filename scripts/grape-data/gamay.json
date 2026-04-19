@@ -1,0 +1,271 @@
+{
+  "name": "GAMAY",
+  "level_2": {
+    "origins_history": "Gamay originated in Burgundy through a natural crossing of Pinot Noir and Gouais Blanc, the same parentage that produced Chardonnay and numerous other varieties. DNA analysis confirmed this relationship in 1999. The variety takes its name from the village of Gamay near Saint-Aubin in the Cote de Beaune.\n\nGamay has a contentious history in Burgundy. In 1395, Philip the Bold, Duke of Burgundy, famously banned the variety from the Cote d'Or, calling it a 'very bad and disloyal plant' compared to Pinot Noir. This decree effectively pushed Gamay south to the granite hills of Beaujolais, where it found its spiritual home.\n\nThe variety reached peak plantings in France during the mid-20th century, exceeding 35,000 hectares. The Beaujolais Nouveau phenomenon of the 1970s and 1980s brought global fame but also contributed to quality concerns. Since the 1990s, a generation of quality-focused growers has rehabilitated the variety's reputation, demonstrating that carefully-made Gamay can rival fine Burgundy.",
+    "synonyms": ["Gamay Noir a Jus Blanc", "Gamay Beaujolais (historical)", "Gamay Noir"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Gamay is a natural crossing of Pinot Noir and Gouais Blanc, making it a sibling to Chardonnay, Aligote, and numerous other French varieties. This parentage was confirmed through DNA analysis in 1999.",
+      "parents": [
+        {
+          "name": "Pinot Noir",
+          "slug": "pinot-noir",
+          "confirmed": true,
+          "notes": "One parent of Gamay, confirmed through DNA analysis.",
+          "evidence": "DNA analysis (Bowers et al. 1999)"
+        },
+        {
+          "name": "Gouais Blanc",
+          "slug": "gouais-blanc",
+          "confirmed": true,
+          "notes": "Second parent of Gamay. Gouais Blanc is parent to many French varieties.",
+          "evidence": "DNA analysis (Bowers et al. 1999)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Gamay de Bouze",
+          "type": "mutation",
+          "description": "Teinturier (red-fleshed) mutation with colored juice. Used occasionally in blending."
+        },
+        {
+          "variety": "Gamay de Chaudenay",
+          "type": "mutation",
+          "description": "Another teinturier mutation. Both teinturier Gamays are minor in production."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Chardonnay",
+          "slug": "chardonnay",
+          "relationship": "Full sibling (same parents)"
+        },
+        {
+          "name": "Aligote",
+          "slug": "aligote",
+          "relationship": "Full sibling (same parents)"
+        },
+        {
+          "name": "Melon de Bourgogne",
+          "slug": "melon-de-bourgogne",
+          "relationship": "Full sibling (same parents)"
+        }
+      ],
+      "genetic_significance": "Gamay's confirmed parentage places it firmly within the Burgundian family of varieties. The Pinot Noir contribution explains similarities in aromatic character, while Gouais Blanc (now nearly extinct) has proven to be the genetic backbone of many French varieties."
+    },
+    "clones": [
+      {
+        "name": "Clone 222",
+        "origin": "France",
+        "characteristics": "One of the most common certified clones. Good color and consistent quality. Widely planted throughout Beaujolais.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Beaujolais", "Loire"]
+      },
+      {
+        "name": "Clone 358",
+        "origin": "France",
+        "characteristics": "Selected for quality production. Small berries, intense color, concentrated wines.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Beaujolais Crus"]
+      },
+      {
+        "name": "Clone 509",
+        "origin": "France",
+        "characteristics": "More recent selection with good disease resistance. Maintains quality characteristics.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Beaujolais", "Loire"]
+      },
+      {
+        "name": "Clone 787",
+        "origin": "France",
+        "characteristics": "Selected for aromatic intensity and finesse. Favored by quality-focused producers in the crus.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Morgon", "Moulin-a-Vent"]
+      },
+      {
+        "name": "Cru Heritage Selection",
+        "origin": "Beaujolais Crus, France",
+        "characteristics": "Massal selections from old vineyards in the crus. Genetic diversity, lower yields, complex character. These selections preserve the unique expressions of each cru.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Morgon", "Cote de Brouilly", "Fleurie"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Granite (Decomposed)",
+        "also_known_as": ["Gore", "Pink granite"],
+        "effect": "The defining soil of the Beaujolais crus. Decomposed granite provides excellent drainage, mineral complexity, and natural vigor control. Produces wines of depth, structure, and aging potential. Each cru has slightly different granite types.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Soft to moderate",
+          "aromatics": "Red fruit, floral, mineral, spice"
+        },
+        "regions": ["Morgon", "Fleurie", "Moulin-a-Vent", "Cote de Brouilly"]
+      },
+      {
+        "soil": "Blue Granite (Cote de Py)",
+        "effect": "Specific decomposed granite found on the Cote de Py in Morgon. Produces particularly structured, age-worthy wines with mineral complexity.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "tannin": "Moderate, fine",
+          "aromatics": "Cherry, earth, mineral, smoke"
+        },
+        "regions": ["Morgon"]
+      },
+      {
+        "soil": "Manganese Schist",
+        "also_known_as": ["Pierres bleues"],
+        "effect": "Found in parts of Moulin-a-Vent and Fleurie. The manganese content may contribute to the wines' exceptional aging potential and development of Pinot-like character.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "tannin": "Fine, structured",
+          "aromatics": "Dark fruit, violet, spice, develops complexity"
+        },
+        "regions": ["Moulin-a-Vent", "Fleurie"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Found in southern Beaujolais and parts of the Loire. Produces lighter, fruitier wines meant for earlier drinking.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Soft",
+          "aromatics": "Fresh red fruit, simple"
+        },
+        "regions": ["Beaujolais", "Beaujolais-Villages", "Touraine"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Grey Rot (Botrytis)",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Gamay's thin skins and compact clusters make it highly susceptible to botrytis. Early harvest is often necessary in humid years.",
+          "impact_on_wine": "Crop loss, dilution, off-flavors"
+        },
+        {
+          "disease": "Esca",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to this trunk disease, particularly in older vineyards.",
+          "impact_on_wine": "Vine decline and death"
+        },
+        {
+          "disease": "Powdery Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Some susceptibility requiring standard vineyard management.",
+          "impact_on_wine": "Crop damage if untreated"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cold Tolerance",
+          "level": "good",
+          "notes": "Reasonably winter-hardy, suited to the continental climate of Beaujolais."
+        }
+      ],
+      "general_notes": "Gamay is a vigorous, early-ripening variety that requires careful yield management for quality wine production. It is typically harvested by hand due to thin skins and the need for whole-cluster fermentation in carbonic maceration. The variety performs best on granitic soils that naturally limit vigor. Gobelet (bush vine) training is traditional in the crus, though some producers now use cordon-trained vines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Beaujolais Crus",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Decomposed granite", "Schist"],
+        "style_summary": "The ten crus of Beaujolais represent the variety's finest expressions. Each cru has distinct character determined by specific soils and exposures. Quality has improved dramatically since the 1990s, with the best examples rivaling Burgundy. Crus like Morgon, Moulin-a-Vent, and Cote de Brouilly produce wines that age 10-15 years.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Soft to moderate",
+          "aromatics": "Cherry, violet, spice, earth, mineral"
+        },
+        "key_appellations": [
+          { "name": "Morgon", "style": "Structured, earthy, age-worthy" },
+          { "name": "Moulin-a-Vent", "style": "Powerful, develops Burgundian character" },
+          { "name": "Fleurie", "style": "Elegant, floral, silky" },
+          { "name": "Cote de Brouilly", "style": "Mineral, blue granite character" }
+        ],
+        "notable_producers": ["Jean Foillard", "Marcel Lapierre", "Domaine Diochon", "Guy Breton", "Yvon Metras", "Jean-Paul Thevenet"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Beaujolais-Villages",
+        "country": "France",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Granite", "Clay-limestone"],
+        "style_summary": "The intermediate appellation between basic Beaujolais and the crus. Quality varies but offers excellent value from careful producers. Generally lighter and earlier-drinking than the crus but can show good complexity.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium-high",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, fresh, simple spice"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Beaujolais AOC",
+        "country": "France",
+        "importance": "moderate",
+        "climate": "Continental",
+        "soils": ["Clay-limestone", "Sand"],
+        "style_summary": "Basic regional appellation, including Beaujolais Nouveau released each November. Quality-focused producers make serious wines, but much production is simple and commercial. The southern vineyards on clay-limestone produce lighter wines.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Very soft",
+          "aromatics": "Fresh red fruit, banana (nouveau), simple"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Loire Valley",
+        "country": "France",
+        "importance": "moderate",
+        "climate": "Continental-maritime",
+        "soils": ["Various"],
+        "style_summary": "Gamay is planted throughout the Loire, particularly in Touraine and Cote Roannaise. Lighter, more acidic styles due to cooler climate. Often blended with Pinot Noir in Touraine.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Soft",
+          "aromatics": "Red currant, cherry, fresh"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Switzerland",
+        "country": "Switzerland",
+        "importance": "minor",
+        "climate": "Continental-Alpine",
+        "soils": ["Various"],
+        "style_summary": "Small plantings in the Valais and Vaud cantons. Often blended with Pinot Noir in the traditional 'Dole' blend. Cool climate produces light, fresh wines.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, fresh, light"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

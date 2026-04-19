@@ -1,0 +1,240 @@
+{
+  "name": "SANGIOVESE",
+  "level_2": {
+    "origins_history": "Sangiovese is Italy's most planted red grape and the foundation of Tuscan wine. DNA analysis has revealed that Sangiovese is a natural crossing of Ciliegiolo and Calabrese di Montenuovo, confirming its central Italian origins. The name likely derives from 'sanguis Jovis' (blood of Jove/Jupiter).\n\nThe first documented reference to Sangiovese appears in 1590 in Soderini's treatise on Tuscan viticulture. The variety became increasingly important in Tuscany over the following centuries, particularly in Chianti, where it was codified as the primary grape in the 19th century.\n\nSangiovese shows remarkable clonal diversity, with distinct biotypes adapted to different Tuscan zones. Brunello di Montalcino's Sangiovese Grosso and Chianti's Sangiovese Piccolo represent different expressions of this genetic variability. The variety has spread throughout central Italy and to the New World, though Tuscany remains its definitive home.",
+    "synonyms": ["Brunello (Montalcino)", "Prugnolo Gentile (Montepulciano)", "Morellino (Maremma)", "Sangioveto", "Nielluccio (Corsica)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Sangiovese is a natural crossing of Ciliegiolo and Calabrese di Montenuovo. DNA analysis has confirmed this parentage and established Sangiovese's central Italian origins.",
+      "parents": [
+        {
+          "name": "Ciliegiolo",
+          "slug": "ciliegiolo",
+          "confirmed": true,
+          "notes": "One parent of Sangiovese, a Tuscan variety still cultivated today.",
+          "evidence": "DNA analysis (Vouillamoz et al.)"
+        },
+        {
+          "name": "Calabrese di Montenuovo",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Second parent, an obscure southern Italian variety.",
+          "evidence": "DNA analysis"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Sangiovese Grosso",
+          "type": "biotype",
+          "description": "Larger-berried biotype associated with Brunello di Montalcino. Produces more concentrated, age-worthy wines."
+        },
+        {
+          "variety": "Sangiovese Piccolo",
+          "type": "biotype",
+          "description": "Smaller-berried biotype common in Chianti. Generally earlier ripening."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Sangiovese's confirmed parentage resolved long-standing debates about its origins and highlighted the importance of genetic research in understanding Italian grape varieties."
+    },
+    "clones": [
+      {
+        "name": "BBS 11",
+        "origin": "Brunello, Italy",
+        "characteristics": "Premium Brunello selection with small berries, intense color, and structured tannins. The benchmark for Montalcino.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Montalcino"]
+      },
+      {
+        "name": "Janus 10",
+        "origin": "Chianti, Italy",
+        "characteristics": "Quality Chianti selection with good color and balanced structure.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Chianti Classico"]
+      },
+      {
+        "name": "R24",
+        "origin": "Tuscany, Italy",
+        "characteristics": "Widely planted quality clone with reliable performance across sites.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Chianti", "Montepulciano"]
+      },
+      {
+        "name": "T19",
+        "origin": "Tuscany, Italy",
+        "characteristics": "Selected for phenolic maturity and aromatic intensity.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Chianti Classico", "Brunello"]
+      },
+      {
+        "name": "Montalcino Heritage Selection",
+        "origin": "Montalcino, Italy",
+        "characteristics": "Massal selections from historic Brunello estates. Low yields, exceptional concentration, site-specific expression. These selections have produced legendary wines for generations.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Montalcino"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Galestro",
+        "also_known_as": ["Alberese-galestro"],
+        "effect": "The defining soil of Chianti Classico. Friable marl-limestone that crumbles easily, providing excellent drainage. Produces elegant, aromatic wines with bright acidity.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm, fine",
+          "aromatics": "Cherry, violet, herbs, mineral"
+        },
+        "regions": ["Chianti Classico", "Rufina"]
+      },
+      {
+        "soil": "Alberese",
+        "also_known_as": ["Limestone marl"],
+        "effect": "Harder limestone found in parts of Montalcino and Chianti. Produces more structured, powerful wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Firm, structured",
+          "aromatics": "Dark cherry, leather, earth"
+        },
+        "regions": ["Montalcino", "Montepulciano"]
+      },
+      {
+        "soil": "Sandy Clay",
+        "effect": "Found in parts of Maremma and coastal Tuscany. Produces softer, more approachable wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs"
+        },
+        "regions": ["Morellino di Scansano", "Maremma"]
+      },
+      {
+        "soil": "Volcanic Tufa",
+        "effect": "Found in parts of Montalcino's southern slopes. Heat-retentive soils produce richer, more powerful wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Robust",
+          "aromatics": "Black cherry, spice, smoke"
+        },
+        "regions": ["Montalcino (south)"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium (Powdery Mildew)",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Highly susceptible to powdery mildew, requiring vigilant spray programs.",
+          "impact_on_wine": "Crop damage, off-flavors if untreated"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Compact clusters can be vulnerable in humid conditions.",
+          "impact_on_wine": "Grey rot problematic in wet years"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "moderate",
+          "type": "physiological",
+          "notes": "Can experience poor fruit set in cool, wet flowering conditions.",
+          "impact_on_wine": "Reduced yields"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Tolerates Tuscan summer heat well when properly managed."
+        },
+        {
+          "condition": "Drought",
+          "level": "moderate",
+          "notes": "Reasonably drought-tolerant once established."
+        }
+      ],
+      "general_notes": "Sangiovese is a late-ripening variety that requires careful site selection and clonal choice. It is vigorous and requires yield control for quality. The variety's thin skins and high acidity make it challenging to ripen fully in cooler sites. Elevation and aspect are critical in Tuscany's varied terrain. The best wines come from stressed vines on well-drained hillside sites."
+    },
+    "regional_expressions": [
+      {
+        "region": "Brunello di Montalcino DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean, continental influence",
+        "soils": ["Galestro", "Alberese", "Clay", "Volcanic"],
+        "style_summary": "Italy's most prestigious expression of Sangiovese, produced exclusively from the Sangiovese Grosso clone. These powerful, age-worthy wines require minimum 5 years aging before release. The appellation's varied terroirs produce distinct styles from different zones.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Powerful, fine-grained",
+          "aromatics": "Cherry, leather, tobacco, earth, tar, dried herbs"
+        },
+        "notable_producers": ["Biondi-Santi", "Soldera", "Poggio di Sotto", "Salvioni", "Il Poggione"],
+        "aging_potential": "15-50+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Chianti Classico DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean, continental",
+        "soils": ["Galestro", "Alberese", "Sandstone"],
+        "style_summary": "The historic heart of Sangiovese production. Modern Chianti Classico ranges from fresh, early-drinking wines to powerful Gran Selezione bottlings. The appellation's diverse communes show distinct terroir expression.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm",
+          "aromatics": "Cherry, violet, herbs, tobacco, leather"
+        },
+        "notable_producers": ["Fontodi", "Felsina", "Castello di Ama", "Isole e Olena", "Montevertine"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Vino Nobile di Montepulciano DOCG",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Clay", "Sand", "Limestone"],
+        "style_summary": "Historic appellation using Sangiovese (called Prugnolo Gentile locally). Wines are typically softer and more approachable than Brunello, with excellent value. Quality has improved dramatically since 2000.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Moderate to firm",
+          "aromatics": "Cherry, plum, herbs, earth"
+        },
+        "notable_producers": ["Avignonesi", "Boscarelli", "Salcheto", "Poliziano"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Morellino di Scansano DOCG",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean, coastal",
+        "soils": ["Sandy clay", "Volcanic"],
+        "style_summary": "Coastal Maremma's answer to Chianti. Warmer climate produces softer, more fruit-forward wines. Excellent value introduction to quality Sangiovese.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Red cherry, Mediterranean herbs, soft spice"
+        },
+        "aging_potential": "3-8 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

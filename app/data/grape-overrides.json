@@ -1,12 +1,12 @@
 {
   "name_overrides": {
+    "COT": "Malbec",
     "CORVINA VERONESE": "Corvina",
-    "GARNACHA": "Grenache",
+    "FALANGHINA BENEVENTANA": "Falanghina",
     "GARNACHA BLANCA": "Grenache Blanc",
     "GARNACHA ROJA (GRIS)": "Grenache Gris",
     "GARNACHA TINTA": "Grenache Noir",
     "PROSECCO": "Glera",
-    "COT": "Malbec",
     "TRIBIDRAG": "Zinfandel"
   },
   "essential_overrides": {
@@ -19,6 +19,7 @@
     "grape_falanghina_flegrea": false,
     "grape_garnacha_peluda": false,
     "grape_golden_muscat": false,
+    "grape_goldriesling": false,
     "grape_greco_nero_di_sibari": false,
     "grape_greco_nero_di_verbicaro": false,
     "grape_muscat_bailey_a": false,
@@ -35,7 +36,8 @@
     "grape_torrontés_sanjuanino": false,
     "grape_valvin_muscat": false,
     "grape_verdejo_serrano": false,
-    "grape_vermentino_nero": false
+    "grape_vermentino_nero": false,
+    "grape_muscat_fleur_d’oranger": false
   },
   "_instructions": {
     "name_overrides": "Maps original grape names (as they appear in grapes.json) to custom display names",

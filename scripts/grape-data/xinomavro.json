@@ -1,0 +1,181 @@
+{
+  "name": "XINOMAVRO",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Xinomavro is indigenous to northern Greece with no confirmed parentage. The name translates to 'acid black,' referencing its high acidity and dark color potential.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to Macedonia, Greece.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Stavroto",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Rare Greek variety, cross with unknown variety."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Xinomavro is one of the world's great indigenous varieties, often compared to Nebbiolo for its structure, aging potential, and tendency to show pale color despite powerful tannins."
+    },
+    "clones": [
+      {
+        "name": "Naoussa Selection",
+        "origin": "Naoussa, Greece",
+        "characteristics": "Traditional selections from the benchmark Naoussa region. Maximum intensity with firm tannins.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Naoussa"]
+      },
+      {
+        "name": "Amyndeon Selection",
+        "origin": "Amyndeon, Greece",
+        "characteristics": "Selections from high-altitude Amyndeon. More elegant with higher acidity.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Amyndeon"]
+      },
+      {
+        "name": "Clone XN-1",
+        "origin": "Greece",
+        "characteristics": "Recently certified clone with good color and aromatic intensity.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Macedonia"]
+      },
+      {
+        "name": "Old Vine Selection",
+        "origin": "Naoussa, Greece",
+        "characteristics": "Massal selections from pre-phylloxera vines. Exceptional depth and complexity.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Naoussa"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Sandy-Clay",
+        "effect": "The dominant soil of Naoussa. Produces powerful, tannic wines with excellent aging potential.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Firm, drying",
+          "aromatics": "Tomato leaf, olive, dried cherry, spice, tar"
+        },
+        "regions": ["Naoussa"]
+      },
+      {
+        "soil": "Sand over Limestone",
+        "effect": "Found in Amyndeon. Higher elevation and cooler climate produce more elegant wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Very high",
+          "tannin": "Fine, firm",
+          "aromatics": "Red fruit, roses, mineral, herbs"
+        },
+        "regions": ["Amyndeon"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Limited areas with volcanic influence. Adds mineral complexity.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm",
+          "aromatics": "Red fruit, smoke, mineral, spice"
+        },
+        "regions": ["Macedonia"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid conditions, particularly in Amyndeon.",
+          "impact_on_wine": "Requires management in wet years"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cold",
+          "level": "excellent",
+          "notes": "Well-adapted to cold winters of northern Greece."
+        },
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Maintains acidity even in warm summers."
+        }
+      ],
+      "general_notes": "Xinomavro is a late-ripening variety with high acidity and firm tannins. The variety produces pale-colored wines despite its name ('black') due to unstable anthocyanins. Wines require significant aging to soften tannins. Often compared to Nebbiolo for structure and Pinot Noir for color."
+    },
+    "regional_expressions": [
+      {
+        "region": "Naoussa PDO",
+        "country": "Greece",
+        "importance": "benchmark",
+        "climate": "Continental Mediterranean",
+        "soils": ["Sandy-clay", "Limestone"],
+        "style_summary": "Greece's most prestigious red wine appellation, producing powerful, age-worthy Xinomavro exclusively. Wines show characteristic tomato leaf and olive aromas, firm tannins, and remarkable longevity. Greece's answer to Barolo.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Firm, drying when young",
+          "aromatics": "Tomato leaf, olive, dried cherry, spice, tar, roses with age"
+        },
+        "notable_producers": ["Kir-Yianni", "Boutari", "Thymiopoulos", "Dalamara"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Amyndeon PDO",
+        "country": "Greece",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Sand", "Limestone"],
+        "style_summary": "High-altitude appellation (600-700m) producing more elegant Xinomavro than Naoussa. Also important for sparkling wine production. The cooler climate preserves acidity and creates finer tannins.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Very high",
+          "tannin": "Fine, firm",
+          "aromatics": "Red fruit, roses, mineral, herbs"
+        },
+        "notable_producers": ["Kir-Yianni", "Alpha Estate"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Goumenissa PDO",
+        "country": "Greece",
+        "importance": "emerging",
+        "climate": "Continental Mediterranean",
+        "soils": ["Clay", "Sand"],
+        "style_summary": "Blending appellation where Xinomavro must be combined with Negoska. Produces softer, more approachable wines than pure Xinomavro appellations.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, spice"
+        },
+        "notable_producers": ["Tatsis", "Aidarinis"],
+        "aging_potential": "5-12 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

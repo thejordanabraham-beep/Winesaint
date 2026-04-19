@@ -1,0 +1,183 @@
+{
+  "name": "CORTESE",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Cortese is indigenous to Piedmont with no confirmed parentage. DNA studies confirm it is distinct from other Italian white varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to southeastern Piedmont.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Cortese is one of Piedmont's few indigenous white varieties of quality, alongside Arneis and Favorita. Its genetic isolation confirms ancient local cultivation."
+    },
+    "clones": [
+      {
+        "name": "Clone CVT 3",
+        "origin": "Piedmont, Italy",
+        "characteristics": "Standard certified clone with good acidity and mineral expression.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Gavi"]
+      },
+      {
+        "name": "Clone CVT 11",
+        "origin": "Piedmont, Italy",
+        "characteristics": "Selected for enhanced aromatic intensity.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Gavi", "Colli Tortonesi"]
+      },
+      {
+        "name": "Gavi Massal Selection",
+        "origin": "Gavi, Piedmont",
+        "characteristics": "Traditional selections from historic Gavi vineyards. Maximum finesse and aging potential.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Gavi"]
+      },
+      {
+        "name": "Rovereto Selection",
+        "origin": "Rovereto di Gavi",
+        "characteristics": "Selections from the prestigious Rovereto commune. Structured wines with longevity.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Gavi"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Marl (White)",
+        "also_known_as": ["Marne Bianche"],
+        "effect": "Classic Gavi soil. Produces wines with pronounced minerality and elegance.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Citrus, green apple, almond, mineral"
+        },
+        "regions": ["Gavi"]
+      },
+      {
+        "soil": "Limestone-Clay",
+        "effect": "Common in Gavi. Provides good water retention and mineral complexity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, mineral, herbs"
+        },
+        "regions": ["Gavi", "Colli Tortonesi"]
+      },
+      {
+        "soil": "Sandy Marl",
+        "effect": "Lighter soils producing more aromatic, earlier-drinking wines.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "High",
+          "aromatics": "Citrus, apple, floral"
+        },
+        "regions": ["Alto Monferrato"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid conditions.",
+          "impact_on_wine": "Requires management in wet years"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "excellent",
+          "notes": "Well-adapted to Piedmont's continental climate."
+        },
+        {
+          "condition": "High Yields",
+          "level": "moderate",
+          "notes": "Can maintain quality at moderate yields, unlike some varieties."
+        }
+      ],
+      "general_notes": "Cortese is a late-ripening variety that produces crisp, mineral wines. The variety benefits from well-drained hillside sites with temperature variation. Excessive yields dilute quality significantly. The best wines require aging to reveal full complexity."
+    },
+    "regional_expressions": [
+      {
+        "region": "Gavi DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Marl", "Limestone-clay"],
+        "style_summary": "Piedmont's most celebrated white wine, producing crisp, mineral wines from the town of Gavi and surrounding communes. Quality ranges from simple to age-worthy depending on site and producer. The best examples rival fine white Burgundy.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Citrus, green apple, almond, mineral, white flowers"
+        },
+        "notable_producers": ["La Scolca", "Castello di Tassarolo", "Villa Sparina", "La Giustiniana", "Michele Chiarlo"],
+        "aging_potential": "3-10 years (best crus)",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Colli Tortonesi DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Clay-limestone", "Marl"],
+        "style_summary": "Neighboring appellation to Gavi, producing Cortese in similar but often fuller style. Less prestigious but good value and gaining recognition.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, stone fruit, herbs"
+        },
+        "notable_producers": ["Walter Massa", "Vigneti Massa"],
+        "aging_potential": "2-6 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Alto Monferrato DOC",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Continental",
+        "soils": ["Sandy", "Clay"],
+        "style_summary": "Broader Piedmont appellation for Cortese. Generally lighter, simpler wines for early drinking. Good everyday value.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "aromatics": "Citrus, apple"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Piemonte DOC",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Regional designation for Cortese from across Piedmont. Simple, everyday wines.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "aromatics": "Citrus, simple fruit"
+        },
+        "aging_potential": "1-2 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

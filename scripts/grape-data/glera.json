@@ -1,0 +1,200 @@
+{
+  "name": "PROSECCO",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Glera (formerly Prosecco) is indigenous to northeastern Italy, likely originating near the village of Prosecco near Trieste.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to Friuli-Veneto area.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Glera Lunga",
+          "type": "biotype",
+          "description": "Long-berried variant with elongated clusters, occasionally cultivated."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "The 2009 name change from Prosecco to Glera represents an important case of protecting geographical designations through variety renaming. This allowed Prosecco to become a protected place name rather than a grape name."
+    },
+    "clones": [
+      {
+        "name": "Clone ISV-V-5",
+        "origin": "Veneto, Italy",
+        "characteristics": "Standard certified clone with good aromatic intensity and consistent quality.",
+        "yield": "high",
+        "berry_size": "medium",
+        "regions": ["Conegliano", "Valdobbiadene"]
+      },
+      {
+        "name": "Clone ISV-V-6",
+        "origin": "Veneto, Italy",
+        "characteristics": "Selected for enhanced floral aromatics.",
+        "yield": "moderate-high",
+        "berry_size": "medium",
+        "regions": ["Valdobbiadene"]
+      },
+      {
+        "name": "Cartizze Selection",
+        "origin": "Cartizze, Italy",
+        "characteristics": "Selections from the prized Cartizze hill. Lower yields, more concentrated fruit with exceptional aromatic complexity.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Cartizze"]
+      },
+      {
+        "name": "Rive Selection",
+        "origin": "Various, Veneto",
+        "characteristics": "Single-vineyard selections from steep hillside sites. Site-specific character.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Conegliano Valdobbiadene"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Morainic Clay-Limestone",
+        "effect": "The classic soil of Conegliano Valdobbiadene hills. Produces wines with good structure and aromatic complexity.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "High",
+          "aromatics": "Apple, pear, white flowers, acacia, citrus zest"
+        },
+        "regions": ["Conegliano Valdobbiadene"]
+      },
+      {
+        "soil": "Sandy",
+        "effect": "Found on plains. Produces lighter, simpler wines with less complexity.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "Medium-high",
+          "aromatics": "Apple, simple fruit"
+        },
+        "regions": ["Prosecco DOC"]
+      },
+      {
+        "soil": "Steep Hillside (Rive)",
+        "effect": "The best sites with excellent drainage and exposure. Natural yield restriction produces more concentrated fruit.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Apple, pear, white flowers, almond, mineral"
+        },
+        "regions": ["Rive sites"]
+      },
+      {
+        "soil": "Cartizze (Clay-Sandstone)",
+        "effect": "The famed 107-hectare Cartizze hill. South-facing slopes and unique microclimate create the finest Prosecco.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Apple, pear, acacia, wisteria, almond, honey"
+        },
+        "regions": ["Cartizze"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid conditions.",
+          "impact_on_wine": "Requires management in wet years"
+        },
+        {
+          "disease": "Peronospora",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to downy mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "good",
+          "notes": "Performs well in northeastern Italy's cooler conditions."
+        },
+        {
+          "condition": "High Yields",
+          "level": "good",
+          "notes": "Maintains quality at relatively high yields, enabling large-scale production."
+        }
+      ],
+      "general_notes": "Glera is a high-yielding, late-ripening variety that maintains good acidity. The Charmat method of sparkling wine production preserves the variety's fresh, fruity aromatics. The best examples come from hillside vineyards where yields are naturally restricted and temperature variation is greater."
+    },
+    "regional_expressions": [
+      {
+        "region": "Conegliano Valdobbiadene Prosecco Superiore DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Clay-limestone", "Morainic"],
+        "style_summary": "The premium Prosecco zone, with steep hillside vineyards producing wines of genuine complexity. Rive (single-vineyard) and Cartizze bottlings represent the pinnacle. Styles range from Brut to Dry (confusingly, sweeter than Brut).",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "aromatics": "Apple, pear, white flowers, acacia, citrus zest"
+        },
+        "notable_producers": ["Bisol", "Nino Franco", "Adami", "Ruggeri", "Col Vetoraz", "Bortolomiol"],
+        "aging_potential": "1-3 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Cartizze DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental with exceptional microclimate",
+        "soils": ["Clay-sandstone"],
+        "style_summary": "The Grand Cru of Prosecco. Only 107 hectares on a steep south-facing hillside between Valdobbiadene communes. Traditionally made in a slightly sweeter style (Dry) that showcases the fruit. Among Italy's most expensive sparkling wines.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Apple, pear, acacia, wisteria, almond, honey"
+        },
+        "notable_producers": ["Nino Franco", "Bisol", "Adami"],
+        "aging_potential": "1-4 years",
+        "price_range": "$$$ to $$$$"
+      },
+      {
+        "region": "Prosecco DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "The broader appellation covering much of Veneto and Friuli. Quality varies widely from industrial to artisanal. Best consumed young and fresh. Represents the vast majority of Prosecco production.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "Medium-high",
+          "aromatics": "Apple, pear, simple fruit"
+        },
+        "notable_producers": ["La Marca", "Zonin", "Numerous"],
+        "aging_potential": "1-2 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Asolo Prosecco Superiore DOCG",
+        "country": "Italy",
+        "importance": "emerging",
+        "climate": "Continental",
+        "soils": ["Clay", "Marl"],
+        "style_summary": "The 'other' DOCG zone, often overlooked but producing quality wines. Hillside vineyards around Asolo produce elegant Prosecco that can rival Conegliano Valdobbiadene.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "aromatics": "Apple, pear, white flowers"
+        },
+        "notable_producers": ["Montelvini", "Giusti Wine"],
+        "aging_potential": "1-3 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

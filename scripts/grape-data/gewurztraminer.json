@@ -1,0 +1,247 @@
+{
+  "name": "GEWÜRZTRAMINER",
+  "level_2": {
+    "origins_history": "Gewürztraminer is a pink-skinned aromatic mutation of Savagnin (Traminer) that emerged in the 19th century. The parent variety Traminer originated in the village of Tramin (Termeno) in Alto Adige, northern Italy. While Traminer has been cultivated for centuries, the spicier, more aromatic Gewürztraminer mutation is relatively recent.\n\nThe prefix Gewürz- (German for spice) was added to distinguish the intensely aromatic mutation from the more neutral Traminer. The variety achieved fame through the vineyards of Alsace, where it arrived in the 19th century and became one of the region's four noble varieties.\n\nGewürztraminer's genetic relationship to Savagnin was confirmed through DNA analysis. The variety is prone to mutation, explaining the range of intensely aromatic to more neutral expressions found worldwide. The pink to red skin color contributes to the wine's characteristic deep golden color.",
+    "synonyms": ["Gewürztraminer", "Traminer Aromatico (Italy)", "Traminer Rosa", "Tramini (Hungary)", "Savagnin Rose Aromatique", "Clevner (historical)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Gewürztraminer is an aromatic mutation of Savagnin (Traminer) with pink-red skin color. The parent variety Traminer is one of the oldest known cultivated grapes.",
+      "parents": [
+        {
+          "name": "Savagnin (Traminer)",
+          "slug": "savagnin",
+          "confirmed": true,
+          "notes": "Gewürztraminer is a pink-skinned aromatic mutation of Savagnin/Traminer. The mutation likely occurred in the 19th century.",
+          "evidence": "DNA analysis (Regner et al.)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Savagnin Blanc",
+          "type": "color_mutation",
+          "description": "The original green-skinned form, used for Vin Jaune in Jura."
+        },
+        {
+          "variety": "Savagnin Rose",
+          "type": "color_mutation",
+          "description": "Pink-skinned mutation without the intense aromatics of Gewürztraminer."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Gewürztraminer demonstrates how mutation can dramatically alter a grape's character. While genetically identical to Savagnin except for aromatic and color genes, Gewürztraminer produces radically different wines, among the most distinctive in the world."
+    },
+    "clones": [
+      {
+        "name": "Clone 47",
+        "origin": "France",
+        "characteristics": "French certified clone with intense aromatics. Selected for typicity and consistency.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Alsace"]
+      },
+      {
+        "name": "Clone 643",
+        "origin": "France",
+        "characteristics": "French selection for cooler site adaptation. Good aromatic intensity with slightly higher acidity.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Alsace"]
+      },
+      {
+        "name": "Clone 648",
+        "origin": "France",
+        "characteristics": "More recent French selection with disease tolerance and quality characteristics.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Alsace", "Germany"]
+      },
+      {
+        "name": "Alsace Heritage Selection",
+        "origin": "Alsace, France",
+        "characteristics": "Massal selections from grand cru vineyards. Lower yields, intense aromatics, complex character. These selections preserve genetic diversity and site adaptation developed over generations.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Alsace"]
+      },
+      {
+        "name": "R27 (Germany)",
+        "origin": "Germany",
+        "characteristics": "German selection from Geisenheim. Adapted to cooler conditions with good aromatic profile.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Pfalz", "Baden"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Granite",
+        "also_known_as": ["Granitic sand"],
+        "effect": "Common in Alsace Grand Cru sites. Produces elegant, mineral wines with focused aromatics and good acidity. Excellent drainage prevents the variety's tendency toward excessive vigor.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Lychee, rose, mineral, precise, elegant"
+        },
+        "regions": ["Alsace", "Alto Adige"]
+      },
+      {
+        "soil": "Limestone-Marl",
+        "also_known_as": ["Calcaire", "Marnes"],
+        "effect": "Found in many Alsace grand crus. Produces powerful, structured wines with pronounced spice notes and excellent aging potential.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "aromatics": "Rose, lychee, ginger, spice, smoke"
+        },
+        "regions": ["Alsace"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Found in the Kaiserstuhl (Baden) and parts of Alto Adige. Mineral complexity with intense aromatics and structure.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Spice, rose, smoke, mineral"
+        },
+        "regions": ["Baden", "Alto Adige"]
+      },
+      {
+        "soil": "Clay-Loess",
+        "effect": "Found in parts of Alsace and Germany. Produces richer, more opulent wines with lower acidity. Risk of excessive vigor.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low",
+          "aromatics": "Lychee, tropical, rich, broad"
+        },
+        "regions": ["Alsace", "Pfalz"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure and Millerandage",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Highly susceptible to poor fruit set. Cool or wet weather during flowering can dramatically reduce yields.",
+          "impact_on_wine": "Naturally low yields, increased concentration"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate to high",
+          "type": "fungal",
+          "notes": "Thin skins and tight clusters make Gewürztraminer susceptible. Can be problematic or beneficial for late-harvest styles.",
+          "impact_on_wine": "Noble rot produces great dessert wines; grey rot is damaging"
+        },
+        {
+          "disease": "Powdery Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Some susceptibility, requiring standard spray programs.",
+          "impact_on_wine": "Crop damage if untreated"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Winter Cold",
+          "level": "good",
+          "notes": "Reasonably winter-hardy, important for Alsace and Germany. Late budding helps avoid spring frost."
+        }
+      ],
+      "general_notes": "Gewürztraminer is a difficult variety to cultivate and vinify. It buds late but ripens early, with naturally low acidity and high sugar accumulation. The variety is prone to excessive vigor on fertile soils, requiring careful site selection and canopy management. Low yields are typical and necessary for quality. The thick, pink-red skins contribute phenolics that give the wine its characteristic texture and deep color. Winemakers must balance sugar, acidity, and phenolic extraction carefully."
+    },
+    "regional_expressions": [
+      {
+        "region": "Alsace",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental with warm, dry autumns",
+        "soils": ["Granite", "Limestone-marl", "Volcanic", "Clay"],
+        "style_summary": "The world's finest Gewürztraminer region and one of Alsace's four noble varieties. The protected mesoclimate of the Vosges foothills allows full ripeness while retaining character. Styles range from dry (though rarely bone dry) to opulent late-harvest expressions. Grand Cru sites produce wines of remarkable depth and aging potential.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "tannin": "N/A",
+          "aromatics": "Lychee, rose petal, ginger, exotic spice, Turkish delight, smoke"
+        },
+        "key_appellations": [
+          { "name": "Alsace Grand Cru", "style": "Concentrated, site-specific, age-worthy" },
+          { "name": "Alsace AOC", "style": "Range from dry to off-dry" },
+          { "name": "Vendange Tardive", "style": "Late harvest, concentrated, often sweet" },
+          { "name": "Selection de Grains Nobles", "style": "Botrytis-affected, lusciously sweet" }
+        ],
+        "notable_producers": ["Zind-Humbrecht", "Trimbach", "Weinbach", "Josmeyer", "Albert Mann", "Marcel Deiss"],
+        "aging_potential": "5-20+ years (Grand Cru)",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Alto Adige (Sudtirol)",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Alpine-Mediterranean",
+        "soils": ["Granite", "Porphyry", "Limestone"],
+        "style_summary": "The variety's ancestral home around Tramin produces excellent, often more restrained expressions than Alsace. Cool nights preserve acidity, resulting in elegant, food-friendly wines. Local name is Traminer Aromatico.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Rose, lychee, spice, mineral, refined"
+        },
+        "notable_producers": ["Tramin", "Hofstatter", "Elena Walch", "Cantina Terlano"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Germany (Pfalz, Baden)",
+        "country": "Germany",
+        "importance": "moderate",
+        "climate": "Continental",
+        "soils": ["Basalt", "Loess", "Limestone"],
+        "style_summary": "Small but quality-focused production, particularly in the warmer Pfalz and Baden regions. German versions often show more restraint than Alsace, with better acidity retention.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Rose, lychee, spice, refined"
+        },
+        "notable_producers": ["Dr. Bürklin-Wolf", "Muller-Catoir", "Bercher"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "New Zealand",
+        "country": "New Zealand",
+        "importance": "moderate",
+        "climate": "Cool maritime",
+        "soils": ["Various"],
+        "style_summary": "Small plantings in cooler regions like Central Otago and Gisborne. Cool climate preserves acidity, producing fresher, more aromatic styles than classic regions.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "N/A",
+          "aromatics": "Rose, lychee, citrus, fresh"
+        },
+        "notable_producers": ["Dry River", "Framingham"],
+        "aging_potential": "2-6 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Oregon",
+        "country": "USA",
+        "importance": "emerging",
+        "climate": "Cool continental",
+        "soils": ["Volcanic", "Sedimentary"],
+        "style_summary": "Small but growing plantings, particularly in the Willamette Valley. Oregon's cool climate suits the variety well, producing wines with good aromatic intensity and better acidity than warmer regions.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Rose, lychee, spice, citrus"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

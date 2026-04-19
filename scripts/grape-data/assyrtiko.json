@@ -1,0 +1,210 @@
+{
+  "name": "ASSYRTIKO",
+  "level_2": {
+    "origins_history": "Assyrtiko is indigenous to the Greek Aegean Islands, most likely originating on Santorini. DNA profiling has suggested a possible parent-offspring relationship with two other Aegean varieties, Gaidouria and Platani, though this requires further confirmation.\n\nVarious etymology theories have been proposed, including derivation from 'assyrico' (Assyrian) suggesting Mesopotamian origins, or from 'seri,' the local pronunciation of 'sherry,' implying Spanish introduction. However, genetic testing has found no link with either Spanish or Near Eastern varieties, making Assyrtiko's Aegean origin more likely.\n\nThe variety represents about 80% of grape production on Santorini, where many vineyards are ungrafted (own-rooted) since the island is considered phylloxera-free. Some estimates suggest vine root systems may be 500 years old. The unique basket-shaped 'kouloura' training system, where canes are woven nest-like around the fruit, protects grapes from the fierce Aegean winds and preserves moisture in the volcanic soils.\n\nAssyrtiko has attracted significant international interest due to its remarkable ability to retain acidity even in extreme heat, making it a candidate for climate change adaptation. Experimental plantings now exist in Australia, California, South Africa, and France.",
+    "synonyms": ["Assirtico", "Assyrtico", "Asyrtico", "Asyrtiko"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Assyrtiko is an ancient grape indigenous to the Aegean Islands with possible genetic relationships to other Greek varieties. DNA analysis has ruled out connections to Spanish or Near Eastern grapes despite folk etymology suggestions.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Parentage unconfirmed. DNA profiling suggests a possible parent-offspring relationship with Gaidouria and Platani, both Aegean varieties, but this requires further confirmation.",
+          "evidence": "DNA profiling (Myles et al. 2011) suggests relationships but direction unclear"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "related_varieties": [
+        {
+          "name": "FlaskAssyrtiko",
+          "relationship": "distinct variety",
+          "notes": "Sometimes confused as a clone, but is a distinct and currently unidentified variety."
+        },
+        {
+          "name": "Arseniko",
+          "relationship": "virus-affected Assyrtiko",
+          "notes": "Not a separate variety but virus-affected Assyrtiko vines."
+        }
+      ],
+      "genetic_significance": "Assyrtiko's ability to retain high tartaric acid levels even in extreme heat is genetically unusual among white varieties. This characteristic, combined with its adaptation to volcanic soils and phylloxera resistance when ungrafted, makes it of significant interest for climate change research and breeding programs."
+    },
+    "clones": [
+      {
+        "name": "UC Davis FPS",
+        "origin": "Greece, via UC Davis",
+        "characteristics": "Material obtained by Professor Harold Olmo directly from a colleague at the University of Athens in 1948. Source for most American plantings including the Lodi Assyrtiko project.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["California"]
+      },
+      {
+        "name": "Santorini heritage selections",
+        "origin": "Santorini, Greece",
+        "characteristics": "Ungrafted, own-rooted vines often centuries old. Material preserved through the kouloura training system. No formal clonal selection program, but de facto selection through centuries of cultivation on volcanic soils.",
+        "yield": "very low",
+        "berry_size": "large",
+        "regions": ["Santorini"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic (Santorini type)",
+        "also_known_as": ["Pumice", "Volcanic ash", "Basalt"],
+        "effect": "Santorini's volcanic soil is rich in minerals (iron, calcium, magnesium, potassium) but contains very little potassium, which is beneficial for creating acidity in grapes. The absence of clay means plots do not retain water or sustain organic matter, keeping yields dramatically low but intensifying flavors. The high pH (close to 8.0) and phylloxera-free conditions allow ungrafted cultivation.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Very high",
+          "aromatics": "Intense mineral, citrus, saline, wet stone"
+        },
+        "regions": ["Santorini"],
+        "notable_vineyards": ["Monolithos", "Akrotiri", "Megalochori"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Found in New World plantings like Lodi, California. Sandy, silica-rich soils provide similar benefits to volcanic ash: good drainage, phylloxera resistance potential, and water stress that concentrates flavors. Wines tend to be slightly broader and more fruit-forward than Santorini.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Citrus, stone fruit, mineral"
+        },
+        "regions": ["Lodi (California)", "Clare Valley (Australia)"]
+      },
+      {
+        "soil": "Limestone-Clay (Northern Greece)",
+        "effect": "In Drama and Halkidiki, limestone and clay soils with cooler temperatures produce broader, more fruity wines while retaining freshness. Often blended rather than made as single varietals.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "High",
+          "aromatics": "Ripe citrus, stone fruit, less overt minerality"
+        },
+        "regions": ["Drama", "Halkidiki"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oxidation",
+          "severity": "high",
+          "type": "winemaking",
+          "notes": "Despite producing structured, age-worthy wines, Assyrtiko juice has a tendency to oxidize during winemaking, requiring careful handling and often protective techniques.",
+          "impact_on_wine": "Requires reductive winemaking for fresh styles; managed oxidation can add complexity"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Downy Mildew",
+          "level": "good",
+          "notes": "Good resistance to downy mildew (peronospora)."
+        },
+        {
+          "condition": "Powdery Mildew",
+          "level": "good",
+          "notes": "Good resistance to powdery mildew (oidium)."
+        },
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Excellent drought resistance, thriving in Santorini's arid conditions with minimal rainfall. Hard wood also protects from wind damage."
+        }
+      ],
+      "general_notes": "Assyrtiko is well-adapted to extreme conditions. Vigorous and relatively productive despite drought stress. Very late budding and late ripening. Compact clusters of large berries retain exceptionally high levels of tartaric acid even in extreme heat, a key characteristic that distinguishes it from most white varieties. The variety is being studied as a potential climate change adaptation grape."
+    },
+    "regional_expressions": [
+      {
+        "region": "Santorini",
+        "country": "Greece",
+        "importance": "benchmark",
+        "climate": "Mediterranean, extremely arid, intense winds",
+        "soils": ["Volcanic pumice", "Basalt", "Volcanic ash"],
+        "style_summary": "The definitive expression of Assyrtiko. Represents about 80% of island plantings, with many vineyards ungrafted and centuries old. The kouloura (basket) training system protects grapes from wind. Produces powerful, intensely mineral dry whites with razor-sharp acidity. Also used for Vinsanto sweet wines (sun-dried). Some producers use oak aging for more complex expressions.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Very high",
+          "tannin": "N/A",
+          "aromatics": "Citrus, wet stone, saline, mineral, volcanic ash, often with petrol notes with age"
+        },
+        "key_appellations": [
+          { "name": "Santorini PDO", "style": "Dry, mineral, intense" },
+          { "name": "Vinsanto (Santorini)", "style": "Sweet, from sun-dried grapes, amber, honeyed, dried fruit" }
+        ],
+        "wine_styles": ["Dry unoaked", "Dry oaked", "Vinsanto (sweet)"],
+        "notable_producers": ["Argyros", "Hatzidakis", "Sigalas", "Domaine Sigalas", "Gaia Wines", "Boutaris", "Santo Wines (Co-op)"],
+        "aging_potential": "5-15 years for dry; decades for Vinsanto",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Northern Greece",
+        "country": "Greece",
+        "importance": "major",
+        "climate": "Continental to Mediterranean",
+        "soils": ["Limestone", "Clay", "Various"],
+        "style_summary": "Assyrtiko planted in Attiki, Drama, and Halkidiki produces broader, more fruit-forward wines that are still full-bodied and fresh. Often blended with other varieties like Sauvignon Blanc or Semillon. Biblia Chora is the benchmark producer for mainland Assyrtiko.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Ripe citrus, stone fruit, less mineral than Santorini"
+        },
+        "notable_producers": ["Biblia Chora", "Kir-Yianni", "Gerovassiliou"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Lodi",
+        "country": "United States (California)",
+        "importance": "minor",
+        "climate": "Mediterranean, hot, arid summers",
+        "soils": ["Sandy loam"],
+        "style_summary": "Pioneered by the Perlegos Family starting in 2018. Own-rooted vines planted in sandy loam soils reminiscent of Santorini conditions. First harvest in 2021. The sandy, silica-rich soils provide phylloxera resistance. Still experimental but showing promise for hot-climate white wine production.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, mineral, stone fruit"
+        },
+        "notable_producers": ["Perlegos Family", "Markus Wine Co."],
+        "aging_potential": "2-5 years",
+        "price_range": "$$"
+      },
+      {
+        "region": "Clare Valley",
+        "country": "Australia",
+        "importance": "minor",
+        "climate": "Continental, extreme",
+        "soils": ["Various"],
+        "style_summary": "Jim Barry Wines pioneered Australian Assyrtiko in the 2000s, drawn by the variety's ability to retain acidity in heat. Clare Valley's experience with extreme temperatures makes it a logical fit for the variety.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, tropical hints, mineral"
+        },
+        "notable_producers": ["Jim Barry Wines"],
+        "aging_potential": "2-5 years",
+        "price_range": "$$"
+      },
+      {
+        "region": "Languedoc",
+        "country": "France",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Experimental plantings since 2015, authorized as an auxiliary variety (up to 5%) for Languedoc wines since 2024. Chateau La Roque in Pic Saint-Loup planted 0.5 hectares in 2016. Vines reportedly resisted the 2019 heatwave better than vermentino, grenache, or carignan.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, mineral"
+        },
+        "notable_producers": ["Chateau La Roque"],
+        "aging_potential": "2-5 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

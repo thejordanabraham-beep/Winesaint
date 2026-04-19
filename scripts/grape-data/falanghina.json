@@ -1,0 +1,174 @@
+{
+  "name": "FALANGHINA BENEVENTANA",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Falanghina Beneventana is indigenous to Campania. DNA analysis confirms it is distinct from Falanghina Flegrea, which was previously considered the same variety.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to Campania, possibly dating to Roman era.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Falanghina Flegrea",
+          "slug": null,
+          "relationship": "Distinct variety with same name",
+          "notes": "DNA confirms these are separate varieties despite historical treatment as one. Falanghina Flegrea is found in Campi Flegrei."
+        }
+      ],
+      "genetic_significance": "The distinction between Falanghina Beneventana and Falanghina Flegrea demonstrates how DNA analysis continues to clarify Italian ampelography. Both varieties are now recognized as distinct genetic entities."
+    },
+    "clones": [
+      {
+        "name": "Clone ISV-F1",
+        "origin": "Campania, Italy",
+        "characteristics": "Standard certified clone with good aromatic intensity and bitter almond finish.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Sannio", "Taburno"]
+      },
+      {
+        "name": "Clone ISV-F2",
+        "origin": "Campania, Italy",
+        "characteristics": "Selected for enhanced floral aromatics and freshness.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Campania"]
+      },
+      {
+        "name": "Taburno Selection",
+        "origin": "Taburno, Campania",
+        "characteristics": "Massal selections from the Taburno hills. More structured wines with aging potential.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Taburno"]
+      },
+      {
+        "name": "Benevento Heritage Selection",
+        "origin": "Benevento, Campania",
+        "characteristics": "Old vine selections preserving traditional character. Intense aromatics with pronounced bitter almond.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Sannio"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic",
+        "effect": "Common throughout Campania. Produces wines with mineral intensity and aromatic complexity. The volcanic origin contributes to the variety's distinctive character.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, herbs, bitter almond"
+        },
+        "regions": ["Sannio", "Campania"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Found in parts of Sannio. Produces rounder, more textured wines with softer acidity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, citrus, herbs"
+        },
+        "regions": ["Sannio", "Taburno"]
+      },
+      {
+        "soil": "Tufo (Volcanic Tuff)",
+        "effect": "Similar to Greco di Tufo soils. Produces more mineral, age-worthy wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, mineral, herbs, bitter almond"
+        },
+        "regions": ["Irpinia"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid conditions.",
+          "impact_on_wine": "Requires management in wet years"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Well-adapted to southern Italian conditions."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Performs well in dry summers."
+        }
+      ],
+      "general_notes": "Falanghina is a mid-ripening variety that maintains good acidity in warm climates. The variety's aromatic profile develops best with careful temperature-controlled fermentation. The characteristic bitter almond finish distinguishes it from other Italian whites and is most pronounced in wines from volcanic soils."
+    },
+    "regional_expressions": [
+      {
+        "region": "Falanghina del Sannio DOC",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Volcanic", "Clay-limestone"],
+        "style_summary": "The heartland of Falanghina production around Benevento. Produces fresh, aromatic wines with characteristic floral notes and bitter almond finish. Quality has improved dramatically with modern winemaking techniques.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, peach, bitter almond, herbs"
+        },
+        "notable_producers": ["Mastroberardino", "Feudi di San Gregorio", "La Guardiense", "Fontanavecchia"],
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Taburno DOCG",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean with hill influence",
+        "soils": ["Clay-limestone", "Volcanic"],
+        "style_summary": "Hillside appellation producing more structured Falanghina with greater aging potential. The elevation and soil diversity create wines of more complexity than typical Sannio examples.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, stone fruit, mineral, bitter almond"
+        },
+        "notable_producers": ["Fontanavecchia", "Fattoria La Rivolta"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Campania IGT",
+        "country": "Italy",
+        "importance": "emerging",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Regional designation used by producers seeking flexibility. Some innovative winemakers use it for skin-contact or barrel-fermented versions. Quality varies but can offer good value.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs, stone fruit"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

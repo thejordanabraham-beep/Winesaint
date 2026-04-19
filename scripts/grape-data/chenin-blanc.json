@@ -1,0 +1,356 @@
+{
+  "name": "CHENIN BLANC",
+  "level_2": {
+    "origins_history": "Chenin Blanc originated in Anjou in the Val de Loire, France. The first likely mention appeared in 1496 when Thomas Bohier imported 'Plant d'Anjou' to his estate at Chenonceau. Between 1520 and 1535, Denis Briconnet, Abbot of Cormery in Touraine, planted various varieties from across France at the monastery of Montchenin, where the Plant d'Anjou proved best suited. The variety was likely named after this monastery, from which it spread across Touraine and eventually returned to Anjou under its new name.\n\nThe first written mention of the name Chenin Blanc appeared in 1534 in Rabelais's Gargantua, where he praised 'large chenin grapes' and 'pineau wine.' In Touraine, Chenin was also called Gros Pineau, distinguishing it from Menu Pineau (Arbois Blanc).\n\nChenin Blanc produces one of the widest arrays of wine styles of any single variety, from bone-dry to intensely sweet, still to sparkling. The variety is notable for its naturally high acidity, which allows wines to age for decades while remaining fresh. South Africa has the largest plantings, where it was known as Steen until the mid-1960s when its true identity was confirmed.",
+    "synonyms": ["Agudelo (Spain)", "Blanc d'Aunis", "Capbreton Blanc (Landes)", "Franc Blanc (Aveyron)", "Gros Chenin", "Gros Pineau (Touraine)", "Pineau d'Anjou", "Pineau de la Loire", "Plant d'Anjou", "Ronchalin", "Rouchelin (Gironde)", "Steen (South Africa)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Chenin Blanc has a confirmed parent-offspring relationship with Savagnin. Probabilistic DNA analysis indicates that Chenin Blanc, Trousseau, and Sauvignon Blanc are likely siblings, all offspring of Savagnin and an unknown second parent. This relationship makes Chenin Blanc an uncle or aunt of Cabernet Sauvignon.",
+      "parents": [
+        {
+          "name": "Savagnin",
+          "slug": "savagnin",
+          "confirmed": true,
+          "notes": "DNA analysis confirmed a parent-offspring relationship. Savagnin is also parent to Sauvignon Blanc and Trousseau.",
+          "evidence": "DNA parentage analysis (Regner 1999; Myles et al. 2011)"
+        },
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "The second parent remains unidentified. The same unknown parent produced Sauvignon Blanc and Trousseau as siblings.",
+          "evidence": "Probabilistic DNA analysis (Myles et al. 2011)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Colombard",
+          "slug": "colombard",
+          "other_parent": "Gouais Blanc",
+          "cross_type": "natural",
+          "importance": "major",
+          "notes": "Important variety in Cognac region and for brandy production. Also used for wine, particularly in California and South Africa."
+        },
+        {
+          "name": "Balzac Blanc",
+          "slug": null,
+          "other_parent": "Gouais Blanc",
+          "cross_type": "natural",
+          "importance": "minor",
+          "notes": "Rare French variety. DNA confirmed parentage (Bowers et al. 2000)."
+        },
+        {
+          "name": "Meslier Saint-Francois",
+          "slug": null,
+          "other_parent": "Gouais Blanc",
+          "cross_type": "natural",
+          "importance": "minor",
+          "notes": "French variety also known as Petit Meslier. DNA confirmed parentage (Bowers et al. 2000)."
+        },
+        {
+          "name": "Chenel",
+          "slug": null,
+          "other_parent": "Trebbiano Toscano (Ugni Blanc)",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Bred in South Africa by Christiaan Orffer at University of Stellenbosch, released 1974."
+        }
+      ],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Sauvignon Blanc",
+          "slug": "sauvignon-blanc",
+          "relationship": "probable sibling",
+          "shared_parent": "Savagnin",
+          "notes": "Probabilistic DNA analysis suggests they share the same parents (Myles et al. 2011)."
+        },
+        {
+          "name": "Trousseau",
+          "slug": "trousseau",
+          "relationship": "probable sibling",
+          "shared_parent": "Savagnin",
+          "notes": "Probabilistic DNA analysis suggests they share the same parents (Myles et al. 2011)."
+        }
+      ],
+      "genetic_significance": "Chenin Blanc's genetic relationship to Sauvignon Blanc as a probable sibling, and through it to Cabernet Sauvignon as an uncle or aunt, places it within one of the most important grape family networks. Its offspring Colombard is significant for brandy production. The variety belongs to the Messile ampelographic group."
+    },
+    "clones": [
+      {
+        "name": "Clone 220",
+        "origin": "France",
+        "characteristics": "One of the most widely planted clones. Balanced production with good aromatic intensity. Suitable for both dry and sweet wine production.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire", "South Africa", "California", "New Zealand"]
+      },
+      {
+        "name": "Clone 880",
+        "origin": "France",
+        "characteristics": "Quality-focused selection. Produces concentrated wines with good acidity retention. Well-suited to sparkling wine production.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire", "South Africa", "Australia"]
+      },
+      {
+        "name": "Clone 278",
+        "origin": "France",
+        "characteristics": "Certified French clone. Part of the official ENTAV selection program.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "Clone 416",
+        "origin": "France",
+        "characteristics": "One of eight officially certified Chenin B clones in France.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "Clone 417",
+        "origin": "France",
+        "characteristics": "Certified French clone. Complementary to other ENTAV selections.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "Clone 624",
+        "origin": "France",
+        "characteristics": "Quality-focused selection. Part of the core certified clone group.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "Clone 982",
+        "origin": "France",
+        "characteristics": "Certified French clone with improved characteristics.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "Clone 1018",
+        "origin": "France",
+        "characteristics": "Later selection with delayed budding, reducing spring frost risk. Improved sugar development during ripening.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "South African Bushvine Selections",
+        "origin": "South Africa",
+        "characteristics": "Old bushvine material, some over 40 years old. Unirrigated, low-yielding vines producing concentrated wines. These represent one of the most valuable resources in South African viticulture.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Swartland", "Stellenbosch", "Paarl"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Tuffeau (Loire Limestone)",
+        "also_known_as": ["Tufa", "Chalky limestone"],
+        "effect": "The signature soil of Vouvray and Savennieres. Porous tuffeau limestone provides excellent drainage while the caves carved into it maintain ideal conditions for aging. Contributes mineral character and tension to wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Honey, quince, wet wool, mineral, lanolin"
+        },
+        "regions": ["Vouvray", "Savennieres", "Montlouis"]
+      },
+      {
+        "soil": "Schist (Savennieres)",
+        "effect": "Dark schist soils in parts of Savennieres absorb and retain heat, helping achieve full ripeness. Provides distinct mineral character and a flintier, more austere wine style.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "High",
+          "aromatics": "Flint, smoke, honey, quince, cordite"
+        },
+        "regions": ["Savennieres", "Coulee de Serrant"]
+      },
+      {
+        "soil": "Sandy-Loam (Loire)",
+        "effect": "Found in parts of Anjou and Saumur. Lighter soils produce more immediately accessible wines with softer fruit character.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "aromatics": "Apple, pear, citrus"
+        },
+        "regions": ["Anjou", "Saumur"]
+      },
+      {
+        "soil": "Granite (South Africa)",
+        "effect": "The weathered granite soils of Swartland and Stellenbosch provide excellent drainage and vine stress, particularly important for old bushvines. Produces concentrated, mineral-driven wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "aromatics": "Stone fruit, honey, lanolin, mineral"
+        },
+        "regions": ["Swartland", "Stellenbosch"]
+      },
+      {
+        "soil": "Decomposed Shale (South Africa)",
+        "effect": "Malmesbury shale is common in the Cape winelands. Provides good drainage and mineral complexity to wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "aromatics": "Stone fruit, tropical notes, honey"
+        },
+        "regions": ["Swartland", "Paarl"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis Bunch Rot",
+          "severity": "very high",
+          "type": "fungal",
+          "notes": "Extremely susceptible to botrytis. While this is problematic for dry wine production, controlled noble rot is essential for the great sweet wines of Vouvray, Bonnezeaux, and Quarts de Chaume.",
+          "impact_on_wine": "Devastating for dry wines; beneficial for sweet wines when properly managed"
+        },
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Very susceptible to powdery mildew (oidium). Requires careful canopy management and preventive treatments.",
+          "impact_on_wine": "Reduces quality, can cause off-flavors"
+        },
+        {
+          "disease": "Wood Diseases",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Susceptible to trunk diseases including esca and eutypa. A significant concern for older vineyard plantings.",
+          "impact_on_wine": "Vine decline and death"
+        }
+      ],
+      "resistances": [],
+      "general_notes": "Chenin Blanc is vigorous and fertile, though production potential depends greatly on soil fertility. The variety buds early, making it vulnerable to spring frosts. After frost damage, secondary buds have very low fertility, making site selection critical. The variety ripens mid-season and retains naturally high acidity even in warm conditions, a key characteristic that makes it versatile across wine styles."
+    },
+    "regional_expressions": [
+      {
+        "region": "Loire Valley (Vouvray)",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental, Atlantic influence",
+        "soils": ["Tuffeau limestone", "Clay-limestone"],
+        "style_summary": "Vouvray produces the full spectrum of Chenin styles: dry (sec), off-dry (sec-tendre), medium-sweet (demi-sec), sweet (moelleux), and sparkling. The best sweet Vouvrays from botrytized grapes can age for decades, developing honeyed complexity while retaining vibrant acidity. Sparkling Vouvray is characterized by a tight bead and honey-edged freshness.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Quince, honey, chamomile, wet wool, apple, lanolin"
+        },
+        "key_appellations": [
+          { "name": "Vouvray AOC", "style": "Full range from dry to sweet, still and sparkling" },
+          { "name": "Vouvray Moelleux", "style": "Sweet, botrytized" }
+        ],
+        "notable_producers": ["Domaine Huet", "Domaine Foreau", "Francois Chidaine", "Domaine Champalou"],
+        "aging_potential": "10-50+ years for sweet wines; 5-15 years for dry",
+        "price_range": "$ to $$$$"
+      },
+      {
+        "region": "Loire Valley (Savennieres)",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental, Atlantic influence",
+        "soils": ["Schist", "Volcanic", "Sandstone"],
+        "style_summary": "Savennieres produces the Loire's most powerful dry Chenin Blanc, often with mineral intensity described as 'cordite' or 'gunflint.' The wines are typically austere when young, requiring years of bottle age to show their full complexity. Coulee de Serrant and Roche aux Moines are the most prestigious crus.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Flint, smoke, quince, honey, cordite, mineral"
+        },
+        "key_appellations": [
+          { "name": "Savennieres AOC", "style": "Powerful dry Chenin" },
+          { "name": "Savennieres-Coulee de Serrant", "style": "Most concentrated, mineral-driven" },
+          { "name": "Savennieres-Roche aux Moines", "style": "Complex, age-worthy" }
+        ],
+        "notable_producers": ["Nicolas Joly (Coulee de Serrant)", "Domaine des Baumard", "Chateau d'Epire", "Domaine du Closel"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Loire Valley (Coteaux du Layon)",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental",
+        "soils": ["Schist", "Volcanic"],
+        "style_summary": "The Coteaux du Layon and its superior appellations Bonnezeaux and Quarts de Chaume produce some of the world's greatest sweet wines. Noble rot concentrates sugars while the variety's naturally high acidity maintains freshness. These wines can age for generations.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Apricot, honey, quince paste, candied citrus, saffron"
+        },
+        "key_appellations": [
+          { "name": "Bonnezeaux AOC", "style": "Intensely sweet, botrytized" },
+          { "name": "Quarts de Chaume AOC", "style": "Rich sweet wine, noble rot essential" },
+          { "name": "Coteaux du Layon", "style": "Sweet wines, various sweetness levels" }
+        ],
+        "notable_producers": ["Domaine des Baumard", "Chateau de Fesles", "Philippe Delesvaux"],
+        "aging_potential": "20-50+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "South Africa",
+        "country": "South Africa",
+        "importance": "benchmark",
+        "climate": "Mediterranean, warm",
+        "soils": ["Granite", "Shale", "Sandstone"],
+        "style_summary": "South Africa has the world's largest Chenin Blanc plantings, about 18,000 hectares. While much is used for bulk wine and brandy, a growing movement celebrates old bushvine Chenin as one of South Africa's most valuable assets. These unirrigated, low-yielding vines produce concentrated, complex dry whites. Known as Steen until the mid-1960s.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Stone fruit, honey, lanolin, tropical fruit, beeswax"
+        },
+        "key_appellations": [
+          { "name": "Swartland", "style": "Concentrated, mineral, old-vine driven" },
+          { "name": "Stellenbosch", "style": "Rich, age-worthy dry whites" }
+        ],
+        "notable_producers": ["Adi Badenhorst", "Mullineux", "Ken Forrester", "Eben Sadie", "De Trafford", "De Morgenzon", "Rudera"],
+        "aging_potential": "5-15 years for top dry wines",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "minor",
+        "climate": "Mediterranean to warm",
+        "soils": ["Various"],
+        "style_summary": "About 7,000 acres remain in California, down from much larger plantings. Most is grown in the Central Valley for blending, valued for its acidity. Quality varietal examples come from cooler sites like Clarksburg AVA. The variety is underappreciated in the US market.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Apple, pear, citrus, melon"
+        },
+        "notable_producers": ["Dry Creek Vineyard", "Casa Nuestra", "Foxen (Ernesto Wickenden Vineyard)"],
+        "aging_potential": "2-8 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "New Zealand",
+        "country": "New Zealand",
+        "importance": "minor",
+        "climate": "Cool maritime",
+        "soils": ["Various"],
+        "style_summary": "Only about 50 hectares remain. Millton Vineyard in Gisborne is virtually the sole proponent, producing consistently excellent Te Arai bottling that demonstrates the variety's potential in cool maritime climates.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Apple, citrus, honey, mineral"
+        },
+        "notable_producers": ["Millton Vineyard"],
+        "aging_potential": "5-10 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

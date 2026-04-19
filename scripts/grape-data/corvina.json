@@ -1,0 +1,205 @@
+{
+  "name": "CORVINA VERONESE",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Corvina is an indigenous Veronese variety with no confirmed parentage. DNA studies confirm it is distinct from other Italian varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to the Verona area.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Rondinella",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Traditional blending partner is actually an offspring of Corvina."
+        },
+        {
+          "name": "Dindarella",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Rare local variety, offspring of Corvina."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Corvina's genetic isolation confirms its status as a founding variety of Veronese viticulture. The discovery that Rondinella is its offspring explains why the two varieties blend so successfully."
+    },
+    "clones": [
+      {
+        "name": "Clone ISV-CV 48",
+        "origin": "Veneto, Italy",
+        "characteristics": "Standard certified clone with good color and structure. Reliable performance.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Valpolicella"]
+      },
+      {
+        "name": "Clone ISV-CV 3",
+        "origin": "Veneto, Italy",
+        "characteristics": "Selected for aromatic intensity and suitability for appassimento.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Valpolicella Classico"]
+      },
+      {
+        "name": "Valpolicella Heritage Selection",
+        "origin": "Valpolicella Classico, Italy",
+        "characteristics": "Old vine massal selections. Concentrated fruit ideal for Amarone production.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Valpolicella Classico"]
+      },
+      {
+        "name": "Clone R5",
+        "origin": "Veneto, Italy",
+        "characteristics": "Higher-yielding clone suitable for lighter Valpolicella styles.",
+        "yield": "high",
+        "berry_size": "medium",
+        "regions": ["Valpolicella"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone",
+        "also_known_as": ["Calcareous"],
+        "effect": "Found in Valpolicella Classico's hillside vineyards. Produces the most elegant, mineral wines with characteristic almond notes.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Cherry, almond, herbs, mineral"
+        },
+        "regions": ["Valpolicella Classico"]
+      },
+      {
+        "soil": "Volcanic (Basalt)",
+        "effect": "Found in the Soave border area and parts of eastern Valpolicella. Produces more structured, powerful wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Dark cherry, spice, mineral"
+        },
+        "regions": ["Valpolicella", "Soave border"]
+      },
+      {
+        "soil": "Alluvial Clay",
+        "effect": "Found in the plains. Produces lighter, simpler wines suitable for everyday drinking.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "tannin": "Light",
+          "aromatics": "Cherry, simple fruit"
+        },
+        "regions": ["Valpolicella DOC (plains)"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected during appassimento if conditions are not properly controlled.",
+          "impact_on_wine": "Requires careful drying conditions for Amarone"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drying (Appassimento)",
+          "level": "excellent",
+          "notes": "Thick skins and loose clusters make it ideal for the drying process."
+        },
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Handles warm Veneto summers well."
+        }
+      ],
+      "general_notes": "Corvina is a late-ripening variety with thick skins that make it ideal for appassimento. The variety produces wines with characteristic sour cherry and almond notes. Relatively low tannin and moderate color require blending with Rondinella for deeper wines. The variety's ability to concentrate during drying makes it essential for Amarone production."
+    },
+    "regional_expressions": [
+      {
+        "region": "Amarone della Valpolicella DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Limestone", "Volcanic"],
+        "style_summary": "Italy's most powerful dry red wine, made from dried (appassimento) grapes. Corvina contributes elegance, cherry fruit, and aromatic complexity to the blend. Wines are rich, concentrated, and capable of decades of aging.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, velvety",
+          "aromatics": "Dried cherry, raisin, chocolate, coffee, almond, herbs"
+        },
+        "notable_producers": ["Giuseppe Quintarelli", "Dal Forno Romano", "Bertani", "Allegrini", "Tommasi"],
+        "aging_potential": "15-40+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Valpolicella Classico Superiore DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Fresh, cherry-scented wines from non-dried grapes in the historic hillside zone. Superiore indicates higher alcohol and aging. Excellent value introduction to Corvina.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Sour cherry, almond, herbs"
+        },
+        "notable_producers": ["Brigaldara", "Monte dall'Ora", "Zenato"],
+        "aging_potential": "3-8 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Valpolicella Ripasso DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Limestone", "Clay", "Volcanic"],
+        "style_summary": "Valpolicella refermented on Amarone pomace, creating a 'baby Amarone' style. Richer than standard Valpolicella but more accessible than Amarone. Very popular commercial category.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Cherry, dried fruit, spice, chocolate"
+        },
+        "notable_producers": ["Allegrini", "Zenato", "Masi"],
+        "aging_potential": "4-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Recioto della Valpolicella DOCG",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Continental",
+        "soils": ["Limestone"],
+        "style_summary": "Sweet wine from dried grapes, the historic predecessor to Amarone. Rich, concentrated, with residual sugar. Increasingly rare as producers favor dry Amarone.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Dried cherry, raisin, chocolate, spice"
+        },
+        "notable_producers": ["Giuseppe Quintarelli", "Romano Dal Forno"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$"
+      }
+    ]
+  }
+}

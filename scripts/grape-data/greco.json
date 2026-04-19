@@ -1,0 +1,175 @@
+{
+  "name": "GRECO",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Greco appears indigenous to southern Italy despite its name suggesting Greek origins. DNA studies have not confirmed any direct relationship to Greek varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Likely indigenous to Campania despite Greek-derived name.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Greco Bianco di Gerace",
+          "slug": null,
+          "relationship": "Possibly related variety",
+          "notes": "Calabrian variety sometimes confused with Greco di Tufo but DNA shows they are distinct."
+        }
+      ],
+      "genetic_significance": "Greco's Italian origin despite its Greek name demonstrates how grape names can mislead about variety origins. The variety is genetically distinct from Greek varieties despite historical assumptions."
+    },
+    "clones": [
+      {
+        "name": "Clone ISV-Gr1",
+        "origin": "Campania, Italy",
+        "characteristics": "Standard certified clone with good aromatic development and mineral character.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Tufo", "Irpinia"]
+      },
+      {
+        "name": "Clone ISV-Gr2",
+        "origin": "Campania, Italy",
+        "characteristics": "Selected for higher acidity retention and aging potential.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Tufo"]
+      },
+      {
+        "name": "Tufo Massal Selection",
+        "origin": "Tufo, Campania",
+        "characteristics": "Traditional selections from volcanic Tufo soils. Maximum mineral intensity with exceptional aging potential.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Tufo"]
+      },
+      {
+        "name": "Clone R3",
+        "origin": "Campania, Italy",
+        "characteristics": "More productive clone suitable for everyday wines while maintaining varietal character.",
+        "yield": "moderate-high",
+        "berry_size": "medium",
+        "regions": ["Campania"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic Tuff",
+        "also_known_as": ["Tufo"],
+        "effect": "The defining soil of Greco di Tufo. Porous volcanic rock provides excellent drainage and imparts distinctive mineral complexity. Produces the most age-worthy wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Citrus, almond, volcanic mineral, honey with age"
+        },
+        "regions": ["Tufo"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Found in other Campanian sites. Produces rounder, more approachable wines with less mineral intensity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, citrus, herbs"
+        },
+        "regions": ["Irpinia", "Sannio"]
+      },
+      {
+        "soil": "Sandy Volcanic",
+        "effect": "Well-drained soils producing more aromatic, earlier-drinking styles.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "White flowers, citrus, herbs"
+        },
+        "regions": ["Campania"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "low",
+          "type": "fungal",
+          "notes": "Thick skins provide some protection.",
+          "impact_on_wine": "Generally not problematic"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Well-adapted to southern Italian conditions."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Performs well in dry Campanian summers."
+        }
+      ],
+      "general_notes": "Greco is a mid-ripening variety that develops high sugar levels while maintaining acidity. The variety's thick skins contribute to structure and aging potential. Wines can be austere when young, requiring time to show their complexity. Best sites are volcanic soils at moderate elevation."
+    },
+    "regional_expressions": [
+      {
+        "region": "Greco di Tufo DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Volcanic tuff"],
+        "style_summary": "Campania's finest white wine appellation, producing structured, mineral wines from volcanic soils. The best examples can age for decades, developing remarkable complexity with honey, almond, and petrol notes.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Citrus, almond, mineral, honey, herbs"
+        },
+        "notable_producers": ["Mastroberardino", "Feudi di San Gregorio", "Benito Ferrara", "Pietracupa"],
+        "aging_potential": "5-20+ years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Irpinia DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean with mountain influence",
+        "soils": ["Clay-limestone", "Volcanic"],
+        "style_summary": "Broader Campanian appellation producing Greco in slightly softer style than Tufo. Good value alternative to the DOCG wines.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, citrus, herbs, almond"
+        },
+        "notable_producers": ["Cantine di Marzo", "Joaquin"],
+        "aging_potential": "3-8 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Campania IGT",
+        "country": "Italy",
+        "importance": "emerging",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Regional designation allowing more flexibility. Quality varies but some producers use it for innovative styles including skin-contact and barrel-aged versions.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, stone fruit, herbs"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

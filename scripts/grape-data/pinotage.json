@@ -1,0 +1,162 @@
+{
+  "name": "PINOTAGE",
+  "level_2": {
+    "origins_history": "Pinotage is South Africa's signature grape variety, created in 1925 by Professor Abraham Izak Perold at Stellenbosch University. Perold crossed Pinot Noir with Cinsaut (then called Hermitage in South Africa), hoping to combine Pinot Noir's elegance with Cinsaut's disease resistance and productivity.\n\nThe first Pinotage wines were produced in 1941, though the variety gained little attention initially. Recognition came in 1959 when a Pinotage won first prize at the Cape Wine Show, and commercial plantings expanded in the 1960s. Early wines often showed challenging volatile aromas (described as acetone or paint), which damaged the variety's reputation.\n\nModern viticulture and winemaking have largely solved these problems. Today's best Pinotages show ripe dark fruit, chocolate, and distinctive smoky, earthy character. The variety has become central to South African wine identity, though debates about its quality potential continue.",
+    "synonyms": ["None widely used"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Pinotage is a deliberate crossing of Pinot Noir and Cinsaut (Hermitage), created in South Africa in 1925.",
+      "parents": [
+        {
+          "name": "Pinot Noir",
+          "slug": "pinot-noir",
+          "confirmed": true,
+          "notes": "One parent, contributing color and structure.",
+          "evidence": "Documented crossing by Abraham Perold (1925)"
+        },
+        {
+          "name": "Cinsaut",
+          "slug": "cinsaut",
+          "confirmed": true,
+          "notes": "Second parent (called Hermitage in South Africa), contributing productivity and heat tolerance.",
+          "evidence": "Documented crossing by Abraham Perold (1925)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Pinotage represents one of the few successful deliberate crossings to become a major wine variety. Its unique parentage creates distinct characteristics not found in either parent."
+    },
+    "clones": [
+      {
+        "name": "Clone SB5/35",
+        "origin": "Stellenbosch, South Africa",
+        "characteristics": "Standard South African clone with good color and structure. Balanced yields.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Stellenbosch", "Paarl"]
+      },
+      {
+        "name": "Clone SB5/36",
+        "origin": "Stellenbosch, South Africa",
+        "characteristics": "Selected for improved quality with lower yields and smaller berries.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Stellenbosch"]
+      },
+      {
+        "name": "Bushvine Heritage Selection",
+        "origin": "Swartland, South Africa",
+        "characteristics": "Old bushvine selections from traditional dryland vineyards. Low yields, exceptional concentration, producing the finest Pinotages.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Swartland", "Stellenbosch"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Decomposed Granite",
+        "also_known_as": ["Table Mountain granite"],
+        "effect": "Found on the slopes of Stellenbosch and surrounding areas. Good drainage and mineral content. Produces structured, elegant wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, structured",
+          "aromatics": "Dark fruit, chocolate, smoke, mineral"
+        },
+        "regions": ["Stellenbosch", "Simonsberg"]
+      },
+      {
+        "soil": "Shale",
+        "also_known_as": ["Malmesbury shale"],
+        "effect": "Common in Swartland. Heat-retentive soils produce concentrated, powerful wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Ripe, robust",
+          "aromatics": "Black fruit, earth, spice, coffee"
+        },
+        "regions": ["Swartland", "Paarl"]
+      },
+      {
+        "soil": "Sandy",
+        "effect": "Coastal sites produce lighter, more aromatic wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, smoke, lighter style"
+        },
+        "regions": ["Coastal regions"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Leafroll Virus",
+          "severity": "moderate",
+          "type": "viral",
+          "notes": "Can be affected by leafroll virus, impacting ripening. Certified virus-free material recommended.",
+          "impact_on_wine": "Delayed ripening, reduced quality"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Tight clusters can be susceptible in humid conditions.",
+          "impact_on_wine": "Crop damage in wet years"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Inherited from Cinsaut parent, thrives in warm South African conditions."
+        },
+        {
+          "condition": "Wind",
+          "level": "good",
+          "notes": "Handles Cape Doctor winds well."
+        }
+      ],
+      "general_notes": "Pinotage is a vigorous variety that ripens early to mid-season. Careful winemaking is essential to avoid volatile acidity and acetone-like aromas that plagued early examples. Modern techniques including temperature control, selected yeasts, and careful oak use have largely solved these problems. Old bushvines with low yields produce the finest results."
+    },
+    "regional_expressions": [
+      {
+        "region": "Stellenbosch",
+        "country": "South Africa",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Granite", "Sandstone", "Shale"],
+        "style_summary": "South Africa's premier fine wine region produces the most refined Pinotages. Mountain slopes provide cooling breezes and varied aspects. The best wines combine power with elegance, showing dark fruit, chocolate, and distinctive smoky character.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, structured",
+          "aromatics": "Plum, mulberry, chocolate, smoke, coffee"
+        },
+        "notable_producers": ["Kanonkop", "Beyerskloof", "Simonsig", "L'Avenir"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Swartland",
+        "country": "South Africa",
+        "importance": "major",
+        "climate": "Mediterranean, warm",
+        "soils": ["Shale", "Granite", "Slate"],
+        "style_summary": "The revolutionary wine region of South Africa produces increasingly celebrated Pinotage from old bushvines. Dry-farmed vineyards and minimal intervention winemaking create concentrated, authentic expressions.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Ripe, robust",
+          "aromatics": "Black fruit, earth, smoke, spice, tar"
+        },
+        "notable_producers": ["Sadie Family", "Mullineux", "Porseleinberg"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      }
+    ]
+  }
+}

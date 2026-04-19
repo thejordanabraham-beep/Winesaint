@@ -1,0 +1,242 @@
+{
+  "name": "DOLCETTO",
+  "level_2": {
+    "origins_history": "Dolcetto is an ancient variety native to Piemonte, specifically the Monferrato hills between Acqui Terme and Ovada. The name derives from the Italian word 'dolce' (sweet), though this refers to the grape's low acidity rather than residual sugar in the wine. The earliest documented reference appears in 1593 in the communal records of Dogliani.\n\nDNA profiling confirms Dolcetto is distinct from all other known varieties, suggesting it originated locally rather than being imported. The variety spread throughout Piemonte during the 18th and 19th centuries, becoming essential to the region's wine culture. Historically, Dolcetto was the everyday wine of Piemonte, harvested and consumed before the later-ripening Nebbiolo and Barbera.\n\nThe grape's early ripening was crucial in the cool Langhe hills, where it could reliably mature even in challenging years. This made it the dependable workhorse of Piemontese viticulture, producing fresh, fruity wines for daily consumption while Nebbiolo aged in cellar.",
+    "synonyms": ["Dolcetto Nero", "Nibieù (Nizza Monferrato)", "Ormeasco (Liguria)", "Dolsin"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Dolcetto is a genetically distinct variety indigenous to Piemonte with no confirmed parentage. DNA analysis has not established relationships with other Italian varieties, suggesting it evolved independently in the Monferrato region.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "DNA analysis found no parentage relationships with other known varieties. Dolcetto appears to be indigenous to Piemonte.",
+          "evidence": "DNA studies (Schneider et al.)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Dolcetto's genetic isolation supports its status as a truly indigenous Piemontese variety. The lack of relationships to other varieties suggests it developed in the Monferrato hills over many centuries of natural selection."
+    },
+    "clones": [
+      {
+        "name": "Clone 5",
+        "origin": "Piemonte, Italy",
+        "characteristics": "One of the original certified clones from CNR research. Consistent quality with moderate yields. Widely planted across Piemonte.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Alba", "Dogliani", "Diano d'Alba"]
+      },
+      {
+        "name": "Clone 6",
+        "origin": "Piemonte, Italy",
+        "characteristics": "CNR selection with good color intensity. Produces structured wines suited to longer aging.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Alba", "Dogliani"]
+      },
+      {
+        "name": "Clone 7",
+        "origin": "Piemonte, Italy",
+        "characteristics": "Selected for aromatic intensity and fruit quality. Popular for premium bottlings.",
+        "yield": "low to moderate",
+        "berry_size": "medium",
+        "regions": ["Langhe", "Dogliani"]
+      },
+      {
+        "name": "Clone 308",
+        "origin": "Piemonte, Italy",
+        "characteristics": "Later selection focused on improved disease resistance while maintaining quality parameters.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Alba", "Ovada"]
+      },
+      {
+        "name": "Dogliani Heritage Selection",
+        "origin": "Dogliani, Piemonte, Italy",
+        "characteristics": "Massal selection from old vineyards in Dogliani township. Lower yields, concentrated flavors, excellent site expression. These selections form the backbone of the finest Dogliani DOCG wines.",
+        "yield": "low",
+        "berry_size": "small to medium",
+        "regions": ["Dogliani"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Calcareous Marl (Marne di Sant'Agata Fossili)",
+        "also_known_as": ["Tufo", "Marne"],
+        "effect": "The classic Langhe soil formation. Alkaline marls provide mineral nutrition and moderate stress, producing wines with both fruit intensity and structure. Essential for the best Dolcetto di Dogliani.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Low to medium",
+          "tannin": "Moderate, can be firm",
+          "aromatics": "Black fruit, violet, bitter almond"
+        },
+        "regions": ["Dogliani", "Alba", "Langhe"]
+      },
+      {
+        "soil": "Sandy Soils",
+        "effect": "Found in parts of Ovada and lower elevations. Produces lighter, more aromatic wines meant for early drinking. Warmer soils ripen fruit quickly.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Low",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, fresh, simple"
+        },
+        "regions": ["Ovada", "Acqui"]
+      },
+      {
+        "soil": "Tortonian Marl",
+        "effect": "Blue-grey marine marls from the Miocene era. Provides excellent drainage and mineral complexity. Found in the highest quality vineyard sites.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Fine, integrated",
+          "aromatics": "Violet, black cherry, mineral undertone"
+        },
+        "regions": ["Diano d'Alba", "Langhe"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Downy Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Notably susceptible to downy mildew, requiring vigilant spray programs in humid vintages. The compact clusters exacerbate the problem.",
+          "impact_on_wine": "Crop loss, compromised fruit quality"
+        },
+        {
+          "disease": "Drought Stress",
+          "severity": "high",
+          "type": "environmental",
+          "notes": "Particularly sensitive to drought conditions. Requires adequate water availability for proper ripening. Shallow soils or excessive competition can cause significant stress.",
+          "impact_on_wine": "Premature leaf drop, incomplete ripening, bitter tannins"
+        },
+        {
+          "disease": "Potassium Deficiency",
+          "severity": "moderate",
+          "type": "nutritional",
+          "notes": "Prone to potassium deficiency, especially on calcareous soils. Requires careful soil management.",
+          "impact_on_wine": "Poor ripening, unbalanced wines"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Early Ripening",
+          "level": "excellent",
+          "notes": "Dolcetto's early ripening (three weeks before Nebbiolo) allows it to avoid autumn rains and ensures reliable harvests."
+        },
+        {
+          "condition": "Winter Cold",
+          "level": "good",
+          "notes": "Reasonably hardy to winter cold, important in the continental climate of Piemonte."
+        }
+      ],
+      "general_notes": "Dolcetto is a vigorous variety that buds early and ripens early. It is sensitive to drought and downy mildew but benefits from its early harvest window. The variety requires careful site selection, with lower, warmer exposures often preferred to avoid stress. Compact clusters need canopy management for air circulation. Despite its low acidity, which makes long aging challenging, the variety can produce wines of depth when yields are controlled."
+    },
+    "regional_expressions": [
+      {
+        "region": "Dogliani DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental, moderate",
+        "soils": ["Calcareous marl", "Tortonian marl"],
+        "style_summary": "The most prestigious appellation for Dolcetto, elevated to DOCG in 2011. Wines from Dogliani show more structure and aging potential than other zones. The township sits at optimal elevation in the Langhe hills, producing wines of depth, concentration, and complexity. Can develop for 5-8 years in top vintages.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Low to medium",
+          "tannin": "Moderate, firm",
+          "aromatics": "Black cherry, violet, bitter almond, licorice"
+        },
+        "notable_producers": ["San Fereolo", "Einaudi", "Pecchenino", "San Romano", "Abbona"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Dolcetto d'Alba DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Calcareous marl", "Sand", "Clay"],
+        "style_summary": "The largest production zone, surrounding the town of Alba. Quality varies significantly based on site and producer commitment. Best examples offer excellent value with pure fruit character and soft tannins. Traditionally the everyday wine of the Langhe, drunk young.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Low",
+          "tannin": "Soft to moderate",
+          "aromatics": "Cherry, plum, violet, fresh"
+        },
+        "notable_producers": ["G.D. Vajra", "Vietti", "Mascarello", "Aldo Conterno"],
+        "aging_potential": "1-4 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Dolcetto di Diano d'Alba DOCG",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Tortonian marl"],
+        "style_summary": "Small DOCG zone in the commune of Diano d'Alba. Known for particularly aromatic expressions with floral notes. The township's higher elevation and specific soils give wines elegance and perfume.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Fine",
+          "aromatics": "Violet, cherry, raspberry, floral"
+        },
+        "notable_producers": ["Claudio Alario", "Bricco Maiolica"],
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Dolcetto di Ovada DOC",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Warmer continental",
+        "soils": ["Sand", "Clay", "Marl"],
+        "style_summary": "Located in the province of Alessandria, closer to Liguria. Warmer climate produces softer, fruitier wines. Less prestigious than Dogliani but can offer good value. The Ovada Superiore DOCG represents the top tier.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Low",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, simple, fresh"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Dolcetto d'Acqui DOC",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Warm continental",
+        "soils": ["Various"],
+        "style_summary": "From the zone around Acqui Terme. Generally simple, everyday wines for immediate consumption. The warm climate accelerates ripening but can reduce complexity.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "Low",
+          "tannin": "Soft",
+          "aromatics": "Simple fruit"
+        },
+        "aging_potential": "1-2 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Liguria (as Ormeasco)",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Maritime Mediterranean",
+        "soils": ["Schist", "Rocky"],
+        "style_summary": "Known as Ormeasco in Liguria, where it has been cultivated since at least the 14th century. Produced in the Ormeasco di Pornassio DOC in the hinterland behind Imperia. The maritime influence and schist soils give different character from Piemontese versions.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Black fruit, herbs, saline note"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

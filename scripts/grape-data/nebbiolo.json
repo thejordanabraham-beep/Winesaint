@@ -1,0 +1,303 @@
+{
+  "name": "NEBBIOLO",
+  "level_2": {
+    "origins_history": "Nebbiolo is the noble grape of Piemonte, responsible for Barolo, Barbaresco, and other prestigious wines of northwestern Italy. The name likely derives from 'nebbia' (fog), referring to the autumn mists that envelop the Langhe hills during harvest, though some suggest it references the fog-like bloom on ripe berries.\n\nThe first documented mention appears in 1268 in the municipal records of Rivoli near Turin. By the 14th century, Nebbiolo was established as a prized variety in Piemonte, with laws regulating its harvest and commerce.\n\nDNA analysis has revealed Nebbiolo's genetic relationships to several Piemontese varieties but has not identified its parents. The variety has produced several natural mutations and sports, including Nebbiolo Rose and Nebbiolo Lampia. Modern Barolo emerged in the mid-19th century when dry wines replaced the previously sweet style, establishing the template for one of Italy's greatest wines.",
+    "synonyms": ["Spanna (northern Piemonte)", "Chiavennasca (Valtellina)", "Picotener (Valle d'Aosta)", "Nebieul", "Nibiol"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Nebbiolo is indigenous to Piemonte with no confirmed parentage. DNA analysis has established relationships with several Piemontese varieties, and it is a parent of Freisa and possibly Vespolina.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parents have been identified through DNA analysis. Nebbiolo appears to be an ancient indigenous variety of Piemonte.",
+          "evidence": "DNA studies (Schneider et al.)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Freisa",
+          "slug": "freisa",
+          "other_parent": "Unknown",
+          "cross_type": "natural",
+          "importance": "moderate",
+          "notes": "DNA analysis confirmed Nebbiolo as one parent of Freisa."
+        },
+        {
+          "name": "Vespolina",
+          "slug": "vespolina",
+          "other_parent": "Unknown",
+          "cross_type": "natural",
+          "importance": "minor",
+          "notes": "Possible parent-offspring relationship suggested by DNA analysis."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Nebbiolo Lampia",
+          "type": "biotype",
+          "description": "The most common and highly regarded biotype, producing the finest wines. Lampia has larger, more regularly-shaped clusters."
+        },
+        {
+          "variety": "Nebbiolo Michet",
+          "type": "biotype",
+          "description": "A virus-affected mutation with smaller, irregular clusters. Produces lower yields but some believe more concentrated wines. Being phased out in favor of virus-free material."
+        },
+        {
+          "variety": "Nebbiolo Rose",
+          "type": "color_mutation",
+          "description": "Pink-berried mutation producing lighter wines. Cultivated in small quantities in Piemonte."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Nebbiolo's confirmed offspring and suspected relatives demonstrate its historical importance in shaping Piemontese viticulture. The variety's susceptibility to mutation has created multiple biotypes, each contributing different characteristics."
+    },
+    "clones": [
+      {
+        "name": "Lampia (Clone 71)",
+        "origin": "Piemonte, Italy",
+        "characteristics": "The benchmark Nebbiolo biotype. Large, regularly-shaped clusters. Produces the most elegant, age-worthy wines. The standard for quality Barolo and Barbaresco.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Barolo", "Barbaresco"]
+      },
+      {
+        "name": "Lampia (Clone 141)",
+        "origin": "Piemonte, Italy",
+        "characteristics": "High-quality Lampia selection with excellent color and structure. Widely planted in premium vineyards.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Barolo", "Barbaresco"]
+      },
+      {
+        "name": "Lampia (Clone 142)",
+        "origin": "Piemonte, Italy",
+        "characteristics": "Another quality Lampia selection. Good aromatic intensity and tannin structure.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Barolo", "Barbaresco"]
+      },
+      {
+        "name": "Lampia (Clone 230)",
+        "origin": "Piemonte, Italy",
+        "characteristics": "More recent selection focusing on virus-free material with quality characteristics.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Barolo", "Barbaresco", "Roero"]
+      },
+      {
+        "name": "Michet",
+        "origin": "Piemonte, Italy",
+        "characteristics": "Historically prized biotype with millerandage-affected clusters. Lower yields, believed by some to produce more concentrated wines. Declining as virus-free Lampia becomes standard.",
+        "yield": "low",
+        "berry_size": "variable",
+        "regions": ["Barolo (traditional estates)"]
+      },
+      {
+        "name": "Rose",
+        "origin": "Piemonte, Italy",
+        "characteristics": "Pink-berried mutation producing lighter-colored wines. Rarely cultivated, mostly of academic interest.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Roero", "Langhe"]
+      },
+      {
+        "name": "Cannubi Heritage Selection",
+        "origin": "Barolo, Piemonte, Italy",
+        "characteristics": "Massal selections from the legendary Cannubi vineyard. Preserve genetic diversity and site-specific adaptation developed over centuries. Produce wines of exceptional elegance and complexity.",
+        "yield": "low",
+        "berry_size": "small to medium",
+        "regions": ["Cannubi", "Barolo"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Tortonian Marl (Sant'Agata Fossili)",
+        "also_known_as": ["Marne di Sant'Agata", "Blue-grey marl"],
+        "effect": "The classic soil of La Morra, Barolo village, and eastern zones. Younger marine sediments produce more perfumed, approachable wines with elegance and finesse. These wines tend to be more aromatic in youth.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Fine, elegant",
+          "aromatics": "Rose, tar, cherry, truffle, violet"
+        },
+        "regions": ["La Morra", "Barolo village"]
+      },
+      {
+        "soil": "Serravallian Marl (Lequio Formation)",
+        "also_known_as": ["Marne di Lequio", "Sandstone-marl"],
+        "effect": "Older geological formation found in Monforte and Serralunga. Contains more sand and produces more structured, powerful wines requiring longer aging. Deeper color and firmer tannins.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Firm, structured",
+          "aromatics": "Dark fruit, leather, tar, licorice, earth"
+        },
+        "regions": ["Serralunga d'Alba", "Monforte d'Alba", "Castiglione Falletto"]
+      },
+      {
+        "soil": "Sand and Limestone",
+        "effect": "Found in Roero across the Tanaro river. Produces lighter, more aromatic wines that mature faster than Langhe examples.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Moderate, fine",
+          "aromatics": "Floral, red fruit, fresh, mineral"
+        },
+        "regions": ["Roero"]
+      },
+      {
+        "soil": "Rocky Schist and Granite",
+        "effect": "Found in Valtellina's terraced vineyards. Poor, well-drained soils on steep slopes produce elegant, mineral wines distinct from Piemonte.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine, mineral",
+          "aromatics": "Red fruit, alpine herbs, mineral, smoke"
+        },
+        "regions": ["Valtellina"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium (Powdery Mildew)",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Nebbiolo is highly susceptible to powdery mildew, requiring vigilant spray programs throughout the growing season.",
+          "impact_on_wine": "Crop damage, off-flavors"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Compact clusters and thin skins make Nebbiolo vulnerable to botrytis. The late harvest period increases risk.",
+          "impact_on_wine": "Crop loss, dilution"
+        },
+        {
+          "disease": "Peronospora (Downy Mildew)",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be problematic in humid years.",
+          "impact_on_wine": "Crop damage"
+        },
+        {
+          "disease": "Leafroll Virus",
+          "severity": "moderate",
+          "type": "viral",
+          "notes": "Historically affected many vineyards. Virus-free clonal material now widely available.",
+          "impact_on_wine": "Delayed ripening, poor color"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cold Winters",
+          "level": "good",
+          "notes": "Reasonably winter-hardy, important for Piemonte's continental climate."
+        }
+      ],
+      "general_notes": "Nebbiolo is one of the most demanding varieties to cultivate and vinify. It buds early (frost risk) and ripens very late (October), requiring a long growing season with warm autumn days. The variety is site-sensitive, performing poorly outside a narrow range of ideal locations. It requires south to southwest exposure for full ripeness. Yields must be strictly controlled for quality. The pale color belies powerful tannins that require long aging to resolve."
+    },
+    "regional_expressions": [
+      {
+        "region": "Barolo DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental with foggy autumns",
+        "soils": ["Tortonian marl", "Serravallian marl"],
+        "style_summary": "The King of Wines, producing Italy's most powerful and age-worthy reds. The eleven communes each express different characters based on soil and exposure. Traditional wines require decades of aging; modern approaches offer earlier accessibility while maintaining longevity. The greatest wines combine power with elegance.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Powerful, needs aging",
+          "aromatics": "Rose, tar, cherry, truffle, leather, tobacco, licorice"
+        },
+        "key_appellations": [
+          { "name": "Barolo", "style": "Complex, age-worthy, varies by commune" },
+          { "name": "Barolo Riserva", "style": "Extended aging, most powerful" }
+        ],
+        "notable_producers": ["Giacomo Conterno", "Bruno Giacosa", "Bartolo Mascarello", "Giuseppe Rinaldi", "Roberto Voerzio", "Aldo Conterno"],
+        "aging_potential": "15-50+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Barbaresco DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental, slightly warmer than Barolo",
+        "soils": ["Tortonian marl", "Sand"],
+        "style_summary": "The Queen to Barolo's King, producing more elegant, earlier-maturing wines. The three main communes (Barbaresco, Neive, Treiso) each show distinct character. Generally more perfumed and accessible than Barolo but with similar aging potential in great vintages.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm but fine",
+          "aromatics": "Rose, violet, red cherry, spice, tar"
+        },
+        "notable_producers": ["Gaja", "Bruno Giacosa", "Produttori del Barbaresco", "Roagna", "Castello di Neive"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Roero DOCG",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Sand", "Limestone"],
+        "style_summary": "Across the Tanaro from Barolo and Barbaresco, sandy soils produce more aromatic, earlier-drinking Nebbiolo. Once considered lesser, quality has improved dramatically. Offers excellent value compared to the Langhe.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Moderate, fine",
+          "aromatics": "Floral, red fruit, fresh, mineral"
+        },
+        "notable_producers": ["Malvira", "Bruno Giacosa"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Valtellina (Chiavennasca)",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Alpine-Mediterranean",
+        "soils": ["Schist", "Granite", "Sandy"],
+        "style_summary": "Nebbiolo as Chiavennasca on terraced vineyards in Lombardia's alpine valleys. Produces elegant, mineral wines distinct from Piemonte. The steep slopes and northern exposure create unique expressions. Sforzato (from dried grapes) is the premium style.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine, mineral",
+          "aromatics": "Red fruit, alpine herbs, mineral, smoke"
+        },
+        "key_appellations": [
+          { "name": "Valtellina Superiore DOCG", "style": "Elegant, mineral" },
+          { "name": "Sforzato di Valtellina DOCG", "style": "Rich, from dried grapes" }
+        ],
+        "notable_producers": ["Ar.Pe.Pe.", "Nino Negri", "Rainoldi"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Northern Piemonte (Spanna)",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Continental, cooler",
+        "soils": ["Volcanic", "Granite", "Porphyry"],
+        "style_summary": "Known as Spanna in Gattinara, Ghemme, and surrounding zones. Volcanic and granitic soils produce more austere, mineral wines than the Langhe. Often blended with local varieties. Undervalued source of quality Nebbiolo.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm, mineral",
+          "aromatics": "Red fruit, violets, iron, earth"
+        },
+        "key_appellations": [
+          { "name": "Gattinara DOCG", "style": "Austere, mineral, age-worthy" },
+          { "name": "Ghemme DOCG", "style": "Slightly softer than Gattinara" }
+        ],
+        "notable_producers": ["Antoniolo", "Travaglini", "Nervi"],
+        "aging_potential": "10-25 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

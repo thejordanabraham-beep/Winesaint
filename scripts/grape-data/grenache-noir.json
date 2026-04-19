@@ -1,0 +1,174 @@
+{
+  "name": "GARNACHA TINTA",
+  "level_2": {
+    "origins_history": "Garnacha Tinta (Grenache Noir in France) is one of the world's most widely planted red grape varieties, originating in the Aragon region of northeastern Spain. DNA analysis confirms Spanish origin, contradicting earlier theories of Sardinian roots.\n\nThe variety spread throughout the western Mediterranean during the expansion of the Kingdom of Aragon. It became the dominant variety in the southern Rhône Valley and remains central to wines from Châteauneuf-du-Pape, Côtes du Rhône, and Priorat.\n\nGarnacha produces wines ranging from pale, ethereal expressions to powerful, concentrated examples depending on yields and winemaking. The variety excels in hot, dry climates where its late ripening and drought resistance are advantages.",
+    "synonyms": ["Grenache Noir", "Grenache", "Cannonau", "Garnacha"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Garnacha Tinta originated in Aragon, Spain and has given rise to numerous color mutations.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to Aragon, Spain.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Grenache Blanc",
+          "type": "color_mutation",
+          "description": "White-skinned mutation widely planted in southern France."
+        },
+        {
+          "variety": "Grenache Gris",
+          "type": "color_mutation",
+          "description": "Pink-skinned mutation found in Roussillon."
+        },
+        {
+          "variety": "Garnacha Peluda",
+          "type": "biotype",
+          "description": "Hairy-leafed variant with downy undersides."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Garnacha's numerous color mutations and widespread cultivation make it central to Mediterranean viticulture."
+    },
+    "clones": [
+      {
+        "name": "Clone 70",
+        "origin": "France",
+        "characteristics": "Standard French clone with good color and structure.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Southern Rhône", "Languedoc"]
+      },
+      {
+        "name": "Clone 362",
+        "origin": "France",
+        "characteristics": "Lower yielding clone with more concentrated fruit.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Châteauneuf-du-Pape"]
+      },
+      {
+        "name": "Priorat Old Vine Selection",
+        "origin": "Priorat, Spain",
+        "characteristics": "Massal selections from century-old vines. Intensely concentrated with low yields.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Priorat"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Llicorella (Slate)",
+        "effect": "The defining soil of Priorat. Dark slate retains heat and produces deeply concentrated, mineral wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Blackberry, slate mineral, herbs, licorice"
+        },
+        "regions": ["Priorat"]
+      },
+      {
+        "soil": "Galets (Large Stones)",
+        "effect": "Iconic rounded stones of Châteauneuf-du-Pape. Retains daytime heat, reflecting warmth onto grapes.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Raspberry, garrigue herbs, lavender, spice"
+        },
+        "regions": ["Châteauneuf-du-Pape"]
+      },
+      {
+        "soil": "Sandy",
+        "effect": "Found in Campo de Borja. Produces more aromatic, earlier-drinking wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Light",
+          "aromatics": "Red fruit, flowers, spice"
+        },
+        "regions": ["Campo de Borja"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Tight clusters can trap moisture in humid conditions.",
+          "impact_on_wine": "Rarely problematic in typical dry growing regions"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "moderate",
+          "type": "physiological",
+          "notes": "Can suffer poor fruit set in cool, wet flowering conditions.",
+          "impact_on_wine": "Reduces yields in challenging vintages"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Exceptional drought tolerance from deep root systems."
+        },
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in hot Mediterranean climates."
+        },
+        {
+          "condition": "Wind",
+          "level": "excellent",
+          "notes": "Tolerates the Mistral and Tramontana winds."
+        }
+      ],
+      "general_notes": "Garnacha is a late-ripening variety that produces pale-colored wines with high alcohol potential. The variety oxidizes easily, requiring careful handling in the winery. Old vines with restricted yields produce the most concentrated wines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Priorat DOCa",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Mediterranean with continental influence",
+        "soils": ["Llicorella (slate)", "Schist"],
+        "style_summary": "Spain's most prestigious Garnacha region, producing powerful, mineral wines from old vines on steep slate slopes. The combination of extreme terroir and low yields creates wines of remarkable concentration and longevity.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Blackberry, slate mineral, herbs, licorice, balsamic"
+        },
+        "notable_producers": ["Alvaro Palacios", "Clos Mogador", "Clos Erasmus"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Châteauneuf-du-Pape",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Galets (stones)", "Sand", "Clay"],
+        "style_summary": "The southern Rhône's most famous appellation, where Grenache dominates blends with Syrah and Mourvèdre. Wines combine power with aromatic complexity, showing characteristic garrigue herbs and spice.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate, velvety",
+          "aromatics": "Raspberry, garrigue herbs, lavender, spice, leather"
+        },
+        "notable_producers": ["Château Rayas", "Château Beaucastel", "Clos des Papes"],
+        "aging_potential": "8-25 years",
+        "price_range": "$$$ to $$$$$"
+      }
+    ]
+  }
+}

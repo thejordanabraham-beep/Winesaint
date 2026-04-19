@@ -1,0 +1,174 @@
+{
+  "name": "VIOGNIER",
+  "level_2": {
+    "origins_history": "Viognier is the sole grape of Condrieu in the Northern Rhone, where it has been cultivated for centuries. DNA analysis has revealed that Viognier is a natural crossing of Mondeuse Blanche and an unknown variety, establishing its origins in the Rhone-Alps region.\n\nViognier nearly went extinct in the mid-20th century, with fewer than 14 hectares remaining in Condrieu by the 1960s. The variety's revival began in the 1980s as interest in Rhone wines grew. Today, Viognier is planted worldwide, though Condrieu remains the benchmark.\n\nThe variety is uniquely permitted as a blending component (up to 20%) in red Cote-Rotie, where it contributes perfume and stabilizes color. This traditional practice has inspired similar blending in Australia, California, and elsewhere.",
+    "synonyms": ["Viognier Jaune", "Vionnier"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Viognier is a natural crossing of Mondeuse Blanche and an unknown variety. DNA analysis has established its origins in the Rhone-Alps region.",
+      "parents": [
+        {
+          "name": "Mondeuse Blanche",
+          "slug": null,
+          "confirmed": true,
+          "notes": "One parent of Viognier, also a parent of Syrah.",
+          "evidence": "DNA analysis"
+        },
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Second parent has not been identified.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Syrah",
+          "slug": "syrah",
+          "relationship": "Half-sibling (shares Mondeuse Blanche parent)"
+        }
+      ],
+      "genetic_significance": "Viognier's shared parentage with Syrah through Mondeuse Blanche explains the traditional practice of co-fermenting these varieties in Cote-Rotie."
+    },
+    "clones": [
+      {
+        "name": "Clone 642",
+        "origin": "France",
+        "characteristics": "Standard French clone with good aromatic intensity. The most planted clone in Condrieu.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Condrieu", "Northern Rhone"]
+      },
+      {
+        "name": "Clone 1042",
+        "origin": "France",
+        "characteristics": "More recent selection with improved disease resistance. Good aromatics.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Rhone Valley"]
+      },
+      {
+        "name": "Condrieu Heritage Selection",
+        "origin": "Condrieu, France",
+        "characteristics": "Massal selections from historic Condrieu vineyards. Exceptionally low yields, intense aromatics, and exceptional texture.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Condrieu"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Decomposed Granite (Arzelle)",
+        "also_known_as": ["Granite sableux"],
+        "effect": "The defining soil of Condrieu's steep terraces. Sandy granite provides excellent drainage and heat retention. Produces wines of exceptional aromatic intensity and mineral character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "aromatics": "Apricot, peach, white flowers, honey, mineral"
+        },
+        "regions": ["Condrieu", "Chateau-Grillet"]
+      },
+      {
+        "soil": "Loess over Granite",
+        "effect": "Found in parts of the Northern Rhone. Produces rounder, more textural wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low",
+          "aromatics": "Stone fruit, tropical, rich texture"
+        },
+        "regions": ["Northern Rhone"]
+      },
+      {
+        "soil": "Limestone-Clay",
+        "effect": "Found in New World plantings. Produces fresher wines with better acidity.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Peach, citrus, floral"
+        },
+        "regions": ["California", "Australia"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Highly susceptible to powdery mildew, requiring careful management.",
+          "impact_on_wine": "Crop damage, off-flavors"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Tight clusters can be vulnerable in humid conditions.",
+          "impact_on_wine": "Grey rot problematic"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Highly susceptible to poor fruit set, contributing to naturally low yields.",
+          "impact_on_wine": "Very low yields but concentrated fruit"
+        }
+      ],
+      "resistances": [],
+      "general_notes": "Viognier is a notoriously difficult variety to cultivate. It buds early (frost risk), is susceptible to disease, prone to coulure, and has a narrow harvest window. The variety must be picked at precisely the right moment to balance aromatic intensity with freshness. Too early yields green flavors; too late produces heavy, flabby wines. Despite these challenges, Viognier rewards careful viticulture with uniquely perfumed wines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Condrieu",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental with Mediterranean influence",
+        "soils": ["Decomposed granite"],
+        "style_summary": "The world's benchmark for Viognier, producing wines of extraordinary aromatic complexity and texture. Steep granite terraces require heroic viticulture. The best wines balance opulent stone fruit with mineral freshness. One of France's rarest and most distinctive white wines.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "aromatics": "Apricot, peach blossom, honeysuckle, honey, mineral"
+        },
+        "notable_producers": ["Georges Vernay", "Yves Cuilleron", "André Perret", "E. Guigal"],
+        "aging_potential": "2-8 years",
+        "price_range": "$$$ to $$$$"
+      },
+      {
+        "region": "Chateau-Grillet",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental with Mediterranean influence",
+        "soils": ["Decomposed granite"],
+        "style_summary": "France's smallest AOC (3.5 hectares), a single estate producing unique Viognier. More restrained and mineral than Condrieu, with remarkable aging potential.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Subtle stone fruit, mineral, herbs, honey with age"
+        },
+        "notable_producers": ["Chateau-Grillet"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$$$"
+      },
+      {
+        "region": "California",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "California has embraced Viognier, producing both varietal wines and Rhone-style blends. Styles range from crisp and fresh to opulent and oaked. The Central Coast and Sierra Foothills show particular promise.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "aromatics": "Peach, apricot, tropical fruit, vanilla (if oaked)"
+        },
+        "notable_producers": ["Alban", "Calera", "Tablas Creek"],
+        "aging_potential": "1-5 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

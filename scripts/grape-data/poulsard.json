@@ -1,0 +1,190 @@
+{
+  "name": "POULSARD",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Poulsard is indigenous to the Jura with no confirmed parentage. DNA studies suggest it is unrelated to other major French varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to the Jura.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Trousseau",
+          "slug": "trousseau",
+          "relationship": "Traditional blending partner",
+          "notes": "Often blended together in Jura reds for complementary characteristics."
+        }
+      ],
+      "genetic_significance": "Poulsard's genetic isolation confirms its status as a founding variety of Jura viticulture. The variety's unique characteristics have no parallel in other French wine regions."
+    },
+    "clones": [
+      {
+        "name": "Arbois Selection",
+        "origin": "Arbois, France",
+        "characteristics": "Traditional Jura selections. Pale color with delicate red fruit aromatics.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Arbois"]
+      },
+      {
+        "name": "Pupillin Selection",
+        "origin": "Pupillin, France",
+        "characteristics": "Selections from the village known as 'capitale du Ploussard'. Maximum aromatic intensity.",
+        "yield": "low",
+        "berry_size": "medium",
+        "regions": ["Arbois Pupillin"]
+      },
+      {
+        "name": "Clone 743",
+        "origin": "France",
+        "characteristics": "Certified clone with good disease resistance and consistent quality.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Old Vine Selection",
+        "origin": "Jura, France",
+        "characteristics": "Massal selections from centenarian vines. Exceptional concentration despite pale color.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Arbois", "Côtes du Jura"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Blue Marl",
+        "also_known_as": ["Marne Bleue"],
+        "effect": "The dominant soil of the Jura. Heavy clay-rich marl produces wines with mineral depth and finesse. Retains water well in dry years.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Very light",
+          "aromatics": "Sour cherry, red currant, rose, mineral"
+        },
+        "regions": ["Arbois", "Côtes du Jura"]
+      },
+      {
+        "soil": "Grey Marl",
+        "also_known_as": ["Marne Grise"],
+        "effect": "Lighter marl found at higher sites. Produces more elegant wines with floral notes.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Very light",
+          "aromatics": "Red fruit, flowers, herbs"
+        },
+        "regions": ["Jura"]
+      },
+      {
+        "soil": "Limestone Scree",
+        "effect": "Found on slopes. Better drainage produces more structured wines.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Cherry, mineral, earth"
+        },
+        "regions": ["Arbois", "Château-Chalon area"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Thin skins make it highly susceptible to grey rot.",
+          "impact_on_wine": "Can devastate crops in wet years"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to powdery mildew.",
+          "impact_on_wine": "Requires vigilant management"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "moderate",
+          "type": "physiological",
+          "notes": "Can suffer poor fruit set in cool, wet springs.",
+          "impact_on_wine": "Reduces yields in challenging vintages"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "excellent",
+          "notes": "Well-adapted to Jura's continental climate."
+        },
+        {
+          "condition": "Frost",
+          "level": "moderate",
+          "notes": "Reasonable frost tolerance but late bud break helps avoid spring frost."
+        }
+      ],
+      "general_notes": "Poulsard is a challenging variety to grow due to its thin skins and disease susceptibility. The variety ripens mid-season and produces wines of remarkable delicacy. Extended maceration can extract more color but risks bitterness. Many producers now favor short macerations or even carbonic methods to preserve freshness."
+    },
+    "regional_expressions": [
+      {
+        "region": "Arbois AOC",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Blue marl", "Grey marl", "Limestone"],
+        "style_summary": "The heart of Poulsard production, where the variety can be bottled alone or blended. Wines are extremely pale, often mistaken for rosé, with delicate red fruit aromatics and high acidity. The natural wine movement has brought international attention to these distinctive wines.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Very light",
+          "aromatics": "Sour cherry, red currant, rose, earth, mineral"
+        },
+        "notable_producers": ["Domaine de la Pinte", "Tissot", "Ganevat", "Domaine de la Tournelle", "Overnoy-Houillon"],
+        "aging_potential": "2-8 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Arbois-Pupillin AOC",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Marl", "Limestone"],
+        "style_summary": "The village of Pupillin is known as the 'capitale du Ploussard' (local name for Poulsard). Wines often show more intensity and complexity than standard Arbois, with the village terroir adding distinctiveness.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Sour cherry, red currant, rose, spice, mineral"
+        },
+        "notable_producers": ["Overnoy-Houillon", "Philippe Bornard", "Domaine de la Pinte"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$$ to $$$$"
+      },
+      {
+        "region": "Côtes du Jura AOC",
+        "country": "France",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Marl", "Clay-limestone"],
+        "style_summary": "The broader Jura appellation also produces Poulsard in similar styles. Often blended with Trousseau and Pinot Noir to add color and structure. Good value alternative to Arbois.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Red fruit, herbs, earth"
+        },
+        "notable_producers": ["Domaine des Miroirs", "Labet"],
+        "aging_potential": "2-6 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

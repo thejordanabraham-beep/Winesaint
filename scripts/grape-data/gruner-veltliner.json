@@ -1,0 +1,239 @@
+{
+  "name": "GRÜNER VELTLINER",
+  "level_2": {
+    "origins_history": "Grüner Veltliner is Austria's signature white grape variety, a natural crossing of Traminer (Savagnin) and an obscure variety called St. Georgen. DNA analysis in 2007 confirmed this parentage, ending speculation about the variety's origins.\n\nThe variety has been cultivated in Austria for centuries, though its rise to prominence came relatively recently. After World War II, Austrian viticulture expanded rapidly, often with quantity prioritized over quality. The 1985 wine scandal, involving adulteration of wines with diethylene glycol, devastated Austria's wine industry but triggered a quality revolution.\n\nSince the 1990s, Austria has emerged as a world-class wine producer, with Grüner Veltliner at the forefront. The variety now accounts for roughly one-third of Austrian vineyard area. Modern Austrian Grüner Veltliner ranges from light, peppery wines for everyday drinking to powerful, age-worthy expressions from premier sites in the Wachau, Kamptal, and Kremstal.",
+    "synonyms": ["Gruner Veltliner", "Weissgipfler", "Grüner Muskateller"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Grüner Veltliner is a natural crossing of Traminer (Savagnin) and St. Georgen, an obscure Austrian variety. This parentage was confirmed through DNA analysis in 2007.",
+      "parents": [
+        {
+          "name": "Traminer (Savagnin)",
+          "slug": "savagnin",
+          "confirmed": true,
+          "notes": "One parent of Grüner Veltliner. Traminer is one of the oldest cultivated grape varieties.",
+          "evidence": "DNA analysis (Regner et al. 2007)"
+        },
+        {
+          "name": "St. Georgen",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Second parent, a nearly extinct variety from Lower Austria. Only a few vines survive in germplasm collections.",
+          "evidence": "DNA analysis (Regner et al. 2007)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Rotgipfler",
+          "slug": "rotgipfler",
+          "other_parent": "Unknown",
+          "cross_type": "natural",
+          "importance": "minor",
+          "notes": "Possible parent-offspring relationship, native to the Thermenregion."
+        },
+        {
+          "name": "Neuburger",
+          "slug": "neuburger",
+          "other_parent": "Roter Veltliner",
+          "cross_type": "natural",
+          "importance": "minor",
+          "notes": "Confirmed offspring of Grüner Veltliner crossed with Roter Veltliner."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Roter Veltliner",
+          "type": "not_a_mutation",
+          "description": "Despite the similar name, Roter Veltliner is a distinct, unrelated variety, not a color mutation of Grüner Veltliner."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "The discovery of Grüner Veltliner's parentage highlighted the importance of Traminer/Savagnin as an ancestral variety across central Europe. The near-extinction of the St. Georgen parent shows how genetic resources can be lost without documentation."
+    },
+    "clones": [
+      {
+        "name": "Clone 1",
+        "origin": "Austria",
+        "characteristics": "Early certified Austrian clone. Standard characteristics for quality production across diverse sites.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Wachau", "Kamptal", "Kremstal"]
+      },
+      {
+        "name": "Clone 8",
+        "origin": "Austria",
+        "characteristics": "Selected for aromatic intensity and the variety's characteristic pepper note.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Niederosterreich"]
+      },
+      {
+        "name": "Clone 12",
+        "origin": "Austria",
+        "characteristics": "More recent selection with good phenolic maturity. Suited for richer wine styles.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Wachau", "Kamptal"]
+      },
+      {
+        "name": "Wachau Heritage Selection",
+        "origin": "Wachau, Austria",
+        "characteristics": "Massal selections from premier Wachau vineyards. Low yields, intense mineral character, exceptional aging potential. These selections preserve genetic diversity adapted to the extreme terraced vineyards.",
+        "yield": "low",
+        "berry_size": "small to medium",
+        "regions": ["Wachau"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Primary Rock (Urgestein)",
+        "also_known_as": ["Gneiss", "Amphibolite", "Mica schist"],
+        "effect": "The defining soils of the Wachau. Ancient crystalline rock provides excellent drainage and mineral complexity. Heat-retaining dark rocks on steep terraces promote ripeness. Produces powerful, mineral wines with exceptional aging potential.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Citrus, white pepper, mineral, spice, stone fruit"
+        },
+        "regions": ["Wachau", "Kremstal (Stein)"]
+      },
+      {
+        "soil": "Loess",
+        "also_known_as": ["Windblown sediment"],
+        "effect": "Deep loess deposits common in Kamptal and parts of Kremstal. Fertile, water-retentive soils produce rounder, more approachable wines with tropical fruit notes.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Tropical fruit, citrus, white pepper, round"
+        },
+        "regions": ["Kamptal", "Kremstal", "Weinviertel"]
+      },
+      {
+        "soil": "Limestone",
+        "also_known_as": ["Kalk"],
+        "effect": "Found in parts of Kamptal and Kremstal. Produces tighter, more linear wines with citrus focus and pronounced minerality.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, mineral, linear, precise"
+        },
+        "regions": ["Kamptal", "Kremstal"]
+      },
+      {
+        "soil": "Sandy Gravel",
+        "effect": "Common in the Weinviertel. Well-drained soils produce lighter, peppery wines for early drinking.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "White pepper, citrus, fresh herbs"
+        },
+        "regions": ["Weinviertel"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Compact clusters and thin skins make Grüner Veltliner susceptible to botrytis in humid conditions. Early harvest or careful canopy management required.",
+          "impact_on_wine": "Grey rot is problematic; noble rot rarely used intentionally"
+        },
+        {
+          "disease": "Chlorosis",
+          "severity": "moderate",
+          "type": "nutritional",
+          "notes": "Can suffer chlorosis on highly calcareous soils. Requires appropriate rootstock selection.",
+          "impact_on_wine": "Reduced vine health and fruit quality"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Winter Cold",
+          "level": "excellent",
+          "notes": "Remarkably winter-hardy, essential for Austria's continental climate with harsh winters."
+        },
+        {
+          "condition": "Late Frost",
+          "level": "good",
+          "notes": "Relatively late budding reduces spring frost risk."
+        }
+      ],
+      "general_notes": "Grüner Veltliner is a vigorous variety that requires careful yield management for quality. It ripens mid-season and can achieve high sugar levels while maintaining acidity. The variety produces characteristic peppery notes from rotundone (the same compound in black pepper). Quality drops dramatically if overcropped. Traditional Austrian practices include high training and strict yield limits in top sites."
+    },
+    "regional_expressions": [
+      {
+        "region": "Wachau",
+        "country": "Austria",
+        "importance": "benchmark",
+        "climate": "Continental with Pannonian influence",
+        "soils": ["Primary rock (gneiss, mica schist)", "Loess"],
+        "style_summary": "Austria's most prestigious white wine region and Grüner Veltliner's finest expression. Steep terraces along the Danube produce wines of remarkable power and mineral complexity. The unique Wachau classification (Steinfeder, Federspiel, Smaragd) indicates body and alcohol level. Smaragd wines from top sites age for decades.",
+        "typical_character": {
+          "body": "Medium to full (Smaragd)",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, stone fruit, white pepper, mineral, spice, tobacco (aged)"
+        },
+        "key_appellations": [
+          { "name": "Steinfeder", "style": "Light, fresh, under 11.5% alcohol" },
+          { "name": "Federspiel", "style": "Medium-bodied, 11.5-12.5% alcohol" },
+          { "name": "Smaragd", "style": "Powerful, over 12.5% alcohol, age-worthy" }
+        ],
+        "notable_producers": ["F.X. Pichler", "Prager", "Knoll", "Hirtzberger", "Rudi Pichler", "Nikolaihof"],
+        "aging_potential": "10-25+ years (Smaragd)",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Kamptal DAC",
+        "country": "Austria",
+        "importance": "major",
+        "climate": "Continental with Pannonian influence",
+        "soils": ["Loess", "Primary rock", "Limestone"],
+        "style_summary": "Diverse region with excellent sites around the town of Langenlois. The Heiligenstein vineyard on volcanic rock rivals Wachau quality. Loess sites produce rounder, more tropical styles; primary rock produces mineral, structured wines.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, white pepper, tropical notes, mineral"
+        },
+        "notable_producers": ["Brundlmayer", "Schloss Gobelsburg", "Hiedler", "Jurtschitsch"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Kremstal DAC",
+        "country": "Austria",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Loess", "Primary rock", "Limestone"],
+        "style_summary": "Bridging the styles of Wachau and Kamptal. The town of Krems sits at the junction of different geological zones, producing diverse expressions. Quality rivals neighboring regions at often lower prices.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, white pepper, apple, mineral"
+        },
+        "notable_producers": ["Stadt Krems", "Salomon-Undhof", "Nigl"],
+        "aging_potential": "5-12 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Weinviertel DAC",
+        "country": "Austria",
+        "importance": "major",
+        "climate": "Continental, dry",
+        "soils": ["Loess", "Sand", "Gravel"],
+        "style_summary": "Austria's largest wine region, producing accessible, peppery Grüner Veltliner for everyday drinking. The DAC designation ensures quality standards. These are fresh, lively wines meant for early consumption.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "White pepper, citrus, herbs, fresh"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

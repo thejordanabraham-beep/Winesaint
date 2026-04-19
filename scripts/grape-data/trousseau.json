@@ -1,0 +1,340 @@
+{
+  "name": "TROUSSEAU",
+  "level_2": {
+    "origins_history": "Trousseau is an ancient variety native to the Jura region of eastern France, where it has been cultivated for centuries alongside Poulsard and Savagnin. DNA analysis has confirmed Savagnin as one parent, making Trousseau a half-sibling to Chenin Blanc, Sauvignon Blanc, and Grüner Veltliner.\n\nThe variety spread widely through medieval trade routes, arriving in the Iberian Peninsula where it became Bastardo (essential for Port and Madeira), in the Canary Islands as Baboso Negro, and in Galicia as Merenzao. California received Trousseau as early as 1852, making it one of the state's true heirloom varietals. By the 1885 UC Davis report, it was already established in the state. The variety nearly disappeared from France after phylloxera but has been revived by a new generation of Jura winemakers.",
+    "synonyms": ["Bastardo", "Bastardo Preto", "Merenzao", "Maria Ardoña", "Maturana Tinta", "Baboso Negro", "Listán Prieto", "Gros Cabernet", "Trousseau Noir", "Bastardinha", "Troyen", "Blussard", "Dameret", "Troyen Noir", "Brunet", "Grappu", "Vernay", "Gros Béclan", "Malvoisie Noir", "Petit Meslier Noir"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Trousseau is a child of Savagnin, placing it in the same family as many important European varieties. The second parent remains unidentified. Its spread across Iberia and beyond reflects centuries of vineyard trade.",
+      "parents": [
+        {
+          "name": "Savagnin",
+          "slug": "savagnin",
+          "confirmed": true,
+          "notes": "The grape of Vin Jaune. DNA analysis confirms Savagnin as one parent of Trousseau.",
+          "evidence": "DNA microsatellite analysis"
+        },
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "The second parent has not been identified through DNA analysis.",
+          "evidence": "None available"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Bastardo Magarachsky",
+          "slug": null,
+          "other_parent": "Saperavi",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "A Ukrainian crossing bred at the Magarach Institute in Crimea. Used for fortified wines."
+        },
+        {
+          "name": "Royalty",
+          "slug": null,
+          "other_parent": "Alicante Ganzin",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "A teinturier (red-fleshed) grape bred at UC Davis in 1938. Used primarily as a blending grape for color."
+        }
+      ],
+      "mutations": [
+        {
+          "name": "Trousseau Gris",
+          "slug": null,
+          "type": "color",
+          "importance": "minor",
+          "description": "A pink-skinned mutation of Trousseau, genetically identical but producing white/rosé wines. Known in California as 'Grey Riesling' despite no relation to Riesling. Thousands of acres were planted in California during the 1960s; only about 10 acres remain today. Produces light, neutral wines often used for blending.",
+          "regions": ["California", "Jura"],
+          "discovery": "The mutation occurred naturally. California plantings came from Jura material."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Chenin Blanc",
+          "slug": "chenin-blanc",
+          "relationship": "half-sibling",
+          "shared_parent": "Savagnin",
+          "notes": "Shares Savagnin as a parent. The great white grape of the Loire."
+        },
+        {
+          "name": "Sauvignon Blanc",
+          "slug": "sauvignon-blanc",
+          "relationship": "half-sibling",
+          "shared_parent": "Savagnin",
+          "notes": "Shares Savagnin as a parent. Among the world's most planted white varieties."
+        },
+        {
+          "name": "Grüner Veltliner",
+          "slug": "gruner-veltliner",
+          "relationship": "half-sibling",
+          "shared_parent": "Savagnin (Traminer)",
+          "notes": "Shares Savagnin/Traminer as a parent. Austria's signature white grape."
+        },
+        {
+          "name": "Verdelho",
+          "slug": "verdelho",
+          "relationship": "half-sibling",
+          "shared_parent": "Savagnin",
+          "notes": "Shares Savagnin as a parent. Important for Madeira and Australian whites."
+        }
+      ],
+      "genetic_significance": "Trousseau's parentage places it in an illustrious family. The Savagnin connection helps explain its affinity for the Jura climate and its ability to produce distinctive wines under flor. Its genetic identity with Bastardo, Merenzao, and Baboso Negro across Iberia and the Atlantic islands reflects centuries of vineyard trade along medieval shipping routes."
+    },
+    "clones": [
+      {
+        "name": "Clone 1004",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. One of the primary selections used in Jura plantings.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Clone 1017",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. Selected for consistent quality and disease resistance.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Clone 1021",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. Noted for aromatic intensity.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Clone 1026",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. Reliable producer with good concentration.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Clone 1114",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. Later release with improved disease tolerance.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Clone 1277",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. One of the newer selections from Jura conservatory work.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "Clone 1278",
+        "origin": "Jura, France",
+        "characteristics": "Certified French clone. Companion selection to 1277.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Jura"]
+      },
+      {
+        "name": "FPS 08",
+        "origin": "California, USA",
+        "source_vineyard": "Vine planted 1890, Napa Valley",
+        "characteristics": "UC Davis Foundation Plant Services selection from a 19th century California vine. Pre-phylloxera heritage material representing the earliest California plantings.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["California"]
+      },
+      {
+        "name": "FPS 09",
+        "origin": "California, USA",
+        "source_vineyard": "Vine planted 1889, labeled as Bastardo",
+        "characteristics": "UC Davis selection originally catalogued as Bastardo. Confirmed as Trousseau through DNA analysis, demonstrating the variety's Iberian synonymy.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["California"]
+      },
+      {
+        "name": "FPS 10",
+        "origin": "Portugal",
+        "characteristics": "UC Davis selection imported from Portugal. Represents Douro Valley Bastardo material used in Port production.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["California", "Portugal"]
+      },
+      {
+        "name": "FPS 11.1",
+        "origin": "California, USA",
+        "characteristics": "UC Davis selection originally misidentified as Marzemino. DNA testing confirmed it as Trousseau, highlighting historical confusion around variety identification.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["California"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Marl/Blue Clay",
+        "also_known_as": ["Blue Marl", "Lias"],
+        "effect": "The classic Jura soil type. Cool, clay-rich soils stress vines and produce concentrated wines with notable acidity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Red fruit, pepper, earth, herbs"
+        },
+        "regions": ["Arbois", "Côtes du Jura"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Trousseau is highly susceptible to poor fruit set during flowering, particularly in cold or wet springs. This significantly reduces yields.",
+          "impact_on_wine": "Very low yields in difficult vintages"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Botrytis",
+          "level": "moderate",
+          "notes": "Thick skins provide some natural protection against rot."
+        }
+      ],
+      "general_notes": "Trousseau is a difficult variety to grow, with low yields and susceptibility to poor fruit set. This is one reason it nearly went extinct after phylloxera."
+    },
+    "regional_expressions": [
+      {
+        "region": "Jura",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental with cold winters",
+        "soils": ["Blue marl", "Limestone", "Clay"],
+        "style_summary": "The heartland of Trousseau, where it produces medium-bodied reds with distinctive peppery, herbal character. Can be made in fresh, reductive styles or aged under voile (flor) for oxidative complexity. A 50-clone conservatory was planted here in 2005 to preserve genetic diversity.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Moderate",
+          "aromatics": "Red cherry, pepper, herbs, earth, game"
+        },
+        "key_appellations": [
+          { "name": "Arbois", "style": "Most Trousseau planted here, classic expression" },
+          { "name": "Côtes du Jura", "style": "Broader appellation, variable styles" }
+        ],
+        "notable_producers": ["Domaine de la Tournelle", "Domaine Labet", "Tissot", "Ganevat", "Domaine de la Pinte", "Overnoy-Houillon"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Douro Valley",
+        "country": "Portugal",
+        "importance": "major",
+        "climate": "Continental, hot summers",
+        "soils": ["Schist", "Granite"],
+        "style_summary": "Known as Bastardo, it is one of the authorized grapes for Port production. Contributes aromatics and freshness to Port blends. Also used for dry Douro table wines, where it adds lift and perfume.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, floral notes, spice"
+        },
+        "notable_producers": ["Niepoort", "Quinta do Crasto", "Quinta do Vallado"],
+        "aging_potential": "5-15 years for table wines",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Madeira",
+        "country": "Portugal",
+        "importance": "moderate",
+        "climate": "Subtropical maritime",
+        "soils": ["Volcanic"],
+        "style_summary": "Bastardo was historically one of the noble grapes of Madeira, producing medium-sweet styles. Nearly extinct on the island after phylloxera and oidium, with only small plantings remaining.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "N/A (fortified)",
+          "aromatics": "Dried fruit, nuts, caramel, spice"
+        },
+        "aging_potential": "Decades in fortified form",
+        "price_range": "$$$ to $$$$"
+      },
+      {
+        "region": "Galicia",
+        "country": "Spain",
+        "importance": "moderate",
+        "climate": "Atlantic maritime, cool and wet",
+        "soils": ["Granite", "Slate"],
+        "style_summary": "Known as Merenzao or Maria Ardoña, the variety is experiencing a revival in Valdeorras and Ribeira Sacra. Produces fresh, aromatic reds with marked acidity.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light to moderate",
+          "aromatics": "Red berries, herbs, mineral"
+        },
+        "key_appellations": [
+          { "name": "Valdeorras", "style": "Fresh, aromatic reds" },
+          { "name": "Ribeira Sacra", "style": "Steep terraces, intense wines" }
+        ],
+        "notable_producers": ["Guímaro", "Dominio do Bibei"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Canary Islands",
+        "country": "Spain",
+        "importance": "moderate",
+        "climate": "Subtropical volcanic",
+        "soils": ["Volcanic ash", "Pumice"],
+        "style_summary": "Known as Baboso Negro or Listán Prieto, the variety thrives on pre-phylloxera vines in volcanic soils. Produces distinctive wines with volcanic minerality and Atlantic freshness.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Red fruit, volcanic mineral, herbs, smoke"
+        },
+        "notable_producers": ["Envínate", "Suertes del Marqués"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "minor",
+        "climate": "Mediterranean, varies by site",
+        "soils": ["Various"],
+        "style_summary": "One of California's true heirloom varietals, arriving as early as 1852. By the 1885 UC Davis report, Trousseau was already established. Modern producers make fresh, Jura-inspired styles or use it for rosé and sparkling wines. The mutation Trousseau Gris (sold as 'Grey Riesling') was once planted to thousands of acres; only about 10 remain.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Red fruit, herbs, spice, earth"
+        },
+        "notable_producers": ["Arnot-Roberts", "Forlorn Hope", "Dirty & Rowdy", "Jolie-Laide"],
+        "aging_potential": "2-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Australia",
+        "country": "Australia",
+        "importance": "minor",
+        "climate": "Varies by region",
+        "soils": ["Various"],
+        "style_summary": "A small but growing number of Australian producers have embraced Trousseau, often sourcing from Adelaide Hills or other cool-climate sites. Wines tend toward fresh, crunchy styles.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light",
+          "aromatics": "Red fruit, pepper, herbs"
+        },
+        "notable_producers": ["Lucy Margaux", "Ochota Barrels"],
+        "aging_potential": "2-6 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

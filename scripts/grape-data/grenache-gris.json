@@ -1,0 +1,106 @@
+{
+  "name": "GARNACHA ROJA (GRIS)",
+  "level_2": {
+    "origins_history": "Grenache Gris is a pink-skinned color mutation of Grenache Noir, first documented in the Roussillon region of southern France. Like its parent, Grenache Gris likely originated in Spain (as Garnacha Roja) before spreading throughout the western Mediterranean.\n\nThe variety produces wines ranging from copper-colored to pale salmon, depending on skin contact. It is most significant in Roussillon, where it contributes to both dry wines and the region's famous Vins Doux Naturels.\n\nGrenache Gris shares many characteristics with Grenache Noir but produces more delicate, aromatic wines. It is increasingly bottled as a varietal, showcasing its unique combination of Grenache's body with subtle spice and floral notes.",
+    "synonyms": ["Garnacha Roja", "Grenache Rose", "Lladoner Gris"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Grenache Gris is a color mutation of Grenache Noir.",
+      "parents": [
+        {
+          "name": "Grenache Noir",
+          "slug": "grenache",
+          "confirmed": true,
+          "notes": "Pink-skinned color mutation of Grenache Noir.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Grenache Blanc",
+          "slug": "grenache-blanc",
+          "relationship": "Color mutation sibling",
+          "notes": "White-skinned mutation of Grenache Noir."
+        }
+      ],
+      "genetic_significance": "Grenache Gris represents an intermediate color mutation between Grenache Noir and Grenache Blanc."
+    },
+    "clones": [
+      {
+        "name": "Roussillon Selection",
+        "origin": "Roussillon, France",
+        "characteristics": "Traditional selections from Roussillon. Produces wines with copper color and spice character.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Roussillon"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Schist",
+        "effect": "Found in the Maury area. Heat-retentive schist produces concentrated, mineral wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Stone fruit, spice, mineral, flowers"
+        },
+        "regions": ["Maury", "Côtes du Roussillon"]
+      },
+      {
+        "soil": "Granite",
+        "effect": "Found in parts of Roussillon. Produces more elegant, aromatic wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "White flowers, citrus, spice"
+        },
+        "regions": ["Roussillon"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid conditions, though Roussillon's dry climate minimizes risk.",
+          "impact_on_wine": "Generally not problematic in main growing regions"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Inherits Grenache's exceptional drought tolerance."
+        },
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in Mediterranean heat."
+        }
+      ],
+      "general_notes": "Grenache Gris shares Grenache Noir's vigor and drought resistance but produces more delicate wines. The variety is typically harvested early to preserve acidity and fresh aromatics. Extended skin contact develops the characteristic copper color."
+    },
+    "regional_expressions": [
+      {
+        "region": "Côtes du Roussillon",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Schist", "Granite", "Clay-limestone"],
+        "style_summary": "The primary home of Grenache Gris, producing both dry wines and Vins Doux Naturels. Dry versions range from pale copper to deep salmon depending on skin contact. The variety contributes spice and body to blends while increasingly appearing as a varietal.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Stone fruit, spice, white flowers, mineral"
+        },
+        "notable_producers": ["Domaine Gauby", "Mas Amiel", "Domaine de l'Horizon"],
+        "aging_potential": "2-6 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

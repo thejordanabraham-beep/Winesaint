@@ -1,0 +1,230 @@
+{
+  "name": "ARNEIS",
+  "level_2": {
+    "origins_history": "Arneis is native to Roero in Piemonte, northwest Italy. The name was possibly first recorded in 1432 in Chieri near Torino under the Latin name Ranaysii, which may derive from the toponym Bric Renesio near Canale, documented as Reneysium by 1478. Alternatively, the name comes from the local dialect 'arneis' meaning a wily, temperamental person, reflecting how difficult the grape is to grow and vinify.\n\nThe variety nearly went extinct in the early 1970s, when only Vietti and Bruno Giacosa were bottling it. Its survival owes much to Alfredo Currado of Vietti, who devoted significant effort to preserving the endangered variety from 1967 onwards. A clonal selection program at Castello di Neive culminating in the 1979 harvest led to three officially registered clones, enabling the variety's revival. Today Roero has over 920 hectares of Arneis vineyards producing close to 6.5 million bottles annually.\n\nDespite its synonym Nebbiolo Bianco, Arneis is not related to Nebbiolo. The old practice of interplanting Arneis with Nebbiolo served a practical purpose: Arneis's strong flavor attracted birds away from the more valuable Nebbiolo crop. It was also historically blended into Nebbiolo wines to soften them.",
+    "synonyms": ["Bianchetta di Alba", "Bianchetto", "Nebbiolo Bianco"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Arneis has no confirmed parent varieties identified through DNA analysis. Despite its historical synonym Nebbiolo Bianco, it has no genetic relationship to Nebbiolo. The variety appears to be an ancient, indigenous grape of Piemonte.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parents have been identified. The variety is an ancient grape indigenous to Piemonte with no known genetic relationship to Nebbiolo despite historical synonymy.",
+          "evidence": "None available"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Arneis represents one of Piemonte's important indigenous white varieties with no confirmed relatives. Its historical near-extinction and subsequent revival through clonal selection makes it a case study in variety preservation."
+    },
+    "clones": [
+      {
+        "name": "Clone 15",
+        "origin": "Castello di Neive, Piemonte, Italy",
+        "characteristics": "One of three clones registered from the Castello di Neive clonal selection program (1967-1979). Selected for improved consistency and quality from Montebertotto vineyard material.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Roero", "Langhe"],
+        "approved": "1979"
+      },
+      {
+        "name": "Clone 19",
+        "origin": "Castello di Neive, Piemonte, Italy",
+        "characteristics": "Second of the three registered clones from the joint effort between Universities of Turin and Bologna with CNR. These clones are estimated to account for over 80% of current Arneis plantings.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Roero", "Langhe"],
+        "approved": "1979"
+      },
+      {
+        "name": "Clone 32",
+        "origin": "Castello di Neive, Piemonte, Italy",
+        "characteristics": "Third registered clone from the selection program. Imported to UC Davis FPS in 1994 from the Centro di Studio per il Miglioramento Genetico della Vitte in Turin. Source material from foundation vineyard at Guarene.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Roero", "Langhe", "California"],
+        "approved": "1979"
+      },
+      {
+        "name": "Clone 2",
+        "origin": "Vivai Cooperativi Rauscedo, Torino, Italy",
+        "characteristics": "Proprietary clone from Italy's largest nursery. Subject to strict sanitary control for all major grapevine viruses. Available in North America through Novavine.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Piemonte", "California"],
+        "approved": "1990s"
+      },
+      {
+        "name": "FPS 03",
+        "origin": "Torino, Italy",
+        "characteristics": "UC Davis Foundation Plant Services selection. Was previously misidentified as Grignolino until renamed to Arneis in 2003 following proper identification through genetic testing.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["California"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Chalky Sand",
+        "also_known_as": ["Sandy limestone"],
+        "effect": "The signature soil of Roero. The chalky, sandy soils give the grapes more acidity and structure, compensating for the variety's naturally low acid levels.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Pear, almond, citrus, mineral"
+        },
+        "regions": ["Roero"]
+      },
+      {
+        "soil": "Sandy Clay",
+        "effect": "Found in parts of Roero and Langhe. Clay component helps with water retention while sand provides drainage. Produces wines with elegant, exotic perfume character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Lower",
+          "aromatics": "White flowers, tropical fruit, apricot"
+        },
+        "regions": ["Langhe", "Roero"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Arneis is notably susceptible to powdery mildew (oidium), requiring careful canopy management and preventive treatments. Recent clonal research has isolated selections with improved tolerance.",
+          "impact_on_wine": "Reduces quality if untreated; can cause off-flavors"
+        },
+        {
+          "disease": "Oxidation",
+          "severity": "high",
+          "type": "winemaking",
+          "notes": "Wines oxidize easily, contributing to the variety's decline in the mid-20th century before improved winemaking techniques were developed.",
+          "impact_on_wine": "Requires careful handling; wines best drunk young"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Downy Mildew",
+          "level": "good",
+          "notes": "Arneis shows good tolerance to downy mildew (peronospora), reducing fungicide requirements."
+        }
+      ],
+      "general_notes": "Arneis is a difficult variety to cultivate. It has naturally low acidity and ripens quickly, becoming overripe if harvested after September. The tendency for wines to oxidize easily, combined with low yields and disease susceptibility, led to its near-extinction by the 1970s. Modern clonal selections have improved disease tolerance."
+    },
+    "regional_expressions": [
+      {
+        "region": "Roero",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental with moderate temperatures",
+        "soils": ["Sandy limestone", "Chalky sand"],
+        "style_summary": "The heartland of Arneis, elevated to DOCG in 2017. Vineyards on the left bank of the River Tanaro northwest of Alba produce Piemonte's finest Arneis. The sandy, chalky soils provide the acidity and structure the variety needs. Generally unoaked, subtly fruit-scented wines meant for young drinking. A Riserva category (minimum 14 months aging) was introduced in 2017.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Ripe pear, almond, white flowers, citrus, subtle herbs"
+        },
+        "key_appellations": [
+          { "name": "Roero Arneis DOCG", "style": "Fresh, aromatic, typically unoaked" },
+          { "name": "Roero Arneis DOCG Riserva", "style": "Minimum 14 months aging, more complex" }
+        ],
+        "notable_producers": ["Malvirà", "Deltetto", "Cascina Chicco", "Bruno Giacosa", "Vietti", "Castello di Neive", "Matteo Correggia"],
+        "aging_potential": "1-3 years; Riserva 3-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Langhe",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Sandy clay", "Limestone"],
+        "style_summary": "DOC appellation for Arneis grown in the broader Langhe area. Produces wines that tend toward more exotic, perfumed character compared to Roero. Often slightly fuller bodied with tropical fruit notes.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Stone fruit, apricot, white flowers, honey"
+        },
+        "key_appellations": [
+          { "name": "Langhe Arneis DOC", "style": "Fuller, more perfumed style" }
+        ],
+        "aging_potential": "1-2 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Victoria",
+        "country": "Australia",
+        "importance": "minor",
+        "climate": "Cool continental",
+        "soils": ["Various"],
+        "style_summary": "Growing interest in Arneis among Australian producers, particularly in Victoria's King Valley and other cool-climate sites. Italian-Australian producers have championed the variety. Wines tend to be fresh and aromatic with good fruit intensity.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Pear, citrus, stone fruit"
+        },
+        "notable_producers": ["Pizzini", "Dal Zotto", "Chrismont", "Yandoit Hill", "Yarra Loch", "Rutherglen Estates"],
+        "aging_potential": "1-2 years",
+        "price_range": "$$"
+      },
+      {
+        "region": "New Zealand",
+        "country": "New Zealand",
+        "importance": "minor",
+        "climate": "Cool maritime",
+        "soils": ["Various"],
+        "style_summary": "Small plantings in Gisborne. Coopers Creek produces a fresh, off-dry version with fine floral and citrus flavors that showcases the variety's aromatic potential in cool climates.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Citrus, white flowers, pear"
+        },
+        "notable_producers": ["Coopers Creek"],
+        "aging_potential": "1-2 years",
+        "price_range": "$$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Minor plantings exist, notably Seghesio in Sonoma County. Wines tend to be fuller than Italian examples with riper fruit character.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Tropical fruit, pear, melon"
+        },
+        "notable_producers": ["Seghesio"],
+        "aging_potential": "1-2 years",
+        "price_range": "$$"
+      },
+      {
+        "region": "Oregon",
+        "country": "United States",
+        "importance": "minor",
+        "climate": "Cool maritime",
+        "soils": ["Various"],
+        "style_summary": "Ponzi in the Willamette Valley produces a notable example, showcasing how Arneis can perform in cool, maritime-influenced climates.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Citrus, pear, mineral"
+        },
+        "notable_producers": ["Ponzi"],
+        "aging_potential": "1-2 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

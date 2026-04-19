@@ -1,0 +1,157 @@
+{
+  "name": "TORRONTÉS RIOJANO",
+  "level_2": {
+    "origins_history": "Torrontés Riojano is Argentina's signature white grape variety, a natural cross between Muscat of Alexandria and Criolla Chica (Mission) that occurred in South America. DNA analysis has confirmed this New World origin, making it one of few internationally recognized varieties to originate in the Americas.\n\nThe variety developed in the La Rioja region of Argentina, hence its name, though the finest examples now come from the high-altitude vineyards of Salta in the north. At elevations exceeding 2,000 meters, the variety produces intensely aromatic wines with the acidity to balance its exuberant floral character.\n\nTorrontés Riojano produces dry white wines with intense Muscat-like aromatics but without sweetness. The variety has become Argentina's most distinctive white wine export, offering a unique expression found nowhere else in the world.",
+    "synonyms": ["Torrontés", "Torrontés de Salta"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Torrontés Riojano is a natural cross between Muscat of Alexandria and Criolla Chica (Mission).",
+      "parents": [
+        {
+          "name": "Muscat of Alexandria",
+          "slug": "muscat-of-alexandria",
+          "confirmed": true,
+          "notes": "Provides the aromatic Muscat character.",
+          "evidence": "DNA studies"
+        },
+        {
+          "name": "Criolla Chica (Mission)",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Pink-skinned variety brought by Spanish missionaries.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Torrontés Sanjuanino",
+          "slug": null,
+          "relationship": "sibling (same parents)",
+          "notes": "Less aromatic sibling from same cross."
+        },
+        {
+          "name": "Torrontés Mendocino",
+          "slug": null,
+          "relationship": "sibling (same parents)",
+          "notes": "Another sibling, rarely cultivated."
+        }
+      ],
+      "genetic_significance": "Torrontés Riojano is one of few internationally recognized varieties to originate in the New World, representing Argentina's unique viticultural heritage."
+    },
+    "clones": [
+      {
+        "name": "Cafayate Selection",
+        "origin": "Cafayate, Salta",
+        "characteristics": "Selections from high-altitude Cafayate vineyards. Intense aromatics with good acidity.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Cafayate", "Salta"]
+      },
+      {
+        "name": "La Rioja Selection",
+        "origin": "La Rioja, Argentina",
+        "characteristics": "Traditional selections from lower altitude. Riper, less acidic character.",
+        "yield": "high",
+        "berry_size": "medium",
+        "regions": ["La Rioja"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Sandy Alluvial",
+        "effect": "Common in Cafayate valley floor. Produces aromatic, fresh wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High (at altitude)",
+          "aromatics": "Rose, jasmine, citrus, peach, white pepper"
+        },
+        "regions": ["Cafayate"]
+      },
+      {
+        "soil": "Calcareous",
+        "effect": "Found in higher Salta sites. Adds mineral complexity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Floral, citrus, mineral, herbs"
+        },
+        "regions": ["Calchaquí Valley"]
+      },
+      {
+        "soil": "Alluvial with Stones",
+        "effect": "Found in La Rioja. Produces rounder, less focused wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "aromatics": "Rose, grape, tropical fruit"
+        },
+        "regions": ["La Rioja"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "low",
+          "type": "fungal",
+          "notes": "Dry Argentine conditions minimize botrytis risk.",
+          "impact_on_wine": "Rarely problematic"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "High Altitude UV",
+          "level": "excellent",
+          "notes": "Thrives at extreme elevations with intense UV radiation."
+        },
+        {
+          "condition": "Temperature Variation",
+          "level": "excellent",
+          "notes": "Tolerates dramatic day-night temperature swings in mountain vineyards."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Well-adapted to arid conditions with irrigation."
+        }
+      ],
+      "general_notes": "Torrontés Riojano is well-suited to Argentina's dry, high-altitude conditions. The variety requires significant diurnal temperature variation to develop aromatic complexity while maintaining acidity. Lower altitude plantings produce less distinctive wines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Cafayate (Salta)",
+        "country": "Argentina",
+        "importance": "benchmark",
+        "climate": "High desert",
+        "soils": ["Sandy alluvial", "Calcareous"],
+        "style_summary": "The world's highest vineyards, often exceeding 2,000 meters elevation, produce Argentina's finest Torrontés. The extreme diurnal temperature variation preserves acidity while developing intense floral aromatics. Wines are dry despite their perfumed character.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Rose, jasmine, orange blossom, citrus, peach, white pepper"
+        },
+        "notable_producers": ["Colomé", "Etchart", "Piattelli"],
+        "aging_potential": "1-4 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "La Rioja",
+        "country": "Argentina",
+        "importance": "major",
+        "climate": "Semi-arid",
+        "soils": ["Alluvial", "Sandy"],
+        "style_summary": "The variety's birthplace, though now overshadowed by Salta for quality. Lower altitude produces riper, less focused wines. Good value everyday drinking.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "aromatics": "Rose, grape, tropical fruit"
+        },
+        "aging_potential": "1-2 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

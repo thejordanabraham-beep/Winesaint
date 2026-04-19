@@ -1,0 +1,333 @@
+{
+  "name": "AGLIANICO",
+  "level_2": {
+    "origins_history": "Aglianico is an ancient grape from southern Italy, despite centuries of mistaken belief in Greek origins. The earliest written mention appeared in 1520 in an archive document recording that Giulio Antonio Acquaviva d'Aragona, Count of Conversano, owned fields planted with grapevines called Aglianiche.\n\nThe supposed Greek etymology linking Aglianico to 'hellanico' (hellenic) dates to 1581, when Neapolitan scholar Giambattista della Porta tentatively identified Pliny's Helvola grape with a hypothetical Greek variety. However, this etymology has been thoroughly debunked: Helvola was a yellowish wine while Aglianico has black berries; linguists confirm that 'aglianico' cannot derive from 'ellenico'; and Roman authors always used 'graecus' rather than 'hellenicus' to indicate Greek origin.\n\nThe name most likely derives from the Spanish 'llano' (plain), since Spain occupied central Italy during the 15th and 16th centuries. The Spanish 'lla' is pronounced 'glia' in Italian, making Aglianico 'the grape of the plain,' reflected in its old dialect names A Glianica and La Glianica. DNA profiling confirms Aglianico has no close relationship to any modern Greek variety.",
+    "synonyms": ["Aglianco di Puglia", "Aglianica", "Aglianico del Vulture", "Aglianico di Taurasi", "Aglianico Nero", "Ellanico", "Ellenico", "Gagliano", "Ghiandara", "Ghianna", "Uva dei Cani"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Aglianico is an ancient variety with no confirmed parents, though DNA analysis has established it as distinctly southern Italian rather than Greek in origin. It is genetically related to several Campanian and Basilicatan varieties and may be a parent of Aglianicone.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parents have been identified through DNA analysis. The variety appears to be an ancient indigenous grape of southern Italy.",
+          "evidence": "None available"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Aglianicone",
+          "slug": null,
+          "other_parent": "Unknown",
+          "cross_type": "natural",
+          "importance": "minor",
+          "notes": "A high-yielding, low-quality Campanian variety. DNA paternity testing suggests Aglianico could be a parent. Cultivated in Campania and Basilicata with about 140 ha planted."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "biotypes": [
+        {
+          "name": "Taurasi",
+          "region": "Campania",
+          "description": "Small berries, less vigorous growth, cylindrical clusters with slight tendency to millerandage. Produces structured, tannic wines requiring extended aging.",
+          "wine_style": "Most austere and age-worthy style, firm tannins, darker fruit"
+        },
+        {
+          "name": "Taburno",
+          "region": "Campania",
+          "description": "Largest bunches of the three main biotypes, high natural acidity. Named for the Taburno mountain area in Benevento province.",
+          "wine_style": "High acidity, good structure, medium body"
+        },
+        {
+          "name": "Vulture",
+          "region": "Basilicata",
+          "description": "Medium-sized berries, slightly larger than Taurasi biotype. Renders wines that are more accessible at a younger age due to higher skin-to-pulp ratio.",
+          "wine_style": "More fruit-driven and elegantly nuanced, accessible younger than Taurasi"
+        }
+      ],
+      "genetic_significance": "Despite centuries of attribution to Greek origins, DNA profiling has definitively shown Aglianico has no relationship to modern Greek varieties. The genetic evidence, combined with linguistic analysis debunking the Hellenistic etymology, confirms Aglianico as an ancient indigenous variety of southern Italy, probably originating in Campania or Basilicata."
+    },
+    "clones": [
+      {
+        "name": "Clone 2",
+        "origin": "Grottaminarda (AV), Italy",
+        "characteristics": "Taurasi biotype. Excellent structure but less aromatic and polyphenolic intensity than other clones. Best blended with Clone 7 and Clone 13 for balanced wines.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Campania"],
+        "approved": "1995"
+      },
+      {
+        "name": "Clone 7",
+        "origin": "Grottaminarda (AV), Italy",
+        "characteristics": "Taurasi biotype. Moderate aromatic and polyphenolic qualities with soft tannins. Suited for medium aging potential wines.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Campania"],
+        "approved": "1994"
+      },
+      {
+        "name": "Clone 13",
+        "origin": "Grottaminarda (AV), Italy",
+        "characteristics": "Taurasi biotype. Very positive polyphenolic framework with excellent anthocyanin content. Floral notes. Recommended for extended aging when blended with Clone 7 and Clone 2.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Campania"],
+        "approved": "1996"
+      },
+      {
+        "name": "Clone 23",
+        "origin": "Grottaminarda (AV), Italy",
+        "characteristics": "Taurasi biotype. Intense purplish-red color with violet and berry scents that are persistent and delicate. Suitable for long aging.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Campania"],
+        "approved": "1999"
+      },
+      {
+        "name": "Clone 103",
+        "origin": "Grottaminarda (AV), Italy",
+        "characteristics": "Characteristics between Vulture and Taurasi types. Excellent anthocyanin levels and balanced aromatics. Versatile clone.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Campania"],
+        "approved": "2006"
+      },
+      {
+        "name": "Clone 106",
+        "origin": "Pedemontana Avellinese, Italy",
+        "characteristics": "Aromatic profile with intense floral and fruity scents. Suited for young wines, possibly blended with Piedirosso.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Campania"],
+        "approved": "2006"
+      },
+      {
+        "name": "Clone 109",
+        "origin": "Pedemontana Avellinese, Italy",
+        "characteristics": "Ideal for young, fruity-floral wines. Particularly soft tannins make it accessible early.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Campania"],
+        "approved": "2006"
+      },
+      {
+        "name": "Clone 111",
+        "origin": "Grottaminarda (AV), Italy",
+        "characteristics": "Strong anthocyanin content, structure and aromatic components. Intense hints of ripe fruit with phenol-leather notes. Suitable for extended aging.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Campania"],
+        "approved": "2004"
+      },
+      {
+        "name": "Clone 421",
+        "origin": "Luogosano (AV), Italy",
+        "characteristics": "Taurasi biotype. Broad aromatic range with notes of strawberry, cocoa, and licorice. Suited for medium-to-long aging or young consumption.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Campania"],
+        "approved": "2021"
+      },
+      {
+        "name": "Clone 381",
+        "origin": "Benevento (BN), Italy",
+        "characteristics": "Taburno biotype. Floral and fruity aromas with pronounced spice including black pepper and cloves. Full-bodied with sweet, slightly bitter tannins. Medium-to-extended aging potential.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Campania"],
+        "approved": "2020"
+      },
+      {
+        "name": "Clone 11",
+        "origin": "Venosa (PZ), Italy",
+        "characteristics": "Aglianico del Vulture biotype. Very interesting aromatic profile, especially glycosidic components. Fairly good polyphenolic framework. Recommended for prolonged aging.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Basilicata"],
+        "approved": "1997"
+      },
+      {
+        "name": "Clone 14",
+        "origin": "Venosa (PZ), Italy",
+        "characteristics": "Aglianico del Vulture biotype. Positive polyphenolic framework with clear floral and fruity notes. Ideal when blended with Clone 11 or Taurasi types Clone 2 and Clone 23.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Basilicata"],
+        "approved": "1997"
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic",
+        "also_known_as": ["Tuff", "Volcanic ash"],
+        "effect": "The signature soil of both Taurasi and Vulture. Volcanic soils provide mineral richness, excellent drainage, and temperature regulation as volcanic rocks retain heat. Vines face stress that leads to concentrated flavors. The volcanic origin adds a distinctive smokiness to wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Firm, fine-grained",
+          "aromatics": "Smoke, ash, dark fruit, chocolate, tar"
+        },
+        "regions": ["Taurasi", "Aglianico del Vulture", "Vesuvius"]
+      },
+      {
+        "soil": "Calcareous Marl",
+        "also_known_as": ["Limestone-Clay"],
+        "effect": "Found in parts of both Campania and Basilicata. Provides good drainage while retaining some moisture. Contributes to wine freshness and minerality.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm",
+          "aromatics": "Mineral, red fruit, herbs"
+        },
+        "regions": ["Aglianico del Vulture", "Taburno"]
+      },
+      {
+        "soil": "Clay",
+        "effect": "More common in lower elevation sites. Water-retentive soils produce slightly softer wines with broader structure.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Broader, less fine",
+          "aromatics": "Dark fruit, earth"
+        },
+        "regions": ["Campania plains"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis Bunch Rot",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Despite thick skins, the very late ripening (sometimes into November) exposes clusters to autumn rains and humidity, making botrytis a significant concern.",
+          "impact_on_wine": "Reduces quality, can cause off-flavors if affected fruit is not sorted"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Powdery Mildew",
+          "level": "good",
+          "notes": "Thick skins provide good natural resistance to powdery mildew (oidium)."
+        }
+      ],
+      "general_notes": "Aglianico buds early, making it vulnerable to spring frosts, but ripens very late, sometimes not until November. This long growing season is essential to tame its naturally high tannins. The variety is vigorous and yields need to be controlled for quality. Thrives at 200-600m elevation in cool but dry, sunny mountainous conditions."
+    },
+    "regional_expressions": [
+      {
+        "region": "Taurasi",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental, cool mountain influence",
+        "soils": ["Volcanic", "Calcareous marl"],
+        "style_summary": "The most prestigious Aglianico appellation, elevated to DOCG in 1993. High-altitude vineyards (400-500m) in the shadow of Vesuvius produce Italy's most structured, age-worthy Aglianico. Often called the 'Barolo of the South' for its tannic power and longevity. Minimum 85% Aglianico, Riserva requires 3 years aging.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Powerful, fine-grained",
+          "aromatics": "Dark plum, chocolate, tar, smoke, leather, dried herbs"
+        },
+        "key_appellations": [
+          { "name": "Taurasi DOCG", "style": "Minimum 3 years aging, Riserva 4 years" }
+        ],
+        "notable_producers": ["Mastroberardino", "Feudi di San Gregorio", "Terredora di Paolo", "Pietracupa", "Galardi", "Villa Matilde", "Quintodecimo"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Aglianico del Vulture",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental, volcanic mountain influence",
+        "soils": ["Volcanic", "Lava", "Limestone"],
+        "style_summary": "From the slopes of extinct Monte Vulture volcano in Basilicata. Elevated to DOCG (Superiore) in 2010. Must be 100% Aglianico. More accessible at a younger age than Taurasi due to slightly larger berries and higher fruit-to-skin ratio. Still substantial wines with good aging potential.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "High",
+          "tannin": "Firm but softer than Taurasi",
+          "aromatics": "Red and black fruit, violets, mineral, smoke"
+        },
+        "key_appellations": [
+          { "name": "Aglianico del Vulture DOC", "style": "Minimum 1 year aging" },
+          { "name": "Aglianico del Vulture Superiore DOCG", "style": "Minimum 3 years aging" }
+        ],
+        "notable_producers": ["d'Angelo", "Paternoster", "Elena Fucci", "Cantine del Notaio", "Basilisco", "Grifalco"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Aglianico del Taburno",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental, mountain influence",
+        "soils": ["Volcanic", "Clay-limestone"],
+        "style_summary": "From the Taburno mountain area in Benevento province, Campania. The Taburno biotype is known for high natural acidity and the largest bunches. Wines are structured with good acidity but generally more approachable than Taurasi.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Moderate to firm",
+          "aromatics": "Red fruit, violets, spice"
+        },
+        "key_appellations": [
+          { "name": "Aglianico del Taburno DOCG", "style": "100% Aglianico, minimum 2 years aging" }
+        ],
+        "notable_producers": ["Fattoria La Rivolta", "Fontanavecchia", "Torre Varano"],
+        "aging_potential": "5-15 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Campania (other)",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean to continental",
+        "soils": ["Various"],
+        "style_summary": "Aglianico appears in numerous other Campanian appellations including Falerno del Massico, Irpinia, and Lacryma Christi del Vesuvio (as a minor blending component). These wines are generally more accessible and earlier-drinking than the DOCG wines.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, light smoke"
+        },
+        "aging_potential": "3-10 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Australia",
+        "country": "Australia",
+        "importance": "minor",
+        "climate": "Warm continental",
+        "soils": ["Various"],
+        "style_summary": "A handful of Australian producers concerned by climate change have embraced Aglianico. Westend Estate in Griffith, New South Wales (owned by the Calabria family, descended from Italian immigrants) has been particularly successful, winning Best Red Wine at the 2010 Australian Alternative Varieties Wine Show.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, spice"
+        },
+        "notable_producers": ["Westend Estate (Calabria Family)", "Chalmers"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Small plantings exist in California, where producers make more rounded, accessible versions than Italian originals. Kenneth Volk in Paso Robles is a noted producer of an Italianate but softer style.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Softer than Italian",
+          "aromatics": "Dark fruit, oak influence"
+        },
+        "notable_producers": ["Kenneth Volk"],
+        "aging_potential": "5-10 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

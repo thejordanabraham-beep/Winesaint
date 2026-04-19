@@ -1,0 +1,330 @@
+{
+  "name": "BARBERA",
+  "level_2": {
+    "origins_history": "Barbera's origins remain mysterious despite its prominence in Piemonte. The first reliable reference appeared at the end of the 18th century, when Conte Nuvolone Pergamo (1787-98) mentioned the variety near Asti. The name may derive from Vinum Berberis, a medieval fermented drink made from barberry with intense red color and acidic, astringent taste.\n\nDNA studies have unexpectedly shown that Barbera bears little genetic relation to other Piemonte grapes, suggesting it was introduced to the region relatively recently and originated elsewhere through a natural cross. The variety did not become important in Piemonte as a whole until after phylloxera devastated vineyards in the late 19th century.\n\nThe variety suffered a major setback in the mid-1980s when more than thirty people died after drinking methanol-enhanced Barbera, causing dramatic decreases in plantings. However, the 1980s also saw the beginning of quality-focused Barbera production, pioneered by Giacomo Bologna with his oak-aged Bricco dell'Uccellone. French consultant Emile Peynaud had suggested using oak in the 1970s, and this approach transformed perceptions of Barbera from a simple, acidic everyday wine to a variety capable of serious, age-worthy expressions.",
+    "synonyms": ["Barbera a Peduncolo Rosso", "Barbera a Raspo Verde", "Barbera d'Asti", "Barbera Fina", "Barbera Grossa", "Barbera Nera", "Barbera Vera", "Barberone", "Lombardesca"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Barbera's parentage remains unknown despite extensive research. DNA analysis has confirmed it is genetically distinct from other Piemonte varieties, suggesting it was introduced to the region rather than originating there. It is unrelated to Barbera Bianca and Barbera del Sannio despite name similarity.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "DNA profiling shows Barbera bears little genetic relation to other Piemonte grapes, suggesting a recent introduction from elsewhere. Additional research is needed to identify parentage.",
+          "evidence": "DNA studies (Schneider et al. 2003)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Albarossa",
+          "slug": null,
+          "other_parent": "Nebbiolo",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing bred in Piemonte. Combines Barbera's acidity with Nebbiolo structure."
+        },
+        {
+          "name": "Cornarea",
+          "slug": null,
+          "other_parent": "Nebbiolo",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing. Limited plantings."
+        },
+        {
+          "name": "Ervi",
+          "slug": null,
+          "other_parent": "Bonarda Piemontese",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing bred in Piemonte."
+        },
+        {
+          "name": "Incrocio Terzi 1",
+          "slug": null,
+          "other_parent": "Cabernet Franc",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing. Rare."
+        },
+        {
+          "name": "Nebbiera",
+          "slug": null,
+          "other_parent": "Nebbiolo",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing bred in Piemonte."
+        },
+        {
+          "name": "Nigra",
+          "slug": null,
+          "other_parent": "Unknown",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing. Limited cultivation."
+        },
+        {
+          "name": "San Michele",
+          "slug": null,
+          "other_parent": "Unknown",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing bred in Piemonte."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Despite being Piemonte's most widely planted variety, Barbera's genetic isolation from other regional grapes suggests it arrived relatively recently. Its high acidity and ability to retain freshness in warm conditions have made it valuable for breeding programs aimed at creating climate-adapted varieties."
+    },
+    "clones": [
+      {
+        "name": "R4",
+        "origin": "Asti, Italy",
+        "characteristics": "Historic clone registered in 1969. Produces fresh, ready-to-drink wines of ruby-red color with moderate tannins. One of the original quality selections.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Asti", "Alba"],
+        "approved": "1969"
+      },
+      {
+        "name": "Clone 84",
+        "origin": "Piemonte, Italy",
+        "characteristics": "Selected by CVT Turin, registered 1980. Medium to small clusters with early to mid-season maturity. Increasingly popular for quality-focused California plantings. One of the most planted clones in Italy.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Piemonte", "California"],
+        "approved": "1980"
+      },
+      {
+        "name": "Clone 171",
+        "origin": "Piemonte, Italy",
+        "characteristics": "CVT-CNR selection from Torino. Quality-focused clone imported to UC Davis in 1993.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Piemonte", "California"],
+        "approved": "1993"
+      },
+      {
+        "name": "Clone 19",
+        "origin": "Calosso d'Asti, Italy",
+        "characteristics": "Good anthocyanin and polyphenol content with scents of red fruits and balsamic notes. One of the best clones for wines intended for aging. Good body, structure, and color with spicy character.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Asti"],
+        "approved": "2007"
+      },
+      {
+        "name": "Clone 101",
+        "origin": "Calosso d'Asti, Italy",
+        "characteristics": "Produces wines with intense ripe fruit and red fruit hints. Suited for young or medium-aged expressions.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Asti"],
+        "approved": "2007"
+      },
+      {
+        "name": "Clone 207",
+        "origin": "Costa Vescovato (AL), Italy",
+        "characteristics": "Excellent anthocyanin content, fruity-spicy character, rich in polyphenols. Suited for medium and long aging wines.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Alessandria"],
+        "approved": "2009"
+      },
+      {
+        "name": "Clone 223",
+        "origin": "Montecalvo Versiggia (PV), Italy",
+        "characteristics": "Produces fruity wines with good acidity and balance. Best enjoyed young or lightly aged.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Oltrepo Pavese"],
+        "approved": "2009"
+      },
+      {
+        "name": "Clone 433",
+        "origin": "Calosso d'Asti, Italy",
+        "characteristics": "Excellent polyphenolic and aromatic profile with clear floral, red-fruit, and phenolic notes. Suited for medium and long aging.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Asti"],
+        "approved": "2007"
+      },
+      {
+        "name": "Clone 15",
+        "origin": "Italy",
+        "characteristics": "Medium-size clusters and berries, medium vigor, mid-season development. Produces wines with deep ruby red color and good aging potential when canopy is properly managed.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Piemonte", "California"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Calcareous Marl",
+        "also_known_as": ["Marne", "Limestone-Clay"],
+        "effect": "The signature soil of the Langhe and Monferrato hills. Provides good drainage and moderate fertility. Contributes to wine freshness and minerality while allowing concentration through moderate vine stress.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Cherry, plum, violet, mineral"
+        },
+        "regions": ["Alba", "Asti", "Monferrato"]
+      },
+      {
+        "soil": "Sandy Clay",
+        "effect": "Found in lower elevations and some Oltrepo Pavese sites. More water-retentive, producing softer wines with broader fruit character.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "aromatics": "Ripe cherry, strawberry, softer tannins"
+        },
+        "regions": ["Oltrepo Pavese", "Emilia-Romagna"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Common in California's Sierra Foothills and Lodi. Well-drained, warm soils produce riper expressions with softer acidity while retaining characteristic freshness.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "aromatics": "Ripe cherry, blackberry, spice"
+        },
+        "regions": ["Amador County", "Sierra Foothills", "Lodi"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Leafroll Virus",
+          "severity": "high",
+          "type": "viral",
+          "notes": "Barbera is susceptible to leafroll virus, which reduces fruit quality and color. Recent clonal selection work has focused on improving virus resistance.",
+          "impact_on_wine": "Reduced color, delayed ripening, lower sugar accumulation"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Compact clusters can be susceptible to botrytis in wet conditions.",
+          "impact_on_wine": "Crop loss in severe cases"
+        }
+      ],
+      "resistances": [],
+      "general_notes": "Barbera is productive and vigorous, requiring yield control for quality wine production. It ripens relatively late (after Dolcetto but before Nebbiolo) but retains remarkably high acidity even when fully ripe, a key characteristic. The variety benefits from careful canopy management to maintain color and prevent disease."
+    },
+    "regional_expressions": [
+      {
+        "region": "Barbera d'Asti",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Calcareous marl", "Clay-limestone"],
+        "style_summary": "Elevated to DOCG from 2008 vintage. The heartland of serious Barbera, where the variety gets the best vineyard sites (unlike Alba, where Nebbiolo takes priority). Allows up to 15% Freisa, Grignolino, and/or Dolcetto. Subzones Nizza, Tinella, and Colli Astiano recognized for quality. Wide range from fresh, unoaked everyday wines to dense, barrique-aged expressions.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Low to moderate",
+          "aromatics": "Bright cherry, raspberry, plum, violet; oak-aged versions add vanilla, spice, chocolate"
+        },
+        "key_appellations": [
+          { "name": "Barbera d'Asti DOCG", "style": "Fresh to structured, varies by producer" },
+          { "name": "Nizza DOCG", "style": "Premium subzone, structured, age-worthy" },
+          { "name": "Barbera d'Asti Superiore", "style": "Higher minimum standards" }
+        ],
+        "notable_producers": ["Braida (Giacomo Bologna)", "Vietti", "Michele Chiarlo", "Coppo", "La Spinetta", "Prunotto"],
+        "aging_potential": "3-15 years for top wines",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Barbera d'Alba",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Calcareous marl", "Clay-limestone"],
+        "style_summary": "DOC appellation in the Langhe hills around Alba. While Nebbiolo claims the best vineyard sites for Barolo and Barbaresco, Barbera still produces excellent wines from remaining sites. Many top Barolo producers make fine Barbera as well. Best areas are hills north and south of Alba and Monforte d'Alba.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Low to moderate",
+          "aromatics": "Cherry, plum, spice, sometimes tobacco"
+        },
+        "key_appellations": [
+          { "name": "Barbera d'Alba DOC", "style": "Fresh to oak-aged, versatile" },
+          { "name": "Barbera d'Alba Superiore", "style": "Minimum 1 year aging" }
+        ],
+        "notable_producers": ["Elio Altare", "Domenico Clerico", "Conterno-Fantino", "Aldo Conterno", "Giacomo Conterno", "Scavino"],
+        "aging_potential": "3-12 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Oltrepo Pavese",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Continental",
+        "soils": ["Clay", "Sandy clay"],
+        "style_summary": "In Lombardia, south of the Po River. Barbera is widely planted here, producing easy varietal wines, some fizzy (frizzante), or blended with Croatina and Bonarda. Generally lighter, simpler style than Piemonte.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Low",
+          "aromatics": "Fresh cherry, red fruits"
+        },
+        "wine_styles": ["Still dry", "Frizzante"],
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "major",
+        "climate": "Mediterranean, warm to hot",
+        "soils": ["Sandy loam", "Various"],
+        "style_summary": "More than 7,000 hectares planted (2008), particularly successful in Sierra Foothills where older vines produce concentrated wines. Benefited from the Cal-Ital vogue of the 1990s. Generally riper, fuller style than Italian originals but retaining characteristic acidity.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Low to moderate",
+          "aromatics": "Ripe cherry, blackberry, plum, often with oak influence"
+        },
+        "notable_producers": ["Yorba", "Jeff Rundquist", "Renwood", "Turley", "Ridge (Lytton Springs blend)"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Argentina",
+        "country": "Argentina",
+        "importance": "moderate",
+        "climate": "Continental, high altitude",
+        "soils": ["Alluvial", "Sandy"],
+        "style_summary": "Nearly 800 hectares planted (2007). Italian immigrants brought the variety. Produces fruit-forward wines with good acidity, often used for everyday drinking or blends.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Low",
+          "aromatics": "Red fruit, cherry, soft spice"
+        },
+        "notable_producers": ["Norton", "La Agricola"],
+        "aging_potential": "2-5 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Australia",
+        "country": "Australia",
+        "importance": "minor",
+        "climate": "Various",
+        "soils": ["Various"],
+        "style_summary": "Reputation rising despite slow progress since introduction in the 1960s. Found in Victoria (King Valley with Italian-Australian producers) and New South Wales. Some innovative styles including an Amarone-style from Centennial Vineyards.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Low to moderate",
+          "aromatics": "Cherry, plum, spice"
+        },
+        "notable_producers": ["Brown Bros", "Gary Crittenden", "Dal Zotto", "Gapsted", "Mount Langi Ghiran", "Michelini", "Centennial Vineyards"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

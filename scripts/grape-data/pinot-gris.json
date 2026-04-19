@@ -1,0 +1,195 @@
+{
+  "name": "PINOT GRIS",
+  "level_2": {
+    "origins_history": "Pinot Gris is a color mutation of Pinot Noir, with grayish-pink skins rather than black. The mutation likely occurred in Burgundy centuries ago and has been documented in European vineyards since the Middle Ages. Genetically, Pinot Gris and Pinot Noir are identical except for the genes controlling skin color.\n\nThe variety spread from Burgundy through Switzerland to Alsace, where it became an important variety by the 17th century. It also traveled to northern Italy, where as Pinot Grigio it found enormous commercial success in the late 20th century.\n\nPinot Gris produces remarkably different wine styles depending on region and winemaking. Alsace Grand Cru wines can be rich, full-bodied, and age-worthy. Italian Pinot Grigio is typically light, crisp, and meant for early drinking. Oregon has emerged as an important New World region, producing wines that bridge these styles.",
+    "synonyms": ["Pinot Grigio (Italy)", "Grauburgunder (Germany, Austria)", "Ruländer (Germany, sweet wines)", "Tokay d'Alsace (historical)", "Szürkebarát (Hungary)", "Malvoisie (Switzerland)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Pinot Gris is a color mutation of Pinot Noir. They share identical DNA except for the genes controlling skin pigmentation.",
+      "parents": [
+        {
+          "name": "Pinot Noir (mutation)",
+          "slug": "pinot-noir",
+          "confirmed": true,
+          "notes": "Pinot Gris arose as a natural color mutation of Pinot Noir.",
+          "evidence": "DNA analysis confirms identical genetics except for color genes"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Pinot Blanc",
+          "type": "color_mutation",
+          "description": "Further mutation to white-skinned berries. Also genetically identical to Pinot Noir except for color."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Pinot Noir",
+          "slug": "pinot-noir",
+          "relationship": "Mutation parent"
+        },
+        {
+          "name": "Pinot Blanc",
+          "slug": "pinot-blanc",
+          "relationship": "Fellow mutation"
+        }
+      ],
+      "genetic_significance": "The Pinot family demonstrates how significant wine style differences can arise from simple color mutations while maintaining identical core genetics."
+    },
+    "clones": [
+      {
+        "name": "Clone 52",
+        "origin": "Alsace, France",
+        "characteristics": "Standard Alsace clone with good aromatic intensity and structure. Used for premium dry and late-harvest wines.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Alsace"]
+      },
+      {
+        "name": "Clone 53",
+        "origin": "Alsace, France",
+        "characteristics": "Selected for Grand Cru production. Lower yields with exceptional concentration.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Alsace"]
+      },
+      {
+        "name": "Clone SMA 505",
+        "origin": "Italy",
+        "characteristics": "Italian selection adapted to crisp, fresh wine production. Higher yields with earlier ripening.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Alto Adige", "Friuli"]
+      },
+      {
+        "name": "Oregon Selections",
+        "origin": "Oregon, USA",
+        "characteristics": "Selections adapted to Oregon's cool climate. Balance between Italian freshness and Alsatian richness.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Willamette Valley"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Granite",
+        "effect": "Found in parts of Alsace Grand Cru vineyards. Produces wines with mineral intensity and elegance.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, honey, mineral, smoke"
+        },
+        "regions": ["Alsace (Brand, Schlossberg)"]
+      },
+      {
+        "soil": "Limestone-Marl",
+        "also_known_as": ["Muschelkalk"],
+        "effect": "Common in Alsace and northern Italy. Produces fuller, more textural wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Pear, honey, spice, waxy texture"
+        },
+        "regions": ["Alsace", "Alto Adige"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Found in Alto Adige and parts of Oregon. Produces wines with crisp acidity and mineral notes.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Citrus, green apple, mineral"
+        },
+        "regions": ["Alto Adige", "Willamette Valley"]
+      },
+      {
+        "soil": "Clay-Loam",
+        "effect": "Common in Oregon and Friuli. Produces rounder, fruit-forward wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "aromatics": "Pear, apple, melon"
+        },
+        "regions": ["Willamette Valley", "Friuli"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Thin skins and tight clusters make it susceptible. Can be beneficial for late-harvest wines.",
+          "impact_on_wine": "Noble rot for sweet wines; grey rot problematic for dry wines"
+        },
+        {
+          "disease": "Powdery Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Like all Pinot varieties, moderately susceptible.",
+          "impact_on_wine": "Requires standard spray programs"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "excellent",
+          "notes": "Ripens earlier than Pinot Noir, succeeding in cooler sites."
+        }
+      ],
+      "general_notes": "Pinot Gris ripens early to mid-season with moderate vigor. The variety is susceptible to the same mutations that affect all Pinot varieties. Skin contact time dramatically affects wine style, from pale and crisp (minimal contact) to copper-colored and rich (extended contact). The variety accumulates sugar readily and can produce high-alcohol wines if not carefully managed."
+    },
+    "regional_expressions": [
+      {
+        "region": "Alsace",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental",
+        "soils": ["Granite", "Limestone", "Clay", "Volcanic"],
+        "style_summary": "Alsace produces the richest, most full-bodied Pinot Gris in the world. Grand Cru wines can age for decades. The variety is one of Alsace's four noble grapes. Styles range from bone-dry to lusciously sweet Vendange Tardive and Selection de Grains Nobles.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Honey, smoke, stone fruit, spice, exotic fruit"
+        },
+        "notable_producers": ["Zind-Humbrecht", "Weinbach", "Marcel Deiss", "Trimbach"],
+        "aging_potential": "5-20+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Alto Adige/Friuli",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Cool alpine",
+        "soils": ["Volcanic", "Limestone", "Gravel"],
+        "style_summary": "Northern Italy produces fresh, crisp Pinot Grigio that has become enormously popular worldwide. Quality ranges from simple and refreshing to surprisingly complex. The best examples from Alto Adige rival Alsace for depth.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Citrus, green apple, pear, almond"
+        },
+        "notable_producers": ["Alois Lageder", "Elena Walch", "Jermann", "Livio Felluga"],
+        "aging_potential": "1-5 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Oregon",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Cool maritime",
+        "soils": ["Volcanic", "Clay-loam", "Marine sediment"],
+        "style_summary": "Oregon has emerged as the leading New World region for quality Pinot Gris. Wines bridge Italian freshness and Alsatian richness. Both lean, crisp styles and fuller, barrel-influenced versions are produced.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Pear, apple, melon, honey, citrus"
+        },
+        "notable_producers": ["Eyrie", "King Estate", "Chehalem"],
+        "aging_potential": "2-6 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

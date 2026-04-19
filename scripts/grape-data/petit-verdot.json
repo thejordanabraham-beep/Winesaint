@@ -1,0 +1,197 @@
+{
+  "name": "PETIT VERDOT",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Petit Verdot is an ancient Bordeaux variety with no confirmed parentage. DNA studies suggest it may be a parent of several other Bordeaux varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to the Bordeaux region.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Gros Verdot",
+          "slug": null,
+          "relationship": "possible offspring or sibling",
+          "notes": "Related variety, possibly offspring or sharing a parent."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Petit Verdot's ancient origins and role in Bordeaux blends make it historically significant. The variety's late ripening limited its use in Bordeaux but made it valuable in warmer New World regions."
+    },
+    "clones": [
+      {
+        "name": "Clone 400",
+        "origin": "France",
+        "characteristics": "Standard French clone with good color extraction and tannic structure.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bordeaux", "California"]
+      },
+      {
+        "name": "Clone 401",
+        "origin": "France",
+        "characteristics": "Selected for aromatic intensity, particularly violet notes.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bordeaux"]
+      },
+      {
+        "name": "Clone 1",
+        "origin": "California",
+        "characteristics": "California selection adapted to warmer conditions. Reliable ripening.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["California", "Australia"]
+      },
+      {
+        "name": "Médoc Heritage Selection",
+        "origin": "Médoc, France",
+        "characteristics": "Traditional massal selections. Maximum aromatic complexity.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Bordeaux"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Gravel over Clay",
+        "effect": "Classic Médoc terroir. Gravel provides drainage and heat retention for this late-ripening variety.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Very firm",
+          "aromatics": "Violet, blackberry, pencil shavings, spice"
+        },
+        "regions": ["Médoc", "Haut-Médoc"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Found in warmer New World sites. Produces powerful, concentrated wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Blackberry, violet, chocolate, spice"
+        },
+        "regions": ["California", "Australia"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Emerging terroir in regions like Spain. Adds mineral complexity.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, violet, mineral, herbs"
+        },
+        "regions": ["Spain"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Very susceptible to poor fruit set in cool, wet conditions.",
+          "impact_on_wine": "Major factor limiting yields and Bordeaux plantings"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Late ripening makes it well-suited to warm climates."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Deep roots help tolerate dry conditions."
+        }
+      ],
+      "general_notes": "Petit Verdot is the latest-ripening of the Bordeaux varieties, rarely achieving full ripeness in cooler Bordeaux vintages. The variety provides intense color, firm tannins, and distinctive violet aromatics to blends. In warm climates like California, Australia, and Spain, it can be successfully vinified as a varietal."
+    },
+    "regional_expressions": [
+      {
+        "region": "Médoc/Haut-Médoc",
+        "country": "France",
+        "importance": "benchmark (as blending component)",
+        "climate": "Maritime",
+        "soils": ["Gravel", "Clay"],
+        "style_summary": "Traditional home of Petit Verdot, used in small percentages (typically 1-5%) in Bordeaux blends to add color, structure, and violet aromatics. Rarely ripens fully, limiting its role. Climate change may increase its importance.",
+        "typical_character": {
+          "body": "Full (when ripe)",
+          "acidity": "High",
+          "tannin": "Very firm",
+          "aromatics": "Violet, blackberry, pencil shavings, spice"
+        },
+        "notable_producers": ["Château Margaux", "Château Palmer", "Most Grand Cru classé estates (as component)"],
+        "aging_potential": "As component: 20-50+ years",
+        "price_range": "Component only"
+      },
+      {
+        "region": "California (Napa/Paso Robles)",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Volcanic", "Clay-loam", "Alluvial"],
+        "style_summary": "California's warm climate allows Petit Verdot to fully ripen, enabling varietal bottlings. Wines are powerful, deeply colored, with pronounced violet and dark fruit character. Increasingly popular as producers recognize its potential.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, velvety",
+          "aromatics": "Blackberry, violet, chocolate, espresso, spice"
+        },
+        "notable_producers": ["Pride Mountain", "Stags' Leap Winery", "Michael David"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Australia (various)",
+        "country": "Australia",
+        "importance": "emerging",
+        "climate": "Various warm climates",
+        "soils": ["Various"],
+        "style_summary": "Australian producers increasingly vinify Petit Verdot as a varietal, taking advantage of warm conditions. Powerful, deeply colored wines with New World generosity.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Blackberry, plum, violet, chocolate"
+        },
+        "notable_producers": ["Henschke", "Various Barossa producers"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Spain",
+        "country": "Spain",
+        "importance": "emerging",
+        "climate": "Continental/Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Spanish producers are exploring Petit Verdot both as a blending grape and varietal. The warm climate ensures ripeness, and innovative winemakers are showcasing its potential.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, violet, herbs, mineral"
+        },
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

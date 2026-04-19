@@ -1,0 +1,329 @@
+{
+  "name": "MERLOT",
+  "level_2": {
+    "origins_history": "Merlot originated in southwestern France, most likely in the Libournais area of Bordeaux's Right Bank. DNA analysis confirmed Merlot is an offspring of Cabernet Franc and an obscure variety called Magdeleine Noire des Charentes. The same parentage, with Sauvignon Blanc replacing Magdeleine Noire, produced Cabernet Sauvignon.\n\nThe name Merlot first appeared in records from the Libournais in 1784, derived from the local word 'merlau' for the blackbird (merle), possibly referring to the bird's fondness for the ripe berries or the grape's blue-black color.\n\nMerlot's rise to global prominence came gradually. In Bordeaux, it remained secondary to Cabernet Sauvignon until the late 20th century, when changing tastes and the emergence of the Right Bank's premium wines elevated its status. The 2004 film Sideways temporarily damaged Merlot's reputation in the United States, though quality examples have since restored its standing among collectors.",
+    "synonyms": ["Bigney", "Crabutet Noir", "Merlau", "Plant Médoc", "Picard", "Langon", "Vitraille"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Merlot is a natural crossing of Cabernet Franc and Magdeleine Noire des Charentes. This parentage was confirmed through DNA analysis in 2009. Merlot is a half-sibling to Cabernet Sauvignon.",
+      "parents": [
+        {
+          "name": "Cabernet Franc",
+          "slug": "cabernet-franc",
+          "confirmed": true,
+          "notes": "One parent of Merlot, confirmed through DNA analysis in 2009.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        },
+        {
+          "name": "Magdeleine Noire des Charentes",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Second parent, an obscure variety nearly extinct. Discovered in a village garden in Charente.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Merlot Gris",
+          "type": "color_mutation",
+          "description": "Pink-berried mutation rarely cultivated. Found occasionally in old Bordeaux vineyards."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Cabernet Sauvignon",
+          "slug": "cabernet-sauvignon",
+          "relationship": "Half-sibling (shares Cabernet Franc parent)"
+        },
+        {
+          "name": "Carmenère",
+          "slug": "carmenere",
+          "relationship": "Possible half-sibling through Cabernet Franc"
+        }
+      ],
+      "genetic_significance": "The 2009 discovery of Merlot's parentage solved a long-standing mystery and highlighted how obscure varieties can contribute to important cultivars. The near-extinction of Magdeleine Noire demonstrates the fragility of genetic heritage."
+    },
+    "clones": [
+      {
+        "name": "Clone 181",
+        "origin": "France",
+        "characteristics": "French selection producing concentrated, structured wines. Moderate yields with good color and tannin.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Bordeaux", "Languedoc"]
+      },
+      {
+        "name": "Clone 182",
+        "origin": "France",
+        "characteristics": "Similar to 181, selected for quality in cooler sites. Good color extraction and aromatic intensity.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Bordeaux"]
+      },
+      {
+        "name": "Clone 314",
+        "origin": "France",
+        "characteristics": "High-quality clone with loose clusters, reducing botrytis risk. Intense color and structure.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Bordeaux", "Right Bank"]
+      },
+      {
+        "name": "Clone 343",
+        "origin": "France",
+        "characteristics": "Productive clone with moderate quality. Often used for volume production.",
+        "yield": "high",
+        "berry_size": "medium",
+        "regions": ["Languedoc", "Southwest France"]
+      },
+      {
+        "name": "Clone 519",
+        "origin": "France",
+        "characteristics": "High-quality selection with small berries and concentrated juice. Excellent for premium wines.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Pomerol", "Saint-Emilion"]
+      },
+      {
+        "name": "Clone 347",
+        "origin": "France",
+        "characteristics": "Balanced clone with good quality and reasonable yields. Widely planted in Bordeaux.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Bordeaux"]
+      },
+      {
+        "name": "Clone 3 (UC Davis FPS)",
+        "origin": "California, USA",
+        "characteristics": "Widely planted in California. Loose clusters, good quality in warm climates.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Napa Valley", "Sonoma"]
+      },
+      {
+        "name": "Clone 6 (UC Davis FPS)",
+        "origin": "California, USA",
+        "characteristics": "Selected for California conditions. Produces soft, approachable wines.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["California"]
+      },
+      {
+        "name": "Pomerol Heritage Selection",
+        "origin": "Pomerol, France",
+        "characteristics": "Massal selections from premier Pomerol estates. Low yields, exceptional concentration, intense plum and mineral character. These selections have produced legendary wines for generations.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Pomerol", "Saint-Emilion"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Blue Clay (Argile Bleue)",
+        "also_known_as": ["Argile bleue de Pomerol"],
+        "effect": "The defining soil of Pomerol's plateau. Cold, water-retentive clay stresses vines appropriately and produces the richest, most concentrated Merlot. The clay contributes to the wine's characteristic silky texture and intense dark fruit.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Silky, fine",
+          "aromatics": "Plum, truffle, mineral, chocolate, violets"
+        },
+        "regions": ["Pomerol", "Saint-Emilion"]
+      },
+      {
+        "soil": "Limestone-Clay",
+        "also_known_as": ["Calcaire-argileux"],
+        "effect": "Common in Saint-Emilion. Produces elegant, structured wines with good acidity and aging potential. The limestone contributes mineral character and freshness.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "tannin": "Firm, structured",
+          "aromatics": "Red fruit, mineral, herbs, tobacco"
+        },
+        "regions": ["Saint-Emilion", "Cotes de Bordeaux"]
+      },
+      {
+        "soil": "Gravel",
+        "effect": "Found on the edges of Pomerol and parts of the Left Bank. Excellent drainage promotes earlier ripening. Produces more structured, less opulent wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Cassis, graphite, earth"
+        },
+        "regions": ["Graves", "Pessac-Leognan"]
+      },
+      {
+        "soil": "Sandy Gravel",
+        "effect": "Common in Fronsac and parts of Saint-Emilion satellites. Produces softer, earlier-drinking wines with pronounced fruit character.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Plum, red fruit, soft spice"
+        },
+        "regions": ["Fronsac", "Lalande-de-Pomerol"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Found in parts of Washington State and Chile. Produces intensely colored, mineral wines with good structure and freshness.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Moderate to firm",
+          "aromatics": "Dark fruit, mineral, herbs, smoke"
+        },
+        "regions": ["Washington State", "Chile"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis (Grey Rot)",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Merlot's thin skins and tight clusters make it highly susceptible to botrytis. Wet harvests can cause significant crop loss.",
+          "impact_on_wine": "Dilution, off-flavors, crop loss"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Merlot is prone to poor fruit set during cold, wet weather at flowering. This can dramatically reduce yields.",
+          "impact_on_wine": "Reduced yields, increased concentration in surviving fruit"
+        },
+        {
+          "disease": "Esca",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to this trunk disease, particularly in older vines.",
+          "impact_on_wine": "Vine decline and death"
+        },
+        {
+          "disease": "Leafroll Virus",
+          "severity": "moderate",
+          "type": "viral",
+          "notes": "Can harbor leafroll virus, affecting ripening and quality. Certified virus-free material recommended.",
+          "impact_on_wine": "Delayed ripening, reduced quality"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cold Tolerance",
+          "level": "moderate",
+          "notes": "Moderately winter-hardy but buds early, risking spring frost damage."
+        }
+      ],
+      "general_notes": "Merlot is an early-budding, early-ripening variety that produces soft, approachable wines when properly managed. It requires careful site selection to avoid frost risk and careful canopy management to reduce botrytis pressure. The variety performs best on cool, clay-rich soils that moderate ripening and maintain acidity. On warm sites, Merlot can become overripe and lose freshness quickly."
+    },
+    "regional_expressions": [
+      {
+        "region": "Pomerol",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Maritime, temperate",
+        "soils": ["Blue clay", "Clay-gravel"],
+        "style_summary": "The world's most prestigious Merlot region, where the variety reaches its zenith on the blue clay plateau. Wines from Pomerol are opulent, silky, and age beautifully, developing truffle and mineral complexity. The tiny appellation produces some of the world's most expensive wines.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Silky, fine",
+          "aromatics": "Plum, truffle, chocolate, violets, mineral"
+        },
+        "notable_producers": ["Petrus", "Le Pin", "Lafleur", "Trotanoy", "L'Evangile", "Vieux Chateau Certan"],
+        "aging_potential": "15-50+ years",
+        "price_range": "$$$$ to $$$$$"
+      },
+      {
+        "region": "Saint-Emilion",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Maritime, temperate",
+        "soils": ["Limestone-clay", "Sand", "Gravel"],
+        "style_summary": "Bordeaux's largest fine wine appellation, with diverse terroirs producing varying styles. Limestone plateau sites rival Pomerol for quality, while gravelly slopes produce firmer wines. Merlot often dominates blends with Cabernet Franc.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate to firm",
+          "aromatics": "Red and black fruit, herbs, mineral"
+        },
+        "key_appellations": [
+          { "name": "Saint-Emilion Grand Cru", "style": "Structured, age-worthy" },
+          { "name": "Saint-Emilion Premier Grand Cru Classe", "style": "Complex, long-lived" }
+        ],
+        "notable_producers": ["Cheval Blanc", "Ausone", "Pavie", "Canon", "Figeac"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Napa Valley",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Mediterranean, warm",
+        "soils": ["Volcanic", "Alluvial", "Clay"],
+        "style_summary": "California Merlot ranges from soft and approachable to structured and age-worthy. The warm climate produces ripe, generous fruit character. Quality has improved significantly as producers focus on site selection and lower yields.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Plum, cherry, chocolate, vanilla, herbs"
+        },
+        "notable_producers": ["Duckhorn", "Pahlmeyer", "Pride Mountain"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Ticino",
+        "country": "Switzerland",
+        "importance": "major",
+        "climate": "Mediterranean-Alpine",
+        "soils": ["Granitic", "Sandy"],
+        "style_summary": "Merlot dominates this Italian-speaking Swiss canton, producing elegant, structured wines. The combination of warm days and cool alpine nights creates refined tannins and fresh acidity. Quality has risen dramatically in recent decades.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "tannin": "Fine, structured",
+          "aromatics": "Dark fruit, herbs, mineral, tobacco"
+        },
+        "notable_producers": ["Gialdi", "Werner Stucky", "Daniel Huber"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Washington State",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Continental, desert",
+        "soils": ["Volcanic", "Loess", "Sandy"],
+        "style_summary": "Washington's dry climate and temperature extremes produce intensely colored, structured Merlot. The Columbia Valley and Walla Walla have emerged as quality regions. These wines often show better aging potential than California examples.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Moderate, structured",
+          "aromatics": "Black cherry, plum, herbs, coffee, mineral"
+        },
+        "notable_producers": ["Leonetti", "Quilceda Creek", "Andrew Will", "L'Ecole No. 41"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Chile",
+        "country": "Chile",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Alluvial", "Volcanic"],
+        "style_summary": "Chile produces large quantities of value-oriented Merlot alongside more serious examples from specific sites. The variety thrives in the country's Mediterranean climate. Quality has improved as producers reduce yields and focus on terroir.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Plum, cherry, herbs, green notes (warmer sites)"
+        },
+        "aging_potential": "3-10 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "ALBARIÑO",
+  "level_2": {
+    "origins_history": "Albariño is the signature white grape of Galicia in northwestern Spain and northern Portugal (as Alvarinho). DNA analysis has revealed that Albariño is a natural crossing of Loureiro Blanco and Caíño Blanco, confirming its Iberian origins and disproving romantic theories of German monastic introduction.\n\nThe variety has been cultivated in Galicia for centuries, adapted to the region's cool, rainy Atlantic climate. It remained largely unknown outside Iberia until the late 20th century, when Rias Baixas emerged as Spain's premier white wine region.\n\nAlbariño's combination of aromatic intensity, crisp acidity, and maritime mineral character has made it internationally popular. It is now planted in California, Oregon, Australia, and other New World regions seeking to produce fresh, aromatic white wines.",
+    "synonyms": ["Alvarinho (Portugal)", "Albariña", "Galego"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Albariño is a natural crossing of Loureiro Blanco and Caíño Blanco. DNA analysis has confirmed this Galician parentage.",
+      "parents": [
+        {
+          "name": "Loureiro Blanco",
+          "slug": null,
+          "confirmed": true,
+          "notes": "One parent of Albariño, cultivated in Galicia and northern Portugal.",
+          "evidence": "DNA analysis"
+        },
+        {
+          "name": "Caíño Blanco",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Second parent, a Galician variety.",
+          "evidence": "DNA analysis"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Albariño's confirmed Galician parentage disproved theories of German origins and established it as an indigenous Iberian variety."
+    },
+    "clones": [
+      {
+        "name": "Clon 1",
+        "origin": "Rias Baixas, Spain",
+        "characteristics": "Standard certified Spanish clone with good aromatic intensity and typical varietal character.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Rias Baixas"]
+      },
+      {
+        "name": "EVAG Clone",
+        "origin": "Galicia, Spain",
+        "characteristics": "Research station selection with improved disease resistance.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Rias Baixas", "Ribeiro"]
+      },
+      {
+        "name": "Salnes Heritage Selection",
+        "origin": "Val do Salnés, Spain",
+        "characteristics": "Massal selections from old vineyards in the Salnés Valley. Low yields, exceptional mineral intensity.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Val do Salnés"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Decomposed Granite",
+        "also_known_as": ["Xabre"],
+        "effect": "The classic soil of Rias Baixas. Sandy granite provides excellent drainage and contributes mineral, saline character. Produces the most elegant wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, peach, white flowers, saline mineral"
+        },
+        "regions": ["Val do Salnés", "Condado do Tea"]
+      },
+      {
+        "soil": "Alluvial",
+        "effect": "Found along river valleys. Produces rounder, more fruit-forward wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, citrus, less mineral"
+        },
+        "regions": ["O Rosal"]
+      },
+      {
+        "soil": "Schist",
+        "effect": "Found in parts of the Minho region in Portugal. Produces more structured wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, mineral, herbs"
+        },
+        "regions": ["Vinho Verde"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Highly susceptible to botrytis in Galicia's humid climate. Requires careful canopy management.",
+          "impact_on_wine": "Grey rot can devastate crops in wet years"
+        },
+        {
+          "disease": "Downy Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "The Atlantic climate creates high disease pressure.",
+          "impact_on_wine": "Requires vigilant spray programs"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "excellent",
+          "notes": "Thrives in cool, Atlantic-influenced climates where it maintains acidity."
+        }
+      ],
+      "general_notes": "Albariño is a thick-skinned variety that ripens mid-season. Its resistance to disease is compromised by Galicia's humid climate, requiring careful viticulture. Traditional pergola training (parral) lifts fruit above ground moisture. The variety's high acidity and aromatic intensity are best preserved with cool fermentation and minimal oxidation. Most wines are released young to preserve freshness."
+    },
+    "regional_expressions": [
+      {
+        "region": "Rias Baixas",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Atlantic, cool, humid",
+        "soils": ["Granite", "Alluvial"],
+        "style_summary": "Spain's premier white wine region and the definitive expression of Albariño. Five subzones show distinct character, with Val do Salnés producing the most mineral, age-worthy wines. Fresh, aromatic, with characteristic saline minerality.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Peach, citrus, white flowers, almond, saline mineral"
+        },
+        "notable_producers": ["Pazo de Señoráns", "Do Ferreiro", "Zárate", "Forjas del Salnés"],
+        "aging_potential": "2-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Vinho Verde (Alvarinho)",
+        "country": "Portugal",
+        "importance": "major",
+        "climate": "Atlantic",
+        "soils": ["Granite", "Schist"],
+        "style_summary": "Northern Portugal's contribution to the variety. Monção and Melgaço subregions produce the most serious Alvarinho, often richer than Spanish examples. Can be blended with Loureiro and other local varieties.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, stone fruit, mineral"
+        },
+        "notable_producers": ["Anselmo Mendes", "Soalheiro"],
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "name": "VERDEJO",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Verdejo is an ancient Spanish variety with possible North African ancestry, brought to Castile during the Moorish period.",
+      "parents": [
+        {
+          "name": "Unknown (possibly North African)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Possible North African origins suggested by historical records and genetic markers.",
+          "evidence": "Historical sources, DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Verdejo's unique character and possible North African ancestry make it an important part of Iberian viticultural heritage. The variety represents a potential link between Mediterranean and North African viticulture."
+    },
+    "clones": [
+      {
+        "name": "Rueda Traditional Selection",
+        "origin": "Rueda, Spain",
+        "characteristics": "Traditional selections from Rueda's oldest vineyards. Intense herbaceous aromatics with characteristic fennel notes.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Rueda"]
+      },
+      {
+        "name": "La Seca Selection",
+        "origin": "La Seca, Rueda",
+        "characteristics": "Selections from the La Seca village, known for particularly mineral wines.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Rueda"]
+      },
+      {
+        "name": "Clone VD-1",
+        "origin": "Spain",
+        "characteristics": "Certified clone with balanced aromatics and good acidity retention.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Rueda", "Castilla y León"]
+      },
+      {
+        "name": "Old Vine Selection",
+        "origin": "Rueda, Spain",
+        "characteristics": "Massal selections from pre-phylloxera vines, some exceeding 100 years. Maximum complexity and concentration.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Rueda"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Alluvial with Gravel",
+        "also_known_as": ["Cascajo"],
+        "effect": "Common in Rueda's river terraces. Excellent drainage produces aromatic, fresh wines with pronounced herbaceous character.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Fennel, citrus, grass, bitter almond"
+        },
+        "regions": ["Rueda"]
+      },
+      {
+        "soil": "Sandy-Limestone",
+        "effect": "Higher sites in Rueda produce more mineral, structured wines with aging potential.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, herbs, mineral"
+        },
+        "regions": ["Rueda"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Produces fuller, more textured wines with slightly softer acidity.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, herbs, fennel"
+        },
+        "regions": ["Rueda"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "low",
+          "type": "fungal",
+          "notes": "Dry Castilian climate minimizes risk.",
+          "impact_on_wine": "Rarely problematic"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in Castilla's continental heat."
+        },
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Well-adapted to dry plateau conditions."
+        },
+        {
+          "condition": "Cold Winters",
+          "level": "excellent",
+          "notes": "Survives harsh Castilian winters."
+        }
+      ],
+      "general_notes": "Verdejo is a mid-ripening variety that develops distinctive herbaceous aromatics (fennel, grass) and bitter almond character. The variety must be harvested carefully to balance freshness with ripeness. Night harvesting is common to preserve aromatics in the hot climate."
+    },
+    "regional_expressions": [
+      {
+        "region": "Rueda DO",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Alluvial", "Gravel", "Sandy-limestone"],
+        "style_summary": "Spain's most successful white wine region, producing fresh, aromatic Verdejo that has revitalized Spanish white wine. Styles range from crisp, unoaked Joven examples to barrel-fermented and extended lees-aged wines. Old vines produce increasingly serious expressions.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Fennel, citrus, grass, white flowers, bitter almond"
+        },
+        "notable_producers": ["Belondrade y Lurton", "Naia", "José Pariente", "Marqués de Riscal", "Menade", "Ossian"],
+        "aging_potential": "2-8 years (longer for premium cuvées)",
+        "price_range": "$ to $$$$"
+      },
+      {
+        "region": "Castilla y León IGP",
+        "country": "Spain",
+        "importance": "emerging",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Regional designation allowing Verdejo from outside Rueda DO boundaries. Quality varies but some producers use it for innovative styles or younger-vine fruit.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs, fennel"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Vino de la Tierra de Castilla",
+        "country": "Spain",
+        "importance": "minor",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Broader regional designation used for everyday Verdejo. Simple, fresh wines for early drinking.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs"
+        },
+        "aging_potential": "1-2 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

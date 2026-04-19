@@ -1,0 +1,172 @@
+{
+  "name": "CARRICANTE",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Carricante is indigenous to Sicily with no confirmed parentage. DNA studies confirm it is distinct from other Sicilian white varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to Mount Etna.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Minnella Bianca",
+          "slug": null,
+          "relationship": "Traditional blending partner",
+          "notes": "Often co-planted with Carricante in traditional Etna vineyards."
+        }
+      ],
+      "genetic_significance": "Carricante's unique adaptation to volcanic soils at extreme elevations makes it valuable for climate change research. It represents an irreplaceable genetic resource for high-altitude viticulture."
+    },
+    "clones": [
+      {
+        "name": "Etna Nord Selection",
+        "origin": "Northern Etna, Sicily",
+        "characteristics": "Selections from north-facing slopes. Highest acidity with intense mineral character.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Etna Bianco"]
+      },
+      {
+        "name": "Milo Selection",
+        "origin": "Milo, Sicily",
+        "characteristics": "From the historic Milo commune. Traditional character with exceptional aging potential.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Etna Bianco Superiore"]
+      },
+      {
+        "name": "Contrada Selection",
+        "origin": "Various Etna contrade",
+        "characteristics": "Single-vineyard selections showing site-specific character. Variable yields based on contrada.",
+        "yield": "variable",
+        "berry_size": "medium",
+        "regions": ["Etna"]
+      },
+      {
+        "name": "Clone CT-1",
+        "origin": "Sicily",
+        "characteristics": "Recently certified clone with consistent quality and moderate yields.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Etna"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic Black Ash",
+        "effect": "The defining soil of Etna. Porous volcanic material provides excellent drainage and imparts distinctive smoky, mineral character. Creates wines of exceptional tension and longevity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, white flowers, smoke, volcanic mineral, saline"
+        },
+        "regions": ["Etna Bianco"]
+      },
+      {
+        "soil": "Volcanic Sand with Pumice",
+        "effect": "Found at higher elevations. Extremely well-drained, producing the most ethereal wines.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, floral, mineral, saline"
+        },
+        "regions": ["Etna Bianco Superiore"]
+      },
+      {
+        "soil": "Volcanic with Clay",
+        "effect": "Lower elevation sites with more clay content. Produces rounder, more approachable wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, almond, herbs"
+        },
+        "regions": ["Etna"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "High Altitude UV",
+          "level": "excellent",
+          "notes": "Thrives at elevations up to 1,000 meters with intense UV radiation."
+        },
+        {
+          "condition": "Volcanic Soils",
+          "level": "excellent",
+          "notes": "Uniquely adapted to Etna's mineral-poor volcanic soils."
+        },
+        {
+          "condition": "Temperature Extremes",
+          "level": "excellent",
+          "notes": "Handles dramatic day-night temperature swings on Etna."
+        }
+      ],
+      "general_notes": "Carricante is a late-ripening variety that maintains exceptional acidity even in warm climates due to Etna's high elevations. The variety produces wines of remarkable longevity, with the best examples capable of aging for decades. High yields must be controlled to maintain quality."
+    },
+    "regional_expressions": [
+      {
+        "region": "Etna Bianco DOC",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean with altitude moderation",
+        "soils": ["Volcanic ash", "Volcanic sand"],
+        "style_summary": "Sicily's finest white wine appellation, producing wines of extraordinary mineral intensity and aging potential. The high-altitude volcanic vineyards create conditions unlike anywhere else in Italy. The best examples rival white Burgundy for complexity and longevity.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, white flowers, smoke, volcanic mineral, saline, almond"
+        },
+        "notable_producers": ["Benanti", "Passopisciaro", "Graci", "Girolamo Ferro", "Tenuta delle Terre Nere"],
+        "aging_potential": "5-20+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Etna Bianco Superiore DOC",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean with significant altitude moderation",
+        "soils": ["Volcanic sand", "Pumice"],
+        "style_summary": "The elevated tier requiring vineyards in the Milo commune on Etna's eastern slope. More stringent requirements produce wines of even greater intensity and aging potential.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, white flowers, smoke, volcanic mineral, saline"
+        },
+        "notable_producers": ["Benanti", "Barone di Villagrande"],
+        "aging_potential": "8-25+ years",
+        "price_range": "$$$ to $$$$"
+      },
+      {
+        "region": "Sicilia DOC",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Island-wide designation occasionally used for Carricante grown outside Etna. Quality and character vary significantly from the volcanic benchmark.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

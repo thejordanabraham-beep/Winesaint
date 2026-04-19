@@ -1,0 +1,199 @@
+{
+  "name": "MONTEPULCIANO",
+  "level_2": {
+    "origins_history": "Montepulciano is a central Italian grape variety that originated in the Abruzzo region, not in the Tuscan town of the same name (which produces Vino Nobile di Montepulciano from Sangiovese). The variety's precise origins remain unclear, though it has been cultivated in Abruzzo for centuries.\n\nDNA analysis has not identified Montepulciano's parentage, suggesting it developed independently in central Italy. The variety shares no genetic relationship with Sangiovese despite long-standing confusion caused by their similar names.\n\nMontepulciano became increasingly important in the 20th century as Italian wine production modernized. The establishment of the Montepulciano d'Abruzzo DOC in 1968 provided an identity for the variety, and quality has improved significantly since the 1990s. Modern examples demonstrate that Montepulciano can produce wines of genuine complexity and aging potential when yields are controlled.",
+    "synonyms": ["Cordisco (Marche)", "Morellone", "Primaticcio", "Uva Abruzzi"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Montepulciano is an indigenous Italian variety with no confirmed parentage. DNA analysis has established that it is genetically distinct from Sangiovese despite the historical naming confusion.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage has been established through DNA analysis. Montepulciano appears to be indigenous to central Italy.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Montepulciano's genetic isolation confirms it is a distinct variety with no relationship to Sangiovese. This clarifies the historical confusion between Montepulciano (the grape) and Montepulciano (the Tuscan town)."
+    },
+    "clones": [
+      {
+        "name": "Clone R3",
+        "origin": "Abruzzo, Italy",
+        "characteristics": "One of the principal certified Italian clones. Balanced production with good quality characteristics.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Abruzzo", "Marche"]
+      },
+      {
+        "name": "Clone R7",
+        "origin": "Abruzzo, Italy",
+        "characteristics": "Selected for improved color and tannin. Produces more structured wines.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Abruzzo", "Marche"]
+      },
+      {
+        "name": "Clone R19",
+        "origin": "Abruzzo, Italy",
+        "characteristics": "Quality-focused selection with smaller berries and concentrated juice.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Abruzzo"]
+      },
+      {
+        "name": "Abruzzo Heritage Selection",
+        "origin": "Abruzzo, Italy",
+        "characteristics": "Massal selections from old hillside vineyards. Lower yields, exceptional concentration, site-specific expression. These selections produce the finest Montepulciano d'Abruzzo wines.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Abruzzo"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Calcareous Clay",
+        "also_known_as": ["Argilla calcarea"],
+        "effect": "Common in Abruzzo's best vineyard sites. The limestone component provides drainage and mineral complexity while clay retains moisture. Produces wines with structure and aging potential.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, structured",
+          "aromatics": "Black cherry, plum, herbs, earth"
+        },
+        "regions": ["Abruzzo", "Marche"]
+      },
+      {
+        "soil": "Sand over Clay",
+        "effect": "Found in lower elevation sites. Produces lighter, more aromatic wines with softer tannins. Suitable for everyday drinking styles.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, fresh, simple"
+        },
+        "regions": ["Abruzzo coastal"]
+      },
+      {
+        "soil": "Stony Limestone",
+        "effect": "Found on hillside vineyards in the Apennine foothills. Excellent drainage and vine stress produce concentrated, mineral wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Firm, fine",
+          "aromatics": "Dark fruit, mineral, herbs, spice"
+        },
+        "regions": ["Colline Teramane"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium (Powdery Mildew)",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to powdery mildew, requiring standard spray programs.",
+          "impact_on_wine": "Crop damage if untreated"
+        },
+        {
+          "disease": "Downy Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid years, though the Adriatic climate is generally favorable.",
+          "impact_on_wine": "Crop damage in wet years"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Well-adapted to the hot, dry summers of central Italy."
+        },
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Maintains quality in warm conditions, ripening fully without excessive sugar accumulation."
+        }
+      ],
+      "general_notes": "Montepulciano is a late-ripening, vigorous variety that requires careful yield management for quality. It produces large bunches with thick-skinned berries, contributing to the wine's color depth and tannin structure. When overcropped, it produces simple, dilute wines, but controlled yields reveal its potential for serious, age-worthy reds. The variety benefits from the warm days and cool Adriatic breezes of the Abruzzo coast."
+    },
+    "regional_expressions": [
+      {
+        "region": "Montepulciano d'Abruzzo DOC",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean with Adriatic influence",
+        "soils": ["Calcareous clay", "Sand", "Limestone"],
+        "style_summary": "The definitive expression of Montepulciano, ranging from simple everyday wines to serious, age-worthy examples. Quality varies significantly based on site and producer commitment. The best wines come from hillside vineyards in the provinces of Chieti and Teramo. Modern winemaking has elevated the appellation's reputation.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Black cherry, plum, herbs, pepper, earth"
+        },
+        "key_appellations": [
+          { "name": "Colline Teramane DOCG", "style": "The premium tier, structured, age-worthy" },
+          { "name": "Montepulciano d'Abruzzo DOC", "style": "Range from simple to complex" }
+        ],
+        "notable_producers": ["Emidio Pepe", "Valentini", "Masciarelli", "Cataldi Madonna", "Valle Reale"],
+        "aging_potential": "5-20+ years (top examples)",
+        "price_range": "$ to $$$$"
+      },
+      {
+        "region": "Rosso Conero DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean with Adriatic influence",
+        "soils": ["Calcareous clay", "Limestone"],
+        "style_summary": "From the Marche region, centered on Monte Conero near Ancona. Here Montepulciano produces structured, dark-fruited wines with earthy complexity. Often blended with small amounts of Sangiovese.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Black fruit, earth, herbs, tar"
+        },
+        "notable_producers": ["Moroder", "Umani Ronchi", "Garofoli"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Rosso Piceno DOC",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Blended wines from the Marche combining Montepulciano with Sangiovese. Generally lighter and more accessible than Conero. Quality varies widely.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Cherry, herbs, earth"
+        },
+        "aging_potential": "2-6 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Cerasuolo d'Abruzzo DOC",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Rose wines made from Montepulciano. Deeper colored and more structured than most roses, with genuine aging potential. A traditional style now gaining recognition.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Light",
+          "aromatics": "Cherry, strawberry, herbs"
+        },
+        "notable_producers": ["Emidio Pepe", "De Fermo"],
+        "aging_potential": "1-5 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

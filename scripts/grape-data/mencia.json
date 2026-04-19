@@ -1,0 +1,186 @@
+{
+  "name": "MENCÍA",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Mencía is indigenous to northwestern Spain. DNA analysis has confirmed it is identical to Portuguese Jaen, though the Spanish name is more widely used internationally.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to Galicia/León border region.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "DNA confirmation that Mencía equals Portuguese Jaen resolves historical confusion and suggests the variety spread across the Spanish-Portuguese border region. The variety is genetically distinct from Cabernet Franc despite occasional flavor similarities."
+    },
+    "clones": [
+      {
+        "name": "Bierzo Selection",
+        "origin": "Bierzo, Spain",
+        "characteristics": "Traditional selections from old Bierzo vineyards. Intense minerality with elegant tannins.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bierzo"]
+      },
+      {
+        "name": "Corullón Selection",
+        "origin": "Corullón, Bierzo",
+        "characteristics": "Selections from the prestigious Corullón village. Maximum concentration and complexity.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Bierzo"]
+      },
+      {
+        "name": "Ribeira Sacra Selection",
+        "origin": "Ribeira Sacra, Spain",
+        "characteristics": "Selections from steep terraced vineyards. Bright acidity with aromatic intensity.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Ribeira Sacra"]
+      },
+      {
+        "name": "Clone MC-1",
+        "origin": "Spain",
+        "characteristics": "Recently certified clone with good color and aromatic development.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Galicia", "Castilla y León"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Slate",
+        "also_known_as": ["Pizarra"],
+        "effect": "The defining soil of Bierzo's best sites. Heat-retentive slate promotes ripening while contributing mineral character and elegant tannins.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine, silky",
+          "aromatics": "Red fruit, violets, slate mineral, herbs"
+        },
+        "regions": ["Bierzo"]
+      },
+      {
+        "soil": "Granite",
+        "effect": "Found in parts of Ribeira Sacra and Valdeorras. Produces more aromatic, lighter wines with pronounced floral notes.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Light, fine",
+          "aromatics": "Red fruit, flowers, mineral"
+        },
+        "regions": ["Ribeira Sacra", "Valdeorras"]
+      },
+      {
+        "soil": "Clay-Slate Mix",
+        "effect": "Common in lower Bierzo sites. Produces fuller wines with softer tannins.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Dark fruit, earth, spice"
+        },
+        "regions": ["Bierzo"]
+      },
+      {
+        "soil": "Schist",
+        "effect": "Related to slate, found on steep slopes. Excellent drainage and mineral expression.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine",
+          "aromatics": "Red fruit, mineral, herbs"
+        },
+        "regions": ["Ribeira Sacra"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be affected in humid Atlantic conditions.",
+          "impact_on_wine": "Requires management in wet years"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "excellent",
+          "notes": "Thrives in the cool Atlantic-influenced climate of northwestern Spain."
+        },
+        {
+          "condition": "Steep Slopes",
+          "level": "excellent",
+          "notes": "Well-adapted to heroic viticulture on terraced hillsides."
+        }
+      ],
+      "general_notes": "Mencía is an early-to-mid ripening variety that produces aromatic, medium-bodied wines often compared to Pinot Noir or Cabernet Franc. The variety's revival from near-obscurity mirrors that of Godello. Old-vine examples from steep slate slopes produce the most celebrated wines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Bierzo DO",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Continental with Atlantic influence",
+        "soils": ["Slate", "Granite", "Clay"],
+        "style_summary": "Spain's most exciting red wine region for terroir-driven wines. The combination of old vines, steep slate slopes, and skilled winemakers produces elegant, mineral reds that have earned international acclaim. Village and single-vineyard bottlings reveal remarkable site expression.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine, silky",
+          "aromatics": "Red cherry, violets, slate mineral, herbs, graphite"
+        },
+        "notable_producers": ["Descendientes de J. Palacios", "Raúl Pérez", "Dominio de Tares", "Pittacum", "Losada"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Ribeira Sacra DO",
+        "country": "Spain",
+        "importance": "major",
+        "climate": "Atlantic",
+        "soils": ["Granite", "Schist", "Slate"],
+        "style_summary": "Dramatic terraced vineyards along the Sil and Miño river canyons, sometimes called 'heroic viticulture' due to the extreme slopes. Produces lighter, more aromatic Mencía with bright acidity and pronounced minerality.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Very high",
+          "tannin": "Light, fine",
+          "aromatics": "Red fruit, flowers, mineral, herbs"
+        },
+        "notable_producers": ["Guímaro", "Dominio do Bibei", "Envínate"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Valdeorras DO",
+        "country": "Spain",
+        "importance": "emerging",
+        "climate": "Continental with Atlantic influence",
+        "soils": ["Slate", "Granite"],
+        "style_summary": "Better known for Godello whites but produces increasingly impressive Mencía. The continental influence creates riper, fuller wines than Ribeira Sacra.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Moderate",
+          "aromatics": "Red and dark fruit, herbs, mineral"
+        },
+        "notable_producers": ["Rafael Palacios", "Telmo Rodríguez"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

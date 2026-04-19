@@ -1,0 +1,354 @@
+{
+  "name": "CHARDONNAY",
+  "level_2": {
+    "origins_history": "Chardonnay originated in the Burgundy region of France, the result of a natural cross between Pinot Noir and Gouais Blanc. DNA analysis confirmed this parentage in 1999, surprising many who assumed the noble Chardonnay could not be related to the peasant grape Gouais Blanc. The name likely derives from the village of Chardonnay in the Mâconnais.\n\nThe variety spread throughout Burgundy during the Middle Ages, where Cistercian monks recognized its quality potential on limestone soils. By the 19th century, Chardonnay had become the dominant white grape of Burgundy and Champagne. It arrived in California in the 1880s but only gained prominence in the 1970s, when it became America's most popular white wine."
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Chardonnay is the offspring of two Burgundian grapes: the noble Pinot Noir and the humble Gouais Blanc. This cross occurred naturally, likely during the Middle Ages when both varieties were planted together in Burgundy.",
+      "parents": [
+        {
+          "name": "Pinot Noir",
+          "slug": "pinot-noir",
+          "confirmed": true,
+          "notes": "Confirmed through DNA analysis. Chardonnay inherited some of Pinot Noir's ability to express terroir with precision.",
+          "evidence": "DNA microsatellite analysis (1999)"
+        },
+        {
+          "name": "Gouais Blanc",
+          "slug": "gouais-blanc",
+          "confirmed": true,
+          "notes": "An ancient, high-yielding variety once widely planted by peasants in northeastern France. Now nearly extinct but genetically significant as parent to many quality varieties.",
+          "evidence": "DNA microsatellite analysis (1999)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Chardonel",
+          "slug": null,
+          "other_parent": "Seyval Blanc",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "American hybrid bred in New York. Cold-hardy, used in eastern US wine regions."
+        },
+        {
+          "name": "Chasan",
+          "slug": null,
+          "other_parent": "Palomino Fino",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "French crossing bred for the Languedoc. Productive, neutral character."
+        },
+        {
+          "name": "Doral",
+          "slug": null,
+          "other_parent": "Chasselas",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Swiss crossing. Grown in small quantities in Vaud."
+        }
+      ],
+      "mutations": [
+        {
+          "name": "Chardonnay Rose",
+          "slug": null,
+          "type": "color",
+          "importance": "minor",
+          "description": "Pink-skinned mutation occasionally found in Burgundy vineyards. Rarely cultivated commercially.",
+          "regions": ["Burgundy (rare)"]
+        },
+        {
+          "name": "Chardonnay Musqué",
+          "slug": null,
+          "type": "aromatic",
+          "importance": "minor",
+          "description": "A mutation with pronounced Muscat-like aromatics. Sometimes called Chardonnay Blanc Musqué. Planted in small quantities in Burgundy and California.",
+          "regions": ["Burgundy", "California"]
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Gamay",
+          "slug": "gamay",
+          "relationship": "full sibling",
+          "shared_parent": "Both Pinot Noir and Gouais Blanc",
+          "notes": "Both grapes share the same parents, making them full siblings."
+        },
+        {
+          "name": "Aligoté",
+          "slug": "aligote",
+          "relationship": "full sibling",
+          "shared_parent": "Both Pinot Noir and Gouais Blanc",
+          "notes": "Burgundy's other white grape is a full sibling to Chardonnay."
+        },
+        {
+          "name": "Melon de Bourgogne",
+          "slug": "melon-de-bourgogne",
+          "relationship": "full sibling",
+          "shared_parent": "Both Pinot Noir and Gouais Blanc",
+          "notes": "The grape of Muscadet shares the same parentage."
+        }
+      ],
+      "genetic_significance": "Chardonnay's parentage reveals that great wine grapes can emerge from unexpected crosses. Gouais Blanc, once dismissed as a peasant grape and banned by medieval authorities, is now known to be a parent of at least 80 French varieties."
+    },
+    "clones": [
+      {
+        "name": "Dijon 76",
+        "origin": "Burgundy, France",
+        "characteristics": "Small clusters, high quality, moderate yield. Produces wines with good structure and aging potential.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "cluster_size": "small",
+        "regions": ["Burgundy", "California", "Oregon"]
+      },
+      {
+        "name": "Dijon 95",
+        "origin": "Burgundy, France",
+        "characteristics": "Loose clusters, good disease resistance. Known for aromatic intensity and minerality.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "cluster_size": "small, loose",
+        "regions": ["Burgundy", "California", "New Zealand"]
+      },
+      {
+        "name": "Dijon 96",
+        "origin": "Burgundy, France",
+        "characteristics": "Similar to 95 but slightly higher yields. Good balance of quality and productivity.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "cluster_size": "medium",
+        "regions": ["Burgundy", "California", "Australia"]
+      },
+      {
+        "name": "Dijon 548",
+        "origin": "Burgundy, France",
+        "characteristics": "Selected for Champagne production. High acidity retention, clean fruit character.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "cluster_size": "medium",
+        "regions": ["Champagne", "England", "Tasmania"]
+      },
+      {
+        "name": "Mendoza (FPS 04)",
+        "origin": "California, USA",
+        "characteristics": "Old California selection. Larger clusters, prone to millerandage. Rich, tropical character.",
+        "yield": "variable",
+        "berry_size": "variable",
+        "cluster_size": "large",
+        "regions": ["California"]
+      },
+      {
+        "name": "Wente",
+        "origin": "California, USA",
+        "characteristics": "The most planted Chardonnay clone in California. Selected by the Wente family in the 1920s. Productive, reliable, tropical fruit profile.",
+        "yield": "high",
+        "berry_size": "medium to large",
+        "cluster_size": "large",
+        "regions": ["California", "Australia", "South America"]
+      },
+      {
+        "name": "Old Wente (Heritage)",
+        "origin": "California, USA",
+        "characteristics": "Earlier selection than standard Wente. Smaller berries, more concentrated. Increasingly valued for premium wines.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "cluster_size": "medium",
+        "regions": ["California"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone/Chalk",
+        "also_known_as": ["Kimmeridgian", "Calcaire"],
+        "effect": "The classic Chardonnay pairing. Limestone promotes good drainage while providing mineral elements. Produces wines with pronounced minerality, tension, and aging potential.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, chalk, wet stone"
+        },
+        "regions": ["Chablis", "Côte de Beaune", "Champagne"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "also_known_as": ["Marl", "Argilo-calcaire"],
+        "effect": "The dominant soil type of the Côte de Beaune. Clay adds richness and body while limestone provides structure and minerality.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "aromatics": "Stone fruit, hazelnut, butter (if oaked), honey"
+        },
+        "regions": ["Meursault", "Puligny-Montrachet", "Chassagne-Montrachet"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Produces wines with distinctive mineral character and often notable salinity. Less common for Chardonnay but found in select New World sites.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Mineral, citrus, flinty notes"
+        },
+        "regions": ["Parts of Oregon", "Tasmania"]
+      },
+      {
+        "soil": "Alluvial/Sandy Loam",
+        "effect": "Warmer, well-drained soils producing riper, more fruit-forward wines. Common in many New World regions.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Tropical fruit, melon, ripe apple"
+        },
+        "regions": ["Napa Valley", "Sonoma", "Central Coast California"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Chardonnay's tight clusters and thin skin make it susceptible. Requires careful canopy management and often preventive spraying.",
+          "impact_on_wine": "Can cause off-flavors and reduced fruit quality"
+        },
+        {
+          "disease": "Grapevine Yellows",
+          "severity": "high",
+          "type": "bacterial",
+          "notes": "Susceptible to flavescence dorée and bois noir. These phytoplasma diseases cause leaf yellowing, shriveled fruit, and vine decline. Spread by leafhoppers.",
+          "impact_on_wine": "Reduced yields, eventual vine death if untreated"
+        }
+      ],
+      "resistances": [],
+      "general_notes": "Chardonnay is easy to grow but susceptible to several diseases. Early budding makes it vulnerable to spring frost. May also suffer coulure (poor fruit set) in cold flowering conditions."
+    },
+    "regional_expressions": [
+      {
+        "region": "Chablis",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental, frost risk",
+        "soils": ["Kimmeridgian limestone", "Portlandian limestone"],
+        "style_summary": "The purest expression of unoaked Chardonnay. Steely, mineral-driven wines with razor-sharp acidity. No malolactic fermentation or oak in traditional styles.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Very high",
+          "tannin": "N/A",
+          "aromatics": "Green apple, lemon, chalk, oyster shell, wet stone"
+        },
+        "key_appellations": [
+          { "name": "Chablis Grand Cru", "style": "Most concentrated, age-worthy, seven vineyards" },
+          { "name": "Chablis Premier Cru", "style": "Excellent quality, more accessible than Grand Cru" },
+          { "name": "Chablis", "style": "Village level, crisp and mineral" },
+          { "name": "Petit Chablis", "style": "Simpler, earlier drinking" }
+        ],
+        "notable_producers": ["Raveneau", "Dauvissat", "William Fèvre", "François Cotat"],
+        "aging_potential": "5-20+ years for Grand Cru",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Côte de Beaune",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Clay-limestone", "Marl"],
+        "style_summary": "The richest, most complex Chardonnays in the world. Barrel fermentation and aging add texture and secondary flavors while preserving terroir expression.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Hazelnut, butter, citrus, stone fruit, honey, mineral"
+        },
+        "key_appellations": [
+          { "name": "Montrachet", "style": "The greatest white Burgundy, power and elegance" },
+          { "name": "Meursault", "style": "Rich, nutty, generous" },
+          { "name": "Puligny-Montrachet", "style": "Elegant, mineral, citrus-driven" },
+          { "name": "Chassagne-Montrachet", "style": "Fuller, sometimes earthier" }
+        ],
+        "notable_producers": ["Domaine Leflaive", "Coche-Dury", "Roulot", "Bonneau du Martray"],
+        "aging_potential": "10-30+ years for top wines",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Champagne",
+        "country": "France",
+        "importance": "major",
+        "climate": "Cool continental, marginal",
+        "soils": ["Chalk", "Limestone"],
+        "style_summary": "Chardonnay is essential to Champagne, providing elegance, acidity, and citrus character. The dominant variety in the Côte des Blancs.",
+        "typical_character": {
+          "body": "Light (before secondary fermentation)",
+          "acidity": "Very high",
+          "tannin": "N/A",
+          "aromatics": "Citrus, white flowers, brioche (after aging)"
+        },
+        "key_appellations": [
+          { "name": "Côte des Blancs", "style": "Premier Chardonnay zone, Blanc de Blancs" },
+          { "name": "Montagne de Reims", "style": "Some Chardonnay, minority planting" }
+        ],
+        "wine_styles": ["Blanc de Blancs (100% Chardonnay)", "Traditional blend with Pinot Noir and Meunier"],
+        "notable_producers": ["Salon", "Jacques Selosse", "Pierre Gimonnet", "Larmandier-Bernier"],
+        "aging_potential": "5-30+ years",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Sonoma Coast & Russian River",
+        "country": "United States (California)",
+        "importance": "major",
+        "climate": "Cool, fog-influenced",
+        "soils": ["Goldridge (sandy loam)", "Volcanic"],
+        "style_summary": "California's best Chardonnays come from these cool, foggy regions. Balance between richness and freshness, often with judicious oak use.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Apple, pear, citrus, vanilla, toast (if oaked)"
+        },
+        "key_appellations": [
+          { "name": "Sonoma Coast", "style": "Cooler, more restrained, mineral" },
+          { "name": "Russian River Valley", "style": "Richer, more generous, tropical notes" }
+        ],
+        "notable_producers": ["Kistler", "Marcassin", "Ramey", "Patz & Hall", "Littorai"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Margaret River",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Mediterranean maritime",
+        "soils": ["Gravel", "Loam", "Granite"],
+        "style_summary": "Australia's most Burgundian region for Chardonnay. Combines richness with restraint, often with subtle oak influence.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Grapefruit, white peach, cashew, subtle oak"
+        },
+        "notable_producers": ["Leeuwin Estate", "Cullen", "Vasse Felix", "Pierro"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Mâconnais",
+        "country": "France",
+        "importance": "moderate",
+        "climate": "Continental, warmer than Côte d'Or",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Southern Burgundy producing rounder, more accessible Chardonnays at friendlier prices. Excellent value.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Ripe apple, melon, subtle mineral"
+        },
+        "key_appellations": [
+          { "name": "Pouilly-Fuissé", "style": "Best of the Mâcon, can rival Côte de Beaune" },
+          { "name": "Saint-Véran", "style": "Good quality, accessible" },
+          { "name": "Mâcon-Villages", "style": "Fresh, everyday drinking" }
+        ],
+        "notable_producers": ["Guffens-Heynen", "Bret Brothers", "Domaine Valette"],
+        "aging_potential": "3-10 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "name": "FIANO",
+  "level_2": {
+    "origins_history": "Fiano is one of southern Italy's oldest and most distinguished white grape varieties, native to the Campania region. The variety was known to the Romans as Vitis apiana (vine of the bees), referring to the attraction of bees to its sweet, aromatic grapes. The Latin writer Columella mentioned it in his first century agricultural treatise.\n\nThe modern name Fiano likely derives from the Latin apiano via the Neapolitan dialect. The variety was extensively documented in Campanian agricultural records from the 16th century onward, particularly around the town of Lapio in the province of Avellino.\n\nFiano nearly disappeared after phylloxera and the world wars, when plantings dropped to a few hectares. The variety was rescued from extinction in the 1970s by dedicated producers in Avellino, particularly the Mastroberardino family. Since the establishment of the Fiano di Avellino DOCG in 2003, plantings have expanded significantly throughout Campania and into neighboring regions.",
+    "synonyms": ["Fiano di Avellino", "Foiano", "Fiana", "Minutolo", "Latino Bianco", "Santa Sofia"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Fiano is an ancient variety indigenous to Campania with no confirmed parentage. DNA studies have shown it is distinct from other southern Italian white varieties, suggesting long independent evolution in the volcanic soils of the region.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage has been established through DNA analysis. Fiano appears to be genetically isolated and indigenous to Campania.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Fiano's genetic distinctiveness and ancient cultivation history establish it as one of southern Italy's most important indigenous varieties. Its survival through near-extinction makes it a valuable genetic resource."
+    },
+    "clones": [
+      {
+        "name": "Clone 2",
+        "origin": "Avellino, Campania, Italy",
+        "characteristics": "One of the principal certified selections. Known for aromatic intensity and consistency. Widely planted in the DOCG zone.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Avellino", "Irpinia"]
+      },
+      {
+        "name": "Clone 8",
+        "origin": "Avellino, Campania, Italy",
+        "characteristics": "Selected for improved disease resistance while maintaining the variety's characteristic aromatics.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Avellino", "Campania"]
+      },
+      {
+        "name": "Clone 18",
+        "origin": "Avellino, Campania, Italy",
+        "characteristics": "More recent selection focusing on phenolic complexity and aging potential.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Avellino"]
+      },
+      {
+        "name": "Lapio Heritage Selection",
+        "origin": "Lapio, Avellino, Italy",
+        "characteristics": "Massal selection from old vineyards in Lapio, considered the variety's spiritual home. Low yields, intense mineral character, excellent aging potential. These selections preserve the historical diversity of Fiano genetics.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Lapio", "Avellino"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic (Tuff)",
+        "also_known_as": ["Tufo", "Volcanic ash"],
+        "effect": "The defining soil of Fiano di Avellino. Ancient volcanic deposits provide excellent drainage, mineral nutrition, and contribute to the wine's characteristic smoky, mineral complexity. The porous tuff regulates water availability.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Hazelnut, honey, flint, citrus, pear, mineral smoke"
+        },
+        "regions": ["Avellino", "Irpinia"]
+      },
+      {
+        "soil": "Calcareous Clay",
+        "effect": "Found in some vineyard sites, particularly at higher elevations. Produces wines with more tension and citrus character, less of the honeyed notes typical of volcanic soils.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, mineral"
+        },
+        "regions": ["Irpinia", "Campania"]
+      },
+      {
+        "soil": "Sandy Volcanic",
+        "effect": "Lighter volcanic soils found in parts of the region. Produces more aromatic, earlier-drinking wines with less aging potential.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium-high",
+          "aromatics": "Floral, fresh fruit, herbs"
+        },
+        "regions": ["Campania"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium (Powdery Mildew)",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Fiano is notably susceptible to powdery mildew, requiring careful vineyard management and spray programs.",
+          "impact_on_wine": "Crop damage, off-flavors if infected fruit fermented"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Compact clusters can be vulnerable in humid conditions. The high elevation of Avellino typically provides good air circulation.",
+          "impact_on_wine": "Can be problematic or, rarely, beneficial for late-harvest styles"
+        },
+        {
+          "disease": "Leafroll Virus",
+          "severity": "moderate",
+          "type": "viral",
+          "notes": "Older plantings may harbor viral infections. Certified virus-free clones have improved vineyard health.",
+          "impact_on_wine": "Delayed ripening, reduced quality"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Well-adapted to the Mediterranean climate with hot, dry summers. Deep roots help access water in volcanic soils."
+        },
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Maintains acidity well even in warm conditions, though quality sites are at elevation in Avellino."
+        }
+      ],
+      "general_notes": "Fiano is a late-ripening variety (October harvest in Avellino) that benefits from the cool nights at elevation. It produces small, golden-green berries with thick skins that contribute to the wine's texture and phenolic complexity. Yields must be controlled for quality, typically around 8-10 tonnes per hectare in the DOCG zone. The variety requires good sun exposure for optimal ripening while benefiting from the temperature swings at altitude."
+    },
+    "regional_expressions": [
+      {
+        "region": "Fiano di Avellino DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental-Mediterranean with cool nights",
+        "soils": ["Volcanic tuff", "Clay-limestone"],
+        "style_summary": "The finest expression of Fiano, elevated to DOCG in 2003. Vineyards at 400-600m elevation in Irpinia produce wines of remarkable complexity and aging potential. The volcanic soils impart characteristic smoky, flinty minerality alongside hazelnut and honey notes. Top examples age beautifully for 10-15 years, developing layers of complexity.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Hazelnut, honey, flint, pear, citrus, smoke, mineral"
+        },
+        "key_appellations": [
+          { "name": "Fiano di Avellino DOCG", "style": "Complex, age-worthy, mineral" },
+          { "name": "Lapio subzone", "style": "Considered finest cru, most intense" }
+        ],
+        "notable_producers": ["Pietracupa", "I Favati", "Ciro Picariello", "Mastroberardino", "Villa Diamante", "Guido Marsella"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Campania IGT/DOC",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Various volcanic", "Clay"],
+        "style_summary": "Broader regional production outside the DOCG zone. Quality varies, with some excellent wines from dedicated producers and simpler commercial examples. Generally more approachable in youth than Avellino wines.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium-high",
+          "tannin": "N/A",
+          "aromatics": "Citrus, white flowers, pear"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Puglia",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean, warm",
+        "soils": ["Clay-limestone", "Red earth"],
+        "style_summary": "Increasing plantings in Puglia, where it is sometimes labeled Fiano Minutolo. The warmer climate produces richer, more tropical styles with less of the mineral tension found in Campania.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "N/A",
+          "aromatics": "Tropical fruit, honey, flowers"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Basilicata",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Continental-Mediterranean",
+        "soils": ["Volcanic"],
+        "style_summary": "Small plantings on the volcanic soils of Mount Vulture. Shares some characteristics with Avellino wines due to similar volcanic terroir.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Mineral, citrus, herbs"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Australia",
+        "country": "Australia",
+        "importance": "emerging",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Small but growing plantings in South Australia and Victoria. Australian producers have been drawn to Fiano's ability to maintain acidity in warm climates. Wines are typically fresh and aromatic, meant for early drinking.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium-high",
+          "tannin": "N/A",
+          "aromatics": "Citrus, stone fruit, fresh"
+        },
+        "notable_producers": ["Coriole", "Chalmers"],
+        "aging_potential": "1-3 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

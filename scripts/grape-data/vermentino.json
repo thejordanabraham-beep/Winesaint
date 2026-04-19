@@ -1,0 +1,168 @@
+{
+  "name": "VERMENTINO",
+  "level_2": {
+    "origins_history": "Vermentino is a Mediterranean white grape cultivated across Sardinia, Liguria, Corsica, and southern France. DNA analysis suggests Spanish origins, where it may be identical to the variety known as Favorita in Piedmont and Pigato in Liguria, though relationships remain under study.\n\nThe variety spread throughout the western Mediterranean, becoming particularly important in Sardinia (as Vermentino di Sardegna and Vermentino di Gallura) and Corsica. In Provence, it is known as Rolle and has become increasingly important in the region's white and rosé wines.\n\nVermentino produces fresh, aromatic wines with herbal complexity and a characteristic bitter almond finish. Quality ranges from simple, refreshing examples to complex, age-worthy wines from Gallura's granite soils.",
+    "synonyms": ["Rolle (Provence)", "Favorita (Piedmont)", "Pigato (Liguria)", "Malvoisie de Corse"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Vermentino's exact origins remain debated. DNA studies suggest possible Spanish ancestry and relationships with several Italian varieties.",
+      "parents": [
+        {
+          "name": "Unknown (possibly Spanish)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Origins remain uncertain. Possible Spanish ancestry.",
+          "evidence": "DNA studies ongoing"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Vermentino's complex identity across multiple regions demonstrates how grape varieties can develop distinct regional identities while maintaining genetic connections."
+    },
+    "clones": [
+      {
+        "name": "Clone VCR 3",
+        "origin": "Sardinia, Italy",
+        "characteristics": "Standard Sardinian clone with good aromatic intensity and typical varietal character.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Gallura", "Sardinia"]
+      },
+      {
+        "name": "Clone 643",
+        "origin": "France",
+        "characteristics": "French Rolle clone adapted to Provence conditions.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Provence", "Languedoc"]
+      },
+      {
+        "name": "Gallura Heritage Selection",
+        "origin": "Gallura, Sardinia",
+        "characteristics": "Massal selections from old granite-soil vineyards. Concentrated, mineral wines with aging potential.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Gallura"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Decomposed Granite",
+        "effect": "The signature soil of Gallura in northeastern Sardinia. Produces wines of exceptional mineral intensity and structure. The best terroir for age-worthy Vermentino.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs, bitter almond, granite mineral"
+        },
+        "regions": ["Gallura"]
+      },
+      {
+        "soil": "Limestone-Clay",
+        "effect": "Found in parts of Provence and Liguria. Produces fresher, more elegant wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, herbs"
+        },
+        "regions": ["Provence", "Liguria"]
+      },
+      {
+        "soil": "Sandy",
+        "effect": "Coastal Sardinian sites produce lighter, more aromatic wines.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, saline, herbs"
+        },
+        "regions": ["Sardinia (coastal)"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "low",
+          "type": "fungal",
+          "notes": "Thick skins provide good resistance.",
+          "impact_on_wine": "Generally not problematic"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Well-adapted to Mediterranean heat."
+        },
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Thrives in dry Mediterranean conditions."
+        },
+        {
+          "condition": "Wind",
+          "level": "excellent",
+          "notes": "Handles maritime and Mistral winds well."
+        }
+      ],
+      "general_notes": "Vermentino is a late-ripening variety that thrives in hot, dry Mediterranean climates. Its thick skins provide disease resistance and contribute to the variety's characteristic bitter almond finish. The variety is vigorous and requires yield control for quality. Best results come from stressed vines on poor, well-drained soils."
+    },
+    "regional_expressions": [
+      {
+        "region": "Vermentino di Gallura DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Decomposed granite"],
+        "style_summary": "Sardinia's only DOCG and the finest expression of Vermentino. Granite soils produce wines of remarkable mineral intensity and structure. The best examples can age for years, developing complex honeyed notes.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs, bitter almond, granite mineral, honey with age"
+        },
+        "notable_producers": ["Capichera", "Piero Mancini", "Sella & Mosca"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Provence (as Rolle)",
+        "country": "France",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Limestone", "Clay", "Schist"],
+        "style_summary": "Increasingly important in Provence whites and as a component in premium rosés. Contributes freshness, aromatics, and structure. Often blended with Clairette, Ugni Blanc, or Grenache Blanc.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, herbs, saline"
+        },
+        "notable_producers": ["Domaine de Trevallon", "Chateau Simone"],
+        "aging_potential": "2-5 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Liguria",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean, maritime",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Produced as both Vermentino and Pigato (which may be identical or closely related). Fresh, aromatic wines perfect with Ligurian seafood.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, herbs, saline, bitter almond"
+        },
+        "aging_potential": "1-4 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

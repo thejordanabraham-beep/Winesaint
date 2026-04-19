@@ -1,0 +1,178 @@
+{
+  "name": "TRIBIDRAG",
+  "level_2": {
+    "origins_history": "Zinfandel is genetically identical to the Croatian grape Tribidrag (also called Crljenak Kastelanski) and the southern Italian Primitivo. DNA analysis in 2001 confirmed this identity, solving a long-standing mystery about the variety's origins.\n\nThe grape traveled from Croatia to the United States in the mid-19th century, likely through the Austrian Imperial Nursery in Vienna. It became established in California during the Gold Rush era and was the state's most planted variety by the early 20th century.\n\nWhile Primitivo in Italy produces earthy, robust wines, California Zinfandel developed its own identity: bold, fruit-forward reds with high alcohol. The variety also produces White Zinfandel, a sweet pink wine that became hugely popular in the 1980s. Old-vine Zinfandel from heritage vineyards represents California's most distinctive contribution to world wine.",
+    "synonyms": ["Primitivo (Italy)", "Crljenak Kastelanski (Croatia)", "Tribidrag (Croatia)", "Kratosija (Montenegro)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Zinfandel/Primitivo/Tribidrag is a Croatian variety. DNA analysis confirmed its identity with Croatian Crljenak Kastelanski and established Tribidrag as the original name.",
+      "parents": [
+        {
+          "name": "Dobricic",
+          "slug": null,
+          "confirmed": true,
+          "notes": "One parent of Tribidrag, a Croatian variety from Dalmatia.",
+          "evidence": "DNA analysis"
+        },
+        {
+          "name": "Unknown Croatian variety",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Second parent has not been definitively identified.",
+          "evidence": "DNA studies ongoing"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "The discovery of Zinfandel's Croatian origins through DNA analysis was a landmark in ampelographic research, demonstrating the power of genetics to solve historical mysteries."
+    },
+    "clones": [
+      {
+        "name": "Primitivo Clone",
+        "origin": "Puglia, Italy",
+        "characteristics": "Italian selection adapted to southern Italian conditions. Produces ripe, robust wines.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Puglia", "Manduria"]
+      },
+      {
+        "name": "California Heritage Selection",
+        "origin": "California, USA",
+        "characteristics": "Massal selections from pre-Prohibition vineyards. Mixed-age, field-blended plantings produce complex wines. Some vines exceed 100 years old.",
+        "yield": "very low",
+        "berry_size": "variable (mixed)",
+        "regions": ["Lodi", "Dry Creek", "Paso Robles"]
+      },
+      {
+        "name": "St. Peter's Church Clone",
+        "origin": "Napa Valley, California",
+        "characteristics": "Historic selection preserved at a Napa church. Source material for quality-focused new plantings.",
+        "yield": "low",
+        "berry_size": "small to medium",
+        "regions": ["Napa", "Sonoma"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Red Volcanic",
+        "also_known_as": ["Iron-rich volcanic"],
+        "effect": "Found in parts of Dry Creek Valley and Amador County. Produces deeply colored, structured wines with mineral character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Blackberry, pepper, mineral, spice"
+        },
+        "regions": ["Dry Creek Valley", "Amador County"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Common in Lodi and parts of Paso Robles. Produces softer, more fruit-forward wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "tannin": "Soft",
+          "aromatics": "Raspberry, jammy fruit, vanilla"
+        },
+        "regions": ["Lodi", "Paso Robles"]
+      },
+      {
+        "soil": "Terra Rossa (Red Earth)",
+        "effect": "Found in parts of Puglia. Iron-rich clay over limestone produces the most structured Primitivo.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Dark fruit, earth, herbs, spice"
+        },
+        "regions": ["Primitivo di Manduria"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Bunch Rot",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Tight clusters with thin skins are highly susceptible to bunch rot, particularly in warm, humid conditions late in the season.",
+          "impact_on_wine": "Requires careful canopy management and selective harvest"
+        },
+        {
+          "disease": "Raisining",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Uneven ripening causes some berries to raisin while others remain green. Requires multiple passes or selective harvest.",
+          "impact_on_wine": "Can produce high-alcohol, jammy wines if not managed"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in California's warm, dry conditions."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Reasonably drought-tolerant once established."
+        }
+      ],
+      "general_notes": "Zinfandel is a mid-season ripening variety with notoriously uneven berry maturation. Clusters typically contain green, ripe, and raisined berries simultaneously. This 'raisin problem' is the variety's greatest challenge, contributing to high alcohol and port-like character in some wines. Old, head-trained vines in California produce more even ripening. The variety's thin skins contribute to its susceptibility to rot."
+    },
+    "regional_expressions": [
+      {
+        "region": "Dry Creek Valley",
+        "country": "USA",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Volcanic", "Alluvial", "Gravelly loam"],
+        "style_summary": "Sonoma County's premier Zinfandel region, producing wines of remarkable elegance and complexity. Old-vine heritage plantings produce the finest examples. Wines balance power with finesse, showing brambly fruit with peppery spice.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Blackberry, raspberry, pepper, spice, herbs"
+        },
+        "notable_producers": ["Ridge", "Carlisle", "Seghesio", "A. Rafanelli"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Lodi",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Mediterranean, warm",
+        "soils": ["Sandy loam", "Alluvial"],
+        "style_summary": "California's largest Zinfandel region with extensive old-vine plantings, some exceeding 100 years. Warm climate produces ripe, generous wines. Quality ranges from simple to exceptional old-vine bottlings.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Jammy fruit, raspberry, chocolate, spice"
+        },
+        "notable_producers": ["Turley", "Michael David", "m2 Wines"],
+        "aging_potential": "3-12 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Primitivo di Manduria",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean, hot",
+        "soils": ["Terra rossa", "Limestone"],
+        "style_summary": "Puglia's signature wine, where the grape is known as Primitivo. Style tends toward ripe, robust wines with earthy complexity. DOC Dolce Naturale produces sweet versions from dried grapes.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Dark fruit, earth, dried herbs, chocolate"
+        },
+        "notable_producers": ["Gianfranco Fino", "Masseria Li Veli", "Felline"],
+        "aging_potential": "3-10 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

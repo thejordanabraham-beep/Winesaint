@@ -1,0 +1,250 @@
+{
+  "name": "RIESLING",
+  "level_2": {
+    "origins_history": "Riesling is one of the world's greatest white grape varieties, originating in the Rhine region of Germany where it has been cultivated since at least the 15th century. The first documented reference appears in 1435 in Rheingau inventory records, though the variety likely existed earlier.\n\nDNA analysis has revealed that Riesling is a natural crossing of Gouais Blanc (an ancient and prolific parent of many European varieties) with a wild vine that appears to be a cross between a wild grape and Traminer. This complex parentage helps explain Riesling's remarkable ability to express terroir.\n\nRiesling spread throughout the German-speaking world and became the most planted variety in Germany by the late 19th century. The variety reached Alsace, Austria, and eventually the New World. Today, Germany and Alsace remain the benchmarks, but exceptional Rieslings emerge from Australia's Clare and Eden Valleys, Austria's Wachau, and New York's Finger Lakes.",
+    "synonyms": ["Johannisberg (Switzerland)", "Johannisberger", "Rheinriesling", "Weisser Riesling", "Rhine Riesling", "White Riesling", "Riesling Renano"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Riesling is a natural crossing of Gouais Blanc and a wild vine complex involving Traminer. DNA analysis has confirmed this parentage and established Riesling as a half-sibling to numerous other varieties through shared Gouais Blanc ancestry.",
+      "parents": [
+        {
+          "name": "Gouais Blanc",
+          "slug": "gouais-blanc",
+          "confirmed": true,
+          "notes": "Ancient variety that is a parent of many European grapes including Chardonnay and Gamay.",
+          "evidence": "DNA analysis (Regner et al.)"
+        },
+        {
+          "name": "Wild Vine x Traminer",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Complex wild vine parentage involving Traminer genetics.",
+          "evidence": "DNA analysis"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Roter Riesling",
+          "type": "color_mutation",
+          "description": "Red-skinned mutation found occasionally in old German vineyards. Produces similar wines to white Riesling."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Chardonnay",
+          "slug": "chardonnay",
+          "relationship": "Half-sibling (shares Gouais Blanc parent)"
+        },
+        {
+          "name": "Gamay",
+          "slug": "gamay",
+          "relationship": "Half-sibling (shares Gouais Blanc parent)"
+        }
+      ],
+      "genetic_significance": "Riesling's complex parentage involving both cultivated and wild vines may contribute to its extraordinary ability to reflect terroir and its remarkable aging potential."
+    },
+    "clones": [
+      {
+        "name": "Clone 21B",
+        "origin": "Germany",
+        "characteristics": "German selection with excellent aromatic intensity and balanced sugar/acid levels. Widely planted in quality-focused estates.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Mosel", "Rheingau", "Pfalz"]
+      },
+      {
+        "name": "Clone 198",
+        "origin": "Germany",
+        "characteristics": "Selected for loose clusters reducing botrytis risk. Good for dry wine production.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Germany", "Alsace"]
+      },
+      {
+        "name": "Clone 239",
+        "origin": "Germany",
+        "characteristics": "Quality-focused clone with good disease resistance. Aromatic intensity with mineral character.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Germany", "Austria"]
+      },
+      {
+        "name": "Schieferberg Selection",
+        "origin": "Mosel, Germany",
+        "characteristics": "Massal selection from steep slate vineyards of the Mosel. Low yields, exceptional mineral intensity, outstanding aging potential.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Mosel"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Blue Slate (Devonian)",
+        "also_known_as": ["Blauer Schiefer", "Mosel slate"],
+        "effect": "The defining soil of the Mosel. Dark slate absorbs heat, promoting ripening on steep north-facing slopes. Produces Rieslings of remarkable delicacy, piercing minerality, and exceptional aging potential. Low yields from poor soils concentrate flavors.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, slate mineral, white flowers, petrol (with age)"
+        },
+        "regions": ["Mosel", "Saar", "Ruwer"]
+      },
+      {
+        "soil": "Red Slate",
+        "also_known_as": ["Rotliegendes"],
+        "effect": "Found in parts of the Nahe and Pfalz. Iron-rich soils produce fuller, spicier wines with deeper color than blue slate.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Stone fruit, spice, minerals, more body"
+        },
+        "regions": ["Nahe", "Pfalz"]
+      },
+      {
+        "soil": "Limestone (Muschelkalk)",
+        "effect": "Common in Rheingau and parts of Alsace. Produces broader, more textural wines with citrus and stone fruit character.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Citrus, peach, chalky mineral"
+        },
+        "regions": ["Rheingau", "Alsace", "Kamptal"]
+      },
+      {
+        "soil": "Loess",
+        "effect": "Deep windblown sediments produce rounder, more approachable wines with tropical fruit notes.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Tropical fruit, citrus, softer texture"
+        },
+        "regions": ["Pfalz", "Kamptal", "Kremstal"]
+      },
+      {
+        "soil": "Volcanic",
+        "effect": "Found in the Kaiserstuhl and parts of the Pfalz. Produces powerful, mineral wines with distinctive smoky notes.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "aromatics": "Stone fruit, smoke, mineral, spice"
+        },
+        "regions": ["Kaiserstuhl", "Clare Valley"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to botrytis, which can be beneficial (noble rot for sweet wines) or harmful (grey rot). Depends on weather conditions.",
+          "impact_on_wine": "Noble rot creates legendary sweet wines; grey rot causes crop loss"
+        },
+        {
+          "disease": "Powdery Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible, requiring standard spray programs.",
+          "impact_on_wine": "Crop damage if untreated"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Winter Cold",
+          "level": "excellent",
+          "notes": "One of the most winter-hardy Vitis vinifera varieties, essential for Germany's cold winters."
+        },
+        {
+          "condition": "Late Ripening",
+          "level": "excellent",
+          "notes": "Late ripening allows extended hang time, developing complex flavors while maintaining acidity."
+        }
+      ],
+      "general_notes": "Riesling is a late-ripening variety that thrives in cool climates where it can maintain its signature acidity. The variety buds late, reducing spring frost risk. Its thin skins make it susceptible to botrytis but also allow noble rot development for sweet wines. Riesling is highly site-sensitive and expresses terroir differences with remarkable clarity."
+    },
+    "regional_expressions": [
+      {
+        "region": "Mosel",
+        "country": "Germany",
+        "importance": "benchmark",
+        "climate": "Cool continental",
+        "soils": ["Blue slate", "Grey slate"],
+        "style_summary": "The world's benchmark for delicate, mineral Riesling. Steep slate slopes along the Mosel River produce wines of ethereal lightness, piercing acidity, and extraordinary longevity. The best sites face south to maximize sun exposure. Wines range from bone-dry to lusciously sweet.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, green apple, slate, petrol, white flowers"
+        },
+        "notable_producers": ["J.J. Prüm", "Egon Müller", "Fritz Haag", "Willi Schaefer", "Joh. Jos. Christoffel"],
+        "aging_potential": "10-50+ years",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Rheingau",
+        "country": "Germany",
+        "importance": "benchmark",
+        "climate": "Cool continental",
+        "soils": ["Slate", "Quartzite", "Loess"],
+        "style_summary": "Historically Germany's most prestigious Riesling region. South-facing slopes along the Rhine produce fuller, more powerful wines than the Mosel. The region pioneered quality classification and sweet wine production.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Peach, apricot, honey, mineral"
+        },
+        "notable_producers": ["Robert Weil", "Schloss Johannisberg", "Peter Jakob Kühn", "Balthasar Ress"],
+        "aging_potential": "8-30+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Alsace",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental, dry",
+        "soils": ["Granite", "Limestone", "Clay", "Volcanic"],
+        "style_summary": "France's greatest Riesling region, producing fuller, drier styles than Germany. The rain shadow of the Vosges creates ideal conditions. Grand Cru sites show remarkable terroir expression. Traditional wines are dry; Vendange Tardive and Selection de Grains Nobles styles offer sweetness.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Citrus, stone fruit, mineral, petrol"
+        },
+        "notable_producers": ["Trimbach", "Zind-Humbrecht", "Marcel Deiss", "Domaine Weinbach", "Albert Boxler"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Clare Valley",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Mediterranean with cool nights",
+        "soils": ["Slate", "Limestone", "Red earth"],
+        "style_summary": "Australia's premier Riesling region, producing distinctive dry wines with lime and mineral character. High altitude and cool nights preserve acidity despite warm days. These wines develop the classic petrol note with age.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Lime, citrus, toast, petrol"
+        },
+        "notable_producers": ["Grosset", "Jim Barry", "Kilikanoon", "Pikes"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Finger Lakes",
+        "country": "USA",
+        "importance": "major",
+        "climate": "Cool continental",
+        "soils": ["Shale", "Limestone", "Glacial"],
+        "style_summary": "America's most exciting Riesling region, producing wines in both dry and off-dry styles. The deep lakes moderate temperatures, allowing Riesling to ripen while maintaining acidity. Quality has improved dramatically since 2000.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Apple, citrus, mineral, white flowers"
+        },
+        "notable_producers": ["Hermann J. Wiemer", "Dr. Konstantin Frank", "Ravines"],
+        "aging_potential": "5-15 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

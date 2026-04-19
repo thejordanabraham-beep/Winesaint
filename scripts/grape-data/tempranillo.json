@@ -1,0 +1,240 @@
+{
+  "name": "TEMPRANILLO",
+  "level_2": {
+    "origins_history": "Tempranillo is Spain's most important red grape variety, with origins tracing to the Rioja and Ribera del Duero regions. DNA analysis has identified Albillo Mayor as one parent, while the other remains unknown. The name derives from 'temprano' (early), referring to its relatively early ripening compared to other Spanish varieties.\n\nThe variety has been cultivated in Spain since at least the Middle Ages, though it was long overshadowed by international varieties. Recognition grew in the late 20th century as Spanish winemakers demonstrated its potential for world-class wines. Tempranillo is now the third most-planted red grape globally."
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Tempranillo's parentage has been partially confirmed, with Albillo Mayor identified as one parent. It has given rise to several offspring and goes by numerous names across Spain and Portugal.",
+      "parents": [
+        {
+          "name": "Albillo Mayor",
+          "slug": null,
+          "confirmed": true,
+          "notes": "A white grape from Ribera del Duero, confirmed as one parent through DNA analysis.",
+          "evidence": "DNA microsatellite analysis"
+        },
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "The second parent remains unidentified.",
+          "evidence": "None available"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Temparia",
+          "slug": null,
+          "other_parent": "Unknown",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "A Spanish crossing. Limited plantings."
+        }
+      ],
+      "mutations": [
+        {
+          "name": "Tempranillo Blanco",
+          "slug": null,
+          "type": "color",
+          "importance": "minor",
+          "description": "White-skinned mutation discovered in Rioja Baja in 1988. Authorized for white Rioja in 2004. Produces aromatic whites with citrus and tropical fruit character.",
+          "regions": ["Rioja"],
+          "discovery": "Discovered by grape grower Jesús Galilea Esteban in 1988."
+        },
+        {
+          "name": "Tempranillo Royo",
+          "slug": null,
+          "type": "color",
+          "importance": "minor",
+          "description": "Grey-skinned mutation found in Toro. Also called Tinta de Toro Gris. Currently being evaluated.",
+          "regions": ["Toro"],
+          "discovery": "Discovered in Toro in Castilla y León. Under evaluation at CIDA research center."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Tempranillo is genetically identical to Tinta Roriz (Portugal), Aragonez (Alentejo), and several other Iberian varieties. The confusing synonymy reflects centuries of unregulated vine movement across the peninsula."
+    },
+    "clones": [
+      {
+        "name": "RJ-43",
+        "origin": "Rioja, Spain",
+        "characteristics": "Selected for Rioja conditions. Good color and structure with moderate yields.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Rioja"]
+      },
+      {
+        "name": "RJ-78",
+        "origin": "Rioja, Spain",
+        "characteristics": "More aromatic selection. Used for fresher, more fruit-forward styles.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Rioja"]
+      },
+      {
+        "name": "Tinto Fino selection",
+        "origin": "Ribera del Duero, Spain",
+        "characteristics": "Local selections adapted to the high-altitude, continental climate of Ribera del Duero. Thicker skins, more structured wines.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Ribera del Duero"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone/Chalk",
+        "also_known_as": ["Calcareous"],
+        "effect": "Common in both Rioja and Ribera del Duero. Provides good drainage and contributes to wine structure and freshness.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "aromatics": "Red fruit, leather, mineral"
+        },
+        "regions": ["Rioja", "Ribera del Duero"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Adds richness and body while maintaining freshness. Common on slopes in Rioja Alta.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "aromatics": "Dark fruit, earth, tobacco"
+        },
+        "regions": ["Rioja Alta", "Toro"]
+      },
+      {
+        "soil": "Sandy/Alluvial",
+        "effect": "Found in Rioja Baja and flatter areas. Produces lighter, earlier-drinking wines.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "aromatics": "Fresh fruit, less structure"
+        },
+        "regions": ["Rioja Baja"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Tempranillo is notably susceptible to powdery mildew, requiring careful canopy management and often preventive treatments.",
+          "impact_on_wine": "Reduced fruit quality, off-flavors if untreated"
+        },
+        {
+          "disease": "Eutypa Dieback",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Susceptible to this trunk disease which enters through pruning wounds. Can cause significant vine decline over time.",
+          "impact_on_wine": "Reduced yields, eventual vine death"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Botrytis",
+          "level": "good",
+          "notes": "Generally resistant to botrytis bunch rot, making it well-suited to the dry Spanish climate."
+        }
+      ],
+      "general_notes": "Tempranillo is relatively easy to grow in its native climate but sensitive to wind and extreme drought. Its early ripening is both an advantage and a risk in warming climates."
+    },
+    "regional_expressions": [
+      {
+        "region": "Rioja",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Continental with Atlantic influence",
+        "soils": ["Clay-limestone", "Alluvial", "Ferrous clay"],
+        "style_summary": "The traditional home of Tempranillo. Classic wines feature extended oak aging, giving vanilla and dill notes. Modern styles emphasize fruit with less oak.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate, often softened by oak aging",
+          "aromatics": "Cherry, plum, leather, vanilla, dill, tobacco"
+        },
+        "key_appellations": [
+          { "name": "Rioja Alta", "style": "Higher altitude, more elegant, better aging" },
+          { "name": "Rioja Alavesa", "style": "Cooler, more aromatic, limestone soils" },
+          { "name": "Rioja Oriental (Baja)", "style": "Warmer, fuller, earlier drinking" }
+        ],
+        "wine_styles": ["Joven (unoaked)", "Crianza (1 year oak)", "Reserva (3 years aging)", "Gran Reserva (5 years aging)"],
+        "notable_producers": ["López de Heredia", "La Rioja Alta", "Muga", "CVNE", "Artadi", "Remelluri"],
+        "aging_potential": "5-40+ years for Gran Reserva",
+        "price_range": "$ to $$$$"
+      },
+      {
+        "region": "Ribera del Duero",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Continental, extreme (hot days, cold nights)",
+        "soils": ["Limestone", "Sand", "Clay"],
+        "style_summary": "High-altitude vineyards (700-1000m) produce powerful, concentrated wines. Modern style with more new oak than traditional Rioja.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Firm, structured",
+          "aromatics": "Blackberry, cassis, violet, smoke, new oak"
+        },
+        "key_appellations": [
+          { "name": "Ribera del Duero", "style": "Single DO covering the region" }
+        ],
+        "notable_producers": ["Vega Sicilia", "Pingus", "Aalto", "Pesquera", "Hacienda Monasterio"],
+        "aging_potential": "10-50+ years for top wines",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Toro",
+        "country": "Spain",
+        "importance": "major",
+        "climate": "Continental, extreme heat",
+        "soils": ["Sandy", "Clay"],
+        "style_summary": "Old bush vines of Tinta de Toro (local Tempranillo) produce powerful, high-alcohol wines with rustic character.",
+        "typical_character": {
+          "body": "Very full",
+          "acidity": "Medium",
+          "tannin": "Robust",
+          "aromatics": "Overripe dark fruit, earth, herbs"
+        },
+        "notable_producers": ["Teso la Monja", "Numanthia", "Pintia"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Douro (as Tinta Roriz)",
+        "country": "Portugal",
+        "importance": "major",
+        "climate": "Continental, hot summers",
+        "soils": ["Schist", "Granite"],
+        "style_summary": "Known as Tinta Roriz, Tempranillo is a key blending grape for both Port and Douro table wines. Contributes structure and dark fruit.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, herbs, mineral"
+        },
+        "notable_producers": ["Quinta do Noval", "Niepoort", "Quinta do Vale Meão"],
+        "aging_potential": "5-20 years for table wines",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Alentejo (as Aragonez)",
+        "country": "Portugal",
+        "importance": "moderate",
+        "climate": "Mediterranean, hot",
+        "soils": ["Granite", "Schist", "Clay"],
+        "style_summary": "Known as Aragonez in southern Portugal. Produces ripe, fruit-forward wines often blended with local varieties.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Ripe red fruit, herbs, soft spice"
+        },
+        "notable_producers": ["Herdade do Esporão", "Mouchão"],
+        "aging_potential": "3-10 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

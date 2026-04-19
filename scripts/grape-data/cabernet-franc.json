@@ -1,0 +1,319 @@
+{
+  "name": "CABERNET FRANC",
+  "level_2": {
+    "origins_history": "Cabernet Franc is one of the most important and ancient varieties of the Bordeaux region. DNA analysis and historical research now point to the Spanish Basque Country (Pais Vasco) for its origins, with parent-offspring relationships identified between Cabernet Franc and two old Basque varieties, Morenoa and Hondarribi Beltza.\n\nThe earliest reliable reference in the Loire Valley appeared in 1534 when Francois Rabelais mentioned 'vin breton' in his Gargantua. The name Breton remains a synonym in the Loire today. One theory holds that Cardinal Richelieu sent thousands of vines to his steward, Abbe Breton, who planted them in Chinon in 1631. Another suggests Breton sailors transported wine from the Gironde along the coast to Brittany.\n\nDNA parentage analysis has established Cabernet Franc as a parent of Cabernet Sauvignon (with Sauvignon Blanc), Carmenere, and Merlot (with Magdeleine Noire des Charentes). This makes it foundational to the Bordeaux blend. The name Cabernet likely derives from the Latin 'carbon' meaning black, referring to berry color; 'carbonet' became 'cabernet' through metathesis.",
+    "synonyms": ["Acheria (Basque)", "Breton (Loire)", "Bouchet Franc (Saint-Emilion)", "Gros Bouchet (Pomerol)", "Vidure (Graves)", "Bouchy (Madiran)", "Plant Breton (Chinon)", "Carmenet (Medoc)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Cabernet Franc is an ancient variety with Basque origins, now confirmed as a parent of several major Bordeaux varieties. DNA analysis has established parent-offspring relationships with Morenoa and Hondarribi Beltza from the Basque Country, supporting a Spanish origin.",
+      "parents": [
+        {
+          "name": "Unknown (Basque origin)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "DNA profiling suggests parent-offspring relationships with Morenoa and Hondarribi Beltza, both ancient Basque varieties. The exact parentage direction is unclear, but these relationships support Basque Country origins.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Cabernet Sauvignon",
+          "slug": "cabernet-sauvignon",
+          "other_parent": "Sauvignon Blanc",
+          "cross_type": "natural",
+          "importance": "major",
+          "notes": "DNA confirmed in 1997 (Bowers and Meredith). The world's most planted red variety is a natural cross between its parents."
+        },
+        {
+          "name": "Merlot",
+          "slug": "merlot",
+          "other_parent": "Magdeleine Noire des Charentes",
+          "cross_type": "natural",
+          "importance": "major",
+          "notes": "DNA confirmed 2009 (Boursiquot et al.). Makes Cabernet Franc foundational to Bordeaux blends."
+        },
+        {
+          "name": "Carmenere",
+          "slug": "carmenere",
+          "other_parent": "Unknown",
+          "cross_type": "natural",
+          "importance": "major",
+          "notes": "DNA confirmed. Once thought lost from Bordeaux, now Chile's signature variety."
+        },
+        {
+          "name": "Cabernet Moravia",
+          "slug": null,
+          "other_parent": "Zweigeltrebe",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Czech crossing bred for cold hardiness."
+        },
+        {
+          "name": "Incrocio Terzi 1",
+          "slug": null,
+          "other_parent": "Barbera",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Italian crossing. Limited plantings."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Cabernet Franc's role as parent to Cabernet Sauvignon, Merlot, and Carmenere makes it foundational to the entire Bordeaux blend. Historical confusion between these related varieties persisted until DNA profiling clarified relationships in the late 1990s and 2000s."
+    },
+    "clones": [
+      {
+        "name": "Clone 214",
+        "origin": "France",
+        "characteristics": "Not highly productive. Lower tannin and phenolics but slightly higher anthocyanins than clone 327. Used for both Loire and Bordeaux styles.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Loire", "Bordeaux", "California"]
+      },
+      {
+        "name": "Clone 327",
+        "origin": "France",
+        "characteristics": "Qualitatively superior to clone 214. Low weight clusters, medium sized berries, high total acidity, medium-high potential for color and tannic structure. Produces rich, structured wines. Slightly earlier ripening.",
+        "yield": "low to moderate",
+        "berry_size": "medium",
+        "regions": ["Loire", "Bordeaux", "California", "Virginia"]
+      },
+      {
+        "name": "Clone 623",
+        "origin": "France",
+        "characteristics": "Commonly recommended alongside 214 and 327. Quality-focused selection for varietal and blending use.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Loire", "Bordeaux"]
+      },
+      {
+        "name": "Clone 312",
+        "origin": "France",
+        "characteristics": "UC Davis FPS selection from ENTAV. Studied for wine quality alongside clone 327. Solid performer for California conditions.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["California"]
+      },
+      {
+        "name": "Clone 210",
+        "origin": "France",
+        "characteristics": "One of 31 certified French clones. Traditional selection for Loire Valley plantings.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Loire"]
+      },
+      {
+        "name": "Acheria (Basque selection)",
+        "origin": "Basque Country, Spain/France",
+        "characteristics": "The most archaic or primitive clone of Cabernet Franc. Found in Irouléguy. Morphologically distinct from modern selections. Represents the variety's ancestral form.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Irouleguy", "Basque Country"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Clay-Limestone (Tuffeau)",
+        "also_known_as": ["Tufa", "Chalky clay"],
+        "effect": "The signature soil of the Loire Valley (Chinon, Bourgueil, Saumur). The porous tuffeau limestone provides excellent drainage while the clay component retains moisture. Contributes to wines with aromatic complexity, freshness, and mineral notes.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "tannin": "Silky, fine",
+          "aromatics": "Raspberry, violet, pencil shavings, graphite, herbs"
+        },
+        "regions": ["Chinon", "Bourgueil", "Saumur-Champigny"]
+      },
+      {
+        "soil": "Clay-Limestone (Saint-Emilion)",
+        "also_known_as": ["Argilo-calcaire"],
+        "effect": "On the right bank of Bordeaux, clay-limestone soils suit Cabernet Franc well. The variety ripens earlier than Cabernet Sauvignon, making it ideal for these cooler sites. Produces wines with lift and freshness to complement Merlot.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Fine-grained",
+          "aromatics": "Red fruit, violet, herbs, tobacco"
+        },
+        "regions": ["Saint-Emilion", "Pomerol"]
+      },
+      {
+        "soil": "Sand and Gravel",
+        "effect": "Sandy soils provide good drainage and warm quickly. Can produce lighter, more aromatic styles but risk water stress. Works well where water table is accessible.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "aromatics": "Bright red fruit, floral"
+        },
+        "regions": ["Graves", "Saumur"]
+      },
+      {
+        "soil": "Loam (Virginia)",
+        "effect": "In Virginia, loamy soils with good drainage have proven successful for Cabernet Franc. The variety's cold hardiness and earlier ripening suit the region's continental climate.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "aromatics": "Red fruit, herbs, subtle green notes"
+        },
+        "regions": ["Virginia"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Cabernet Franc is more prone to coulure (poor fruit set) than Cabernet Sauvignon, particularly in cold or wet weather at flowering. This can significantly reduce yields.",
+          "impact_on_wine": "Reduced yields but can increase concentration"
+        },
+        {
+          "disease": "Eutypa Dieback",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Like other Bordeaux varieties, susceptible to this trunk disease that enters through pruning wounds.",
+          "impact_on_wine": "Vine decline over time"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cold Hardiness",
+          "level": "good",
+          "notes": "Very hard wood provides better cold hardiness than Merlot, making Cabernet Franc suitable for regions like Virginia and Washington State where winter cold can damage vines."
+        }
+      ],
+      "general_notes": "Cabernet Franc buds and matures earlier than Cabernet Sauvignon, making it easier to ripen fully in cooler climates. This also makes it an insurance policy in Bordeaux against vintage variation. Vigorous growth requires yield management for quality. Getting ripeness right is crucial to avoid herbaceous, 'green' flavors from methoxypyrazines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Loire Valley (Chinon, Bourgueil)",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental, moderate Atlantic influence",
+        "soils": ["Tuffeau limestone", "Clay-limestone", "Sand and gravel"],
+        "style_summary": "The Loire is where Cabernet Franc shines as a varietal. Improved viticulture has transformed quality in recent decades. Wines are fragrant, medium-bodied, silky, and relatively early-maturing. Classic aromas include pencil shavings, raspberry, and herbs. Ungrafted vines (franc de pied) exist in some old vineyards.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "tannin": "Silky, fine",
+          "aromatics": "Raspberry, pencil shavings, violet, bell pepper (in cooler years), herbs"
+        },
+        "key_appellations": [
+          { "name": "Chinon", "style": "Fresh to structured, classic Loire expression" },
+          { "name": "Bourgueil", "style": "Slightly fuller, can be more tannic" },
+          { "name": "Saint-Nicolas-de-Bourgueil", "style": "Lighter, elegant" },
+          { "name": "Saumur-Champigny", "style": "Fresh, red fruit, immediate appeal" }
+        ],
+        "notable_producers": ["Philippe Alliet", "Bernard Baudry", "Charles Joguet", "Clos Rougeard", "Catherine & Pierre Breton", "Olga Raffault"],
+        "aging_potential": "5-15 years for top wines",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Bordeaux Right Bank",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Maritime, oceanic",
+        "soils": ["Clay-limestone", "Sand", "Gravel"],
+        "style_summary": "Cabernet Franc is the third grape of Bordeaux, playing a crucial blending role with Merlot and sometimes dominating (as at Chateau Cheval Blanc). It provides lift, aromatics, and freshness to complement Merlot's richness. More popular on the cooler right bank where it ripens more reliably than Cabernet Sauvignon.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Fine-grained",
+          "aromatics": "Violet, red fruit, tobacco, herbs, graphite"
+        },
+        "key_appellations": [
+          { "name": "Saint-Emilion", "style": "Blended with Merlot, sometimes dominant" },
+          { "name": "Pomerol", "style": "Supporting role to Merlot" }
+        ],
+        "notable_producers": ["Chateau Cheval Blanc", "Chateau Figeac", "Chateau Lafleur"],
+        "aging_potential": "10-40+ years for top wines",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "moderate",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "About 1,400 hectares planted (2009), mostly in Napa and Sonoma. Primarily used in Bordeaux-style blends but exceptional varietal wines exist. California examples tend to be riper and fuller than Loire but retain aromatic character.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Ripe red fruit, herbs, spice, sometimes oak"
+        },
+        "notable_producers": ["Lang & Reed", "Arietta", "Crocker & Starr", "Detert Family", "Pride Mountain"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Virginia",
+        "country": "United States",
+        "importance": "major",
+        "climate": "Humid continental",
+        "soils": ["Loam", "Clay"],
+        "style_summary": "Considered Virginia's most promising red grape since Horton's breakthrough varietal in 1991. Cold hardiness and earlier ripening suit the climate. Represents about 10% of state vineyard area. Produces aromatic, varietally true wines.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, slight greenness in cooler years"
+        },
+        "notable_producers": ["Barboursville", "King Family Estate", "RdV Vineyards"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$"
+      },
+      {
+        "region": "Hungary",
+        "country": "Hungary",
+        "importance": "moderate",
+        "climate": "Continental",
+        "soils": ["Loess", "Limestone"],
+        "style_summary": "Hungary has the largest Cabernet Franc plantings in Eastern Europe (1,243 ha in 2008). Most successful in Villany in the south, where it produces some of the country's finest reds, both as varietals and Bordeaux blends.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate to firm",
+          "aromatics": "Red and black fruit, herbs, spice"
+        },
+        "notable_producers": ["Malatinszky", "Attila Gere", "Vylyan"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Italy",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Various",
+        "soils": ["Various"],
+        "style_summary": "About 7,000 hectares mainly in the northeast (Friuli, Veneto). Historical confusion with Carmenere means totals may change. Quality improving as yields are reduced. Tenuta di Trinoro in Tuscany produces exceptional varietal examples.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, bell pepper in underripe examples"
+        },
+        "notable_producers": ["Tenuta di Trinoro", "Vie di Romans", "Russiz Superiore"],
+        "aging_potential": "5-12 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "South Africa",
+        "country": "South Africa",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Area tripled in the first decade of the 2000s to nearly 1,000 hectares. Still less than 1% of total vineyard but producing notable varietal examples. Stellenbosch is the main region.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, tobacco"
+        },
+        "notable_producers": ["Raats", "Warwick Estate"],
+        "aging_potential": "5-12 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

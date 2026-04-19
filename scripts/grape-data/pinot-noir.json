@@ -1,0 +1,102 @@
+{
+  "name": "PINOT NOIR",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Pinot Noir is one of the most genetically significant grape varieties, serving as a parent to over 20 known varieties including Chardonnay. It likely originated in Burgundy over 1,000 years ago.",
+      "parents": [
+        {
+          "name": "Unknown (Proto-Pinot)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Likely a single variety that spontaneously crossed or mutated. May be descended from wild Vitis sylvestris.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Chardonnay",
+          "slug": "chardonnay",
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. World's most famous white variety."
+        },
+        {
+          "name": "Aligoté",
+          "slug": "aligote",
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Burgundy's second white variety."
+        },
+        {
+          "name": "Gamay",
+          "slug": "gamay",
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. The grape of Beaujolais."
+        },
+        {
+          "name": "Auxerrois",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Important in Alsace and Luxembourg."
+        },
+        {
+          "name": "Melon de Bourgogne",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Grape of Muscadet."
+        },
+        {
+          "name": "Romorantin",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Rare Loire variety."
+        },
+        {
+          "name": "Knipperlé",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Rare Alsatian variety."
+        },
+        {
+          "name": "Roublot",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Nearly extinct."
+        },
+        {
+          "name": "Peurion",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Gouais Blanc. Nearly extinct."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Pinot Gris",
+          "type": "color_mutation",
+          "description": "Pink/grey-skinned mutation discovered in Burgundy. Major variety in Alsace, Italy, and Oregon."
+        },
+        {
+          "variety": "Pinot Blanc",
+          "type": "color_mutation",
+          "description": "White-skinned mutation. Important in Alsace and Alto Adige."
+        },
+        {
+          "variety": "Pinot Meunier",
+          "type": "mutation",
+          "description": "Mutation with downy leaf undersides. Essential Champagne variety."
+        },
+        {
+          "variety": "Pinot Teinturier",
+          "type": "mutation",
+          "description": "Red-fleshed mutation. Rare, used for adding color."
+        },
+        {
+          "variety": "Pinot Noir Précoce",
+          "type": "mutation",
+          "description": "Early-ripening mutation found in German-speaking regions."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Pinot Noir's prolific crossing with Gouais Blanc produced many of France's most important varieties. The variety's genetic instability leads to frequent mutations, explaining the numerous Pinot clones and color variants. Pinot Noir is arguably the most genetically significant grape variety in the world."
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "name": "SÉMILLON",
+  "level_2": {
+    "origins_history": "Sémillon originated in southwestern France, most likely in the Sauternes region where it has been the dominant grape for centuries. DNA analysis has not identified its parentage, suggesting it is an ancient indigenous variety of the Gironde.\n\nThe variety was once the most planted white grape in Bordeaux, prized for both dry wines and the legendary sweet wines of Sauternes and Barsac. Its thin skin makes it particularly susceptible to noble rot (Botrytis cinerea), which concentrates sugars and creates the complex flavors of great dessert wines.\n\nSémillon traveled to Australia in the early 19th century, where it found an unexpected second home in the Hunter Valley. There, ungrafted vines planted in the 1860s still produce Australia's most distinctive white wine style. Chile also maintains significant plantings. Despite its historic importance, Sémillon has declined globally as more aromatic varieties gained favor.",
+    "synonyms": ["Semilion", "Sémillon Blanc", "Chevrier (South Africa)", "Greengrape (South Africa)", "Hunter River Riesling (historic Australian name)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Sémillon is an ancient French variety with no confirmed parentage. It has produced several color mutations and is suspected to have relationships with other Bordeaux varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parents identified. Sémillon appears indigenous to southwestern France.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [
+        {
+          "variety": "Sémillon Gris",
+          "type": "color_mutation",
+          "description": "Pink-skinned mutation occasionally found in old vineyards."
+        },
+        {
+          "variety": "Sémillon Rouge",
+          "type": "color_mutation",
+          "description": "Red-skinned mutation, rarely cultivated."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Sémillon's genetic isolation suggests it is one of the founding varieties of Bordeaux viticulture, predating many better-known grapes."
+    },
+    "clones": [
+      {
+        "name": "Clone 173",
+        "origin": "France",
+        "characteristics": "Standard French clone with good susceptibility to noble rot. Used for both dry and sweet wine production.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Sauternes", "Graves"]
+      },
+      {
+        "name": "Clone 315",
+        "origin": "France",
+        "characteristics": "More recent selection with good aromatic intensity for dry wines.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Pessac-Léognan", "Entre-Deux-Mers"]
+      },
+      {
+        "name": "Clone 380",
+        "origin": "France",
+        "characteristics": "Selected for thin-skinned berries ideal for noble rot development.",
+        "yield": "low",
+        "berry_size": "medium",
+        "regions": ["Sauternes", "Barsac"]
+      },
+      {
+        "name": "Hunter Valley Heritage",
+        "origin": "Hunter Valley, Australia",
+        "characteristics": "Ungrafted vines from 19th-century plantings. Low-yielding, producing wines of exceptional concentration and longevity. These are among the world's oldest Sémillon vines.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Hunter Valley"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Gravel over Clay",
+        "also_known_as": ["Graves"],
+        "effect": "The classic soil of Graves and Pessac-Léognan. Excellent drainage with clay retention for water. Produces structured, age-worthy dry whites.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Citrus, lanolin, honey, waxy"
+        },
+        "regions": ["Pessac-Léognan", "Graves"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Found in Sauternes and Barsac. Good water retention helps develop botrytis. Produces the richest sweet wines.",
+        "wine_character": {
+          "body": "Full (sweet wines)",
+          "acidity": "Medium-high",
+          "aromatics": "Apricot, honey, orange peel, botrytis complexity"
+        },
+        "regions": ["Sauternes", "Barsac"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Hunter Valley's characteristic soil. Well-drained, warm, producing wines that develop distinctive toast and honey notes with age.",
+        "wine_character": {
+          "body": "Light to medium (when young)",
+          "acidity": "High",
+          "aromatics": "Lemon, grass (young); toast, honey, lanolin (aged)"
+        },
+        "regions": ["Hunter Valley"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Extremely susceptible to botrytis due to thin skins. This is desirable for sweet wines but problematic for dry wine production.",
+          "impact_on_wine": "Noble rot creates legendary dessert wines; grey rot damages dry wine production"
+        },
+        {
+          "disease": "Downy Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible in humid conditions.",
+          "impact_on_wine": "Requires management in wet years"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Tolerates warm conditions well, contributing to its success in Hunter Valley."
+        }
+      ],
+      "general_notes": "Sémillon is a vigorous, productive variety that buds and ripens early. Its thin skins make it ideal for noble rot development but also vulnerable to grey rot in wet conditions. The variety develops waxy, lanolin-like character with age. In blends, it contributes body and aging potential to complement Sauvignon Blanc's aromatics."
+    },
+    "regional_expressions": [
+      {
+        "region": "Sauternes/Barsac",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Maritime, humid autumns",
+        "soils": ["Clay-limestone", "Gravel"],
+        "style_summary": "The world's greatest botrytized wines, where Sémillon typically comprises 80% or more of blends. Morning mists from the Ciron river encourage noble rot development. These wines of legendary richness and complexity can age for a century.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "aromatics": "Apricot, orange marmalade, honey, saffron, botrytis"
+        },
+        "notable_producers": ["Château d'Yquem", "Château Climens", "Château Suduiraut", "Château Rieussec"],
+        "aging_potential": "20-100+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Hunter Valley",
+        "country": "Australia",
+        "importance": "benchmark",
+        "climate": "Humid subtropical",
+        "soils": ["Sandy loam", "Clay"],
+        "style_summary": "Australia's most distinctive white wine style. Young wines are lean and lemony; with age they develop extraordinary toast, honey, and lanolin complexity without any oak. These are among the world's most age-worthy dry white wines.",
+        "typical_character": {
+          "body": "Light to medium (when young); medium to full (aged)",
+          "acidity": "High",
+          "aromatics": "Lemon, grass (young); toast, honey, lanolin, marmalade (aged)"
+        },
+        "notable_producers": ["Tyrrell's", "Brokenwood", "McWilliam's Mount Pleasant", "Audrey Wilkinson"],
+        "aging_potential": "10-40+ years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Pessac-Léognan",
+        "country": "France",
+        "importance": "major",
+        "climate": "Maritime, temperate",
+        "soils": ["Gravel", "Sand", "Clay"],
+        "style_summary": "Bordeaux's premier dry white wine appellation. Sémillon blends with Sauvignon Blanc, often with oak aging, creating complex, age-worthy wines. The region's classified growths produce some of France's greatest dry whites.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs, oak, honey, waxy texture"
+        },
+        "notable_producers": ["Domaine de Chevalier", "Haut-Brion Blanc", "Pape Clément"],
+        "aging_potential": "5-25 years",
+        "price_range": "$$$ to $$$$$"
+      }
+    ]
+  }
+}

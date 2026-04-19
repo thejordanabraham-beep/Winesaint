@@ -1,0 +1,303 @@
+{
+  "name": "CINSAUT",
+  "level_2": {
+    "origins_history": "Cinsaut is a variety from southern France, most likely originating in the Languedoc-Roussillon or Provence. The earliest mention appeared as Marroquin in the writings of Olivier de Serres (1600) or possibly Magnol (1676). The modern spelling Cinsaut did not appear until 1888. The origin of the name is unknown.\n\nThe variety belongs to the Piquepoul ampelographic group, all members of which originate from Vaucluse in Provence or from Languedoc-Roussillon. DNA analysis suggests a possible parent-offspring relationship with Rivairenc, also from Languedoc-Roussillon.\n\nCinsaut was significantly more popular in France in the 1970s, when plantings exceeded 50,000 hectares. The variety was officially encouraged as a replacement for lower-quality varieties like Aramon Noir. In the 1950s and 1960s, large volumes of Cinsaut wine were imported from Algeria (then part of France) to strengthen weaker Burgundies.\n\nThe variety has an old presence in Italy, where DNA profiling confirmed that Grecau, recorded in Sicily by Cupani in 1696, is identical to Cinsaut. It is also known as Ottavianello in Puglia. In South Africa, where it was known as Hermitage, Cinsaut was crossed with Pinot Noir to create Pinotage in 1925.",
+    "synonyms": ["Black Malvoisie (California)", "Black Prince (Australia)", "Cinqsaut (Languedoc)", "Cinsault", "Grecau (Sicily)", "Hermitage (South Africa)", "Marroquin", "Ottavianello (Puglia)", "Picardan Noir (Var)", "Prunelat (Gironde)", "Samso (Catalunya)", "Sinso (Spain)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Cinsaut is a member of the Piquepoul ampelographic group from southern France. DNA analysis suggests a possible parent-offspring relationship with Rivairenc from Languedoc-Roussillon. It is a parent of the South African variety Pinotage.",
+      "parents": [
+        {
+          "name": "Unknown (Languedoc-Roussillon origin)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "DNA parentage analysis based on twenty-three markers suggests a possible parent-offspring relationship with Rivairenc, but this needs confirmation with more markers.",
+          "evidence": "DNA analysis (Vouillamoz)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Pinotage",
+          "slug": "pinotage",
+          "other_parent": "Pinot Noir",
+          "cross_type": "deliberate",
+          "importance": "major",
+          "notes": "South Africa's signature variety, created in 1925 by Abraham Perold at Stellenbosch. Named after its parents Pinot Noir and Hermitage (the South African name for Cinsaut)."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Cinsaut Gris",
+          "type": "color_mutation",
+          "description": "Grey-berried mutation discovered in South Africa. Now apparently extinct and deleted from official variety designations."
+        },
+        {
+          "variety": "Cinsaut Blanc",
+          "type": "color_mutation",
+          "description": "White-berried mutation discovered in South Africa. Now apparently extinct and deleted from official variety designations."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Cinsaut's confirmed identity with Grecau (Sicily, 1696) and Ottavianello (Puglia) demonstrates its long Mediterranean history. Its role as parent of Pinotage, South Africa's signature grape, gives it ongoing importance in New World viticulture."
+    },
+    "clones": [
+      {
+        "name": "Clone 3",
+        "origin": "France",
+        "characteristics": "One of the earliest certified clones. Part of the core selection for quality-focused production.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Languedoc", "Provence"]
+      },
+      {
+        "name": "Clone 4",
+        "origin": "France",
+        "characteristics": "Early certified clone. Complements other selections in the French program.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Languedoc", "Provence"]
+      },
+      {
+        "name": "Clone 5",
+        "origin": "France",
+        "characteristics": "Early certified clone. Part of the foundational selection group.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Languedoc", "Provence"]
+      },
+      {
+        "name": "Clone 252",
+        "origin": "France",
+        "characteristics": "Part of the expanded certified clone selection. Quality-focused with controlled vigor.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Languedoc", "Provence", "Rhone"]
+      },
+      {
+        "name": "Clone 320",
+        "origin": "France",
+        "characteristics": "Later selection in the ENTAV program. Improved characteristics for southern French conditions.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Languedoc", "Provence"]
+      },
+      {
+        "name": "South African Old Vine Selections",
+        "origin": "South Africa",
+        "characteristics": "Heritage material from old Cape vineyards. Low-yielding old vines produce concentrated wines. These represent some of South Africa's most valuable viticultural resources for quality production.",
+        "yield": "low",
+        "berry_size": "large",
+        "regions": ["Swartland", "Paarl"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Garrigue Limestone",
+        "also_known_as": ["Mediterranean scrubland soils"],
+        "effect": "Typical of southern France's best Cinsaut sites. Poor, dry soils stress vines appropriately, controlling yields and concentrating flavors. The variety thrives in these conditions.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, floral, herbs, garrigue"
+        },
+        "regions": ["Languedoc", "Provence"]
+      },
+      {
+        "soil": "Gravel and Sand",
+        "effect": "Well-drained soils force roots deep and control vigor. Produces more aromatic, perfumed wines suited for rose production.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Strawberry, raspberry, floral"
+        },
+        "regions": ["Provence", "Cotes de Provence"]
+      },
+      {
+        "soil": "Schist (South Africa)",
+        "effect": "Weathered schist soils in Swartland provide excellent drainage and vine stress. Old bushvines on these soils produce concentrated, complex wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Red fruit, earth, spice, herbs"
+        },
+        "regions": ["Swartland"]
+      },
+      {
+        "soil": "Calcareous Clay",
+        "effect": "Can cause chlorosis in Cinsaut if limestone content is too high. Requires careful site selection on calcareous soils.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium to high",
+          "aromatics": "Red fruit, mineral"
+        },
+        "regions": ["Chateauneuf-du-Pape", "Southern Rhone"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Esca",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Cinsaut is notably susceptible to esca, a devastating trunk disease. The wood ages quickly, making older vines particularly vulnerable.",
+          "impact_on_wine": "Vine decline and death"
+        },
+        {
+          "disease": "Eutypa Dieback",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Susceptible to eutypa, another trunk disease that enters through pruning wounds.",
+          "impact_on_wine": "Vine decline"
+        },
+        {
+          "disease": "Grape Moths",
+          "severity": "moderate",
+          "type": "pest",
+          "notes": "Susceptible to grape moths, requiring monitoring and treatment in affected regions.",
+          "impact_on_wine": "Crop damage"
+        },
+        {
+          "disease": "Mites",
+          "severity": "moderate",
+          "type": "pest",
+          "notes": "Can suffer from mite infestations.",
+          "impact_on_wine": "Reduced vine health"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Very resistant to drought, well-suited to the hot, dry conditions of the Mediterranean climate."
+        },
+        {
+          "condition": "Brunissure (Leaf Browning)",
+          "level": "good",
+          "notes": "Resistant to browning of the leaves."
+        }
+      ],
+      "general_notes": "Cinsaut is generally delicate but copes well with heat and drought. It is not especially vigorous and the wood ages quickly. The variety is fertile and productive, but requires poor, dry soils to limit yields and produce quality wine. Under fertile conditions, yields are excessive and wine quality suffers. Late budding and mid ripening. Big bunches with big berries."
+    },
+    "regional_expressions": [
+      {
+        "region": "Languedoc",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Mediterranean, hot, dry",
+        "soils": ["Limestone", "Schist", "Garrigue"],
+        "style_summary": "The historical heartland of Cinsaut in France. Used primarily in blends with Carignan, Grenache, and Syrah. Some producers make excellent 100% Cinsaut reds that are soft, fruity, and aromatic in youth but surprisingly long-lived. Also ideally suited for fresh, perfumed rose wines.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, floral, herbs, spice"
+        },
+        "notable_producers": ["Domaine des Terres Falmet", "Domaine d'Aupilhac"],
+        "aging_potential": "3-10 years for quality reds",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Provence",
+        "country": "France",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Limestone", "Schist", "Sand"],
+        "style_summary": "A key variety for Provence rose production. Contributes fruit and freshness to blends. The Var department has significant plantings. A conservatory with about 100 clones was planted in Cotes de Provence in 2006.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Strawberry, raspberry, citrus, floral"
+        },
+        "aging_potential": "1-3 years for rose",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Southern Rhone",
+        "country": "France",
+        "importance": "moderate",
+        "climate": "Mediterranean, warm",
+        "soils": ["Galets roules", "Clay-limestone"],
+        "style_summary": "One of the permitted varieties in Chateauneuf-du-Pape, though contribution is generally limited to around 5%. Adds freshness and aromatic lift to blends dominated by Grenache.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, floral"
+        },
+        "aging_potential": "10-20+ years in top blends",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "South Africa",
+        "country": "South Africa",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Granite", "Schist", "Sandstone"],
+        "style_summary": "Once South Africa's most planted red variety, losing the top position to Cabernet Sauvignon only in 1993. About 2,200 hectares remain, mostly in Paarl, Breedekloof, and Malmesbury. Old vines in Swartland are increasingly valued for fine wines. Historically known as Hermitage and used to create Pinotage.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Red fruit, earth, spice"
+        },
+        "notable_producers": ["Adi Badenhorst", "Mullineux", "Sadie Family"],
+        "aging_potential": "5-12 years for old-vine wines",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Morocco",
+        "country": "Morocco",
+        "importance": "major",
+        "climate": "Mediterranean to semi-arid",
+        "soils": ["Various"],
+        "style_summary": "Still the most widely planted variety in Morocco. The variety's drought resistance makes it well-suited to North African conditions. Used for both red wines and roses.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, spice"
+        },
+        "aging_potential": "2-5 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Lebanon",
+        "country": "Lebanon",
+        "importance": "moderate",
+        "climate": "Mediterranean",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Probably the third most planted wine grape after Cabernet Sauvignon and Syrah. Has long played an important role in Chateau Musar's legendary blends.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, spice, herbs"
+        },
+        "notable_producers": ["Chateau Musar"],
+        "aging_potential": "10-30+ years in blends",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Puglia",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Mediterranean, warm",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Known as Ottavianello in Puglia since at least the 19th century. Appears in the tiny Ostuni DOC as a generally light varietal wine. About 290 hectares in Italy as of 2000.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, floral"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

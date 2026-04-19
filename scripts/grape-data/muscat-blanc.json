@@ -1,0 +1,175 @@
+{
+  "name": "MUSCAT BLANC À PETITS GRAINS",
+  "level_2": {
+    "origins_history": "Muscat Blanc à Petits Grains is the oldest and most aristocratic member of the Muscat family, likely originating in Greece or Asia Minor. It is one of the few grape varieties that produces wines tasting distinctly of fresh grapes.\n\nThis ancient variety was prized by the Greeks and Romans and spread throughout the Mediterranean. DNA analysis shows it is a parent of numerous other grape varieties and the progenitor of the extensive Muscat family.\n\nMuscat Blanc à Petits Grains produces intensely aromatic wines ranging from dry to lusciously sweet, including Asti, Muscat de Beaumes-de-Venise, and the legendary Rutherglen Muscats of Australia. The variety's small berries distinguish it from other Muscat varieties.",
+    "synonyms": ["Muscat Blanc", "Muscat de Frontignan", "Moscato Bianco", "Muskateller", "Moscatel de Grano Menudo", "Brown Muscat (Australia)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Muscat Blanc à Petits Grains is one of the oldest cultivated grape varieties and a parent of many others.",
+      "parents": [
+        {
+          "name": "Unknown (Ancient)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Possibly descended from wild vines in Greece or Asia Minor.",
+          "evidence": "Historical records, DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Muscat of Alexandria",
+          "slug": "muscat-of-alexandria",
+          "relationship": "offspring",
+          "notes": "Cross with Axina de Tres Bias."
+        },
+        {
+          "name": "Aleatico",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with unknown variety."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Muscat Rouge à Petits Grains",
+          "type": "color_mutation",
+          "description": "Pink-skinned mutation."
+        },
+        {
+          "variety": "Brown Muscat",
+          "type": "color_mutation",
+          "description": "Dark-skinned mutation used for Rutherglen Muscat."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "As one of the oldest cultivated varieties and parent of the Muscat family, Muscat Blanc à Petits Grains is foundational to viticulture."
+    },
+    "clones": [
+      {
+        "name": "Clone 151",
+        "origin": "France",
+        "characteristics": "Standard French clone for Muscat de Beaumes-de-Venise. Good aromatic intensity.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Beaumes-de-Venise"]
+      },
+      {
+        "name": "Moscato Bianco Selection",
+        "origin": "Piedmont, Italy",
+        "characteristics": "Selections for Asti production. Fine mousse and delicate aromatics.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "regions": ["Asti", "Piedmont"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone-Clay",
+        "effect": "Found in Beaumes-de-Venise. Produces concentrated, complex sweet wines.",
+        "wine_character": {
+          "body": "Medium to full (sweet styles)",
+          "acidity": "Medium",
+          "aromatics": "Orange blossom, rose, lychee, honey, citrus"
+        },
+        "regions": ["Beaumes-de-Venise"]
+      },
+      {
+        "soil": "Sandy-Marl",
+        "effect": "Common in Piedmont. Produces lighter, more delicate sparkling wines.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "Medium",
+          "aromatics": "Peach, orange blossom, grape, floral"
+        },
+        "regions": ["Asti", "Moscato d'Asti"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Found in Rutherglen. Heat-stressed vines produce intensely concentrated fruit for fortified wines.",
+        "wine_character": {
+          "body": "Full (fortified)",
+          "acidity": "Low",
+          "aromatics": "Toffee, raisin, orange peel, coffee, Christmas cake"
+        },
+        "regions": ["Rutherglen"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Highly susceptible to powdery mildew.",
+          "impact_on_wine": "Requires careful management"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Thin skins make it very susceptible.",
+          "impact_on_wine": "Can be beneficial for some sweet wine styles"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Performs well in warm Mediterranean climates."
+        }
+      ],
+      "general_notes": "Muscat Blanc à Petits Grains is a challenging variety to grow due to its disease susceptibility and small berries. The variety's intense aromatics are best preserved with cool fermentation and early picking. The range of styles from dry Alsace to sweet Rutherglen demonstrates its versatility."
+    },
+    "regional_expressions": [
+      {
+        "region": "Asti DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Sandy", "Marl", "Clay"],
+        "style_summary": "Piedmont's famous sweet sparkling wine, produced in both fully sparkling (Asti Spumante) and lightly fizzy (Moscato d'Asti) styles. Low alcohol, delicate sweetness, and intense floral aromatics define these wines.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "Medium",
+          "aromatics": "Peach, orange blossom, grape, flowers, honey"
+        },
+        "notable_producers": ["Paolo Saracco", "Vietti", "La Spinetta"],
+        "aging_potential": "1-2 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Rutherglen",
+        "country": "Australia",
+        "importance": "benchmark",
+        "climate": "Hot continental",
+        "soils": ["Sandy loam", "Clay"],
+        "style_summary": "Australia's unique contribution to Muscat, producing intensely sweet fortified wines aged using a solera-like system. Classifications from Rutherglen to Rare indicate increasing age and concentration. Among the world's great dessert wines.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Low",
+          "aromatics": "Toffee, raisin, orange peel, coffee, Christmas cake, spice"
+        },
+        "notable_producers": ["Chambers Rosewood", "Morris", "Campbells"],
+        "aging_potential": "Decades (in cellar aging system)",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Muscat de Beaumes-de-Venise AOC",
+        "country": "France",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Southern Rhône's Vin Doux Naturel from Muscat Blanc à Petits Grains. Fortified sweet wines with intense floral and citrus aromatics. Less oxidative style than Rutherglen.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Orange blossom, rose, apricot, honey, citrus"
+        },
+        "notable_producers": ["Domaine de Durban", "Domaine des Bernardins"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

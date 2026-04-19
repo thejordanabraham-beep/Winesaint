@@ -1,0 +1,179 @@
+{
+  "name": "MOURVÈDRE",
+  "level_2": {
+    "origins_history": "Mourvèdre originated in Spain, likely in the Valencia or Catalonia region, where it is known as Monastrell. DNA analysis has not identified its parentage, suggesting it is an ancient indigenous Iberian variety. The name may derive from the town of Murviedro (now Sagunto) near Valencia.\n\nThe variety spread to southern France during the Middle Ages, becoming important in Provence and Languedoc. It was devastated by phylloxera in the late 19th century and struggled to recover due to grafting difficulties. The variety's French revival came in the late 20th century.\n\nMourvèdre is the dominant grape in Bandol, where it produces some of France's most age-worthy red wines. In Spain, Monastrell covers vast areas of the southeast, though quality varies enormously. Australia's old-vine plantings, particularly in McLaren Vale, produce increasingly celebrated wines.",
+    "synonyms": ["Monastrell (Spain)", "Mataro (Australia, California)", "Estrangle-Chien"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Mourvèdre is an ancient Spanish variety with no confirmed parentage. DNA analysis confirms its Iberian origins.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage has been established. Mourvèdre appears indigenous to eastern Spain.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Mourvèdre's genetic isolation suggests it is one of the founding varieties of Iberian viticulture."
+    },
+    "clones": [
+      {
+        "name": "Clone 369",
+        "origin": "France",
+        "characteristics": "Standard French clone with good color and structure. Widely planted in Bandol.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bandol", "Provence"]
+      },
+      {
+        "name": "Clone 520",
+        "origin": "France",
+        "characteristics": "More recent selection with improved ripening characteristics.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Southern Rhone"]
+      },
+      {
+        "name": "Jumilla Heritage Selection",
+        "origin": "Jumilla, Spain",
+        "characteristics": "Old vine selections from ungrafted Monastrell in Jumilla. Exceptional concentration from vines over 50 years old.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Jumilla", "Yecla"]
+      },
+      {
+        "name": "McLaren Vale Old Vine",
+        "origin": "McLaren Vale, Australia",
+        "characteristics": "Heritage Mataro from vines planted in the 19th century. Complex, meaty wines with exceptional aging potential.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["McLaren Vale", "Barossa Valley"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone-Clay",
+        "also_known_as": ["Restanques"],
+        "effect": "The classic soil of Bandol's terraced vineyards. Good drainage with water-retentive clay. Produces structured, age-worthy wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Powerful, needs aging",
+          "aromatics": "Black fruit, meat, leather, herbs, garrigue"
+        },
+        "regions": ["Bandol"]
+      },
+      {
+        "soil": "Limestone",
+        "effect": "Found in Jumilla and parts of southeastern Spain. Heat-reflective soils promote ripeness.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, spice, earth"
+        },
+        "regions": ["Jumilla", "Yecla"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Found in McLaren Vale. Produces softer, more approachable wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Dark fruit, meat, chocolate"
+        },
+        "regions": ["McLaren Vale"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires management"
+        },
+        {
+          "disease": "Poor Ripening",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Mourvèdre requires significant heat to ripen fully. In cool years, wines can be green and tannic.",
+          "impact_on_wine": "Incomplete ripeness produces harsh wines"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Exceptionally drought-tolerant, thriving in hot, dry Mediterranean climates."
+        },
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Requires heat to ripen and performs best in warm climates."
+        }
+      ],
+      "general_notes": "Mourvèdre is a late-ripening variety that requires significant heat and a long growing season. It is one of the last varieties to ripen in any region where it is grown. The variety needs warmth and sunlight exposure to develop its characteristic meaty, gamy character. Young Mourvèdre wines are often tannic and closed; the variety shows best with age. Traditional Bandol requires minimum 18 months aging before release."
+    },
+    "regional_expressions": [
+      {
+        "region": "Bandol",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Mediterranean",
+        "soils": ["Limestone-clay", "Sandstone"],
+        "style_summary": "The world's benchmark for serious Mourvèdre, requiring minimum 50% of the variety (most use 80-95%). These powerful, complex wines need years of aging to show their best, developing extraordinary meaty, leathery complexity. Bandol's terraced vineyards face the sea, providing ideal ripening conditions.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Powerful, fine-grained with age",
+          "aromatics": "Black fruit, game, leather, herbs, garrigue, meat"
+        },
+        "notable_producers": ["Domaine Tempier", "Chateau Pradeaux", "Domaine de Terrebrune", "Chateau Pibarnon"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$"
+      },
+      {
+        "region": "Jumilla",
+        "country": "Spain",
+        "importance": "major",
+        "climate": "Continental Mediterranean",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Spain's most important Monastrell region, with vast plantings including many ungrafted old vines. Quality ranges from simple, fruity wines to concentrated, complex examples from old vines. Offers exceptional value.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, chocolate, herbs, earth"
+        },
+        "notable_producers": ["Juan Gil", "Casa Castillo", "El Nido"],
+        "aging_potential": "5-15 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "McLaren Vale",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Sandy loam", "Clay"],
+        "style_summary": "Australia's old-vine Mataro (as Mourvèdre is called locally) produces increasingly celebrated wines. Heritage vines from the 19th century survive. Style tends toward richer, more fruit-forward than Bandol.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Dark fruit, chocolate, meat, spice"
+        },
+        "notable_producers": ["Yangarra", "Hewitson", "Bekkers"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      }
+    ]
+  }
+}

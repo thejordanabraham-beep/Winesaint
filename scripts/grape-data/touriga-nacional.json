@@ -1,0 +1,198 @@
+{
+  "name": "TOURIGA NACIONAL",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Touriga Nacional is indigenous to the Dão region of Portugal. DNA analysis has not identified its parentage, confirming it as an ancient Portuguese variety.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to the Dão region.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Touriga Franca",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with Mourisco Tinto. Important Douro variety."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Touriga Nacional's role as parent of Touriga Franca connects it to the other key variety of Port production. The variety's genetic integrity has been preserved through centuries of Portuguese winemaking tradition."
+    },
+    "clones": [
+      {
+        "name": "Clone TN-101",
+        "origin": "Portugal",
+        "characteristics": "Standard certified clone with good color, structure, and aromatic intensity.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Dão", "Douro"]
+      },
+      {
+        "name": "Clone TN-112",
+        "origin": "Portugal",
+        "characteristics": "Selected for enhanced floral aromatics and violet notes.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Douro"]
+      },
+      {
+        "name": "Dão Heritage Selection",
+        "origin": "Dão, Portugal",
+        "characteristics": "Traditional massal selections from old Dão vineyards. Maximum elegance and complexity.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Dão"]
+      },
+      {
+        "name": "Douro Selection",
+        "origin": "Douro, Portugal",
+        "characteristics": "Selections adapted to hot Douro conditions. Concentrated and powerful.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Douro"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Granite",
+        "effect": "The defining soil of the Dão. Poor, acidic granite produces elegant wines with fine tannins and aromatic complexity.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Fine, firm",
+          "aromatics": "Violet, blackberry, herbs, mineral"
+        },
+        "regions": ["Dão"]
+      },
+      {
+        "soil": "Schist",
+        "effect": "The dominant soil of the Douro. Heat-retentive schist produces powerful, concentrated wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Firm, structured",
+          "aromatics": "Blackberry, violet, licorice, herbs"
+        },
+        "regions": ["Douro"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "effect": "Found in parts of Alentejo. Produces rounder, more approachable wines.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Dark fruit, herbs, spice"
+        },
+        "regions": ["Alentejo"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        },
+        {
+          "disease": "Coulure",
+          "severity": "moderate",
+          "type": "physiological",
+          "notes": "Can suffer poor fruit set in some conditions.",
+          "impact_on_wine": "Contributes to naturally low yields"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in hot Portuguese summers."
+        },
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Well-adapted to dry conditions, essential in the Douro."
+        }
+      ],
+      "general_notes": "Touriga Nacional is a low-yielding variety with small, thick-skinned berries. It produces deeply colored, tannic wines with intense violet aromatics. Originally confined to the Dão, it has spread throughout Portugal and is now grown internationally. Widely considered Portugal's greatest red variety."
+    },
+    "regional_expressions": [
+      {
+        "region": "Dão DOC",
+        "country": "Portugal",
+        "importance": "benchmark",
+        "climate": "Continental (moderated by mountains)",
+        "soils": ["Granite"],
+        "style_summary": "The historic home of Touriga Nacional, producing elegant, aromatic wines with fine tannins. The granite soils and moderate climate create wines of finesse rather than power. Often compared to Burgundy for its emphasis on elegance.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Fine, firm",
+          "aromatics": "Violet, blackberry, herbs, mineral, floral"
+        },
+        "notable_producers": ["Niepoort", "Casa de Santar", "Quinta dos Roques", "Álvaro Castro"],
+        "aging_potential": "8-25 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Douro DOC",
+        "country": "Portugal",
+        "importance": "benchmark",
+        "climate": "Continental (hot, dry summers)",
+        "soils": ["Schist", "Granite"],
+        "style_summary": "Portugal's most prestigious region for dry reds, also home to Port. Touriga Nacional produces powerful, concentrated wines. Both varietal and blended styles are common. The hot climate creates bigger, bolder wines than the Dão.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Firm, structured",
+          "aromatics": "Blackberry, violet, licorice, chocolate, herbs"
+        },
+        "notable_producers": ["Quinta do Noval", "Quinta do Crasto", "Quinta do Vale Meão", "Niepoort"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Alentejo DOC",
+        "country": "Portugal",
+        "importance": "emerging",
+        "climate": "Mediterranean (hot, dry)",
+        "soils": ["Clay-limestone", "Schist", "Granite"],
+        "style_summary": "Portugal's largest wine region is increasingly planting Touriga Nacional. The hot climate produces ripe, approachable wines that are softer than Douro examples. Good value alternatives to more prestigious regions.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Dark fruit, herbs, spice"
+        },
+        "notable_producers": ["Herdade do Esporão", "Herdade dos Grous"],
+        "aging_potential": "5-12 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Port (Douro)",
+        "country": "Portugal",
+        "importance": "benchmark (as component)",
+        "climate": "Continental",
+        "soils": ["Schist"],
+        "style_summary": "Touriga Nacional is considered the finest variety for Vintage and Vintage Port. It contributes intense color, structure, and violet aromatics to blends. The variety's concentration makes it ideal for fortified wines.",
+        "typical_character": {
+          "body": "Full (fortified)",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Blackberry, violet, chocolate, spice"
+        },
+        "notable_producers": ["Taylor's", "Fonseca", "Quinta do Noval", "Graham's"],
+        "aging_potential": "20-100+ years (Vintage Port)",
+        "price_range": "$$$ to $$$$$"
+      }
+    ]
+  }
+}

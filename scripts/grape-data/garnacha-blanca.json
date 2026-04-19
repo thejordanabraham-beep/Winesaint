@@ -1,0 +1,175 @@
+{
+  "name": "GARNACHA BLANCA",
+  "level_2": {
+    "origins_history": "Grenache Blanc is a white-berried color mutation of Grenache Noir (Garnacha Tinta), arising naturally in Spanish vineyards, probably in Aragon or Catalonia. DNA analysis confirms it shares identical genetics with Grenache Noir except for the genes controlling skin color.\n\nThe variety spread with its red parent throughout the western Mediterranean. In France, it became important in the Southern Rhone and especially Roussillon, where it is a key component of white Chateauneuf-du-Pape and Cotes du Rhone Blanc. In Spain, it is cultivated in Terra Alta, Priorat, and other Catalan regions.\n\nGrenache Blanc produces full-bodied white wines with moderate acidity, often blended with Roussanne, Marsanne, or Viognier to add complexity and freshness. On its own, it can produce rich, almost waxy whites that age well when made from old vines with low yields.",
+    "synonyms": ["Grenache Blanc (France)", "Garnatxa Blanca (Catalonia)", "Alicante Blanco"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Grenache Blanc is a color mutation of Grenache Noir (Garnacha Tinta). They share identical DNA except for the genes controlling berry color.",
+      "parents": [
+        {
+          "name": "Grenache Noir (mutation)",
+          "slug": "grenache",
+          "confirmed": true,
+          "notes": "Grenache Blanc arose as a natural color mutation from Grenache Noir.",
+          "evidence": "DNA analysis confirms genetic identity except for color genes"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Grenache Gris",
+          "slug": "garnacha-roja-gris",
+          "relationship": "Fellow color mutation"
+        },
+        {
+          "name": "Grenache Noir",
+          "slug": "grenache",
+          "relationship": "Parent variety"
+        }
+      ],
+      "genetic_significance": "Grenache Blanc demonstrates how color mutations can create important wine varieties while maintaining core genetic identity with the parent."
+    },
+    "clones": [
+      {
+        "name": "Clone 141",
+        "origin": "France",
+        "characteristics": "Standard French clone with good aromatic intensity. Used for quality white wine production.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Southern Rhone", "Roussillon"]
+      },
+      {
+        "name": "Clone 143",
+        "origin": "France",
+        "characteristics": "Selected for richness and structure. Lower yields than 141.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Chateauneuf-du-Pape"]
+      },
+      {
+        "name": "Terra Alta Heritage",
+        "origin": "Terra Alta, Catalonia",
+        "characteristics": "Old vine selections from traditional Catalan vineyards. Low-yielding, producing concentrated, mineral whites.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Terra Alta", "Priorat"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Galets Roules (Rolled Stones)",
+        "effect": "The classic Chateauneuf-du-Pape terroir. Large stones retain heat and promote full ripeness. Produces rich, full-bodied whites.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "aromatics": "Stone fruit, herbs, honey, waxy texture"
+        },
+        "regions": ["Chateauneuf-du-Pape"]
+      },
+      {
+        "soil": "Limestone-Clay",
+        "effect": "Found in parts of Catalonia and the Southern Rhone. Produces wines with better acidity and mineral character.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Citrus, stone fruit, mineral, herbs"
+        },
+        "regions": ["Terra Alta", "Cotes du Rhone"]
+      },
+      {
+        "soil": "Schist",
+        "effect": "Found in Roussillon and Priorat. Produces structured, mineral whites with good aging potential.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Mineral, citrus, herbs, stone fruit"
+        },
+        "regions": ["Roussillon", "Priorat"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure",
+          "severity": "moderate",
+          "type": "physiological",
+          "notes": "Like red Grenache, susceptible to poor fruit set in cool or wet weather.",
+          "impact_on_wine": "Reduced yields"
+        },
+        {
+          "disease": "Oxidation",
+          "severity": "high",
+          "type": "winemaking",
+          "notes": "Prone to oxidation during winemaking. Requires careful handling and often early bottling.",
+          "impact_on_wine": "Requires protective winemaking"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Like its red parent, highly drought-tolerant."
+        },
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in hot Mediterranean climates."
+        }
+      ],
+      "general_notes": "Grenache Blanc shares many viticultural characteristics with its red parent, including drought tolerance, late ripening, and susceptibility to coulure. The variety produces full-bodied wines with relatively low acidity, making it an excellent blending partner with more acidic varieties. Old vines with low yields produce the most complex wines."
+    },
+    "regional_expressions": [
+      {
+        "region": "Chateauneuf-du-Pape (Blanc)",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Mediterranean, hot, windy",
+        "soils": ["Galets roules", "Sand", "Clay-limestone"],
+        "style_summary": "White Chateauneuf-du-Pape, while rare (less than 7% of production), produces some of the Southern Rhone's most serious whites. Grenache Blanc typically dominates blends with Roussanne, Clairette, and Bourboulenc. These rich, full-bodied wines can age surprisingly well.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "aromatics": "Stone fruit, honey, herbs, white flowers, waxy"
+        },
+        "notable_producers": ["Chateau de Beaucastel", "Chateau Rayas", "Clos des Papes"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Terra Alta",
+        "country": "Spain",
+        "importance": "major",
+        "climate": "Mediterranean, continental influence",
+        "soils": ["Limestone", "Clay"],
+        "style_summary": "Catalonia's Terra Alta DO has become Spain's most important region for quality Garnacha Blanca. Old vines and high altitude produce wines with more freshness than typical for the variety. Single-vineyard bottlings rival the best Southern Rhone whites.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Citrus, stone fruit, herbs, mineral"
+        },
+        "notable_producers": ["Lafou", "Herencia Altes", "Celler Piñol"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Roussillon",
+        "country": "France",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Schist", "Granite", "Clay-limestone"],
+        "style_summary": "Roussillon produces both dry whites and the celebrated Vins Doux Naturels (fortified sweet wines) from Grenache Blanc. Dry versions are typically fresh and mineral; VDNs are rich and honeyed.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Citrus, herbs, mineral, honey (VDN)"
+        },
+        "notable_producers": ["Domaine Gauby", "Clos des Fees"],
+        "aging_potential": "2-10 years (dry); decades (VDN)",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

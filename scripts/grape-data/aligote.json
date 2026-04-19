@@ -1,0 +1,170 @@
+{
+  "name": "ALIGOTÉ",
+  "level_2": {
+    "origins_history": "Aligoté is an ancient Burgundian variety, the offspring of Pinot Noir and Gouais Blanc, making it a full sibling to Chardonnay. Despite this noble parentage, Aligoté was historically considered a peasant grape, relegated to lesser vineyard sites while Chardonnay claimed the limestone slopes.\n\nThe variety was traditionally used for Kir, a cocktail of white wine and crème de cassis. In recent decades, a new generation of producers has championed Aligoté as a serious wine, particularly from the village of Bouzeron, which received its own appellation in 1998."
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Aligoté shares identical parentage with Chardonnay, making them full siblings. Both are children of Pinot Noir and Gouais Blanc.",
+      "parents": [
+        {
+          "name": "Pinot Noir",
+          "slug": "pinot-noir",
+          "confirmed": true,
+          "notes": "Confirmed through DNA analysis. Aligoté inherits some of Pinot Noir's aromatic potential.",
+          "evidence": "DNA microsatellite analysis"
+        },
+        {
+          "name": "Gouais Blanc",
+          "slug": "gouais-blanc",
+          "confirmed": true,
+          "notes": "An ancient, high-yielding variety that contributed vigor and acidity to many of its offspring.",
+          "evidence": "DNA microsatellite analysis"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Chardonnay",
+          "slug": "chardonnay",
+          "relationship": "full sibling",
+          "shared_parent": "Both Pinot Noir and Gouais Blanc",
+          "notes": "Chardonnay and Aligoté are full siblings, though Chardonnay achieved far greater fame."
+        },
+        {
+          "name": "Gamay",
+          "slug": "gamay",
+          "relationship": "full sibling",
+          "shared_parent": "Both Pinot Noir and Gouais Blanc",
+          "notes": "Another full sibling, the red grape of Beaujolais."
+        },
+        {
+          "name": "Melon de Bourgogne",
+          "slug": "melon-de-bourgogne",
+          "relationship": "full sibling",
+          "shared_parent": "Both Pinot Noir and Gouais Blanc",
+          "notes": "The grape of Muscadet, also a full sibling."
+        }
+      ],
+      "genetic_significance": "Aligoté demonstrates that identical parentage can produce very different grapes. While Chardonnay became the world's most popular white variety, Aligoté remained a regional specialty."
+    },
+    "clones": [],
+    "terroir": [
+      {
+        "soil": "Clay-Limestone",
+        "effect": "The best Aligoté sites in Bouzeron feature clay-limestone soils that provide drainage while retaining enough water for the variety's needs.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "aromatics": "Citrus, green apple, almond, mineral"
+        },
+        "regions": ["Bouzeron", "Côte Chalonnaise"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Downy Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Aligoté is notably susceptible to downy mildew, requiring preventive treatments in humid conditions.",
+          "impact_on_wine": "Reduced yields, potential off-flavors if untreated"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Susceptible to botrytis bunch rot, particularly in wet vintages. Requires careful canopy management.",
+          "impact_on_wine": "Crop loss, though noble rot is not typically sought for this variety"
+        }
+      ],
+      "resistances": [],
+      "general_notes": "Aligoté is vigorous and early budding, making it susceptible to spring frosts. Early ripening helps avoid autumn rot in most years."
+    },
+    "regional_expressions": [
+      {
+        "region": "Bouzeron",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Clay-limestone", "Marl"],
+        "style_summary": "The only appellation dedicated to Aligoté. Produces the finest, most serious examples with mineral depth and aging potential.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, green apple, white flowers, almond, mineral"
+        },
+        "notable_producers": ["Domaine de Villaine", "Domaine Roulot", "Domaine Chanzy"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Bourgogne Aligoté",
+        "country": "France",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Regional Burgundy appellation for Aligoté grown throughout the region. Quality varies widely; best examples are fresh and mineral.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Lemon, green apple, sometimes slightly bitter almond"
+        },
+        "notable_producers": ["Ponsot", "Michel Bouzereau", "Arnaud Ente", "Michel Lafarge"],
+        "aging_potential": "1-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Moldova",
+        "country": "Moldova",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Moldova has the largest Aligoté plantings in the world, with nearly 16,000 hectares. The variety thrives here, producing wines with better balance than Burgundy due to warmer ripening conditions.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Apple, citrus, light floral notes"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Ukraine",
+        "country": "Ukraine",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Ukraine's second largest white variety, with nearly 10,000 hectares planted. Often blended with other varieties, occasionally made into sweet wines.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "Medium to high",
+          "tannin": "N/A",
+          "aromatics": "Green apple, citrus"
+        },
+        "aging_potential": "1-3 years",
+        "price_range": "$"
+      },
+      {
+        "region": "Romania",
+        "country": "Romania",
+        "importance": "moderate",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "Planted primarily in the Moldova region of eastern Romania, with over 7,000 hectares. Produces crisp, everyday whites.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "N/A",
+          "aromatics": "Citrus, green apple"
+        },
+        "aging_potential": "1-2 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

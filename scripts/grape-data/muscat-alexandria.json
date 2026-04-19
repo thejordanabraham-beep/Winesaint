@@ -1,0 +1,160 @@
+{
+  "name": "MUSCAT OF ALEXANDRIA",
+  "level_2": {
+    "origins_history": "Muscat of Alexandria is one of the oldest and most widely planted grape varieties in the world, used for both wine and table grapes. DNA analysis confirms it is an offspring of Muscat Blanc à Petits Grains, likely originating in North Africa or the eastern Mediterranean.\n\nThe variety takes its name from the Egyptian city of Alexandria, a major trading hub of the ancient world. It spread throughout the Mediterranean and was carried to the New World by Spanish colonizers, where it became established in South America and California.\n\nMuscat of Alexandria produces wines ranging from dry to very sweet, including Spain's Moscatel dessert wines and Australia's fortified styles. The variety's large berries also make it popular as a table grape, sold as Hanepoot in South Africa and Zibibbo in Sicily.",
+    "synonyms": ["Moscatel de Alejandría", "Moscatel", "Zibibbo", "Hanepoot", "Gordo Blanco", "Lexia"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Muscat of Alexandria is an offspring of Muscat Blanc à Petits Grains.",
+      "parents": [
+        {
+          "name": "Muscat Blanc à Petits Grains",
+          "slug": "muscat-blanc-a-petits-grains",
+          "confirmed": true,
+          "notes": "Confirmed parent. Cross with Axina de Tres Bias.",
+          "evidence": "DNA studies"
+        },
+        {
+          "name": "Axina de Tres Bias",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Obscure Sardinian variety.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Malvasia Fina",
+          "slug": null,
+          "relationship": "offspring",
+          "notes": "Cross with unknown variety."
+        },
+        {
+          "name": "Torrontés Riojano",
+          "slug": "torrontes-riojano",
+          "relationship": "offspring",
+          "notes": "Cross with Criolla Chica (Mission)."
+        }
+      ],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "As both a parent of many varieties and one of the most widely planted grapes globally, Muscat of Alexandria is foundational to world viticulture."
+    },
+    "clones": [
+      {
+        "name": "Zibibbo Selection",
+        "origin": "Sicily, Italy",
+        "characteristics": "Traditional Sicilian selections. Used for both wine and dried grapes (Passito).",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Pantelleria"]
+      },
+      {
+        "name": "Moscatel Selection",
+        "origin": "Spain",
+        "characteristics": "Spanish selections for dessert wine production. High sugar accumulation.",
+        "yield": "moderate",
+        "berry_size": "large",
+        "regions": ["Málaga", "Valencia"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic",
+        "effect": "Found on Pantelleria. Produces intensely concentrated Passito wines.",
+        "wine_character": {
+          "body": "Full (sweet styles)",
+          "acidity": "Medium",
+          "aromatics": "Dried apricot, orange peel, honey, volcanic mineral"
+        },
+        "regions": ["Pantelleria"]
+      },
+      {
+        "soil": "Limestone",
+        "effect": "Common in Spanish regions. Produces aromatic sweet wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Grape, orange, honey, raisin"
+        },
+        "regions": ["Málaga", "Valencia"]
+      },
+      {
+        "soil": "Sandy",
+        "effect": "Found in various New World regions. Produces lighter, table grape-like wines.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Low to medium",
+          "aromatics": "Grape, floral, citrus"
+        },
+        "regions": ["South Africa", "Australia"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Large berries can be affected in humid conditions.",
+          "impact_on_wine": "Sometimes used beneficially for sweet wine production"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible to powdery mildew like other Muscats.",
+          "impact_on_wine": "Requires management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Thrives in hot Mediterranean climates."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Well-adapted to dry conditions."
+        }
+      ],
+      "general_notes": "Muscat of Alexandria is a vigorous, late-ripening variety that produces large berries suitable for both wine and table use. The variety develops very high sugar levels in hot climates, making it ideal for sweet and fortified wines. It is more heat-tolerant than Muscat Blanc à Petits Grains."
+    },
+    "regional_expressions": [
+      {
+        "region": "Pantelleria DOC",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean (hot, windy)",
+        "soils": ["Volcanic"],
+        "style_summary": "Italy's most prized Muscat of Alexandria (Zibibbo) comes from this windswept volcanic island between Sicily and Tunisia. Passito di Pantelleria is made from sun-dried grapes, producing intensely sweet, concentrated wines. The alberello (bush vine) training protects vines from constant winds.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "aromatics": "Dried apricot, orange peel, honey, volcanic mineral, herbs"
+        },
+        "notable_producers": ["Donnafugata", "Marco De Bartoli", "Ferrandes"],
+        "aging_potential": "5-20+ years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Málaga",
+        "country": "Spain",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Limestone", "Slate"],
+        "style_summary": "Historic Spanish region producing sweet Moscatel wines. Styles range from young and fresh to aged and oxidative. The region's reputation has declined from its 19th-century heights but quality producers are reviving traditional styles.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "aromatics": "Grape, orange, honey, raisin, caramel (aged styles)"
+        },
+        "notable_producers": ["Jorge Ordóñez", "Telmo Rodríguez"],
+        "aging_potential": "2-15+ years (depending on style)",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}

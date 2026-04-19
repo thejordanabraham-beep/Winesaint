@@ -1,0 +1,192 @@
+{
+  "name": "COT",
+  "level_2": {
+    "origins_history": "Malbec (known as Côt in its French homeland) originated in southwestern France, most likely in the Cahors region where it has been cultivated for centuries. DNA analysis revealed that Malbec is a natural crossing of Magdeleine Noire des Charentes (also a parent of Merlot) and Prunelard, an obscure variety from Gaillac.\n\nThe variety was once widely planted in Bordeaux, where it was a major blending component. The devastating frost of 1956 killed most Bordeaux Malbec, and replanting favored other varieties. In Cahors, Malbec remained dominant, producing the 'black wines' for which the region is historically famous.\n\nMalbec's modern success story is Argentine. Brought to Mendoza in 1853 by French agronomist Michel Pouget, the variety found ideal conditions in the high-altitude vineyards of the Andes. Argentine Malbec has become a global phenomenon, transforming the country's wine industry and redefining the variety's image from a rustic blending grape to a world-class varietal wine.",
+    "synonyms": ["Côt (Loire, official French name)", "Auxerrois (Cahors)", "Pressac", "Malbeck", "Malbech"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Malbec is a natural crossing of Magdeleine Noire des Charentes and Prunelard. It shares the Magdeleine Noire parent with Merlot, making them half-siblings.",
+      "parents": [
+        {
+          "name": "Magdeleine Noire des Charentes",
+          "slug": null,
+          "confirmed": true,
+          "notes": "One parent of Malbec, also a parent of Merlot. Nearly extinct variety rediscovered in the Charentes.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        },
+        {
+          "name": "Prunelard",
+          "slug": null,
+          "confirmed": true,
+          "notes": "Second parent, an obscure variety from the Gaillac region.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Merlot",
+          "slug": "merlot",
+          "relationship": "Half-sibling (shares Magdeleine Noire des Charentes parent)"
+        }
+      ],
+      "genetic_significance": "The discovery of Malbec's parentage in 2009 highlighted the importance of Magdeleine Noire des Charentes as an ancestral variety of southwestern France."
+    },
+    "clones": [
+      {
+        "name": "Clone 46",
+        "origin": "France",
+        "characteristics": "Standard French clone with good color and structure. The most planted clone in France.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Cahors", "Bordeaux"]
+      },
+      {
+        "name": "Clone 596",
+        "origin": "France",
+        "characteristics": "More recent selection with improved color extraction and tannin structure.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Cahors"]
+      },
+      {
+        "name": "Mendoza Heritage Selection",
+        "origin": "Mendoza, Argentina",
+        "characteristics": "Massal selections from pre-phylloxera vines brought to Argentina in 1853. These ungrafted old vines produce wines of exceptional concentration and site expression. They represent a genetic heritage distinct from modern French clones.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Mendoza", "Uco Valley"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Alluvial with Calcareous Subsoil",
+        "also_known_as": ["Uco Valley soils"],
+        "effect": "The defining soils of Argentina's premium Malbec regions. Well-drained alluvial deposits over limestone create ideal conditions. High altitude (900-1500m) provides intense sunlight and cool nights.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Velvety, refined",
+          "aromatics": "Violet, plum, blackberry, sweet spice, mineral"
+        },
+        "regions": ["Uco Valley", "Luján de Cuyo"]
+      },
+      {
+        "soil": "Limestone (Causse)",
+        "also_known_as": ["Causse de Cahors"],
+        "effect": "Cahors' limestone plateau produces firmer, more structured wines than alluvial terraces. These wines require aging to show their best.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Firm, structured",
+          "aromatics": "Black fruit, violet, tobacco, earth, iron"
+        },
+        "regions": ["Cahors (plateau)"]
+      },
+      {
+        "soil": "Gravel and Sand",
+        "effect": "Found on Cahors' river terraces. Produces softer, earlier-drinking wines with more red fruit character.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Red and black fruit, violets"
+        },
+        "regions": ["Cahors (terraces)"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Highly susceptible to poor fruit set during cold or wet flowering. This significantly reduces yields but can concentrate remaining fruit.",
+          "impact_on_wine": "Reduced yields, potential concentration"
+        },
+        {
+          "disease": "Frost",
+          "severity": "high",
+          "type": "climatic",
+          "notes": "Early budding makes it vulnerable to spring frost. The 1956 frost devastated French Malbec vineyards.",
+          "impact_on_wine": "Crop loss, vine damage"
+        },
+        {
+          "disease": "Downy Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Susceptible in humid conditions.",
+          "impact_on_wine": "Requires management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "High Altitude/UV",
+          "level": "excellent",
+          "notes": "Thrives at high altitudes where intense UV light promotes thick skins and intense color."
+        },
+        {
+          "condition": "Drought",
+          "level": "good",
+          "notes": "Performs well in Argentina's arid, irrigated conditions."
+        }
+      ],
+      "general_notes": "Malbec is a vigorous variety that buds early and ripens mid-season. Its thin skins make it vulnerable to frost and disease but allow extraction of deep color. The variety shows remarkable expression differences between France (firmer, more austere) and Argentina (richer, more velvety), suggesting significant clonal divergence over 150 years."
+    },
+    "regional_expressions": [
+      {
+        "region": "Mendoza",
+        "country": "Argentina",
+        "importance": "benchmark",
+        "climate": "High desert, continental",
+        "soils": ["Alluvial", "Sand", "Calcareous"],
+        "style_summary": "The world's Malbec capital, producing the variety's most celebrated expressions. High altitude (up to 1500m), intense sunlight, and dramatic day-night temperature swings create concentrated wines with velvety tannins. Subregions like Luján de Cuyo and Uco Valley show distinct character.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Velvety, ripe",
+          "aromatics": "Violet, plum, blackberry, black cherry, sweet spice, chocolate"
+        },
+        "notable_producers": ["Catena Zapata", "Achaval-Ferrer", "Zuccardi", "Bodega Noemia", "Cheval des Andes"],
+        "aging_potential": "5-20+ years",
+        "price_range": "$ to $$$$"
+      },
+      {
+        "region": "Cahors",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental with Atlantic influence",
+        "soils": ["Limestone", "Clay-limestone", "Gravel"],
+        "style_summary": "Malbec's ancestral home, producing the 'black wines' for which the region is historically famous. Wines are typically firmer and more tannic than Argentine examples, with darker fruit and more earthy, iron-like character. Quality has improved dramatically since 2000.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium-high",
+          "tannin": "Firm, structured",
+          "aromatics": "Black fruit, violets, tobacco, earth, iron, truffles"
+        },
+        "notable_producers": ["Château Lagrezette", "Clos Triguedina", "Château du Cèdre", "Cosse Maisonneuve"],
+        "aging_potential": "8-25 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Uco Valley",
+        "country": "Argentina",
+        "importance": "major",
+        "climate": "High altitude desert",
+        "soils": ["Alluvial", "Calcareous", "Rocky"],
+        "style_summary": "Argentina's coolest, highest altitude Malbec region (900-1500m). Produces the most elegant, mineral expressions with brighter acidity than warmer Mendoza sites. The region's distinct subzones (Gualtallary, Altamira, La Consulta) show clear terroir differences.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Fine, structured",
+          "aromatics": "Violet, red fruit, mineral, fresh herbs"
+        },
+        "notable_producers": ["Zuccardi", "Catena Zapata", "Bodega Salentein"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$$"
+      }
+    ]
+  }
+}

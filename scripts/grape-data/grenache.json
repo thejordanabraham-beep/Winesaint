@@ -1,0 +1,322 @@
+{
+  "name": "GRENACHE",
+  "level_2": {
+    "origins_history": "Grenache almost certainly originated in the Kingdom of Aragon in northeastern Spain, where it has been cultivated for centuries as Garnacha. The variety spread throughout the western Mediterranean during the expansion of the Crown of Aragon in the 13th to 15th centuries, reaching Sardinia (as Cannonau), southern France, and beyond.\n\nDespite Italian claims of Sardinian origins, DNA evidence strongly supports Spanish ancestry. The variety appears in Spanish agricultural records from the 14th century, predating documented Sardinian cultivation. The French name Grenache derives from the Spanish Garnacha.\n\nGrenache became the world's most planted red variety by the mid-20th century before being overtaken by Cabernet Sauvignon in the 1990s. In France, it dominates the Southern Rhone and Provence, while in Spain it remains fundamental to Priorat, Rioja, and many other regions. The variety's importance extends to Australia, where some of the world's oldest vines survive in the Barossa Valley.",
+    "synonyms": ["Garnacha (Spain)", "Garnacha Tinta", "Cannonau (Sardinia)", "Alicante", "Aragones", "Grenache Noir", "Tinto Aragones", "Roussillon"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Grenache originated in Aragon, Spain and is genetically distinct from other Spanish varieties. It has produced numerous color mutations and offspring through both natural crossing and deliberate breeding.",
+      "parents": [
+        {
+          "name": "Unknown (Aragonese origin)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "DNA analysis confirms Grenache is indigenous to northeastern Spain. No parent varieties have been identified.",
+          "evidence": "DNA studies (Boursiquot, Vouillamoz)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Carignane Noir",
+          "slug": "carignan",
+          "other_parent": "Unknown",
+          "cross_type": "natural",
+          "importance": "major",
+          "notes": "Possible parent-offspring relationship, though the exact relationship remains under study."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Grenache Blanc",
+          "type": "color_mutation",
+          "description": "White-berried mutation important in Southern Rhone and Roussillon blends. Produces rich, full-bodied white wines."
+        },
+        {
+          "variety": "Grenache Gris",
+          "type": "color_mutation",
+          "description": "Pink-berried mutation used primarily for rose production, especially in Languedoc and Roussillon."
+        },
+        {
+          "variety": "Garnacha Peluda (Lledoner Pelut)",
+          "type": "mutation",
+          "description": "Hairy-leaved mutation with downy leaf undersides. More resistant to drought and heat. Found in Roussillon and Catalunya."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Grenache's numerous mutations demonstrate its genetic instability, which has resulted in a diverse family of related varieties. Its adaptation to multiple Mediterranean climates and its role as a possible parent of Carignan underscore its historical importance."
+    },
+    "clones": [
+      {
+        "name": "Clone 70",
+        "origin": "France",
+        "characteristics": "French selection for quality production. Moderate yields, good color and concentration. Widely planted in Chateauneuf-du-Pape and Provence.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Southern Rhone", "Provence"]
+      },
+      {
+        "name": "Clone 136",
+        "origin": "France",
+        "characteristics": "French certified clone with good disease resistance. Consistent producer with reliable quality.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Southern Rhone", "Languedoc"]
+      },
+      {
+        "name": "Clone 362",
+        "origin": "France",
+        "characteristics": "More recent French selection. Selected for phenolic quality and aging potential.",
+        "yield": "low to moderate",
+        "berry_size": "medium",
+        "regions": ["Southern Rhone"]
+      },
+      {
+        "name": "Clone 515",
+        "origin": "France",
+        "characteristics": "Developed for concentrated wine production. Small berries, intense color, structured wines.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Chateauneuf-du-Pape", "Gigondas"]
+      },
+      {
+        "name": "Barossa Old Vine Selections",
+        "origin": "Barossa Valley, Australia",
+        "characteristics": "Heritage material from pre-phylloxera vines planted in the 1840s-1850s. Ungrafted, dry-grown bushvines. Extremely low yields, exceptional concentration and complexity. Among the oldest Grenache vines in the world.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Barossa Valley", "McLaren Vale"]
+      },
+      {
+        "name": "Priorat Selections",
+        "origin": "Priorat, Spain",
+        "characteristics": "Old vine selections from traditional Priorat vineyards. Adapted to extreme llicorella slate soils. Low-yielding, concentrated wines.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Priorat", "Montsant"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Galets Roules (Rolled Stones)",
+        "also_known_as": ["Pudding stones", "River cobbles"],
+        "effect": "The defining feature of Chateauneuf-du-Pape. Large rounded stones absorb heat during the day and radiate it at night, promoting ripeness. Excellent drainage forces roots deep. Produces powerful, concentrated wines with ripe tannins.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "tannin": "Ripe, fine",
+          "aromatics": "Red and black fruit, herbs, spice, garrigue"
+        },
+        "regions": ["Chateauneuf-du-Pape", "Southern Rhone"]
+      },
+      {
+        "soil": "Llicorella (Slate)",
+        "also_known_as": ["Schist", "Pizarra"],
+        "effect": "The defining soil of Priorat. Dark metamorphic slate absorbs heat and reflects it to vines. Extremely poor, forcing deep roots. Produces wines of remarkable concentration and mineral character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, structured",
+          "aromatics": "Black fruit, mineral, herbs, smoke"
+        },
+        "regions": ["Priorat", "Montsant"]
+      },
+      {
+        "soil": "Sandy Loam",
+        "effect": "Common in parts of the Southern Rhone and Australia. Well-drained with good water-holding capacity. Produces more aromatic, softer wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, strawberry, spice"
+        },
+        "regions": ["Barossa Valley", "Languedoc"]
+      },
+      {
+        "soil": "Limestone Clay",
+        "effect": "Found in parts of Gigondas and other Southern Rhone villages. Provides mineral complexity and freshness that balances Grenache's natural richness.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, mineral, fresh"
+        },
+        "regions": ["Gigondas", "Vacqueyras"]
+      },
+      {
+        "soil": "Decomposed Granite",
+        "effect": "Found in parts of Sardinia and the Southern Rhone. Produces elegant, perfumed wines with good acidity and fine tannins.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Fine",
+          "aromatics": "Floral, red fruit, mineral"
+        },
+        "regions": ["Sardinia", "Tavel"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure and Millerandage",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Grenache is highly susceptible to poor fruit set, particularly in cool or wet weather during flowering. This can severely reduce yields but often improves concentration.",
+          "impact_on_wine": "Reduced yields, increased concentration"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Compact clusters can be vulnerable in humid conditions. Less problematic in typical Mediterranean climates.",
+          "impact_on_wine": "Crop damage in humid years"
+        },
+        {
+          "disease": "Downy Mildew",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be susceptible in wetter regions, though Mediterranean climates reduce pressure.",
+          "impact_on_wine": "Requires management in humid areas"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Remarkably drought-resistant, thriving in dry Mediterranean climates. Can survive with minimal rainfall."
+        },
+        {
+          "condition": "Wind",
+          "level": "excellent",
+          "notes": "Strong, upright growth habit handles the Mistral and other Mediterranean winds well."
+        },
+        {
+          "condition": "Heat",
+          "level": "excellent",
+          "notes": "Well-adapted to high temperatures, maintaining ripeness without excessive sugar accumulation in hot years."
+        }
+      ],
+      "general_notes": "Grenache is a late-budding, late-ripening variety that excels in hot, dry Mediterranean climates. It is vigorous and upright, well-suited to bush vine (gobelet) training. The variety requires old vines and low yields for quality wine production; young, overcropped Grenache produces light, simple wines. Prone to oxidation, requiring careful winemaking. The tendency toward high alcohol and low acidity necessitates careful site selection and harvest timing."
+    },
+    "regional_expressions": [
+      {
+        "region": "Chateauneuf-du-Pape",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Mediterranean, hot, dry, windy (Mistral)",
+        "soils": ["Galets roules", "Sand", "Clay-limestone"],
+        "style_summary": "The most prestigious expression of Grenache, often comprising 80-100% of blends. The appellation's diversity of soils produces varied styles, from powerful and structured (from plateau sites) to elegant and aromatic (from sandier terroirs). Ancient vines on galets roules produce the most concentrated examples.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Low to medium",
+          "tannin": "Ripe, fine",
+          "aromatics": "Red and black fruit, herbs, garrigue, spice, leather"
+        },
+        "notable_producers": ["Chateau Rayas", "Clos des Papes", "Chateau de Beaucastel", "Henri Bonneau", "Domaine de la Mordoree"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Priorat DOCa",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Mediterranean, continental influence, hot",
+        "soils": ["Llicorella slate"],
+        "style_summary": "Spain's most celebrated Garnacha region alongside Rioja. The extreme llicorella soils and old vines produce wines of remarkable concentration and mineral intensity. Often blended with Carinena (Carignan). The modern Priorat renaissance began in the 1980s.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm, mineral",
+          "aromatics": "Black fruit, slate mineral, herbs, smoke, balsamic"
+        },
+        "notable_producers": ["Alvaro Palacios", "Clos Mogador", "Clos Erasmus", "Mas Doix", "Terroir al Limit"],
+        "aging_potential": "10-25+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Gigondas/Vacqueyras",
+        "country": "France",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Clay-limestone", "Sand"],
+        "style_summary": "The satellite villages of the Southern Rhone offer excellent value. Gigondas tends toward structure and power from hillside sites; Vacqueyras is often more approachable. Both require significant Grenache (typically 65-80%).",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Red fruit, herbs, garrigue, pepper"
+        },
+        "notable_producers": ["Saint Cosme", "Sang des Cailloux", "Famille Perrin", "Montirius"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Barossa Valley",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Mediterranean, warm",
+        "soils": ["Sandy loam", "Clay", "Ironstone"],
+        "style_summary": "Home to some of the world's oldest Grenache vines, planted in the 1840s and 1850s. These ungrafted bushvines produce wines of exceptional concentration and complexity. Australian Grenache ranges from light and fresh to powerful and structured, with increasing focus on old vine expressions.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Red fruit, spice, earth, licorice"
+        },
+        "notable_producers": ["Torbreck", "Turkey Flat", "Standish", "Spinifex", "Yelland & Papps"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Sardinia (Cannonau)",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Granite", "Schist", "Limestone"],
+        "style_summary": "Known as Cannonau in Sardinia, where Italians claim ancient origins. The Cannonau di Sardegna DOC covers the island. Wines tend toward rustic, earthy character with firm tannins and high alcohol. Quality has improved dramatically in recent decades.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Firm, rustic",
+          "aromatics": "Red fruit, herbs, earth, leather"
+        },
+        "notable_producers": ["Ferruccio Deiana", "Argiolas", "Sella & Mosca"],
+        "aging_potential": "5-12 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Tavel",
+        "country": "France",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Sand", "Limestone", "Galets"],
+        "style_summary": "France's most famous rose appellation, exclusively producing dry pink wines. Grenache dominates blends, producing deeply-colored, structured roses with aging potential. These are serious roses meant for food.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Light",
+          "aromatics": "Strawberry, peach, herbs, spice"
+        },
+        "notable_producers": ["Chateau d'Aqueria", "Domaine de la Mordoree"],
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Cotes du Rhone Villages",
+        "country": "France",
+        "importance": "moderate",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "The broad appellation for quality Southern Rhone wines outside specific village AOCs. Grenache dominates most blends. Quality varies widely but offers excellent value from careful producers.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Red fruit, herbs, simple spice"
+        },
+        "aging_potential": "2-7 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

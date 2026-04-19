@@ -1,0 +1,84 @@
+{
+  "name": "MUSCAT FLEUR D'ORANGER",
+  "level_2": {
+    "origins_history": "Muscat Fleur d'Oranger is a rare white Muscat variety found primarily in France's Languedoc region. The variety's name translates to 'Orange Blossom Muscat,' referencing its intensely floral aromatics that evoke orange flowers.\n\nThis obscure variety is thought to be a member of the broader Muscat family, though its exact genetic origins remain unclear. It produces highly aromatic wines with the characteristic Muscat grapiness combined with distinctive orange blossom notes.\n\nMuscat Fleur d'Oranger is rarely bottled as a varietal, more commonly appearing as a blending component in Muscat-based wines. Its limited cultivation makes it a viticultural curiosity prized by those seeking unusual Muscat expressions.",
+    "synonyms": ["Orange Blossom Muscat"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Muscat Fleur d'Oranger is a member of the Muscat family with uncertain parentage.",
+      "parents": [
+        {
+          "name": "Unknown (Muscat family)",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Likely related to other Muscat varieties but exact parentage unconfirmed.",
+          "evidence": "Ampelographic analysis"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "As a rare member of the Muscat family, this variety represents valuable genetic diversity worth preserving."
+    },
+    "clones": [
+      {
+        "name": "Local Selection",
+        "origin": "Languedoc, France",
+        "characteristics": "Traditional local selections. Intensely aromatic with orange blossom character.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Languedoc"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Limestone",
+        "effect": "Promotes aromatic intensity and freshness.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "aromatics": "Orange blossom, grape, floral, citrus"
+        },
+        "regions": ["Languedoc"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Like other Muscats, susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Performs well in Mediterranean conditions."
+        }
+      ],
+      "general_notes": "Muscat Fleur d'Oranger shares many characteristics with other Muscat varieties but stands apart for its pronounced orange blossom aromatics. The variety's rarity makes detailed viticultural information limited."
+    },
+    "regional_expressions": [
+      {
+        "region": "Languedoc",
+        "country": "France",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Limestone", "Schist", "Clay"],
+        "style_summary": "Rarely seen as a varietal wine, this obscure Muscat variety most often appears in blends. When bottled alone, it produces highly aromatic wines with distinctive orange blossom character that sets it apart from other Muscats.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "Medium",
+          "aromatics": "Orange blossom, grape, floral, citrus, honey"
+        },
+        "notable_producers": [],
+        "aging_potential": "1-3 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

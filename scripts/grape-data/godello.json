@@ -1,0 +1,169 @@
+{
+  "name": "GODELLO",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Godello is indigenous to Galicia with no confirmed parentage. DNA analysis confirms it is distinct from Portuguese Verdelho despite historical confusion.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parentage established. Indigenous to northwestern Spain.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "DNA analysis distinguishing Godello from Verdelho resolved long-standing confusion and confirmed its status as a unique Galician variety. The near-extinction and revival of Godello represents an important conservation success story."
+    },
+    "clones": [
+      {
+        "name": "Valdeorras Selection",
+        "origin": "Valdeorras, Spain",
+        "characteristics": "Traditional selections from old Valdeorras vineyards. Maximum mineral intensity with aging potential.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Valdeorras"]
+      },
+      {
+        "name": "O Bolo Selection",
+        "origin": "O Bolo, Valdeorras",
+        "characteristics": "Selections from the prized O Bolo subzone. Exceptional concentration and longevity.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Valdeorras"]
+      },
+      {
+        "name": "Bierzo Selection",
+        "origin": "Bierzo, Spain",
+        "characteristics": "Selections adapted to Bierzo's conditions. More floral and elegant style.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bierzo"]
+      },
+      {
+        "name": "Clone GD-1",
+        "origin": "Spain",
+        "characteristics": "Certified clone with consistent quality and good aromatic intensity.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Galicia"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Slate",
+        "also_known_as": ["Pizarra"],
+        "effect": "The defining soil of Valdeorras. Heat-retentive slate promotes ripening while contributing mineral character. Produces the most age-worthy wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Stone fruit, citrus, slate mineral, herbs"
+        },
+        "regions": ["Valdeorras"]
+      },
+      {
+        "soil": "Granite",
+        "effect": "Found in parts of Bierzo and Ribeira Sacra. Produces more elegant, aromatic wines with pronounced floral notes.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, mineral"
+        },
+        "regions": ["Bierzo", "Ribeira Sacra"]
+      },
+      {
+        "soil": "Schist",
+        "effect": "Related to slate, found in steep vineyard sites. Excellent drainage and mineral expression.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Stone fruit, mineral, herbs"
+        },
+        "regions": ["Ribeira Sacra"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be susceptible in humid conditions.",
+          "impact_on_wine": "Requires management in wet years"
+        },
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires standard management"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Climates",
+          "level": "excellent",
+          "notes": "Thrives in cool Atlantic-influenced conditions."
+        },
+        {
+          "condition": "Steep Slopes",
+          "level": "excellent",
+          "notes": "Well-adapted to the extreme terraced vineyards of the region."
+        }
+      ],
+      "general_notes": "Godello is a mid-ripening variety that produces wines of remarkable complexity and aging potential. It maintains acidity well while developing rich stone fruit character. Old-vine examples from steep terraced vineyards produce the most concentrated wines. The variety nearly went extinct in the mid-20th century."
+    },
+    "regional_expressions": [
+      {
+        "region": "Valdeorras DO",
+        "country": "Spain",
+        "importance": "benchmark",
+        "climate": "Continental with Atlantic influence",
+        "soils": ["Slate", "Granite"],
+        "style_summary": "The historic home of quality Godello, revived from near-extinction in the 1970s. Steep slate vineyards produce wines of remarkable mineral intensity and complexity. The variety's benchmark expression, capable of significant aging.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Peach, apricot, citrus, slate mineral, herbs"
+        },
+        "notable_producers": ["Rafael Palacios", "Telmo Rodríguez", "Godeval", "A Coroa", "Avancia"],
+        "aging_potential": "5-12 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Bierzo DO",
+        "country": "Spain",
+        "importance": "major",
+        "climate": "Continental with Atlantic influence",
+        "soils": ["Slate", "Granite", "Clay"],
+        "style_summary": "Better known for Mencía reds but produces excellent Godello. Often more elegant and aromatic than Valdeorras examples with floral notes and fine minerality.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, white flowers, mineral"
+        },
+        "notable_producers": ["Descendientes de J. Palacios", "Raúl Pérez", "Pittacum"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Ribeira Sacra DO",
+        "country": "Spain",
+        "importance": "emerging",
+        "climate": "Atlantic",
+        "soils": ["Granite", "Schist"],
+        "style_summary": "Dramatic terraced vineyards along the Sil and Miño rivers. Produces mineral Godello with bright acidity. The heroic viticulture adds to wine character and cost.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Very high",
+          "aromatics": "Citrus, mineral, herbs, white flowers"
+        },
+        "notable_producers": ["Guímaro", "Dominio do Bibei"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

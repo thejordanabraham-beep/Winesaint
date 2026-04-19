@@ -1,0 +1,407 @@
+{
+  "name": "SYRAH",
+  "level_2": {
+    "origins_history": "Syrah originated in the northern Rhône Valley of France, the result of a natural cross between Dureza (a dark-skinned grape from the Ardèche) and Mondeuse Blanche (a white grape from Savoie). DNA analysis in 1999 disproved romantic theories of Persian or Sicilian origins.\n\nThe variety has been cultivated in the northern Rhône since at least Roman times, though it may have been confused with other local varieties. Hermitage and Côte-Rôtie emerged as premier sites by the 17th century. Syrah arrived in Australia in 1832, where it became known as Shiraz and developed into the country's signature grape."
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Syrah is a natural cross of two obscure French grapes from the Rhône-Alps region. DNA analysis has revealed a surprisingly complex family tree extending back to Pinot.",
+      "parents": [
+        {
+          "name": "Dureza",
+          "slug": null,
+          "confirmed": true,
+          "notes": "A nearly extinct dark-skinned grape from the Ardèche. Dureza is itself a sibling of Teroldego (the Italian grape), and both are likely grandchildren of Pinot.",
+          "evidence": "DNA microsatellite analysis (Bowers et al. 2000)"
+        },
+        {
+          "name": "Mondeuse Blanche",
+          "slug": "mondeuse-blanche",
+          "confirmed": true,
+          "notes": "A white grape from Savoie. Has parent-offspring relationships with both Mondeuse Noire and Viognier.",
+          "evidence": "DNA microsatellite analysis (Bowers et al. 2000)"
+        }
+      ],
+      "grandparents": [
+        {
+          "name": "Mondeuse Noire",
+          "slug": "mondeuse-noire",
+          "relationship": "probable grandparent",
+          "notes": "Most likely a parent of Mondeuse Blanche, making it Syrah's grandparent. Was historically called Grosse Syrah in the Drôme region."
+        }
+      ],
+      "great_grandparents": [
+        {
+          "name": "Pinot",
+          "slug": "pinot-noir",
+          "relationship": "probable great-grandparent",
+          "notes": "DNA analysis shows Pinot has a second-degree relationship with both Dureza and Teroldego. Given Pinot was cultivated by the 14th century, it likely predates both and is their ancestor."
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Petite Sirah (Durif)",
+          "slug": "petite-sirah",
+          "other_parent": "Peloursin",
+          "cross_type": "natural",
+          "importance": "moderate",
+          "notes": "A natural cross discovered in France. Produces dense, tannic wines popular in California."
+        },
+        {
+          "name": "Rubin",
+          "slug": null,
+          "other_parent": "Nebbiolo",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Bulgarian crossing bred in 1944. Planted primarily in Bulgaria for deeply colored, structured red wines."
+        }
+      ],
+      "mutations": [],
+      "biotypes": [
+        {
+          "name": "Serine",
+          "importance": "moderate",
+          "description": "An old Côte-Rôtie population selection with small, olive-shaped berries and elongated rachis. DNA identical to Syrah but phenotypically distinct due to centuries of adaptation to granite slopes. Produces more aromatic, floral wines with pronounced violet, jasmine, and smoky bacon character. More tannic and structured than standard Syrah clones.",
+          "regions": ["Côte-Rôtie"],
+          "clones": ["1141", "1188"],
+          "notes": "Most certified Syrah clones were selected in the southern Rhône or Languedoc. Only clones 1141 and 1188 are true Serine selections from Côte-Rôtie. Conservation efforts are underway to preserve virus-free Serine material."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Viognier",
+          "slug": "viognier",
+          "relationship": "half-sibling or grandchild/grandparent",
+          "shared_parent": "Mondeuse Blanche",
+          "notes": "Shares Mondeuse Blanche as parent or grandparent (relationship direction uncertain). Traditionally co-planted with Syrah in Côte-Rôtie, where the varieties complement each other remarkably."
+        },
+        {
+          "name": "Mondeuse Noire",
+          "slug": "mondeuse-noire",
+          "relationship": "half-sibling or grandparent",
+          "shared_parent": "Mondeuse Blanche",
+          "notes": "Either a half-sibling (if both are children of Mondeuse Blanche) or a grandparent. Was historically called Grosse Syrah."
+        }
+      ],
+      "uncles_aunts": [
+        {
+          "name": "Teroldego",
+          "slug": "teroldego",
+          "relationship": "uncle/aunt",
+          "notes": "A sibling of Dureza, making it Syrah's uncle or aunt. An old variety from Trentino, northern Italy. First evidence of a close genetic link between varieties on different sides of the Alps."
+        }
+      ],
+      "genetic_significance": "Syrah's family tree is remarkably complex. It belongs to the Sérine ampelographic group alongside Viognier, Mondeuse Noire, and Mondeuse Blanche. Pinot is a probable great-grandparent, challenging old assumptions that Syrah and Pinot have completely different origins. The genetic links firmly anchor Syrah's origins in the French Rhône-Alps region."
+    },
+    "clones": [
+      {
+        "name": "Clone 174",
+        "origin": "Northern Rhône, France",
+        "characteristics": "Small berries, intense color, concentrated flavors. Low yields but high quality. One of the most widely planted quality clones.",
+        "yield": "low",
+        "berry_size": "small",
+        "cluster_size": "small",
+        "regions": ["Northern Rhône", "Australia", "California"]
+      },
+      {
+        "name": "Clone 300",
+        "origin": "Northern Rhône, France",
+        "characteristics": "Good color and structure with moderate yields. Versatile clone suitable for many regions.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "cluster_size": "medium",
+        "regions": ["Rhône Valley", "California"]
+      },
+      {
+        "name": "Clone 470",
+        "origin": "Northern Rhône, France",
+        "characteristics": "Floral aromatics, pepper character. Classic northern Rhône expression with good balance.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "cluster_size": "small to medium",
+        "regions": ["Northern Rhône", "New Zealand"]
+      },
+      {
+        "name": "Clone 747",
+        "origin": "France",
+        "characteristics": "Slightly compact clusters. Appreciated for aromatic complexity, scent quality, and balanced mouthfeel. Shows fewer symptoms of Syrah decline than some other clones.",
+        "yield": "moderate",
+        "berry_size": "small",
+        "cluster_size": "medium",
+        "regions": ["Rhône Valley", "Languedoc"]
+      },
+      {
+        "name": "Clone 877",
+        "origin": "France",
+        "characteristics": "Variable cluster density. Good agronomic characteristics and wine quality. Part of the later wave of French certified clones.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "cluster_size": "medium",
+        "regions": ["Rhône Valley", "Languedoc"]
+      },
+      {
+        "name": "Serine (Clone 1141)",
+        "origin": "Côte-Rôtie, France",
+        "characteristics": "True Serine selection from Côte-Rôtie. Small olive-shaped berries, loose clusters, elongated rachis. Highly aromatic with floral, smoky character. Recently made available.",
+        "yield": "low",
+        "berry_size": "small",
+        "cluster_size": "small, loose",
+        "regions": ["Côte-Rôtie"]
+      },
+      {
+        "name": "Serine (Clone 1188)",
+        "origin": "Côte-Rôtie, France",
+        "characteristics": "True Serine selection from Côte-Rôtie. Companion to 1141 with similar characteristics. Preserves the traditional Serine phenotype.",
+        "yield": "low",
+        "berry_size": "small",
+        "cluster_size": "small, loose",
+        "regions": ["Côte-Rôtie"]
+      },
+      {
+        "name": "BVRC12",
+        "origin": "Barossa Valley, Australia",
+        "characteristics": "Selected from commercial Barossa vineyards in the 1960s. Virus-free. Produces rich, round wines with upfront fruit and soft tannins. Quintessential Barossa style.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "cluster_size": "medium",
+        "regions": ["Barossa Valley", "McLaren Vale"]
+      },
+      {
+        "name": "BVRC30",
+        "origin": "Barossa Valley, Australia",
+        "characteristics": "Selected alongside BVRC12 from old Barossa vines. Virus-free. Very similar performance to BVRC12 in trials.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "cluster_size": "medium",
+        "regions": ["Barossa Valley", "McLaren Vale"]
+      },
+      {
+        "name": "PT23",
+        "origin": "Griffith, Australia",
+        "characteristics": "Selected from a pruning trial at Griffith in 1961. Known for blackberry and black pepper character, intense color, and greater tannin. Possibly descended from James Busby's original Hunter Valley plantings.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "cluster_size": "medium",
+        "regions": ["Hunter Valley", "Various Australian regions"]
+      },
+      {
+        "name": "SARDI Shiraz (Heritage Clones)",
+        "origin": "Barossa Valley, Australia",
+        "characteristics": "Collection of eight heritage clones made available in 2013 by Barossa Vine Improvement. Selected from pre-phylloxera old vines on own roots. Preserves genetic diversity from 19th century European selections.",
+        "yield": "variable",
+        "berry_size": "variable",
+        "cluster_size": "variable",
+        "regions": ["Barossa Valley"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Granite",
+        "also_known_as": ["Decomposed granite", "Sandy granite"],
+        "effect": "The classic Côte-Rôtie soil. Well-drained, mineral-rich, stresses vines appropriately. Produces aromatic, elegant Syrah with fine tannins.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "aromatics": "Violet, bacon fat, pepper, red and black fruits"
+        },
+        "regions": ["Côte-Rôtie", "Saint-Joseph", "Cornas"]
+      },
+      {
+        "soil": "Schist/Slate",
+        "effect": "Heat-retaining dark stones help ripen grapes. Excellent drainage. Produces wines with smoky, mineral character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "aromatics": "Smoke, dark fruit, garrigue"
+        },
+        "regions": ["Parts of Côte-Rôtie", "Priorat"]
+      },
+      {
+        "soil": "Ancient Alluvial (Red Terra Rossa)",
+        "also_known_as": ["Ironstone", "Red earth"],
+        "effect": "Iron-rich soils producing powerful, structured wines with dark fruit character. Classic Barossa expression.",
+        "wine_character": {
+          "body": "Full to very full",
+          "acidity": "Medium",
+          "aromatics": "Blackberry, chocolate, earth, licorice"
+        },
+        "regions": ["Barossa Valley", "McLaren Vale"]
+      },
+      {
+        "soil": "Limestone",
+        "effect": "Provides structure and freshness. Less common for Syrah but produces elegant, age-worthy wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Red fruit, pepper, mineral tension"
+        },
+        "regions": ["Parts of South Australia", "Rhône"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Chlorosis",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Very susceptible to lime-induced chlorosis. Should not be planted on soils with high active lime content, and care must be taken with rootstock selection (avoid 110 R).",
+          "impact_on_wine": "Reduced vine vigor, poor fruit development"
+        },
+        {
+          "disease": "Syrah Decline",
+          "severity": "high",
+          "type": "complex/unknown",
+          "notes": "A mysterious condition causing red leaves, swelling at graft union, and vine decline. Particularly affects certain clone/rootstock combinations. Cause not fully understood.",
+          "impact_on_wine": "Premature vine death, reduced quality"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Powdery Mildew",
+          "level": "moderate",
+          "notes": "More resistant than many varieties due to thicker skin and looser clusters."
+        }
+      ],
+      "general_notes": "Syrah is vigorous and relatively easy to grow, but trunk diseases and the mysterious Syrah Decline syndrome pose significant challenges in some regions."
+    },
+    "regional_expressions": [
+      {
+        "region": "Côte-Rôtie",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental, steep south-facing slopes",
+        "soils": ["Granite", "Schist", "Mica"],
+        "style_summary": "The most elegant northern Rhône Syrah. Traditionally co-fermented with up to 20% Viognier, adding floral lift and softening tannins.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Fine, silky",
+          "aromatics": "Violet, raspberry, bacon fat, white pepper, olive"
+        },
+        "key_appellations": [
+          { "name": "Côte Blonde", "style": "Lighter soils, more elegant, floral" },
+          { "name": "Côte Brune", "style": "Darker soils, more structured, powerful" }
+        ],
+        "notable_producers": ["Guigal", "Jamet", "Rostaing", "Bonnefond", "Clusel-Roch"],
+        "aging_potential": "10-30+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Hermitage",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Continental",
+        "soils": ["Granite", "Clay-limestone", "Loess"],
+        "style_summary": "The most powerful and long-lived northern Rhône Syrah. Dense, structured wines requiring decades to fully evolve.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Firm, substantial",
+          "aromatics": "Blackberry, cassis, smoke, leather, tar, herbs"
+        },
+        "key_appellations": [
+          { "name": "Les Bessards", "style": "Pure granite, most structured" },
+          { "name": "Le Méal", "style": "Clay influence, richer" },
+          { "name": "L'Ermite", "style": "Top of hill, elegant" }
+        ],
+        "notable_producers": ["Chave", "Chapoutier", "Delas", "Sorrel", "Bernard Faurie"],
+        "aging_potential": "15-50+ years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Barossa Valley",
+        "country": "Australia",
+        "importance": "benchmark",
+        "climate": "Mediterranean, warm and dry",
+        "soils": ["Terra rossa", "Sand over clay", "Ironstone"],
+        "style_summary": "Rich, powerful, fruit-forward Shiraz. Old vines (some over 150 years) produce concentrated wines with chocolate and earth notes.",
+        "typical_character": {
+          "body": "Full to very full",
+          "acidity": "Medium",
+          "tannin": "Ripe, plush",
+          "aromatics": "Blackberry, chocolate, licorice, eucalyptus, vanilla (if oaked)"
+        },
+        "key_appellations": [
+          { "name": "Eden Valley", "style": "Higher altitude, more elegant, peppery" },
+          { "name": "Barossa Valley floor", "style": "Richer, more powerful" }
+        ],
+        "notable_producers": ["Henschke", "Penfolds", "Torbreck", "Chris Ringland", "Turkey Flat"],
+        "aging_potential": "10-40+ years for top wines",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Northern Rhône (Other)",
+        "country": "France",
+        "importance": "major",
+        "climate": "Continental",
+        "soils": ["Granite", "Schist"],
+        "style_summary": "Saint-Joseph, Crozes-Hermitage, and Cornas offer northern Rhône character at more accessible prices.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate to firm",
+          "aromatics": "Black pepper, olive, dark fruit, herbs"
+        },
+        "key_appellations": [
+          { "name": "Cornas", "style": "100% Syrah, powerful, tannic, age-worthy" },
+          { "name": "Saint-Joseph", "style": "Variable, best sites rival Côte-Rôtie" },
+          { "name": "Crozes-Hermitage", "style": "Largest appellation, good value, drink younger" }
+        ],
+        "notable_producers": ["Allemand (Cornas)", "Gonon (Saint-Joseph)", "Graillot (Crozes)"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "McLaren Vale",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Mediterranean maritime",
+        "soils": ["Sand over clay", "Ironstone"],
+        "style_summary": "Cooler than Barossa, producing Shiraz with more freshness and often savory, meaty character.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Ripe, firm",
+          "aromatics": "Dark plum, chocolate, savory herbs, meat"
+        },
+        "notable_producers": ["Clarendon Hills", "d'Arenberg", "Yangarra", "SC Pannell"],
+        "aging_potential": "8-25 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Paso Robles",
+        "country": "United States (California)",
+        "importance": "major",
+        "climate": "Mediterranean, warm days, cool nights",
+        "soils": ["Calcareous", "Shale", "Clay"],
+        "style_summary": "America's Rhône heartland. Rich, ripe Syrahs with both power and finesse from the best sites.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Ripe, integrated",
+          "aromatics": "Blackberry, bacon, pepper, oak spice"
+        },
+        "notable_producers": ["Saxum", "Epoch", "Linne Calodo", "Booker"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Swartland",
+        "country": "South Africa",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Granite", "Schist", "Shale"],
+        "style_summary": "South Africa's most exciting Syrah region. Old bush vines, low yields, and hands-off winemaking create distinctive wines.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Fine to moderate",
+          "aromatics": "Fynbos, pepper, dark fruit, smoke, olive"
+        },
+        "notable_producers": ["Sadie Family", "Porseleinberg", "Mullineux", "Badenhorst"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

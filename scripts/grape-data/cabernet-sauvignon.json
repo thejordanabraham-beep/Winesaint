@@ -1,0 +1,500 @@
+{
+  "name": "CABERNET SAUVIGNON",
+  "level_2": {
+    "origins_history": "Cabernet Sauvignon originated in Bordeaux as a natural cross between Cabernet Franc and Sauvignon Blanc, a parentage confirmed through DNA analysis by Carole Meredith and John Bowers at UC Davis in 1996. This discovery overturned centuries of speculation about ancient origins.\n\nThe cross likely occurred in the 17th century, as the earliest reference to 'Petit Cabernet' appeared in 1736-1784 in the writings of the Bordeaux intendant Dupre de Saint-Maur. The variety rose to prominence in the late 18th century when it was planted extensively in the Medoc following the draining of marshlands. Baron Hector de Brane planted it at Chateau Mouton in 1815, and it became the dominant variety in the Medoc's classified growths.\n\nThe name derives from 'Sauvignon,' itself from the French 'sauvage' meaning wild, reflecting the vigor of vines in this family. Cabernet Sauvignon's combination of thick skins, resistance to rot, and ability to produce structured, age-worthy wines made it the world's most planted red grape variety by 2010, with over 290,000 hectares globally.",
+    "synonyms": ["Bidure", "Bouchet (Saint-Emilion)", "Burdeos Tinto", "Carbouet", "Lafite", "Petit Bouchet", "Petit Cabernet", "Petit Vidure", "Sauvignon Rouge", "Vidure"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Cabernet Sauvignon is a natural cross between Cabernet Franc and Sauvignon Blanc, definitively proven through DNA analysis in 1996. This makes it a half-sibling of Merlot (which also has Cabernet Franc as a parent) and related to Carmenere.",
+      "parents": [
+        {
+          "name": "Cabernet Franc",
+          "slug": "cabernet-franc",
+          "confirmed": true,
+          "notes": "The red parent, contributing structure, aromatic complexity, and the characteristic herbaceous notes.",
+          "evidence": "DNA analysis (Bowers and Meredith 1997)"
+        },
+        {
+          "name": "Sauvignon Blanc",
+          "slug": "sauvignon-blanc",
+          "confirmed": true,
+          "notes": "The white parent, an unexpected discovery that explains the variety's aromatic intensity and the occasional grassy notes.",
+          "evidence": "DNA analysis (Bowers and Meredith 1997)"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Marselan",
+          "slug": "marselan",
+          "other_parent": "Grenache",
+          "cross_type": "deliberate",
+          "importance": "moderate",
+          "notes": "French crossing from 1961 (INRA Montpellier). Combines Cabernet structure with Grenache fruit. Growing plantings in Languedoc and China."
+        },
+        {
+          "name": "Ruby Cabernet",
+          "slug": null,
+          "other_parent": "Carignan",
+          "cross_type": "deliberate",
+          "importance": "moderate",
+          "notes": "California crossing by Harold Olmo (UC Davis, 1936). Bred for hot climates while retaining Cabernet character. About 6,000 ha planted globally."
+        },
+        {
+          "name": "Cabernet Dorsa",
+          "slug": null,
+          "other_parent": "Dornfelder",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "German crossing from Weinsberg (1971). Used in German red blends."
+        },
+        {
+          "name": "Cabernet Dorio",
+          "slug": null,
+          "other_parent": "Dornfelder",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "German crossing from Weinsberg. Sibling of Cabernet Dorsa."
+        },
+        {
+          "name": "Cabernet Carbon",
+          "slug": null,
+          "other_parent": "Unknown",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "Swiss crossing from Pully. Disease-resistant hybrid."
+        },
+        {
+          "name": "Cabernet Cubin",
+          "slug": null,
+          "other_parent": "Blaufrankisch",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "German crossing from Weinsberg."
+        },
+        {
+          "name": "Cabernet Mitos",
+          "slug": null,
+          "other_parent": "Blaufrankisch",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "German crossing from Weinsberg (1970)."
+        },
+        {
+          "name": "Ederena",
+          "slug": null,
+          "other_parent": "Abouriou",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "French crossing from INRA Bordeaux. Authorized in southwest France."
+        },
+        {
+          "name": "Ekigaina",
+          "slug": null,
+          "other_parent": "Tannat",
+          "cross_type": "deliberate",
+          "importance": "minor",
+          "notes": "French crossing from INRA Bordeaux (1955). Authorized in southwest France."
+        },
+        {
+          "name": "Pinotage",
+          "slug": "pinotage",
+          "other_parent": "Pinot Noir (uncertain)",
+          "cross_type": "deliberate",
+          "importance": "major",
+          "notes": "South African crossing (1925). Recent DNA evidence suggests Cabernet Sauvignon, not Cinsaut, may be a parent. Requires further confirmation."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Malian",
+          "type": "color_mutation",
+          "description": "Pink-skinned mutation discovered in Australia. Named for the Malinauskas family who found it at Doddridge Vineyard in McLaren Vale. Produces a rose-gold colored wine."
+        },
+        {
+          "variety": "Shalistin",
+          "type": "color_mutation",
+          "description": "White-skinned mutation discovered in Australia. Extremely rare. Produces white wine with Cabernet-like structure."
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Merlot",
+          "slug": "merlot",
+          "relationship": "half-sibling",
+          "shared_parent": "Cabernet Franc",
+          "notes": "Both have Cabernet Franc as a parent, making them half-siblings. The other parent of Merlot is Magdeleine Noire des Charentes."
+        },
+        {
+          "name": "Carmenere",
+          "slug": "carmenere",
+          "relationship": "half-sibling",
+          "shared_parent": "Cabernet Franc",
+          "notes": "Half-sibling through Cabernet Franc."
+        }
+      ],
+      "genetic_significance": "The 1996 discovery of Cabernet Sauvignon's parentage was a watershed moment in ampelography, demonstrating the power of DNA analysis to resolve centuries of speculation. The cross between a red grape (Cabernet Franc) and a white grape (Sauvignon Blanc) producing a red variety confirmed that berry color is not simply additive. This finding also established the genetic relationship between the major Bordeaux varieties."
+    },
+    "clones": [
+      {
+        "name": "Clone 337",
+        "origin": "France",
+        "characteristics": "The most widely planted clone globally. Selected from the Medoc. Medium-sized clusters with small berries. Produces deeply colored, structured wines with intense fruit. Well-suited to cooler sites.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Bordeaux", "California", "Australia", "Chile"]
+      },
+      {
+        "name": "Clone 15",
+        "origin": "France",
+        "characteristics": "Selected from the Medoc. Produces smaller clusters than 337. Very dark color, fine tannins, aromatic complexity. One of the earliest certified clones.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bordeaux", "California"]
+      },
+      {
+        "name": "Clone 191",
+        "origin": "France",
+        "characteristics": "Medoc selection. Medium cluster size, excellent color extraction, balanced tannins. Good disease resistance. Often blended with 337 and 15.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Bordeaux", "California", "Australia"]
+      },
+      {
+        "name": "Clone 169",
+        "origin": "France",
+        "characteristics": "Selected from Pauillac. Small clusters, intense color, high tannin concentration. Produces powerful, age-worthy wines.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Bordeaux"]
+      },
+      {
+        "name": "Clone 341",
+        "origin": "France",
+        "characteristics": "Medoc selection. Good balance of yield and quality. Produces structured wines with moderate tannins.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Bordeaux", "Chile"]
+      },
+      {
+        "name": "Concannon (Clone 7)",
+        "origin": "California, USA",
+        "characteristics": "Heritage clone from Concannon Vineyard, Livermore Valley. The source of much of California's early Cabernet plantings. Produces elegant, less tannic wines with good aromatics. Also known as 'See' clone.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["California"]
+      },
+      {
+        "name": "Concannon (Clone 8)",
+        "origin": "California, USA",
+        "characteristics": "Heritage clone from Concannon. Similar to Clone 7 but with slightly more intensity and structure. Important historical source for California plantings.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["California"]
+      },
+      {
+        "name": "Concannon (Clone 11)",
+        "origin": "California, USA",
+        "characteristics": "Heritage clone. More vigorous than clones 7 and 8. Produces fruiter, more accessible wines.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["California"]
+      },
+      {
+        "name": "Wente (Clone 4)",
+        "origin": "California, USA",
+        "characteristics": "Heritage clone from Wente Vineyards. Also known as the 'Niebaum' clone. Produces concentrated wines with good structure.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["California"]
+      },
+      {
+        "name": "To Kalon (Clone 6)",
+        "origin": "California, USA",
+        "characteristics": "Oakville selection from To Kalon Vineyard. Old vine material producing intense, complex wines.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Napa Valley"]
+      },
+      {
+        "name": "Clone 412",
+        "origin": "France",
+        "characteristics": "More recent selection. Good balance of structure and fruit expression. Increasingly popular in new plantings.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Bordeaux", "California"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Gravel (Graves type)",
+        "also_known_as": ["Gunzian gravel", "Alluvial gravel"],
+        "effect": "The signature soil of the Medoc and Graves. Deep gravel beds provide excellent drainage, forcing roots deep and stressing vines appropriately. Gravel stores heat during the day and releases it at night, aiding ripening. Produces the most structured, long-lived wines with firm tannins and pronounced cassis character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Firm, fine-grained",
+          "aromatics": "Cassis, graphite, cedar, tobacco, mineral"
+        },
+        "regions": ["Pauillac", "Margaux", "Saint-Julien", "Pessac-Leognan"]
+      },
+      {
+        "soil": "Clay-Limestone",
+        "also_known_as": ["Argilo-calcaire"],
+        "effect": "Found in parts of Saint-Estephe and throughout Saint-Emilion. More water-retentive than gravel, producing slightly fleshier wines with softer tannins. Cabernet Sauvignon performs less consistently here than on gravel.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate, broader",
+          "aromatics": "Red and black fruit, herbs"
+        },
+        "regions": ["Saint-Estephe", "Saint-Emilion"]
+      },
+      {
+        "soil": "Volcanic (Napa Valley)",
+        "effect": "On the hillsides of Napa, volcanic soils provide excellent drainage and mineral complexity. Mount Veeder, Howell Mountain, and Diamond Mountain are known for volcanic influence. Produces powerful wines with distinct mineral character.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Firm",
+          "aromatics": "Dark fruit, earth, mineral, volcanic ash"
+        },
+        "regions": ["Howell Mountain", "Mount Veeder", "Diamond Mountain"]
+      },
+      {
+        "soil": "Alluvial (Napa Valley floor)",
+        "effect": "Deep alluvial soils on the Napa Valley floor provide more consistent water availability. Produces riper, more fruit-forward wines with softer tannins than hillside sites.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Supple",
+          "aromatics": "Ripe blackcurrant, plum, vanilla, chocolate"
+        },
+        "regions": ["Rutherford", "Oakville", "St. Helena"]
+      },
+      {
+        "soil": "Terra Rossa",
+        "effect": "The red earth over limestone in Coonawarra, Australia. The limestone provides excellent drainage and the terra rossa imparts a distinctive character. Cooler climate produces more elegant expressions.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Fine",
+          "aromatics": "Mint, eucalyptus, blackcurrant, earthy"
+        },
+        "regions": ["Coonawarra"]
+      },
+      {
+        "soil": "Granitic Sand (Chile)",
+        "effect": "Found in parts of Maipo and Colchagua. Well-drained granitic soils produce concentrated wines with mineral freshness.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Black fruit, herbs, mineral"
+        },
+        "regions": ["Maipo Valley", "Colchagua"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Cabernet Sauvignon is highly susceptible to powdery mildew (oidium), particularly in warm, humid conditions. Requires preventive fungicide programs in most regions.",
+          "impact_on_wine": "Reduces photosynthesis, can cause off-flavors if severe"
+        },
+        {
+          "disease": "Eutypa Dieback",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Like other Bordeaux varieties, highly susceptible to this trunk disease that enters through pruning wounds. Can cause significant vine decline and death.",
+          "impact_on_wine": "Vine decline, reduced yields, eventual vine death"
+        },
+        {
+          "disease": "Pierce's Disease",
+          "severity": "high",
+          "type": "bacterial",
+          "notes": "A major threat in California, spread by glassy-winged sharpshooter. The variety is highly susceptible. Has devastated vineyards in some regions.",
+          "impact_on_wine": "Vine death within 1-5 years of infection"
+        },
+        {
+          "disease": "Phomopsis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can affect canes and berries, particularly in wet springs.",
+          "impact_on_wine": "Reduced fruit quality, potential crop loss"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Botrytis",
+          "level": "good",
+          "notes": "Thick skins provide good natural resistance to botrytis bunch rot. The loose cluster structure also aids air circulation."
+        },
+        {
+          "condition": "Coulure",
+          "level": "good",
+          "notes": "Less prone to poor fruit set than Merlot or Cabernet Franc."
+        }
+      ],
+      "general_notes": "Cabernet Sauvignon buds and ripens late, which in Bordeaux is both a blessing (avoiding spring frosts) and a challenge (not always fully ripening in cooler years). The variety's thick skins provide protection against rot but make it demanding of warm conditions for full phenolic ripeness. Vigorous growth requires careful canopy management."
+    },
+    "regional_expressions": [
+      {
+        "region": "Bordeaux Left Bank",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Maritime, oceanic",
+        "soils": ["Gravel", "Clay-gravel", "Sand"],
+        "style_summary": "The historic home and benchmark for Cabernet Sauvignon. On the Left Bank (Medoc, Graves), Cabernet dominates blends, typically comprising 60-90% with Merlot, Cabernet Franc, and Petit Verdot. The gravelly soils and maritime climate produce austere, tannic wines when young that develop extraordinary complexity with age. The classified growths of 1855 remain the reference point for premium Cabernet-based blends.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium to high",
+          "tannin": "Firm, fine-grained",
+          "aromatics": "Cassis, graphite, cedar, tobacco, lead pencil, cigar box"
+        },
+        "key_appellations": [
+          { "name": "Pauillac", "style": "Most powerful, cassis-driven, longest-lived" },
+          { "name": "Saint-Julien", "style": "Balance of power and elegance" },
+          { "name": "Margaux", "style": "Most perfumed and floral" },
+          { "name": "Pessac-Leognan", "style": "Smoky, mineral, earthy" },
+          { "name": "Saint-Estephe", "style": "Sturdy, sometimes rustic, long-aging" }
+        ],
+        "notable_producers": ["Chateau Latour", "Chateau Lafite Rothschild", "Chateau Mouton Rothschild", "Chateau Margaux", "Chateau Haut-Brion", "Chateau Lynch-Bages", "Chateau Pichon Longueville"],
+        "aging_potential": "15-50+ years for top wines",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Napa Valley",
+        "country": "United States",
+        "importance": "benchmark",
+        "climate": "Mediterranean, warm",
+        "soils": ["Alluvial", "Volcanic", "Clay-loam"],
+        "style_summary": "California's flagship wine region for Cabernet Sauvignon. Warmer and sunnier than Bordeaux, producing riper, more fruit-forward wines with higher alcohol. Hillside vineyards (Howell Mountain, Mount Veeder, Diamond Mountain) produce more structured wines, while valley floor sites yield opulent, approachable expressions. Often 100% varietal. The 1976 Judgment of Paris established Napa's credentials.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Supple to firm",
+          "aromatics": "Blackcurrant, black cherry, vanilla, chocolate, cedar, sometimes mint"
+        },
+        "key_appellations": [
+          { "name": "Oakville", "style": "Rich, structured, benchmark district" },
+          { "name": "Rutherford", "style": "Distinctive 'Rutherford dust,' earthy character" },
+          { "name": "Howell Mountain", "style": "Mountain tannins, volcanic mineral" },
+          { "name": "Mount Veeder", "style": "Dense, brooding, age-worthy" },
+          { "name": "Stags Leap District", "style": "Elegant, silky, less powerful" }
+        ],
+        "notable_producers": ["Screaming Eagle", "Harlan Estate", "Opus One", "Caymus", "Silver Oak", "Stag's Leap Wine Cellars", "Robert Mondavi", "Shafer"],
+        "aging_potential": "10-30 years for top wines",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Coonawarra",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Cool maritime",
+        "soils": ["Terra rossa over limestone"],
+        "style_summary": "Australia's most distinguished Cabernet region, a narrow strip of terra rossa soil over limestone. The cooler climate produces elegant, age-worthy wines with distinctive mint and eucalyptus notes (from nearby eucalyptus trees, not the vine). Often shows more restraint than warmer Australian regions.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Fine",
+          "aromatics": "Blackcurrant, mint, eucalyptus, earth, chocolate"
+        },
+        "notable_producers": ["Wynns", "Penley Estate", "Parker Coonawarra Estate", "Balnaves"],
+        "aging_potential": "10-25 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Margaret River",
+        "country": "Australia",
+        "importance": "major",
+        "climate": "Maritime, Mediterranean",
+        "soils": ["Gravel-loam", "Laterite"],
+        "style_summary": "Western Australia's premium Cabernet region, often compared to Bordeaux for its maritime influence. Produces elegant, structured wines frequently blended with Merlot. Slightly warmer than Coonawarra but cooler than most Australian regions.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Fine to firm",
+          "aromatics": "Cassis, dark chocolate, bay leaf, violet"
+        },
+        "notable_producers": ["Cullen", "Moss Wood", "Vasse Felix", "Cape Mentelle", "Leeuwin Estate"],
+        "aging_potential": "10-25 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Maipo Valley",
+        "country": "Chile",
+        "importance": "benchmark",
+        "climate": "Mediterranean, warm",
+        "soils": ["Alluvial", "Granitic"],
+        "style_summary": "Chile's flagship Cabernet region, particularly the upper reaches (Alto Maipo). The combination of Andean influence, low disease pressure, and old vines produces distinctive wines with herbal complexity. Often excellent value compared to Napa or Bordeaux.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Blackcurrant, herbs, mint, tobacco, dark chocolate"
+        },
+        "key_appellations": [
+          { "name": "Alto Maipo", "style": "Most structured, highest elevation sites" },
+          { "name": "Puente Alto", "style": "Premium subregion, age-worthy" }
+        ],
+        "notable_producers": ["Concha y Toro (Don Melchor)", "Almaviva", "Sena", "Santa Rita", "Cousino-Macul"],
+        "aging_potential": "8-20 years",
+        "price_range": "$ to $$$$"
+      },
+      {
+        "region": "Bolgheri",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean, coastal",
+        "soils": ["Sand", "Clay", "Gravel"],
+        "style_summary": "The birthplace of the 'Super Tuscan' movement, where Cabernet Sauvignon (often blended with Merlot and Sangiovese) produces rich, age-worthy wines. Sassicaia, first released in 1968, remains the benchmark. Coastal breezes moderate temperatures.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Silky to firm",
+          "aromatics": "Cassis, Mediterranean herbs, leather, spice, sea salt"
+        },
+        "notable_producers": ["Tenuta San Guido (Sassicaia)", "Ornellaia", "Grattamacco", "Ca'Marcanda"],
+        "aging_potential": "10-30 years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "Stellenbosch",
+        "country": "South Africa",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Granite", "Sandstone", "Shale"],
+        "style_summary": "South Africa's premier Cabernet region, particularly on the mountain slopes of Simonsberg and Helderberg. A style emerging between Bordeaux elegance and New World fruit. Often blended with other Bordeaux varieties.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Blackcurrant, fynbos herbs, dark chocolate, tobacco"
+        },
+        "notable_producers": ["Kanonkop", "Meerlust", "Rustenberg", "Thelema", "Vergelegen"],
+        "aging_potential": "8-20 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Mendoza",
+        "country": "Argentina",
+        "importance": "moderate",
+        "climate": "Continental, high altitude",
+        "soils": ["Alluvial", "Sand"],
+        "style_summary": "While Malbec dominates Argentina, high-altitude Cabernet from Lujan de Cuyo and Uco Valley produces structured wines. Often blended with Malbec. Intense sunlight and cool nights create concentration.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Moderate to firm",
+          "aromatics": "Black fruit, herbs, spice"
+        },
+        "notable_producers": ["Catena Zapata", "Achaval Ferrer", "Bodega Noemia"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      }
+    ]
+  }
+}

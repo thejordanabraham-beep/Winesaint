@@ -1,0 +1,239 @@
+{
+  "name": "CARMENÈRE",
+  "level_2": {
+    "origins_history": "Carmenère is an old variety from the Gironde in southwest France, first mentioned in 1783-4 in Bergerac under the name Carmeynere. Its modern spelling appeared in 1816, when Andre Jullien noted it as one of the varieties that 'alone constitute the Medoc vineyards that give top-quality red wines.'\n\nThe variety was widely cultivated in the Medoc in the early 18th century but was largely abandoned after phylloxera devastated Bordeaux in the 1870s. Its susceptibility to coulure (poor fruit set) made yields unreliable, and growers replanted with more dependable varieties. By 2008, only 21 hectares remained in France.\n\nCarmenère found a second life in Chile, where it had been imported in the mid-19th century and planted in field blends, primarily with Merlot. For over a century, it was grown unknowingly, as growers believed they had Merlot. French ampelographer Claude Valat first noticed discrepancies in Chilean Merlot, and in 1994 Jean-Michel Boursiquot identified the mystery vines as Carmenère, confirmed by DNA analysis in 1997. Chile officially recognized Carmenère in 1998, and it has since become the country's signature grape.",
+    "synonyms": ["Bordo (Emilia-Romagna)", "Cabernet Gernischt (China)", "Cabernelle (Medoc)", "Carbonet (Medoc)", "Carbouet (Graves)", "Carmenègre", "Carmeneyre (Bergerac)", "Grande Vidure (Medoc)", "Grosse Vidure (Medoc)"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Carmenère is a natural cross between Cabernet Franc and Gros Cabernet, an old and now extinct variety from the Gironde. This parentage gives Carmenère a high degree of consanguinity with Cabernet Franc, as it is both a direct offspring and a great-grandchild of Cabernet Franc. It is also a half-sibling of both Cabernet Sauvignon and Merlot.",
+      "parents": [
+        {
+          "name": "Cabernet Franc",
+          "slug": "cabernet-franc",
+          "confirmed": true,
+          "notes": "DNA analysis confirmed Cabernet Franc as a parent. The high consanguinity explains the historical confusion between the two varieties.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        },
+        {
+          "name": "Gros Cabernet",
+          "slug": null,
+          "confirmed": true,
+          "notes": "An old, now extinct variety from the Gironde and Tarn. Gros Cabernet itself is likely a Fer x Hondarribi Beltza cross, both varieties of Spanish Basque origin. Hondarribi Beltza is in turn likely an offspring of Cabernet Franc.",
+          "evidence": "DNA analysis (Boursiquot et al. 2009)"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Cabernet Sauvignon",
+          "slug": "cabernet-sauvignon",
+          "relationship": "half-sibling",
+          "shared_parent": "Cabernet Franc",
+          "notes": "Both have Cabernet Franc as a parent. This relationship is part of the Carmenet ampelographic group."
+        },
+        {
+          "name": "Merlot",
+          "slug": "merlot",
+          "relationship": "half-sibling",
+          "shared_parent": "Cabernet Franc",
+          "notes": "Both have Cabernet Franc as a parent. In Chile, Carmenère was confused with Merlot for over a century."
+        }
+      ],
+      "genetic_significance": "Carmenère's complex relationship to Cabernet Franc, as both a direct offspring and a great-grandchild, makes it the most inbred member of the Carmenet ampelographic group. This explains the historical confusion between Carmenère, Cabernet Franc, Cabernet Sauvignon, and Merlot that persisted until DNA analysis clarified relationships. The variety's misidentification in Chile as Merlot, in Italy as Cabernet Franc, and in China as 'Cabernet Gernischt' reflects these close genetic ties."
+    },
+    "clones": [
+      {
+        "name": "FPS 02",
+        "origin": "UC Davis Foundation Plant Services",
+        "characteristics": "The reference clone used for genomic research. Source material for scientific studies on Carmenère clonal diversity. Used to generate an improved chromosome-scale diploid genome assembly.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["California", "Chile"]
+      },
+      {
+        "name": "Chilean Heritage Selections",
+        "origin": "Chile",
+        "characteristics": "Massale selections from old Chilean vineyards, some dating to pre-phylloxera imports. Viña Santa Carolina has rescued heritage selections from old producer vineyards. Research shows nearly four-fold variation in pyrazine levels (40-150 nanograms per liter) between different selections, affecting green pepper character.",
+        "yield": "variable",
+        "berry_size": "medium",
+        "regions": ["Chile"]
+      },
+      {
+        "name": "University of Talca Candidates",
+        "origin": "Chile",
+        "characteristics": "Research candidates currently undergoing validation. Professor Yerko Moreno leads research with 42 candidate clones under evaluation. Full registration requires 7-8 years of data collection. Aims to identify selections with optimal ripeness, lower pyrazine levels, and consistent yields.",
+        "yield": "variable",
+        "berry_size": "variable",
+        "regions": ["Chile"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Alluvial (Chile)",
+        "also_known_as": ["Valley floor", "River sediment"],
+        "effect": "The traditional planting sites in Chile's Central Valley, particularly Maipo and Rapel. Deep alluvial soils provide consistent water access, important for this late-ripening variety. Warmer sites help achieve full phenolic ripeness.",
+        "wine_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Red and black fruit, chocolate, coffee, soy sauce"
+        },
+        "regions": ["Maipo Valley", "Rapel Valley", "Colchagua"]
+      },
+      {
+        "soil": "Volcanic (Chile)",
+        "effect": "Higher elevation sites with volcanic influence, such as Alto Maipo, provide cooler conditions and better drainage. Can help retain acidity while achieving ripeness, producing more structured wines.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, mineral, dark chocolate"
+        },
+        "regions": ["Alto Maipo", "Peumo"]
+      },
+      {
+        "soil": "Gravel (Bordeaux)",
+        "effect": "The original terroir of Carmenère in the Medoc. Deep gravel provides excellent drainage and heat retention, but the cooler climate made ripening difficult, contributing to the variety's abandonment after phylloxera.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm",
+          "aromatics": "Red fruit, herbs, capsicum in cooler years"
+        },
+        "regions": ["Medoc", "Pauillac"]
+      },
+      {
+        "soil": "Sandy (China)",
+        "effect": "In China's Ningxia and Gansu regions, sandy soils in arid conditions suit Carmenère (known as Cabernet Gernischt). The variety shows good adaptation to these conditions.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, tobacco"
+        },
+        "regions": ["Helan Mountain", "Hexi Corridor"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Coulure",
+          "severity": "high",
+          "type": "physiological",
+          "notes": "Carmenère has poor fruit set, one of the main reasons it was abandoned in Bordeaux after phylloxera. Cool, wet weather at flowering can dramatically reduce yields.",
+          "impact_on_wine": "Unreliable yields; can increase concentration in small-crop years"
+        },
+        {
+          "disease": "Root Infestation",
+          "severity": "moderate",
+          "type": "pest",
+          "notes": "The variety shows susceptibility to root pests, requiring appropriate rootstock selection.",
+          "impact_on_wine": "Vine stress, reduced vigor"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Anthracnose",
+          "level": "good",
+          "notes": "In China, the variety shows good resistance to anthracnose."
+        }
+      ],
+      "general_notes": "Carmenère is vigorous with low basal-bud fertility, requiring cane pruning rather than spur pruning. It ripens very late, 4-5 weeks after Merlot in Chile, making site selection critical. When harvested under-ripe, wines show strong capsicum and herbaceous flavors from methoxypyrazines. At full maturity, these transform to blackberry, blueberry, chocolate, and coffee, though acidity tends to drop."
+    },
+    "regional_expressions": [
+      {
+        "region": "Chile",
+        "country": "Chile",
+        "importance": "benchmark",
+        "climate": "Mediterranean, warm, dry",
+        "soils": ["Alluvial", "Volcanic", "Clay"],
+        "style_summary": "Chile is the undisputed center of Carmenère production, with over 7,000 hectares. The variety was grown unknowingly as Merlot for over a century until its identification in 1994. Chile's warm, dry climate allows full phenolic ripeness, avoiding the herbaceous notes that plagued Bordeaux. The best examples show chocolate, coffee, and ripe dark fruit character. Producers are identifying optimal sites and working on clonal selection to further elevate quality.",
+        "typical_character": {
+          "body": "Full",
+          "acidity": "Medium",
+          "tannin": "Soft to moderate",
+          "aromatics": "Blackberry, blueberry, chocolate, coffee, soy sauce, black pepper"
+        },
+        "key_appellations": [
+          { "name": "Maipo Valley", "style": "Classic, structured expression" },
+          { "name": "Colchagua Valley", "style": "Rich, fruit-forward" },
+          { "name": "Cachapoal Valley", "style": "Balanced, aromatic" },
+          { "name": "Peumo", "style": "One of the cooler subregions, elegant style" }
+        ],
+        "notable_producers": ["Concha y Toro", "Errazuriz", "Montes", "De Martino", "Antiyal", "Casa Silva", "Ventisquero", "Santa Carolina"],
+        "aging_potential": "5-15 years for top wines",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "China",
+        "country": "China",
+        "importance": "moderate",
+        "climate": "Continental, arid",
+        "soils": ["Sandy", "Loess"],
+        "style_summary": "Known as Cabernet Gernischt, Carmenère has been grown in China since the late 19th century, imported by Changyu Winery. DNA profiling confirmed its identity as Carmenère. About 1,200 hectares are planted in Shandong and northwestern regions. The arid climate and sandy soils suit the variety. Wines tend toward herbaceous character similar to Cabernet Franc.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Herbs, red fruit, tobacco, capsicum"
+        },
+        "notable_producers": ["Changyu Wine Group", "Great Wall Wine"],
+        "aging_potential": "3-8 years",
+        "price_range": "$ to $$"
+      },
+      {
+        "region": "Italy",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Continental",
+        "soils": ["Various"],
+        "style_summary": "About 45 hectares officially recorded in 2000, mostly in the northeast where it was confused with Cabernet Franc (the 'Italian' biotype vs the 'French' true Cabernet Franc). When the confusion was clarified, some producers began making varietal wines. Ca'del Bosco's Carmenero is classified as vino da tavola since Carmenère is not authorized for DOC wines.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium to high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, green notes"
+        },
+        "notable_producers": ["Ca'del Bosco", "Inama", "Ca Orologio"],
+        "aging_potential": "5-10 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Bordeaux",
+        "country": "France",
+        "importance": "minor",
+        "climate": "Maritime, oceanic",
+        "soils": ["Gravel", "Clay-limestone"],
+        "style_summary": "The original home of Carmenère, now reduced to about 21 hectares. Small plantings remain at classified estates including Chateau Clerc Milon in Pauillac and at Clos Louie in Cotes de Castillon, which has pre-phylloxera ungrafted vines. Chateau Brane-Cantenac replanted 0.5 hectares in 2007. Used primarily in blends.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Firm",
+          "aromatics": "Red fruit, herbs, capsicum"
+        },
+        "notable_producers": ["Chateau Clerc Milon", "Clos Louie", "Chateau Belle-Vue", "Chateau Brane-Cantenac"],
+        "aging_potential": "10-20+ years in blends",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "California",
+        "country": "United States",
+        "importance": "minor",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "About 57 acres (23 ha) in 2009, similar to Bordeaux. Often used in Meritage blends. Washington State has warmer conditions more similar to Chile, where varietal Carmenère is more common.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium",
+          "tannin": "Moderate",
+          "aromatics": "Red and black fruit, herbs"
+        },
+        "notable_producers": ["Guenoc", "Dover Canyon"],
+        "aging_potential": "5-10 years",
+        "price_range": "$$"
+      }
+    ]
+  }
+}

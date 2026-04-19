@@ -1,0 +1,159 @@
+{
+  "name": "FRAPPATO",
+  "level_2": {
+    "origins_history": "Frappato is an indigenous Sicilian variety with roots in the southeastern corner of the island, particularly around the towns of Vittoria and Ragusa. The first documented reference appears in the writings of the Sicilian abbot Ferrara in 1754, though the variety was certainly cultivated earlier.\n\nThe name Frappato may derive from the French frapper (to hit or crush), possibly referring to a crushing technique, or from an old Sicilian dialectal term. Some ampelographers suggest a connection to a word meaning grape cluster.\n\nFor much of the 20th century, Frappato was primarily used as a blending component with Nero d'Avola in the wines of Cerasuolo di Vittoria. The establishment of Cerasuolo di Vittoria as Sicily's first DOCG in 2005 renewed interest in the variety. Since then, an increasing number of producers have begun bottling Frappato as a single varietal wine, showcasing its distinctive light, aromatic character.",
+    "synonyms": ["Frappato di Vittoria", "Frappato Nero", "Surra", "Nero Capitano"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Frappato is an indigenous Sicilian variety with no confirmed parentage. DNA analysis has not established relationships with other known varieties, suggesting it evolved independently on the island.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "DNA analysis has not identified parent varieties. Frappato appears to be indigenous to southeastern Sicily.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [],
+      "genetic_significance": "Frappato's genetic isolation confirms its status as a distinctly Sicilian variety. Its survival and recent revival contribute to preserving Sicily's unique viticultural heritage."
+    },
+    "clones": [
+      {
+        "name": "Clone 1",
+        "origin": "Vittoria, Sicily, Italy",
+        "characteristics": "Early certified selection from the Vittoria zone. Standard characteristics for quality production.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Vittoria", "Ragusa"]
+      },
+      {
+        "name": "Clone 2",
+        "origin": "Vittoria, Sicily, Italy",
+        "characteristics": "Selected for aromatic intensity and color. Favored by quality-focused producers.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Vittoria", "Ragusa"]
+      },
+      {
+        "name": "Vittoria Heritage Selection",
+        "origin": "Vittoria, Sicily, Italy",
+        "characteristics": "Massal selections from old vineyards around Vittoria. Prized for genetic diversity, aromatic complexity, and site expression. These selections represent the historical character of Frappato before clonal standardization.",
+        "yield": "low to moderate",
+        "berry_size": "small to medium",
+        "regions": ["Vittoria"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Calcareous Clay",
+        "also_known_as": ["Terra rossa", "Red earth over limestone"],
+        "effect": "The classic soil of the Vittoria zone. Limestone provides drainage and mineral complexity while clay retains moisture for the hot Sicilian summer. Produces wines with structure and aromatic lift.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Soft",
+          "aromatics": "Cherry, strawberry, violet, herbs, pepper"
+        },
+        "regions": ["Vittoria", "Ragusa"]
+      },
+      {
+        "soil": "Sandy Limestone",
+        "effect": "Found in parts of the Cerasuolo zone. Excellent drainage, warmer soil temperatures. Produces lighter, more aromatic wines.",
+        "wine_character": {
+          "body": "Light",
+          "acidity": "High",
+          "tannin": "Very soft",
+          "aromatics": "Floral, red fruit, delicate"
+        },
+        "regions": ["Vittoria"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium (Powdery Mildew)",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Can be susceptible in humid conditions, though Sicily's dry climate reduces pressure.",
+          "impact_on_wine": "Crop damage if untreated"
+        },
+        {
+          "disease": "Sunburn",
+          "severity": "moderate",
+          "type": "environmental",
+          "notes": "The thin-skinned grapes can suffer from sunburn in extreme heat. Canopy management is important.",
+          "impact_on_wine": "Loss of aromatics, bitter notes"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Drought",
+          "level": "excellent",
+          "notes": "Well-adapted to Sicily's hot, dry summers. Deep roots access water in calcareous subsoils."
+        },
+        {
+          "condition": "Heat",
+          "level": "good",
+          "notes": "Maintains aromatic character and acidity despite high temperatures, though benefits from elevation."
+        }
+      ],
+      "general_notes": "Frappato is a vigorous, productive variety that ripens in mid-September. It produces medium-sized clusters with thin-skinned berries, contributing to the wine's light color and delicate tannins. Yields must be controlled to maintain quality, typically 8-10 tonnes per hectare. The variety is well-suited to bush vine training (alberello) traditional in Sicily, which helps shade fruit from intense sun."
+    },
+    "regional_expressions": [
+      {
+        "region": "Cerasuolo di Vittoria DOCG",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean, hot with sea influence",
+        "soils": ["Calcareous clay", "Sandy limestone"],
+        "style_summary": "Sicily's only DOCG, where Frappato is blended with Nero d'Avola (30-50% Frappato, 50-70% Nero d'Avola). The blend combines Frappato's perfume and freshness with Nero d'Avola's structure and depth. The name Cerasuolo refers to the wine's cherry character.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Cherry, red plum, herbs, pepper"
+        },
+        "notable_producers": ["COS", "Arianna Occhipinti", "Gulfi", "Feudo di Santa Tresa", "Valle dell'Acate"],
+        "aging_potential": "3-8 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Vittoria DOC (Frappato)",
+        "country": "Italy",
+        "importance": "major",
+        "climate": "Mediterranean, hot",
+        "soils": ["Calcareous clay", "Sandy limestone"],
+        "style_summary": "100% Frappato, showcasing the variety's unique character. Light-bodied and aromatic, often compared to Beaujolais for its freshness and drinkability. Best producers use minimal intervention to preserve the grape's delicate perfume. Often served slightly chilled.",
+        "typical_character": {
+          "body": "Light to medium",
+          "acidity": "High",
+          "tannin": "Soft, silky",
+          "aromatics": "Wild strawberry, cherry, violet, Mediterranean herbs, white pepper"
+        },
+        "notable_producers": ["Arianna Occhipinti (SP68)", "COS", "Lamoresca", "Cos", "Feudo Montoni"],
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Sicilia IGT",
+        "country": "Italy",
+        "importance": "moderate",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Regional production outside the Vittoria zone. Quality varies, but offers more accessible examples of the variety. Generally simpler and meant for early drinking.",
+        "typical_character": {
+          "body": "Light",
+          "acidity": "Medium-high",
+          "tannin": "Soft",
+          "aromatics": "Red fruit, simple, fresh"
+        },
+        "aging_potential": "1-2 years",
+        "price_range": "$"
+      }
+    ]
+  }
+}

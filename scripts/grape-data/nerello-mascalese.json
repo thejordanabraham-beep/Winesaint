@@ -1,0 +1,192 @@
+{
+  "name": "NERELLO MASCALESE",
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Nerello Mascalese is indigenous to Sicily, likely originating on Mount Etna. DNA analysis suggests a possible relationship to Sangiovese.",
+      "parents": [
+        {
+          "name": "Sangiovese",
+          "slug": "sangiovese",
+          "confirmed": false,
+          "notes": "DNA studies suggest possible parent-offspring relationship, though not definitively confirmed.",
+          "evidence": "DNA studies"
+        },
+        {
+          "name": "Mantonico Bianco",
+          "slug": null,
+          "confirmed": false,
+          "notes": "Possible second parent from Calabria.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [],
+      "mutations": [],
+      "siblings": [
+        {
+          "name": "Nerello Cappuccio",
+          "slug": null,
+          "relationship": "Traditional blending partner",
+          "notes": "Darker variety often blended with Nerello Mascalese to add color and softness."
+        }
+      ],
+      "genetic_significance": "The possible Sangiovese connection explains the similarities between Nerello Mascalese and Tuscan wines: high acidity, aromatic complexity, and ability to express terroir."
+    },
+    "clones": [
+      {
+        "name": "Etna Nord Selection",
+        "origin": "Northern Etna, Sicily",
+        "characteristics": "Selections from prestigious north-facing contrade. Highest elegance with fine tannins.",
+        "yield": "low",
+        "berry_size": "medium",
+        "regions": ["Etna Rosso"]
+      },
+      {
+        "name": "Contrada Guardiola",
+        "origin": "Randazzo, Sicily",
+        "characteristics": "Single-contrada selection known for power and structure.",
+        "yield": "low",
+        "berry_size": "small",
+        "regions": ["Etna Rosso"]
+      },
+      {
+        "name": "Pre-Phylloxera Selection",
+        "origin": "Etna, Sicily",
+        "characteristics": "Selections from ungrafted centenarian vines. Rare and highly prized for depth and complexity.",
+        "yield": "very low",
+        "berry_size": "small",
+        "regions": ["Etna Rosso"]
+      },
+      {
+        "name": "Clone NM-1",
+        "origin": "Sicily",
+        "characteristics": "Recently certified clone with consistent quality. More accessible style.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Etna", "Sicily"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Volcanic Black Ash",
+        "effect": "The signature soil of Etna. Produces wines of ethereal elegance with red fruit, smoke, and mineral character. Low nutrient content naturally restricts vigor.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine, silky",
+          "aromatics": "Red cherry, blood orange, smoke, volcanic mineral, herbs"
+        },
+        "regions": ["Etna Rosso"]
+      },
+      {
+        "soil": "Volcanic Sand with Pumice",
+        "effect": "Higher elevation sites with extreme drainage. Produces the most perfumed, delicate wines.",
+        "wine_character": {
+          "body": "Light to medium",
+          "acidity": "Very high",
+          "tannin": "Fine, ethereal",
+          "aromatics": "Rose, red fruit, mineral, spice"
+        },
+        "regions": ["Etna Rosso"]
+      },
+      {
+        "soil": "Volcanic with Clay",
+        "effect": "Lower elevation sites. Produces more structured, fuller wines with less finesse.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "tannin": "Moderate",
+          "aromatics": "Dark cherry, earth, herbs"
+        },
+        "regions": ["Etna"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Oidium",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Moderately susceptible to powdery mildew.",
+          "impact_on_wine": "Requires management, especially at lower elevations"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "low",
+          "type": "fungal",
+          "notes": "Dry Etna conditions and good air circulation minimize risk.",
+          "impact_on_wine": "Rarely problematic"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "High Altitude",
+          "level": "excellent",
+          "notes": "Thrives at elevations up to 1,000 meters."
+        },
+        {
+          "condition": "Temperature Variation",
+          "level": "excellent",
+          "notes": "Handles dramatic day-night temperature swings."
+        },
+        {
+          "condition": "Volcanic Soils",
+          "level": "excellent",
+          "notes": "Uniquely adapted to Etna's mineral-poor volcanic soils."
+        }
+      ],
+      "general_notes": "Nerello Mascalese is a late-ripening variety that retains high acidity. The variety produces pale-colored wines with firm tannins, often compared to Pinot Noir or Nebbiolo for their transparency and ability to express terroir. Old vines on Etna's north face produce the most celebrated examples."
+    },
+    "regional_expressions": [
+      {
+        "region": "Etna Rosso DOC",
+        "country": "Italy",
+        "importance": "benchmark",
+        "climate": "Mediterranean with significant altitude moderation",
+        "soils": ["Volcanic ash", "Volcanic sand", "Pumice"],
+        "style_summary": "Italy's most exciting emerging fine wine region, producing elegant, terroir-driven reds often compared to Burgundy. The contrada system reveals dramatic site variation. Wines combine power with finesse, capable of long aging.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Fine, silky",
+          "aromatics": "Red cherry, blood orange, rose, smoke, volcanic mineral, herbs"
+        },
+        "notable_producers": ["Passopisciaro", "Benanti", "Graci", "Tenuta delle Terre Nere", "Girolamo Russo", "Frank Cornelissen"],
+        "aging_potential": "8-25+ years",
+        "price_range": "$$ to $$$$$"
+      },
+      {
+        "region": "Faro DOC",
+        "country": "Italy",
+        "importance": "minor",
+        "climate": "Mediterranean maritime",
+        "soils": ["Sandy", "Clay"],
+        "style_summary": "Historic appellation near Messina, nearly extinct but being revived. Nerello Mascalese blended with other local varieties. Distinct from Etna with more maritime influence.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs, saline"
+        },
+        "notable_producers": ["Palari", "Bonavita"],
+        "aging_potential": "5-15 years",
+        "price_range": "$$ to $$$"
+      },
+      {
+        "region": "Sicilia DOC",
+        "country": "Italy",
+        "importance": "emerging",
+        "climate": "Mediterranean",
+        "soils": ["Various"],
+        "style_summary": "Island-wide designation for Nerello Mascalese grown outside traditional zones. Quality varies significantly but allows experimentation with the variety in different terroirs.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "tannin": "Moderate",
+          "aromatics": "Red fruit, herbs"
+        },
+        "aging_potential": "3-8 years",
+        "price_range": "$ to $$"
+      }
+    ]
+  }
+}

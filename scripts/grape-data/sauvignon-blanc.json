@@ -1,0 +1,215 @@
+{
+  "name": "SAUVIGNON BLANC",
+  "level_2": {
+    "origins_history": "Sauvignon Blanc originated in the Loire Valley of France, where it has been cultivated for centuries. DNA analysis confirmed that Sauvignon Blanc crossed naturally with Cabernet Franc to produce Cabernet Sauvignon, likely in the Gironde region during the 17th or 18th century.\n\nThe variety's name derives from 'sauvage' (wild), possibly referencing its vigorous growth habit or the wild, herbaceous character of its wines. Historical records from the Loire date to the 18th century, though the variety certainly existed earlier.\n\nSauvignon Blanc remained primarily a French variety until the late 20th century, when New Zealand transformed its global image. Marlborough Sauvignon Blanc, first planted in the 1970s, created an entirely new style that captured world markets and made the variety an international sensation. Today it ranks among the world's most popular white grapes.",
+    "synonyms": ["Blanc Fumé (Loire)", "Fumé Blanc (California)", "Sauvignon Jaune", "Muskat-Silvaner (Austria/Germany)", "Feigentraube"]
+  },
+  "level_3": {
+    "genetic_lineage": {
+      "overview": "Sauvignon Blanc is an ancient French variety that crossed with Cabernet Franc to produce Cabernet Sauvignon. It is also a parent of several other varieties.",
+      "parents": [
+        {
+          "name": "Unknown",
+          "slug": null,
+          "confirmed": false,
+          "notes": "No parent varieties have been identified. Sauvignon Blanc appears to be an ancient indigenous variety of southwestern France.",
+          "evidence": "DNA studies"
+        }
+      ],
+      "offspring": [
+        {
+          "name": "Cabernet Sauvignon",
+          "slug": "cabernet-sauvignon",
+          "other_parent": "Cabernet Franc",
+          "cross_type": "natural",
+          "importance": "major",
+          "notes": "DNA confirmed Sauvignon Blanc crossed with Cabernet Franc to produce Cabernet Sauvignon."
+        }
+      ],
+      "mutations": [
+        {
+          "variety": "Sauvignon Gris",
+          "type": "color_mutation",
+          "description": "Pink-skinned mutation producing fuller, less aromatic wines. Found in Loire and Bordeaux."
+        },
+        {
+          "variety": "Sauvignon Rose",
+          "type": "color_mutation",
+          "description": "Another pink-berried mutation, occasionally cultivated."
+        }
+      ],
+      "siblings": [],
+      "genetic_significance": "Sauvignon Blanc's role as a parent of Cabernet Sauvignon demonstrates how natural crossings created some of the world's most important varieties."
+    },
+    "clones": [
+      {
+        "name": "Clone 297",
+        "origin": "France",
+        "characteristics": "Widely planted French clone with good aromatic intensity. Balanced yields and typical varietal character.",
+        "yield": "moderate",
+        "berry_size": "small to medium",
+        "regions": ["Loire Valley", "Bordeaux"]
+      },
+      {
+        "name": "Clone 316",
+        "origin": "France",
+        "characteristics": "Selected for aromatic intensity with citrus and grapefruit character. Lower yields than 297.",
+        "yield": "low to moderate",
+        "berry_size": "small",
+        "regions": ["Sancerre", "Pouilly-Fumé"]
+      },
+      {
+        "name": "Clone 376",
+        "origin": "France",
+        "characteristics": "More recent selection focusing on tropical fruit expression. Good for warmer sites.",
+        "yield": "moderate",
+        "berry_size": "medium",
+        "regions": ["Bordeaux", "New World"]
+      },
+      {
+        "name": "Marlborough Selection",
+        "origin": "New Zealand",
+        "characteristics": "Selections adapted to Marlborough conditions. Intense tropical and herbaceous character. The distinctive Marlborough style.",
+        "yield": "moderate to high",
+        "berry_size": "medium",
+        "regions": ["Marlborough"]
+      }
+    ],
+    "terroir": [
+      {
+        "soil": "Kimmeridgian Limestone",
+        "also_known_as": ["Terres Blanches"],
+        "effect": "The classic soil of Sancerre and Chablis. Fossil-rich limestone produces wines of mineral intensity and elegance. Cool temperatures preserve acidity.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, flint, chalk, white flowers, gooseberry"
+        },
+        "regions": ["Sancerre", "Pouilly-Fumé"]
+      },
+      {
+        "soil": "Silex (Flint)",
+        "also_known_as": ["Pierres à Fusil"],
+        "effect": "Found in Pouilly-Fumé and parts of Sancerre. Produces the most mineral, long-lived wines with distinctive smoky, flinty character.",
+        "wine_character": {
+          "body": "Medium to full",
+          "acidity": "High",
+          "aromatics": "Smoke, gunflint, citrus, intense mineral"
+        },
+        "regions": ["Pouilly-Fumé", "Sancerre"]
+      },
+      {
+        "soil": "Gravel",
+        "effect": "Common in Bordeaux and parts of New Zealand. Excellent drainage produces aromatic, ripe wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "Medium-high",
+          "aromatics": "Tropical fruit, citrus, herbs"
+        },
+        "regions": ["Pessac-Léognan", "Marlborough"]
+      },
+      {
+        "soil": "Alluvial/Greywacke",
+        "effect": "Marlborough's river valley soils. Free-draining with good moisture retention. Produces intensely aromatic wines.",
+        "wine_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Passion fruit, grapefruit, herbaceous, tropical"
+        },
+        "regions": ["Marlborough", "Awatere Valley"]
+      }
+    ],
+    "disease_profile": {
+      "susceptibilities": [
+        {
+          "disease": "Powdery Mildew",
+          "severity": "high",
+          "type": "fungal",
+          "notes": "Highly susceptible to powdery mildew, requiring vigilant spray programs.",
+          "impact_on_wine": "Crop damage, off-flavors"
+        },
+        {
+          "disease": "Botrytis",
+          "severity": "moderate",
+          "type": "fungal",
+          "notes": "Thin skins make it susceptible. Used beneficially for sweet wines in Sauternes.",
+          "impact_on_wine": "Grey rot problematic; noble rot used for dessert wines"
+        }
+      ],
+      "resistances": [
+        {
+          "condition": "Cool Temperatures",
+          "level": "excellent",
+          "notes": "Thrives in cool climates where it can maintain acidity and develop varietal character."
+        }
+      ],
+      "general_notes": "Sauvignon Blanc is an early-budding, early-ripening variety that performs best in cool to moderate climates. It is vigorous and requires careful canopy management to prevent excessive shading and maintain varietal character. The variety's signature aromatics come from pyrazines (bell pepper, herbaceous) and thiols (tropical fruit, passion fruit), which develop differently depending on climate and winemaking choices."
+    },
+    "regional_expressions": [
+      {
+        "region": "Sancerre/Pouilly-Fumé",
+        "country": "France",
+        "importance": "benchmark",
+        "climate": "Cool continental",
+        "soils": ["Kimmeridgian limestone", "Silex (flint)", "Clay-limestone"],
+        "style_summary": "The historic benchmark for Loire Sauvignon Blanc. These neighboring appellations produce mineral, elegant wines with citrus and herbal notes. Pouilly-Fumé's flinty soils give distinctive smoky character. Both age better than most Sauvignon Blancs.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Citrus, gooseberry, flint, herbs, white flowers"
+        },
+        "notable_producers": ["Didier Dagueneau", "François Cotat", "Henri Bourgeois", "Alphonse Mellot"],
+        "aging_potential": "3-10 years",
+        "price_range": "$$ to $$$$"
+      },
+      {
+        "region": "Marlborough",
+        "country": "New Zealand",
+        "importance": "benchmark",
+        "climate": "Maritime, cool",
+        "soils": ["Greywacke", "Alluvial", "Gravel"],
+        "style_summary": "The New World benchmark that transformed Sauvignon Blanc's global profile. Intense aromatics of passion fruit, grapefruit, and fresh-cut grass. High acidity and pure fruit expression. The style that launched a thousand imitators.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Passion fruit, grapefruit, grass, gooseberry, tropical"
+        },
+        "notable_producers": ["Cloudy Bay", "Dog Point", "Greywacke", "Craggy Range"],
+        "aging_potential": "1-5 years",
+        "price_range": "$ to $$$"
+      },
+      {
+        "region": "Pessac-Léognan",
+        "country": "France",
+        "importance": "major",
+        "climate": "Maritime, temperate",
+        "soils": ["Gravel", "Sand", "Clay"],
+        "style_summary": "Bordeaux's premier white wine appellation, where Sauvignon Blanc is typically blended with Sémillon and often oak-aged. Produces fuller, more complex wines than Loire examples, capable of long aging.",
+        "typical_character": {
+          "body": "Medium to full",
+          "acidity": "Medium-high",
+          "aromatics": "Citrus, herbs, oak spice, honey with age"
+        },
+        "notable_producers": ["Domaine de Chevalier", "Smith Haut Lafitte", "Haut-Brion Blanc"],
+        "aging_potential": "5-20 years",
+        "price_range": "$$$ to $$$$$"
+      },
+      {
+        "region": "South Africa",
+        "country": "South Africa",
+        "importance": "major",
+        "climate": "Mediterranean",
+        "soils": ["Granite", "Shale", "Sandy"],
+        "style_summary": "South African Sauvignon Blanc bridges Loire elegance and New Zealand intensity. Cool coastal regions like Elgin and Constantia produce wines with both tropical fruit and mineral character.",
+        "typical_character": {
+          "body": "Medium",
+          "acidity": "High",
+          "aromatics": "Tropical fruit, citrus, fynbos herbs"
+        },
+        "notable_producers": ["Cape Point", "Tokara", "Mulderbosch"],
+        "aging_potential": "2-5 years",
+        "price_range": "$ to $$$"
+      }
+    ]
+  }
+}
