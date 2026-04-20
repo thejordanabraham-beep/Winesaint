@@ -10,6 +10,14 @@ const RESOURCES = [
     status: 'available',
   },
   {
+    id: 'bottles',
+    name: 'Bottle Guide',
+    description: 'Regional bottle shapes, sizes from piccolo to Nebuchadnezzar, and why glass color and format affect aging.',
+    icon: '🍾',
+    href: '/resources/bottles',
+    status: 'available',
+  },
+  {
     id: 'glassware',
     name: 'Glassware Guide',
     description: 'Glass shapes, bowl sizes, and which glasses suit which wines. From Burgundy bowls to flutes.',
@@ -23,7 +31,7 @@ const RESOURCES = [
     description: 'Phylloxera, grafting, rootstock varieties, and how the roots beneath the vine affect what ends up in your glass.',
     icon: '🌱',
     href: '/resources/rootstock',
-    status: 'coming-soon',
+    status: 'available',
   },
   {
     id: 'glossary',
@@ -31,7 +39,7 @@ const RESOURCES = [
     description: 'Definitions for wine terminology from A to Z. Appellation to zymology.',
     icon: '📖',
     href: '/resources/glossary',
-    status: 'coming-soon',
+    status: 'available',
   },
 ];
 
