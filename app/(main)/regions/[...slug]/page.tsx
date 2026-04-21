@@ -91,7 +91,7 @@ async function getVineyardDataFromPayload(fullSlug: string): Promise<VineyardDat
 
 // Load region configs
 function getRegionConfigs(): RegionConfigs {
-  const configPath = path.join(process.cwd(), 'app/data/region-configs.json');
+  const configPath = path.join(process.cwd(), 'app/(main)/data/region-configs.json');
   const configData = fs.readFileSync(configPath, 'utf-8');
   return JSON.parse(configData);
 }
@@ -100,29 +100,6 @@ function getRegionConfigs(): RegionConfigs {
 function getRegionConfig(fullSlug: string): RegionConfig | null {
   const configs = getRegionConfigs();
   return configs[fullSlug] || null;
-}
-
-// Get children from config file by parentRegion
-function getChildrenFromConfig(fullSlug: string): SidebarLink[] {
-  const configs = getRegionConfigs();
-  const children: SidebarLink[] = [];
-
-  for (const [childSlug, childConfig] of Object.entries(configs)) {
-    if (childConfig.parentRegion === fullSlug) {
-      // Extract the last part of the slug as the link slug
-      const slugParts = childSlug.split('/');
-      const linkSlug = slugParts[slugParts.length - 1];
-
-      children.push({
-        name: childConfig.title,
-        slug: linkSlug,
-        classification: childConfig.classification as ClassificationType | undefined,
-      });
-    }
-  }
-
-  // Sort alphabetically by name
-  return children.sort((a, b) => a.name.localeCompare(b.name));
 }
 
 // Get children from Payload using fullSlug prefix (more reliable than parentRegion)
@@ -234,17 +211,26 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
     notFound();
   }
 
-  // Use sidebarLinks from config if available, otherwise get from config's parentRegion relationships
+  // Use sidebarLinks from config if available, otherwise fetch from Payload
   let sidebarLinks = config.sidebarLinks;
   let dynamicSidebarTitle: string | undefined;
 
   if (!sidebarLinks || sidebarLinks.length === 0) {
-    // Get children from config file based on parentRegion
-    sidebarLinks = getChildrenFromConfig(fullSlug);
+    sidebarLinks = await getChildrenFromPayload(fullSlug, config.level);
 
-    // Set sidebar title based on current level
+    // Determine sidebar title based on what we fetched
     if (sidebarLinks.length > 0) {
-      dynamicSidebarTitle = getSidebarTitle(config.level);
+      // We need to look up the level of the children to set the right title
+      const childrenRes = await fetch(
+        `${API_URL}/regions?where[fullSlug][equals]=${encodeURIComponent(fullSlug + '/' + sidebarLinks[0].slug)}&limit=1`,
+        { next: { revalidate: 60 } }
+      );
+      if (childrenRes.ok) {
+        const childData = await childrenRes.json();
+        if (childData.docs && childData.docs.length > 0) {
+          dynamicSidebarTitle = getSidebarTitle(config.level, childData.docs[0].level);
+        }
+      }
     }
   }
 
