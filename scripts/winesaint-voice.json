@@ -1,0 +1,102 @@
+{
+  "voice_profile": {
+    "name": "WineSaint Voice",
+    "description": "Aggregated from 23,000+ critic reviews (Vinous, Wine Advocate, etc.)",
+    "core_principles": [
+      "Lead with tasting impressions, not preamble",
+      "Vary sentence structure and openers",
+      "Be specific about flavors and textures",
+      "Include structural assessment (tannins, acidity, weight)",
+      "End with actionable insight (drinking window, food pairing, cellaring)"
+    ]
+  },
+  "sentence_starters": {
+    "descriptive_color": ["Bright", "Deep", "Vivid", "Dark", "Pale", "Brilliant", "Inky", "Saturated", "Shimmering", "Luminous"],
+    "flavor_forward": ["Black cherry", "Citrus peel", "Crushed rocks", "Wild strawberry", "Graphite", "Lavender", "Plum", "Mint", "Sage", "Spice"],
+    "texture_forward": ["Silky", "Plush", "Taut", "Nervy", "Fleshy", "Supple", "Dense", "Brisk", "Vibrant", "Elegant"],
+    "assessment_words": ["gorgeous", "striking", "compelling", "impressive", "delicious", "superb", "refined", "expressive", "nuanced", "distinguished"]
+  },
+  "phrase_patterns": {
+    "descriptors": [
+      "[flavor] and [flavor] meld into",
+      "[flavor], [flavor] and [flavor] race out of the glass",
+      "laced with [flavor], [flavor] and [flavor]",
+      "[flavor] notes lend [quality] to",
+      "a core of [flavor], [flavor] and [flavor]"
+    ],
+    "texture": [
+      "with fine-grained tannins",
+      "supple and fleshy",
+      "bright acids frame the fruit",
+      "pliant tannins",
+      "velvety texture",
+      "chalky, fine-grained tannins"
+    ],
+    "structure": [
+      "mid-weight with impressive energy",
+      "full-bodied yet balanced",
+      "light on its feet",
+      "serious depth and concentration",
+      "beautifully delineated"
+    ],
+    "conclusions": [
+      "Give this [time] in bottle",
+      "Drink over the next [timeframe]",
+      "Will reward cellaring",
+      "Ready to enjoy now through [year]",
+      "Needs time to come around"
+    ]
+  },
+  "avoid": [
+    "Sourced from",
+    "This expression",
+    "exemplifies",
+    "exhibits",
+    "demonstrates",
+    "displays a",
+    "presents a",
+    "characteristic of",
+    "The aromatic profile",
+    "The palate architecture",
+    "textural amplitude",
+    "structural tension"
+  ],
+  "target_length": {
+    "words": "40-80",
+    "sentences": "3-5"
+  },
+  "examples": [
+    {
+      "type": "red_burgundy",
+      "text": "Wild strawberry, crushed rocks and white pepper lead into a silky, mid-weight palate. Fine tannins and bright acidity give this real lift. Drink now through 2030."
+    },
+    {
+      "type": "california_cab",
+      "text": "Blackberry, graphite and cedar race out of the glass. Full-bodied with plush tannins and serious depth. Needs five years, but the pedigree is obvious."
+    },
+    {
+      "type": "white_burgundy",
+      "text": "Lemon peel, chalk and almond blossom on a taut, nervy frame. Excellent energy and precision. The mineral finish lingers beautifully."
+    },
+    {
+      "type": "champagne",
+      "text": "Brioche, citrus pith and white flowers meld into a creamy mousse. Bright acidity keeps it fresh and focused. Fine length on the finish."
+    },
+    {
+      "type": "barolo",
+      "text": "Rose petal, tar and dried cherry aromas lead to a structured, tannic palate. Classic Nebbiolo grip with real depth. Give it a decade."
+    },
+    {
+      "type": "riesling",
+      "text": "Lime zest, slate and white peach with racy acidity. Bone-dry and laser-focused. The finish seems to go on forever."
+    },
+    {
+      "type": "rhone_red",
+      "text": "Crushed lavender, black olive and garrigue spice over dark plum fruit. Supple tannins and a savory, persistent finish. Ready now."
+    },
+    {
+      "type": "bordeaux",
+      "text": "Cassis, pencil shavings and tobacco leaf. Medium-bodied with fine-grained tannins and impressive length. Should drink well for two decades."
+    }
+  ]
+}

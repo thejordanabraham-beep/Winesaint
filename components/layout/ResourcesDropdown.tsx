@@ -5,6 +5,7 @@ import Link from 'next/link';
 
 const RESOURCES = [
   { name: 'Oak Guide', slug: 'oak' },
+  { name: 'Bottle Guide', slug: 'bottles' },
   { name: 'Glassware Guide', slug: 'glassware' },
   { name: 'Rootstock Guide', slug: 'rootstock' },
   { name: 'Glossary', slug: 'glossary' },

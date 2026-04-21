@@ -23,7 +23,7 @@ export async function GET() {
       limit: 10000,
     });
 
-    const wineCountByProducer = new Map<number, number>();
+    const wineCountByProducer = new Map<string | number, number>();
     for (const wine of wineResult.docs) {
       const producerId = typeof wine.producer === 'number' ? wine.producer : (wine.producer as { id: number })?.id;
       if (producerId) {

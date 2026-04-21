@@ -13,6 +13,8 @@ interface Wine {
   slug: string;
   vintage: number;
   wineType?: string;
+  priceUsd?: number;
+  alcoholPercentage?: number;
   producer: {
     id: number;
     name: string;

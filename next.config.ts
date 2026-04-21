@@ -25,10 +25,6 @@ const nextConfig: NextConfig = {
     // Skip type checking during build (already done in dev)
     ignoreBuildErrors: true,
   },
-  eslint: {
-    // Skip linting during build (already done in dev)
-    ignoreDuringBuilds: true,
-  },
 };
 
 export default nextConfig;

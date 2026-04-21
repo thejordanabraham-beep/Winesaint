@@ -279,37 +279,180 @@
                 "name": "Tonnellerie François Frères",
                 "location": "Saint-Romain, Burgundy",
                 "founded": "1910",
-                "annual_production": "~40,000 barrels",
+                "annual_production": "~30,000 barrels (TFF Group: 800,000 total)",
                 "style": "Burgundian",
                 "classification": "Premier",
                 "notable_clients": ["Domaine de la Romanée-Conti", "Domaine Leroy", "Domaine Armand Rousseau", "Domaine Georges Roumier", "Domaine Comte Georges de Vogüé", "Domaine Méo-Camuzet", "Domaine Comte Liger-Belair", "Domaine Jacques-Frédéric Mugnier", "Clos de Tart", "Hospices de Beaune", "Domaine Coche-Dury", "Domaine Leflaive", "Domaine Ramonet", "Angelo Gaja"],
-                "characteristics": "Owns 3 stave mills, sources all raw oak directly. DRC selects its own wood, dried 3-4 years. Domaine Leroy uses 100% François Frères. First international clients: Gaja (Italy), Robert Mondavi (USA).",
+                "characteristics": "Owns 3 stave mills including Tronçais Bois Merrain in Allier. Sources all raw oak directly. DRC selects its own wood, dried 3-4 years. Domaine Leroy uses 100% François Frères.",
                 "specialty": "The benchmark for Grand Cru Burgundy",
-                "history": "Joseph François established a small cooperage in Saint-Romain in 1910, nestled among the limestone hills that would become synonymous with the world's greatest white wines. In 1942, his sons Robert and Henri formally incorporated the business. The transformation from regional artisan to global icon came with the third generation when Jean François and his wife Noëlle pursued international markets, with Angelo Gaja becoming an early convert in Italy, followed by Robert Mondavi in California. In 1982, the cooperage won the Grand Prix de l'Exportation Artisanale. Today, the fourth generation continues the legacy with Jerome François at the helm. Despite becoming publicly traded and the nucleus of TFF Group, François Frères remains tied to Saint-Romain, where the microclimate is essential for natural seasoning."
+                "history": {
+                  "founding": "Joseph François established a small cooperage in Saint-Romain in 1910, originally repairing and transporting barrels among the limestone hills that would become synonymous with the world's greatest wines.",
+                  "timeline": [
+                    {"year": "1910", "event": "Joseph François founds cooperage in Saint-Romain"},
+                    {"year": "1942", "event": "Sons Robert and Henri formally incorporate the business"},
+                    {"year": "1959", "event": "Jean François and wife Noëlle begin international expansion"},
+                    {"year": "1970s", "event": "First international clients: Angelo Gaja (Italy), Robert Mondavi (California)"},
+                    {"year": "1982", "event": "Wins Grand Prix de l'Exportation Artisanale"},
+                    {"year": "2012", "event": "Acquires Radoux cooperage"},
+                    {"year": "Present", "event": "Fourth generation (Jerome François) leads; publicly traded as TFF Group nucleus"}
+                  ],
+                  "legacy": "Despite becoming publicly traded and the nucleus of TFF Group (27 companies), François Frères remains tied to Saint-Romain, where 54 employees craft barrels using traditional methods with natural oak fires. The microclimate is essential for natural seasoning."
+                },
+                "forest_sources": {
+                  "description": "Owns 3 stave mills for direct oak sourcing, including Tronçais Bois Merrain in Allier and SO.GI.BOIS.",
+                  "grain_selections": [
+                    {"name": "Very Special Grain", "forest": "Vosges", "character": "Aromatic, spicy"},
+                    {"name": "Very Tight Grain", "forest": "Tronçais", "character": "Highest ellagitannin, elegant"},
+                    {"name": "Tight Grain", "forest": "Allier", "character": "Classic, balanced"},
+                    {"name": "Medium Tight Grain", "forest": "Bertranges", "character": "Versatile"},
+                    {"name": "Noble Grain", "forest": "Nevers", "character": "Powerful, structured"}
+                  ]
+                },
+                "seasoning": {
+                  "duration": "2-4 years air-drying",
+                  "location": "Saint-Romain site",
+                  "notes": "The windy, pollution-free microclimate at Saint-Romain is essential for proper seasoning. DRC selects its own wood, dried 3-4 years."
+                },
+                "toast_profiles": {
+                  "traditional": ["Light (LT)", "Medium Light (MLT)", "Medium (MT)", "Medium Plus (M+)", "Heavy (HT)"],
+                  "signature": ["Light Long (LX)", "Medium Long (MX)", "Medium Light Long (MLX)"],
+                  "notes": "Toast is controlled by time, not temperature. Fires burn at consistent heat; duration determines profile. Long toast profiles develop deeper integration without charring."
+                },
+                "barrel_formats": ["228L Burgundy Pièce (primary)", "225L Bordeaux Barrique", "500L Puncheon", "Various custom formats"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "80% export, 20% France sales",
+                  "54 employees at historic Saint-Romain site",
+                  "Traditional methods with natural oak fires for bending and toasting",
+                  "Acquired Radoux in 2012, now part of TFF Group"
+                ]
               },
               {
                 "id": "taransaud",
                 "name": "Tonnellerie Taransaud",
-                "location": "Cognac",
-                "founded": "1932",
+                "location": "Merpins, Cognac (HQ); Beaune, Burgundy",
+                "founded": "1932 (family documented since 1652)",
                 "style": "Bordelaise",
                 "classification": "Premier",
-                "notable_clients": ["Château Bélair-Monange", "Château Petit-Village", "Sociando-Mallet", "Pahlmeyer"],
-                "characteristics": "Family barrel-making documented since 1652. Powerful and austere character. Less seductive in youth but excellent for long-term aging. Multiple coopers awarded Meilleur Ouvrier de France. Pahlmeyer uses 75% new Taransaud for Merlot.",
+                "owner": "Chêne & Cie (Henri de Pracomtal family)",
+                "notable_clients": ["Château Bélair-Monange", "Château Petit-Village", "Sociando-Mallet", "Pahlmeyer", "Dominus Estate", "Opus One", "Robert Mondavi Winery", "Hennessy Cognac", "Col Solare", "Maison Ferrand", "Domaine de Chevalier"],
+                "characteristics": "Powerful and austere character. Less seductive in youth but excellent for long-term aging. Multiple coopers awarded Meilleur Ouvrier de France.",
                 "specialty": "Structure-focused barrels built for grand vin",
-                "history": "The Taransaud name has been synonymous with barrel-making in Cognac since 1652, making them one of the oldest coopering families in France. The modern cooperage was established in 1932 by Roger Taransaud with his sons Pierre and Jean. On May 15, 1944, a devastating fire destroyed the workshops during World War II. The family rebuilt at Merpins, where they remain today. Jean Taransaud, a Compagnon du Devoir craftsman, authored 'Le Livre de la Tonnellerie' in 1973, the definitive reference on barrel-making. In 1997, Henri de Pracomtal (former Chairman of Hennessy) acquired the cooperage and founded Chêne & Cie. Today his sons Guillaume and Jacquelin ensure continuity into the next generation."
+                "history": {
+                  "founding": "The Taransaud name has been synonymous with barrel-making in Cognac since 1652, making them one of the oldest coopering families in France.",
+                  "timeline": [
+                    {"year": "1652", "event": "Family barrel-making documented in Cognac region"},
+                    {"year": "1932", "event": "Modern cooperage established by Roger Taransaud with sons Pierre and Jean"},
+                    {"year": "1944", "event": "May 15: Fire destroys workshops during WWII; family rebuilds at Merpins"},
+                    {"year": "1973", "event": "Jean Taransaud authors 'Le Livre de la Tonnellerie,' the definitive reference"},
+                    {"year": "1997", "event": "Henri de Pracomtal (former Hennessy Chairman) acquires cooperage, founds Chêne & Cie; opens Beaune facility"},
+                    {"year": "2000", "event": "Adds T5 special workshop at Merpins"},
+                    {"year": "Present", "event": "Guillaume and Jacquelin de Pracomtal lead the company"}
+                  ],
+                  "legacy": "Jean Taransaud was a Compagnon du Devoir craftsman whose book remains the industry bible. Multiple coopers have been awarded Meilleur Ouvrier de France."
+                },
+                "forest_sources": {
+                  "description": "Stringent selection process focusing on very tight grain oak.",
+                  "primary_forests": ["Tronçais (for T5)", "Various French forests"],
+                  "notes": "Formula: 12 months air drying per 10mm stave thickness, practically tattooed on the arms of the coopers."
+                },
+                "seasoning": {
+                  "duration": "Formula: 12 months per 10mm stave thickness",
+                  "location": "Natural outdoor seasoning yards",
+                  "notes": "This formula is practically tattooed on the arms of the coopers."
+                },
+                "toast_profiles": {
+                  "traditional": ["Light", "Medium", "Heavy"],
+                  "notes": "Digital time and temperature readings with infrared monitoring for consistent results. Toasting on low intensity open oak fire."
+                },
+                "signature_products": [
+                  {
+                    "name": "T5",
+                    "description": "Limited edition, 225L or 228L, Tronçais oak, 5-year seasoned, handmade and signed by MOF or Compagnon du Devoir master cooper",
+                    "price": "~€1,500"
+                  },
+                  {
+                    "name": "Ovum",
+                    "description": "2,000-liter wooden egg for fermentation, requires perfect slice from 300 trees, enables convection circulation without stirring",
+                    "price": "€30,000 (~$42,500)"
+                  }
+                ],
+                "barrel_formats": ["225L Bordeaux", "228L Burgundy", "Various formats", "Ovum 2,000L"],
+                "price_positioning": "Premium (T5: ~€1,500; Standard: ~€929)",
+                "unique_points": [
+                  "High-tech advancements: vibration analysis for stave flaws, dust-free cutting",
+                  "Structure-focused with powerful, austere character",
+                  "Less seductive in youth, excellent for long-term aging",
+                  "Ovum egg enables natural convection without bâtonnage"
+                ]
               },
               {
                 "id": "seguin-moreau",
                 "name": "Tonnellerie Seguin Moreau",
-                "location": "Cognac/Napa",
-                "founded": "1877",
+                "location": "Cognac (HQ), Napa Valley, Chagny (Burgundy)",
+                "founded": "1838/1870 (merged heritage)",
                 "style": "Bordelaise",
                 "classification": "Premier",
+                "owner": "OENEO Group",
                 "notable_clients": ["Château Haut-Brion", "Château Mouton Rothschild", "Château Trotanoy", "Dominique Lafon"],
-                "characteristics": "First eco-certified cooperage. Scientific partnership with Bordeaux Faculty of Oenology since 1978. Haut-Brion partnership provides ~70% of their barrels. 2013 innovation partnership with Mouton for clear stave fermentation vessels.",
+                "characteristics": "First eco-certified cooperage. Scientific partnership with Bordeaux Faculty of Oenology since 1978. Haut-Brion provides ~70% of their barrels. 2013 innovation partnership with Mouton for clear stave fermentation vessels.",
                 "specialty": "Research-driven innovation, First Growth partnerships",
-                "history": "The story of Seguin Moreau is the tale of two cooperage dynasties. In 1838, Jean Moreau established his cooperage in Cognac. In 1870, Alfred Seguin founded his own workshop. Jean Moreau's great-grandson was taken prisoner during WWI and returned nearly blind. Without an heir, he handed his workshops to the Seguin cooperage in 1964. Rémy Martin had acquired a stake in 1958 and became sole owner in 1970. The combined entity took the name Seguin Moreau in 1972. In 1989, they patented 'Bousinage,' an oenological toasting process adopted across the industry. Now part of OENEO Group, they celebrate 185 years of combined heritage."
+                "history": {
+                  "founding": "The story of Seguin Moreau is the tale of two cooperage dynasties that merged through circumstance and vision.",
+                  "timeline": [
+                    {"year": "1838", "event": "Jean Moreau establishes cooperage in Cognac"},
+                    {"year": "1870", "event": "Alfred Seguin founds his workshop"},
+                    {"year": "1958", "event": "Rémy Martin acquires stake in Moreau cooperage"},
+                    {"year": "1964", "event": "Moreau heir (WWI prisoner, nearly blind, no successor) hands workshops to Seguin"},
+                    {"year": "1970", "event": "Rémy Martin becomes sole owner"},
+                    {"year": "1972", "event": "Combined entity renamed Seguin Moreau"},
+                    {"year": "1989", "event": "Patents 'Bousinage' oenological toasting process (now industry standard)"},
+                    {"year": "1994", "event": "Opens workshops in Napa Valley"},
+                    {"year": "2005", "event": "First eco-certified cooperage, first PEFC Chain of Custody certification"},
+                    {"year": "2008", "event": "Opens facility in Chagny, Burgundy"}
+                  ],
+                  "legacy": "185 years of combined heritage. Now part of OENEO Group."
+                },
+                "forest_sources": {
+                  "description": "Oak sourced from 120-180 year old trees from French Government-managed forests.",
+                  "notes": "Samples cored at stave mills and analyzed in-house laboratory at Merpins. Wood classified for oenological profile before seasoning. Also operates wood yard in Perryville, Missouri for American oak."
+                },
+                "seasoning": {
+                  "duration": "Minimum 24 months",
+                  "location": "Outdoor seasoning at Bordeaux cooperage",
+                  "notes": "American oak seasoned at Perryville, Missouri facility."
+                },
+                "toast_profiles": {
+                  "traditional": ["Light", "Medium", "Medium Plus", "Heavy"],
+                  "signature": ["Bousinage (patented 1989)"],
+                  "notes": "Scientific identification of toasting substances. Variable toasting time and intensity for specific profiles. Notes range from oak, vanilla, dried nuts to toasted/smoked almonds."
+                },
+                "signature_products": [
+                  {
+                    "name": "ICÔNE",
+                    "description": "12+ years of research. Determines 'oenological potential' of oak through analytical selection. Available in French oak, American oak, or combinations.",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "Low Aroma Barrel",
+                    "description": "Minimal oak impact for terroir-driven wines",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "Elevation Barrel",
+                    "description": "Enhanced aromatic profile for structured wines",
+                    "price": "Premium"
+                  }
+                ],
+                "barrel_formats": ["225L Bordeaux", "228L Burgundy", "Various formats"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "First eco-certified cooperage in the industry",
+                  "Patented Bousinage toasting process (1989)",
+                  "Scientific partnership with Bordeaux Faculty of Oenology since 1978",
+                  "50 US employees (30 Napa, 20 Perryville)",
+                  "~1 barrel per 4 hours with modern machinery"
+                ]
               },
               {
                 "id": "sylvain",
@@ -345,10 +488,52 @@
                 "annual_production": "~100 casks/day",
                 "style": "Burgundian",
                 "classification": "Premier",
-                "notable_clients": ["Château de La Chaize"],
-                "characteristics": "Celebrated 100 years in 2021. Unique approach: sells barrels based on forest origin rather than grain. Pioneered water-bent barrels in Mâcon tradition for preserving fruit. Marcel Cadet ultra-premium line uses 36-month seasoned wood.",
-                "specialty": "Forest-based wood selection, terroir approach to oak",
-                "history": "In 1921, Marcel Dargaud and his wife Jeanne opened a cooperage in Romanèche-Thorins. Ten years later, a thirteen-year-old orphan named Marcel Jaeglé knocked on the door seeking an apprenticeship. Nicknamed 'Le Cadet,' young Marcel became fully orphaned at 18. The Dargauds made an extraordinary decision: they became his legal guardians. In 1968, the business was renamed Dargaud & Jaeglé, permanently honoring the young man they had taken in. The signature 'Marcel Cadet' barrel, created in 2001, uses 36-month seasoned wood as a tribute to Marcel Jaeglé."
+                "notable_clients": ["Château de La Chaize", "Wineries in 18 countries"],
+                "characteristics": "Celebrated 100 years in 2021. Unique terroir approach: sells barrels based on forest origin rather than grain. Pioneered water-bent barrels in Mâcon tradition for preserving fruit and elegance.",
+                "specialty": "Forest-based wood selection, terroir approach to oak, water-bent barrels",
+                "history": {
+                  "founding": "In 1921, Marcel Dargaud and his wife Jeanne opened a cooperage in Romanèche-Thorins. Ten years later, a thirteen-year-old orphan named Marcel Jaeglé knocked on the door seeking an apprenticeship, forever changing the course of the business.",
+                  "timeline": [
+                    {"year": "1921", "event": "Marcel Dargaud and wife Jeanne opened cooperage in Romanèche-Thorins"},
+                    {"year": "1931", "event": "13-year-old orphan Marcel Jaeglé knocked on door seeking apprenticeship, nicknamed 'Le Cadet'"},
+                    {"year": "1939", "event": "Marcel Jaeglé becomes fully orphaned at 18; the Dargauds become his legal guardians"},
+                    {"year": "1968", "event": "Business renamed Dargaud & Jaeglé, permanently honoring Marcel"},
+                    {"year": "2001", "event": "Created 'Marcel Cadet' ultra-premium line as tribute to Marcel Jaeglé"},
+                    {"year": "2021", "event": "Celebrated 100th anniversary"}
+                  ],
+                  "legacy": "The heartwarming story of a family taking in an orphan who became their partner defines the company's identity. The 'Marcel Cadet' premium line honors this heritage."
+                },
+                "forest_sources": {
+                  "description": "Unique terroir-based approach to wood selection.",
+                  "philosophy": "Sells barrels based on forest origin rather than grain specification",
+                  "notes": "Pioneers in treating oak forests like wine terroirs"
+                },
+                "seasoning": {
+                  "standard": "Traditional outdoor air-drying",
+                  "marcel_cadet": "36-month seasoned wood",
+                  "notes": "Extended seasoning for premium Marcel Cadet line"
+                },
+                "toast_profiles": {
+                  "method": "Water-bent barrels (Mâcon tradition)",
+                  "character": "Preserves fruit, adds elegance",
+                  "notes": "Traditional Mâconnais water-bending technique distinguishes their barrels"
+                },
+                "signature_products": [
+                  {
+                    "name": "Marcel Cadet",
+                    "description": "Ultra-premium line created in 2001 as tribute to Marcel Jaeglé. Uses 36-month seasoned wood.",
+                    "price": "Ultra-Premium"
+                  }
+                ],
+                "barrel_formats": ["228L Burgundy Pièce", "Various formats"],
+                "price_positioning": "Premium to Ultra-Premium (Marcel Cadet line)",
+                "unique_points": [
+                  "Forest-based wood selection (terroir approach to oak)",
+                  "Water-bent barrels in Mâcon tradition - preserves fruit, adds elegance",
+                  "Heartwarming family origin story - orphan apprentice became namesake partner",
+                  "Marcel Cadet line with 36-month seasoned wood",
+                  "Clients in 18 countries"
+                ]
               },
               {
                 "id": "billon",
@@ -365,23 +550,136 @@
               {
                 "id": "demptos",
                 "name": "Tonnellerie Demptos",
-                "location": "Bordeaux/Napa",
+                "location": "Saint-Caprais-de-Bordeaux (HQ), Napa Valley",
                 "founded": "1825",
                 "style": "Bordelaise",
+                "classification": "Premier",
+                "owner": "TFF Group",
                 "notable_clients": ["Château Haut-Brion", "Château Latour", "Château Margaux", "Château Mouton Rothschild", "Château Trotanoy", "Darioush Winery", "Clos du Val"],
-                "characteristics": "Oldest family-owned cooperage in France. First to open in Napa Valley (1982). Demptos Research Center established 1991. 80% export to 40 countries.",
+                "characteristics": "Oldest family-owned cooperage in France. First French cooperage in Napa Valley (1982). Demptos Research Center established 1991 with University of Bordeaux. 80% export to 40 countries.",
                 "specialty": "All five First Growths among clients",
-                "history": "On April 1, 1777, Pierre Demptos was baptized in Saint-Caprais-de-Bordeaux into a family of winegrowers and coopers. In 1825, at forty-eight, he formally founded his cooperage during the Restoration period. The business passed through world wars and industry transformations while maintaining headquarters at Saint-Caprais. In 1989, the François family gave fresh momentum. Demptos established operations in Napa (1982), Hungary (2000), Spain (2000), South Africa (2003), and China (2006). In 2025, they celebrated their bicentenary."
+                "history": {
+                  "founding": "On April 1, 1777, Pierre Demptos was baptized in Saint-Caprais-de-Bordeaux into a family of winegrowers and coopers. In 1825, at forty-eight, he formally founded his cooperage during the Restoration period, establishing what would become the oldest family-owned cooperage in France.",
+                  "timeline": [
+                    {"year": "1777", "event": "April 1: Pierre Demptos baptized in Saint-Caprais-de-Bordeaux"},
+                    {"year": "1825", "event": "Formally founded during Restoration period"},
+                    {"year": "1982", "event": "First French cooperage to open in Napa Valley"},
+                    {"year": "1991", "event": "Demptos Research Center (DRC) established with University of Bordeaux"},
+                    {"year": "2000", "event": "Expanded to Hungary and Spain"},
+                    {"year": "2003", "event": "Opened operations in South Africa"},
+                    {"year": "2006", "event": "Entered China market"},
+                    {"year": "2025", "event": "Celebrated bicentenary (200 years)"}
+                  ],
+                  "legacy": "Over 200 years of continuous operation, the business passed through world wars and industry transformations while maintaining headquarters at Saint-Caprais-de-Bordeaux. Now supplies all five Bordeaux First Growths."
+                },
+                "forest_sources": {
+                  "description": "Exclusively sources from French Government-managed forests.",
+                  "tree_age": "Oak from 200-year-old trees",
+                  "notes": "Strict selection criteria from managed French forests"
+                },
+                "seasoning": {
+                  "duration": "Minimum 24 months outdoor",
+                  "location": "Natural outdoor seasoning yards",
+                  "notes": "Extended air-drying to develop aromatic complexity"
+                },
+                "research_center": {
+                  "name": "Demptos Research Center (DRC)",
+                  "established": "1991",
+                  "partner": "University of Bordeaux",
+                  "technologies": ["Mass Spectrometry", "Nuclear Magnetic Resonance"],
+                  "notes": "Scientific approach to understanding oak's impact on wine"
+                },
+                "toast_profiles": {
+                  "notes": "Scientific research drives toast profile development"
+                },
+                "signature_products": [
+                  {
+                    "name": "Tradition",
+                    "description": "Classic Demptos barrel, represents 60% of total sales",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "Paradox®",
+                    "description": "Intense deep toast without surface roasting - unique toasting technique",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "Essencia®",
+                    "description": "Result of 8+ years of research, designed to enhance fruity and floral aromas",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "OH>15®",
+                    "description": "Specifically designed to balance high-alcohol wines",
+                    "price": "Premium"
+                  }
+                ],
+                "barrel_formats": ["225L Bordeaux Barrique", "Various formats"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "All five Bordeaux First Growths among clients",
+                  "First French cooperage in Napa Valley (1982)",
+                  "80% export to 40 countries worldwide",
+                  "200+ years of continuous family ownership",
+                  "Scientific research partnership with University of Bordeaux"
+                ]
               },
               {
                 "id": "nadalie",
                 "name": "Tonnellerie Nadalié",
-                "location": "Ludon-Médoc/Napa",
+                "location": "Ludon-Médoc (HQ), Calistoga Napa, Australia, Chile",
                 "founded": "1902",
-                "annual_production": "35,000/year",
+                "annual_production": "35,000 barrels/year (150/day)",
                 "style": "Bordelaise",
-                "characteristics": "First French cooperage in Napa Valley (1980). 5th generation family. Own sawmill near felling sites. Both French and American oak programs.",
-                "specialty": "French-American bridge, Napa presence since 1980"
+                "classification": "Premier",
+                "notable_clients": ["Jordan Winery", "Many Napa/Sonoma wineries"],
+                "characteristics": "First French cooperage in Napa Valley (1980). 5th generation family ownership. Own sawmill near felling sites. Pioneer in applying French techniques to American oak.",
+                "specialty": "French-American bridge, Napa presence since 1980",
+                "history": {
+                  "founding": "In 1902, the Nadalié family founded their cooperage in Montpellier. The family pioneered the integration of French cooperage traditions with American oak, establishing a unique position bridging the Old and New World.",
+                  "timeline": [
+                    {"year": "1902", "event": "Founded in Montpellier"},
+                    {"year": "1930s", "event": "Moved operations to Ludon-Médoc"},
+                    {"year": "1954", "event": "Began purchasing entire trees for better quality control"},
+                    {"year": "1964", "event": "First cooperage to set up stave mill in Allier forest"},
+                    {"year": "1980", "event": "Vincent Nadalié established first French cooperage in Napa Valley (Calistoga)"}
+                  ],
+                  "legacy": "Five generations of the Nadalié family continue the tradition: Stephane (barrel-making), Guillaume (oak chips/staves), Christine (commercial), and Vincent (US operations)."
+                },
+                "forest_sources": {
+                  "description": "Operates own sawmill near felling sites for quality control.",
+                  "french_oak": ["Allier", "Vosges", "Nevers"],
+                  "american_oak": ["Virginia", "Pennsylvania", "Minnesota", "Missouri"],
+                  "notes": "First to set up stave mill in Allier forest (1964)"
+                },
+                "seasoning": {
+                  "duration": "Traditional air-drying",
+                  "notes": "Began purchasing entire trees in 1954 for complete control over wood quality"
+                },
+                "toast_profiles": {
+                  "signature": [
+                    {
+                      "name": "Expression Rouge Satin",
+                      "composition": "80% Vosges + 20% Allier",
+                      "character": "Freshness-focused"
+                    },
+                    {
+                      "name": "Expression Rouge Velours",
+                      "composition": "80% Nevers + 20% Allier",
+                      "character": "For powerful wines"
+                    }
+                  ],
+                  "notes": "Forest-specific blending approach to toast profiles"
+                },
+                "barrel_formats": ["225L Bordeaux Barrique", "Various formats"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "Pioneer in applying French cooperage techniques to American oak",
+                  "Own sawmill near felling sites for quality control",
+                  "First French cooperage in Allier forest (1964)",
+                  "Vincent Nadalié established Napa operations (1980)",
+                  "5th generation family: Stephane, Guillaume, Christine, Vincent"
+                ]
               },
               {
                 "id": "rousseau",
@@ -389,10 +687,98 @@
                 "location": "Gevrey-Chambertin, Burgundy",
                 "founded": "1954",
                 "style": "Burgundian",
+                "classification": "Premier",
                 "annual_production": "11,000 barrels + 350 foudres",
+                "revenue": "€15 million (2023, 60% exports)",
                 "notable_clients": ["Domaine Laurent Roumier", "Champagne Legras & Haas"],
-                "characteristics": "10 Meilleurs Ouvriers de France trained since founding. All formats from 57L to 10,000L. Only company in Burgundy with dual activity as cooper and foudre maker.",
-                "specialty": "Confidential Range limited edition, wide format range"
+                "characteristics": "Three generations of Meilleurs Ouvriers de France. 11 MOF trained since founding. Only company in Burgundy with dual activity as cooper and foudrier.",
+                "specialty": "Last 'Tonnelier-Foudrier' in Burgundy, Confidential Range limited edition",
+                "history": {
+                  "founding": "In 1954, Julien Rousseau established his cooperage in Couchey, Burgundy. The company would become unique in maintaining both barrel-making and foudre-making traditions, becoming the last 'Tonnelier-Foudrier' in Burgundy.",
+                  "timeline": [
+                    {"year": "1954", "event": "Founded by Julien Rousseau in Couchey"},
+                    {"year": "1979", "event": "Major investment in barrel manufacturing equipment"},
+                    {"year": "1985", "event": "Began full-scale barrel manufacturing"},
+                    {"year": "2001", "event": "Jean-Christophe Rousseau joins the company"},
+                    {"year": "2015", "event": "Moved to new 1,800m² premises at Gevrey-Chambertin (€1M investment)"},
+                    {"year": "2024", "event": "Celebrated 70th anniversary"}
+                  ],
+                  "legacy": "Three generations of the Rousseau family have earned the prestigious Meilleur Ouvrier de France distinction: Julien (grandfather), Jean-Marie (father), and Jean-Christophe (son). 11 MOF coopers have been trained at Rousseau since founding."
+                },
+                "seasoning": {
+                  "duration": "Traditional Burgundian air-drying",
+                  "notes": "Quality-focused approach with attention to Burgundian traditions"
+                },
+                "toast_profiles": {
+                  "notes": "Burgundian-style toasting for elegance and integration"
+                },
+                "barrel_formats": ["57L (smallest)", "228L Burgundy Pièce", "500L Puncheon", "Foudres up to 10,000L", "Confidential Range limited edition"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "Only company in Burgundy with dual activity as cooper AND foudrier",
+                  "Last 'Tonnelier-Foudrier' in Burgundy",
+                  "Three generations of Meilleurs Ouvriers de France (Julien, Jean-Marie, Jean-Christophe)",
+                  "11 MOF coopers trained since founding",
+                  "Wide format range from 57L to 10,000L"
+                ]
+              },
+              {
+                "id": "mercurey",
+                "name": "Tonnellerie de Mercurey",
+                "location": "Mercurey, Burgundy",
+                "founded": "1992 (current ownership)",
+                "annual_production": "16,000 barrels (~80/day)",
+                "style": "Burgundian",
+                "classification": "Premier",
+                "owners": "Carole and Nicolas Tarteret",
+                "characteristics": "Integrated stave mill (NT Bois). Oak blending approach - each barrel from blends of different terroirs. Terroir-based oak selections.",
+                "specialty": "Oak blending, terroir-based oak selection, integrated stave mill",
+                "history": {
+                  "founding": "In 1992, Nicolas Tarteret purchased a small cooperage that was making just 2 barrels per day. Through dedication and investment, he grew the operation to 80 barrels per day.",
+                  "timeline": [
+                    {"year": "1992", "event": "Nicolas Tarteret purchased small cooperage making 2 barrels/day"},
+                    {"year": "2009", "event": "Moved into modern factory"},
+                    {"year": "Present", "event": "Grown from 2 to 80 barrels/day"}
+                  ],
+                  "legacy": "From 2 barrels per day to 80, the Tarteret family built one of Burgundy's most innovative cooperages with integrated wood sourcing."
+                },
+                "forest_sources": {
+                  "description": "Integrated stave mill provides direct control over wood sourcing.",
+                  "stave_mill": {
+                    "name": "NT Bois",
+                    "location": "Forest of Othe (Champagne region)"
+                  },
+                  "terroir_selections": [
+                    {
+                      "name": "Craie",
+                      "terroir": "Chalky soils",
+                      "best_for": "Champagne, Chablis"
+                    },
+                    {
+                      "name": "Pierre",
+                      "terroir": "Burgundy hills heterogeneity",
+                      "best_for": "Burgundy wines"
+                    }
+                  ],
+                  "philosophy": "Oak blending - each barrel made from blends of different terroirs"
+                },
+                "seasoning": {
+                  "duration": "Traditional Burgundian air-drying",
+                  "notes": "Integrated stave mill allows complete quality control"
+                },
+                "toast_profiles": {
+                  "cabernet_programs": ["M Prime", "Haute Futaie", "Prestige", "Nicolas"],
+                  "notes": "Cabernet programs developed with Bordeaux, California, and Washington wineries"
+                },
+                "barrel_formats": ["228L Burgundy Pièce", "Various formats"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "Oak blending - each barrel from blends of different terroirs",
+                  "Integrated stave mill (NT Bois) in forest of Othe",
+                  "Terroir-based oak selections (Craie, Pierre)",
+                  "Grew from 2 barrels/day to 80 barrels/day",
+                  "Cabernet programs developed with Bordeaux, California, Washington wineries"
+                ]
               },
               {
                 "id": "cadus",
@@ -417,13 +803,63 @@
               {
                 "id": "radoux",
                 "name": "Tonnellerie Radoux",
-                "location": "Jonzac, Charentes",
+                "location": "Jonzac (HQ), Santa Rosa California, Rioja-Haro Spain",
                 "founded": "1947",
                 "style": "Bordelaise",
                 "classification": "Premier",
-                "notable_clients": ["Vega Sicilia", "Château Mouton Rothschild", "Marchesi Antinori", "Ridge Vineyards"],
-                "characteristics": "Vega Sicilia is the largest customer with 3,000 barrels/year for all wineries. Ridge Vineyards Monte Bello program uses Radoux Bordeaux barriques. Part of Oeneo Group.",
-                "specialty": "Major international supplier to iconic estates"
+                "owner": "TFF Group (acquired 2012 by François Frères)",
+                "notable_clients": ["Vega Sicilia (~3,000 barrels/year - largest customer)", "Château Mouton Rothschild", "Marchesi Antinori", "Ridge Vineyards"],
+                "characteristics": "Vega Sicilia is the largest customer with ~3,000 barrels/year for all wineries. Proprietary Oakscan infrared stave analysis technology. VICTORIA brand is European leader in American oak.",
+                "specialty": "Oakscan infrared stave analysis, Vega Sicilia's primary supplier",
+                "history": {
+                  "founding": "Founded by Robert Radoux in 1947. His son Christian, a Master Cooper and Compagnon du Devoir, developed the business into Tonnellerie Radoux S.A., now one of the most technologically advanced cooperages in the world.",
+                  "timeline": [
+                    {"year": "1947", "event": "Founded by Robert Radoux"},
+                    {"year": "1970s-1980s", "event": "Christian Radoux (Master Cooper, Compagnon du Devoir) develops into Tonnellerie Radoux S.A."},
+                    {"year": "2012", "event": "Acquired by TFF Group (François Frères)"}
+                  ],
+                  "legacy": "Christian Radoux's expertise as a Compagnon du Devoir craftsman combined with technological innovation created a unique market position. Now part of TFF Group alongside François Frères."
+                },
+                "forest_sources": {
+                  "description": "Proprietary Oakscan technology determines oenological potential of each stave.",
+                  "american_oak": "Missouri oak for VICTORIA brand",
+                  "notes": "Infrared-light analysis of polyphenol levels in individual staves"
+                },
+                "seasoning": {
+                  "duration": "Traditional air-drying",
+                  "notes": "Each stave analyzed with Oakscan before use"
+                },
+                "toast_profiles": {
+                  "ranges": ["Classique", "Evolution", "Revelation", "Integration", "Pure"],
+                  "options": "Available in WWS (wine wood staves) or RWS formats",
+                  "notes": "Multiple toast ranges for different wine styles"
+                },
+                "signature_products": [
+                  {
+                    "name": "Super Fine Blend",
+                    "description": "Only perfect staves with <1.5mm grain width selected",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "VICTORIA",
+                    "description": "American oak brand (Missouri). European leader in American oak barrels.",
+                    "price": "Standard-Premium"
+                  }
+                ],
+                "innovation": {
+                  "name": "Oakscan",
+                  "description": "Proprietary infrared-light system that determines polyphenol levels in each stave",
+                  "purpose": "Guarantees consistent oenological profile barrel to barrel"
+                },
+                "barrel_formats": ["225L Bordeaux Barrique", "Various formats"],
+                "price_positioning": "Premium",
+                "unique_points": [
+                  "Oakscan proprietary infrared stave analysis technology",
+                  "Vega Sicilia's primary supplier (~3,000 barrels/year)",
+                  "VICTORIA brand - European leader in American oak (Missouri)",
+                  "Super Fine Blend uses only staves with <1.5mm grain",
+                  "Part of TFF Group (acquired 2012)"
+                ]
               }
             ]
           },
@@ -433,21 +869,146 @@
               {
                 "id": "world-cooperage",
                 "name": "World Cooperage / Independent Stave Company",
-                "location": "Missouri",
+                "location": "Lebanon, Missouri (HQ)",
                 "founded": "1912",
-                "classification": "Largest in world",
-                "notable_clients": ["Schweiger Vineyards"],
-                "characteristics": "Fourth-generation family business. Multiple stave mills throughout US. SFI certified. Profile systems: 52 (fruit/vanilla), 107 (smooth, Pinot-friendly), 33 (traditional American). Partnerships with UC Davis, Fresno State, Washington State.",
-                "specialty": "Scale, consistency, proprietary toast profiles"
+                "classification": "Largest barrel manufacturer in the world",
+                "notable_clients": ["Schweiger Vineyards", "Major wineries and distilleries globally"],
+                "characteristics": "Fourth-generation family business (Brad Boswell). Multiple stave mills throughout US. 100+ proprietary toast profiles with guaranteed repeatability. Partnerships with UC Davis, Fresno State, Washington State.",
+                "specialty": "World's largest, 100+ proprietary toast profiles with guaranteed repeatability",
+                "history": {
+                  "founding": "In 1912, T.W. Boswell founded a stave milling business in Missouri. The company survived Prohibition by shifting to non-alcoholic cooperage, then returned to wine and spirits barrels.",
+                  "timeline": [
+                    {"year": "1912", "event": "T.W. Boswell founded stave milling business"},
+                    {"year": "1920s-1933", "event": "Prohibition: Shifted to non-alcoholic cooperage to survive"},
+                    {"year": "1950s", "event": "J.E. Boswell founded first cooperage in Lebanon, Missouri"},
+                    {"year": "Present", "event": "Fourth generation (Brad Boswell) leads the company"}
+                  ],
+                  "legacy": "Four generations of the Boswell family built the world's largest barrel manufacturing operation through innovation and consistency."
+                },
+                "forest_sources": {
+                  "description": "Multiple stave mills throughout the United States.",
+                  "primary_source": "American oak (Quercus alba)",
+                  "notes": "SFI certified sustainable forestry practices"
+                },
+                "seasoning": {
+                  "duration": "Traditional air-drying",
+                  "notes": "Computers track each stave through the process"
+                },
+                "toast_profiles": {
+                  "total_profiles": "100+ proprietary profiles",
+                  "signature": [
+                    {
+                      "name": "Profile 52",
+                      "character": "Reduces lactone, emphasizes vanilla and fruit"
+                    },
+                    {
+                      "name": "Profile 107",
+                      "character": "Soft vanillin, Pinot-friendly"
+                    },
+                    {
+                      "name": "Profile 33",
+                      "character": "Complex, for full-bodied reds"
+                    }
+                  ],
+                  "notes": "Guaranteed repeatability through technology monitoring"
+                },
+                "innovation": {
+                  "tracking": "Computers track each stave through production",
+                  "analysis": "Sensors analyze density and moisture",
+                  "monitoring": "Lasers and infrared cameras monitor temperature during toasting",
+                  "notes": "Technology ensures consistent results barrel to barrel"
+                },
+                "university_partnerships": ["UC Davis", "Fresno State", "Washington State University"],
+                "barrel_formats": ["225L Bordeaux Barrique", "Various formats"],
+                "price_positioning": "Entry to Mid (American oak: $360-500)",
+                "unique_points": [
+                  "World's largest barrel manufacturer",
+                  "100+ proprietary toast profiles with guaranteed repeatability",
+                  "Fourth-generation family business (Boswell family)",
+                  "Technology-driven: sensors, lasers, infrared cameras",
+                  "University partnerships with UC Davis, Fresno State, Washington State"
+                ]
               },
               {
                 "id": "canton-cooperage",
                 "name": "Canton Cooperage",
                 "location": "Lebanon, Kentucky",
-                "founded": "1988",
-                "notable_clients": ["Turley Wine Cellars", "Ridge Vineyards", "Vega Sicilia"],
-                "characteristics": "Owned by Chêne & Cie (Taransaud parent). First to offer 3-year air-dried American oak (2002), then 4-year (2005). Paul Draper personally selected staves for decades. Vega Sicilia imports staves for on-site cooperage.",
-                "specialty": "Premium American oak, long-seasoned staves"
+                "founded": "1933",
+                "owner": "Chêne & Cie (Taransaud parent company)",
+                "notable_clients": ["Turley Wine Cellars (preferred cooper)", "Ridge Vineyards", "Vega Sicilia (imports staves)"],
+                "characteristics": "First to offer 3-year air-dried American oak (2002), then 4-year (2005). Named 'Top 100 Game Changers.' Paul Draper personally selected staves for decades. Vega Sicilia imports staves for on-site cooperage.",
+                "specialty": "Premium American oak pioneer, sister company to Taransaud",
+                "history": {
+                  "founding": "Founded in 1933, Canton Cooperage revolutionized American oak by proving that extended air-drying could produce wine barrels rivaling French oak quality.",
+                  "timeline": [
+                    {"year": "1933", "event": "Canton Cooperage founded"},
+                    {"year": "2002", "event": "First to offer 3-year air-dried American oak"},
+                    {"year": "2005", "event": "Introduced 4-year air-dried American oak"},
+                    {"year": "Present", "event": "Named 'Top 100 Game Changers' for innovation"}
+                  ],
+                  "legacy": "Proved that American oak, properly seasoned, can rival French oak. Paul Draper of Ridge Vineyards traveled regularly to select staves personally for decades."
+                },
+                "forest_sources": {
+                  "description": "Premium American oak from Appalachian hardwood forests.",
+                  "regions": [
+                    {"name": "West Cumberland", "state": "Kentucky"},
+                    {"name": "Hoosier", "state": "Indiana"},
+                    {"name": "Appalachian hardwood", "states": "Various"}
+                  ],
+                  "notes": "Careful selection of premium American oak sources"
+                },
+                "seasoning": {
+                  "lines": [
+                    {"name": "Vintage", "duration": "2-year air-dried"},
+                    {"name": "Vintage Premium", "duration": "3-year air-dried"},
+                    {"name": "Grand Cru", "duration": "3-year air-dried"},
+                    {"name": "Grand Cru Limited Edition", "duration": "4-year air-dried"},
+                    {"name": "Canton FIVE", "duration": "5-year air-dried"}
+                  ],
+                  "notes": "Pioneers of extended air-drying for American oak"
+                },
+                "toast_profiles": {
+                  "notes": "Multiple toast options available across product lines"
+                },
+                "signature_products": [
+                  {
+                    "name": "Canton FIVE",
+                    "description": "5-year air-dried American oak, 225L format",
+                    "price": "Ultra-Premium"
+                  },
+                  {
+                    "name": "Grand Cru Limited Edition",
+                    "description": "4-year air-dried American oak",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "Grand Cru",
+                    "description": "3-year air-dried American oak",
+                    "price": "Premium"
+                  },
+                  {
+                    "name": "Vintage Premium",
+                    "description": "3-year air-dried American oak",
+                    "price": "Mid-Premium"
+                  },
+                  {
+                    "name": "Vintage",
+                    "description": "2-year air-dried American oak",
+                    "price": "Standard"
+                  }
+                ],
+                "paul_draper_connection": "Ridge Vineyards' legendary winemaker Paul Draper traveled regularly to Canton to select staves personally for decades",
+                "barrel_formats": ["225L Canton FIVE", "Various formats"],
+                "price_positioning": "Mid to Ultra-Premium (Canton FIVE)",
+                "unique_points": [
+                  "First to offer 3-year air-dried American oak (2002)",
+                  "First to offer 4-year air-dried American oak (2005)",
+                  "Named 'Top 100 Game Changers'",
+                  "Sister company to Taransaud (Chêne & Cie)",
+                  "Paul Draper personally selected staves for decades",
+                  "Turley Wine Cellars' preferred cooper",
+                  "Vega Sicilia imports staves for on-site cooperage"
+                ]
               },
               {
                 "id": "oak-cooperage",
@@ -797,26 +1358,31 @@
         {
           "use": "New (1st fill)",
           "extraction": "100%",
+          "widthPercent": "100%",
           "character": "Full oak flavor, maximum tannin"
         },
         {
           "use": "Second fill",
           "extraction": "~50%",
+          "widthPercent": "50%",
           "character": "Moderate oak influence"
         },
         {
           "use": "Third fill",
           "extraction": "~25%",
+          "widthPercent": "25%",
           "character": "Subtle oak, gentle tannin"
         },
         {
           "use": "Fourth-Fifth fill",
           "extraction": "~10-15%",
+          "widthPercent": "12%",
           "character": "Considered neutral"
         },
         {
           "use": "5+ uses",
           "extraction": "Minimal",
+          "widthPercent": "5%",
           "character": "Primarily oxygenation vessel"
         }
       ],

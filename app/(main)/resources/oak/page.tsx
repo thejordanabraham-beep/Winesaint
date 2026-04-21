@@ -14,7 +14,6 @@ const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'formats', label: 'Barrel Formats', icon: '🛢️' },
   { id: 'chemistry', label: 'Oak Chemistry', icon: '⚗️' },
   { id: 'usage', label: 'New vs Used', icon: '♻️' },
-  { id: 'traditions', label: 'Regional Traditions', icon: '🍷' },
   { id: 'alternatives', label: 'Alternatives', icon: '📦' },
 ];
 
@@ -179,7 +178,7 @@ export default function OakGuidePage() {
                   </h3>
 
                   <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                    {region.forests.map((forest) => (
+                    {region.forests.map((forest: any) => (
                       <Link key={forest.id} href={`/resources/oak/forests/${forest.id}`} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
                         <h4 className="font-serif text-lg italic text-[#722F37] group-hover:underline">{forest.name}</h4>
                         {forest.department && (
@@ -579,7 +578,7 @@ export default function OakGuidePage() {
                       <div className="flex-1 bg-gray-200 rounded-full h-4 overflow-hidden">
                         <div
                           className="bg-[#722F37] h-full rounded-full transition-all"
-                          style={{ width: rate.extraction }}
+                          style={{ width: rate.widthPercent }}
                         />
                       </div>
                       <div className="w-16 text-sm text-right">{rate.extraction}</div>
@@ -612,49 +611,6 @@ export default function OakGuidePage() {
                     </div>
                   ))}
                 </div>
-              </div>
-            </div>
-          </div>
-        )}
-
-        {/* Regional Traditions Section */}
-        {activeSection === 'traditions' && (
-          <div className="space-y-6">
-            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.regional_traditions.title}</h2>
-              <p className="text-gray-600 mb-6">{oakData.sections.regional_traditions.description}</p>
-
-              <div className="grid gap-6 md:grid-cols-2">
-                {oakData.sections.regional_traditions.regions.map((region) => {
-                  const regionSlug = region.region.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
-                  return (
-                    <Link
-                      key={region.region}
-                      href={`/resources/oak/traditions/${regionSlug}`}
-                      className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block"
-                    >
-                      <h3 className="font-serif text-xl italic text-[#722F37] mb-3 group-hover:underline">{region.region}</h3>
-
-                      <div className="space-y-2 text-sm">
-                        <p><span className="font-medium">Oak Type:</span> {region.oak_type}</p>
-                        <p><span className="font-medium">Format:</span> {region.format}</p>
-                        {region.tradition && <p><span className="font-medium">Tradition:</span> {region.tradition}</p>}
-                        <p><span className="font-medium">Style Impact:</span> {region.style_impact}</p>
-                        {region.new_oak_usage && <p><span className="font-medium">New Oak:</span> {region.new_oak_usage}</p>}
-                        {region.modern_trend && (
-                          <p className="text-gray-500 italic pt-2 border-t border-[#1C1C1C]/10">
-                            Modern trend: {region.modern_trend}
-                          </p>
-                        )}
-                        {region.debate && (
-                          <p className="text-gray-500 italic pt-2 border-t border-[#1C1C1C]/10">
-                            {region.debate}
-                          </p>
-                        )}
-                      </div>
-                    </Link>
-                  );
-                })}
               </div>
             </div>
           </div>

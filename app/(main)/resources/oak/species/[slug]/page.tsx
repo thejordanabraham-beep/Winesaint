@@ -40,7 +40,7 @@ export default async function SpeciesDetailPage({ params }: { params: Promise<{ 
   // Find forests that use this species
   const relatedForests: any[] = [];
   oakData.sections.forests.regions.forEach((region) => {
-    region.forests.forEach((forest) => {
+    region.forests.forEach((forest: any) => {
       const speciesMix = (forest.species_mix || forest.species || '').toLowerCase();
       const speciesName = species.name.toLowerCase();
       if (speciesMix.includes(speciesName) || speciesMix.includes(species.common_name.toLowerCase())) {

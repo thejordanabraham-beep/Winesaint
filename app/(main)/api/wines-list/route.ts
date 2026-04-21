@@ -25,7 +25,7 @@ export async function GET() {
     const reviews = reviewResult.docs || [];
 
     // Create a map of wine ID to review
-    const reviewsByWine = new Map<number, typeof reviews[0]>();
+    const reviewsByWine = new Map<string | number, typeof reviews[0]>();
     for (const review of reviews) {
       const wineId = typeof review.wine === 'object' ? review.wine?.id : review.wine;
       if (wineId && !reviewsByWine.has(wineId)) {

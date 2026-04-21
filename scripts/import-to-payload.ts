@@ -56,6 +56,50 @@ const DRY_RUN = args.includes('--dry-run');
 
 const PAYLOAD_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000';
 
+// Token refresh interval (45 minutes - before 1hr expiry)
+const TOKEN_REFRESH_INTERVAL_MS = 45 * 60 * 1000;
+
+// Token manager to handle automatic refresh
+class TokenManager {
+  private token: string = '';
+  private tokenObtainedAt: number = 0;
+
+  async getToken(): Promise<string> {
+    const now = Date.now();
+    const tokenAge = now - this.tokenObtainedAt;
+
+    // Refresh if no token or token is older than refresh interval
+    if (!this.token || tokenAge > TOKEN_REFRESH_INTERVAL_MS) {
+      console.log(this.token ? '   [Refreshing expired token...]' : '   [Getting initial token...]');
+      await this.refresh();
+    }
+
+    return this.token;
+  }
+
+  async refresh(): Promise<void> {
+    const response = await fetch(`${PAYLOAD_URL}/api/users/login`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        email: process.env.PAYLOAD_ADMIN_EMAIL || 'admin@winesaint.com',
+        password: process.env.PAYLOAD_ADMIN_PASSWORD || 'admin123',
+      }),
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to authenticate with Payload');
+    }
+
+    const data = await response.json();
+    this.token = data.token;
+    this.tokenObtainedAt = Date.now();
+    console.log('   [Token refreshed successfully]');
+  }
+}
+
+const tokenManager = new TokenManager();
+
 const anthropic = new Anthropic({
   apiKey: process.env.ANTHROPIC_API_KEY!,
 });
@@ -175,25 +219,6 @@ function parseReviewDate(dateStr: string): string {
   return new Date().toISOString().split('T')[0];
 }
 
-// Get JWT token for Payload API
-async function getPayloadToken(): Promise<string> {
-  const response = await fetch(`${PAYLOAD_URL}/api/users/login`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      email: process.env.PAYLOAD_ADMIN_EMAIL || 'admin@winesaint.com',
-      password: process.env.PAYLOAD_ADMIN_PASSWORD || 'admin123',
-    }),
-  });
-
-  if (!response.ok) {
-    throw new Error('Failed to authenticate with Payload');
-  }
-
-  const data = await response.json();
-  return data.token;
-}
-
 // Query François RAG for context
 async function getFrancoisContext(query: string): Promise<string> {
   try {
@@ -223,9 +248,83 @@ async function getFrancoisContext(query: string): Promise<string> {
   }
 }
 
-// Reword review in WineSaint voice
-async function rewordReview(wine: any, originalReview: string, francoisContext: string, convertedScore: number): Promise<any> {
-  const prompt = `Write a brief wine tasting note (2-4 sentences).
+// Track previous review openings for batch anti-repetition
+interface BatchContext {
+  reviewNumber: number;
+  totalReviews: number;
+  producer: string;
+  previousOpenings: string[];
+}
+
+// Generate review using François WineSaint voice (trained on 23k+ critic reviews)
+async function rewordReview(
+  wine: any,
+  originalReview: string,
+  francoisContext: string,
+  convertedScore: number,
+  batchContext?: BatchContext
+): Promise<any> {
+  // Determine wine color from type field
+  const wineType = (wine.Type || '').toLowerCase();
+  let color: 'red' | 'white' | 'sparkling' | 'rose' | 'dessert' = 'red';
+  if (wineType.includes('white')) color = 'white';
+  else if (wineType.includes('sparkling') || wineType.includes('champagne')) color = 'sparkling';
+  else if (wineType.includes('rose') || wineType.includes('rosé')) color = 'rose';
+  else if (wineType.includes('dessert') || wineType.includes('sweet')) color = 'dessert';
+
+  try {
+    // Try François first (pass batch context for anti-repetition)
+    const requestBody: any = {
+      producer: wine.Producer,
+      wine_name: wine['Wine Name'],
+      vintage: wine.Vintage,
+      region: wine.Region || '',
+      grapes: wine['Grape Varieties'] || '',
+      original_review: originalReview,
+      color: color
+    };
+
+    // Add batch context if available
+    if (batchContext) {
+      requestBody.batch_review_number = batchContext.reviewNumber;
+      requestBody.batch_total_reviews = batchContext.totalReviews;
+      requestBody.batch_previous_openings = batchContext.previousOpenings;
+    }
+
+    const response = await fetch('http://localhost:8000/generate-review', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': process.env.RAG_API_KEY || 'wine-rag-secret-key-2024'
+      },
+      body: JSON.stringify(requestBody)
+    });
+
+    if (response.ok) {
+      const data = await response.json();
+      return {
+        shortSummary: data.short_summary,
+        tastingNotes: data.tasting_notes,
+        flavorProfile: data.flavor_profile
+      };
+    }
+  } catch (error) {
+    console.log('   (François not available, using direct Claude)');
+  }
+
+  // Build batch context instruction if we're in a batch
+  let batchInstruction = '';
+  if (batchContext && batchContext.previousOpenings.length > 0) {
+    batchInstruction = `BATCH CONTEXT: You are writing review ${batchContext.reviewNumber} of ${batchContext.totalReviews} for wines from ${batchContext.producer}.
+
+Previous review openings (vary yours):
+${batchContext.previousOpenings.map((o, i) => `${i + 1}. "${o}"`).join('\n')}
+
+`;
+  }
+
+  // Fallback to direct Claude call if François unavailable
+  const prompt = `Write a brief wine tasting note (3-6 sentences) in a professional critic voice.
 
 WINE: ${wine.Producer} ${wine['Wine Name']} ${wine.Vintage}
 REGION: ${wine.Region || 'Unknown'}
@@ -234,37 +333,24 @@ GRAPES: ${wine['Grape Varieties'] || 'Unknown'}
 ORIGINAL CRITIC NOTE:
 ${originalReview}
 
-${francoisContext ? `TERROIR CONTEXT (include if adds value):\n${francoisContext}\n` : ''}
-
-RULES:
-- 2-4 sentences
-- Start with key flavors/aromas (no "The wine presents" or "Aromas of")
-- Include texture/structure assessment
-- End with drinking window or cellar recommendation if known
-- NO color descriptions
-- NO "aromatic profile", "palate architecture", "textural amplitude", "structural tension"
-- Be direct and specific, not flowery
-- Include terroir details from context ONLY if genuinely informative (specific vineyard, soil type, elevation)
-
-GOOD EXAMPLE:
-"Blackberry, cracked pepper, and iron filings. Firm but fine tannins with real density. Needs 5+ years."
-
-BAD EXAMPLE:
-"The wine displays a deep ruby core. The aromatic profile reveals layers of dark fruit. The palate architecture shows remarkable structural tension."
-
-Also provide a short summary (10 words max) and 4-6 flavor descriptors.
+${francoisContext ? `TERROIR CONTEXT:\n${francoisContext}\n` : ''}${batchInstruction}
+GUIDELINES:
+- Let the wine's complexity guide length (3-6 sentences typical)
+- Include structure (tannins, acidity, body) when relevant
+- Include drinking window when the wine warrants aging guidance
+- Vary your openings and sentence structures
 
 JSON format:
 {
-  "shortSummary": "Brief essence",
-  "tastingNotes": "2-3 sentence note",
+  "shortSummary": "Brief essence (10 words max)",
+  "tastingNotes": "3-6 sentence review",
   "flavorProfile": ["flavor1", "flavor2", "flavor3", "flavor4"]
 }`;
 
   const message = await anthropic.messages.create({
     model: 'claude-sonnet-4-5-20250929',
     max_tokens: 300,
-    temperature: 0.5,
+    temperature: 0.7,
     messages: [{ role: 'user', content: prompt }]
   });
 
@@ -429,8 +515,9 @@ async function importWineWithReview(
   token: string,
   wine: any,
   rowNumber: number,
-  sheetName: string
-): Promise<{ success: boolean; wineId?: number; reviewId?: number }> {
+  sheetName: string,
+  batchContext?: BatchContext
+): Promise<{ success: boolean; wineId?: number; reviewId?: number; reviewOpening?: string }> {
   console.log(`\n[${sheetName} #${rowNumber}] ${wine.Producer} - ${wine['Wine Name']} (${wine.Vintage})`);
   console.log(`   Original score: ${wine.Score}/100`);
 
@@ -460,10 +547,13 @@ async function importWineWithReview(
       console.log(`   Francois context: ${francoisContext.length} chars`);
     }
 
-    // Reword review with AI
+    // Reword review with AI (pass batch context for anti-repetition)
     console.log(`   Generating WineSaint review...`);
-    const reworded = await rewordReview(wine, wine['Tasting Notes'], francoisContext, convertedScore);
+    const reworded = await rewordReview(wine, wine['Tasting Notes'], francoisContext, convertedScore, batchContext);
     console.log(`   Summary: ${reworded.shortSummary}`);
+
+    // Extract opening sentence for batch tracking
+    const reviewOpening = reworded.tastingNotes.split(/[.!?]/)[0] + '.';
 
     // Map sheet names to countries
     const sheetToCountry: Record<string, string> = {
@@ -584,7 +674,7 @@ async function importWineWithReview(
     const reviewId = reviewDoc.doc.id;
     console.log(`   Review created: ID ${reviewId}`);
 
-    return { success: true, wineId, reviewId };
+    return { success: true, wineId, reviewId, reviewOpening };
 
   } catch (error: any) {
     console.error(`   ERROR: ${error.message}`);
@@ -623,26 +713,42 @@ async function main() {
 
   console.log(`Importing wines ${startIndex + 1}-${endIndex} (${selected.length} wines)\n`);
 
-  // Get Payload token
-  let token = '';
+  // Initialize token (will auto-refresh as needed)
   if (!DRY_RUN) {
     console.log('Authenticating with Payload...');
-    token = await getPayloadToken();
-    console.log('Authenticated!\n');
+    await tokenManager.getToken();
+    console.log('Authenticated! (token will auto-refresh every 45 min)\n');
   }
 
   let success = 0;
   let failed = 0;
   let skipped = 0;
 
+  // Batch context for anti-repetition (track previous openings)
+  const previousOpenings: string[] = [];
+
   for (let i = 0; i < selected.length; i++) {
     const wine = selected[i];
     const rowNumber = startIndex + i + 1;
 
-    const result = await importWineWithReview(token, wine, rowNumber, SHEET);
+    // Build batch context for anti-repetition
+    const batchContext: BatchContext = {
+      reviewNumber: i + 1,
+      totalReviews: selected.length,
+      producer: wine.Producer,
+      previousOpenings: previousOpenings.slice(-5) // Keep last 5 openings for context
+    };
+
+    // Get fresh token (auto-refreshes if needed)
+    const token = await tokenManager.getToken();
+    const result = await importWineWithReview(token, wine, rowNumber, SHEET, batchContext);
 
     if (result.success) {
       success++;
+      // Track opening for anti-repetition in subsequent reviews
+      if (result.reviewOpening) {
+        previousOpenings.push(result.reviewOpening);
+      }
     } else if (result.wineId === undefined && result.reviewId === undefined) {
       skipped++;
     } else {

@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import RegionLayout from '@/components/RegionLayout';
+import { type ClassificationType } from '@/lib/guide-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -11,7 +12,7 @@ export const dynamicParams = true;
 interface SidebarLink {
   name: string;
   slug: string;
-  classification?: string;
+  classification?: ClassificationType;
   type?: string;
 }
 
