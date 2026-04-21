@@ -7,7 +7,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const CONFIG_PATH = path.join(process.cwd(), 'app/(main)/data/region-configs.json');
+const CONFIG_PATH = path.join(process.cwd(), 'app/data/region-configs.json');
 const GUIDES_DIR = path.join(process.cwd(), 'guides');
 const BACKUP_DIR = path.join(process.cwd(), 'regions-pages-backup');
 

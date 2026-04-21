@@ -9,7 +9,7 @@ import fs from 'fs';
 import path from 'path';
 
 const BACKUP_DIR = path.join(process.cwd(), 'regions-pages-backup');
-const CONFIG_PATH = path.join(process.cwd(), 'app/(main)/data/region-configs.json');
+const CONFIG_PATH = path.join(process.cwd(), 'app/data/region-configs.json');
 
 interface SidebarLink {
   name: string;
