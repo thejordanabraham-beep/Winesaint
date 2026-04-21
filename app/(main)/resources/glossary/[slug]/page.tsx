@@ -37,8 +37,9 @@ export function generateStaticParams() {
 }
 
 // Generate metadata for each term page
-export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
-  const term = terms.find(t => t.id === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const term = terms.find(t => t.id === slug);
 
   if (!term) {
     return {
@@ -81,8 +82,9 @@ function getPrevNextTerms(currentTerm: Term): { prev: Term | null; next: Term | 
   };
 }
 
-export default function GlossaryTermPage({ params }: { params: { slug: string } }) {
-  const term = terms.find(t => t.id === params.slug);
+export default async function GlossaryTermPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const term = terms.find(t => t.id === slug);
 
   if (!term) {
     notFound();
