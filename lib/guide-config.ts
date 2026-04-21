@@ -2910,7 +2910,7 @@ export function groupByClassification(
     grossesGewachs: links.filter(l => l.classification === 'grosses-gewachs').map(({ name, slug }) => ({ name, slug })),
     singleVineyard: links.filter(l => l.classification === 'single-vineyard').map(({ name, slug }) => ({ name, slug })),
     other: links.filter(l =>
-      l.classification &&
+      !l.classification ||
       ![
         'grand-cru',
         'premier-cru',

@@ -326,6 +326,24 @@ export default async function RegionLayout({
                             </nav>
                           </section>
                         )}
+                        {grouped.other.length > 0 && (
+                          <section>
+                            <h4 className="font-bold text-sm uppercase tracking-wide text-gray-600 mb-3">
+                              Vineyards ({grouped.other.length})
+                            </h4>
+                            <nav className="space-y-1">
+                              {grouped.other.map((link) => (
+                                <Link
+                                  key={link.slug}
+                                  href={`/regions/${generateNestedPath()}/${link.slug}`}
+                                  className="block px-3 py-2 rounded text-sm hover:bg-gray-100 transition-colors hover:text-gray-700"
+                                >
+                                  {link.name}
+                                </Link>
+                              ))}
+                            </nav>
+                          </section>
+                        )}
                       </div>
                     );
                   })()}
