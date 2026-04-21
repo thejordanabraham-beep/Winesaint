@@ -1,3 +1,5 @@
+import fs from 'fs';
+import path from 'path';
 import { remark } from 'remark';
 import html from 'remark-html';
 import Link from 'next/link';
@@ -7,10 +9,10 @@ interface RegionLayoutProps {
   title: string;
   level: 'country' | 'region' | 'sub-region' | 'village' | 'vineyard';
   parentRegion?: string;
-  classification?: string;
+  classification?: string; // Added for vineyard-level classification
   sidebarLinks?: ReadonlyArray<{ name: string; slug: string; type?: string; classification?: ClassificationType }>;
-  sidebarTitle?: string;
-  content?: string; // Markdown content from Payload
+  sidebarTitle?: string; // Optional custom sidebar title
+  contentFile: string;
   vineyardData?: {
     classification?: string;
     acreage?: number;
@@ -30,19 +32,26 @@ export default async function RegionLayout({
   classification,
   sidebarLinks,
   sidebarTitle,
-  content,
+  contentFile,
   vineyardData
 }: RegionLayoutProps) {
-  // Parse markdown content from Payload
-  let contentHtml = '';
-  const hasContent = !!content;
+  // Read and parse markdown file
+  const guidesDir = path.join(process.cwd(), 'guides');
+  const filePath = path.join(guidesDir, contentFile);
 
-  if (content) {
+  let contentHtml = '';
+  let fileExists = false;
+
+  try {
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    fileExists = true;
+
     const processedContent = await remark()
       .use(html)
-      .process(content);
+      .process(fileContent);
+
     contentHtml = processedContent.toString();
-  } else {
+  } catch (error) {
     contentHtml = '<p class="text-gray-600">Guide content coming soon...</p>';
   }
 
@@ -408,7 +417,7 @@ export default async function RegionLayout({
             />
 
             {/* Footer note */}
-            {hasContent && (
+            {fileExists && (
               <div className="mt-16 pt-8 border-t border-gray-200">
                 <p className="text-sm text-gray-500 italic">
                   This comprehensive guide is part of the WineSaint Wine Region Guide collection.

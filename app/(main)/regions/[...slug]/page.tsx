@@ -1,7 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import RegionLayout from '@/components/RegionLayout';
-import { type ClassificationType } from '@/lib/guide-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -12,7 +11,7 @@ export const dynamicParams = true;
 interface SidebarLink {
   name: string;
   slug: string;
-  classification?: ClassificationType;
+  classification?: string;
   type?: string;
 }
 
@@ -41,26 +40,6 @@ interface VineyardData {
   slope?: number;
   elevationRange?: { min: number; max: number };
   producers?: Array<{ name: string; slug: string }>;
-}
-
-// Fetch region content (description) from Payload
-async function getRegionContent(fullSlug: string): Promise<string | null> {
-  try {
-    const response = await fetch(
-      `${API_URL}/regions?where[fullSlug][equals]=${encodeURIComponent(fullSlug)}&depth=0`,
-      { next: { revalidate: 60 } }
-    );
-
-    if (!response.ok) return null;
-
-    const data = await response.json();
-    const region = data.docs?.[0];
-
-    return region?.description || null;
-  } catch (error) {
-    console.error('Error fetching region content:', error);
-    return null;
-  }
 }
 
 // Fetch vineyard data from Payload for vineyard-level pages
@@ -237,9 +216,6 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
   // Normalize level to match RegionLayout expectations
   const normalizedLevel = config.level === 'subregion' ? 'sub-region' : config.level;
 
-  // Fetch content from Payload
-  const content = await getRegionContent(fullSlug);
-
   // For vineyard-level pages, fetch rich vineyard data from Payload
   let vineyardData: VineyardData | undefined;
   if (config.level === 'vineyard') {
@@ -255,7 +231,7 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
       classification={config.classification}
       sidebarLinks={sidebarLinks}
       sidebarTitle={config.sidebarTitle || dynamicSidebarTitle}
-      content={content || undefined}
+      contentFile={config.contentFile || `${slug[slug.length - 1]}-guide.md`}
       vineyardData={vineyardData}
     />
   );
