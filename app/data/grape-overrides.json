@@ -1,14 +1,5 @@
 {
-  "name_overrides": {
-    "COT": "Malbec",
-    "CORVINA VERONESE": "Corvina",
-    "FALANGHINA BENEVENTANA": "Falanghina",
-    "GARNACHA BLANCA": "Grenache Blanc",
-    "GARNACHA ROJA (GRIS)": "Grenache Gris",
-    "GARNACHA TINTA": "Grenache Noir",
-    "PROSECCO": "Glera",
-    "TRIBIDRAG": "Zinfandel"
-  },
+  "name_overrides": {},
   "essential_overrides": {
     "grape_barbera_bianca": false,
     "grape_barbera_del_sannio": false,

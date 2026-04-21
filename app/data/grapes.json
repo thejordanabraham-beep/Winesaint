@@ -6684,7 +6684,7 @@
     },
     {
       "id": "grape_corvina_veronese",
-      "name": "CORVINA VERONESE",
+      "name": "CORVINA",
       "berry_color": "black",
       "is_essential": true,
       "principal_synonyms": "Corvina Comune, Corvina Gentile, Corvina Nostrana, Corvina Reale, Cruina",
@@ -6974,7 +6974,7 @@
     },
     {
       "id": "grape_cot",
-      "name": "COT",
+      "name": "MALBEC",
       "berry_color": "black",
       "is_essential": true,
       "principal_synonyms": "Agreste (Lorraine), Auxerrois (Quercy), Bouyssales (Tarn-et-Garonne), Cagors (Republic of Moldova), Cahors (Gironde and Loir-et-Cher), Coq Rouge (Loir-et-Cher), Cor or Cors (Indre-et-Loire), Cos (Vienne and Indre-et-Loire), Côt (Vienne and Touraine), Cots, Estrangey or Étranger (Gironde), Lutkens (Gironde), Malbec",
@@ -7894,7 +7894,7 @@
     },
     {
       "id": "grape_falanghina_beneventana",
-      "name": "FALANGHINA BENEVENTANA",
+      "name": "FALANGHINA",
       "berry_color": "white",
       "is_essential": true,
       "principal_synonyms": "",
@@ -9359,7 +9359,7 @@
     },
     {
       "id": "grape_garnacha_blanca",
-      "name": "GARNACHA BLANCA",
+      "name": "GRENACHE BLANC",
       "berry_color": "white",
       "is_essential": true,
       "principal_synonyms": "",
@@ -9657,7 +9657,7 @@
     },
     {
       "id": "grape_garnacha_roja_(gris)",
-      "name": "GARNACHA ROJA (GRIS)",
+      "name": "GRENACHE GRIS",
       "berry_color": "pink/grey",
       "is_essential": true,
       "principal_synonyms": "",
@@ -9825,7 +9825,7 @@
     },
     {
       "id": "grape_garnacha_tinta",
-      "name": "GARNACHA TINTA",
+      "name": "GRENACHE NOIR",
       "berry_color": "black",
       "is_essential": true,
       "principal_synonyms": "",
@@ -17639,8 +17639,17 @@
             "acidity": "moderate",
             "tannin": "moderate to firm",
             "aromatics": "Black cherry, plum, earth",
-            "best_for": ["Still red wine", "Age-worthy wines"],
-            "regions": ["Burgundy", "Oregon", "New Zealand", "California", "Tasmania"]
+            "best_for": [
+              "Still red wine",
+              "Age-worthy wines"
+            ],
+            "regions": [
+              "Burgundy",
+              "Oregon",
+              "New Zealand",
+              "California",
+              "Tasmania"
+            ]
           },
           {
             "name": "Dijon 667",
@@ -17654,8 +17663,16 @@
             "acidity": "moderate to high",
             "tannin": "moderate",
             "aromatics": "Red cherry, raspberry, spice",
-            "best_for": ["Still red wine", "Blending"],
-            "regions": ["Burgundy", "Oregon", "California", "Australia"]
+            "best_for": [
+              "Still red wine",
+              "Blending"
+            ],
+            "regions": [
+              "Burgundy",
+              "Oregon",
+              "California",
+              "Australia"
+            ]
           },
           {
             "name": "Dijon 777",
@@ -17669,8 +17686,17 @@
             "acidity": "high",
             "tannin": "moderate",
             "aromatics": "Red fruits, floral, mineral",
-            "best_for": ["Still red wine", "Cooler climates", "Champagne"],
-            "regions": ["Burgundy", "Oregon", "Champagne", "New Zealand"]
+            "best_for": [
+              "Still red wine",
+              "Cooler climates",
+              "Champagne"
+            ],
+            "regions": [
+              "Burgundy",
+              "Oregon",
+              "Champagne",
+              "New Zealand"
+            ]
           },
           {
             "name": "Dijon 828",
@@ -17684,8 +17710,14 @@
             "acidity": "moderate",
             "tannin": "firm",
             "aromatics": "Dark cherry, earth, graphite",
-            "best_for": ["Still red wine", "Blending for structure"],
-            "regions": ["Burgundy", "Oregon"]
+            "best_for": [
+              "Still red wine",
+              "Blending for structure"
+            ],
+            "regions": [
+              "Burgundy",
+              "Oregon"
+            ]
           },
           {
             "name": "Dijon 943",
@@ -17699,8 +17731,15 @@
             "acidity": "moderate to high",
             "tannin": "fine, silky",
             "aromatics": "Rose petal, violet, red cherry",
-            "best_for": ["Still red wine", "Aromatic expressions"],
-            "regions": ["Burgundy", "Oregon", "New Zealand"]
+            "best_for": [
+              "Still red wine",
+              "Aromatic expressions"
+            ],
+            "regions": [
+              "Burgundy",
+              "Oregon",
+              "New Zealand"
+            ]
           },
           {
             "name": "Pommard (UCD 4 / FPS 4)",
@@ -17714,8 +17753,15 @@
             "acidity": "moderate",
             "tannin": "firm to high",
             "aromatics": "Black cherry, plum, earth, spice",
-            "best_for": ["Still red wine", "Warmer climates"],
-            "regions": ["California", "Oregon", "Australia"]
+            "best_for": [
+              "Still red wine",
+              "Warmer climates"
+            ],
+            "regions": [
+              "California",
+              "Oregon",
+              "Australia"
+            ]
           },
           {
             "name": "Pommard (UCD 5 / FPS 5)",
@@ -17729,8 +17775,13 @@
             "acidity": "moderate",
             "tannin": "firm",
             "aromatics": "Dark fruit, earth, smoke",
-            "best_for": ["Still red wine"],
-            "regions": ["California", "Oregon"]
+            "best_for": [
+              "Still red wine"
+            ],
+            "regions": [
+              "California",
+              "Oregon"
+            ]
           },
           {
             "name": "Wadenswil (UCD 1A / FPS 1A)",
@@ -17744,8 +17795,14 @@
             "acidity": "high",
             "tannin": "light to moderate",
             "aromatics": "Strawberry, raspberry, tea leaf",
-            "best_for": ["Still red wine", "Early-drinking styles"],
-            "regions": ["Oregon", "Switzerland"]
+            "best_for": [
+              "Still red wine",
+              "Early-drinking styles"
+            ],
+            "regions": [
+              "Oregon",
+              "Switzerland"
+            ]
           },
           {
             "name": "Mariafeld",
@@ -17759,8 +17816,15 @@
             "acidity": "moderate",
             "tannin": "light",
             "aromatics": "Red cherry, light earth",
-            "best_for": ["Volume production", "Lighter styles"],
-            "regions": ["Switzerland", "Germany", "Alsace"]
+            "best_for": [
+              "Volume production",
+              "Lighter styles"
+            ],
+            "regions": [
+              "Switzerland",
+              "Germany",
+              "Alsace"
+            ]
           },
           {
             "name": "Abel (SMA 19)",
@@ -17774,8 +17838,12 @@
             "acidity": "high",
             "tannin": "fine",
             "aromatics": "Cherry, herbs, mineral",
-            "best_for": ["Still red wine"],
-            "regions": ["New Zealand"]
+            "best_for": [
+              "Still red wine"
+            ],
+            "regions": [
+              "New Zealand"
+            ]
           },
           {
             "name": "Mt. Eden",
@@ -17789,8 +17857,13 @@
             "acidity": "high",
             "tannin": "firm",
             "aromatics": "Black cherry, clove, cola, forest floor",
-            "best_for": ["Still red wine", "Age-worthy wines"],
-            "regions": ["California (Santa Cruz, Sonoma Coast)"]
+            "best_for": [
+              "Still red wine",
+              "Age-worthy wines"
+            ],
+            "regions": [
+              "California (Santa Cruz, Sonoma Coast)"
+            ]
           },
           {
             "name": "Swan (UCD 97 / Joseph Swan)",
@@ -17804,8 +17877,12 @@
             "acidity": "moderate to high",
             "tannin": "moderate",
             "aromatics": "Cherry, rose, spice, earth",
-            "best_for": ["Still red wine"],
-            "regions": ["California (Russian River, Sonoma Coast)"]
+            "best_for": [
+              "Still red wine"
+            ],
+            "regions": [
+              "California (Russian River, Sonoma Coast)"
+            ]
           },
           {
             "name": "Calera",
@@ -17819,8 +17896,13 @@
             "acidity": "high",
             "tannin": "moderate",
             "aromatics": "Red fruits, spice, mineral, tea",
-            "best_for": ["Still red wine", "Age-worthy wines"],
-            "regions": ["California (Mt. Harlan, Central Coast)"]
+            "best_for": [
+              "Still red wine",
+              "Age-worthy wines"
+            ],
+            "regions": [
+              "California (Mt. Harlan, Central Coast)"
+            ]
           },
           {
             "name": "Rochioli",
@@ -17834,8 +17916,12 @@
             "acidity": "moderate to high",
             "tannin": "fine to moderate",
             "aromatics": "Raspberry, cherry, rose, spice",
-            "best_for": ["Still red wine"],
-            "regions": ["California (Russian River, Sonoma)"]
+            "best_for": [
+              "Still red wine"
+            ],
+            "regions": [
+              "California (Russian River, Sonoma)"
+            ]
           },
           {
             "name": "Pisoni",
@@ -17849,8 +17935,13 @@
             "acidity": "high",
             "tannin": "firm",
             "aromatics": "Black cherry, cola, earth, spice",
-            "best_for": ["Still red wine", "Age-worthy wines"],
-            "regions": ["California (Santa Lucia Highlands)"]
+            "best_for": [
+              "Still red wine",
+              "Age-worthy wines"
+            ],
+            "regions": [
+              "California (Santa Lucia Highlands)"
+            ]
           },
           {
             "name": "Espinette (ENTAV 927)",
@@ -17864,8 +17955,12 @@
             "acidity": "moderate to high",
             "tannin": "moderate to firm",
             "aromatics": "Dark cherry, earth, spice",
-            "best_for": ["Still red wine"],
-            "regions": ["Burgundy"]
+            "best_for": [
+              "Still red wine"
+            ],
+            "regions": [
+              "Burgundy"
+            ]
           },
           {
             "name": "Gamay Beaujolais (UCD 18)",
@@ -17879,14 +17974,23 @@
             "acidity": "moderate",
             "tannin": "light",
             "aromatics": "Light cherry, herbal",
-            "best_for": ["Lighter styles", "Warmer sites"],
-            "regions": ["California"]
+            "best_for": [
+              "Lighter styles",
+              "Warmer sites"
+            ],
+            "regions": [
+              "California"
+            ]
           }
         ],
         "terroir": [
           {
             "soil": "Limestone/Chalk",
-            "also_known_as": ["Calcaire", "Kimmeridgian", "Comblanchien"],
+            "also_known_as": [
+              "Calcaire",
+              "Kimmeridgian",
+              "Comblanchien"
+            ],
             "effect": "The classic pairing for Pinot Noir. High calcium content promotes strong root development and influences acidity retention. Wines show pronounced minerality, tension, and exceptional aging potential. The best Burgundy vineyards sit on variations of limestone.",
             "wine_character": {
               "body": "light to medium",
@@ -17897,12 +18001,27 @@
             },
             "drainage": "excellent",
             "vigor": "low to moderate",
-            "regions": ["Burgundy (Côte d'Or)", "Champagne", "Chablis", "Sancerre", "parts of Oregon"],
-            "notable_vineyards": ["Romanée-Conti", "La Tâche", "Chambertin", "Musigny"]
+            "regions": [
+              "Burgundy (Côte d'Or)",
+              "Champagne",
+              "Chablis",
+              "Sancerre",
+              "parts of Oregon"
+            ],
+            "notable_vineyards": [
+              "Romanée-Conti",
+              "La Tâche",
+              "Chambertin",
+              "Musigny"
+            ]
           },
           {
             "soil": "Clay",
-            "also_known_as": ["Argile", "Clay-limestone", "Marl"],
+            "also_known_as": [
+              "Argile",
+              "Clay-limestone",
+              "Marl"
+            ],
             "effect": "Heavier clay soils retain more water and nutrients, producing fuller-bodied wines with deeper color and more powerful structure. Clay cools vine roots, extending the growing season. Common in lower-slope Burgundy sites.",
             "wine_character": {
               "body": "medium to full",
@@ -17913,12 +18032,24 @@
             },
             "drainage": "poor to moderate",
             "vigor": "high",
-            "regions": ["Pommard", "Côte de Beaune", "parts of Nuits-Saint-Georges", "Carneros"],
-            "notable_vineyards": ["Pommard Rugiens", "Corton"]
+            "regions": [
+              "Pommard",
+              "Côte de Beaune",
+              "parts of Nuits-Saint-Georges",
+              "Carneros"
+            ],
+            "notable_vineyards": [
+              "Pommard Rugiens",
+              "Corton"
+            ]
           },
           {
             "soil": "Volcanic (Basalt/Jory)",
-            "also_known_as": ["Jory", "Red volcanic", "Basaltic"],
+            "also_known_as": [
+              "Jory",
+              "Red volcanic",
+              "Basaltic"
+            ],
             "effect": "Iron-rich volcanic soils impart distinctive mineral character. Excellent drainage with good water retention in the subsoil. Common in Oregon's Willamette Valley where ancient volcanic activity created the Jory soil series.",
             "wine_character": {
               "body": "medium",
@@ -17929,12 +18060,22 @@
             },
             "drainage": "excellent",
             "vigor": "moderate",
-            "regions": ["Oregon (Dundee Hills, Eola-Amity)", "parts of New Zealand", "Tasmania"],
-            "notable_vineyards": ["Eyrie Vineyards", "Domaine Drouhin Oregon"]
+            "regions": [
+              "Oregon (Dundee Hills, Eola-Amity)",
+              "parts of New Zealand",
+              "Tasmania"
+            ],
+            "notable_vineyards": [
+              "Eyrie Vineyards",
+              "Domaine Drouhin Oregon"
+            ]
           },
           {
             "soil": "Granite",
-            "also_known_as": ["Decomposed granite", "Sandy granite"],
+            "also_known_as": [
+              "Decomposed granite",
+              "Sandy granite"
+            ],
             "effect": "Well-drained, mineral-rich soils that stress vines appropriately. Low fertility forces deep root development. Produces wines with notable mineral tension and aromatic purity. Less common for Pinot Noir but found in select sites.",
             "wine_character": {
               "body": "light to medium",
@@ -17945,12 +18086,19 @@
             },
             "drainage": "excellent",
             "vigor": "low",
-            "regions": ["Northern Rhône (rare Pinot)", "parts of Alsace", "some California sites"],
+            "regions": [
+              "Northern Rhône (rare Pinot)",
+              "parts of Alsace",
+              "some California sites"
+            ],
             "notable_vineyards": []
           },
           {
             "soil": "Slate/Schist",
-            "also_known_as": ["Schiefer", "Ardoise"],
+            "also_known_as": [
+              "Schiefer",
+              "Ardoise"
+            ],
             "effect": "Heat-retaining dark stones help ripen grapes in cool climates. Excellent drainage with mineral complexity. The fractured rock allows deep root penetration. Important in German Pinot Noir (Spätburgunder) regions.",
             "wine_character": {
               "body": "light to medium",
@@ -17961,12 +18109,23 @@
             },
             "drainage": "excellent",
             "vigor": "low to moderate",
-            "regions": ["Ahr (Germany)", "parts of Baden", "Alsace"],
-            "notable_vineyards": ["Deutzerhof (Ahr)", "Meyer-Näkel (Ahr)"]
+            "regions": [
+              "Ahr (Germany)",
+              "parts of Baden",
+              "Alsace"
+            ],
+            "notable_vineyards": [
+              "Deutzerhof (Ahr)",
+              "Meyer-Näkel (Ahr)"
+            ]
           },
           {
             "soil": "Sandy/Alluvial",
-            "also_known_as": ["Sable", "River deposits", "Loam"],
+            "also_known_as": [
+              "Sable",
+              "River deposits",
+              "Loam"
+            ],
             "effect": "Lighter soils with excellent drainage but lower water retention. Produces more aromatic, earlier-drinking wines with less structure. Phylloxera has difficulty in sandy soils, allowing some ungrafted vines to survive.",
             "wine_character": {
               "body": "light",
@@ -17977,12 +18136,20 @@
             },
             "drainage": "excellent",
             "vigor": "moderate to high",
-            "regions": ["Parts of Alsace", "some German sites", "Central Otago river terraces"],
+            "regions": [
+              "Parts of Alsace",
+              "some German sites",
+              "Central Otago river terraces"
+            ],
             "notable_vineyards": []
           },
           {
             "soil": "Gravel/Alluvial Terraces",
-            "also_known_as": ["Graves", "River stones", "Greywacke"],
+            "also_known_as": [
+              "Graves",
+              "River stones",
+              "Greywacke"
+            ],
             "effect": "Excellent drainage with heat reflection from stones. Stresses vines and concentrates flavors. Common in New Zealand's Martinborough where old river terraces provide ideal conditions.",
             "wine_character": {
               "body": "medium",
@@ -17993,12 +18160,22 @@
             },
             "drainage": "excellent",
             "vigor": "low to moderate",
-            "regions": ["Martinborough (New Zealand)", "parts of Central Otago", "Santa Barbara (terraces)"],
-            "notable_vineyards": ["Ata Rangi", "Dry River"]
+            "regions": [
+              "Martinborough (New Zealand)",
+              "parts of Central Otago",
+              "Santa Barbara (terraces)"
+            ],
+            "notable_vineyards": [
+              "Ata Rangi",
+              "Dry River"
+            ]
           },
           {
             "soil": "Loess",
-            "also_known_as": ["Wind-blown silt", "Löss"],
+            "also_known_as": [
+              "Wind-blown silt",
+              "Löss"
+            ],
             "effect": "Fine, silty soil deposited by wind over millennia. Good water retention with moderate drainage. Produces wines with aromatic intensity and softer structure. Common in parts of Germany and Austria.",
             "wine_character": {
               "body": "medium",
@@ -18009,12 +18186,20 @@
             },
             "drainage": "moderate",
             "vigor": "moderate to high",
-            "regions": ["Pfalz (Germany)", "parts of Austria", "parts of Oregon"],
+            "regions": [
+              "Pfalz (Germany)",
+              "parts of Austria",
+              "parts of Oregon"
+            ],
             "notable_vineyards": []
           },
           {
             "soil": "Marine Sedimentary",
-            "also_known_as": ["Monterey shale", "Diatomaceous earth", "Ancient seabed"],
+            "also_known_as": [
+              "Monterey shale",
+              "Diatomaceous earth",
+              "Ancient seabed"
+            ],
             "effect": "Fossilized marine deposits provide unique mineral profile. Often high in calcium from ancient shells. Found in California coastal regions where the Pacific once covered the land.",
             "wine_character": {
               "body": "medium",
@@ -18025,8 +18210,16 @@
             },
             "drainage": "variable",
             "vigor": "low to moderate",
-            "regions": ["Santa Rita Hills", "Sta. Rita Hills", "Santa Maria Valley", "Sonoma Coast"],
-            "notable_vineyards": ["Sanford & Benedict", "Bien Nacido"]
+            "regions": [
+              "Santa Rita Hills",
+              "Sta. Rita Hills",
+              "Santa Maria Valley",
+              "Sonoma Coast"
+            ],
+            "notable_vineyards": [
+              "Sanford & Benedict",
+              "Bien Nacido"
+            ]
           }
         ],
         "disease_profile": {
@@ -18176,7 +18369,11 @@
             "slug": "burgundy-cote-de-nuits",
             "importance": "benchmark",
             "climate": "Continental with cool growing season",
-            "soils": ["Limestone", "Marl", "Clay-limestone"],
+            "soils": [
+              "Limestone",
+              "Marl",
+              "Clay-limestone"
+            ],
             "style_summary": "The benchmark for Pinot Noir worldwide. Structured, age-worthy wines with remarkable terroir expression.",
             "typical_character": {
               "body": "Light to medium",
@@ -18185,14 +18382,38 @@
               "aromatics": "Red cherry, raspberry, violet, earth, iron, game (with age)"
             },
             "key_appellations": [
-              { "name": "Gevrey-Chambertin", "style": "Powerful, structured, masculine" },
-              { "name": "Morey-Saint-Denis", "style": "Balance of power and elegance" },
-              { "name": "Chambolle-Musigny", "style": "Elegant, perfumed, silky" },
-              { "name": "Vougeot", "style": "Variable, includes Clos de Vougeot Grand Cru" },
-              { "name": "Vosne-Romanée", "style": "Complex, velvety, legendary depth" },
-              { "name": "Nuits-Saint-Georges", "style": "Firm, earthy, structured" }
+              {
+                "name": "Gevrey-Chambertin",
+                "style": "Powerful, structured, masculine"
+              },
+              {
+                "name": "Morey-Saint-Denis",
+                "style": "Balance of power and elegance"
+              },
+              {
+                "name": "Chambolle-Musigny",
+                "style": "Elegant, perfumed, silky"
+              },
+              {
+                "name": "Vougeot",
+                "style": "Variable, includes Clos de Vougeot Grand Cru"
+              },
+              {
+                "name": "Vosne-Romanée",
+                "style": "Complex, velvety, legendary depth"
+              },
+              {
+                "name": "Nuits-Saint-Georges",
+                "style": "Firm, earthy, structured"
+              }
             ],
-            "notable_producers": ["Domaine de la Romanée-Conti", "Domaine Leroy", "Domaine Georges Roumier", "Domaine Armand Rousseau", "Domaine Dujac"],
+            "notable_producers": [
+              "Domaine de la Romanée-Conti",
+              "Domaine Leroy",
+              "Domaine Georges Roumier",
+              "Domaine Armand Rousseau",
+              "Domaine Dujac"
+            ],
             "aging_potential": "10-50+ years for top wines",
             "price_range": "$$$ to $$$$$"
           },
@@ -18202,7 +18423,11 @@
             "slug": "burgundy-cote-de-beaune",
             "importance": "major",
             "climate": "Continental, slightly warmer than Côte de Nuits",
-            "soils": ["Limestone", "Clay", "Marl"],
+            "soils": [
+              "Limestone",
+              "Clay",
+              "Marl"
+            ],
             "style_summary": "Generally softer, more approachable wines than Côte de Nuits. Red fruit emphasis with earlier drinking windows.",
             "typical_character": {
               "body": "Light to medium",
@@ -18211,13 +18436,33 @@
               "aromatics": "Strawberry, cherry, rose, earth"
             },
             "key_appellations": [
-              { "name": "Pommard", "style": "Firm, tannic, rustic power" },
-              { "name": "Volnay", "style": "Elegant, perfumed, feminine" },
-              { "name": "Beaune", "style": "Classic, balanced, accessible" },
-              { "name": "Savigny-lès-Beaune", "style": "Fresh, fruity, good value" },
-              { "name": "Corton", "style": "The only red Grand Cru in Côte de Beaune" }
+              {
+                "name": "Pommard",
+                "style": "Firm, tannic, rustic power"
+              },
+              {
+                "name": "Volnay",
+                "style": "Elegant, perfumed, feminine"
+              },
+              {
+                "name": "Beaune",
+                "style": "Classic, balanced, accessible"
+              },
+              {
+                "name": "Savigny-lès-Beaune",
+                "style": "Fresh, fruity, good value"
+              },
+              {
+                "name": "Corton",
+                "style": "The only red Grand Cru in Côte de Beaune"
+              }
             ],
-            "notable_producers": ["Domaine de Montille", "Domaine Marquis d'Angerville", "Domaine Comte Armand", "Domaine Michel Lafarge"],
+            "notable_producers": [
+              "Domaine de Montille",
+              "Domaine Marquis d'Angerville",
+              "Domaine Comte Armand",
+              "Domaine Michel Lafarge"
+            ],
             "aging_potential": "5-25 years for top wines",
             "price_range": "$$ to $$$$"
           },
@@ -18227,7 +18472,11 @@
             "slug": "champagne",
             "importance": "major",
             "climate": "Cool continental, marginal for ripening",
-            "soils": ["Chalk", "Limestone", "Clay"],
+            "soils": [
+              "Chalk",
+              "Limestone",
+              "Clay"
+            ],
             "style_summary": "Pinot Noir provides body, structure, and red fruit character to Champagne blends. Rarely made as still wine.",
             "typical_character": {
               "body": "Provides structure to sparkling blends",
@@ -18236,12 +18485,31 @@
               "aromatics": "Red apple, cherry, brioche (after aging on lees)"
             },
             "key_appellations": [
-              { "name": "Montagne de Reims", "style": "Primary Pinot Noir zone, powerful wines" },
-              { "name": "Côte des Bar (Aube)", "style": "Southern zone, riper fruit" },
-              { "name": "Vallée de la Marne", "style": "Mixed plantings with Meunier" }
+              {
+                "name": "Montagne de Reims",
+                "style": "Primary Pinot Noir zone, powerful wines"
+              },
+              {
+                "name": "Côte des Bar (Aube)",
+                "style": "Southern zone, riper fruit"
+              },
+              {
+                "name": "Vallée de la Marne",
+                "style": "Mixed plantings with Meunier"
+              }
             ],
-            "wine_styles": ["Blanc de Noirs (100% Pinot Noir)", "Rosé Champagne", "Traditional blend with Chardonnay and Meunier"],
-            "notable_producers": ["Krug", "Bollinger", "Egly-Ouriet", "Jacques Selosse", "Philipponnat"],
+            "wine_styles": [
+              "Blanc de Noirs (100% Pinot Noir)",
+              "Rosé Champagne",
+              "Traditional blend with Chardonnay and Meunier"
+            ],
+            "notable_producers": [
+              "Krug",
+              "Bollinger",
+              "Egly-Ouriet",
+              "Jacques Selosse",
+              "Philipponnat"
+            ],
             "aging_potential": "5-30+ years depending on style",
             "price_range": "$$ to $$$$$"
           },
@@ -18251,7 +18519,11 @@
             "slug": "willamette-valley",
             "importance": "major",
             "climate": "Marine-influenced, cool, wet winters, dry summers",
-            "soils": ["Volcanic (Jory)", "Marine sedimentary", "Loess"],
+            "soils": [
+              "Volcanic (Jory)",
+              "Marine sedimentary",
+              "Loess"
+            ],
             "style_summary": "Often called the closest New World equivalent to Burgundy. Bright acidity, earthy complexity, elegant structure.",
             "typical_character": {
               "body": "Light to medium",
@@ -18260,13 +18532,34 @@
               "aromatics": "Cherry, cranberry, forest floor, baking spice, cola"
             },
             "key_appellations": [
-              { "name": "Dundee Hills", "style": "Volcanic Jory soils, iron minerality" },
-              { "name": "Eola-Amity Hills", "style": "Wind-exposed, bright acidity, tension" },
-              { "name": "Chehalem Mountains", "style": "Diverse soils, varied expressions" },
-              { "name": "Ribbon Ridge", "style": "Marine sedimentary, elegant wines" },
-              { "name": "McMinnville", "style": "Warmer, riper fruit" }
+              {
+                "name": "Dundee Hills",
+                "style": "Volcanic Jory soils, iron minerality"
+              },
+              {
+                "name": "Eola-Amity Hills",
+                "style": "Wind-exposed, bright acidity, tension"
+              },
+              {
+                "name": "Chehalem Mountains",
+                "style": "Diverse soils, varied expressions"
+              },
+              {
+                "name": "Ribbon Ridge",
+                "style": "Marine sedimentary, elegant wines"
+              },
+              {
+                "name": "McMinnville",
+                "style": "Warmer, riper fruit"
+              }
             ],
-            "notable_producers": ["Domaine Drouhin Oregon", "Eyrie Vineyards", "Beaux Frères", "Bergström", "Evening Land"],
+            "notable_producers": [
+              "Domaine Drouhin Oregon",
+              "Eyrie Vineyards",
+              "Beaux Frères",
+              "Bergström",
+              "Evening Land"
+            ],
             "aging_potential": "5-20 years for top wines",
             "price_range": "$$ to $$$$"
           },
@@ -18276,7 +18569,11 @@
             "slug": "sonoma-coast",
             "importance": "major",
             "climate": "Cool, fog-influenced, Pacific maritime",
-            "soils": ["Goldridge (sandy loam)", "Volcanic", "Marine sedimentary"],
+            "soils": [
+              "Goldridge (sandy loam)",
+              "Volcanic",
+              "Marine sedimentary"
+            ],
             "style_summary": "California's answer to cool-climate Pinot Noir. More structured than Russian River, with oceanic influence.",
             "typical_character": {
               "body": "Medium",
@@ -18285,11 +18582,26 @@
               "aromatics": "Dark cherry, plum, sea salt, herbs, forest"
             },
             "key_appellations": [
-              { "name": "Fort Ross-Seaview", "style": "Extreme coast, intense, mineral" },
-              { "name": "Petaluma Gap", "style": "Wind-exposed, bright, structured" },
-              { "name": "West Sonoma Coast", "style": "True coastal, Burgundian tension" }
+              {
+                "name": "Fort Ross-Seaview",
+                "style": "Extreme coast, intense, mineral"
+              },
+              {
+                "name": "Petaluma Gap",
+                "style": "Wind-exposed, bright, structured"
+              },
+              {
+                "name": "West Sonoma Coast",
+                "style": "True coastal, Burgundian tension"
+              }
             ],
-            "notable_producers": ["Hirsch Vineyards", "Littorai", "Flowers", "Failla", "Red Car"],
+            "notable_producers": [
+              "Hirsch Vineyards",
+              "Littorai",
+              "Flowers",
+              "Failla",
+              "Red Car"
+            ],
             "aging_potential": "5-15 years",
             "price_range": "$$ to $$$$"
           },
@@ -18299,7 +18611,10 @@
             "slug": "russian-river-valley",
             "importance": "major",
             "climate": "Cool, fog-influenced, warmer than true Sonoma Coast",
-            "soils": ["Goldridge (sandy loam)", "Alluvial"],
+            "soils": [
+              "Goldridge (sandy loam)",
+              "Alluvial"
+            ],
             "style_summary": "Riper, more opulent California style while retaining freshness from fog influence.",
             "typical_character": {
               "body": "Medium to medium-full",
@@ -18308,10 +18623,22 @@
               "aromatics": "Ripe cherry, cola, baking spice, vanilla (if oaked)"
             },
             "key_appellations": [
-              { "name": "Green Valley", "style": "Coolest sub-region, more tension" },
-              { "name": "Middle Reach", "style": "Classic Russian River warmth" }
+              {
+                "name": "Green Valley",
+                "style": "Coolest sub-region, more tension"
+              },
+              {
+                "name": "Middle Reach",
+                "style": "Classic Russian River warmth"
+              }
             ],
-            "notable_producers": ["Williams Selyem", "Rochioli", "Kistler", "Merry Edwards", "Gary Farrell"],
+            "notable_producers": [
+              "Williams Selyem",
+              "Rochioli",
+              "Kistler",
+              "Merry Edwards",
+              "Gary Farrell"
+            ],
             "aging_potential": "3-12 years",
             "price_range": "$$ to $$$$"
           },
@@ -18321,7 +18648,12 @@
             "slug": "santa-barbara",
             "importance": "major",
             "climate": "Cool, transverse valleys channel Pacific air",
-            "soils": ["Diatomaceous earth", "Clay", "Sandy loam", "Limestone"],
+            "soils": [
+              "Diatomaceous earth",
+              "Clay",
+              "Sandy loam",
+              "Limestone"
+            ],
             "style_summary": "Unique transverse mountain ranges create cool conditions. Distinctive, often powerful Pinot Noirs.",
             "typical_character": {
               "body": "Medium to full",
@@ -18330,11 +18662,26 @@
               "aromatics": "Black cherry, pomegranate, sage, lavender, iron"
             },
             "key_appellations": [
-              { "name": "Sta. Rita Hills", "style": "Coolest, most structured, mineral" },
-              { "name": "Santa Maria Valley", "style": "Classic, balanced, long-lived" },
-              { "name": "Santa Ynez Valley", "style": "Warmer, riper style" }
+              {
+                "name": "Sta. Rita Hills",
+                "style": "Coolest, most structured, mineral"
+              },
+              {
+                "name": "Santa Maria Valley",
+                "style": "Classic, balanced, long-lived"
+              },
+              {
+                "name": "Santa Ynez Valley",
+                "style": "Warmer, riper style"
+              }
             ],
-            "notable_producers": ["Sandhi", "Domaine de la Côte", "Au Bon Climat", "Brewer-Clifton", "Sea Smoke"],
+            "notable_producers": [
+              "Sandhi",
+              "Domaine de la Côte",
+              "Au Bon Climat",
+              "Brewer-Clifton",
+              "Sea Smoke"
+            ],
             "aging_potential": "5-15 years",
             "price_range": "$$ to $$$$"
           },
@@ -18344,7 +18691,11 @@
             "slug": "central-otago",
             "importance": "major",
             "climate": "Continental, high altitude, dramatic diurnal shifts",
-            "soils": ["Schist", "Loess", "Gravel"],
+            "soils": [
+              "Schist",
+              "Loess",
+              "Gravel"
+            ],
             "style_summary": "The world's southernmost wine region. Intense, fruit-forward Pinot with firm structure from cool nights.",
             "typical_character": {
               "body": "Medium to medium-full",
@@ -18353,12 +18704,30 @@
               "aromatics": "Dark cherry, plum, thyme, schist minerality"
             },
             "key_appellations": [
-              { "name": "Bannockburn", "style": "Powerful, concentrated, warm" },
-              { "name": "Gibbston", "style": "Highest, coolest, most elegant" },
-              { "name": "Bendigo", "style": "Rich, ripe, generous" },
-              { "name": "Wanaka", "style": "Emerging, crisp, mineral" }
+              {
+                "name": "Bannockburn",
+                "style": "Powerful, concentrated, warm"
+              },
+              {
+                "name": "Gibbston",
+                "style": "Highest, coolest, most elegant"
+              },
+              {
+                "name": "Bendigo",
+                "style": "Rich, ripe, generous"
+              },
+              {
+                "name": "Wanaka",
+                "style": "Emerging, crisp, mineral"
+              }
             ],
-            "notable_producers": ["Felton Road", "Burn Cottage", "Rippon", "Mt. Difficulty", "Amisfield"],
+            "notable_producers": [
+              "Felton Road",
+              "Burn Cottage",
+              "Rippon",
+              "Mt. Difficulty",
+              "Amisfield"
+            ],
             "aging_potential": "5-15 years",
             "price_range": "$$ to $$$"
           },
@@ -18368,7 +18737,10 @@
             "slug": "martinborough",
             "importance": "major",
             "climate": "Cool, dry, wind-influenced",
-            "soils": ["Gravel terraces", "Silt over gravel"],
+            "soils": [
+              "Gravel terraces",
+              "Silt over gravel"
+            ],
             "style_summary": "New Zealand's original Pinot Noir region. Elegant, Burgundian in style with distinctive herbal notes.",
             "typical_character": {
               "body": "Light to medium",
@@ -18377,10 +18749,22 @@
               "aromatics": "Cherry, dried herbs, earth, leather"
             },
             "key_appellations": [
-              { "name": "Te Muna Road", "style": "Stony terraces, mineral precision" },
-              { "name": "Martinborough Terrace", "style": "Classic, original plantings" }
+              {
+                "name": "Te Muna Road",
+                "style": "Stony terraces, mineral precision"
+              },
+              {
+                "name": "Martinborough Terrace",
+                "style": "Classic, original plantings"
+              }
             ],
-            "notable_producers": ["Ata Rangi", "Dry River", "Escarpment", "Palliser", "Craggy Range (Te Muna)"],
+            "notable_producers": [
+              "Ata Rangi",
+              "Dry River",
+              "Escarpment",
+              "Palliser",
+              "Craggy Range (Te Muna)"
+            ],
             "aging_potential": "5-15 years",
             "price_range": "$$ to $$$"
           },
@@ -18390,7 +18774,11 @@
             "slug": "baden",
             "importance": "major",
             "climate": "Germany's warmest region, continental",
-            "soils": ["Limestone", "Volcanic", "Loess"],
+            "soils": [
+              "Limestone",
+              "Volcanic",
+              "Loess"
+            ],
             "style_summary": "Germany's most Burgundian expressions. Increasingly serious wines rivaling French benchmarks.",
             "typical_character": {
               "body": "Medium",
@@ -18399,11 +18787,25 @@
               "aromatics": "Cherry, raspberry, smoke, earth"
             },
             "key_appellations": [
-              { "name": "Kaiserstuhl", "style": "Volcanic soils, warmest, ripest" },
-              { "name": "Tuniberg", "style": "Limestone, elegant" },
-              { "name": "Markgräflerland", "style": "Southern warmth, approachable" }
+              {
+                "name": "Kaiserstuhl",
+                "style": "Volcanic soils, warmest, ripest"
+              },
+              {
+                "name": "Tuniberg",
+                "style": "Limestone, elegant"
+              },
+              {
+                "name": "Markgräflerland",
+                "style": "Southern warmth, approachable"
+              }
             ],
-            "notable_producers": ["Bernhard Huber", "Ziereisen", "Dr. Heger", "Franz Keller"],
+            "notable_producers": [
+              "Bernhard Huber",
+              "Ziereisen",
+              "Dr. Heger",
+              "Franz Keller"
+            ],
             "aging_potential": "5-15 years for top wines",
             "price_range": "$$ to $$$"
           },
@@ -18413,7 +18815,11 @@
             "slug": "ahr",
             "importance": "moderate",
             "climate": "Cool, northern, sheltered valley",
-            "soils": ["Slate", "Volcanic", "Loess"],
+            "soils": [
+              "Slate",
+              "Volcanic",
+              "Loess"
+            ],
             "style_summary": "Tiny region producing elegant, delicate Pinot Noirs from steep slate slopes. Germany's red wine heartland.",
             "typical_character": {
               "body": "Light to medium",
@@ -18422,10 +18828,21 @@
               "aromatics": "Red cherry, smoke, mineral, violet"
             },
             "key_appellations": [
-              { "name": "Walporzheim", "style": "Steep slate slopes" },
-              { "name": "Dernau", "style": "Classic Ahr elegance" }
+              {
+                "name": "Walporzheim",
+                "style": "Steep slate slopes"
+              },
+              {
+                "name": "Dernau",
+                "style": "Classic Ahr elegance"
+              }
             ],
-            "notable_producers": ["Meyer-Näkel", "Deutzerhof", "Jean Stodden", "Kreuzberg"],
+            "notable_producers": [
+              "Meyer-Näkel",
+              "Deutzerhof",
+              "Jean Stodden",
+              "Kreuzberg"
+            ],
             "aging_potential": "5-12 years",
             "price_range": "$$ to $$$"
           },
@@ -18435,7 +18852,11 @@
             "slug": "tasmania",
             "importance": "major",
             "climate": "Cool maritime, Australia's coldest wine region",
-            "soils": ["Dolerite", "Sandstone", "Basalt"],
+            "soils": [
+              "Dolerite",
+              "Sandstone",
+              "Basalt"
+            ],
             "style_summary": "Australia's most Burgundian Pinot Noirs. Elegant, aromatic, with bright acidity and fine tannins.",
             "typical_character": {
               "body": "Light to medium",
@@ -18444,12 +18865,30 @@
               "aromatics": "Red cherry, strawberry, florals, herbs"
             },
             "key_appellations": [
-              { "name": "Coal River Valley", "style": "Dry, warm(ish), structured" },
-              { "name": "Derwent Valley", "style": "Elegant, aromatic" },
-              { "name": "Tamar Valley", "style": "Maritime, fresh, bright" },
-              { "name": "Huon Valley", "style": "Coolest, most delicate" }
+              {
+                "name": "Coal River Valley",
+                "style": "Dry, warm(ish), structured"
+              },
+              {
+                "name": "Derwent Valley",
+                "style": "Elegant, aromatic"
+              },
+              {
+                "name": "Tamar Valley",
+                "style": "Maritime, fresh, bright"
+              },
+              {
+                "name": "Huon Valley",
+                "style": "Coolest, most delicate"
+              }
             ],
-            "notable_producers": ["Tolpuddle", "Pooley", "Stefano Lubiana", "Dawson & James", "Home Hill"],
+            "notable_producers": [
+              "Tolpuddle",
+              "Pooley",
+              "Stefano Lubiana",
+              "Dawson & James",
+              "Home Hill"
+            ],
             "aging_potential": "5-15 years",
             "price_range": "$$ to $$$"
           },
@@ -18459,7 +18898,10 @@
             "slug": "yarra-valley",
             "importance": "major",
             "climate": "Cool to moderate continental",
-            "soils": ["Grey and red volcanic", "Clay loam"],
+            "soils": [
+              "Grey and red volcanic",
+              "Clay loam"
+            ],
             "style_summary": "Victoria's premium Pinot region. Range of styles from elegant Upper Yarra to richer Lower Yarra.",
             "typical_character": {
               "body": "Light to medium",
@@ -18468,10 +18910,22 @@
               "aromatics": "Cherry, plum, spice, eucalyptus hints"
             },
             "key_appellations": [
-              { "name": "Upper Yarra", "style": "Cooler, more elegant, Burgundian" },
-              { "name": "Lower Yarra", "style": "Warmer, riper, fuller" }
+              {
+                "name": "Upper Yarra",
+                "style": "Cooler, more elegant, Burgundian"
+              },
+              {
+                "name": "Lower Yarra",
+                "style": "Warmer, riper, fuller"
+              }
             ],
-            "notable_producers": ["Yarra Yering", "Mount Mary", "Coldstream Hills", "Giant Steps", "Mac Forbes"],
+            "notable_producers": [
+              "Yarra Yering",
+              "Mount Mary",
+              "Coldstream Hills",
+              "Giant Steps",
+              "Mac Forbes"
+            ],
             "aging_potential": "5-12 years",
             "price_range": "$$ to $$$"
           },
@@ -18481,7 +18935,11 @@
             "slug": "mornington-peninsula",
             "importance": "moderate",
             "climate": "Cool maritime, wind-influenced",
-            "soils": ["Volcanic", "Clay", "Sandy"],
+            "soils": [
+              "Volcanic",
+              "Clay",
+              "Sandy"
+            ],
             "style_summary": "Maritime-influenced Pinot with bright aromatics and saline freshness from proximity to the bay.",
             "typical_character": {
               "body": "Light to medium",
@@ -18490,7 +18948,13 @@
               "aromatics": "Cherry, herbs, saline, florals"
             },
             "key_appellations": [],
-            "notable_producers": ["Paringa Estate", "Ten Minutes by Tractor", "Moorooduc", "Kooyong", "Port Phillip Estate"],
+            "notable_producers": [
+              "Paringa Estate",
+              "Ten Minutes by Tractor",
+              "Moorooduc",
+              "Kooyong",
+              "Port Phillip Estate"
+            ],
             "aging_potential": "3-10 years",
             "price_range": "$$ to $$$"
           },
@@ -18500,7 +18964,11 @@
             "slug": "sancerre",
             "importance": "moderate",
             "climate": "Cool continental",
-            "soils": ["Limestone", "Clay-limestone", "Flint"],
+            "soils": [
+              "Limestone",
+              "Clay-limestone",
+              "Flint"
+            ],
             "style_summary": "Famous for Sauvignon Blanc but produces excellent light, elegant Pinot Noir rosé and red.",
             "typical_character": {
               "body": "Light",
@@ -18509,10 +18977,21 @@
               "aromatics": "Red cherry, raspberry, white pepper, minerals"
             },
             "key_appellations": [
-              { "name": "Sancerre Rouge", "style": "Light, fresh, mineral red" },
-              { "name": "Sancerre Rosé", "style": "Crisp, pale, refreshing" }
+              {
+                "name": "Sancerre Rouge",
+                "style": "Light, fresh, mineral red"
+              },
+              {
+                "name": "Sancerre Rosé",
+                "style": "Crisp, pale, refreshing"
+              }
             ],
-            "notable_producers": ["Vincent Pinard", "François Cotat", "Domaine Vacheron", "Henri Bourgeois"],
+            "notable_producers": [
+              "Vincent Pinard",
+              "François Cotat",
+              "Domaine Vacheron",
+              "Henri Bourgeois"
+            ],
             "aging_potential": "2-8 years",
             "price_range": "$$ to $$$"
           },
@@ -18522,7 +19001,11 @@
             "slug": "alto-adige",
             "importance": "moderate",
             "climate": "Cool alpine with warm sunny days",
-            "soils": ["Porphyry", "Limestone", "Gravel"],
+            "soils": [
+              "Porphyry",
+              "Limestone",
+              "Gravel"
+            ],
             "style_summary": "Italian Pinot Nero at its best. Bright, elegant wines with alpine freshness and aromatic lift.",
             "typical_character": {
               "body": "Light to medium",
@@ -18531,10 +19014,22 @@
               "aromatics": "Cherry, raspberry, alpine herbs, spice"
             },
             "key_appellations": [
-              { "name": "Mazzon", "style": "Premier cru-quality site, complex" },
-              { "name": "Glen", "style": "High altitude, elegant" }
+              {
+                "name": "Mazzon",
+                "style": "Premier cru-quality site, complex"
+              },
+              {
+                "name": "Glen",
+                "style": "High altitude, elegant"
+              }
             ],
-            "notable_producers": ["Franz Haas", "Elena Walch", "J. Hofstätter", "Gottardi", "Castelfeder"],
+            "notable_producers": [
+              "Franz Haas",
+              "Elena Walch",
+              "J. Hofstätter",
+              "Gottardi",
+              "Castelfeder"
+            ],
             "aging_potential": "3-10 years",
             "price_range": "$$ to $$$"
           }
@@ -19220,7 +19715,7 @@
     },
     {
       "id": "grape_prosecco",
-      "name": "PROSECCO",
+      "name": "GLERA",
       "berry_color": "white",
       "is_essential": true,
       "principal_synonyms": "Briška Glera",
@@ -23320,7 +23815,7 @@
     },
     {
       "id": "grape_tribidrag",
-      "name": "TRIBIDRAG",
+      "name": "ZINFANDEL",
       "berry_color": "black",
       "is_essential": true,
       "principal_synonyms": "Crljenak Kaštelanski",

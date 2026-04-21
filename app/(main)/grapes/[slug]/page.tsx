@@ -456,15 +456,18 @@ export default async function GrapeDetailPage({ params }: PageProps) {
               <div className="mb-6">
                 <h3 className="font-serif text-xl italic text-[#1C1C1C] mb-3">Mutations</h3>
                 <div className="space-y-4">
-                  {level3.genetic_lineage.mutations.map((mutation, idx) => (
+                  {level3.genetic_lineage.mutations.map((mutation, idx) => {
+                    // Handle both 'name' and 'variety' fields (data inconsistency)
+                    const mutationName = mutation.name || (mutation as any).variety;
+                    return (
                     <div key={idx} className="pb-4 border-b border-[#1C1C1C]/10 last:border-b-0 last:pb-0">
                       <div className="flex flex-wrap items-baseline gap-2 mb-1">
                         {mutation.slug ? (
                           <Link href={`/grapes/${mutation.slug}`} className="text-[#722F37] hover:underline font-medium text-lg">
-                            {mutation.name}
+                            {mutationName}
                           </Link>
                         ) : (
-                          <span className="font-medium text-[#1C1C1C] text-lg">{mutation.name}</span>
+                          <span className="font-medium text-[#1C1C1C] text-lg">{mutationName}</span>
                         )}
                         <span className="text-xs px-2 py-0.5 bg-purple-100 text-purple-800 rounded">
                           {mutation.type} mutation
@@ -489,7 +492,8 @@ export default async function GrapeDetailPage({ params }: PageProps) {
                         <p className="text-gray-500 text-xs mt-1">{mutation.discovery}</p>
                       )}
                     </div>
-                  ))}
+                  );
+                  })}
                 </div>
               </div>
             )}
