@@ -1,0 +1,444 @@
+{
+  "title": "Wine Bottle Guide",
+  "subtitle": "Shapes, sizes, and why they matter",
+  "sections": {
+    "shapes": {
+      "title": "Regional Bottle Shapes",
+      "description": "Wine bottle shapes evolved regionally, each designed for practical reasons that became tradition. The shape often hints at what's inside.",
+      "bottles": [
+        {
+          "id": "bordeaux",
+          "name": "Bordeaux",
+          "aka": "Claret bottle",
+          "shape": "High shoulders, straight sides, cylindrical",
+          "shoulder_type": "High, pronounced",
+          "color": "Dark green (red), clear (dry white), green (sweet)",
+          "origin": "Bordeaux, France",
+          "wines": ["Cabernet Sauvignon", "Merlot", "Cabernet Franc", "Sauvignon Blanc", "Semillon"],
+          "regions_using": ["Bordeaux", "Napa Valley", "Chile", "Australia", "South Africa"],
+          "practical_reason": "High shoulders catch sediment when pouring aged wines",
+          "capacity_ml": 750
+        },
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "aka": "Bourgogne bottle",
+          "shape": "Sloping shoulders, wider body, gentle curves",
+          "shoulder_type": "Sloped, gentle",
+          "color": "Dark green (red), pale green or clear (white)",
+          "origin": "Burgundy, France",
+          "wines": ["Pinot Noir", "Chardonnay", "Gamay"],
+          "regions_using": ["Burgundy", "Oregon", "New Zealand", "Rhone Valley"],
+          "practical_reason": "Pinot Noir produces less sediment; sloped shoulders aid stacking",
+          "capacity_ml": 750
+        },
+        {
+          "id": "alsace",
+          "name": "Alsace / Mosel",
+          "aka": "Flute bottle",
+          "shape": "Tall, slender, minimal shoulders",
+          "shoulder_type": "Almost none",
+          "color": "Green (Alsace/Mosel), brown (Rhine)",
+          "origin": "Alsace, France / Germany",
+          "wines": ["Riesling", "Gewurztraminer", "Pinot Gris", "Sylvaner"],
+          "regions_using": ["Alsace", "Mosel", "Rhine", "Austria"],
+          "practical_reason": "Designed for river transport; tall shape fit more bottles in boats",
+          "capacity_ml": 750
+        },
+        {
+          "id": "champagne",
+          "name": "Champagne",
+          "aka": "Sparkling wine bottle",
+          "shape": "Heavy, thick glass, deep punt, sloping shoulders",
+          "shoulder_type": "Sloped, reinforced",
+          "color": "Dark green",
+          "origin": "Champagne, France",
+          "wines": ["Champagne", "Cremant", "Cava", "Franciacorta", "Sparkling wines"],
+          "regions_using": ["Champagne", "Worldwide for sparkling"],
+          "practical_reason": "Thick glass withstands 6 atmospheres of pressure; deep punt adds strength",
+          "capacity_ml": 750,
+          "special_features": ["Thicker glass (900g vs 400g)", "Deep punt", "Reinforced lip for cork cage"]
+        },
+        {
+          "id": "rhone",
+          "name": "Rhone",
+          "aka": "Cotes du Rhone bottle",
+          "shape": "Similar to Burgundy but with embossed coat of arms",
+          "shoulder_type": "Sloped",
+          "color": "Dark green",
+          "origin": "Rhone Valley, France",
+          "wines": ["Syrah", "Grenache", "Mourvedre", "Viognier"],
+          "regions_using": ["Rhone Valley", "Chateauneuf-du-Pape", "Australia (Barossa)"],
+          "practical_reason": "Embossed papal keys or coat of arms indicate regional authenticity",
+          "capacity_ml": 750,
+          "special_features": ["Often embossed with regional symbols"]
+        },
+        {
+          "id": "fortified",
+          "name": "Port / Sherry",
+          "aka": "Fortified wine bottle",
+          "shape": "Bulbous neck (Port) or straight (Sherry), pronounced shoulders",
+          "shoulder_type": "High (Port), moderate (Sherry)",
+          "color": "Dark brown or black",
+          "origin": "Portugal / Spain",
+          "wines": ["Port", "Sherry", "Madeira", "Marsala"],
+          "regions_using": ["Douro Valley", "Jerez", "Madeira", "Sicily"],
+          "practical_reason": "Dark glass protects from light; bulbous neck catches heavy sediment",
+          "capacity_ml": 750
+        },
+        {
+          "id": "provence",
+          "name": "Provence Rose",
+          "aka": "Skittle bottle, Bowling pin",
+          "shape": "Curved, amphora-like, narrow waist",
+          "shoulder_type": "Curved, flowing",
+          "color": "Clear to showcase rose color",
+          "origin": "Provence, France",
+          "wines": ["Provence Rose"],
+          "regions_using": ["Provence"],
+          "practical_reason": "Clear glass displays the pale salmon color; distinctive shape aids branding",
+          "capacity_ml": 750
+        },
+        {
+          "id": "bocksbeutel",
+          "name": "Bocksbeutel",
+          "aka": "Flagon",
+          "shape": "Flattened ellipsoid, flask-like",
+          "shoulder_type": "None (rounded)",
+          "color": "Green",
+          "origin": "Franconia, Germany",
+          "wines": ["Franconian wines", "Silvaner"],
+          "regions_using": ["Franconia", "Some Portuguese wines"],
+          "practical_reason": "Protected designation; distinctive shape prevents counterfeiting",
+          "capacity_ml": 750
+        }
+      ]
+    },
+    "sizes": {
+      "title": "Bottle Sizes",
+      "description": "Larger formats age more gracefully. Smaller bottles age faster. The relationship between wine volume and oxygen exposure through the cork creates different aging trajectories.",
+      "intro_note": "Named after biblical kings and figures, large format bottles are prized for aging and celebration.",
+      "sizes": [
+        {
+          "name": "Piccolo",
+          "aka": "Split, Pony",
+          "ml": 187,
+          "liters": 0.187,
+          "standard_bottles": 0.25,
+          "glasses": 1,
+          "common_use": "Airlines, single servings",
+          "aging_impact": "Not suitable for aging"
+        },
+        {
+          "name": "Demi",
+          "aka": "Half bottle",
+          "ml": 375,
+          "liters": 0.375,
+          "standard_bottles": 0.5,
+          "glasses": 2,
+          "common_use": "Dessert wines, restaurants",
+          "aging_impact": "Ages faster than standard"
+        },
+        {
+          "name": "Standard",
+          "aka": "Bottle",
+          "ml": 750,
+          "liters": 0.75,
+          "standard_bottles": 1,
+          "glasses": 5,
+          "common_use": "Standard retail",
+          "aging_impact": "Baseline aging rate"
+        },
+        {
+          "name": "Magnum",
+          "aka": null,
+          "ml": 1500,
+          "liters": 1.5,
+          "standard_bottles": 2,
+          "glasses": 10,
+          "common_use": "Collectors, restaurants, celebrations",
+          "aging_impact": "Ideal for aging; slower, more graceful development"
+        },
+        {
+          "name": "Double Magnum",
+          "aka": "Jeroboam (still wine)",
+          "ml": 3000,
+          "liters": 3,
+          "standard_bottles": 4,
+          "glasses": 20,
+          "common_use": "Collectors, special occasions",
+          "aging_impact": "Excellent aging potential"
+        },
+        {
+          "name": "Jeroboam",
+          "aka": "Champagne only",
+          "ml": 3000,
+          "liters": 3,
+          "standard_bottles": 4,
+          "glasses": 20,
+          "common_use": "Champagne celebrations",
+          "aging_impact": "Excellent aging potential",
+          "note": "Same size as Double Magnum but term used for Champagne"
+        },
+        {
+          "name": "Rehoboam",
+          "aka": null,
+          "ml": 4500,
+          "liters": 4.5,
+          "standard_bottles": 6,
+          "glasses": 30,
+          "common_use": "Rare, collectors",
+          "aging_impact": "Superior aging",
+          "named_after": "King of Judah, son of Solomon"
+        },
+        {
+          "name": "Imperial",
+          "aka": "Methuselah (Champagne)",
+          "ml": 6000,
+          "liters": 6,
+          "standard_bottles": 8,
+          "glasses": 40,
+          "common_use": "Very rare, auction",
+          "aging_impact": "Exceptional aging potential",
+          "named_after": "Oldest person in the Bible (969 years)"
+        },
+        {
+          "name": "Salmanazar",
+          "aka": null,
+          "ml": 9000,
+          "liters": 9,
+          "standard_bottles": 12,
+          "glasses": 60,
+          "common_use": "Extremely rare",
+          "aging_impact": "Museum-quality aging",
+          "named_after": "Assyrian king"
+        },
+        {
+          "name": "Balthazar",
+          "aka": null,
+          "ml": 12000,
+          "liters": 12,
+          "standard_bottles": 16,
+          "glasses": 80,
+          "common_use": "Display, special events",
+          "aging_impact": "Theoretical - rarely opened",
+          "named_after": "One of the Three Wise Men"
+        },
+        {
+          "name": "Nebuchadnezzar",
+          "aka": null,
+          "ml": 15000,
+          "liters": 15,
+          "standard_bottles": 20,
+          "glasses": 100,
+          "common_use": "Display, record-setting",
+          "aging_impact": "Theoretical - rarely opened",
+          "named_after": "King of Babylon"
+        },
+        {
+          "name": "Melchior",
+          "aka": "Solomon",
+          "ml": 18000,
+          "liters": 18,
+          "standard_bottles": 24,
+          "glasses": 120,
+          "common_use": "Extremely rare, promotional",
+          "aging_impact": "Unknown - almost never produced",
+          "named_after": "One of the Three Wise Men"
+        }
+      ],
+      "aging_explanation": {
+        "title": "Why Size Affects Aging",
+        "points": [
+          "All bottles have roughly the same size cork",
+          "Larger bottles have less oxygen exposure per volume of wine",
+          "Slower oxidation means more gradual, complex development",
+          "Magnums are considered ideal: practical size with aging benefits",
+          "Very large formats are often filled from standard bottles, affecting consistency"
+        ]
+      }
+    },
+    "science": {
+      "title": "Why Bottles Matter",
+      "description": "Beyond tradition, bottle design serves practical purposes that affect how wine ages and tastes.",
+      "factors": [
+        {
+          "factor": "Glass Color",
+          "impact": "Light Protection",
+          "explanation": "Dark glass blocks UV rays that can cause 'lightstrike' - a fault that gives wine a wet cardboard or cabbage smell. White wines in clear glass are more vulnerable.",
+          "detail": "Brown glass blocks 90% of UV; green blocks 50%; clear blocks almost none"
+        },
+        {
+          "factor": "Shoulder Shape",
+          "impact": "Sediment Management",
+          "explanation": "High Bordeaux shoulders catch sediment when pouring. Sloped Burgundy shoulders don't need this since Pinot Noir produces less sediment.",
+          "detail": "Aged Bordeaux benefits most from high-shoulder design"
+        },
+        {
+          "factor": "Punt (Bottom Indentation)",
+          "impact": "Structural Strength",
+          "explanation": "The indent in the bottom strengthens the bottle, especially important for sparkling wines under pressure. Also aids pouring grip and sediment collection.",
+          "detail": "Champagne bottles have deep punts; still wine punts are often shallow or absent"
+        },
+        {
+          "factor": "Glass Weight",
+          "impact": "Pressure Resistance",
+          "explanation": "Champagne bottles weigh 900g vs 400g for still wine. The thick glass contains 6 atmospheres of pressure - three times a car tire.",
+          "detail": "Lighter bottles are becoming common for environmental reasons in still wines"
+        },
+        {
+          "factor": "Bottle Height",
+          "impact": "Storage & Transport",
+          "explanation": "Standard heights allow efficient case packing and cellar storage. The Alsace flute was designed for river transport efficiency.",
+          "detail": "Most wine racks are designed for Bordeaux-height bottles"
+        }
+      ],
+      "lightstrike_note": {
+        "title": "Lightstrike",
+        "description": "UV light triggers a chemical reaction with riboflavin and amino acids in wine, creating sulfur compounds. The result smells of wet cardboard, cooked cabbage, or burnt rubber. White wines and Champagne are most vulnerable. Store wine in darkness."
+      }
+    },
+    "aging": {
+      "title": "Aging & Oxidation",
+      "description": "Wine ages through slow, controlled oxygen exposure. The bottle, cork, and storage conditions determine whether a wine develops complexity or falls apart.",
+      "oxygen_exchange": {
+        "title": "How Wine Breathes",
+        "description": "Cork allows roughly 1mg of oxygen per year to enter the bottle. This micro-oxygenation drives the slow chemical reactions that transform young wine into something more complex.",
+        "process": [
+          {
+            "stage": "Young Wine (0-2 years)",
+            "what_happens": "Primary fruit flavors dominate. Tannins are grippy and separate from the fruit. Oxygen begins softening harsh edges.",
+            "character": "Fresh, fruity, sometimes aggressive"
+          },
+          {
+            "stage": "Development (3-10 years)",
+            "what_happens": "Tannins polymerize and soften. Primary fruit evolves into secondary flavors. Oxygen integrates components.",
+            "character": "Harmonious, complex, integrated"
+          },
+          {
+            "stage": "Maturity (10-25 years)",
+            "what_happens": "Tertiary aromas emerge: earth, leather, mushroom, dried fruit. Color fades. Structure becomes silky.",
+            "character": "Ethereal, nuanced, delicate"
+          },
+          {
+            "stage": "Decline",
+            "what_happens": "Fruit fades entirely. Oxidation overtakes the wine. Structure collapses.",
+            "character": "Thin, tired, oxidized"
+          }
+        ]
+      },
+      "bottle_size_impact": {
+        "title": "Size & Aging Speed",
+        "description": "All corks allow similar oxygen ingress regardless of bottle size. Larger bottles have more wine per unit of oxygen, slowing development.",
+        "comparison": [
+          { "size": "Half (375ml)", "aging_rate": "1.5x faster", "note": "Ages roughly 50% faster than standard" },
+          { "size": "Standard (750ml)", "aging_rate": "Baseline", "note": "The reference point for aging curves" },
+          { "size": "Magnum (1.5L)", "aging_rate": "0.7x slower", "note": "Considered ideal for long aging" },
+          { "size": "Double Magnum (3L)", "aging_rate": "0.5x slower", "note": "Half the aging speed of standard" },
+          { "size": "Imperial (6L)", "aging_rate": "0.3x slower", "note": "Dramatically extended aging window" }
+        ]
+      },
+      "closure_types": {
+        "title": "Closure & Oxygen",
+        "description": "Different closures allow different amounts of oxygen transmission.",
+        "closures": [
+          {
+            "type": "Natural Cork",
+            "oxygen_transmission": "1.0-1.5 mg/year",
+            "best_for": "Wines intended for aging",
+            "risk": "TCA contamination (cork taint) in 2-5% of bottles",
+            "lifespan": "20-30 years before replacement recommended"
+          },
+          {
+            "type": "Technical Cork",
+            "oxygen_transmission": "0.8-1.2 mg/year",
+            "best_for": "Medium-term aging (5-15 years)",
+            "risk": "Lower TCA risk than natural cork",
+            "lifespan": "15-20 years"
+          },
+          {
+            "type": "Screwcap (Stelvin)",
+            "oxygen_transmission": "0.0-0.5 mg/year",
+            "best_for": "Fresh whites, early-drinking reds",
+            "risk": "Possible reduction in very long aging",
+            "lifespan": "Indefinite seal integrity"
+          },
+          {
+            "type": "Glass Stopper (Vino-Lok)",
+            "oxygen_transmission": "Near zero",
+            "best_for": "Aromatic whites, premium wines",
+            "risk": "Minimal; expensive",
+            "lifespan": "Indefinite"
+          },
+          {
+            "type": "Synthetic Cork",
+            "oxygen_transmission": "Variable (1-4 mg/year)",
+            "best_for": "Early consumption wines only",
+            "risk": "Inconsistent oxygen transmission; can dry out",
+            "lifespan": "2-3 years maximum"
+          }
+        ]
+      },
+      "oxidation_vs_reduction": {
+        "title": "Oxidation vs Reduction",
+        "description": "Wine can suffer from too much oxygen (oxidation) or too little (reduction). Both are faults when extreme.",
+        "oxidation": {
+          "title": "Oxidation",
+          "cause": "Excessive oxygen exposure from poor storage, dried cork, or too long open",
+          "signs": ["Browning color (brick red, amber white)", "Sherry-like, nutty aromas", "Flat, tired flavors", "Loss of fruit", "Vinegar notes in extreme cases"],
+          "prevention": "Store on side, maintain humidity, proper cellar temperature"
+        },
+        "reduction": {
+          "title": "Reduction",
+          "cause": "Too little oxygen, often from screwcaps or wines made with minimal sulfur handling",
+          "signs": ["Struck match or sulfur smell", "Rubber or burnt rubber notes", "Garlic or onion aromas", "Stinky, closed character"],
+          "fix": "Often blows off with decanting and air exposure"
+        }
+      },
+      "storage_factors": {
+        "title": "Storage Conditions",
+        "description": "Proper storage is essential for aging. Poor conditions accelerate decline regardless of bottle quality.",
+        "conditions": [
+          {
+            "factor": "Temperature",
+            "ideal": "55F (13C)",
+            "range": "50-59F (10-15C)",
+            "impact": "Every 10F above ideal doubles aging speed. Heat damage is irreversible."
+          },
+          {
+            "factor": "Humidity",
+            "ideal": "70%",
+            "range": "60-80%",
+            "impact": "Low humidity dries corks, allowing oxygen ingress. High humidity damages labels but not wine."
+          },
+          {
+            "factor": "Light",
+            "ideal": "Complete darkness",
+            "range": "Minimal UV exposure",
+            "impact": "UV causes lightstrike. Even fluorescent lights can damage wine over time."
+          },
+          {
+            "factor": "Vibration",
+            "ideal": "None",
+            "range": "Minimal",
+            "impact": "Vibration disturbs sediment and may accelerate chemical reactions."
+          },
+          {
+            "factor": "Position",
+            "ideal": "Horizontal",
+            "range": "Slight angle acceptable",
+            "impact": "Keeps cork moist. Screwcaps can store upright."
+          }
+        ]
+      },
+      "premature_oxidation": {
+        "title": "Premature Oxidation (Premox)",
+        "description": "A controversial issue, particularly in white Burgundy from the late 1990s-2000s. Wines oxidize years before expected.",
+        "causes": ["Cork quality issues", "Lower sulfur levels at bottling", "Climate change stress on grapes", "Barrel aging choices"],
+        "affected_wines": "White Burgundy most famously, but seen in other regions",
+        "signs": ["Deep gold color in young wine", "Nutty, sherry-like nose", "Loss of freshness and acidity"],
+        "note": "Premox remains debated. Some believe cork suppliers, others blame winemaking choices. Many top producers have since increased sulfur levels and improved cork selection."
+      }
+    }
+  }
+}

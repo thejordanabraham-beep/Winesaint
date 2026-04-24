@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { getAllCountries, getChildRegionCount } from '@/lib/payload';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 3600;
 
 export default async function WineRegionGuidePage() {
   const countries = await getAllCountries();

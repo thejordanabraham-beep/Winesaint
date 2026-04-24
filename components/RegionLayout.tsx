@@ -1,18 +1,24 @@
-import fs from 'fs';
-import path from 'path';
+import React, { cache } from 'react';
 import { remark } from 'remark';
 import html from 'remark-html';
 import Link from 'next/link';
 import { groupByClassification, type ClassificationType } from '@/lib/guide-config';
 
+// Cache markdown processing - same input returns cached result
+const processMarkdown = cache(async (markdown: string): Promise<string> => {
+  const result = await remark().use(html).process(markdown);
+  return result.toString();
+});
+
 interface RegionLayoutProps {
   title: string;
+  fullSlug: string; // The actual fullSlug from the database
   level: 'country' | 'region' | 'sub-region' | 'village' | 'vineyard';
   parentRegion?: string;
   classification?: string; // Added for vineyard-level classification
   sidebarLinks?: ReadonlyArray<{ name: string; slug: string; type?: string; classification?: ClassificationType }>;
   sidebarTitle?: string; // Optional custom sidebar title
-  contentFile: string;
+  markdownContent?: string; // Markdown content from Payload
   vineyardData?: {
     classification?: string;
     acreage?: number;
@@ -27,64 +33,68 @@ interface RegionLayoutProps {
 
 export default async function RegionLayout({
   title,
+  fullSlug,
   level,
   parentRegion,
   classification,
   sidebarLinks,
   sidebarTitle,
-  contentFile,
+  markdownContent,
   vineyardData
 }: RegionLayoutProps) {
-  // Read and parse markdown file
-  const guidesDir = path.join(process.cwd(), 'guides');
-  const filePath = path.join(guidesDir, contentFile);
-
+  // Parse markdown content from Payload (cached)
   let contentHtml = '';
-  let fileExists = false;
+  let hasContent = false;
 
-  try {
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
-    fileExists = true;
-
-    const processedContent = await remark()
-      .use(html)
-      .process(fileContent);
-
-    contentHtml = processedContent.toString();
-  } catch (error) {
+  if (markdownContent) {
+    hasContent = true;
+    contentHtml = await processMarkdown(markdownContent);
+  } else {
     contentHtml = '<p class="text-gray-600">Guide content coming soon...</p>';
   }
 
-  // Generate nested path for links
+  // Use the actual fullSlug from the database for generating child links
   const generateNestedPath = (): string => {
-    if (level === 'country') {
-      return title.toLowerCase().replace(/\s+/g, '-');
-    } else if (parentRegion) {
-      // parentRegion is already a slug path like "france/burgundy", use it directly
-      const currentSlug = title
-        .toLowerCase()
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '') // Remove accents
-        .replace(/[^a-z0-9]+/g, '-') // Replace non-alphanumeric with hyphens
-        .replace(/^-+|-+$/g, ''); // Remove leading/trailing hyphens
-      return `${parentRegion}/${currentSlug}`;
-    }
-    return '';
+    return fullSlug;
   };
 
-  // Generate breadcrumb path
-  const generateBreadcrumb = () => {
-    const parts = [];
+  // Format slug segment for display (capitalize, handle hyphens)
+  const formatSegment = (segment: string): string => {
+    return segment
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+  };
 
-    if (parentRegion) {
-      parts.push(
-        <Link key={parentRegion} href={`/regions/${parentRegion}`} className="hover:underline">
-          {parentRegion}
+  // Generate breadcrumb path with separate links for each level
+  const generateBreadcrumb = () => {
+    if (!parentRegion) return [];
+
+    const segments = parentRegion.split('/');
+    const breadcrumbParts: React.ReactNode[] = [];
+
+    segments.forEach((segment, index) => {
+      // Build cumulative path up to this segment
+      const cumulativePath = segments.slice(0, index + 1).join('/');
+
+      if (index > 0) {
+        breadcrumbParts.push(
+          <span key={`sep-${index}`} className="text-gray-400">/</span>
+        );
+      }
+
+      breadcrumbParts.push(
+        <Link
+          key={cumulativePath}
+          href={`/regions/${cumulativePath}`}
+          className="hover:text-[#722F37] transition-colors"
+        >
+          {formatSegment(segment)}
         </Link>
       );
-    }
+    });
 
-    return parts;
+    return breadcrumbParts;
   };
 
   return (
@@ -335,6 +345,24 @@ export default async function RegionLayout({
                             </nav>
                           </section>
                         )}
+                        {grouped.uncategorized.length > 0 && (
+                          <section>
+                            <h4 className="font-bold text-sm uppercase tracking-wide text-gray-600 mb-3">
+                              Vineyards ({grouped.uncategorized.length})
+                            </h4>
+                            <nav className="space-y-1">
+                              {grouped.uncategorized.map((link) => (
+                                <Link
+                                  key={link.slug}
+                                  href={`/regions/${generateNestedPath()}/${link.slug}`}
+                                  className="block px-3 py-2 rounded text-sm hover:bg-gray-100 transition-colors hover:text-gray-700"
+                                >
+                                  {link.name}
+                                </Link>
+                              ))}
+                            </nav>
+                          </section>
+                        )}
                       </div>
                     );
                   })()}
@@ -417,7 +445,7 @@ export default async function RegionLayout({
             />
 
             {/* Footer note */}
-            {fileExists && (
+            {hasContent && (
               <div className="mt-16 pt-8 border-t border-gray-200">
                 <p className="text-sm text-gray-500 italic">
                   This comprehensive guide is part of the WineSaint Wine Region Guide collection.

@@ -2894,6 +2894,7 @@ export function groupByClassification(
   grossesGewachs: Array<{ name: string; slug: string }>;
   singleVineyard: Array<{ name: string; slug: string }>;
   other: Array<{ name: string; slug: string }>;
+  uncategorized: Array<{ name: string; slug: string }>;
 } {
   return {
     grandCru: links.filter(l => l.classification === 'grand-cru').map(({ name, slug }) => ({ name, slug })),
@@ -2926,6 +2927,7 @@ export function groupByClassification(
         'grosses-gewachs',
         'single-vineyard'
       ].includes(l.classification)
-    ).map(({ name, slug }) => ({ name, slug }))
+    ).map(({ name, slug }) => ({ name, slug })),
+    uncategorized: links.filter(l => !l.classification).map(({ name, slug }) => ({ name, slug }))
   };
 }

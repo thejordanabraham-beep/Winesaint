@@ -1,12 +1,16 @@
 import { buildConfig } from 'payload'
 import { postgresAdapter } from '@payloadcms/db-postgres'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
+import { vercelBlobStorage } from '@payloadcms/storage-vercel-blob'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import type { CollectionConfig } from 'payload'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
+
+// Use Vercel Blob in production, local storage in development
+const isProduction = process.env.NODE_ENV === 'production' && process.env.BLOB_READ_WRITE_TOKEN
 
 // ============ COLLECTIONS ============
 
@@ -79,9 +83,19 @@ const Regions: CollectionConfig = {
         { label: 'Grosse Lage', value: 'grosse_lage' },
       ],
     },
-    { name: 'description', type: 'textarea' },
+    { name: 'description', type: 'textarea', maxLength: 500000 },
     { name: 'content', type: 'richText' },
     { name: 'sidebarTitle', type: 'text' },
+    {
+      name: 'sidebarLinks',
+      type: 'array',
+      admin: { description: 'Explicit list of links to show in sidebar (overrides child query)' },
+      fields: [
+        { name: 'name', type: 'text', required: true },
+        { name: 'slug', type: 'text', required: true },
+        { name: 'classification', type: 'text' },
+      ],
+    },
     { name: 'image', type: 'upload', relationTo: 'media' },
     { name: 'acreage', type: 'number' },
     { name: 'aspect', type: 'text' },
@@ -165,12 +179,103 @@ const Grapes: CollectionConfig = {
         { label: 'Pink', value: 'pink' },
       ],
     },
+    { name: 'isEssential', type: 'checkbox', defaultValue: false },
+    { name: 'berryColor', type: 'text' },
     { name: 'description', type: 'textarea' },
-    { name: 'content', type: 'richText' },
+    { name: 'content', type: 'textarea' },
+    {
+      name: 'aliases',
+      type: 'array',
+      fields: [{ name: 'alias', type: 'text' }],
+    },
+    {
+      name: 'flavorProfile',
+      type: 'array',
+      fields: [{ name: 'flavor', type: 'text' }],
+    },
+    {
+      name: 'majorRegions',
+      type: 'array',
+      fields: [{ name: 'region', type: 'text' }],
+    },
     { name: 'primaryRegions', type: 'relationship', relationTo: 'regions', hasMany: true },
     { name: 'history', type: 'richText' },
     { name: 'viticulture', type: 'richText' },
     { name: 'image', type: 'upload', relationTo: 'media' },
+  ],
+}
+
+const Glossary: CollectionConfig = {
+  slug: 'glossary',
+  admin: { useAsTitle: 'term' },
+  access: { read: () => true },
+  fields: [
+    { name: 'term', type: 'text', required: true },
+    { name: 'slug', type: 'text', required: true, unique: true },
+    { name: 'definition', type: 'textarea', required: true },
+    { name: 'category', type: 'text' },
+    { name: 'pronunciation', type: 'text' },
+    { name: 'etymology', type: 'text' },
+    {
+      name: 'relatedTerms',
+      type: 'array',
+      fields: [{ name: 'term', type: 'text' }],
+    },
+  ],
+}
+
+const OakResources: CollectionConfig = {
+  slug: 'oak-resources',
+  admin: { useAsTitle: 'name' },
+  access: { read: () => true },
+  fields: [
+    { name: 'name', type: 'text', required: true },
+    { name: 'slug', type: 'text', required: true, unique: true },
+    {
+      name: 'resourceType',
+      type: 'select',
+      required: true,
+      options: [
+        { label: 'Forest', value: 'forest' },
+        { label: 'Species', value: 'species' },
+        { label: 'Cooperage', value: 'cooperage' },
+        { label: 'Toast Level', value: 'toast' },
+        { label: 'Barrel Format', value: 'format' },
+        { label: 'Tradition', value: 'tradition' },
+      ],
+    },
+    { name: 'description', type: 'textarea' },
+    { name: 'content', type: 'textarea' },
+    { name: 'country', type: 'text' },
+    { name: 'region', type: 'text' },
+    { name: 'characteristics', type: 'textarea' },
+  ],
+}
+
+const RootstockResources: CollectionConfig = {
+  slug: 'rootstock-resources',
+  admin: { useAsTitle: 'name' },
+  access: { read: () => true },
+  fields: [
+    { name: 'name', type: 'text', required: true },
+    { name: 'slug', type: 'text', required: true, unique: true },
+    {
+      name: 'resourceType',
+      type: 'select',
+      required: true,
+      options: [
+        { label: 'Variety', value: 'variety' },
+        { label: 'Species', value: 'species' },
+        { label: 'Region', value: 'region' },
+      ],
+    },
+    { name: 'description', type: 'textarea' },
+    { name: 'content', type: 'textarea' },
+    { name: 'parentage', type: 'text' },
+    { name: 'characteristics', type: 'textarea' },
+    { name: 'soilAdaptation', type: 'text' },
+    { name: 'droughtTolerance', type: 'text' },
+    { name: 'vigor', type: 'text' },
   ],
 }
 
@@ -317,6 +422,9 @@ export default buildConfig({
     Producers,
     Grapes,
     Articles,
+    Glossary,
+    OakResources,
+    RootstockResources,
   ],
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || 'your-secret-key-change-in-production',
@@ -327,5 +435,17 @@ export default buildConfig({
     pool: {
       connectionString: process.env.DATABASE_URL || '',
     },
+    push: true,
+  }),
+  // Cloud storage for production deployments (Vercel Blob)
+  ...(isProduction && {
+    plugins: [
+      vercelBlobStorage({
+        collections: {
+          media: true, // Enable for media collection
+        },
+        token: process.env.BLOB_READ_WRITE_TOKEN || '',
+      }),
+    ],
   }),
 })

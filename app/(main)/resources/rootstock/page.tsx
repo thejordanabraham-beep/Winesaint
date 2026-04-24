@@ -1,8 +1,7 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import rootstockData from '@/app/data/rootstock.json';
 
 type SectionId = 'history' | 'species' | 'rootstocks' | 'selection' | 'regions' | 'modern';
 
@@ -14,6 +13,8 @@ const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'regions', label: 'Regional Preferences', icon: '🗺️' },
   { id: 'modern', label: 'Modern Developments', icon: '🔬' },
 ];
+
+const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000';
 
 function VigorMeter({ rating }: { rating: number }) {
   return (
@@ -48,7 +49,7 @@ function ResistanceScale({ rating, label }: { rating: number; label: string }) {
   );
 }
 
-function ParentageIndicator({ parentage }: { parentage: { type: string; female?: string; male?: string; species?: string } }) {
+function ParentageIndicator({ parentage }: { parentage: { type: string; species?: string } }) {
   const getSpeciesColor = (species: string) => {
     if (species.includes('riparia')) return 'bg-blue-100 text-blue-800 border-blue-300';
     if (species.includes('rupestris')) return 'bg-amber-100 text-amber-800 border-amber-300';
@@ -66,16 +67,49 @@ function ParentageIndicator({ parentage }: { parentage: { type: string; female?:
   }
 
   return (
-    <div className="flex items-center gap-1 flex-wrap">
-      <span className={`text-xs px-2 py-0.5 rounded border ${getSpeciesColor(parentage.type)}`}>
-        {parentage.type}
-      </span>
-    </div>
+    <span className={`text-xs px-2 py-0.5 rounded border ${getSpeciesColor(parentage.type)}`}>
+      {parentage.type}
+    </span>
   );
 }
 
 export default function RootstockGuidePage() {
   const [activeSection, setActiveSection] = useState<SectionId>('history');
+  const [rootstockData, setRootstockData] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const res = await fetch(`${API_URL}/api/resource-guides/rootstock`);
+        if (res.ok) {
+          const data = await res.json();
+          setRootstockData(data.content);
+        }
+      } catch (error) {
+        console.error('Error fetching rootstock data:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchData();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="bg-[#FAF7F2] min-h-screen flex items-center justify-center">
+        <p className="text-gray-500">Loading...</p>
+      </div>
+    );
+  }
+
+  if (!rootstockData) {
+    return (
+      <div className="bg-[#FAF7F2] min-h-screen flex items-center justify-center">
+        <p className="text-gray-500">Failed to load rootstock guide data.</p>
+      </div>
+    );
+  }
 
   return (
     <div className="bg-[#FAF7F2] min-h-screen">
@@ -131,7 +165,7 @@ export default function RootstockGuidePage() {
                 <div className="relative">
                   <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-[#722F37]" />
                   <div className="space-y-6">
-                    {rootstockData.sections.history.crisis.timeline.map((event, idx) => (
+                    {rootstockData.sections.history.crisis.timeline.map((event: any, idx: number) => (
                       <div key={idx} className="relative pl-12">
                         <div className="absolute left-2 w-5 h-5 bg-[#722F37] rounded-full border-4 border-white" />
                         <div className="bg-[#FAF7F2] rounded-lg p-4">
@@ -165,7 +199,7 @@ export default function RootstockGuidePage() {
               <div className="mb-8">
                 <h3 className="font-semibold text-[#1C1C1C] mb-4">Pioneers of the Solution</h3>
                 <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                  {rootstockData.sections.history.solution.pioneers.map((pioneer) => (
+                  {rootstockData.sections.history.solution.pioneers.map((pioneer: any) => (
                     <div key={pioneer.name} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10">
                       <h4 className="font-serif text-lg italic text-[#722F37]">{pioneer.name}</h4>
                       <p className="text-xs text-gray-500 mb-2">{pioneer.origin}</p>
@@ -173,40 +207,6 @@ export default function RootstockGuidePage() {
                     </div>
                   ))}
                 </div>
-              </div>
-
-              {/* Grafting Discovery */}
-              <div className="bg-amber-50 rounded-lg p-5 border border-amber-200 mb-8">
-                <h3 className="font-semibold text-[#1C1C1C] mb-3">The Grafting Solution</h3>
-                <p className="text-gray-700">{rootstockData.sections.history.solution.grafting_discovery}</p>
-              </div>
-            </div>
-
-            {/* Own-Rooted Regions */}
-            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">Phylloxera-Free Regions</h2>
-              <p className="text-gray-600 mb-6">{rootstockData.sections.history.own_rooted_today.description}</p>
-
-              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                {rootstockData.sections.history.own_rooted_today.phylloxera_free_regions.map((region) => (
-                  <div key={region.region} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10">
-                    <div className="flex items-start justify-between mb-2">
-                      <h4 className="font-serif text-lg italic text-[#722F37]">{region.region}</h4>
-                      <span className="text-sm font-bold text-green-700">{region.percentage_ungrafted}</span>
-                    </div>
-                    <p className="text-sm text-gray-600 mb-2">{region.reason}</p>
-                    <p className="text-xs text-gray-500 italic">{region.notes}</p>
-                  </div>
-                ))}
-              </div>
-
-              {/* Francs de Pied */}
-              <div className="mt-6 bg-purple-50 rounded-lg p-4 border border-purple-200">
-                <h4 className="font-semibold text-purple-800 mb-2">Francs de Pied Movement</h4>
-                <p className="text-sm text-gray-700">{rootstockData.sections.history.own_rooted_today.francs_de_pied_movement.description}</p>
-                <p className="text-sm text-gray-600 mt-2"><span className="font-medium">Proponents:</span> {rootstockData.sections.history.own_rooted_today.francs_de_pied_movement.proponents}</p>
-                <p className="text-sm text-gray-600"><span className="font-medium">Argument:</span> {rootstockData.sections.history.own_rooted_today.francs_de_pied_movement.argument}</p>
-                <p className="text-sm text-red-600"><span className="font-medium">Risk:</span> {rootstockData.sections.history.own_rooted_today.francs_de_pied_movement.risk}</p>
               </div>
             </div>
           </div>
@@ -220,7 +220,7 @@ export default function RootstockGuidePage() {
               <p className="text-gray-600 mb-6">{rootstockData.sections.species.description}</p>
 
               <div className="grid gap-6 lg:grid-cols-3">
-                {rootstockData.sections.species.items.map((species) => (
+                {rootstockData.sections.species.items.map((species: any) => (
                   <Link key={species.id} href={`/resources/rootstock/species/${species.id}`} className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
                     <h3 className="font-serif text-xl italic text-[#722F37] group-hover:underline">{species.name}</h3>
                     <p className="text-sm text-gray-500 mb-3">{species.common_name}</p>
@@ -243,23 +243,9 @@ export default function RootstockGuidePage() {
                       </div>
 
                       <div>
-                        <span className="text-xs text-gray-500">Limestone Tolerance:</span>
-                        <p className="font-medium">{species.limestone_tolerance}</p>
-                      </div>
-
-                      <div>
-                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Key Traits:</p>
-                        <ul className="text-xs text-gray-600 space-y-1">
-                          {species.characteristics.slice(0, 3).map((c, i) => (
-                            <li key={i}>• {c}</li>
-                          ))}
-                        </ul>
-                      </div>
-
-                      <div>
                         <p className="text-xs font-medium text-[#1C1C1C] mb-1">Famous Hybrids:</p>
                         <div className="flex flex-wrap gap-1">
-                          {species.famous_hybrids.slice(0, 4).map((h, i) => (
+                          {species.famous_hybrids.slice(0, 4).map((h: string, i: number) => (
                             <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
                               {h}
                             </span>
@@ -282,7 +268,7 @@ export default function RootstockGuidePage() {
               <p className="text-gray-600 mb-6">{rootstockData.sections.rootstocks.description}</p>
 
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                {rootstockData.sections.rootstocks.varieties.map((rootstock) => (
+                {rootstockData.sections.rootstocks.varieties.map((rootstock: any) => (
                   <Link
                     key={rootstock.id}
                     href={`/resources/rootstock/varieties/${rootstock.id}`}
@@ -315,19 +301,13 @@ export default function RootstockGuidePage() {
                     <div className="mt-3 pt-3 border-t border-[#1C1C1C]/10">
                       <p className="text-xs text-gray-500 mb-1">Best for:</p>
                       <div className="flex flex-wrap gap-1">
-                        {rootstock.best_for.slice(0, 2).map((use, i) => (
+                        {rootstock.best_for.slice(0, 2).map((use: string, i: number) => (
                           <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/10">
                             {use}
                           </span>
                         ))}
                       </div>
                     </div>
-
-                    {rootstock.id === 'axr1' && (
-                      <div className="mt-3 text-xs text-red-600 font-medium">
-                        Historical failure - do not plant
-                      </div>
-                    )}
                   </Link>
                 ))}
               </div>
@@ -342,15 +322,14 @@ export default function RootstockGuidePage() {
               <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{rootstockData.sections.selection.title}</h2>
               <p className="text-gray-600 mb-6">{rootstockData.sections.selection.description}</p>
 
-              {/* Factor Rankings */}
-              {rootstockData.sections.selection.factors.map((factor) => (
+              {rootstockData.sections.selection.factors.map((factor: any) => (
                 <div key={factor.factor} className="mb-8 last:mb-0">
                   <h3 className="font-semibold text-[#1C1C1C] mb-2">{factor.factor}</h3>
                   <p className="text-sm text-gray-600 mb-4">{factor.description}</p>
 
                   <div className="bg-[#FAF7F2] rounded-lg p-4">
                     <div className="space-y-2">
-                      {factor.rankings.slice(0, 8).map((rank: { rootstock: string; rating: number | string; notes?: string; active_lime?: string }) => (
+                      {factor.rankings.slice(0, 8).map((rank: any) => (
                         <div key={rank.rootstock} className="flex items-center gap-3">
                           <span className="w-28 text-sm font-medium">{rank.rootstock}</span>
                           <div className="flex-1 max-w-xs">
@@ -360,7 +339,7 @@ export default function RootstockGuidePage() {
                                   <div
                                     key={i}
                                     className={`w-6 h-3 rounded-sm ${
-                                      i <= (rank.rating as number)
+                                      i <= rank.rating
                                         ? factor.factor.includes('Vigor')
                                           ? i <= 2 ? 'bg-green-500' : i <= 3 ? 'bg-yellow-500' : 'bg-red-500'
                                           : 'bg-[#722F37]'
@@ -379,9 +358,6 @@ export default function RootstockGuidePage() {
                               </span>
                             )}
                           </div>
-                          {rank.active_lime && (
-                            <span className="text-xs text-gray-500">{rank.active_lime}</span>
-                          )}
                           {rank.notes && (
                             <span className="text-xs text-gray-500">{rank.notes}</span>
                           )}
@@ -391,39 +367,6 @@ export default function RootstockGuidePage() {
                   </div>
                 </div>
               ))}
-            </div>
-
-            {/* Quick Reference */}
-            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Quick Reference</h2>
-              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                {Object.entries(rootstockData.sections.selection.quick_reference).map(([key, values]) => (
-                  <div key={key} className="bg-[#FAF7F2] rounded-lg p-4">
-                    <h4 className="font-medium text-[#722F37] mb-2 capitalize">{key.replace(/_/g, ' ')}</h4>
-                    <div className="flex flex-wrap gap-1">
-                      {(values as string[]).map((v, i) => (
-                        <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/10">
-                          {v}
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            {/* Decision Matrix */}
-            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Site-Specific Recommendations</h2>
-              <p className="text-gray-600 mb-4">{rootstockData.sections.selection.decision_matrix.description}</p>
-              <div className="space-y-3">
-                {Object.entries(rootstockData.sections.selection.decision_matrix.recommendations).map(([site, rootstocks]) => (
-                  <div key={site} className="flex items-center gap-4 border-b border-[#1C1C1C]/10 pb-2 last:border-0">
-                    <span className="w-40 font-medium text-sm">{site}</span>
-                    <span className="text-[#722F37]">{rootstocks}</span>
-                  </div>
-                ))}
-              </div>
             </div>
           </div>
         )}
@@ -436,7 +379,7 @@ export default function RootstockGuidePage() {
               <p className="text-gray-600 mb-6">{rootstockData.sections.regions.description}</p>
 
               <div className="grid gap-6 md:grid-cols-2">
-                {rootstockData.sections.regions.regions.map((region) => (
+                {rootstockData.sections.regions.regions.map((region: any) => (
                   <Link
                     key={region.id}
                     href={`/resources/rootstock/regions/${region.id}`}
@@ -456,7 +399,7 @@ export default function RootstockGuidePage() {
                     <div className="mb-3">
                       <p className="text-xs font-medium text-[#1C1C1C] mb-2">Primary Rootstocks:</p>
                       <div className="space-y-1">
-                        {region.primary_rootstocks.map((rs, i) => (
+                        {region.primary_rootstocks.map((rs: any, i: number) => (
                           <div key={i} className="flex items-center justify-between text-sm">
                             <span className="font-medium">{rs.name}</span>
                             <span className="text-xs text-gray-500">{rs.percentage}</span>
@@ -468,7 +411,7 @@ export default function RootstockGuidePage() {
                     {region.unique_factors && (
                       <div className="pt-3 border-t border-[#1C1C1C]/10">
                         <ul className="text-xs text-gray-600 space-y-1">
-                          {region.unique_factors.slice(0, 2).map((f, i) => (
+                          {region.unique_factors.slice(0, 2).map((f: string, i: number) => (
                             <li key={i}>• {f}</li>
                           ))}
                         </ul>
@@ -488,25 +431,6 @@ export default function RootstockGuidePage() {
               <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{rootstockData.sections.modern.title}</h2>
               <p className="text-gray-600 mb-6">{rootstockData.sections.modern.description}</p>
 
-              {/* Breeding Programs */}
-              <div className="mb-8">
-                <h3 className="font-semibold text-[#1C1C1C] mb-4">Research Programs</h3>
-                <div className="grid gap-4 md:grid-cols-2">
-                  {rootstockData.sections.modern.breeding_programs.map((program) => (
-                    <div key={program.institution} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10">
-                      <h4 className="font-serif text-lg italic text-[#722F37]">{program.institution}</h4>
-                      <p className="text-xs text-gray-500 mb-2">{program.country}</p>
-                      <p className="text-sm text-gray-600 mb-2">
-                        <span className="font-medium">Focus:</span> {program.focus}
-                      </p>
-                      <p className="text-sm text-gray-600">
-                        <span className="font-medium">Methods:</span> {program.methods.join(', ')}
-                      </p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
               {/* Climate Change */}
               <div className="mb-8">
                 <h3 className="font-semibold text-[#1C1C1C] mb-4">Climate Change Adaptation</h3>
@@ -514,7 +438,7 @@ export default function RootstockGuidePage() {
                   <div className="bg-orange-50 rounded-lg p-4 border border-orange-200">
                     <h4 className="font-medium text-orange-800 mb-3">Challenges</h4>
                     <ul className="text-sm text-gray-700 space-y-2">
-                      {rootstockData.sections.modern.climate_change.challenges.map((c, i) => (
+                      {rootstockData.sections.modern.climate_change.challenges.map((c: string, i: number) => (
                         <li key={i}>• {c}</li>
                       ))}
                     </ul>
@@ -522,43 +446,11 @@ export default function RootstockGuidePage() {
                   <div className="bg-green-50 rounded-lg p-4 border border-green-200">
                     <h4 className="font-medium text-green-800 mb-3">Rootstock Responses</h4>
                     <ul className="text-sm text-gray-700 space-y-2">
-                      {rootstockData.sections.modern.climate_change.rootstock_responses.map((r, i) => (
+                      {rootstockData.sections.modern.climate_change.rootstock_responses.map((r: string, i: number) => (
                         <li key={i}>• {r}</li>
                       ))}
                     </ul>
                   </div>
-                </div>
-
-                <div className="mt-4 bg-[#FAF7F2] rounded-lg p-4">
-                  <h4 className="font-medium text-[#1C1C1C] mb-3">Regional Shifts</h4>
-                  <ul className="text-sm text-gray-700 space-y-2">
-                    {rootstockData.sections.modern.climate_change.regional_shifts.map((shift, i) => (
-                      <li key={i}>• {shift}</li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
-
-              {/* New Rootstocks */}
-              <div className="mb-8">
-                <h3 className="font-semibold text-[#1C1C1C] mb-4">Emerging Rootstocks</h3>
-                <div className="grid gap-4 md:grid-cols-2">
-                  {rootstockData.sections.modern.new_rootstocks.map((rs) => (
-                    <div key={rs.id} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10">
-                      <div className="flex items-center justify-between mb-2">
-                        <h4 className="font-serif text-lg italic text-[#722F37]">{rs.name}</h4>
-                        <span className={`text-xs px-2 py-0.5 rounded ${
-                          rs.status === 'Established' ? 'bg-green-100 text-green-800' :
-                          rs.status === 'Evaluation/Early adoption' ? 'bg-yellow-100 text-yellow-800' :
-                          'bg-blue-100 text-blue-800'
-                        }`}>
-                          {rs.status}
-                        </span>
-                      </div>
-                      <p className="text-sm text-gray-600 mb-2">{rs.key_trait}</p>
-                      <p className="text-xs text-gray-500">{rs.adoption}</p>
-                    </div>
-                  ))}
                 </div>
               </div>
 
@@ -566,7 +458,7 @@ export default function RootstockGuidePage() {
               <div>
                 <h3 className="font-semibold text-[#1C1C1C] mb-4">Future Directions</h3>
                 <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                  {rootstockData.sections.modern.future_directions.map((dir) => (
+                  {rootstockData.sections.modern.future_directions.map((dir: any) => (
                     <div key={dir.area} className="bg-blue-50 rounded-lg p-4 border border-blue-200">
                       <h4 className="font-medium text-blue-800 mb-2">{dir.area}</h4>
                       <p className="text-sm text-gray-700">{dir.description}</p>

@@ -53,10 +53,38 @@ export const Grapes: CollectionConfig = {
     },
     {
       name: 'content',
-      type: 'richText',
+      type: 'textarea',
       admin: {
-        description: 'Full grape guide content',
+        description: 'Full grape guide content (markdown)',
       },
+    },
+    {
+      name: 'isEssential',
+      type: 'checkbox',
+      defaultValue: false,
+      admin: {
+        description: 'Featured/essential grape variety',
+      },
+    },
+    {
+      name: 'berryColor',
+      type: 'text',
+      admin: {
+        description: 'Original berry color from source data',
+      },
+    },
+    {
+      name: 'majorRegions',
+      type: 'array',
+      admin: {
+        description: 'Major wine regions for this grape',
+      },
+      fields: [
+        {
+          name: 'region',
+          type: 'text',
+        },
+      ],
     },
     {
       name: 'primaryRegions',

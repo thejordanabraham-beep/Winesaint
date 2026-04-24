@@ -137,6 +137,9 @@ async function migrateRegions() {
     const slug = getSlug(fullSlug)
 
     try {
+      // Read markdown content
+      const markdownContent = await readMarkdownContent(config.contentFile)
+
       // Check if region already exists
       const existing = await payload.find({
         collection: 'regions',
@@ -145,15 +148,32 @@ async function migrateRegions() {
       })
 
       if (existing.docs.length > 0) {
-        slugToId[fullSlug] = existing.docs[0].id as string
-        console.log(`  Skipping (exists): ${config.title}`)
+        // Update existing region with full content
+        const existingId = existing.docs[0].id as string
+        slugToId[fullSlug] = existingId
+
+        await payload.update({
+          collection: 'regions',
+          id: existingId,
+          data: {
+            name: config.title,
+            slug: slug,
+            level: normalizeLevel(config.level),
+            country: getCountry(fullSlug),
+            classification: normalizeClassification(config.classification),
+            description: markdownContent, // Full markdown content
+            sidebarTitle: config.sidebarTitle,
+          },
+        })
+
+        created++ // Count updates as well
+        if (created % 50 === 0) {
+          console.log(`  Processed ${created}/${totalRegions} regions...`)
+        }
         continue
       }
 
-      // Read markdown content
-      const markdownContent = await readMarkdownContent(config.contentFile)
-
-      // Create region
+      // Create new region
       const region = await payload.create({
         collection: 'regions',
         data: {
@@ -163,10 +183,8 @@ async function migrateRegions() {
           level: normalizeLevel(config.level),
           country: getCountry(fullSlug),
           classification: normalizeClassification(config.classification),
-          description: markdownContent?.substring(0, 500), // First 500 chars as description
+          description: markdownContent, // Full markdown content
           sidebarTitle: config.sidebarTitle,
-          // We'll handle rich text content separately - for now store as plain text
-          // content will need to be converted to Lexical format
         },
       })
 

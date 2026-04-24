@@ -1,0 +1,750 @@
+# Region Hierarchy from commit 9b6a7bb
+## Last working version before single catch-all route refactor
+## Total regions: 2439
+
+---
+
+## ARGENTINA
+- argentina/
+  - catamarca
+  - la-rioja
+  - mendoza/
+    - achaval-ferrer
+    - catena-zapata
+    - vina-cobos
+    - zuccardi
+  - patagonia
+  - salta
+  - san-juan
+
+## AUSTRALIA
+- australia/
+  - adelaide-hills
+  - barossa-valley/
+    - henschke-hill-of-grace
+    - penfolds-grange
+    - torbreck-runrig
+  - beechworth
+  - clare-valley
+  - coonawarra
+  - eden-valley
+  - geelong
+  - gippsland
+  - great-southern
+  - heathcote
+  - hilltops
+  - hunter-valley
+  - margaret-river/
+    - cullen
+    - leeuwin-estate
+    - vasse-felix
+  - mclaren-vale
+  - mornington-peninsula
+  - mudgee
+  - orange
+  - pemberton
+  - tasmania
+  - yarra-valley/
+    - mount-mary
+    - yeringberg
+
+## AUSTRIA
+- austria/
+  - burgenland
+  - carnuntum/
+    - aubuhl
+    - barnreiser
+    - haidacker
+    - kirchweingarten
+    - rosenberg
+    - schuttenberg
+    - spitzerberg
+    - steinacker
+    - stuhlwerker
+  - eisenberg
+  - kamptal/
+    - berg-vogelsang
+    - dechant
+    - gaisberg
+    - grub
+    - heiligenstein
+    - kaferberg
+    - kittmannsberg
+    - kogelberg
+    - lamm
+    - loiserberg
+    - offenberg
+    - renner
+    - schenkenbichl
+    - seeberg
+    - spiegel
+    - steinhaus
+    - steinmassl
+    - thal
+    - wechselberg-spiegel
+  - kremstal/
+    - danzern
+    - ehrenfels
+    - gaisberg
+    - gebling
+    - goldberg
+    - gottschelle
+    - grillenparz
+    - hintere-point
+    - hinters-kirchl
+    - hochacker
+    - lindberg
+    - mosburgerin
+    - oberfeld
+    - pellingen
+    - pfaffenberg
+    - pfenningberg
+    - sandgrube
+    - schreck
+    - silberbichl
+    - spiegel
+    - steinbuhel
+    - steiner-hund
+    - steiner-kogl
+    - steingraben
+    - thurnerberg
+    - vordernberg
+    - wachtberg
+    - weinzierlberg
+    - wieland
+  - leithaberg
+  - mittelburgenland
+  - neusiedlersee
+  - steiermark
+  - thermenregion/
+    - brindlbach
+    - docterin
+    - eichkogel
+    - goldeck
+    - haideberg
+    - hochberg
+    - igeln
+    - johannesberg
+    - kreuzer
+    - mandelhohe
+    - pfarrgarten
+    - rosengartl
+    - rot-kreuz
+    - roter-berg
+    - sonnenberg
+    - spiegel
+    - steinfelsen
+    - steinriegel
+    - tatschenberg
+    - tumpfel
+    - wiegen
+  - traisental/
+    - alte-setzen
+    - berg
+    - hochschopf
+    - pletzengraben
+    - rothenbart
+    - zwirch
+  - wachau/
+    - 1000-eimerberg
+    - achleiten
+    - atzberg
+    - axberg
+    - axpoint
+    - bruck
+    - burgberg
+    - domane-wachau
+    - durrenberg
+    - eichengarten
+    - frauengarten
+    - fx-pichler
+    - harzenleiten
+    - hinterhaus
+    - hochrain
+    - hohereck
+    - hollerin
+    - kammstein
+    - kellerberg
+    - kirchweg
+    - kirnberg
+    - klaus
+    - knoll
+    - kollmitz
+    - kollmutz
+    - kreuzberg
+    - kulm
+    - liebenberg
+    - loibenberg
+    - loibenschenke
+    - maurachberg
+    - muhlpoint
+    - obere-steigen
+    - offenberg
+    - pfaffenberg
+    - pichlpoint
+    - point
+    - prager
+    - rauhenberg
+    - ritzling
+    - schlossberg
+    - schmeidberg
+    - schon
+    - singerriedel
+    - spitzerberg
+    - steinbachberg
+    - steinriegl
+    - steinterrassen
+    - tausendeimerberg
+    - terrassen
+    - unterloiben
+    - vorder-atzberg
+    - vorderseiber
+    - weitenberg
+    - zwerithaler
+  - wagram/
+    - achleiten
+    - altenberg
+    - baiern
+    - berg
+    - brenner
+    - dechant
+    - edelgrund
+    - ehrenfels
+    - engabrunn
+    - fels
+    - gaisberg
+    - gmirk
+    - goldberg
+    - gottschelle
+    - hasel
+    - hermannsberg
+    - hochacker
+    - hoher-rain
+    - kirchtal
+    - kollektion
+    - kremser-berg
+    - lindberg
+    - loiserberg
+    - mordthal
+    - neuberg
+    - pellingen
+    - pfaffenberg
+    - point
+    - rosenberg
+    - sandgrube
+    - scheiben
+    - schlossberg
+    - silberbichl
+    - spiegel
+    - stein-engabrunn
+    - steinberg
+    - steingraben
+    - stossing
+    - vordernberg
+    - wachtberg
+  - weinviertel
+  - wien/
+    - falkenberg
+    - gollin
+    - himmel
+    - langteufel
+    - preussen
+    - rosengartl
+    - satzen
+    - schenkenberg
+    - seidenhaus
+    - steinberg
+    - ulm
+    - wiesthalen
+
+## CHILE
+- chile/
+  - bio-bio-valley
+  - cachapoal-valley
+  - casablanca-valley
+  - colchagua-valley
+  - curico-valley
+  - elqui-valley
+  - itata-valley
+  - leyda-valley
+  - limari-valley
+  - maipo-valley/
+    - almaviva
+    - concha-y-toro-don-melchor
+    - santa-rita-casa-real
+  - maule-valley
+  - san-antonio-valley
+
+## FRANCE
+- france/
+  - alsace/
+    - bas-rhin/
+      - altenberg-de-bergbieten
+      - altenberg-de-wolxheim
+      - bruderthal
+      - engelberg
+      - frankstein
+      - kastelberg
+      - kirchberg-de-barr
+      - moenchberg
+      - muenchberg
+      - praelatenberg
+      - winzenberg
+      - zotzenberg
+    - haut-rhin/
+      - altenberg-de-bergheim
+      - brand
+      - eichberg
+      - florimont
+      - froehn
+      - furstentum
+      - geisberg
+      - gloeckelberg
+      - goldert
+      - hatschbourg
+      - hengst
+      - kaefferkopf
+      - kanzlerberg
+      - kessler
+      - kirchberg-de-ribeauville
+      - kitterle
+      - mambourg
+      - mandelberg
+      - marckrain
+      - ollwiller
+      - osterberg
+      - pfersigberg
+      - pfingstberg
+      - rangen
+      - rosacker
+      - saering
+      - schlossberg
+      - schoenenbourg
+      - sommerberg
+      - sonnenglanz
+      - spiegel
+      - sporen
+      - steinert
+      - steingrubler
+      - steinklotz
+      - vorbourg
+      - wiebelsberg
+      - wineck-schlossberg
+      - zinnkoepfle
+  - beaujolais/
+    - brouilly
+    - chenas
+    - chiroubles
+    - cote-de-brouilly
+    - fleurie
+    - julienas
+    - morgon
+    - moulin-a-vent
+    - regnie
+    - saint-amour
+  - bordeaux/
+    - castillon-cotes-de-bordeaux
+    - entre-deux-mers
+    - francs-cotes-de-bordeaux
+    - haut-medoc
+    - lalande-de-pomerol
+    - left-bank/
+      - barsac
+      - graves
+      - margaux
+      - medoc
+      - pauillac
+      - pessac-leognan
+      - saint-estephe
+      - saint-julien
+      - sauternes
+    - listrac-medoc
+    - moulis-en-medoc
+    - right-bank/
+      - canon-fronsac
+      - cotes-de-blaye
+      - cotes-de-bourg
+      - fronsac
+      - pomerol
+      - saint-emilion
+  - burgundy/
+    - chablis/
+      - beauroy
+      - berdiot
+      - blanchot
+      - bougros
+      - butteaux
+      - cote-de-jouan
+      - cote-de-savant
+      - cote-de-vaubarousse
+      - foret
+      - fourchaume
+      - grenouilles
+      - les-beauregards
+      - les-clos
+      - les-fourneaux
+      - mont-de-milieu
+      - montee-de-tonnerre
+      - montmains
+      - preuses
+      - vaillons
+      - valmur
+      - vaucoupin
+      - vaudesir
+      - vaudevey
+      - vosgros
+    - cote-chalonnaise/
+      - givry
+      - mercurey
+      - montagny
+      - rully
+    - cote-de-beaune/
+      - aloxe-corton
+      - auxey-duresses
+      - beaune
+      - chassagne-montrachet
+      - ladoix
+      - meursault
+      - monthelie
+      - pernand-vergelesses
+      - pommard
+      - puligny-montrachet
+      - saint-aubin
+      - santenay
+      - savigny-les-beaune
+      - volnay
+    - cote-de-nuits/
+      - chambolle-musigny
+      - fixin
+      - gevrey-chambertin
+      - marsannay
+      - morey-saint-denis
+      - nuits-saint-georges
+      - vosne-romanee
+      - vougeot
+    - maconnais
+  - champagne/
+    - (many villages - see full list)
+    - cote-de-sezanne/
+      - allemant, barbonne-fayel, bethon, broyes, chantemerle, fontaine-denis-nuisy, la-celle-sous-chantemerle, montgenost, saudoy, sezanne, villenauxe-la-grande, vindey
+    - cote-des-bar/
+      - bar-sur-aube, bar-sur-seine, buxeuil, celles-sur-ource, essoyes, gye-sur-seine, landreville, les-riceys, mussy-sur-seine, polisot, urville
+    - cote-des-blancs/
+      - avize, bergeres-les-vertus, chouilly, cramant, cuis, etrechy, grauves, le-mesnil-sur-oger, oger, oiry, vertus, villeneuve-renneville, voipreux
+    - montagne-de-reims/
+      - ambonnay, beaumont-sur-vesle, bezannes, bouzy, chamery, chigny-les-roses, coligny, cormontreuil, coulommes-la-montagne, ecueil, jouy-les-reims, les-mesneux, louvois, ludes, mailly-champagne, montbre, pargny-les-reims, puisieulx, rilly-la-montagne, sacy, sermiers, sillery, taissy, tauxieres-mutry, trepail, trois-puits, vaudemange, verzenay, verzy, villedommange, villers-allerand, villers-aux-noeuds, villers-marmery, vrigny
+    - vallee-de-la-marne/
+      - avenay-val-dor, ay, bisseuil, champillon, cumieres, dizy, hautvillers, mareuil-sur-ay, mutigny
+  - jura/
+    - arbois
+    - chateau-chalon
+    - cotes-du-jura
+    - l-etoile
+  - languedoc/
+    - cabardes
+    - corbieres
+    - faugeres
+    - fitou
+    - la-clape
+    - limoux
+    - malepere
+    - minervois
+    - pic-saint-loup
+    - picpoul-de-pinet
+    - saint-chinian
+    - terrasses-du-larzac
+  - loire/
+    - muscadet/
+      - champtoceaux, chateau-thebaud, clisson, gorges, goulaine, la-haye-fouassiere, le-pallet, monnieres-saint-fiacre, mouzillon-tillieres, vallet
+  - loire-valley/
+    - anjou-saumur/
+      - anjou, bonnezeaux, coteaux-du-layon, quarts-de-chaume, saumur, saumur-champigny, savennieres
+    - centre-loire/
+      - menetou-salon, pouilly-fume, pouilly-sur-loire, quincy, reuilly, sancerre
+    - pays-nantais/
+      - gros-plant-du-pays-nantais, muscadet
+    - touraine/
+      - bourgueil, cheverny, chinon, montlouis-sur-loire, saint-nicolas-de-bourgueil, touraine, vouvray
+  - northern-rhone/
+    - chateau-grillet
+    - condrieu
+    - cornas
+    - cote-rotie
+    - crozes-hermitage
+    - hermitage
+    - saint-joseph
+    - saint-peray
+  - provence/
+    - bandol
+    - bellet
+    - cassis
+    - coteaux-d-aix-en-provence
+    - coteaux-daix-en-provence
+    - coteaux-varois-en-provence
+    - cotes-de-provence
+    - les-baux-de-provence
+    - palette
+    - pierrevert
+  - rhone/
+    - cornas/
+      - (21 climats)
+    - hermitage/
+      - (21 climats)
+  - rhone-valley/
+    - chateauneuf-du-pape/
+      - chateau-de-beaucastel, chateau-rayas, domaine-de-la-janasse, domaine-du-vieux-telegraphe
+    - condrieu/
+      - domaine-georges-vernay, domaine-yves-cuilleron
+    - cote-rotie/
+      - domaine-jamet, e-guigal, rene-rostaing
+    - hermitage/
+      - domaine-jean-louis-chave, m-chapoutier, paul-jaboulet-aine
+    - northern-rhone
+    - southern-rhone
+  - roussillon/
+    - banyuls
+    - collioure
+    - cotes-du-roussillon
+    - maury
+    - rivesaltes
+  - savoie/
+    - bugey
+    - crepy
+    - roussette-de-savoie
+    - roussette-du-bugey
+    - seyssel
+    - vin-de-savoie
+  - southern-rhone/
+    - beaumes-de-venise
+    - cairanne
+    - chateauneuf-du-pape
+    - cotes-du-rhone-villages
+    - gigondas
+    - lirac
+    - luberon
+    - rasteau
+    - tavel
+    - vacqueyras
+    - ventoux
+    - vinsobres
+
+## GERMANY
+- germany/
+  - ahr/
+    - alte-lay, burggarten, eck, garkammer, herrenberg, im-kuckstein, krauterberg, landskrone, monchberg, pfarrwingert, rosenthal, schieferlay, silberberg, sonnenberg, trotzenberg
+  - baden/
+    - (50 vineyards)
+  - franken/
+    - (21 vineyards)
+  - mittelrhein/
+    - (12 vineyards)
+  - mosel/
+    - (direct vineyards: abtsberg, altenberg, apotheke, etc.)
+    - mittelmosel/
+      - bernkasteler-doctor, bernkasteler-lay, brauneberger-juffer, brauneberger-juffer-sonnenuhr, erdener-busslay, erdener-pralat, erdener-treppchen, graacher-abtsberg, graacher-domprobst, graacher-himmelreich, kestener-paulinshofberg, lieser-niederberg-helden, piesporter-domherr, piesporter-goldtropfchen, trittenheimer-apotheke, urziger-goldwingert, urziger-wurzgarten, wehlener-sonnenuhr, wintricher-ohligsberg, zeltinger-sonnenuhr
+    - obermosel/
+      - nitteler-leiterchen, palzemer-lay
+    - ruwer/
+      - eitelsbacher-marienholz, karthauserhofberg, kaseler-kehrnagel, kaseler-nieschen, maximin-grunhauser-abtsberg, maximin-grunhauser-bruderberg, maximin-grunhauser-herrenberg
+    - saar/
+      - ayler-herrenberger, ayler-kupp, kanzemer-altenberg, kanzemer-sonnenberg, ockfener-bockstein, ockfener-geisberg, scharzhofberg, serriger-schloss-saarfelser-schlossberg, wiltinger-braune-kupp, wiltinger-braunfels, wiltinger-gottesfuss
+    - terrassenmosel/
+      - koberner-uhlen, pundericher-marienburg, pundericher-nonnenberg, winninger-hamm, winninger-rottgen, winninger-uhlen-blaufusser-lay, winninger-uhlen-laubach, winninger-uhlen-roth-lay
+  - nahe/
+    - (29 vineyards)
+  - pfalz/
+    - (55 vineyards)
+  - rheingau/
+    - (54 vineyards)
+  - rheinhessen/
+    - (41 vineyards)
+  - saale-unstrut/
+    - edelacker, steinmeister
+  - sachsen/
+    - koniglicher-weinberg, schloss-proschwitz
+  - wurttemberg/
+    - (43 vineyards)
+
+## GREECE
+- greece/
+  - attica
+  - cephalonia
+  - crete
+  - northern-greece/
+    - amyndeon, drama, naoussa
+  - peloponnese/
+    - mantinia, nemea, patras
+  - rapsani
+  - samos
+  - santorini
+
+## ITALY
+- italy/
+  - abruzzo
+  - basilicata
+  - calabria
+  - campania/
+    - aglianico-del-taburno, falerno-del-massico, fiano-di-avellino, greco-di-tufo, lacryma-christi-del-vesuvio, taurasi
+  - emilia-romagna
+  - friuli-venezia-giulia
+  - lazio
+  - liguria
+  - lombardy/
+    - franciacorta
+    - lugana
+    - oltrepo-pavese
+    - valtellina/
+      - grumello, inferno, sassella, valgella
+  - marche/
+    - conero, lacrima-di-morro-d-alba, rosso-piceno, verdicchio-dei-castelli-di-jesi, verdicchio-di-matelica
+  - molise
+  - piedmont/
+    - alto-piemonte/
+      - boca, bramaterra, carema, gattinara, ghemme, lessona
+    - barbaresco/
+      - barbaresco, neive, san-rocco-seno-d-elvio, treiso
+    - barbera-dalba
+    - barbera-dasti
+    - barolo/
+      - barolo, castiglione-falletto, diano-d-alba, grinzane-cavour, la-morra, monforte-d-alba, novello, roddi, serralunga-d-alba, verduno
+    - dolcetto-dalba
+    - gavi
+    - langhe
+    - roero
+  - puglia/
+    - castel-del-monte, gioia-del-colle, locorotondo, primitivo-di-manduria, salice-salentino
+  - sardinia
+  - sicily/
+    - cerasuolo-di-vittoria, etna, marsala, pantelleria
+  - trentino-alto-adige/
+    - alto-adige, trentino
+  - tuscany/
+    - bolgheri, brunello-di-montalcino, carmignano, chianti, vino-nobile-di-montepulciano
+  - umbria/
+    - montefalco, orvieto, torgiano
+  - valle-d-aosta
+  - veneto
+
+## NEW ZEALAND
+- new-zealand/
+  - central-otago/
+    - felton-road, mount-difficulty, rippon
+  - gisborne
+  - hawkes-bay
+  - marlborough/
+    - cloudy-bay, fromm, greywacke
+  - martinborough
+  - nelson
+  - waipara-valley
+
+## PORTUGAL
+- portugal/
+  - acores
+  - alentejo
+  - algarve
+  - bairrada
+  - beira-interior
+  - dao
+  - douro/
+    - niepoort, quinta-do-crasto, quinta-do-noval, taylors
+  - lisboa
+  - madeira
+  - porto
+  - setubal
+  - tavora-varosa
+  - tejo
+  - tras-os-montes
+  - vinho-verde
+
+## SOUTH AFRICA
+- south-africa/
+  - constantia
+  - elgin
+  - franschhoek
+  - hemel-en-aarde
+  - paarl
+  - robertson
+  - stellenbosch
+  - swartland
+  - tulbagh
+  - walker-bay
+
+## SPAIN
+- spain/
+  - alicante
+  - bierzo
+  - calatayud
+  - cava
+  - cigales
+  - jerez
+  - jumilla
+  - la-mancha
+  - malaga
+  - montilla-moriles
+  - montsant
+  - navarra
+  - penedes
+  - priorat/
+    - alvaro-palacios-lermita, clos-erasmus, clos-mogador
+  - rias-baixas
+  - ribeiro
+  - ribera-del-duero/
+    - pesquera, pingus, vega-sicilia
+  - rioja/
+    - cvne, la-rioja-alta, marques-de-murrieta, rioja-alavesa, rioja-alta, rioja-oriental, vina-tondonia
+  - rueda
+  - somontano
+  - toro
+  - txakoli
+  - valdeorras
+  - valencia
+  - yecla
+
+## UNITED STATES
+- united-states/
+  - california/
+    - central-coast/
+      - arroyo-seco, carmel-valley, chalone, cienega-valley, lime-kiln-valley, mount-harlan, paicines, san-benito, san-ysidro-district, santa-cruz-mountains, santa-lucia-highlands
+    - central-valley/
+      - clarksburg, cosumnes-river, diablo-grande, jahant, lodi, madera, merritt-island, mokelumne-river, river-junction, salado-creek, sloughhouse, tracy-hills
+    - mendocino/
+      - anderson-valley, cole-ranch, covelo, dos-rios, eagle-peak, mcdowell-valley, mendocino-ridge, potter-valley, redwood-valley, yorkville-highlands
+    - napa-valley/
+      - atlas-peak, calistoga, caymus-vineyards, chiles-valley, coombsville, diamond-mountain-district, harlan-estate, howell-mountain, los-carneros, mount-veeder, oak-knoll-district, oakville, opus-one, rutherford, screaming-eagle, spring-mountain-district, st-helena, stags-leap-district, stags-leap-wine-cellars, yountville
+    - paso-robles/
+      - adelaida-district, creston-district, el-pomar-district, estrella-district, geneseo-district, highlands-district, san-juan-creek, san-miguel-district, santa-margarita-ranch, templeton-gap-district, willow-creek-district
+    - santa-barbara/
+      - ballard-canyon, happy-canyon, los-olivos-district, santa-maria-valley, santa-rita-hills, santa-ynez-valley
+    - sierra-foothills/
+      - california-shenandoah-valley, el-dorado, fair-play, fiddletown, north-yuba, pleasant-valley, sierra-pelona-valley
+    - sonoma/
+      - alexander-valley, bennett-valley, chalk-hill, dry-creek-valley, fort-ross-seaview, fountain-grove-district, green-valley, knights-valley, los-carneros, moon-mountain-district, petaluma-gap, rockpile, russian-river-valley, sonoma-coast, sonoma-mountain, sonoma-valley
+  - oregon/
+    - columbia-gorge
+    - columbia-valley
+    - snake-river-valley
+    - southern-oregon/
+      - applegate-valley, red-hill-douglas-county, rogue-valley, umpqua-valley
+    - walla-walla-valley
+    - willamette-valley/
+      - chehalem-mountains, dundee-hills, eola-amity-hills, laurelwood-district, lower-long-tom, mcminnville, mount-pisgah-polk-county, ribbon-ridge, tualatin-hills, van-duzer-corridor, yamhill-carlton
+  - washington/
+    - columbia-gorge
+    - columbia-valley/
+      - ancient-lakes, burn-of-columbia-valley, candy-mountain, goose-gap, horse-heaven-hills, lake-chelan, lewis-clark-valley, naches-heights, rattlesnake-hills, red-mountain, royal-slope, snipes-mountain, wahluke-slope, walla-walla-valley, white-bluffs, yakima-valley
+    - puget-sound
+
+---
+
+## KEY OBSERVATIONS FOR MOSEL:
+
+In the working version, **Mosel had BOTH**:
+1. Direct vineyards under `germany/mosel/` (abtsberg, altenberg, apotheke, etc.)
+2. Subregions with their own vineyards:
+   - `germany/mosel/mittelmosel/` (20 vineyards)
+   - `germany/mosel/obermosel/` (2 vineyards)
+   - `germany/mosel/ruwer/` (7 vineyards)
+   - `germany/mosel/saar/` (11 vineyards)
+   - `germany/mosel/terrassenmosel/` (8 vineyards)
+
+The sidebar for Mosel should show the **subregions** (Mittelmosel, Obermosel, Ruwer, Saar, Terrassenmosel), not the 79 direct vineyards.

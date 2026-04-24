@@ -1,0 +1,39 @@
+# Manzola MGA, Neive, Barbaresco
+
+## Introduction
+
+Manzola is one of the officially recognized menzioni geografiche aggiuntive (MGAs) in the township of Neive within the Barbaresco DOCG. Established as part of the formal MGA system introduced in 2007—notably three years before Barolo implemented its own cru designations—Manzola represents one of the many single vineyards that contribute to Neive's diverse viticultural landscape. While not among the most historically celebrated or widely documented sites in Neive, Manzola is part of a township that has undergone dramatic transformation in recent decades, with Nebbiolo plantings expanding from 140 hectares in 1995 to 265 hectares by 2019.
+
+Neive itself proudly calls itself "the township of four wines," producing not only Barbaresco from Nebbiolo but also Moscato, Barbera, and Dolcetto. The commune's commitment to Nebbiolo represents a relatively recent consolidation, with the variety gaining its dominant position only after the Second World War, largely at the expense of Barbera and Dolcetto. Moscato, by contrast, has maintained its foothold, comprising roughly half the township's planted area.
+
+## Neive's Place in Barbaresco
+
+Understanding Manzola requires understanding Neive's position within the broader Barbaresco appellation. Barbaresco itself is produced across four administrative areas: the communes of Barbaresco, Treiso (formerly part of Barbaresco), Neive, and a small fragment of Alba. The entire Barbaresco zone covers just 733 hectares—approximately one-third the size of Barolo—making it an inherently intimate appellation where individual sites carry particular significance.
+
+Neive's viticultural history differs notably from that of the Barbaresco commune itself. Lorenzo Fantini's influential late 19th-century monograph on Piedmontese viticulture identified very few "choice positions" in Barbaresco proper and, remarkably, "none whatsoever in Neive." This absence from historical records stands in stark contrast to Barolo, where vineyard hierarchies were more firmly established by the 19th century. It was only in the 1960s, through Luigi Veronelli's work, and the 1970s, with Renato Ratti's classifications, that serious attempts to catalog and rank Barbaresco's finest sites began.
+
+Over subsequent decades, négociants' willingness to pay premium prices for grapes from certain vineyards established a consensus around Barbaresco's elite sites. In Neive, this consensus has particularly elevated Albesani and Gallina, while Santo Stefano gained its prestige through the dedicated work of exceptional producers including Gaja, Giacosa, and Alberto di Gresy. Manzola, while recognized in the official MGA system, exists somewhat outside this inner circle of historically celebrated sites.
+
+## Terroir Characteristics of Neive
+
+Barbaresco's soils can be broadly divided into two principal types, and Neive's vineyards participate in this geological diversity. The calcareous clay of the Tortonian epoch, very similar to soils found in the Barolo communes of La Morra and Barolo, produces wines of particular perfume and elegance. While soil differences between Barolo and Barbaresco are regularly cited as explaining stylistic divergences between the two appellations, the reality is more nuanced—there are more similarities than differences in the geological substrate.
+
+What distinguishes individual MGAs within Neive, and indeed across Barbaresco, is the subtle interplay of soil composition, elevation, aspect, and microclimate. These factors combine to create the distinctive terroir signatures that justify the MGA system's existence. The 2007 MGA framework sensibly retained almost all historically known vineyards, resisting the temptation to absorb smaller or lesser-known sites into more famous vineyard names for commercial reasons—a decision that preserved Barbaresco's viticultural heritage and diversity.
+
+## Wine Characteristics and Style
+
+Wines from Neive MGAs, including Manzola, share the fundamental characteristics of Barbaresco itself: the structure, perfume, and intensity derived from Nebbiolo grown in calcareous clay soils. Barbaresco has long been considered more elegant and aromatic than Barolo, though this characterization can be misleading. While Barbaresco requires shorter minimum aging than Barolo—nine months less for the normale and twelve months less for Riserva—this regulatory difference has unfortunately fostered the false assumption that Barbaresco is less ageworthy or less serious.
+
+Contemporary Barbaresco, regardless of specific MGA, demonstrates considerable structure. These are wines with a minimum alcoholic strength of 12.5% that routinely reach 13.5%, possessing the tannins and acidity that define Nebbiolo. Young Barbaresco is by no means an immediately pleasurable wine; it demands patience and understanding. The variety's signature aromatics—cherry, violets, and with age, iron, tar, and orange peel—manifest across the appellation, though individual sites express these characteristics with varying emphases.
+
+Winemaking philosophy in Barbaresco has evolved considerably over recent decades. The 1970s and 1980s saw a shift away from prolonged maceration and extended cask aging toward shorter fermentations and aging in French barriques, responding to modern preferences for rounder, fruitier wines. Traditional producers criticized this approach, arguing that French oak suppressed Nebbiolo's gentle perfume. Today, an increasing number of Barbaresco producers—working across various MGAs—are returning to extended maceration periods, often up to 40 days, and aging in large oak casks rather than barriques. This return to traditional methods has revealed renewed dimension in Barbaresco's terroir expression.
+
+## The MGA System and Lesser-Known Sites
+
+The introduction of the MGA system in 2007 represented a crucial moment for Barbaresco, formalizing what had been an evolving and sometimes contested hierarchy of sites. For lesser-documented MGAs like Manzola, official recognition provides both validation and opportunity. While these sites may lack the historical pedigree or commercial prominence of Gallina, Santo Stefano, or the celebrated crus of the Barbaresco commune (Asili, Montefico, Montestefano, Rabajà), they offer producers and consumers alike the chance to explore Barbaresco's full range of terroir expression.
+
+The work of organizations like the Produttori del Barbaresco—one of Italy's finest cooperatives—and individual producers such as Angelo Gaja and Bruno Giacosa established Barbaresco as a top-quality wine capable of rivaling Barolo. Simultaneously, smaller producers working with both prominent and lesser-known sites have increasingly adopted organic and biodynamic viticulture, using traditional winemaking techniques to produce highly original, long-lived wines. This movement toward diversity of approach and expression benefits the entire appellation, including sites like Manzola that await fuller recognition and documentation.
+
+## Conclusion
+
+Manzola represents the ongoing story of Barbaresco: an appellation still defining itself, still revealing the potential of individual sites, and still evolving in the hands of dedicated producers. While comprehensive documentation of this specific MGA remains limited compared to the appellation's most celebrated vineyards, its inclusion in the official MGA system reflects its legitimate place in Neive's viticultural landscape. For those seeking to understand Barbaresco beyond its most famous names, exploring lesser-known MGAs like Manzola offers insight into the depth and breadth of this remarkable appellation.

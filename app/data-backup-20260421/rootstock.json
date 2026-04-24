@@ -1,0 +1,1365 @@
+{
+  "guide_type": "rootstock_encyclopedia",
+  "title": "The Rootstock Guide",
+  "subtitle": "Phylloxera, grafting, and the roots beneath the vine",
+  "sections": {
+    "overview": {
+      "title": "The Foundation of Modern Viticulture",
+      "description": "Every wine grape grown in the Old World, and most in the New, rests on borrowed roots. The phylloxera crisis of the 1860s devastated European vineyards, destroying 2.5 million hectares and reshaping viticulture forever. The solution came from an unlikely source: American wild vine species. Today, rootstock selection is as crucial as clone selection, determining vine vigor, stress tolerance, and ultimately, wine quality."
+    },
+    "history": {
+      "title": "The Phylloxera Crisis",
+      "description": "How a microscopic aphid brought European viticulture to its knees and forced a revolutionary solution.",
+      "crisis": {
+        "timeline": [
+          {
+            "year": "1863",
+            "event": "First signs of vine decline observed in southern Rhone Valley near Arles. Vines inexplicably dying.",
+            "significance": "The beginning of the greatest agricultural disaster in European history"
+          },
+          {
+            "year": "1868",
+            "event": "Jules-Emile Planchon identifies the culprit: a tiny aphid feeding on vine roots, which he names Phylloxera vastatrix (the devastator).",
+            "significance": "Understanding the enemy was the first step toward fighting it"
+          },
+          {
+            "year": "1869",
+            "event": "Charles Valentine Riley, American entomologist, independently studies the pest and begins correspondence with Planchon.",
+            "significance": "The Franco-American collaboration that would save European wine begins"
+          },
+          {
+            "year": "1870s",
+            "event": "Phylloxera spreads across France at 20-30 km per year. Bordeaux, Burgundy, Champagne successively devastated.",
+            "significance": "No European vineyard was safe"
+          },
+          {
+            "year": "1873",
+            "event": "Leo Laliman proposes grafting European vines onto American rootstocks. Controversial idea initially rejected by many.",
+            "significance": "The eventual solution is proposed but not yet accepted"
+          },
+          {
+            "year": "1878",
+            "event": "International Phylloxera Congress in Bordeaux. Grafting gains acceptance as only viable solution.",
+            "significance": "Scientific community unifies around grafting"
+          },
+          {
+            "year": "1887",
+            "event": "Pierre Viala travels to Texas on French government mission, discovers V. berlandieri growing in chalk soils similar to Champagne and Cognac.",
+            "significance": "The missing piece: a rootstock for calcareous soils"
+          },
+          {
+            "year": "1890s",
+            "event": "Systematic replanting begins across Europe. By century's end, most European vineyards are grafted.",
+            "significance": "The resurrection of European viticulture"
+          },
+          {
+            "year": "1900",
+            "event": "2.5 million hectares destroyed. France alone lost 40% of vineyard area permanently.",
+            "significance": "Some regions never recovered"
+          }
+        ],
+        "impact": {
+          "economic": "Billions lost in vineyard value, wine production collapsed, rural exodus from wine regions",
+          "social": "Mass emigration from wine regions, French vignerons fled to Algeria, Argentina, Chile, establishing New World wine industries",
+          "viticultural": "Forced modernization: replanting allowed rationalization of vineyard layouts, introduction of new varieties, abandonment of marginal sites"
+        }
+      },
+      "solution": {
+        "pioneers": [
+          {
+            "name": "Jules-Emile Planchon",
+            "contribution": "Identified phylloxera as the cause, advocated for American rootstocks",
+            "origin": "France"
+          },
+          {
+            "name": "Charles Valentine Riley",
+            "contribution": "Proved phylloxera originated in America, championed grafting solution",
+            "origin": "United States"
+          },
+          {
+            "name": "Pierre Viala",
+            "contribution": "Texas expedition discovering V. berlandieri for calcareous soils",
+            "origin": "France"
+          },
+          {
+            "name": "Leo Laliman",
+            "contribution": "First to propose grafting solution in France (1869)",
+            "origin": "France"
+          },
+          {
+            "name": "Alexis Millardet",
+            "contribution": "Developed Bordeaux mixture for mildew, also worked on rootstock hybridization",
+            "origin": "France"
+          }
+        ],
+        "grafting_discovery": "American vine species co-evolved with phylloxera over millions of years, developing resistance. While the aphid could still feed on their roots, the damage was not fatal. Grafting European V. vinifera scions onto American rootstocks combined the best of both worlds: European fruit quality on resistant American roots."
+      },
+      "own_rooted_today": {
+        "description": "Some regions escaped phylloxera entirely due to geographic isolation or soil conditions inhospitable to the pest.",
+        "phylloxera_free_regions": [
+          {
+            "region": "Chile",
+            "percentage_ungrafted": "85%",
+            "reason": "Natural barriers: Andes Mountains, Atacama Desert, Pacific Ocean, and Antarctic ice isolate the country",
+            "notes": "Home to some of the oldest ungrafted Carmenere and Pais vines in the world"
+          },
+          {
+            "region": "Santorini, Greece",
+            "percentage_ungrafted": "100%",
+            "reason": "Volcanic pumice soil is inhospitable to phylloxera",
+            "notes": "Assyrtiko vines trained in basket shapes (kouloura) can be 200+ years old"
+          },
+          {
+            "region": "Canary Islands, Spain",
+            "percentage_ungrafted": "Majority",
+            "reason": "Volcanic soils and island isolation",
+            "notes": "Ancient Listan Negro vines, some pre-phylloxera"
+          },
+          {
+            "region": "Parts of Australia",
+            "percentage_ungrafted": "Variable",
+            "reason": "Geographic isolation and strict quarantine. Phylloxera present but contained",
+            "notes": "Barossa Valley maintains phylloxera-free status with ancient Shiraz vines"
+          },
+          {
+            "region": "Parts of Washington State",
+            "percentage_ungrafted": "Some areas",
+            "reason": "Sandy soils unfavorable to phylloxera",
+            "notes": "Much of Columbia Valley remains phylloxera-free"
+          },
+          {
+            "region": "Colares, Portugal",
+            "percentage_ungrafted": "Most",
+            "reason": "Sandy Atlantic coastal soils",
+            "notes": "Ramisco vines on own roots, protected by sand"
+          }
+        ],
+        "francs_de_pied_movement": {
+          "description": "A movement of winemakers growing vines on their own roots in phylloxera-prone areas, seeking UNESCO recognition",
+          "proponents": "Some Loire Valley, Alsace, and Swiss producers",
+          "argument": "Own-rooted vines produce wines with more mineral expression and direct connection to terroir",
+          "risk": "High - vines typically succumb within 15-20 years"
+        }
+      }
+    },
+    "species": {
+      "title": "American Vine Species",
+      "description": "Three American species form the foundation of modern rootstocks. Each offers different characteristics, and most commercial rootstocks are hybrids combining their traits.",
+      "items": [
+        {
+          "id": "vitis-riparia",
+          "name": "Vitis riparia",
+          "common_name": "Riverbank Grape",
+          "native_range": "Northern US and Canada, along rivers and streams",
+          "vigor": "Low to moderate",
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Low (up to 6-9% active lime)",
+          "drought_tolerance": "Low",
+          "characteristics": [
+            "Early budbreak, early ripening cycle",
+            "Shallow rooting, prefers moist soils",
+            "Adapts to cool climates",
+            "Excellent phylloxera resistance",
+            "Encourages earliness in grafted variety",
+            "Can induce potassium deficiency"
+          ],
+          "rootstock_contribution": "Provides phylloxera resistance, early ripening, and devigorating effect. Often crossed with V. rupestris for riparia x rupestris hybrids like 3309C.",
+          "famous_hybrids": ["3309C", "101-14", "Riparia Gloire", "SO4 (with berlandieri)"],
+          "climate_adaptation": "Cool to cold climates",
+          "soil_preference": "Deep, fertile, well-drained, slightly acidic"
+        },
+        {
+          "id": "vitis-rupestris",
+          "name": "Vitis rupestris",
+          "common_name": "Sand Grape / Rock Grape",
+          "native_range": "Central and Southern US, rocky/sandy soils",
+          "vigor": "Moderate to high",
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low to moderate",
+          "limestone_tolerance": "Low to moderate (up to 14% active lime)",
+          "drought_tolerance": "Moderate to high",
+          "characteristics": [
+            "Deep rooting, accesses water in dry conditions",
+            "Adapts to poor, rocky soils",
+            "Strong, vigorous growth",
+            "Good phylloxera resistance",
+            "Better drought tolerance than V. riparia",
+            "Difficult to propagate"
+          ],
+          "rootstock_contribution": "Contributes vigor, drought tolerance, and deep rooting. Often crossed with V. riparia (3309C, 101-14) or V. berlandieri (110R, 140Ru).",
+          "famous_hybrids": ["110R", "140Ru", "1103P", "3309C", "St. George"],
+          "climate_adaptation": "Warm to hot climates",
+          "soil_preference": "Well-drained, rocky, sandy, tolerates poor soils"
+        },
+        {
+          "id": "vitis-berlandieri",
+          "name": "Vitis berlandieri",
+          "common_name": "Spanish Grape / Winter Grape",
+          "native_range": "Texas and Northern Mexico, chalk hills",
+          "vigor": "Moderate",
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Very high (up to 40%+ active lime)",
+          "drought_tolerance": "High",
+          "characteristics": [
+            "Exceptional chalk/limestone tolerance",
+            "Deep rooting in calcareous soils",
+            "Late budbreak, protects from spring frost",
+            "Very difficult to root from cuttings",
+            "Discovered by Pierre Viala in Texas (1887)",
+            "Key to Champagne and Cognac replanting"
+          ],
+          "rootstock_contribution": "Essential for calcareous soils. Provides limestone tolerance and drought resistance. Always used in crosses because pure V. berlandieri roots poorly.",
+          "famous_hybrids": ["41B", "SO4", "5BB", "420A", "110R", "140Ru", "Fercal"],
+          "climate_adaptation": "Hot, dry climates",
+          "soil_preference": "Calcareous, chalky, limestone-rich soils",
+          "viala_discovery": {
+            "year": 1887,
+            "context": "French government sent Pierre Viala to Texas to find rootstocks for chalk soils after existing American species failed in Champagne and Cognac",
+            "location": "Texas Hill Country, chalk outcrops",
+            "significance": "Without V. berlandieri, Champagne and Cognac could not have been replanted"
+          }
+        }
+      ]
+    },
+    "rootstocks": {
+      "title": "Rootstock Varieties",
+      "description": "Commercial rootstocks are selected hybrids, bred for specific combinations of resistance, vigor, and soil adaptation. Each has strengths and weaknesses that must match site conditions.",
+      "varieties": [
+        {
+          "id": "so4",
+          "name": "SO4",
+          "full_name": "Selection Oppenheim 4",
+          "parentage": {
+            "type": "berlandieri x riparia",
+            "female": "V. berlandieri",
+            "male": "V. riparia"
+          },
+          "origin": {
+            "location": "Oppenheim, Germany",
+            "year": 1904,
+            "breeder": "Sigmund Teleki / Selection at Oppenheim"
+          },
+          "vigor": "Moderate to vigorous",
+          "vigor_rating": 4,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Moderate",
+          "limestone_tolerance": "Moderate (17% active lime)",
+          "limestone_rating": 3,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "High-K",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Very good",
+          "graft_compatibility": "Excellent",
+          "best_for": ["Cool climates", "Wet conditions", "Deep fertile soils"],
+          "avoid_for": ["Very dry sites", "Shallow soils", "High limestone"],
+          "characteristics": [
+            "One of the most widely planted rootstocks globally",
+            "Good for high-density plantings",
+            "Advances ripening by a few days",
+            "Can struggle in drought conditions",
+            "High potassium uptake can reduce color/acidity"
+          ],
+          "regional_use": [
+            "Germany: Standard rootstock, especially for Riesling",
+            "Northern Italy: Widely used for Pinot Grigio, Chardonnay",
+            "Oregon: Popular for Pinot Noir in cooler sites"
+          ],
+          "related_rootstocks": ["5BB", "5C", "420A"]
+        },
+        {
+          "id": "3309c",
+          "name": "3309C",
+          "full_name": "3309 Couderc",
+          "parentage": {
+            "type": "riparia x rupestris",
+            "female": "V. riparia",
+            "male": "V. rupestris"
+          },
+          "origin": {
+            "location": "France",
+            "year": 1881,
+            "breeder": "Georges Couderc"
+          },
+          "vigor": "Low to moderate",
+          "vigor_rating": 2,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Low (11% active lime)",
+          "limestone_rating": 2,
+          "drought_tolerance": "Low to moderate",
+          "drought_rating": 2,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Good",
+          "best_for": ["Premium red wines", "Cool to moderate climates", "Deep fertile soils"],
+          "avoid_for": ["Calcareous soils", "Dry sites", "Nematode-prone areas"],
+          "characteristics": [
+            "Bordeaux #1 rootstock for quality red wines",
+            "Devigorating effect prized for premium vineyards",
+            "Encourages earlier ripening",
+            "Sensitive to drought - needs adequate water",
+            "Can induce Mg deficiency",
+            "Excellent for Merlot and Cabernet Sauvignon"
+          ],
+          "regional_use": [
+            "Bordeaux: Dominant rootstock in classified growths",
+            "New Zealand: Popular for Pinot Noir",
+            "Burgundy: Used in some premier cru sites"
+          ],
+          "related_rootstocks": ["101-14", "Riparia Gloire", "Schwarzmann"]
+        },
+        {
+          "id": "101-14",
+          "name": "101-14",
+          "full_name": "101-14 Millardet et de Grasset",
+          "parentage": {
+            "type": "riparia x rupestris",
+            "female": "V. riparia",
+            "male": "V. rupestris"
+          },
+          "origin": {
+            "location": "France",
+            "year": 1882,
+            "breeder": "Alexis Millardet & Charles de Grasset"
+          },
+          "vigor": "Moderate",
+          "vigor_rating": 3,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Low (9% active lime)",
+          "limestone_rating": 1,
+          "drought_tolerance": "Low",
+          "drought_rating": 1,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Very good",
+          "graft_compatibility": "Excellent",
+          "best_for": ["Fertile soils", "Cool wet climates", "High-density planting"],
+          "avoid_for": ["Dry sites", "Calcareous soils", "Drought-prone areas"],
+          "characteristics": [
+            "Very sensitive to drought - needs irrigation or wet climate",
+            "Good for controlling vigor in fertile soils",
+            "Encourages earlier ripening",
+            "Popular in New Zealand and Oregon",
+            "Roots well and grafts easily"
+          ],
+          "regional_use": [
+            "New Zealand: Very popular, suits wet climate",
+            "Oregon: Used in wetter sites",
+            "Bordeaux: Second to 3309C"
+          ],
+          "related_rootstocks": ["3309C", "Riparia Gloire"]
+        },
+        {
+          "id": "110r",
+          "name": "110R",
+          "full_name": "110 Richter",
+          "parentage": {
+            "type": "berlandieri x rupestris",
+            "female": "V. berlandieri",
+            "male": "V. rupestris"
+          },
+          "origin": {
+            "location": "France",
+            "year": 1902,
+            "breeder": "Franz Richter"
+          },
+          "vigor": "Moderate to high",
+          "vigor_rating": 4,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Moderate to high (17% active lime)",
+          "limestone_rating": 3,
+          "drought_tolerance": "Very high",
+          "drought_rating": 5,
+          "potassium_uptake": "Low to moderate",
+          "salt_tolerance": "Moderate",
+          "rooting_ability": "Moderate",
+          "graft_compatibility": "Good",
+          "best_for": ["Dry climates", "Mediterranean conditions", "Deep soils"],
+          "avoid_for": ["Very wet sites", "Shallow soils", "Cold climates"],
+          "characteristics": [
+            "Excellent drought tolerance with very deep rooting",
+            "Delays ripening slightly",
+            "Lower potassium uptake - helps maintain acidity",
+            "Can be slow to establish",
+            "Popular in Australia, California, Mediterranean"
+          ],
+          "regional_use": [
+            "Australia: Standard for warm, dry regions",
+            "California: Popular in Napa, Paso Robles",
+            "Spain: Widely used in La Mancha, Rioja",
+            "Southern France: Provence, Languedoc"
+          ],
+          "related_rootstocks": ["140Ru", "1103P", "99R"]
+        },
+        {
+          "id": "140ru",
+          "name": "140Ru",
+          "full_name": "140 Ruggeri",
+          "parentage": {
+            "type": "berlandieri x rupestris",
+            "female": "V. berlandieri",
+            "male": "V. rupestris"
+          },
+          "origin": {
+            "location": "Sicily, Italy",
+            "year": 1894,
+            "breeder": "Antonio Ruggeri"
+          },
+          "vigor": "Very high",
+          "vigor_rating": 5,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Moderate (20% active lime)",
+          "limestone_rating": 3,
+          "drought_tolerance": "Very high",
+          "drought_rating": 5,
+          "potassium_uptake": "Low",
+          "salt_tolerance": "Moderate",
+          "rooting_ability": "Difficult",
+          "graft_compatibility": "Good",
+          "best_for": ["Very dry climates", "Low-fertility soils", "Where high vigor needed"],
+          "avoid_for": ["Fertile soils", "Where vigor control needed", "Cold climates"],
+          "characteristics": [
+            "Most drought-tolerant commercial rootstock",
+            "Very vigorous - can be excessive in fertile soils",
+            "Deep extensive root system",
+            "Delays ripening",
+            "Popular in arid Mediterranean climates"
+          ],
+          "regional_use": [
+            "Southern Spain: Sherry region, La Mancha",
+            "Southern Italy: Sicily, Puglia",
+            "California: Dry-farmed sites",
+            "Australia: Hot, dry regions"
+          ],
+          "related_rootstocks": ["110R", "1103P", "775P"]
+        },
+        {
+          "id": "1103p",
+          "name": "1103P",
+          "full_name": "1103 Paulsen",
+          "parentage": {
+            "type": "berlandieri x rupestris",
+            "female": "V. berlandieri",
+            "male": "V. rupestris"
+          },
+          "origin": {
+            "location": "Sicily, Italy",
+            "year": 1895,
+            "breeder": "Federico Paulsen"
+          },
+          "vigor": "High",
+          "vigor_rating": 4,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Moderate to high (17% active lime)",
+          "limestone_rating": 3,
+          "drought_tolerance": "High",
+          "drought_rating": 4,
+          "potassium_uptake": "Low (Low-K)",
+          "salt_tolerance": "High",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Good",
+          "best_for": ["Saline soils", "Dry climates", "Mediterranean conditions"],
+          "avoid_for": ["Very fertile soils", "Cold wet climates", "Where vigor control needed"],
+          "characteristics": [
+            "Best salt tolerance of commercial rootstocks",
+            "Good drought tolerance",
+            "Low potassium uptake - maintains acidity and color",
+            "Vigorous - needs vigor management",
+            "Popular in coastal and irrigated regions"
+          ],
+          "regional_use": [
+            "California: Central Valley, where salinity is issue",
+            "Australia: Murray-Darling region",
+            "Southern France: Camargue, coastal areas",
+            "Middle East: Israel, where soil salinity is common"
+          ],
+          "related_rootstocks": ["110R", "140Ru", "Ramsey"]
+        },
+        {
+          "id": "420a",
+          "name": "420A",
+          "full_name": "420A Millardet et de Grasset",
+          "parentage": {
+            "type": "berlandieri x riparia",
+            "female": "V. berlandieri",
+            "male": "V. riparia"
+          },
+          "origin": {
+            "location": "France",
+            "year": 1887,
+            "breeder": "Alexis Millardet & Charles de Grasset"
+          },
+          "vigor": "Low to moderate",
+          "vigor_rating": 2,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Moderate to high (20% active lime)",
+          "limestone_rating": 3,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "Low (Low-K)",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Very good",
+          "best_for": ["Premium red wines", "Moderate limestone soils", "Quality-focused sites"],
+          "avoid_for": ["Very dry sites", "High limestone", "Nematode-prone areas"],
+          "characteristics": [
+            "Devigorating effect prized for premium Bordeaux",
+            "Low-K helps maintain color and acidity",
+            "Earlier ripening than 41B",
+            "Used in many classified Bordeaux estates",
+            "Good for Cabernet Sauvignon, Merlot"
+          ],
+          "regional_use": [
+            "Bordeaux: Premium estates, often with 3309C",
+            "Burgundy: Some Cote d'Or sites",
+            "Loire Valley: For Cabernet Franc"
+          ],
+          "related_rootstocks": ["SO4", "5BB", "161-49C"]
+        },
+        {
+          "id": "riparia-gloire",
+          "name": "Riparia Gloire",
+          "full_name": "Riparia Gloire de Montpellier",
+          "parentage": {
+            "type": "Pure species",
+            "species": "V. riparia (selection)"
+          },
+          "origin": {
+            "location": "Montpellier, France",
+            "year": "1880s",
+            "breeder": "Selection from V. riparia"
+          },
+          "vigor": "Very low",
+          "vigor_rating": 1,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Very low",
+          "limestone_tolerance": "Very low (6% active lime)",
+          "limestone_rating": 1,
+          "drought_tolerance": "Low",
+          "drought_rating": 1,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Very low",
+          "rooting_ability": "Excellent",
+          "graft_compatibility": "Excellent",
+          "best_for": ["Premium quality focus", "Deep fertile soils", "Cool wet climates"],
+          "avoid_for": ["Any limestone", "Dry sites", "Nematode-prone areas", "Shallow soils"],
+          "characteristics": [
+            "Most devigorating commercial rootstock",
+            "Promotes early ripening and small berries",
+            "Prized in Burgundy for premium Pinot Noir",
+            "Very sensitive to stress - needs ideal conditions",
+            "Limited sites can support it",
+            "Considered the quality benchmark"
+          ],
+          "regional_use": [
+            "Burgundy: Grand Cru and Premier Cru Pinot Noir",
+            "Bordeaux: Some top estates on non-calcareous soils",
+            "Champagne: Very limited (limestone issues)"
+          ],
+          "related_rootstocks": ["3309C", "101-14"]
+        },
+        {
+          "id": "41b",
+          "name": "41B",
+          "full_name": "41B Millardet et de Grasset",
+          "parentage": {
+            "type": "vinifera x berlandieri",
+            "female": "Chasselas (V. vinifera)",
+            "male": "V. berlandieri"
+          },
+          "origin": {
+            "location": "France",
+            "year": 1882,
+            "breeder": "Alexis Millardet & Charles de Grasset"
+          },
+          "vigor": "Moderate",
+          "vigor_rating": 3,
+          "phylloxera_resistance": "Moderate",
+          "nematode_resistance": "Very low",
+          "limestone_tolerance": "Very high (40% active lime)",
+          "limestone_rating": 5,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "High",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Moderate",
+          "graft_compatibility": "Good",
+          "best_for": ["Very high limestone soils", "Champagne chalk", "Cognac chalk"],
+          "avoid_for": ["Nematode areas", "Acidic soils", "Where phylloxera pressure high"],
+          "characteristics": [
+            "Champagne's dominant rootstock (80%+)",
+            "Highest limestone tolerance of traditional rootstocks",
+            "Contains V. vinifera parent - provides compatibility but reduces phylloxera resistance",
+            "Sensitive to iron chlorosis despite lime tolerance",
+            "Being superseded by Fercal in some areas"
+          ],
+          "regional_use": [
+            "Champagne: Dominant, up to 80-90% of plantings",
+            "Cognac: Standard rootstock",
+            "Loire Valley: Chalk soils of Vouvray, Saumur"
+          ],
+          "related_rootstocks": ["Fercal", "333EM", "161-49C"],
+          "caution": "V. vinifera parentage means phylloxera resistance is not absolute. Monitor for biotype pressure."
+        },
+        {
+          "id": "5bb",
+          "name": "5BB",
+          "full_name": "Kober 5BB",
+          "parentage": {
+            "type": "berlandieri x riparia",
+            "female": "V. berlandieri",
+            "male": "V. riparia"
+          },
+          "origin": {
+            "location": "Austria",
+            "year": 1896,
+            "breeder": "Franz Kober"
+          },
+          "vigor": "Very high",
+          "vigor_rating": 5,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "High (20% active lime)",
+          "limestone_rating": 4,
+          "drought_tolerance": "Low to moderate",
+          "drought_rating": 2,
+          "potassium_uptake": "Very high",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Very good",
+          "graft_compatibility": "Excellent",
+          "best_for": ["Difficult sites", "High limestone", "Where vigor needed"],
+          "avoid_for": ["Quality-focused sites", "Where color/acidity important", "Dry sites"],
+          "characteristics": [
+            "Very vigorous - can be excessive",
+            "Good limestone tolerance",
+            "Very high potassium uptake - reduces color and acidity",
+            "Easy to propagate",
+            "Often used in Central Europe",
+            "Not recommended for premium production"
+          ],
+          "regional_use": [
+            "Austria: Very common",
+            "Central Europe: Hungary, Czech Republic",
+            "Germany: Some areas"
+          ],
+          "related_rootstocks": ["SO4", "5C", "125AA"]
+        },
+        {
+          "id": "schwarzmann",
+          "name": "Schwarzmann",
+          "full_name": "Schwarzmann",
+          "parentage": {
+            "type": "riparia x rupestris",
+            "female": "V. riparia",
+            "male": "V. rupestris"
+          },
+          "origin": {
+            "location": "Germany",
+            "year": "1890s",
+            "breeder": "Unknown (selection)"
+          },
+          "vigor": "Low to moderate",
+          "vigor_rating": 2,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Moderate to high",
+          "limestone_tolerance": "Low (11% active lime)",
+          "limestone_rating": 2,
+          "drought_tolerance": "Low to moderate",
+          "drought_rating": 2,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Good",
+          "best_for": ["Nematode-prone areas", "Quality red wines", "Non-calcareous soils"],
+          "avoid_for": ["Calcareous soils", "Very dry sites", "Where vigor needed"],
+          "characteristics": [
+            "Best nematode resistance among traditional European rootstocks",
+            "Devigorating effect similar to 3309C",
+            "Used where nematodes are present but soil not calcareous",
+            "Popular in some New World regions"
+          ],
+          "regional_use": [
+            "Australia: Nematode-prone areas",
+            "California: Some coastal sites",
+            "South Africa: Where nematodes present"
+          ],
+          "related_rootstocks": ["3309C", "101-14", "Freedom"]
+        },
+        {
+          "id": "161-49c",
+          "name": "161-49C",
+          "full_name": "161-49 Couderc",
+          "parentage": {
+            "type": "berlandieri x riparia",
+            "female": "V. berlandieri",
+            "male": "V. riparia"
+          },
+          "origin": {
+            "location": "France",
+            "year": 1888,
+            "breeder": "Georges Couderc"
+          },
+          "vigor": "Moderate",
+          "vigor_rating": 3,
+          "phylloxera_resistance": "High",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "High (25% active lime)",
+          "limestone_rating": 4,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Moderate",
+          "graft_compatibility": "Good",
+          "best_for": ["Moderate-high limestone", "Quality wines", "Moderate climate"],
+          "avoid_for": ["Nematode areas", "Very dry sites", "Very cold climates"],
+          "characteristics": [
+            "Good limestone tolerance without excessive vigor",
+            "Balanced rootstock for calcareous soils",
+            "Less vigorous than 5BB",
+            "Can be slow to establish"
+          ],
+          "regional_use": [
+            "Burgundy: Limestone sites",
+            "Rhone Valley: Calcareous soils",
+            "Bordeaux: Limestone plateau"
+          ],
+          "related_rootstocks": ["420A", "SO4", "41B"]
+        },
+        {
+          "id": "fercal",
+          "name": "Fercal",
+          "full_name": "Fercal",
+          "parentage": {
+            "type": "Complex hybrid",
+            "composition": "V. berlandieri x (V. vinifera x V. berlandieri)",
+            "notes": "BC1 (333EM x 31 Richter)"
+          },
+          "origin": {
+            "location": "France (INRA)",
+            "year": 1977,
+            "breeder": "INRA Bordeaux"
+          },
+          "vigor": "Moderate to high",
+          "vigor_rating": 4,
+          "phylloxera_resistance": "Good",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Very high (40%+ active lime)",
+          "limestone_rating": 5,
+          "drought_tolerance": "Moderate to high",
+          "drought_rating": 3,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Moderate",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Very good",
+          "best_for": ["Extreme limestone", "Replacing 41B", "Chlorosis-prone sites"],
+          "avoid_for": ["Nematode areas", "Very dry sites without irrigation"],
+          "characteristics": [
+            "Superior chlorosis resistance to 41B",
+            "Modern breeding for extreme chalk",
+            "Better overall disease resistance",
+            "Gradually replacing 41B in Champagne",
+            "Good adaptation to climate stress"
+          ],
+          "regional_use": [
+            "Champagne: Replacing 41B in new plantings",
+            "Cognac: Modern plantings",
+            "Loire Valley: Chalk soils"
+          ],
+          "related_rootstocks": ["41B", "333EM", "RSB-1"],
+          "modern_breeding": true
+        },
+        {
+          "id": "axr1",
+          "name": "AXR1",
+          "full_name": "Aramon x Rupestris Ganzin #1",
+          "parentage": {
+            "type": "vinifera x rupestris",
+            "female": "Aramon (V. vinifera)",
+            "male": "V. rupestris Ganzin"
+          },
+          "origin": {
+            "location": "France",
+            "year": "1879",
+            "breeder": "Victor Ganzin"
+          },
+          "vigor": "High",
+          "vigor_rating": 4,
+          "phylloxera_resistance": "LOW - FAILED",
+          "nematode_resistance": "Low",
+          "limestone_tolerance": "Low (6% active lime)",
+          "limestone_rating": 1,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "Moderate",
+          "salt_tolerance": "Low",
+          "rooting_ability": "Excellent",
+          "graft_compatibility": "Excellent",
+          "best_for": ["HISTORICAL ONLY - No longer recommended"],
+          "avoid_for": ["All situations - phylloxera susceptible"],
+          "characteristics": [
+            "HISTORICAL FAILURE - THE NAPA CRISIS",
+            "V. vinifera parentage provided insufficient phylloxera resistance",
+            "Widely planted in California 1960s-1980s",
+            "Succumbed to Phylloxera Biotype B beginning 1983",
+            "Required $1+ billion in replanting across Napa/Sonoma",
+            "Lesson: Never use rootstock with V. vinifera parent in phylloxera areas"
+          ],
+          "historical_failure": {
+            "description": "The AXR1 disaster is viticulture's greatest cautionary tale",
+            "timeline": [
+              {
+                "period": "1960s-1970s",
+                "event": "UC Davis recommends AXR1 for easy propagation and good graft compatibility"
+              },
+              {
+                "period": "1980",
+                "event": "70% of Napa Valley planted to AXR1"
+              },
+              {
+                "period": "1983",
+                "event": "First vines showing decline in Napa. Biotype B phylloxera identified"
+              },
+              {
+                "period": "1990s",
+                "event": "Mass replanting begins across California. Billions in losses"
+              },
+              {
+                "period": "2000",
+                "event": "AXR1 effectively abandoned. Lesson learned"
+              }
+            ],
+            "cost": "$1-2 billion in replanting costs",
+            "lesson": "The V. vinifera parent (Aramon) provided easy rooting but fatal susceptibility. Rootstocks with any V. vinifera parentage must be monitored carefully."
+          },
+          "related_rootstocks": ["DO NOT PLANT"],
+          "status": "Obsolete - Historical interest only"
+        },
+        {
+          "id": "freedom",
+          "name": "Freedom",
+          "full_name": "Freedom",
+          "parentage": {
+            "type": "Complex hybrid",
+            "composition": "1613C x Dog Ridge",
+            "notes": "Nematode-resistant breeding"
+          },
+          "origin": {
+            "location": "UC Davis, California",
+            "year": 1981,
+            "breeder": "Dr. Harold Olmo"
+          },
+          "vigor": "Very high",
+          "vigor_rating": 5,
+          "phylloxera_resistance": "Moderate",
+          "nematode_resistance": "Very high",
+          "limestone_tolerance": "Low",
+          "limestone_rating": 1,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "High",
+          "salt_tolerance": "Moderate",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Good",
+          "best_for": ["High nematode pressure", "Replant situations", "Sandy soils"],
+          "avoid_for": ["Phylloxera areas without vigilance", "Where vigor control needed", "Premium production"],
+          "characteristics": [
+            "Excellent nematode resistance (root knot, dagger)",
+            "Very vigorous - requires management",
+            "Popular in California for replanting",
+            "Often used in table grape and raisin production",
+            "Higher vigor can dilute wine quality"
+          ],
+          "regional_use": [
+            "California: Central Valley, sandy soils",
+            "Australia: Some areas with nematode pressure"
+          ],
+          "related_rootstocks": ["Harmony", "Ramsey", "1613C"]
+        },
+        {
+          "id": "harmony",
+          "name": "Harmony",
+          "full_name": "Harmony",
+          "parentage": {
+            "type": "Complex hybrid",
+            "composition": "1613C x Dog Ridge",
+            "notes": "Similar to Freedom"
+          },
+          "origin": {
+            "location": "UC Davis, California",
+            "year": 1981,
+            "breeder": "Dr. Harold Olmo"
+          },
+          "vigor": "High",
+          "vigor_rating": 4,
+          "phylloxera_resistance": "Moderate",
+          "nematode_resistance": "Very high",
+          "limestone_tolerance": "Low",
+          "limestone_rating": 1,
+          "drought_tolerance": "Moderate",
+          "drought_rating": 3,
+          "potassium_uptake": "Moderate to high",
+          "salt_tolerance": "Moderate",
+          "rooting_ability": "Good",
+          "graft_compatibility": "Good",
+          "best_for": ["Nematode pressure", "Replant sites", "Where less vigor than Freedom needed"],
+          "avoid_for": ["Strong phylloxera pressure", "Calcareous soils", "Premium focused"],
+          "characteristics": [
+            "Similar to Freedom but slightly less vigorous",
+            "Excellent nematode resistance",
+            "Easier to manage than Freedom",
+            "Still quite vigorous"
+          ],
+          "regional_use": [
+            "California: Central Valley",
+            "Warm climate regions with nematode issues"
+          ],
+          "related_rootstocks": ["Freedom", "Ramsey", "1613C"]
+        }
+      ]
+    },
+    "selection": {
+      "title": "Rootstock Selection Criteria",
+      "description": "Choosing the right rootstock requires matching vine needs to site conditions. No perfect rootstock exists - each represents trade-offs between vigor, resistance, and adaptation.",
+      "factors": [
+        {
+          "factor": "Limestone Tolerance",
+          "description": "Critical for calcareous soils. Vines on wrong rootstock develop iron chlorosis - yellow leaves, poor growth.",
+          "rankings": [
+            {"rootstock": "41B", "rating": 5, "active_lime": "40%"},
+            {"rootstock": "Fercal", "rating": 5, "active_lime": "40%+"},
+            {"rootstock": "333EM", "rating": 5, "active_lime": "40%"},
+            {"rootstock": "161-49C", "rating": 4, "active_lime": "25%"},
+            {"rootstock": "5BB", "rating": 4, "active_lime": "20%"},
+            {"rootstock": "420A", "rating": 3, "active_lime": "20%"},
+            {"rootstock": "110R", "rating": 3, "active_lime": "17%"},
+            {"rootstock": "SO4", "rating": 3, "active_lime": "17%"},
+            {"rootstock": "3309C", "rating": 2, "active_lime": "11%"},
+            {"rootstock": "101-14", "rating": 1, "active_lime": "9%"},
+            {"rootstock": "Riparia Gloire", "rating": 1, "active_lime": "6%"}
+          ]
+        },
+        {
+          "factor": "Drought Tolerance",
+          "description": "Deep rooting and water efficiency. Critical for non-irrigated sites and climate change adaptation.",
+          "rankings": [
+            {"rootstock": "140Ru", "rating": 5},
+            {"rootstock": "110R", "rating": 5},
+            {"rootstock": "1103P", "rating": 4},
+            {"rootstock": "Fercal", "rating": 3},
+            {"rootstock": "SO4", "rating": 3},
+            {"rootstock": "41B", "rating": 3},
+            {"rootstock": "420A", "rating": 3},
+            {"rootstock": "5BB", "rating": 2},
+            {"rootstock": "3309C", "rating": 2},
+            {"rootstock": "101-14", "rating": 1},
+            {"rootstock": "Riparia Gloire", "rating": 1}
+          ]
+        },
+        {
+          "factor": "Vigor Control",
+          "description": "Lower vigor = smaller canopy, smaller berries, better quality. Essential for premium production.",
+          "rankings": [
+            {"rootstock": "Riparia Gloire", "rating": 5, "notes": "Most devigorating"},
+            {"rootstock": "3309C", "rating": 4, "notes": "Low vigor, quality focus"},
+            {"rootstock": "101-14", "rating": 4, "notes": "Moderate, good control"},
+            {"rootstock": "420A", "rating": 4, "notes": "Low-moderate, quality focus"},
+            {"rootstock": "Schwarzmann", "rating": 4, "notes": "Devigorating"},
+            {"rootstock": "SO4", "rating": 3, "notes": "Moderate-vigorous"},
+            {"rootstock": "41B", "rating": 3, "notes": "Moderate"},
+            {"rootstock": "110R", "rating": 2, "notes": "Vigorous"},
+            {"rootstock": "1103P", "rating": 2, "notes": "Vigorous"},
+            {"rootstock": "5BB", "rating": 1, "notes": "Very vigorous"},
+            {"rootstock": "140Ru", "rating": 1, "notes": "Most vigorous"}
+          ]
+        },
+        {
+          "factor": "Nematode Resistance",
+          "description": "Critical for sandy soils and replant situations. Traditional European rootstocks generally poor.",
+          "rankings": [
+            {"rootstock": "Freedom", "rating": 5},
+            {"rootstock": "Harmony", "rating": 5},
+            {"rootstock": "Ramsey", "rating": 5},
+            {"rootstock": "Schwarzmann", "rating": 4},
+            {"rootstock": "1613C", "rating": 4},
+            {"rootstock": "SO4", "rating": 2},
+            {"rootstock": "110R", "rating": 1},
+            {"rootstock": "3309C", "rating": 1},
+            {"rootstock": "Riparia Gloire", "rating": 1},
+            {"rootstock": "41B", "rating": 1}
+          ]
+        },
+        {
+          "factor": "Salt Tolerance",
+          "description": "Important for irrigated regions and coastal areas with saline groundwater.",
+          "rankings": [
+            {"rootstock": "1103P", "rating": 5, "notes": "Best salt tolerance"},
+            {"rootstock": "Ramsey", "rating": 4},
+            {"rootstock": "140Ru", "rating": 3},
+            {"rootstock": "110R", "rating": 3},
+            {"rootstock": "Freedom", "rating": 3},
+            {"rootstock": "SO4", "rating": 2},
+            {"rootstock": "3309C", "rating": 1},
+            {"rootstock": "Riparia Gloire", "rating": 1}
+          ]
+        },
+        {
+          "factor": "Potassium Uptake",
+          "description": "High-K rootstocks increase grape pH and reduce color. Low-K preferred for red wine quality.",
+          "rankings": [
+            {"rootstock": "1103P", "rating": "Low-K", "notes": "Best for color/acidity"},
+            {"rootstock": "140Ru", "rating": "Low-K", "notes": "Low uptake"},
+            {"rootstock": "420A", "rating": "Low-K", "notes": "Good for reds"},
+            {"rootstock": "110R", "rating": "Low-Moderate", "notes": "Balanced"},
+            {"rootstock": "3309C", "rating": "Moderate", "notes": "Acceptable"},
+            {"rootstock": "41B", "rating": "High-K", "notes": "Can reduce quality"},
+            {"rootstock": "SO4", "rating": "High-K", "notes": "High uptake"},
+            {"rootstock": "5BB", "rating": "Very High-K", "notes": "Avoid for quality reds"}
+          ]
+        }
+      ],
+      "quick_reference": {
+        "high_limestone": ["41B", "Fercal", "333EM", "161-49C"],
+        "drought": ["140Ru", "110R", "1103P"],
+        "quality_focus": ["Riparia Gloire", "3309C", "420A"],
+        "nematodes": ["Freedom", "Harmony", "Schwarzmann"],
+        "salt": ["1103P", "Ramsey"],
+        "wet_soils": ["101-14", "SO4", "3309C"],
+        "cold_climate": ["3309C", "101-14", "SO4", "Riparia Gloire"]
+      },
+      "decision_matrix": {
+        "description": "Match site conditions to rootstock selection",
+        "columns": ["High Limestone", "Drought Stress", "Nematodes", "Salt", "Quality Focus", "Wet Soils"],
+        "recommendations": {
+          "Champagne chalk": "41B, Fercal",
+          "Mediterranean dry": "110R, 140Ru, 1103P",
+          "Napa replant": "110R, Freedom, 1103P",
+          "Premium Burgundy": "Riparia Gloire, 3309C",
+          "Premium Bordeaux": "3309C, 420A, Riparia Gloire",
+          "Irrigated with salinity": "1103P, Ramsey"
+        }
+      }
+    },
+    "regions": {
+      "title": "Regional Rootstock Preferences",
+      "description": "Each wine region has developed preferences based on soil type, climate, and historical experience. These patterns reflect decades of trial and observation.",
+      "regions": [
+        {
+          "id": "champagne",
+          "name": "Champagne",
+          "country": "France",
+          "key_challenge": "Very high active limestone (chalk)",
+          "primary_rootstocks": [
+            {"name": "41B", "percentage": "80%+", "reason": "Highest limestone tolerance, proven over century"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "Fercal", "percentage": "Increasing", "reason": "Better chlorosis resistance, replacing 41B in new plantings"},
+            {"name": "SO4", "percentage": "Limited", "reason": "Some non-chalk areas"}
+          ],
+          "soil_notes": "Pure chalk subsoils with high active lime. Iron chlorosis is the primary concern.",
+          "climate_notes": "Cool continental, adequate moisture, spring frost risk",
+          "historical_context": "After phylloxera, Champagne could not replant until V. berlandieri was discovered in Texas and crossed to create 41B.",
+          "modern_trends": "Fercal gaining ground for better overall performance. Climate change reducing frost pressure.",
+          "unique_factors": [
+            "Up to 40% active limestone in subsoils",
+            "Vignerons refer to rootstock by shorthand: 'quarante-et-un B'",
+            "Deep chalk forces deep rooting, contributing to minerality"
+          ]
+        },
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "country": "France",
+          "key_challenge": "Balancing limestone tolerance with quality (low vigor)",
+          "primary_rootstocks": [
+            {"name": "Riparia Gloire", "percentage": "Variable", "reason": "Quality benchmark for best sites"},
+            {"name": "3309C", "percentage": "Common", "reason": "Good compromise of vigor and adaptation"},
+            {"name": "SO4", "percentage": "Common", "reason": "More forgiving, moderate limestone tolerance"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "161-49C", "percentage": "Some", "reason": "Higher limestone tolerance where needed"},
+            {"name": "420A", "percentage": "Some", "reason": "Quality focus with limestone tolerance"}
+          ],
+          "soil_notes": "Variable: marl, limestone, clay over limestone. Active lime 5-25% depending on site.",
+          "climate_notes": "Cool continental, variable rainfall, spring frost risk",
+          "historical_context": "Riparia Gloire long favored for Grand Cru quality, but limited by limestone sensitivity.",
+          "modern_trends": "Climate change increasing drought - some shift toward more tolerant rootstocks. Site-specific selection emphasized.",
+          "unique_factors": [
+            "Quality hierarchy influences rootstock choice",
+            "Grands Crus often on Riparia Gloire where soil permits",
+            "Village wines more likely on SO4 for practicality"
+          ]
+        },
+        {
+          "id": "bordeaux",
+          "name": "Bordeaux",
+          "country": "France",
+          "key_challenge": "Diverse soils from gravel to clay to limestone",
+          "primary_rootstocks": [
+            {"name": "3309C", "percentage": "Dominant", "reason": "Quality focus, low vigor, proven track record"},
+            {"name": "420A", "percentage": "Common", "reason": "Low-K, moderate limestone tolerance"},
+            {"name": "Riparia Gloire", "percentage": "Some", "reason": "Graves gravel soils, devigorating"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "SO4", "percentage": "Some", "reason": "Higher limestone tolerance areas"},
+            {"name": "101-14", "percentage": "Limited", "reason": "Wet areas, Pessac"},
+            {"name": "Fercal", "percentage": "Increasing", "reason": "Saint-Emilion limestone plateau"}
+          ],
+          "soil_notes": "Left Bank: gravel over clay. Right Bank: clay, limestone, clay over limestone.",
+          "climate_notes": "Maritime, adequate rainfall, humid conditions",
+          "historical_context": "3309C became dominant after WWII replanting. Quality correlation established.",
+          "modern_trends": "Saint-Emilion plateau needs Fercal or 41B. Climate change less impactful due to maritime influence.",
+          "bordeaux_rootstock_distribution": {
+            "note": "Research from classified growths",
+            "medoc_graves": "3309C dominant, Riparia Gloire in gravel",
+            "saint_emilion_plateau": "41B, Fercal for limestone",
+            "saint_emilion_slopes": "3309C, SO4",
+            "pomerol": "3309C, 101-14"
+          },
+          "unique_factors": [
+            "Classified growths heavily favor 3309C",
+            "Left/Right Bank divide in rootstock preferences",
+            "Humidity makes drought tolerance less critical"
+          ]
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "country": "France",
+          "key_challenge": "Chalk soils similar to Champagne",
+          "primary_rootstocks": [
+            {"name": "41B", "percentage": "Dominant", "reason": "Same chalk challenge as Champagne"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "Fercal", "percentage": "Growing", "reason": "Modern replacement for 41B"},
+            {"name": "RSB-1", "percentage": "Some", "reason": "INRA breeding for chalk"}
+          ],
+          "soil_notes": "Grande Champagne, Petite Champagne: pure chalk. Borderies: clay-limestone. Fins Bois: varied.",
+          "climate_notes": "Maritime influence, mild winters",
+          "historical_context": "Same crisis as Champagne - needed V. berlandieri discovery for replanting.",
+          "unique_factors": [
+            "Ugni Blanc (Trebbiano) is primary variety",
+            "High yield focus (distillation)",
+            "Chalk soils drive 41B dominance"
+          ]
+        },
+        {
+          "id": "napa-valley",
+          "name": "Napa Valley",
+          "country": "United States",
+          "key_challenge": "Recovery from AXR1 failure, diverse conditions",
+          "primary_rootstocks": [
+            {"name": "110R", "percentage": "Common", "reason": "Drought tolerance, phylloxera resistant"},
+            {"name": "3309C", "percentage": "Common", "reason": "Quality focus, Bordeaux influence"},
+            {"name": "101-14", "percentage": "Some", "reason": "Cooler sites, Carneros"},
+            {"name": "1103P", "percentage": "Growing", "reason": "Drought + some salt tolerance"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "St. George", "percentage": "Some", "reason": "Devigorating, nematode areas"},
+            {"name": "Freedom", "percentage": "Some", "reason": "Nematode replant situations"}
+          ],
+          "soil_notes": "Extremely diverse: volcanic, alluvial, clay, gravel, serpentine. Generally acidic to neutral.",
+          "climate_notes": "Mediterranean, dry summers, frost risk varies by location",
+          "historical_context": "AXR1 disaster (1983-2000) forced complete replanting. Lesson: no V. vinifera rootstocks.",
+          "axr1_history": {
+            "recommendation": "UC Davis recommended AXR1 1950s-1970s",
+            "peak_adoption": "70% of Napa by 1980",
+            "failure_start": "1983 - Biotype B phylloxera identified",
+            "replanting_cost": "$1+ billion across California",
+            "lesson": "Never use rootstock with V. vinifera parentage"
+          },
+          "modern_trends": "Climate change driving toward drought-tolerant rootstocks. 110R and 1103P gaining.",
+          "unique_factors": [
+            "Extreme diversity of soil and mesoclimate",
+            "Strong Bordeaux influence in variety and rootstock",
+            "Recent memory of AXR1 informs choices"
+          ]
+        },
+        {
+          "id": "australia",
+          "name": "Australia",
+          "country": "Australia",
+          "key_challenge": "Phylloxera quarantine, nematodes, drought, salinity",
+          "primary_rootstocks": [
+            {"name": "Own-rooted", "percentage": "Significant", "reason": "Phylloxera-free zones (Barossa, McLaren Vale)"},
+            {"name": "Ramsey", "percentage": "Common", "reason": "Nematode + salt tolerance"},
+            {"name": "110R", "percentage": "Common", "reason": "Drought tolerance"},
+            {"name": "1103P", "percentage": "Growing", "reason": "Salt tolerance for irrigated areas"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "Schwarzmann", "percentage": "Some", "reason": "Nematode areas"},
+            {"name": "101-14", "percentage": "Some", "reason": "Cool climate areas like Tasmania"}
+          ],
+          "soil_notes": "Ancient, nutrient-poor soils. Often sandy or clay. Salinity from irrigation.",
+          "climate_notes": "Hot, dry. Drought is perennial challenge.",
+          "phylloxera_status": {
+            "description": "Phylloxera present in Victoria but contained",
+            "free_zones": ["South Australia (including Barossa, McLaren Vale)", "Western Australia", "Tasmania"],
+            "infected_zones": ["Parts of Victoria", "Some NSW"],
+            "quarantine": "Strict quarantine protocols, boot washing, equipment cleaning"
+          },
+          "own_rooted_significance": "Barossa old vine Shiraz on own roots (some 150+ years). Considered cultural heritage.",
+          "modern_trends": "Drought and salinity driving rootstock adoption even in phylloxera-free zones. Insurance against future spread.",
+          "unique_factors": [
+            "Phylloxera-free zones maintain ungrafted vines",
+            "Old vine ungrafted Shiraz prized",
+            "Salt tolerance increasingly important"
+          ]
+        },
+        {
+          "id": "chile",
+          "name": "Chile",
+          "country": "Chile",
+          "key_challenge": "No phylloxera - ungrafted tradition",
+          "primary_rootstocks": [
+            {"name": "Own-rooted", "percentage": "85%", "reason": "No phylloxera in Chile"}
+          ],
+          "secondary_rootstocks": [
+            {"name": "Various", "percentage": "15%", "reason": "Export nurseries, drought management, replant"}
+          ],
+          "soil_notes": "Diverse: alluvial, volcanic, granite, clay. Generally non-calcareous.",
+          "climate_notes": "Mediterranean, dry summers, Andes snowmelt irrigation",
+          "phylloxera_free_reason": {
+            "description": "Geographic isolation protects Chile",
+            "barriers": ["Andes Mountains (east)", "Atacama Desert (north)", "Pacific Ocean (west)", "Antarctic ice (south)"],
+            "significance": "Home to some of the world's oldest Carmenere vines"
+          },
+          "own_rooted_significance": "Chile maintains genetic diversity unavailable in grafted regions. Ancient Pais, pre-phylloxera Carmenere.",
+          "modern_trends": "Some rootstock adoption for replant situations, nematodes, drought stress management. But 85%+ remains ungrafted.",
+          "unique_factors": [
+            "Pre-phylloxera genetic material preserved",
+            "Old Carmenere, Pais vines on own roots",
+            "Rootstock use increasing slowly for management reasons"
+          ]
+        }
+      ]
+    },
+    "modern": {
+      "title": "Modern Developments",
+      "description": "Climate change and advancing science are reshaping rootstock research. New breeding programs target drought tolerance, virus resistance, and adaptation to unprecedented conditions.",
+      "breeding_programs": [
+        {
+          "institution": "UC Davis",
+          "country": "United States",
+          "focus": "Drought tolerance, nematode resistance, phylloxera resistance",
+          "methods": ["Genomic screening", "AI-assisted phenotyping", "Cross-breeding"],
+          "notable_work": "GRN (Grapevine Rootstock Network) consortium, mapping rootstock genetics",
+          "recent_releases": "Research on M-series adaptations for California"
+        },
+        {
+          "institution": "INRA/INRAE",
+          "country": "France",
+          "focus": "Limestone tolerance, climate adaptation, virus tolerance",
+          "methods": ["Traditional crossing", "Marker-assisted selection"],
+          "notable_work": "Fercal, RSB-1, ongoing chalk-adapted breeding",
+          "recent_releases": "Continue refining Fercal successors"
+        },
+        {
+          "institution": "CSIRO",
+          "country": "Australia",
+          "focus": "Drought, salt tolerance, stacked resistance traits",
+          "methods": ["Genomic selection", "High-throughput phenotyping"],
+          "notable_work": "Breeding for Australian conditions: heat, drought, salinity",
+          "recent_releases": "Focus on combining multiple stress resistances"
+        },
+        {
+          "institution": "University of Milan",
+          "country": "Italy",
+          "focus": "Mediterranean climate adaptation, M-series rootstocks",
+          "methods": ["Traditional and molecular breeding"],
+          "notable_work": "M-series rootstocks (M1, M2, M3, M4) for drought and limestone",
+          "recent_releases": "M4 showing promise for drought + moderate limestone"
+        }
+      ],
+      "climate_change": {
+        "challenges": [
+          "Increased drought frequency and severity",
+          "Earlier budburst exposing vines to late frost",
+          "Heat waves damaging vine function",
+          "Shifting pest and disease pressure",
+          "Changing precipitation patterns"
+        ],
+        "rootstock_responses": [
+          "Renewed interest in drought-tolerant rootstocks (110R, 140Ru, 1103P)",
+          "Breeding for deeper rooting and water-use efficiency",
+          "Shift from vigor control to stress tolerance priorities",
+          "Rootstocks that delay ripening may help with sugar accumulation",
+          "Salt-tolerant rootstocks for regions with increasing irrigation"
+        ],
+        "regional_shifts": [
+          "Burgundy: Some movement away from Riparia Gloire toward SO4, 110R",
+          "Bordeaux: 110R and 1103P increasing for drought years",
+          "California: Drought tolerance now primary criterion for new plantings",
+          "Mediterranean: 140Ru and 110R standard"
+        ]
+      },
+      "new_rootstocks": [
+        {
+          "id": "fercal",
+          "name": "Fercal",
+          "status": "Established",
+          "key_trait": "Superseding 41B for extreme limestone with better chlorosis resistance",
+          "adoption": "Champagne, Cognac, Loire - steadily replacing 41B"
+        },
+        {
+          "id": "m-series",
+          "name": "M-Series (M1, M2, M3, M4)",
+          "status": "Evaluation/Early adoption",
+          "key_trait": "Mediterranean adaptation: drought + moderate limestone",
+          "adoption": "Italy trials, California evaluation",
+          "details": {
+            "M1": "Drought tolerance focus",
+            "M2": "Balanced adaptation",
+            "M3": "Nematode + drought",
+            "M4": "Drought + moderate limestone, most promising"
+          }
+        },
+        {
+          "id": "rsb-1",
+          "name": "RSB-1",
+          "status": "Evaluation",
+          "key_trait": "INRAE chalk breeding, alternative to 41B/Fercal",
+          "adoption": "French trials"
+        },
+        {
+          "id": "grn-series",
+          "name": "GRN Series (UC Davis)",
+          "status": "Research",
+          "key_trait": "Stacked resistance: phylloxera + nematode + drought",
+          "adoption": "Not yet released, long-term program"
+        }
+      ],
+      "future_directions": [
+        {
+          "area": "Genomic breeding",
+          "description": "Marker-assisted selection speeds development. Genomic prediction identifies promising crosses before field trials."
+        },
+        {
+          "area": "Stacked traits",
+          "description": "Breeding for multiple resistances simultaneously: drought + nematode + phylloxera + limestone tolerance."
+        },
+        {
+          "area": "Virus tolerance",
+          "description": "Some rootstocks affect scion virus expression. Breeding for tolerance to leafroll and red blotch."
+        },
+        {
+          "area": "Regenerative viticulture",
+          "description": "Interest in rootstocks that support soil health, mycorrhizal associations."
+        },
+        {
+          "area": "Precision matching",
+          "description": "Soil mapping + rootstock databases = site-specific recommendations. Moving beyond regional generalizations."
+        }
+      ]
+    }
+  }
+}

@@ -1,35 +1,47 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
+import { cache } from 'react';
+import { getPayload } from 'payload';
+import config from '@payload-config';
 import RegionLayout from '@/components/RegionLayout';
-import fs from 'fs';
-import path from 'path';
+import { type ClassificationType } from '@/lib/guide-config';
 
-// Force dynamic rendering
-export const dynamic = 'force-dynamic';
+// Allow static generation with revalidation
 export const dynamicParams = true;
+export const revalidate = 3600; // Revalidate every hour
+
+// Pre-render top-level regions at build time for instant loading
+export async function generateStaticParams() {
+  try {
+    const payload = await getPayload({ config });
+
+    // Get countries and major regions (top 2 levels)
+    const regions = await payload.find({
+      collection: 'regions',
+      where: {
+        or: [
+          { level: { equals: 'country' } },
+          { level: { equals: 'region' } },
+        ]
+      },
+      limit: 500,
+    });
+
+    return regions.docs.map((region: any) => ({
+      slug: region.fullSlug.split('/'),
+    }));
+  } catch (error) {
+    console.error('Error generating static params:', error);
+    return [];
+  }
+}
 
 interface SidebarLink {
   name: string;
   slug: string;
-  classification?: string;
+  classification?: ClassificationType;
   type?: string;
 }
-
-interface RegionConfig {
-  title: string;
-  level: 'country' | 'region' | 'sub-region' | 'subregion' | 'village' | 'vineyard';
-  contentFile?: string;
-  parentRegion?: string;
-  sidebarLinks?: SidebarLink[];
-  sidebarTitle?: string;
-  classification?: string;
-}
-
-interface RegionConfigs {
-  [fullSlug: string]: RegionConfig;
-}
-
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000/api';
 
 interface VineyardData {
   classification?: string;
@@ -42,108 +54,77 @@ interface VineyardData {
   producers?: Array<{ name: string; slug: string }>;
 }
 
-// Fetch vineyard data from Payload for vineyard-level pages
-async function getVineyardDataFromPayload(fullSlug: string): Promise<VineyardData | null> {
+interface PayloadRegion {
+  id: number;
+  name: string;
+  slug: string;
+  fullSlug: string;
+  level: 'country' | 'region' | 'subregion' | 'village' | 'vineyard';
+  country?: string;
+  parentRegion?: { id: number; fullSlug: string } | number | null;
+  classification?: string;
+  description?: string;
+  sidebarTitle?: string;
+  sidebarLinks?: Array<{ name: string; slug: string; classification?: string }>;
+  acreage?: number;
+  aspect?: string;
+}
+
+// Cached direct DB access - much faster than HTTP API
+const getRegionFromPayload = cache(async (fullSlug: string): Promise<PayloadRegion | null> => {
   try {
-    const response = await fetch(
-      `${API_URL}/regions?where[fullSlug][equals]=${encodeURIComponent(fullSlug)}&depth=1`,
-      { next: { revalidate: 60 } }
-    );
-
-    if (!response.ok) return null;
-
-    const data = await response.json();
-    const region = data.docs?.[0];
-
-    if (!region) return null;
-
-    return {
-      classification: region.classification || undefined,
-      acreage: region.acreage || undefined,
-      aspect: region.aspect || undefined,
-    };
-  } catch (error) {
-    console.error('Error fetching vineyard data:', error);
-    return null;
-  }
-}
-
-// Load region configs
-function getRegionConfigs(): RegionConfigs {
-  const configPath = path.join(process.cwd(), 'app/(main)/data/region-configs.json');
-  const configData = fs.readFileSync(configPath, 'utf-8');
-  return JSON.parse(configData);
-}
-
-// Get region config by slug
-function getRegionConfig(fullSlug: string): RegionConfig | null {
-  const configs = getRegionConfigs();
-  return configs[fullSlug] || null;
-}
-
-// Get children from Payload using fullSlug prefix (more reliable than parentRegion)
-async function getChildrenFromPayload(fullSlug: string, level: string): Promise<SidebarLink[]> {
-  try {
-    // Get all regions whose fullSlug starts with this path and is exactly one level deeper
-    // e.g., for "france/burgundy", get "france/burgundy/chablis" but not "france/burgundy/chablis/foo"
-    const depth = fullSlug.split('/').length;
-
-    // Use like query to find children by fullSlug prefix
-    // Note: %25 is URL-encoded %, which Payload uses for LIKE wildcard
-    const searchPattern = fullSlug + '/%';
-    const url = `${API_URL}/regions?where[fullSlug][like]=${encodeURIComponent(searchPattern)}&limit=500&sort=name`;
-    const childrenRes = await fetch(url, { next: { revalidate: 60 } });
-
-    if (!childrenRes.ok) {
-      return [];
-    }
-
-    const childrenData = await childrenRes.json();
-    const allDocs = childrenData.docs || [];
-
-    // Filter to only direct children (one level deeper)
-    const directChildren = allDocs.filter((doc: any) => {
-      const docParts = doc.fullSlug.split('/');
-      return docParts.length === depth + 1;
+    const payload = await getPayload({ config });
+    const result = await payload.find({
+      collection: 'regions',
+      where: { fullSlug: { equals: fullSlug } },
+      depth: 1,
+      limit: 1,
     });
 
-    // Group by level and return the highest level children
-    const childrenByLevel: Record<string, typeof directChildren> = {};
-    for (const child of directChildren) {
-      if (!childrenByLevel[child.level]) {
-        childrenByLevel[child.level] = [];
-      }
-      childrenByLevel[child.level].push(child);
-    }
+    if (!result.docs || result.docs.length === 0) return null;
 
-    // Priority order for returning children
-    const levelOrder = ['region', 'subregion', 'village', 'vineyard'];
-    for (const lvl of levelOrder) {
-      if (childrenByLevel[lvl] && childrenByLevel[lvl].length > 0) {
-        return childrenByLevel[lvl].map((child: any) => ({
-          name: child.name,
-          slug: child.slug,
-          classification: child.classification || undefined,
-        }));
-      }
-    }
+    return result.docs[0] as unknown as PayloadRegion;
+  } catch (error) {
+    console.error('Error fetching region data:', error);
+    return null;
+  }
+})
 
-    return [];
+// Derive parent region path from fullSlug
+function getParentRegionPath(fullSlug: string): string | undefined {
+  const parts = fullSlug.split('/');
+  if (parts.length <= 1) return undefined;
+  return parts.slice(0, -1).join('/');
+}
+
+interface ChildRegion {
+  name: string;
+  slug: string;
+  classification?: ClassificationType;
+  level?: string;
+}
+
+// Get children using direct DB access
+async function getChildrenFromPayloadWithLevel(fullSlug: string, regionId: number): Promise<ChildRegion[]> {
+  try {
+    const payload = await getPayload({ config });
+    const result = await payload.find({
+      collection: 'regions',
+      where: { parentRegion: { equals: regionId } },
+      limit: 500,
+      sort: 'name',
+    });
+
+    return (result.docs || []).map((child: any) => ({
+      name: child.name,
+      slug: child.slug,
+      classification: (child.classification || undefined) as ClassificationType | undefined,
+      level: child.level,
+    }));
   } catch (error) {
     console.error('Error fetching children from Payload:', error);
     return [];
   }
-}
-
-function getNextLevel(level: string): string | null {
-  const levelMap: Record<string, string> = {
-    'country': 'region',
-    'region': 'subregion',
-    'subregion': 'village',
-    'sub-region': 'village',
-    'village': 'vineyard',
-  };
-  return levelMap[level] || null;
 }
 
 function getSidebarTitle(level: string, childLevel?: string): string {
@@ -168,15 +149,15 @@ function getSidebarTitle(level: string, childLevel?: string): string {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
   const { slug } = await params;
   const fullSlug = slug.join('/');
-  const config = getRegionConfig(fullSlug);
+  const region = await getRegionFromPayload(fullSlug);
 
-  if (!config) {
+  if (!region) {
     return { title: 'Region Not Found | WineSaint' };
   }
 
   return {
-    title: `${config.title} Wine Guide | WineSaint`,
-    description: `Complete guide to ${config.title} wines, terroir, and producers.`
+    title: `${region.name} Wine Guide | WineSaint`,
+    description: `Complete guide to ${region.name} wines, terroir, and producers.`
   };
 }
 
@@ -184,54 +165,72 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
   const { slug } = await params;
   const fullSlug = slug.join('/');
 
-  const config = getRegionConfig(fullSlug);
+  // Fetch region from Payload
+  const region = await getRegionFromPayload(fullSlug);
 
-  if (!config) {
+  if (!region) {
     notFound();
   }
 
-  // Use sidebarLinks from config if available, otherwise fetch from Payload
-  let sidebarLinks = config.sidebarLinks;
+  // Get parent region path from fullSlug
+  const parentRegionPath = getParentRegionPath(fullSlug);
+
+  // Use stored sidebarLinks if available, otherwise query children
+  let sidebarLinks: SidebarLink[];
   let dynamicSidebarTitle: string | undefined;
 
-  if (!sidebarLinks || sidebarLinks.length === 0) {
-    sidebarLinks = await getChildrenFromPayload(fullSlug, config.level);
+  if (region.sidebarLinks && region.sidebarLinks.length > 0) {
+    // Use the explicitly configured sidebar links
+    sidebarLinks = region.sidebarLinks.map(link => ({
+      name: link.name,
+      slug: link.slug,
+      classification: (link.classification || undefined) as ClassificationType | undefined,
+    }));
 
-    // Determine sidebar title based on what we fetched
-    if (sidebarLinks.length > 0) {
-      // We need to look up the level of the children to set the right title
-      const childrenRes = await fetch(
-        `${API_URL}/regions?where[fullSlug][equals]=${encodeURIComponent(fullSlug + '/' + sidebarLinks[0].slug)}&limit=1`,
-        { next: { revalidate: 60 } }
-      );
-      if (childrenRes.ok) {
-        const childData = await childrenRes.json();
-        if (childData.docs && childData.docs.length > 0) {
-          dynamicSidebarTitle = getSidebarTitle(config.level, childData.docs[0].level);
-        }
-      }
+    // Fetch first child for sidebar title in parallel with nothing else needed
+    const firstChildSlug = fullSlug + '/' + sidebarLinks[0].slug;
+    const childRegion = await getRegionFromPayload(firstChildSlug);
+    if (childRegion) {
+      dynamicSidebarTitle = getSidebarTitle(region.level, childRegion.level);
+    }
+  } else {
+    // Fall back to querying children - this returns child data including level
+    const children = await getChildrenFromPayloadWithLevel(fullSlug, region.id);
+    sidebarLinks = children.map(child => ({
+      name: child.name,
+      slug: child.slug,
+      classification: (child.classification || undefined) as ClassificationType | undefined,
+    }));
+
+    // Use the level from the first child if available
+    if (children.length > 0 && children[0].level) {
+      dynamicSidebarTitle = getSidebarTitle(region.level, children[0].level);
     }
   }
 
   // Normalize level to match RegionLayout expectations
-  const normalizedLevel = config.level === 'subregion' ? 'sub-region' : config.level;
+  const normalizedLevel = region.level === 'subregion' ? 'sub-region' : region.level;
 
-  // For vineyard-level pages, fetch rich vineyard data from Payload
+  // For vineyard-level pages, prepare vineyard data
   let vineyardData: VineyardData | undefined;
-  if (config.level === 'vineyard') {
-    const payloadData = await getVineyardDataFromPayload(fullSlug);
-    vineyardData = payloadData || { classification: config.classification };
+  if (region.level === 'vineyard') {
+    vineyardData = {
+      classification: region.classification,
+      acreage: region.acreage,
+      aspect: region.aspect,
+    };
   }
 
   return (
     <RegionLayout
-      title={config.title}
+      title={region.name}
+      fullSlug={region.fullSlug}
       level={normalizedLevel as 'country' | 'region' | 'sub-region' | 'village' | 'vineyard'}
-      parentRegion={config.parentRegion}
-      classification={config.classification}
+      parentRegion={parentRegionPath}
+      classification={region.classification}
       sidebarLinks={sidebarLinks}
-      sidebarTitle={config.sidebarTitle || dynamicSidebarTitle}
-      contentFile={config.contentFile || `${slug[slug.length - 1]}-guide.md`}
+      sidebarTitle={region.sidebarTitle || dynamicSidebarTitle}
+      markdownContent={region.description}
       vineyardData={vineyardData}
     />
   );

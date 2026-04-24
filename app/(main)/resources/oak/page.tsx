@@ -1,10 +1,9 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import oakData from '@/app/data/oak.json';
 
-type SectionId = 'species' | 'forests' | 'cooperage' | 'toast' | 'formats' | 'chemistry' | 'usage' | 'traditions' | 'alternatives';
+type SectionId = 'species' | 'forests' | 'cooperage' | 'toast' | 'formats' | 'chemistry' | 'usage' | 'alternatives';
 
 const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'species', label: 'Oak Species', icon: '🌳' },
@@ -16,6 +15,8 @@ const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'usage', label: 'New vs Used', icon: '♻️' },
   { id: 'alternatives', label: 'Alternatives', icon: '📦' },
 ];
+
+const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000';
 
 function GrainIndicator({ grain }: { grain: string }) {
   const grainLower = grain.toLowerCase();
@@ -71,6 +72,41 @@ function ToastMeter({ level }: { level: string }) {
 
 export default function OakGuidePage() {
   const [activeSection, setActiveSection] = useState<SectionId>('species');
+  const [oakData, setOakData] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const res = await fetch(`${API_URL}/api/resource-guides/oak`);
+        if (res.ok) {
+          const data = await res.json();
+          setOakData(data.content);
+        }
+      } catch (error) {
+        console.error('Error fetching oak data:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchData();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="bg-[#FAF7F2] min-h-screen flex items-center justify-center">
+        <p className="text-gray-500">Loading...</p>
+      </div>
+    );
+  }
+
+  if (!oakData) {
+    return (
+      <div className="bg-[#FAF7F2] min-h-screen flex items-center justify-center">
+        <p className="text-gray-500">Failed to load oak guide data.</p>
+      </div>
+    );
+  }
 
   return (
     <div className="bg-[#FAF7F2] min-h-screen">
@@ -120,7 +156,7 @@ export default function OakGuidePage() {
               <p className="text-gray-600 mb-6">{oakData.sections.species.description}</p>
 
               <div className="grid gap-6 md:grid-cols-3">
-                {oakData.sections.species.items.map((species) => (
+                {oakData.sections.species.items.map((species: any) => (
                   <Link key={species.id} href={`/resources/oak/species/${species.id}`} className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
                     <h3 className="font-serif text-xl italic text-[#722F37] group-hover:underline">{species.name}</h3>
                     <p className="text-sm text-gray-500 mb-3">{species.common_name}</p>
@@ -136,7 +172,7 @@ export default function OakGuidePage() {
                       <div>
                         <p className="text-xs font-medium text-[#1C1C1C] mb-1">Characteristics:</p>
                         <ul className="text-xs text-gray-600 space-y-1">
-                          {species.characteristics.slice(0, 3).map((c, i) => (
+                          {species.characteristics.slice(0, 3).map((c: string, i: number) => (
                             <li key={i}>• {c}</li>
                           ))}
                         </ul>
@@ -145,7 +181,7 @@ export default function OakGuidePage() {
                       <div>
                         <p className="text-xs font-medium text-[#1C1C1C] mb-1">Flavors:</p>
                         <div className="flex flex-wrap gap-1">
-                          {species.flavor_profile.map((f, i) => (
+                          {species.flavor_profile.map((f: string, i: number) => (
                             <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
                               {f}
                             </span>
@@ -171,7 +207,7 @@ export default function OakGuidePage() {
               <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.forests.title}</h2>
               <p className="text-gray-600 mb-6">{oakData.sections.forests.description}</p>
 
-              {oakData.sections.forests.regions.map((region) => (
+              {oakData.sections.forests.regions.map((region: any) => (
                 <div key={region.id} className="mb-8 last:mb-0">
                   <h3 className="text-lg font-semibold text-[#1C1C1C] mb-4 pb-2 border-b-2 border-[#722F37]">
                     {region.name} <span className="text-gray-400 font-normal">({region.country})</span>
@@ -210,6 +246,95 @@ export default function OakGuidePage() {
           </div>
         )}
 
+        {/* Toast Levels Section */}
+        {activeSection === 'toast' && (
+          <div className="space-y-6">
+            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
+              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.toast_levels.title}</h2>
+              <p className="text-gray-600 mb-6">{oakData.sections.toast_levels.description}</p>
+
+              <div className="space-y-4">
+                {oakData.sections.toast_levels.levels.map((level: any) => (
+                  <Link key={level.id} href={`/resources/oak/toast/${level.id}`} className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
+                    <div className="flex flex-wrap items-center gap-4 mb-3">
+                      <h3 className="font-serif text-xl italic text-[#722F37] group-hover:underline">{level.name}</h3>
+                      <ToastMeter level={level.id} />
+                      <span className="text-sm text-gray-500">
+                        {level.temperature_f} / {level.temperature_c}
+                      </span>
+                      <span className="text-sm text-gray-500">
+                        {level.duration}
+                      </span>
+                    </div>
+
+                    <div className="grid gap-4 md:grid-cols-3">
+                      <div>
+                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Characteristics:</p>
+                        <ul className="text-sm text-gray-600 space-y-1">
+                          {level.characteristics.map((c: string, i: number) => (
+                            <li key={i}>• {c}</li>
+                          ))}
+                        </ul>
+                      </div>
+
+                      <div>
+                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Flavor Compounds:</p>
+                        <div className="flex flex-wrap gap-1">
+                          {level.flavor_compounds.map((f: string, i: number) => (
+                            <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
+                              {f}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+
+                      <div>
+                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Ellagitannins:</p>
+                        <p className="text-sm text-gray-600">{level.ellagitannins}</p>
+                        <p className="text-xs text-gray-500 italic mt-2">Best for: {level.best_for}</p>
+                      </div>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Barrel Formats Section */}
+        {activeSection === 'formats' && (
+          <div className="space-y-6">
+            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
+              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.barrel_formats.title}</h2>
+              <p className="text-gray-600 mb-6">{oakData.sections.barrel_formats.description}</p>
+
+              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {oakData.sections.barrel_formats.formats.map((format: any) => (
+                  <Link key={format.id} href={`/resources/oak/formats/${format.id}`} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
+                    <div className="flex justify-between items-start mb-2">
+                      <h3 className="font-serif text-lg italic text-[#722F37] group-hover:underline">{format.name}</h3>
+                      <span className="text-lg font-bold text-[#1C1C1C]">
+                        {typeof format.capacity_liters === 'number'
+                          ? `${format.capacity_liters}L`
+                          : format.capacity_liters}
+                      </span>
+                    </div>
+
+                    <p className="text-xs text-gray-500 mb-2">{format.origin}</p>
+                    {format.dimensions && (
+                      <p className="text-xs text-gray-500 mb-2">{format.dimensions}</p>
+                    )}
+                    <p className="text-sm text-gray-600">{format.characteristics}</p>
+                    <p className="text-xs text-gray-500 mt-2">
+                      <span className="font-medium">Oak influence:</span> {format.oak_influence}
+                    </p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* Cooperage Section */}
         {activeSection === 'cooperage' && (
           <div className="space-y-6">
@@ -241,7 +366,7 @@ export default function OakGuidePage() {
                 <h3 className="font-semibold text-[#1C1C1C] mb-3">Seasoning</h3>
                 <p className="text-sm text-gray-600 mb-4">{oakData.sections.cooperage.seasoning.description}</p>
                 <div className="grid gap-4 md:grid-cols-2">
-                  {oakData.sections.cooperage.seasoning.methods.map((method) => (
+                  {oakData.sections.cooperage.seasoning.methods.map((method: any) => (
                     <div key={method.name} className="bg-[#FAF7F2] rounded-lg p-4">
                       <h4 className="font-medium text-[#722F37]">{method.name}</h4>
                       <p className="text-sm"><span className="font-medium">Duration:</span> {method.duration}</p>
@@ -249,225 +374,6 @@ export default function OakGuidePage() {
                       <p className="text-xs text-gray-500 mt-2">{method.notes}</p>
                     </div>
                   ))}
-                </div>
-                <p className="text-sm text-gray-600 mt-3">
-                  <span className="font-medium">Target moisture:</span> {oakData.sections.cooperage.seasoning.target_moisture}
-                </p>
-              </div>
-
-              {/* Barrel Forming Stages */}
-              <div className="mb-6">
-                <h3 className="font-semibold text-[#1C1C1C] mb-3">Barrel Forming: Three Stages</h3>
-                <div className="grid gap-4 md:grid-cols-3">
-                  {oakData.sections.cooperage.barrel_forming.stages.map((stage, idx) => (
-                    <div key={stage.name} className="bg-[#FAF7F2] rounded-lg p-4 relative">
-                      <div className="absolute -top-3 -left-2 w-8 h-8 bg-[#722F37] text-white rounded-full flex items-center justify-center font-bold">
-                        {idx + 1}
-                      </div>
-                      <h4 className="font-serif text-lg italic text-[#722F37] mt-2">{stage.name}</h4>
-                      <p className="text-xs text-gray-500 mb-2">{stage.translation}</p>
-                      {stage.duration && <p className="text-sm"><span className="font-medium">Duration:</span> {stage.duration}</p>}
-                      {stage.method && <p className="text-sm"><span className="font-medium">Method:</span> {stage.method}</p>}
-                      <p className="text-sm text-gray-600 mt-2">{stage.purpose}</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* Stave Preparation */}
-              <div className="bg-amber-50 rounded-lg p-4 border border-amber-200">
-                <h3 className="font-semibold text-[#1C1C1C] mb-2">Stave Preparation: Split vs Sawn</h3>
-                <div className="grid gap-4 md:grid-cols-2 text-sm">
-                  <div>
-                    <p className="font-medium">French Oak:</p>
-                    <p className="text-gray-600">{oakData.sections.cooperage.stave_preparation.french_oak}</p>
-                  </div>
-                  <div>
-                    <p className="font-medium">American Oak:</p>
-                    <p className="text-gray-600">{oakData.sections.cooperage.stave_preparation.american_oak}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Famous Cooperages */}
-            {oakData.sections.cooperage.famous_cooperages && (
-              <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-                <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">Famous Cooperages</h2>
-                <p className="text-gray-600 mb-6">{oakData.sections.cooperage.famous_cooperages.description}</p>
-
-                {/* Price Tiers */}
-                <div className="bg-[#FAF7F2] rounded-lg p-5 mb-6">
-                  <h3 className="font-semibold text-[#1C1C1C] mb-3">Barrel Price Tiers (225L)</h3>
-                  <div className="space-y-2">
-                    {oakData.sections.cooperage.famous_cooperages.price_tiers.map((tier: { type: string; range: string; notes: string }) => (
-                      <div key={tier.type} className="flex items-center justify-between text-sm border-b border-[#1C1C1C]/10 pb-2 last:border-0">
-                        <span className="font-medium">{tier.type}</span>
-                        <span className="text-[#722F37] font-bold">{tier.range}</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                {/* Classification Styles */}
-                <div className="grid gap-4 md:grid-cols-2 mb-6">
-                  <div className="bg-purple-50 rounded-lg p-4 border border-purple-200">
-                    <h4 className="font-serif text-lg italic text-purple-800 mb-2">Burgundian Style</h4>
-                    <p className="text-sm text-gray-600 mb-2">{oakData.sections.cooperage.famous_cooperages.classification_styles.burgundian.description}</p>
-                    <p className="text-xs text-gray-500">Stave: {oakData.sections.cooperage.famous_cooperages.classification_styles.burgundian.stave_thickness}</p>
-                  </div>
-                  <div className="bg-red-50 rounded-lg p-4 border border-red-200">
-                    <h4 className="font-serif text-lg italic text-red-800 mb-2">Bordelaise Style</h4>
-                    <p className="text-sm text-gray-600 mb-2">{oakData.sections.cooperage.famous_cooperages.classification_styles.bordelaise.description}</p>
-                    <p className="text-xs text-gray-500">Stave: {oakData.sections.cooperage.famous_cooperages.classification_styles.bordelaise.stave_thickness}</p>
-                  </div>
-                </div>
-
-                {/* Cooperages by Region */}
-                {oakData.sections.cooperage.famous_cooperages.regions.map((region: { name: string; cooperages: Array<{ id: string; name: string; location: string; founded?: string; style?: string; classification?: string; notable_clients?: string[]; characteristics: string; specialty?: string; annual_production?: string }> }) => (
-                  <div key={region.name} className="mb-8 last:mb-0">
-                    <h3 className="font-serif text-xl italic text-[#722F37] mb-4 pb-2 border-b border-[#1C1C1C]/10">{region.name}</h3>
-                    <div className="grid gap-4 md:grid-cols-2">
-                      {region.cooperages.map((cooperage) => (
-                        <Link
-                          key={cooperage.id}
-                          href={`/resources/oak/cooperages/${cooperage.id}`}
-                          className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block"
-                        >
-                          <div className="flex items-start justify-between mb-2">
-                            <h4 className="font-serif text-lg italic text-[#1C1C1C] group-hover:text-[#722F37] group-hover:underline">{cooperage.name}</h4>
-                            {cooperage.classification && (
-                              <span className={`text-xs px-2 py-0.5 rounded-full ${
-                                cooperage.style === 'Burgundian' ? 'bg-purple-100 text-purple-800' :
-                                cooperage.style === 'Bordelaise' ? 'bg-red-100 text-red-800' :
-                                'bg-gray-100 text-gray-800'
-                              }`}>
-                                {cooperage.classification}
-                              </span>
-                            )}
-                          </div>
-                          <p className="text-xs text-gray-500 mb-2">{cooperage.location}{cooperage.founded && ` · Est. ${cooperage.founded}`}</p>
-                          <p className="text-sm text-gray-600 line-clamp-2 mb-2">{cooperage.characteristics}</p>
-                          {cooperage.notable_clients && cooperage.notable_clients.length > 0 && (
-                            <div className="flex flex-wrap gap-1">
-                              {cooperage.notable_clients.slice(0, 3).map((client: string, i: number) => (
-                                <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/10">{client}</span>
-                              ))}
-                              {cooperage.notable_clients.length > 3 && (
-                                <span className="text-xs text-gray-400">+{cooperage.notable_clients.length - 3} more</span>
-                              )}
-                            </div>
-                          )}
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        )}
-
-        {/* Toast Levels Section */}
-        {activeSection === 'toast' && (
-          <div className="space-y-6">
-            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.toast_levels.title}</h2>
-              <p className="text-gray-600 mb-6">{oakData.sections.toast_levels.description}</p>
-
-              <div className="space-y-4">
-                {oakData.sections.toast_levels.levels.map((level) => (
-                  <Link key={level.id} href={`/resources/oak/toast/${level.id}`} className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
-                    <div className="flex flex-wrap items-center gap-4 mb-3">
-                      <h3 className="font-serif text-xl italic text-[#722F37] group-hover:underline">{level.name}</h3>
-                      <ToastMeter level={level.id} />
-                      <span className="text-sm text-gray-500">
-                        {level.temperature_f} / {level.temperature_c}
-                      </span>
-                      <span className="text-sm text-gray-500">
-                        {level.duration}
-                      </span>
-                    </div>
-
-                    <div className="grid gap-4 md:grid-cols-3">
-                      <div>
-                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Characteristics:</p>
-                        <ul className="text-sm text-gray-600 space-y-1">
-                          {level.characteristics.map((c, i) => (
-                            <li key={i}>• {c}</li>
-                          ))}
-                        </ul>
-                      </div>
-
-                      <div>
-                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Flavor Compounds:</p>
-                        <div className="flex flex-wrap gap-1">
-                          {level.flavor_compounds.map((f, i) => (
-                            <span key={i} className="text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
-                              {f}
-                            </span>
-                          ))}
-                        </div>
-                      </div>
-
-                      <div>
-                        <p className="text-xs font-medium text-[#1C1C1C] mb-1">Ellagitannins:</p>
-                        <p className="text-sm text-gray-600">{level.ellagitannins}</p>
-                        <p className="text-xs text-gray-500 italic mt-2">Best for: {level.best_for}</p>
-                      </div>
-                    </div>
-                  </Link>
-                ))}
-              </div>
-
-              <div className="mt-6 bg-amber-50 rounded-lg p-4 border border-amber-200">
-                <h4 className="font-medium text-[#1C1C1C] mb-1">Toasted Heads Option</h4>
-                <p className="text-sm text-gray-600">{oakData.sections.toast_levels.toasted_heads.description}</p>
-                <p className="text-sm text-gray-500 mt-1">{oakData.sections.toast_levels.toasted_heads.effect}</p>
-              </div>
-            </div>
-          </div>
-        )}
-
-        {/* Barrel Formats Section */}
-        {activeSection === 'formats' && (
-          <div className="space-y-6">
-            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.barrel_formats.title}</h2>
-              <p className="text-gray-600 mb-6">{oakData.sections.barrel_formats.description}</p>
-
-              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                {oakData.sections.barrel_formats.formats.map((format) => (
-                  <Link key={format.id} href={`/resources/oak/formats/${format.id}`} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block">
-                    <div className="flex justify-between items-start mb-2">
-                      <h3 className="font-serif text-lg italic text-[#722F37] group-hover:underline">{format.name}</h3>
-                      <span className="text-lg font-bold text-[#1C1C1C]">
-                        {typeof format.capacity_liters === 'number'
-                          ? `${format.capacity_liters}L`
-                          : format.capacity_liters}
-                      </span>
-                    </div>
-
-                    <p className="text-xs text-gray-500 mb-2">{format.origin}</p>
-                    {format.dimensions && (
-                      <p className="text-xs text-gray-500 mb-2">{format.dimensions}</p>
-                    )}
-                    <p className="text-sm text-gray-600">{format.characteristics}</p>
-                    <p className="text-xs text-gray-500 mt-2">
-                      <span className="font-medium">Oak influence:</span> {format.oak_influence}
-                    </p>
-                  </Link>
-                ))}
-              </div>
-
-              <div className="mt-6 grid gap-4 md:grid-cols-2">
-                <div className="bg-[#722F37]/10 rounded-lg p-4">
-                  <h4 className="font-medium text-[#722F37] mb-2">Small Format Impact</h4>
-                  <p className="text-sm text-gray-600">{oakData.sections.barrel_formats.size_impact.small_format}</p>
-                </div>
-                <div className="bg-gray-100 rounded-lg p-4">
-                  <h4 className="font-medium text-[#1C1C1C] mb-2">Large Format Impact</h4>
-                  <p className="text-sm text-gray-600">{oakData.sections.barrel_formats.size_impact.large_format}</p>
                 </div>
               </div>
             </div>
@@ -504,9 +410,9 @@ export default function OakGuidePage() {
                 </div>
               </div>
 
-              {/* Flavor Compounds */}
+              {/* Compounds */}
               <div className="space-y-4">
-                {oakData.sections.chemistry.compounds.map((compound) => (
+                {oakData.sections.chemistry.compounds.map((compound: any) => (
                   <div key={compound.id} className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10">
                     <div className="flex flex-wrap items-center gap-3 mb-2">
                       <h3 className="font-serif text-xl italic text-[#722F37]">{compound.name}</h3>
@@ -514,43 +420,10 @@ export default function OakGuidePage() {
                         {compound.aroma}
                       </span>
                     </div>
-
                     <p className="text-sm text-gray-500 mb-2">
                       <span className="font-medium">Source:</span> {compound.source}
                     </p>
-
-                    {compound.isomers && (
-                      <div className="bg-white rounded p-3 mb-2">
-                        <p className="text-sm font-medium mb-2">Isomers:</p>
-                        <div className="grid gap-2 md:grid-cols-2 text-sm">
-                          <div>
-                            <p className="font-medium">Cis-isomer:</p>
-                            <p className="text-gray-600">Concentration: {compound.isomers.cis.concentration}</p>
-                            <p className="text-gray-600">Potency: {compound.isomers.cis.potency}</p>
-                            <p className="text-gray-600">Threshold: {compound.isomers.cis.threshold_red_wine}</p>
-                          </div>
-                          <div>
-                            <p className="font-medium">Trans-isomer:</p>
-                            <p className="text-gray-600">Threshold: {compound.isomers.trans.threshold_red_wine}</p>
-                          </div>
-                        </div>
-                      </div>
-                    )}
-
-                    {compound.types && (
-                      <p className="text-sm text-gray-600 mb-2">
-                        <span className="font-medium">Types:</span> {compound.types.join(', ')}
-                      </p>
-                    )}
-
-                    {compound.effect && (
-                      <p className="text-sm text-gray-600 mb-2">
-                        <span className="font-medium">Effect:</span> {compound.effect}
-                      </p>
-                    )}
-
                     <p className="text-sm text-gray-600">{compound.notes}</p>
-
                     <p className="text-xs text-gray-500 mt-2 pt-2 border-t border-[#1C1C1C]/10">
                       <span className="font-medium">Toast effect:</span> {compound.toast_effect}
                     </p>
@@ -572,7 +445,7 @@ export default function OakGuidePage() {
               <div className="mb-6">
                 <h3 className="font-semibold text-[#1C1C1C] mb-4">Extraction by Use</h3>
                 <div className="space-y-3">
-                  {oakData.sections.new_vs_used.extraction_rates.map((rate, idx) => (
+                  {oakData.sections.new_vs_used.extraction_rates.map((rate: any) => (
                     <div key={rate.use} className="flex items-center gap-4">
                       <div className="w-32 text-sm font-medium">{rate.use}</div>
                       <div className="flex-1 bg-gray-200 rounded-full h-4 overflow-hidden">
@@ -588,18 +461,6 @@ export default function OakGuidePage() {
                 </div>
               </div>
 
-              {/* Notes */}
-              <div className="grid gap-4 md:grid-cols-2 mb-6">
-                <div className="bg-amber-50 rounded-lg p-4 border border-amber-200">
-                  <h4 className="font-medium text-[#1C1C1C] mb-2">Lactone Behavior</h4>
-                  <p className="text-sm text-gray-600">{oakData.sections.new_vs_used.lactone_note}</p>
-                </div>
-                <div className="bg-blue-50 rounded-lg p-4 border border-blue-200">
-                  <h4 className="font-medium text-[#1C1C1C] mb-2">Oxygen Transmission</h4>
-                  <p className="text-sm text-gray-600">{oakData.sections.new_vs_used.oxygen_note}</p>
-                </div>
-              </div>
-
               {/* Typical Usage */}
               <div className="bg-[#FAF7F2] rounded-lg p-5">
                 <h3 className="font-semibold text-[#1C1C1C] mb-4">Typical New Oak Usage</h3>
@@ -607,7 +468,7 @@ export default function OakGuidePage() {
                   {Object.entries(oakData.sections.new_vs_used.typical_usage).map(([key, value]) => (
                     <div key={key} className="flex justify-between text-sm">
                       <span className="text-gray-600">{key.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}</span>
-                      <span className="font-medium">{value}</span>
+                      <span className="font-medium">{value as string}</span>
                     </div>
                   ))}
                 </div>
@@ -624,7 +485,7 @@ export default function OakGuidePage() {
               <p className="text-gray-600 mb-6">{oakData.sections.alternatives.description}</p>
 
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3 mb-6">
-                {oakData.sections.alternatives.formats.map((format) => (
+                {oakData.sections.alternatives.formats.map((format: any) => (
                   <div key={format.id} className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10">
                     <div className="flex justify-between items-start mb-2">
                       <h3 className="font-serif text-lg italic text-[#722F37]">{format.name}</h3>
@@ -641,7 +502,7 @@ export default function OakGuidePage() {
                       <div className="mb-2">
                         <p className="text-xs font-medium text-green-700">Pros:</p>
                         <ul className="text-xs text-gray-600">
-                          {format.pros.map((p, i) => <li key={i}>+ {p}</li>)}
+                          {format.pros.map((p: string, i: number) => <li key={i}>+ {p}</li>)}
                         </ul>
                       </div>
                     )}
@@ -650,39 +511,12 @@ export default function OakGuidePage() {
                       <div>
                         <p className="text-xs font-medium text-red-700">Cons:</p>
                         <ul className="text-xs text-gray-600">
-                          {format.cons.map((c, i) => <li key={i}>- {c}</li>)}
+                          {format.cons.map((c: string, i: number) => <li key={i}>- {c}</li>)}
                         </ul>
                       </div>
                     )}
-
-                    {format.cost && (
-                      <p className="text-xs text-gray-500 mt-2 pt-2 border-t border-[#1C1C1C]/10">
-                        Cost: {format.cost}
-                      </p>
-                    )}
                   </div>
                 ))}
-              </div>
-
-              {/* Micro-oxygenation */}
-              <div className="bg-blue-50 rounded-lg p-4 border border-blue-200 mb-6">
-                <h4 className="font-medium text-[#1C1C1C] mb-2">Micro-oxygenation</h4>
-                <p className="text-sm text-gray-600">{oakData.sections.alternatives.micro_oxygenation.description}</p>
-                <p className="text-sm text-gray-500 mt-1">{oakData.sections.alternatives.micro_oxygenation.purpose}</p>
-              </div>
-
-              {/* Cost and Legal */}
-              <div className="grid gap-4 md:grid-cols-2">
-                <div className="bg-[#FAF7F2] rounded-lg p-4">
-                  <h4 className="font-medium text-[#1C1C1C] mb-2">Cost Comparison</h4>
-                  <p className="text-sm"><span className="font-medium">Barrel:</span> {oakData.sections.alternatives.cost_comparison.barrel}</p>
-                  <p className="text-sm"><span className="font-medium">Alternatives:</span> {oakData.sections.alternatives.cost_comparison.alternatives}</p>
-                </div>
-                <div className="bg-[#FAF7F2] rounded-lg p-4">
-                  <h4 className="font-medium text-[#1C1C1C] mb-2">Legal Status</h4>
-                  <p className="text-sm"><span className="font-medium">Prohibited:</span> {oakData.sections.alternatives.legal_status.prohibited}</p>
-                  <p className="text-sm"><span className="font-medium">Allowed:</span> {oakData.sections.alternatives.legal_status.allowed}</p>
-                </div>
               </div>
 
               <div className="mt-6 text-center">
@@ -695,17 +529,19 @@ export default function OakGuidePage() {
         )}
 
         {/* Barrel Costs Footer */}
-        <div className="mt-8 bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
-          <h2 className="font-serif text-xl italic text-[#1C1C1C] mb-4">{oakData.barrel_costs.title}</h2>
-          <div className="grid gap-3 md:grid-cols-5">
-            {oakData.barrel_costs.prices.map((item) => (
-              <div key={item.type} className="text-center">
-                <p className="text-lg font-bold text-[#722F37]">{item.price_range}</p>
-                <p className="text-xs text-gray-600">{item.type}</p>
-              </div>
-            ))}
+        {oakData.barrel_costs && (
+          <div className="mt-8 bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
+            <h2 className="font-serif text-xl italic text-[#1C1C1C] mb-4">{oakData.barrel_costs.title}</h2>
+            <div className="grid gap-3 md:grid-cols-5">
+              {oakData.barrel_costs.prices.map((item: any) => (
+                <div key={item.type} className="text-center">
+                  <p className="text-lg font-bold text-[#722F37]">{item.price_range}</p>
+                  <p className="text-xs text-gray-600">{item.type}</p>
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
+        )}
       </div>
     </div>
   );
