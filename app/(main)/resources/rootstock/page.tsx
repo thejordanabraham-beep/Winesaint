@@ -14,8 +14,6 @@ const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'modern', label: 'Modern Developments', icon: '🔬' },
 ];
 
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000';
-
 function VigorMeter({ rating }: { rating: number }) {
   return (
     <div className="flex items-center gap-1">
@@ -81,7 +79,7 @@ export default function RootstockGuidePage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch(`${API_URL}/api/resource-guides/rootstock`);
+        const res = await fetch(`/api/resource-guides/rootstock`);
         if (res.ok) {
           const data = await res.json();
           setRootstockData(data.content);

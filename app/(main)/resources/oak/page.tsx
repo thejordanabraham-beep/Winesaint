@@ -16,8 +16,6 @@ const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'alternatives', label: 'Alternatives', icon: '📦' },
 ];
 
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000';
-
 function GrainIndicator({ grain }: { grain: string }) {
   const grainLower = grain.toLowerCase();
   let level = 2;
@@ -78,7 +76,7 @@ export default function OakGuidePage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch(`${API_URL}/api/resource-guides/oak`);
+        const res = await fetch('/api/resource-guides/oak');
         if (res.ok) {
           const data = await res.json();
           setOakData(data.content);

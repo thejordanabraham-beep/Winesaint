@@ -10,8 +10,6 @@ const SECTIONS = [
   { id: 'science', label: 'Why It Matters', icon: '🔬' },
 ];
 
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000';
-
 function ShoulderIndicator({ type }: { type: string }) {
   const getColor = () => {
     if (type.toLowerCase().includes('high')) return 'bg-[#722F37]';
@@ -50,7 +48,7 @@ export default function BottlesGuidePage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch(`${API_URL}/api/resource-guides/bottles`);
+        const res = await fetch(`/api/resource-guides/bottles`);
         if (res.ok) {
           const data = await res.json();
           setBottleData(data.content);
