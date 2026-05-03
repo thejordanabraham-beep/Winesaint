@@ -2,8 +2,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import ReactMarkdown from 'react-markdown';
-
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000/api';
+import { getPayload } from 'payload';
+import config from '@payload-config';
 
 interface Grape {
   id: number;
@@ -20,13 +20,15 @@ interface Grape {
 
 async function getGrapeBySlug(slug: string): Promise<Grape | null> {
   try {
-    const response = await fetch(
-      `${API_URL}/grapes?where[slug][equals]=${encodeURIComponent(slug)}&limit=1`,
-      { next: { revalidate: 60 } }
-    );
-    if (!response.ok) return null;
-    const data = await response.json();
-    return data.docs?.[0] || null;
+    const payload = await getPayload({ config });
+    const data = await payload.find({
+      collection: 'grapes',
+      where: {
+        slug: { equals: slug }
+      },
+      limit: 1,
+    });
+    return (data.docs?.[0] as Grape) || null;
   } catch (error) {
     console.error('Error fetching grape:', error);
     return null;

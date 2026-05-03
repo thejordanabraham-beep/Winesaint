@@ -59,31 +59,31 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Connect */}
+          {/* Learn */}
           <div>
             <h4 className="font-medium text-sm uppercase tracking-wider mb-4">
-              Connect
+              Learn
             </h4>
             <ul className="space-y-3 text-sm">
               <li>
-                <Link href="/about" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  About Us
+                <Link href="/grapes" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Grape Guide
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  Get in Touch
+                <Link href="/resources/oak" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Oak Guide
                 </Link>
               </li>
               <li>
-                <Link href="/subscribe" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  Newsletter
+                <Link href="/resources/rootstock" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Rootstock Guide
                 </Link>
               </li>
               <li>
-                <a href="https://instagram.com" className="fun-link text-gray-600 hover:text-[#722F37]">
-                  Instagram
-                </a>
+                <Link href="/resources/glossary" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Wine Glossary
+                </Link>
               </li>
             </ul>
           </div>
