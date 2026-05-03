@@ -1,11 +1,6 @@
 import { NextResponse } from 'next/server';
-import pg from 'pg';
-
-const { Pool } = pg;
-
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-});
+import fs from 'fs';
+import path from 'path';
 
 export async function GET(
   request: Request,
@@ -14,16 +9,22 @@ export async function GET(
   try {
     const { slug } = await params;
 
-    const result = await pool.query(
-      'SELECT slug, title, content FROM resource_guides WHERE slug = $1',
-      [slug]
-    );
+    // Read from JSON file in app/data directory
+    const dataDir = path.join(process.cwd(), 'app', 'data');
+    const filePath = path.join(dataDir, `${slug}.json`);
 
-    if (result.rows.length === 0) {
+    if (!fs.existsSync(filePath)) {
       return NextResponse.json({ error: 'Not found' }, { status: 404 });
     }
 
-    return NextResponse.json(result.rows[0]);
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const content = JSON.parse(fileContent);
+
+    return NextResponse.json({
+      slug,
+      title: content.guide_type || slug,
+      content,
+    });
   } catch (error) {
     console.error('Error fetching resource guide:', error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
