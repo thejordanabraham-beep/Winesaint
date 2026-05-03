@@ -43,13 +43,18 @@ export function formatWineDisplayName(
 ): string {
   const parts: string[] = [];
 
+  // Normalize Unicode (NFC) to handle different encodings of accented characters
+  // e.g., "â" (single char) vs "a" + combining accent (two chars)
+  const normalizedProducer = producerName?.trim().toLowerCase().normalize('NFC');
+  const normalizedWine = wineName?.trim().toLowerCase().normalize('NFC');
+
   if (producerName) {
-    parts.push(producerName);
+    parts.push(producerName.trim());
   }
 
-  // Only add wine name if it's different from producer
-  if (wineName && wineName.toLowerCase() !== producerName?.toLowerCase()) {
-    parts.push(wineName);
+  // Only add wine name if it's different from producer (after trimming, normalizing case, and Unicode normalization)
+  if (wineName && normalizedWine !== normalizedProducer) {
+    parts.push(wineName.trim());
   }
 
   if (vintage) {

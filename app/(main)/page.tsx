@@ -3,6 +3,7 @@ import { getPayload } from 'payload';
 import config from '@payload-config';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
 import { LivexWidget } from '@/components/home/LivexWidget';
+import { formatWineDisplayName } from '@/lib/utils';
 
 // Demo articles
 const articles = [
@@ -202,7 +203,7 @@ export default async function Home() {
                     <ScoreBadge score={wine.score} size="sm" />
                     <div className="flex-1 min-w-0">
                       <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate">
-                        {wine.producerName} {wine.wineName} {wine.vintage}
+                        {formatWineDisplayName(wine.producerName, wine.wineName, wine.vintage)}
                       </p>
                       <p className="text-sm text-gray-500">{wine.regionName}</p>
                     </div>
@@ -305,9 +306,9 @@ export default async function Home() {
                     </div>
                     <div className="p-4">
                       <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate text-sm">
-                        {wine.producerName} {wine.wineName}
+                        {formatWineDisplayName(wine.producerName, wine.wineName, wine.vintage)}
                       </p>
-                      <p className="text-xs text-gray-500 mt-1">{wine.vintage} · {wine.regionName}</p>
+                      <p className="text-xs text-gray-500 mt-1">{wine.regionName}</p>
                     </div>
                   </div>
                 </Link>

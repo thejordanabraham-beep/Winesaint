@@ -6,29 +6,29 @@ import Link from 'next/link';
 const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
 interface Term {
-  id: number;
+  id: string;
   term: string;
-  slug: string;
-  definition: string;
-  category?: string;
   pronunciation?: string;
-  relatedTerms?: Array<{ term: string }>;
+  categories: string[];
+  short_definition: string;
+  full_definition: string;
+  related_terms?: string[];
+  see_also?: string[];
+}
+
+interface Category {
+  id: string;
+  name: string;
+  icon: string;
+  description: string;
 }
 
 interface GlossaryClientProps {
   terms: Term[];
+  categories: Category[];
 }
 
-const CATEGORIES = [
-  { id: 'winemaking', name: 'Winemaking', icon: '🍷' },
-  { id: 'viticulture', name: 'Viticulture', icon: '🍇' },
-  { id: 'tasting', name: 'Tasting', icon: '👃' },
-  { id: 'regions', name: 'Regions', icon: '🗺️' },
-  { id: 'grapes', name: 'Grapes', icon: '🌿' },
-  { id: 'general', name: 'General', icon: '📚' },
-];
-
-export default function GlossaryClient({ terms }: GlossaryClientProps) {
+export default function GlossaryClient({ terms, categories }: GlossaryClientProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [activeLetter, setActiveLetter] = useState<string | null>(null);
@@ -37,14 +37,14 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
   // Filter terms based on search and category
   const filteredTerms = useMemo(() => {
     return terms.filter(term => {
-      if (selectedCategory !== 'all' && term.category !== selectedCategory) {
+      if (selectedCategory !== 'all' && !term.categories.includes(selectedCategory)) {
         return false;
       }
       if (searchQuery) {
         const query = searchQuery.toLowerCase();
         return (
           term.term.toLowerCase().includes(query) ||
-          term.definition.toLowerCase().includes(query)
+          term.short_definition.toLowerCase().includes(query)
         );
       }
       return true;
@@ -102,6 +102,10 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
     return () => window.removeEventListener('scroll', handleScroll);
   }, [letterCounts]);
 
+  const getCategoryInfo = (catId: string) => {
+    return categories.find(c => c.id === catId);
+  };
+
   return (
     <div className="bg-[#FAF7F2] min-h-screen">
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
@@ -146,7 +150,7 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
               className="w-full rounded-lg border-2 border-[#1C1C1C]/20 bg-white px-4 py-2 text-[#1C1C1C] focus:border-[#722F37] focus:outline-none"
             >
               <option value="all">All Categories</option>
-              {CATEGORIES.map(category => (
+              {categories.map(category => (
                 <option key={category.id} value={category.id}>
                   {category.icon} {category.name}
                 </option>
@@ -209,42 +213,44 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
 
                 <div className="grid gap-4 md:grid-cols-2">
                   {letterTerms.map(term => (
-                    <div
+                    <Link
                       key={term.id}
-                      className="bg-white rounded-lg border-2 border-[#1C1C1C] p-4 hover:border-[#722F37] hover:shadow-lg transition-all group"
+                      href={`/resources/glossary/${term.id}`}
+                      className="bg-white rounded-lg border-2 border-[#1C1C1C] p-4 hover:border-[#722F37] hover:shadow-lg transition-all group block"
                     >
                       <div className="flex justify-between items-start gap-2 mb-2">
                         <h3 className="font-serif text-xl italic text-[#722F37] group-hover:underline">
-                          <Link href={`/resources/glossary/${term.slug}`}>
-                            {term.term}
-                          </Link>
+                          {term.term}
                         </h3>
                         {term.pronunciation && (
                           <span className="text-sm text-gray-400 italic flex-shrink-0">
-                            {term.pronunciation}
+                            /{term.pronunciation}/
                           </span>
                         )}
                       </div>
 
-                      {term.category && (
-                        <div className="mb-3">
-                          <span className="px-2 py-0.5 bg-[#FAF7F2] text-xs rounded border border-[#1C1C1C]/10">
-                            {CATEGORIES.find(c => c.id === term.category)?.icon} {term.category}
-                          </span>
+                      {term.categories && term.categories.length > 0 && (
+                        <div className="mb-3 flex flex-wrap gap-1">
+                          {term.categories.slice(0, 2).map(catId => {
+                            const cat = getCategoryInfo(catId);
+                            if (!cat) return null;
+                            return (
+                              <span key={catId} className="px-2 py-0.5 bg-[#FAF7F2] text-xs rounded border border-[#1C1C1C]/10">
+                                {cat.icon} {cat.name}
+                              </span>
+                            );
+                          })}
                         </div>
                       )}
 
-                      <p className="text-gray-700 text-sm line-clamp-2">
-                        {term.definition}
+                      <p className="text-gray-700 text-sm">
+                        {term.short_definition}
                       </p>
 
-                      <Link
-                        href={`/resources/glossary/${term.slug}`}
-                        className="inline-block mt-3 text-sm text-[#722F37] hover:underline"
-                      >
-                        View full definition &rarr;
-                      </Link>
-                    </div>
+                      <span className="inline-block mt-3 text-sm text-[#722F37] group-hover:underline">
+                        Read more &rarr;
+                      </span>
+                    </Link>
                   ))}
                 </div>
               </div>

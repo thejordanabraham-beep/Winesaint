@@ -3,52 +3,56 @@ import { getAllCountries, getChildRegionCount } from '@/lib/payload';
 
 export const revalidate = 3600;
 
-// Country code to flag emoji mapping
-const countryFlags: Record<string, string> = {
-  'Albania': '🇦🇱',
-  'Argentina': '🇦🇷',
-  'Australia': '🇦🇺',
-  'Austria': '🇦🇹',
-  'Bosnia Herzegovina': '🇧🇦',
-  'Brazil': '🇧🇷',
-  'Bulgaria': '🇧🇬',
-  'Canada': '🇨🇦',
-  'Chile': '🇨🇱',
-  'Croatia': '🇭🇷',
-  'Cyprus': '🇨🇾',
-  'Czech Republic': '🇨🇿',
-  'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
-  'France': '🇫🇷',
-  'Georgia': '🇬🇪',
-  'Germany': '🇩🇪',
-  'Greece': '🇬🇷',
-  'Hungary': '🇭🇺',
-  'Israel': '🇮🇱',
-  'Italy': '🇮🇹',
-  'Lebanon': '🇱🇧',
-  'Luxembourg': '🇱🇺',
-  'Mexico': '🇲🇽',
-  'Moldova': '🇲🇩',
-  'Montenegro': '🇲🇪',
-  'Morocco': '🇲🇦',
-  'New Zealand': '🇳🇿',
-  'North Macedonia': '🇲🇰',
-  'Portugal': '🇵🇹',
-  'Romania': '🇷🇴',
-  'Serbia': '🇷🇸',
-  'Slovakia': '🇸🇰',
-  'Slovenia': '🇸🇮',
-  'South Africa': '🇿🇦',
-  'Spain': '🇪🇸',
-  'Switzerland': '🇨🇭',
-  'Turkey': '🇹🇷',
-  'Ukraine': '🇺🇦',
-  'United States': '🇺🇸',
-  'Uruguay': '🇺🇾',
+// ISO 3166-1 alpha-2 country codes for flagcdn.com
+const countryCodes: Record<string, string> = {
+  'Albania': 'al',
+  'Argentina': 'ar',
+  'Australia': 'au',
+  'Austria': 'at',
+  'Bosnia Herzegovina': 'ba',
+  'Brazil': 'br',
+  'Bulgaria': 'bg',
+  'Canada': 'ca',
+  'Chile': 'cl',
+  'Croatia': 'hr',
+  'Cyprus': 'cy',
+  'Czech Republic': 'cz',
+  'England': 'gb-eng',
+  'France': 'fr',
+  'Georgia': 'ge',
+  'Germany': 'de',
+  'Greece': 'gr',
+  'Hungary': 'hu',
+  'Israel': 'il',
+  'Italy': 'it',
+  'Lebanon': 'lb',
+  'Luxembourg': 'lu',
+  'Mexico': 'mx',
+  'Moldova': 'md',
+  'Montenegro': 'me',
+  'Morocco': 'ma',
+  'New Zealand': 'nz',
+  'North Macedonia': 'mk',
+  'Portugal': 'pt',
+  'Romania': 'ro',
+  'Serbia': 'rs',
+  'Slovakia': 'sk',
+  'Slovenia': 'si',
+  'South Africa': 'za',
+  'Spain': 'es',
+  'Switzerland': 'ch',
+  'Turkey': 'tr',
+  'Ukraine': 'ua',
+  'United States': 'us',
+  'Uruguay': 'uy',
 };
 
-function getFlag(countryName: string): string {
-  return countryFlags[countryName] || '🍷';
+function getFlagUrl(countryName: string): string {
+  const code = countryCodes[countryName];
+  if (code) {
+    return `https://flagcdn.com/w640/${code}.png`;
+  }
+  return '';
 }
 
 export default async function WineRegionGuidePage() {
@@ -75,27 +79,40 @@ export default async function WineRegionGuidePage() {
 
         {/* Country Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-          {countriesWithCounts.map((country) => (
-            <Link
-              key={country.id}
-              href={`/regions/${country.fullSlug}`}
-              className="bg-white rounded-lg border border-gray-200 p-5 hover:shadow-md hover:border-[#722F37]/50 transition-all group"
-            >
-              <div className="flex items-start justify-between">
-                <div className="flex-1">
-                  <h3 className="font-serif text-lg italic text-gray-900 group-hover:text-[#722F37] transition-colors">
+          {countriesWithCounts.map((country) => {
+            const flagUrl = getFlagUrl(country.name);
+            return (
+              <Link
+                key={country.id}
+                href={`/regions/${country.fullSlug}`}
+                className="bg-white rounded-lg border-2 border-[#1C1C1C] overflow-hidden hover:shadow-lg hover:border-[#722F37] transition-all group"
+              >
+                {/* Flag Section - full width image */}
+                <div className="h-28 relative overflow-hidden">
+                  {flagUrl ? (
+                    <img
+                      src={flagUrl}
+                      alt={`${country.name} flag`}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className="w-full h-full bg-[#FAF7F2] flex items-center justify-center">
+                      <span className="text-4xl">🍷</span>
+                    </div>
+                  )}
+                </div>
+                {/* Info Section */}
+                <div className="p-4 border-t-2 border-[#1C1C1C]">
+                  <h3 className="font-serif text-lg italic text-[#1C1C1C] group-hover:text-[#722F37] transition-colors">
                     {country.name}
                   </h3>
                   <p className="text-sm text-gray-500 mt-1">
                     {country.regionCount} {country.regionCount === 1 ? 'region' : 'regions'}
                   </p>
                 </div>
-                <span className="text-3xl ml-3" role="img" aria-label={`${country.name} flag`}>
-                  {getFlag(country.name)}
-                </span>
-              </div>
-            </Link>
-          ))}
+              </Link>
+            );
+          })}
         </div>
 
         {/* No Results */}
