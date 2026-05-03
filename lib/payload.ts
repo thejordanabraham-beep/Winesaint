@@ -1,8 +1,10 @@
 /**
- * Payload CMS API client for fetching data
+ * Payload CMS Local API client for fetching data
+ * Uses Payload's Local API for direct database access (no HTTP overhead)
  */
 
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000/api'
+import { getPayload } from 'payload'
+import config from '@payload-config'
 
 export interface PayloadRegion {
   id: string
@@ -21,33 +23,21 @@ export interface PayloadRegion {
   aspect?: string
 }
 
-interface PayloadResponse<T> {
-  docs: T[]
-  totalDocs: number
-  limit: number
-  totalPages: number
-  page: number
-  pagingCounter: number
-  hasPrevPage: boolean
-  hasNextPage: boolean
-  prevPage: number | null
-  nextPage: number | null
-}
-
 /**
  * Fetch a region by its fullSlug
  */
 export async function getRegionBySlug(fullSlug: string): Promise<PayloadRegion | null> {
   try {
-    const response = await fetch(
-      `${API_URL}/regions?where[fullSlug][equals]=${encodeURIComponent(fullSlug)}&depth=1`,
-      { next: { revalidate: 60 } }
-    )
-
-    if (!response.ok) return null
-
-    const data: PayloadResponse<PayloadRegion> = await response.json()
-    return data.docs[0] || null
+    const payload = await getPayload({ config })
+    const data = await payload.find({
+      collection: 'regions',
+      where: {
+        fullSlug: { equals: fullSlug }
+      },
+      depth: 1,
+      limit: 1,
+    })
+    return (data.docs[0] as PayloadRegion) || null
   } catch (error) {
     console.error('Error fetching region:', error)
     return null
@@ -59,15 +49,16 @@ export async function getRegionBySlug(fullSlug: string): Promise<PayloadRegion |
  */
 export async function getChildRegions(parentId: string): Promise<PayloadRegion[]> {
   try {
-    const response = await fetch(
-      `${API_URL}/regions?where[parentRegion][equals]=${parentId}&limit=500&sort=name`,
-      { next: { revalidate: 60 } }
-    )
-
-    if (!response.ok) return []
-
-    const data: PayloadResponse<PayloadRegion> = await response.json()
-    return data.docs
+    const payload = await getPayload({ config })
+    const data = await payload.find({
+      collection: 'regions',
+      where: {
+        parentRegion: { equals: parentId }
+      },
+      limit: 500,
+      sort: 'name',
+    })
+    return data.docs as PayloadRegion[]
   } catch (error) {
     console.error('Error fetching child regions:', error)
     return []
@@ -79,15 +70,16 @@ export async function getChildRegions(parentId: string): Promise<PayloadRegion[]
  */
 export async function getAllCountries(): Promise<PayloadRegion[]> {
   try {
-    const response = await fetch(
-      `${API_URL}/regions?where[level][equals]=country&limit=100&sort=name`,
-      { next: { revalidate: 60 } }
-    )
-
-    if (!response.ok) return []
-
-    const data: PayloadResponse<PayloadRegion> = await response.json()
-    return data.docs
+    const payload = await getPayload({ config })
+    const data = await payload.find({
+      collection: 'regions',
+      where: {
+        level: { equals: 'country' }
+      },
+      limit: 100,
+      sort: 'name',
+    })
+    return data.docs as PayloadRegion[]
   } catch (error) {
     console.error('Error fetching countries:', error)
     return []
@@ -99,14 +91,13 @@ export async function getAllCountries(): Promise<PayloadRegion[]> {
  */
 export async function getChildRegionCount(parentId: string): Promise<number> {
   try {
-    const response = await fetch(
-      `${API_URL}/regions?where[parentRegion][equals]=${parentId}&limit=0`,
-      { next: { revalidate: 60 } }
-    )
-
-    if (!response.ok) return 0
-
-    const data: PayloadResponse<PayloadRegion> = await response.json()
+    const payload = await getPayload({ config })
+    const data = await payload.count({
+      collection: 'regions',
+      where: {
+        parentRegion: { equals: parentId }
+      },
+    })
     return data.totalDocs
   } catch (error) {
     return 0
@@ -135,15 +126,17 @@ function getNextLevel(currentLevel: PayloadRegion['level']): PayloadRegion['leve
  */
 export async function getChildRegionsFiltered(parentId: string, parentLevel: PayloadRegion['level']): Promise<PayloadRegion[]> {
   try {
-    const response = await fetch(
-      `${API_URL}/regions?where[parentRegion][equals]=${parentId}&limit=500&sort=name`,
-      { next: { revalidate: 60 } }
-    )
+    const payload = await getPayload({ config })
+    const data = await payload.find({
+      collection: 'regions',
+      where: {
+        parentRegion: { equals: parentId }
+      },
+      limit: 500,
+      sort: 'name',
+    })
 
-    if (!response.ok) return []
-
-    const data: PayloadResponse<PayloadRegion> = await response.json()
-    const allChildren = data.docs
+    const allChildren = data.docs as PayloadRegion[]
 
     if (allChildren.length === 0) return []
 

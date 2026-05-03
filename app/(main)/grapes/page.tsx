@@ -1,20 +1,16 @@
+import { getPayload } from 'payload'
+import config from '@payload-config'
 import GrapesClient from './GrapesClient';
-
-const API_URL = process.env.NEXT_PUBLIC_PAYLOAD_URL || 'http://localhost:3000/api';
 
 async function getGrapes() {
   try {
-    // Fetch all grapes from Payload
-    const response = await fetch(`${API_URL}/grapes?limit=500&sort=name`, {
-      next: { revalidate: 60 },
-    });
+    const payload = await getPayload({ config })
+    const data = await payload.find({
+      collection: 'grapes',
+      limit: 500,
+      sort: 'name',
+    })
 
-    if (!response.ok) {
-      console.error('Failed to fetch grapes');
-      return { grapes: [], totalGrapes: 0, essentialCount: 0 };
-    }
-
-    const data = await response.json();
     const grapes = data.docs || [];
     const essentialCount = grapes.filter((g: any) => g.isEssential).length;
 
