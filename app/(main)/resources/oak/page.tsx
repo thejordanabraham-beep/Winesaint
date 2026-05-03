@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 
-type SectionId = 'species' | 'forests' | 'cooperage' | 'toast' | 'formats' | 'chemistry' | 'usage' | 'alternatives';
+type SectionId = 'species' | 'forests' | 'cooperage' | 'toast' | 'formats' | 'chemistry' | 'usage' | 'traditions' | 'alternatives';
 
 const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'species', label: 'Oak Species', icon: '🌳' },
@@ -13,6 +13,7 @@ const SECTIONS: { id: SectionId; label: string; icon: string }[] = [
   { id: 'formats', label: 'Barrel Formats', icon: '🛢️' },
   { id: 'chemistry', label: 'Oak Chemistry', icon: '⚗️' },
   { id: 'usage', label: 'New vs Used', icon: '♻️' },
+  { id: 'traditions', label: 'Regional Traditions', icon: '🌍' },
   { id: 'alternatives', label: 'Alternatives', icon: '📦' },
 ];
 
@@ -374,6 +375,121 @@ export default function OakGuidePage() {
                   ))}
                 </div>
               </div>
+
+              {/* Stave Preparation */}
+              {oakData.sections.cooperage.stave_preparation && (
+                <div className="mb-6">
+                  <h3 className="font-semibold text-[#1C1C1C] mb-3">Stave Preparation</h3>
+                  <div className="grid gap-4 md:grid-cols-2">
+                    <div className="bg-[#FAF7F2] rounded-lg p-4">
+                      <h4 className="font-medium text-[#722F37]">French Oak</h4>
+                      <p className="text-sm text-gray-600">{oakData.sections.cooperage.stave_preparation.french_oak}</p>
+                    </div>
+                    <div className="bg-[#FAF7F2] rounded-lg p-4">
+                      <h4 className="font-medium text-[#722F37]">American Oak</h4>
+                      <p className="text-sm text-gray-600">{oakData.sections.cooperage.stave_preparation.american_oak}</p>
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* Barrel Forming */}
+              {oakData.sections.cooperage.barrel_forming && (
+                <div className="mb-6">
+                  <h3 className="font-semibold text-[#1C1C1C] mb-3">Barrel Forming Stages</h3>
+                  <div className="grid gap-4 md:grid-cols-3">
+                    {oakData.sections.cooperage.barrel_forming.stages.map((stage: any) => (
+                      <div key={stage.name} className="bg-[#FAF7F2] rounded-lg p-4">
+                        <h4 className="font-medium text-[#722F37]">{stage.name}</h4>
+                        <p className="text-xs text-gray-500 italic mb-2">{stage.translation}</p>
+                        {stage.duration && <p className="text-sm"><span className="font-medium">Duration:</span> {stage.duration}</p>}
+                        {stage.method && <p className="text-sm"><span className="font-medium">Method:</span> {stage.method}</p>}
+                        <p className="text-sm text-gray-600 mt-1">{stage.purpose}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Heat Sources */}
+              {oakData.sections.cooperage.heat_sources && (
+                <div className="mb-6">
+                  <h3 className="font-semibold text-[#1C1C1C] mb-3">Heat Sources</h3>
+                  <div className="grid gap-4 md:grid-cols-3">
+                    {oakData.sections.cooperage.heat_sources.map((source: any) => (
+                      <div key={source.name} className="bg-[#FAF7F2] rounded-lg p-4">
+                        <h4 className="font-medium text-[#722F37]">{source.name}</h4>
+                        <p className="text-sm text-gray-600">{source.description}</p>
+                        <p className="text-xs text-gray-500 mt-2"><span className="font-medium">Character:</span> {source.character}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Famous Cooperages */}
+              {oakData.sections.cooperage.famous_cooperages && (
+                <div className="mb-6">
+                  <h3 className="font-semibold text-[#1C1C1C] mb-3">Famous Cooperages</h3>
+                  <p className="text-sm text-gray-600 mb-4">{oakData.sections.cooperage.famous_cooperages.description}</p>
+
+                  {/* Price Tiers */}
+                  {oakData.sections.cooperage.famous_cooperages.price_tiers && (
+                    <div className="bg-[#FAF7F2] rounded-lg p-5 mb-6">
+                      <h4 className="font-medium text-[#1C1C1C] mb-3">Barrel Price Guide</h4>
+                      <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
+                        {oakData.sections.cooperage.famous_cooperages.price_tiers.map((tier: any) => (
+                          <div key={tier.type} className="flex justify-between items-center bg-white rounded p-3 border border-[#1C1C1C]/10">
+                            <div>
+                              <p className="font-medium text-sm">{tier.type}</p>
+                              <p className="text-xs text-gray-500">{tier.notes}</p>
+                            </div>
+                            <span className="text-[#722F37] font-semibold">{tier.range}</span>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {oakData.sections.cooperage.famous_cooperages.regions?.map((region: any) => (
+                    <div key={region.name} className="mb-6">
+                      <h4 className="text-lg font-semibold text-[#1C1C1C] mb-3 pb-2 border-b-2 border-[#722F37]">{region.name}</h4>
+                      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                        {region.cooperages.map((cooper: any) => (
+                          <Link
+                            key={cooper.id}
+                            href={`/resources/oak/cooperages/${cooper.id}`}
+                            className="bg-[#FAF7F2] rounded-lg p-4 border border-[#1C1C1C]/10 hover:border-[#722F37] hover:shadow-md transition-all group block"
+                          >
+                            <h5 className="font-serif text-lg italic text-[#722F37] group-hover:underline">{cooper.name}</h5>
+                            <p className="text-xs text-gray-500 mb-2">{cooper.location} · Est. {cooper.founded}</p>
+                            <p className="text-sm text-gray-600 line-clamp-2">{cooper.specialty || cooper.characteristics}</p>
+                            {cooper.classification && (
+                              <span className="inline-block mt-2 text-xs bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
+                                {cooper.classification}
+                              </span>
+                            )}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+
+                  {/* Classification Styles */}
+                  {oakData.sections.cooperage.famous_cooperages.classification_styles && (
+                    <div className="mt-6 grid gap-4 md:grid-cols-2">
+                      {Object.entries(oakData.sections.cooperage.famous_cooperages.classification_styles).map(([key, style]: [string, any]) => (
+                        <div key={key} className="bg-amber-50 rounded-lg p-4 border border-amber-200">
+                          <h4 className="font-serif text-lg italic text-[#722F37] capitalize mb-2">{key} Style</h4>
+                          <p className="text-sm text-gray-600 mb-2">{style.description}</p>
+                          <p className="text-xs text-gray-500"><span className="font-medium">Stave thickness:</span> {style.stave_thickness}</p>
+                          <p className="text-xs text-gray-500 mt-1"><span className="font-medium">Notable coopers:</span> {style.cooperages?.join(', ')}</p>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
           </div>
         )}
@@ -470,6 +586,73 @@ export default function OakGuidePage() {
                     </div>
                   ))}
                 </div>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Regional Traditions Section */}
+        {activeSection === 'traditions' && oakData.sections.regional_traditions && (
+          <div className="space-y-6">
+            <div className="bg-white rounded-lg border-3 border-[#1C1C1C] p-6">
+              <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-2">{oakData.sections.regional_traditions.title}</h2>
+              <p className="text-gray-600 mb-6">{oakData.sections.regional_traditions.description}</p>
+
+              <div className="space-y-6">
+                {oakData.sections.regional_traditions.regions.map((region: any) => (
+                  <div key={region.region} className="bg-[#FAF7F2] rounded-lg p-5 border border-[#1C1C1C]/10">
+                    <div className="flex flex-wrap items-center gap-3 mb-3">
+                      <h3 className="font-serif text-xl italic text-[#722F37]">{region.region}</h3>
+                      <span className="text-sm bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
+                        {region.oak_type}
+                      </span>
+                      {region.format && (
+                        <span className="text-sm bg-white px-2 py-0.5 rounded border border-[#1C1C1C]/20">
+                          {region.format}
+                        </span>
+                      )}
+                    </div>
+
+                    <div className="grid gap-3 md:grid-cols-2 text-sm mb-3">
+                      {region.tradition && (
+                        <p><span className="font-medium">Tradition:</span> {region.tradition}</p>
+                      )}
+                      {region.style_impact && (
+                        <p><span className="font-medium">Style Impact:</span> {region.style_impact}</p>
+                      )}
+                      {region.new_oak_usage && (
+                        <p><span className="font-medium">New Oak Usage:</span> {region.new_oak_usage}</p>
+                      )}
+                      {region.inventory && (
+                        <p><span className="font-medium">Inventory:</span> {region.inventory}</p>
+                      )}
+                    </div>
+
+                    {region.aging_requirements && (
+                      <p className="text-sm text-gray-600 mb-2">
+                        <span className="font-medium">Aging Requirements:</span> {region.aging_requirements}
+                      </p>
+                    )}
+
+                    {region.modern_trend && (
+                      <p className="text-xs text-gray-500 italic pt-2 border-t border-[#1C1C1C]/10">
+                        Modern trend: {region.modern_trend}
+                      </p>
+                    )}
+
+                    {region.debate && (
+                      <p className="text-xs text-amber-700 italic pt-2 border-t border-[#1C1C1C]/10">
+                        {region.debate}
+                      </p>
+                    )}
+
+                    {region.notable_coopers && (
+                      <p className="text-xs text-gray-500 mt-2">
+                        <span className="font-medium">Notable coopers:</span> {region.notable_coopers.join(', ')}
+                      </p>
+                    )}
+                  </div>
+                ))}
               </div>
             </div>
           </div>
