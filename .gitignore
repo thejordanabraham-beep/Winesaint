@@ -44,6 +44,9 @@ next-env.d.ts
 /data/inao/*.zip
 /data/inao/inao-extracted/
 
+# Map GeoJSON data (120MB, too large for git)
+/public/data/maps/
+
 # Development and temporary files
 .sanity/
 DEPLOYMENT_ANALYSIS.md
