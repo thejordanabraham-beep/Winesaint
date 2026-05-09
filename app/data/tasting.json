@@ -1,0 +1,1638 @@
+{
+  "guide_type": "tasting_science_encyclopedia",
+  "title": "Tasting Science Guide",
+  "subtitle": "Understanding wine through sensory science and chemistry",
+  "created_date": "2026-05-04",
+  "sections": {
+    "overview": {
+      "title": "The Art & Science of Tasting",
+      "description": "Wine tasting is a learnable skill, not an innate gift. Everyone's palate is different, and yours is not wrong. The goal is understanding and articulation, not finding correct answers.",
+      "philosophy": {
+        "title": "Our Philosophy",
+        "points": [
+          "Wine tasting is a learnable skill, not an innate gift",
+          "Everyone's palate is different; yours is not wrong",
+          "The goal is understanding and articulation, not correct answers",
+          "Science explains but doesn't diminish the magic",
+          "Quality exists but so does subjectivity; both are true"
+        ]
+      },
+      "the_winesaint_approach": {
+        "title": "The WineSaint Approach",
+        "description": "Questions, not checklists. We believe in exploration over completion. Rather than mechanically working through a grid, ask yourself these questions:",
+        "questions": [
+          {
+            "question": "What do I see?",
+            "purpose": "Appearance tells a story before you smell anything"
+          },
+          {
+            "question": "What do I smell?",
+            "purpose": "First impression, then deeper exploration"
+          },
+          {
+            "question": "What do I feel?",
+            "purpose": "Structure and texture on the palate"
+          },
+          {
+            "question": "What do I taste?",
+            "purpose": "Flavor confirmation and discovery"
+          },
+          {
+            "question": "How does it evolve?",
+            "purpose": "In the glass, on the palate, through the finish"
+          },
+          {
+            "question": "Is it good?",
+            "purpose": "Quality assessment using defensible criteria"
+          },
+          {
+            "question": "Do I like it?",
+            "purpose": "Personal response, equally valid"
+          }
+        ]
+      },
+      "why_science": {
+        "title": "Why Science Matters",
+        "content": "Understanding why you perceive something makes knowledge sticky and transferable. When you know that the pepper note in Syrah comes from rotundone, you can recognize it in other contexts. When you understand that tannins bind to salivary proteins, you understand why steak softens a tannic wine. Science is not the enemy of poetry; it's the foundation that makes meaningful description possible."
+      }
+    },
+    "sensory": {
+      "title": "Sensory Science",
+      "description": "How we perceive wine through taste, smell, and touch. Understanding your sensory system is the foundation of tasting.",
+      "topics": [
+        {
+          "id": "taste",
+          "name": "The Five Basic Tastes",
+          "icon": "👅",
+          "content": "Your tongue detects five basic tastes: sweet, sour, salty, bitter, and umami. In wine, we primarily encounter sweet (residual sugar), sour (acidity), and bitter (tannins, some phenolics). The old tongue map showing different regions for different tastes is a myth. All taste receptors are distributed across the tongue, though sensitivity varies slightly.",
+          "tastes": [
+            {
+              "name": "Sweet",
+              "detected_by": "T1R2/T1R3 receptors",
+              "in_wine": "Residual sugar, glycerol, alcohol (slightly)",
+              "location": "Tip of tongue (most sensitive)"
+            },
+            {
+              "name": "Sour",
+              "detected_by": "PKD2L1 ion channels",
+              "in_wine": "Tartaric, malic, lactic, citric acids",
+              "location": "Sides of tongue"
+            },
+            {
+              "name": "Bitter",
+              "detected_by": "T2R receptors (25 types)",
+              "in_wine": "Tannins, some phenolic compounds",
+              "location": "Back of tongue"
+            },
+            {
+              "name": "Salty",
+              "detected_by": "ENaC ion channels",
+              "in_wine": "Rare; some mineral-driven wines",
+              "location": "Front and sides"
+            },
+            {
+              "name": "Umami",
+              "detected_by": "T1R1/T1R3 receptors",
+              "in_wine": "Aged wines, lees contact, some aged Champagne",
+              "location": "Throughout tongue"
+            }
+          ]
+        },
+        {
+          "id": "olfaction",
+          "name": "Olfaction & Retronasal Smell",
+          "icon": "👃",
+          "content": "80% of what we call 'taste' is actually smell. You have approximately 400 types of olfactory receptors capable of detecting thousands of different volatile compounds. Wine contains 800+ aromatic compounds, though only a fraction exceed perception thresholds.",
+          "pathways": [
+            {
+              "name": "Orthonasal",
+              "description": "Smelling through the nose, directly from the glass",
+              "when": "Before tasting, while swirling",
+              "what_it_tells_you": "Primary assessment of aroma intensity, condition, complexity"
+            },
+            {
+              "name": "Retronasal",
+              "description": "Volatiles traveling from mouth to nasal cavity",
+              "when": "While the wine is in your mouth and after swallowing",
+              "what_it_tells_you": "Flavor confirmation, finish characteristics, additional complexity"
+            }
+          ],
+          "science": "When you chew or warm wine in your mouth, volatile compounds vaporize and travel up the back of your throat to the olfactory epithelium. This is why wine 'tastes' different from how it smells."
+        },
+        {
+          "id": "trigeminal",
+          "name": "Trigeminal Sensations",
+          "icon": "⚡",
+          "content": "The trigeminal nerve detects physical and chemical irritation, giving us sensations that aren't taste or smell but are crucial to wine perception.",
+          "sensations": [
+            {
+              "name": "Heat/Burn",
+              "source": "Alcohol (ethanol)",
+              "mechanism": "TRPV1 receptor activation (same receptors as capsaicin)",
+              "perception": "Warmth in throat and chest, especially in high-alcohol wines"
+            },
+            {
+              "name": "Astringency",
+              "source": "Tannins",
+              "mechanism": "Protein precipitation on oral mucosa",
+              "perception": "Drying, gripping sensation; not a taste but a tactile feeling"
+            },
+            {
+              "name": "Effervescence",
+              "source": "CO2",
+              "mechanism": "Carbonic acid formation, physical bubble burst",
+              "perception": "Prickle, tingle, mousse texture"
+            },
+            {
+              "name": "Cooling",
+              "source": "Certain compounds (menthol-like)",
+              "mechanism": "TRPM8 receptor activation",
+              "perception": "Rare in wine; some Rieslings have cool mineral sensation"
+            }
+          ]
+        },
+        {
+          "id": "variability",
+          "name": "Perception Variability",
+          "icon": "🎭",
+          "content": "Everyone's palate is genuinely different. This isn't a cop-out; it's biology. Understanding your own sensory profile helps you communicate better and trust your perceptions.",
+          "factors": [
+            {
+              "name": "Supertasters",
+              "description": "~25% of people have significantly more taste papillae",
+              "impact": "More sensitive to bitterness, may find tannic wines unpleasant",
+              "test": "PROP paper test (bitter compound sensitivity)"
+            },
+            {
+              "name": "Specific Anosmias",
+              "description": "Inability to smell specific compounds",
+              "impact": "~20% cannot smell rotundone (black pepper in Syrah)",
+              "note": "You may be 'blind' to certain aromas and not know it"
+            },
+            {
+              "name": "Threshold Differences",
+              "description": "Detection thresholds vary 10-100x between individuals",
+              "impact": "What's overwhelming to one person may be subtle to another",
+              "note": "Training can improve detection but not eliminate differences"
+            },
+            {
+              "name": "Age-Related Changes",
+              "description": "Smell sensitivity decreases with age",
+              "impact": "Older tasters may prefer more aromatic wines",
+              "note": "Experience and vocabulary can compensate for reduced sensitivity"
+            }
+          ]
+        }
+      ]
+    },
+    "structure": {
+      "title": "Wine Structure",
+      "description": "The architectural elements that define how wine feels. Structure is the skeleton; flavor is the flesh.",
+      "elements": [
+        {
+          "id": "acidity",
+          "name": "Acidity",
+          "icon": "🍋",
+          "what_it_is": "The sourness in wine from organic acids, primarily tartaric, malic, lactic, and citric. Acidity gives wine freshness, lift, and aging potential.",
+          "acids": [
+            {
+              "name": "Tartaric",
+              "source": "Grape berry",
+              "character": "Crisp, clean, stable",
+              "note": "The primary acid in wine; doesn't degrade with ripening"
+            },
+            {
+              "name": "Malic",
+              "source": "Grape berry",
+              "character": "Sharp, green apple, aggressive",
+              "note": "Converted to lactic via MLF; higher in cool climates"
+            },
+            {
+              "name": "Lactic",
+              "source": "Malolactic fermentation",
+              "character": "Soft, creamy, rounded",
+              "note": "Result of MLF; gives buttery, softer mouthfeel"
+            },
+            {
+              "name": "Citric",
+              "source": "Grape (small amounts), sometimes added",
+              "character": "Fresh, citrus-like",
+              "note": "Present in small quantities; sometimes added for freshness"
+            }
+          ],
+          "how_to_detect": "Acidity triggers salivation. The more your mouth waters, the higher the acid. Also creates a sensation of brightness, crispness, or sourness on the sides of your tongue.",
+          "science": "Acid activates sour taste receptors and triggers salivation as a protective/digestive response. pH typically ranges from 2.9 (very high acid) to 4.0 (very low acid).",
+          "spectrum": {
+            "low": "Flabby, flat, lacking freshness",
+            "medium": "Balanced, food-friendly",
+            "high": "Tart, sharp, mouth-watering"
+          },
+          "wine_impact": "Freshness, aging potential, food pairing versatility, perception of sweetness (high acid makes wine seem drier)",
+          "climate_correlation": "Cool climates produce higher acid grapes; warm climates produce lower acid grapes",
+          "examples": {
+            "high": "Champagne, Riesling, Chablis, Muscadet",
+            "low": "Viognier, Gewurztraminer, warm-climate reds"
+          }
+        },
+        {
+          "id": "tannin",
+          "name": "Tannin",
+          "icon": "🍇",
+          "what_it_is": "Phenolic compounds from grape skins, seeds, stems, and oak. Tannins provide structure, texture, and aging potential, primarily in red wines.",
+          "sources": [
+            {
+              "name": "Grape Skins",
+              "character": "Generally finer, more integrated",
+              "extraction": "Increased with maceration time, temperature"
+            },
+            {
+              "name": "Seeds",
+              "character": "Can be harsher, more bitter",
+              "extraction": "Released later in maceration; careful handling needed"
+            },
+            {
+              "name": "Stems",
+              "character": "Herbaceous, can add grip",
+              "extraction": "Whole-cluster fermentation; style choice"
+            },
+            {
+              "name": "Oak",
+              "character": "Adds structure and complexity",
+              "extraction": "From barrel aging; new oak contributes more"
+            }
+          ],
+          "how_to_detect": "Astringency: the drying, gripping sensation on gums, tongue, and inner cheeks. Not a taste but a tactile sensation caused by proteins binding.",
+          "science": "Tannins are polyphenols that bind to salivary proteins, precipitating them and reducing lubrication. This creates the drying sensation. Over time, tannins polymerize and become softer.",
+          "texture_vocabulary": [
+            { "term": "Silky", "description": "Fine-grained, smooth, elegant" },
+            { "term": "Velvety", "description": "Soft, plush, rounded" },
+            { "term": "Chalky", "description": "Fine but drying, powdery" },
+            { "term": "Grainy", "description": "Textured, slightly coarse" },
+            { "term": "Grippy", "description": "Firm, chewy, present" },
+            { "term": "Coarse", "description": "Rough, harsh, aggressive" }
+          ],
+          "spectrum": {
+            "low": "Soft, supple, easy-drinking",
+            "medium": "Structured, balanced grip",
+            "high": "Firm, chewy, needs food or aging"
+          },
+          "wine_impact": "Mouthfeel, aging potential, food pairing (protein softens tannins)",
+          "examples": {
+            "high": "Nebbiolo, Cabernet Sauvignon, Tannat, young Barolo",
+            "low": "Pinot Noir, Gamay, Dolcetto"
+          }
+        },
+        {
+          "id": "alcohol",
+          "name": "Alcohol",
+          "icon": "🔥",
+          "what_it_is": "Ethanol produced during fermentation. Alcohol contributes to body, texture, and perceived sweetness, but also heat.",
+          "how_to_detect": "Heat or warmth in the throat and chest. Higher alcohol wines feel 'hotter.' Also contributes to viscosity (legs/tears on glass).",
+          "science": "Ethanol activates TRPV1 receptors (the same receptors triggered by capsaicin in chili peppers), creating a burning sensation. It also lowers the boiling point of aromatic compounds, increasing their volatility.",
+          "levels": [
+            { "range": "Below 10%", "description": "Light, often sweet wines (Moscato d'Asti)", "heat": "None" },
+            { "range": "10-12%", "description": "Light-bodied, cool climate (Riesling, Vinho Verde)", "heat": "Minimal" },
+            { "range": "12-14%", "description": "Medium-bodied, most table wines", "heat": "Subtle" },
+            { "range": "14-15%", "description": "Full-bodied, warm climate", "heat": "Noticeable" },
+            { "range": "Above 15%", "description": "Very full, hot climate or fortified", "heat": "Pronounced" }
+          ],
+          "legs_myth": "Legs (tears, wine fingers) indicate alcohol level and sugar, not quality. The Marangoni effect causes liquid with higher alcohol to sheet down the glass.",
+          "wine_impact": "Body, warmth, balance, perception of sweetness, aromatic intensity",
+          "balance": "Alcohol should be integrated, not searing. If you feel burn before flavor, the wine may be unbalanced."
+        },
+        {
+          "id": "body",
+          "name": "Body",
+          "icon": "⚖️",
+          "what_it_is": "The overall weight and texture of wine in your mouth. Think of it like the difference between skim milk (light), whole milk (medium), and cream (full).",
+          "components": [
+            { "name": "Alcohol", "contribution": "Higher alcohol = fuller body" },
+            { "name": "Sugar", "contribution": "Residual sugar adds weight" },
+            { "name": "Extract", "contribution": "Dissolved solids from grapes" },
+            { "name": "Glycerol", "contribution": "Fermentation byproduct; adds viscosity" },
+            { "name": "Tannin", "contribution": "In reds, adds textural weight" }
+          ],
+          "how_to_detect": "Weight on the palate. Does it feel light and refreshing or rich and coating? Compare to the milk analogy.",
+          "spectrum": [
+            { "level": "Light", "description": "Refreshing, easy, thirst-quenching", "examples": "Muscadet, Vinho Verde, Beaujolais" },
+            { "level": "Medium-light", "description": "Crisp, bright, food-friendly", "examples": "Pinot Grigio, Sancerre, most roses" },
+            { "level": "Medium", "description": "Versatile, balanced weight", "examples": "Burgundy, Rioja, Chianti" },
+            { "level": "Medium-full", "description": "Rich but not heavy", "examples": "Merlot, Chardonnay (oaked), Syrah" },
+            { "level": "Full", "description": "Rich, powerful, coating", "examples": "Napa Cabernet, Barossa Shiraz, Amarone" }
+          ],
+          "wine_impact": "Food pairing (match weight with food), style expectations, climate indication"
+        },
+        {
+          "id": "sweetness",
+          "name": "Sweetness",
+          "icon": "🍯",
+          "what_it_is": "Residual sugar (RS) remaining after fermentation. Most table wines are technically dry (less than 4 g/L RS), but perception of sweetness is affected by other factors.",
+          "spectrum": [
+            { "level": "Bone dry", "rs": "0-1 g/L", "examples": "Muscadet, Chablis, Fino Sherry" },
+            { "level": "Dry", "rs": "1-9 g/L", "examples": "Most table wines", "note": "Below perception threshold for most people" },
+            { "level": "Off-dry", "rs": "9-18 g/L", "examples": "Many Rieslings, Vouvray, Chenin Blanc" },
+            { "level": "Medium-sweet", "rs": "18-45 g/L", "examples": "Spatlese, Moscato d'Asti" },
+            { "level": "Sweet", "rs": "45-120 g/L", "examples": "Sauternes, Auslese" },
+            { "level": "Lusciously sweet", "rs": "120+ g/L", "examples": "TBA, Icewine, Tokaji Essencia" }
+          ],
+          "how_to_detect": "Sweetness is perceived on the tip of the tongue as a viscous, coating sensation. But be careful: high acid can mask sweetness, and fruity aromas can suggest sweetness in dry wines.",
+          "perception_factors": [
+            "High acidity makes wine seem drier than RS suggests",
+            "Fruity aromas can trick you into perceiving sweetness",
+            "Alcohol contributes slight sweetness perception",
+            "Tannins and bitterness counteract sweetness"
+          ],
+          "wine_impact": "Style, food pairing, balance, aging (sweet wines age well due to sugar's preservative effect)"
+        },
+        {
+          "id": "balance",
+          "name": "Balance",
+          "icon": "☯️",
+          "what_it_is": "The harmony between structural elements. A balanced wine has no single element dominating uncomfortably. Balance is style-dependent: a tannic Barolo is balanced differently than a delicate Muscadet.",
+          "how_to_assess": "No element should stick out aggressively. Ask: Does the acidity feel appropriate? Is the tannin integrated? Does the alcohol show as heat? Is sweetness balanced by acid?",
+          "considerations": [
+            "Balance is not the same as blandness. A wine can be high-acid, high-tannin, and high-alcohol yet still be balanced",
+            "Young wines may seem unbalanced but will integrate with age",
+            "Style matters: a sweet wine needs high acid for balance; a tannic wine needs fruit concentration",
+            "Balance is relative to the wine's category, not an absolute standard"
+          ],
+          "examples": [
+            { "wine": "Sweet Riesling", "balance": "High sugar balanced by high acid" },
+            { "wine": "Napa Cabernet", "balance": "High alcohol balanced by concentration and tannin" },
+            { "wine": "Barolo", "balance": "High tannin balanced by high acid and complex fruit" },
+            { "wine": "Muscadet", "balance": "Light body balanced by crisp acidity" }
+          ],
+          "imbalance_signs": [
+            "Acid that makes you wince without pleasure",
+            "Tannins that feel harsh without fruit to support them",
+            "Alcohol that burns before you taste anything",
+            "Sweetness that cloys without freshness to cut it"
+          ]
+        }
+      ]
+    },
+    "aromas": {
+      "title": "Aroma Compounds",
+      "description": "The chemistry behind what you smell. Understanding where aromas come from helps you identify them and understand wine better.",
+      "categories": {
+        "primary": {
+          "name": "Primary Aromas",
+          "source": "From the grape itself",
+          "description": "Varietal character, terroir expression. These aromas are present in the grape and survive fermentation.",
+          "icon": "🍇",
+          "examples": "Citrus in Riesling, bell pepper in Cabernet Sauvignon, lychee in Gewurztraminer"
+        },
+        "secondary": {
+          "name": "Secondary Aromas",
+          "source": "From fermentation and early winemaking",
+          "description": "Yeast-derived aromas, malolactic fermentation byproducts, carbonic maceration characteristics.",
+          "icon": "🧪",
+          "examples": "Butter from MLF, banana from carbonic maceration, bread dough from yeast"
+        },
+        "tertiary": {
+          "name": "Tertiary Aromas",
+          "source": "From aging (oak and/or bottle)",
+          "description": "Oak influence, oxidative development, bottle bouquet. These develop over time.",
+          "icon": "🛢️",
+          "examples": "Vanilla from oak, leather from bottle age, petrol from aged Riesling"
+        }
+      },
+      "compounds": [
+        {
+          "id": "linalool",
+          "name": "Linalool",
+          "category": "primary",
+          "family": "Terpenes",
+          "aroma": "Floral, citrus, lavender, orange blossom",
+          "found_in": ["Muscat", "Gewurztraminer", "Riesling", "Torrontes"],
+          "threshold": "25 ppb",
+          "chemistry": "Monoterpene alcohol; present in grape skins; increases with ripeness",
+          "note": "One of the most important aromatic compounds in white wine"
+        },
+        {
+          "id": "rotundone",
+          "name": "Rotundone",
+          "category": "primary",
+          "family": "Sesquiterpenes",
+          "aroma": "Black pepper, white pepper, spice",
+          "found_in": ["Syrah/Shiraz", "Gruner Veltliner", "Mourvedre", "Schioppettino"],
+          "threshold": "16 ng/L (extremely low)",
+          "chemistry": "Sesquiterpene; found in grape skins; also present in black peppercorns",
+          "note": "Approximately 20% of the population cannot smell rotundone (specific anosmia)"
+        },
+        {
+          "id": "methoxypyrazines",
+          "name": "Methoxypyrazines",
+          "category": "primary",
+          "family": "Pyrazines",
+          "aroma": "Green bell pepper, grass, jalapeno, green pea",
+          "found_in": ["Sauvignon Blanc", "Cabernet Sauvignon", "Cabernet Franc", "Carmenere"],
+          "threshold": "1-2 ng/L (extremely low)",
+          "chemistry": "Nitrogen-containing compounds; decrease with sun exposure and ripeness",
+          "subtypes": [
+            { "name": "IBMP", "aroma": "Green bell pepper", "note": "Most common in wine" },
+            { "name": "IPMP", "aroma": "Earthy, asparagus", "note": "Less common" }
+          ],
+          "note": "Can be positive (herbaceous complexity) or negative (unripe, vegetal)"
+        },
+        {
+          "id": "thiols",
+          "name": "Volatile Thiols",
+          "category": "primary",
+          "family": "Sulfur compounds",
+          "aroma": "Grapefruit, passionfruit, blackcurrant, boxwood",
+          "found_in": ["Sauvignon Blanc", "Colombard", "some Chardonnay"],
+          "threshold": "0.8-60 ng/L (extremely low)",
+          "chemistry": "Sulfur-containing compounds released from odorless precursors during fermentation",
+          "subtypes": [
+            { "name": "3MH", "aroma": "Grapefruit, passionfruit" },
+            { "name": "3MHA", "aroma": "Tropical, boxwood" },
+            { "name": "4MMP", "aroma": "Blackcurrant, boxwood" }
+          ],
+          "note": "Key to Marlborough Sauvignon Blanc character"
+        },
+        {
+          "id": "diacetyl",
+          "name": "Diacetyl",
+          "category": "secondary",
+          "family": "Ketones",
+          "aroma": "Butter, butterscotch, cream, toffee",
+          "source": "Malolactic fermentation",
+          "found_in": ["Oaked Chardonnay", "Many red wines post-MLF"],
+          "threshold": "0.2-2.8 mg/L (varies with wine matrix)",
+          "chemistry": "Produced by lactic acid bacteria during MLF; can be metabolized further to less buttery compounds",
+          "note": "Iconic Californian Chardonnay character; controversial (some love it, some hate it)"
+        },
+        {
+          "id": "esters",
+          "name": "Fermentation Esters",
+          "category": "secondary",
+          "family": "Esters",
+          "aroma": "Fruity, floral, candy-like",
+          "source": "Yeast metabolism during fermentation",
+          "chemistry": "Formed from alcohol + acid; type depends on yeast strain and fermentation conditions",
+          "subtypes": [
+            { "name": "Ethyl acetate", "aroma": "Fruity, nail polish at high levels" },
+            { "name": "Isoamyl acetate", "aroma": "Banana, pear drops", "note": "High in carbonic maceration wines" },
+            { "name": "Ethyl hexanoate", "aroma": "Apple, anise" },
+            { "name": "Ethyl octanoate", "aroma": "Tropical fruit, pear" }
+          ],
+          "note": "Young wines are often ester-driven; these fade with age"
+        },
+        {
+          "id": "vanillin",
+          "name": "Vanillin",
+          "category": "tertiary",
+          "family": "Phenolic aldehydes",
+          "aroma": "Vanilla, sweet spice, cream",
+          "source": "Oak aging (from lignin degradation)",
+          "found_in": ["Any oak-aged wine"],
+          "threshold": "60-200 ppb",
+          "chemistry": "Released from oak lignin; more from new oak, American oak has higher levels than French",
+          "note": "The most recognizable oak-derived aroma"
+        },
+        {
+          "id": "eugenol",
+          "name": "Eugenol",
+          "category": "tertiary",
+          "family": "Phenols",
+          "aroma": "Clove, spice, allspice",
+          "source": "Oak aging",
+          "found_in": ["Oak-aged wines, especially new French oak"],
+          "threshold": "6-15 ppb",
+          "chemistry": "Extracted from oak; French oak typically has more than American",
+          "note": "Part of the 'spice' character in oaked wines"
+        },
+        {
+          "id": "lactones",
+          "name": "Oak Lactones",
+          "category": "tertiary",
+          "family": "Lactones",
+          "aroma": "Coconut, woody, sweet",
+          "source": "Oak aging",
+          "found_in": ["Oak-aged wines, especially American oak"],
+          "threshold": "20-70 ppb",
+          "chemistry": "cis-isomer is more aromatic; American oak has 5-10x more than French",
+          "subtypes": [
+            { "name": "cis-oak lactone", "aroma": "Coconut, intense" },
+            { "name": "trans-oak lactone", "aroma": "Woody, less intense" }
+          ],
+          "note": "Why American oak gives that distinctive coconut note"
+        },
+        {
+          "id": "tdn",
+          "name": "TDN (Petrol)",
+          "category": "tertiary",
+          "family": "Norisoprenoids",
+          "aroma": "Petrol, kerosene, diesel, rubber",
+          "source": "Bottle aging (carotenoid degradation)",
+          "found_in": ["Aged Riesling", "some aged Semillon"],
+          "threshold": "20 ppb",
+          "chemistry": "1,1,6-trimethyl-1,2-dihydronaphthalene; forms from carotenoid precursors during aging",
+          "note": "Considered a positive trait in aged Riesling; develops after 3-5+ years"
+        },
+        {
+          "id": "sotolon",
+          "name": "Sotolon",
+          "category": "tertiary",
+          "family": "Furanones",
+          "aroma": "Curry, fenugreek, maple syrup, caramel",
+          "source": "Oxidative aging",
+          "found_in": ["Vin Jaune", "Sherry", "Madeira", "old Sauternes"],
+          "threshold": "5-10 ppb",
+          "chemistry": "Forms during extended oxidative aging",
+          "note": "The distinctive aroma of Vin Jaune and oxidized sweet wines"
+        },
+        {
+          "id": "brett-compounds",
+          "name": "Brettanomyces Compounds",
+          "category": "tertiary",
+          "family": "Volatile phenols",
+          "aroma": "Band-aid, barnyard, horse stable, medicinal, smoky",
+          "source": "Brettanomyces yeast contamination",
+          "threshold": "4-EP: 230-600 ppb; 4-EG: 33-135 ppb",
+          "chemistry": "4-ethylphenol and 4-ethylguaiacol produced by Brett from grape-derived precursors",
+          "subtypes": [
+            { "name": "4-Ethylphenol (4-EP)", "aroma": "Band-aid, medicinal, barnyard" },
+            { "name": "4-Ethylguaiacol (4-EG)", "aroma": "Smoky, spicy, clove" }
+          ],
+          "note": "Controversial: some consider low levels 'complexity,' others consider any level a fault"
+        },
+        {
+          "id": "geraniol",
+          "name": "Geraniol",
+          "category": "primary",
+          "family": "Terpenes",
+          "aroma": "Rose, geranium, citrus, floral",
+          "found_in": ["Gewurztraminer", "Muscat", "Riesling", "some Viognier"],
+          "threshold": "30-40 ppb",
+          "chemistry": "Monoterpenol; highest in aromatic varieties; degrades to less floral compounds with age",
+          "note": "One of the key aromatics distinguishing Gewurztraminer; name means 'crane' in Greek, related to geranium flower shape"
+        },
+        {
+          "id": "damascenone",
+          "name": "Beta-Damascenone",
+          "category": "primary",
+          "family": "Norisoprenoids",
+          "aroma": "Apple, rose, honey, quince, cooked apple",
+          "found_in": ["Most wines at varying levels", "particularly Chardonnay", "Riesling"],
+          "threshold": "0.05 ppb (extremely low)",
+          "chemistry": "Derived from carotenoid degradation; builds during grape ripening; remarkably potent",
+          "note": "Despite low concentrations, contributes significantly to wine aroma due to incredibly low threshold. Enhances perception of fruitiness even below detection limit."
+        },
+        {
+          "id": "ionone",
+          "name": "Beta-Ionone",
+          "category": "primary",
+          "family": "Norisoprenoids",
+          "aroma": "Violet, floral, raspberry, woody",
+          "found_in": ["Syrah", "Pinot Noir", "Nebbiolo", "Sangiovese"],
+          "threshold": "0.007 ppb (extremely low)",
+          "chemistry": "Carotenoid degradation product; responsible for violet notes in red wines",
+          "note": "The classic violet note in Syrah and Nebbiolo comes primarily from beta-ionone"
+        },
+        {
+          "id": "cineole",
+          "name": "Eucalyptol (1,8-Cineole)",
+          "category": "primary",
+          "family": "Monoterpenes",
+          "aroma": "Eucalyptus, menthol, minty, medicinal",
+          "found_in": ["Australian Cabernet", "wines near eucalyptus forests"],
+          "threshold": "1.1-3.2 ppb",
+          "chemistry": "Terpene found in eucalyptus trees; transfers to grapes via air/contact",
+          "note": "Not grape-derived; comes from environmental eucalyptus. Once considered a 'New World' character, now understood as site-specific. Some argue it masks terroir."
+        },
+        {
+          "id": "guaiacol-smoke",
+          "name": "Guaiacol (Smoke)",
+          "category": "tertiary",
+          "family": "Volatile phenols",
+          "aroma": "Smoke, char, bacon, burnt wood",
+          "found_in": ["Oak-aged wines", "smoke-tainted wines"],
+          "threshold": "9.5-25 ppb",
+          "chemistry": "From oak lignin degradation during toasting; also from wildfire smoke exposure",
+          "note": "Positive in controlled amounts from barrel; fault when from wildfire smoke taint. Smoke taint releases more guaiacol during fermentation."
+        },
+        {
+          "id": "furfural",
+          "name": "Furfural",
+          "category": "tertiary",
+          "family": "Furans",
+          "aroma": "Almond, bread, caramel, toasted",
+          "source": "Oak toasting, particularly medium-plus toast",
+          "found_in": ["Oak-aged wines", "particularly American oak"],
+          "threshold": "14.1-23.0 mg/L",
+          "chemistry": "Formed from pentose sugar degradation during oak toasting",
+          "note": "Contributes sweet, caramel, almond notes; higher in toasted vs air-dried oak"
+        },
+        {
+          "id": "acetaldehyde",
+          "name": "Acetaldehyde",
+          "category": "secondary",
+          "family": "Aldehydes",
+          "aroma": "Bruised apple, sherry, oxidized, nutty",
+          "source": "Yeast metabolism, oxidation",
+          "threshold": "100-125 mg/L",
+          "chemistry": "Intermediate in alcohol production; accumulates in oxidative conditions",
+          "note": "Positive in Sherry, Vin Jaune; fault in fresh wines. First compound to increase during oxidation."
+        },
+        {
+          "id": "citronellol",
+          "name": "Citronellol",
+          "category": "primary",
+          "family": "Terpenes",
+          "aroma": "Citrus, rose, green, linalool-like but softer",
+          "found_in": ["Gewurztraminer", "Muscat", "Riesling"],
+          "threshold": "18-100 ppb",
+          "chemistry": "Monoterpenol; often formed from geraniol reduction during fermentation",
+          "note": "Yeast can convert geraniol to citronellol during fermentation, changing the aromatic profile"
+        },
+        {
+          "id": "phenylethanol",
+          "name": "2-Phenylethanol",
+          "category": "secondary",
+          "family": "Higher alcohols",
+          "aroma": "Rose, honey, floral, perfumed",
+          "source": "Yeast metabolism from phenylalanine",
+          "found_in": ["Most wines", "enhanced in skin-contact whites"],
+          "threshold": "10-100 mg/L",
+          "chemistry": "Higher alcohol formed by yeast; levels influenced by fermentation temperature and nitrogen",
+          "note": "Major contributor to floral notes in wine. Production increases at lower fermentation temperatures."
+        }
+      ],
+      "aroma_families": {
+        "title": "Aroma Family Groupings",
+        "description": "Wine aromas can be organized into families to help systematic identification. Each family shares chemical or perceptual relationships.",
+        "families": [
+          {
+            "family": "Fruity",
+            "subfamilies": ["Citrus", "Tree fruit", "Stone fruit", "Tropical", "Red fruit", "Black fruit", "Dried fruit"],
+            "examples": "Lemon, apple, peach, pineapple, cherry, blackcurrant, raisin",
+            "chemistry": "Esters, terpenes, lactones, thiols"
+          },
+          {
+            "family": "Floral",
+            "subfamilies": ["White flowers", "Red flowers", "Dried flowers"],
+            "examples": "Jasmine, rose, violet, honeysuckle, potpourri",
+            "chemistry": "Terpenes (linalool, geraniol), norisoprenoids (beta-ionone)"
+          },
+          {
+            "family": "Herbaceous",
+            "subfamilies": ["Green", "Herbal", "Vegetal"],
+            "examples": "Bell pepper, grass, eucalyptus, mint, tomato leaf",
+            "chemistry": "Methoxypyrazines, terpenes, aldehydes"
+          },
+          {
+            "family": "Spicy",
+            "subfamilies": ["Sweet spices", "Pungent spices", "Pepper"],
+            "examples": "Vanilla, cinnamon, clove, black pepper, licorice",
+            "chemistry": "Phenols (eugenol), sesquiterpenes (rotundone), lactones"
+          },
+          {
+            "family": "Earthy",
+            "subfamilies": ["Soil", "Mineral", "Mushroom"],
+            "examples": "Forest floor, wet stone, truffle, must, chalk",
+            "chemistry": "Geosmin, various terpenes, thiols"
+          },
+          {
+            "family": "Oak-derived",
+            "subfamilies": ["Wood", "Smoke", "Vanilla"],
+            "examples": "Cedar, toast, smoke, coconut, vanilla",
+            "chemistry": "Lactones, vanillin, guaiacol, furfural"
+          },
+          {
+            "family": "Chemical/Fault",
+            "subfamilies": ["Oxidation", "Sulfur", "Vinegar", "Microbial"],
+            "examples": "Sherry, rotten eggs, nail polish, barnyard",
+            "chemistry": "Acetaldehyde, H2S, ethyl acetate, 4-EP"
+          }
+        ]
+      }
+    },
+    "faults": {
+      "title": "Wine Faults",
+      "description": "When something goes wrong. Recognizing faults is practical knowledge that helps you know when to send a wine back versus when to give it a chance.",
+      "introduction": "Wine faults exist on a spectrum. Some are clear-cut (corked wine), others are contextual (brett can be character or flaw). Learning to identify faults helps you distinguish 'I don't like this' from 'this is actually compromised.'",
+      "faults": [
+        {
+          "id": "tca",
+          "name": "Cork Taint (TCA)",
+          "icon": "🍾",
+          "cause": "2,4,6-trichloroanisole contaminating cork",
+          "how_it_happens": "TCA forms when chlorine compounds (from sanitizers) interact with fungi in cork. Can also occur in winery equipment, barrels, or even cardboard.",
+          "detection": "Wet cardboard, musty basement, damp newspaper, moldy cellar. Mutes fruit character, shortens finish.",
+          "threshold": "1-2 parts per trillion (humans are extremely sensitive)",
+          "severity": "Wine is compromised at any detectable level",
+          "prevalence": "~3-5% of cork-sealed bottles",
+          "can_fix": false,
+          "what_to_do": "Send it back. There's no saving a corked wine. Even if you can't smell it clearly, if the wine seems muted and flat, TCA may be to blame.",
+          "note": "Sometimes subtle. If a wine seems strangely dull or cardboard-like, suspect TCA even if the classic musty smell isn't obvious."
+        },
+        {
+          "id": "brett",
+          "name": "Brettanomyces",
+          "icon": "🐴",
+          "cause": "Wild yeast contamination (Brettanomyces bruxellensis)",
+          "how_it_happens": "Brett lives in wineries, especially in used barrels. Poor hygiene, low SO2, and high pH increase risk.",
+          "detection": "Band-aid, barnyard, horse stable, medicinal, sweaty saddle. At low levels: earthy, leathery, 'funky.'",
+          "compounds": ["4-ethylphenol (4-EP)", "4-ethylguaiacol (4-EG)"],
+          "threshold": "4-EP: ~425 micrograms/L (but perception varies widely)",
+          "severity": "Spectrum from subtle complexity to overwhelming flaw",
+          "can_fix": false,
+          "controversy": {
+            "defenders": "Low levels add complexity, earthiness, terroir expression",
+            "critics": "Any level masks varietal character and indicates poor winemaking",
+            "regional_tolerance": "More accepted in traditional Rhone, some Burgundy; less in New World"
+          },
+          "what_to_do": "At low levels, decide if you find it appealing. At high levels (overpowering), it's a fault by any standard."
+        },
+        {
+          "id": "oxidation",
+          "name": "Oxidation",
+          "icon": "🟤",
+          "cause": "Excessive oxygen exposure",
+          "how_it_happens": "Faulty closure, poor storage, damaged cork, or intentional winemaking (Sherry, Vin Jaune).",
+          "detection": {
+            "visual": "Browning in whites, orange/brick hues in reds",
+            "aroma": "Bruised apple, sherry-like nuttiness, dried fruit, flat",
+            "palate": "Loss of freshness, short finish, hollow"
+          },
+          "chemistry": "Acetaldehyde formation, polyphenol oxidation, color change from anthocyanin degradation",
+          "severity": "Context-dependent",
+          "intentional_examples": ["Sherry", "Madeira", "Vin Jaune", "Some traditional whites"],
+          "can_fix": false,
+          "what_to_do": "If it's supposed to be fresh and isn't, it's faulted. If it's Sherry or Vin Jaune, enjoy.",
+          "note": "Premature oxidation ('premox') is a particular problem in white Burgundy."
+        },
+        {
+          "id": "volatile-acidity",
+          "name": "Volatile Acidity (VA)",
+          "icon": "💧",
+          "cause": "Acetic acid bacteria (Acetobacter) contamination",
+          "how_it_happens": "Oxygen exposure allows bacteria to convert ethanol to acetic acid. Poor hygiene, stuck fermentation, or high-pH wines at risk.",
+          "detection": "Vinegar, nail polish remover. At low levels: lifted, slightly volatile, sharp.",
+          "compounds": ["Acetic acid (vinegar)", "Ethyl acetate (solvent, nail polish)"],
+          "threshold": {
+            "legal": "Varies by region; typically 1.2-1.4 g/L max",
+            "perceptible": "~0.6 g/L for acetic acid"
+          },
+          "severity": "Low levels can add complexity and lift; high levels ruin wine",
+          "can_fix": false,
+          "tolerance": {
+            "traditional": "Some traditional wines (old Barolo, natural wines) have higher VA",
+            "modern": "Most modern winemakers keep VA very low"
+          },
+          "what_to_do": "If it smells like salad dressing, it's too much. A slight volatile edge in aged wines can be normal."
+        },
+        {
+          "id": "reduction",
+          "name": "Reduction",
+          "icon": "🥚",
+          "cause": "Sulfur compounds from stressed yeast or lack of oxygen",
+          "how_it_happens": "Low nutrient fermentation, excessive SO2, or reductive winemaking gone too far. Opposite of oxidation.",
+          "detection": "Rotten eggs (H2S), struck match, rubber, garlic, cooked cabbage. At low levels: flinty, mineral, reductive.",
+          "compounds": {
+            "mild": "Hydrogen sulfide (H2S) - rotten egg",
+            "moderate": "Mercaptans - rubber, garlic",
+            "severe": "Disulfides - sewage, burnt rubber"
+          },
+          "threshold": "H2S: 1-2 micrograms/L",
+          "severity": "Light reduction may dissipate; heavy reduction can persist",
+          "can_fix": "Often yes",
+          "how_to_fix": [
+            "Swirl aggressively to blow off H2S",
+            "Decant with vigorous aeration",
+            "Drop a clean copper coin in (binds to sulfur)",
+            "Give it 20-30 minutes"
+          ],
+          "note": "Some winemakers use controlled reduction for freshness and ageability. If it clears with air, it's fine."
+        },
+        {
+          "id": "heat-damage",
+          "name": "Heat Damage (Cooked Wine)",
+          "icon": "🌡️",
+          "cause": "Storage above 25C / 77F for extended periods",
+          "how_it_happens": "Hot shipping, storage in warm environments, left in car trunk.",
+          "detection": {
+            "visual": "Pushed cork (wine expanded and leaked), sticky residue on capsule",
+            "aroma": "Cooked fruit, jammy, stewed, pruny",
+            "palate": "Flat, lacking freshness, structure falls apart"
+          },
+          "severity": "Irreversible; accelerates all aging processes destructively",
+          "can_fix": false,
+          "prevention": "Store wine in stable, cool conditions. Be wary of online purchases in summer.",
+          "note": "Check for seepage under the capsule. If there's sticky wine residue, suspect heat damage."
+        },
+        {
+          "id": "lightstrike",
+          "name": "Light Strike (Goût de Lumière)",
+          "icon": "☀️",
+          "cause": "UV light exposure degrading amino acids",
+          "how_it_happens": "Riboflavin (vitamin B2) absorbs UV, triggering reactions that produce sulfur compounds.",
+          "detection": "Skunky, wet wool, cooked cabbage, burnt rubber",
+          "chemistry": "UV + riboflavin leads to methionine and cysteine breakdown into sulfur compounds",
+          "susceptible": ["Champagne (clear/green bottles)", "Sauvignon Blanc", "Rose", "any wine in clear glass"],
+          "severity": "Can develop within hours of sun exposure",
+          "can_fix": "May diminish slightly with aeration, but damage is mostly permanent",
+          "prevention": "Dark storage, colored glass bottles, UV-blocking glass",
+          "note": "This is why Champagne houses are now using UV-protective glass and why wine shops with bright lighting are concerning."
+        },
+        {
+          "id": "refermentation",
+          "name": "Refermentation",
+          "icon": "🫧",
+          "cause": "Residual sugar fermenting in bottle",
+          "how_it_happens": "Wine bottled with residual sugar and active yeast; more common in natural wines or winemaking errors.",
+          "detection": "Unexpected spritz/effervescence in still wine, haze, yeasty aromas",
+          "severity": "Minor spritz might be acceptable; heavy refermentation is a fault",
+          "can_fix": false,
+          "note": "Some natural winemakers embrace this as 'pet-nat' character; in conventional wine, it's an error."
+        },
+        {
+          "id": "smoke-taint",
+          "name": "Smoke Taint",
+          "icon": "🔥",
+          "cause": "Grape exposure to wildfire smoke during ripening",
+          "how_it_happens": "Volatile phenols (guaiacol, 4-methylguaiacol) from smoke are absorbed by grapes and bind to sugars as glycosides. During fermentation, these are released.",
+          "detection": {
+            "aroma": "Smoke, ash, ashtray, burnt plastic, bacon (in severe cases)",
+            "palate": "Ashy, bitter, dry finish. Often more apparent on the palate than nose",
+            "delayed_release": "Flavors intensify over time as glycoside-bound compounds are released"
+          },
+          "chemistry": "Smoke phenols exist in two forms: free volatiles (detectable) and glycoside-bound (released during fermentation, aging, and in the mouth). This is why wines can test clean but taste smoky.",
+          "severity": "Can render entire vintages undrinkable. No effective fix once in wine.",
+          "can_fix": false,
+          "affected_regions": ["California (2020, 2021)", "Australia (2020 bushfires)", "Oregon", "British Columbia", "Portugal", "Chile"],
+          "prevention": "Protective sprays show limited effectiveness. Early harvest before smoke exposure, or abandoning fruit entirely.",
+          "economics": "Smoke taint has caused billions in losses. Insurance claims, declassified wines, and abandoned harvests are increasingly common.",
+          "what_to_do": "Cannot be fixed. Wines with smoke taint should not be purchased for aging; some low-level tainted wines may be acceptable for immediate consumption."
+        },
+        {
+          "id": "mousey",
+          "name": "Mouse Taint (Mousiness)",
+          "icon": "🐭",
+          "cause": "Bacterial (Lactobacillus, Pediococcus) or Brettanomyces contamination",
+          "how_it_happens": "Microorganisms produce tetrahydropyridines from lysine and other amino acids. Often associated with low-sulfur winemaking.",
+          "detection": {
+            "initial": "Often undetectable on first sniff or sip",
+            "delayed": "Becomes apparent 15-30 seconds after tasting as saliva raises pH",
+            "character": "Mouse cage, crackers, popcorn, stale cereal, urine-like"
+          },
+          "why_delayed": "The compounds (2-acetyl-1-pyrroline, 2-acetyltetrahydropyridine) are pH-sensitive. They're not volatile at wine pH (~3.5) but become detectable as saliva raises mouth pH toward neutral.",
+          "severity": "Once developed, permanent. Highly divisive - some cannot detect it at all.",
+          "can_fix": false,
+          "sensitivity": "About 30% of people cannot perceive mouse taint even at high levels. This makes it controversial in natural wine circles.",
+          "prevalence": "More common in low-sulfur, natural wines due to reduced antimicrobial protection",
+          "what_to_do": "There is no fix. If you detect it, don't assume others will or won't. Natural wine advocates debate whether low levels are acceptable."
+        },
+        {
+          "id": "ladybug-taint",
+          "name": "Ladybug Taint (IPMP)",
+          "icon": "🐞",
+          "cause": "Asian lady beetles (Harmonia axyridis) processed with grapes",
+          "how_it_happens": "Stressed lady beetles release a defensive compound (2-isopropyl-3-methoxypyrazine, IPMP) that persists through fermentation.",
+          "detection": "Peanut shells, peanut butter, musty, green, vegetal at extreme levels",
+          "threshold": "0.5-2 ng/L (extremely low)",
+          "chemistry": "IPMP is chemically similar to IBMP (bell pepper pyrazine) but with a distinctive nutty character. Even a few beetles per ton can cause detectable taint.",
+          "severity": "Can be overwhelming above threshold; less severe than cork taint",
+          "can_fix": "Partially - some fining agents can reduce levels",
+          "affected_regions": ["Ontario (Canada)", "Northeast US", "Midwest US", "Increasingly in cool climates"],
+          "prevention": "Vineyard management to reduce beetle populations, optical sorters, hand-sorting",
+          "what_to_do": "If overwhelming, the wine is compromised. Low levels may be tolerable to some."
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium Taint",
+          "icon": "🌸",
+          "cause": "Sorbic acid breakdown by lactic acid bacteria",
+          "how_it_happens": "Sorbic acid (preservative) is metabolized to 2-ethoxyhexa-3,5-diene, which smells like crushed geranium leaves.",
+          "detection": "Strong crushed geranium leaf aroma, medicinal, artificial floral",
+          "severity": "Ruins wine at any detectable level",
+          "can_fix": false,
+          "prevention": "Don't use sorbic acid in wines that will undergo MLF, or ensure MLF is complete and SO2 is adequate before using sorbic acid",
+          "note": "More common in sweet wines where sorbic acid is used to prevent refermentation. Essentially a winemaking error."
+        },
+        {
+          "id": "filter-pad-taint",
+          "name": "Filter Pad/Paper Taint",
+          "icon": "📄",
+          "cause": "Contaminated filter pads or paper products",
+          "how_it_happens": "Chlorophenols or TCA can form in cardboard, paper, and filter materials, similar to cork taint.",
+          "detection": "Same as cork taint: wet cardboard, musty, muted fruit",
+          "chemistry": "TCA and its relatives can form anywhere chlorine and fungi interact - including filter pads, cardboard cases, and winery wood",
+          "severity": "Same as cork taint - compromises wine",
+          "can_fix": false,
+          "related_issues": ["Barrel taint", "Winery TCA contamination", "Cardboard box contamination"],
+          "note": "Some wineries have discovered their entire production contaminated by TCA in winery infrastructure, not corks"
+        },
+        {
+          "id": "hydrogen-sulfide",
+          "name": "Hydrogen Sulfide (H2S)",
+          "icon": "🥚",
+          "cause": "Yeast stress during fermentation",
+          "how_it_happens": "When yeast lacks adequate nitrogen nutrients or sulfate levels are high, they produce H2S as a metabolic byproduct. Can also come from elemental sulfur sprays applied too close to harvest.",
+          "detection": {
+            "low_levels": "Struck match, sulfur, mineral",
+            "moderate": "Rotten eggs, sulfur springs",
+            "severe": "Sewage, decaying matter"
+          },
+          "chemistry": "H2S itself is volatile and can be removed by aeration. If not addressed, it converts to more stable mercaptans (garlic, onion) and disulfides (burnt rubber, sewage) that are much harder to fix.",
+          "threshold": "1-2 micrograms/L",
+          "severity": "Early H2S is fixable; mercaptans and disulfides are harder or impossible to remove",
+          "can_fix": "Usually yes, if caught early",
+          "how_to_fix": [
+            "Aggressive aeration/racking during winemaking",
+            "Copper fining (binds sulfur compounds)",
+            "For consumers: decant with vigorous splash, drop clean copper coin",
+            "Give it 30-60 minutes"
+          ],
+          "note": "H2S in bottle is often from reductive winemaking choices; may blow off entirely with aeration"
+        }
+      ],
+      "fault_spectrum": {
+        "title": "The Fault vs. Feature Spectrum",
+        "description": "Not all wine faults are clear-cut. Some sit on a spectrum where low levels may add complexity while high levels ruin the wine. Context, intent, and consumer tolerance all matter.",
+        "spectrum": [
+          {
+            "compound": "4-EP/4-EG (Brett)",
+            "clearly_fault": "High levels (>600ppb) - overpowering, medicinal",
+            "controversial": "Low levels - earthy, complex, traditional",
+            "example": "Old-school Rhône, some traditional Burgundy may have detectable brett"
+          },
+          {
+            "compound": "Volatile Acidity (VA)",
+            "clearly_fault": "High levels (>1.2 g/L) - vinegar, nail polish",
+            "controversial": "Low levels - lift, aromatics",
+            "example": "Some old Barolo, natural wines, intentional in some orange wines"
+          },
+          {
+            "compound": "Reduction (H2S/mercaptans)",
+            "clearly_fault": "Persistent garlic, onion, sewage after aeration",
+            "controversial": "Flinty, struck match notes - may be terroir expression",
+            "example": "Some Chablis, young white Burgundy"
+          },
+          {
+            "compound": "Mouse Taint",
+            "clearly_fault": "High levels - persistent, unpleasant",
+            "controversial": "Existence itself is debated - not all can taste it",
+            "example": "Ongoing debate in natural wine circles"
+          },
+          {
+            "compound": "Oxidation",
+            "clearly_fault": "In wines meant to be fresh - Sherry character in Chablis",
+            "controversial": "Intentional in Sherry, Madeira, Vin Jaune, some orange wines",
+            "example": "Premox in white Burgundy vs intentional oxidative aging"
+          }
+        ]
+      }
+    },
+    "quality": {
+      "title": "Quality Assessment",
+      "description": "How to evaluate wine beyond personal preference. Quality exists, but so does subjectivity. Learning to distinguish them is part of developing a palate.",
+      "introduction": {
+        "title": "The Subjectivity Problem",
+        "content": "Quality is not purely objective. But it's not purely subjective either. There are defensible criteria that experts largely agree on, even if individual preferences vary. Learning to apply these criteria while acknowledging your biases is the goal."
+      },
+      "markers": [
+        {
+          "id": "complexity",
+          "name": "Complexity",
+          "icon": "🧩",
+          "definition": "Multiple layers of aroma and flavor that evolve over time, both in the glass and on the palate.",
+          "how_to_assess": "Does the wine reveal new elements as it opens up? Does it change in the glass? Do you notice different aromas and flavors as it evolves?",
+          "examples": "A simple wine might smell like 'cherry.' A complex wine might show cherry, then earth, then spice, then something floral, then something savory as it opens.",
+          "note": "Simple does not equal bad. Some wines are meant to be straightforward and refreshing. Complexity is one quality marker, not the only one."
+        },
+        {
+          "id": "concentration",
+          "name": "Concentration",
+          "icon": "🎯",
+          "definition": "Intensity of flavor without heaviness. The sense that there's substantial fruit and extract without being soupy or overripe.",
+          "how_to_assess": "Is there depth and persistence to the fruit? Does the wine have presence on the palate without being heavy or jammy?",
+          "not_the_same_as": ["Power (concentration can be subtle)", "Extraction (can be overdone)", "Ripeness (can be too much)"],
+          "note": "Concentration is about focus and definition, not volume. A concentrated Burgundy is very different from a concentrated Amarone, but both have intensity appropriate to their style."
+        },
+        {
+          "id": "length",
+          "name": "Length (Finish)",
+          "icon": "⏱️",
+          "definition": "How long positive flavors persist after swallowing or spitting. The wine's 'echo.'",
+          "how_to_assess": "After swallowing, count seconds. Basic wines: 3-5 seconds. Good wines: 6-10 seconds. Outstanding wines: 15+ seconds.",
+          "what_counts": "Positive flavor persistence. Bitter, harsh, or hot aftertastes don't count as 'length.'",
+          "caveats": [
+            "More tannic wines can seem to have longer finish due to astringency",
+            "Higher acid wines tend to have longer perceived finish",
+            "Sweet wines often have very long finish"
+          ],
+          "note": "Length correlates strongly with quality across all wine styles."
+        },
+        {
+          "id": "balance-quality",
+          "name": "Balance",
+          "icon": "⚖️",
+          "definition": "Harmony between structural elements. No single component dominates uncomfortably.",
+          "how_to_assess": "Does any element stick out aggressively? Does the acidity, tannin, alcohol, or sweetness feel integrated?",
+          "style_dependent": true,
+          "examples": [
+            "A high-acid Champagne is balanced because the bubbles and dosage integrate it",
+            "A high-alcohol Amarone is balanced because the concentration matches",
+            "A young, tannic Barolo may seem unbalanced but will integrate with age"
+          ],
+          "note": "Balance must be assessed relative to style expectations and age trajectory."
+        },
+        {
+          "id": "typicity",
+          "name": "Typicity",
+          "icon": "📍",
+          "definition": "Does the wine express its origin and variety? Does Chablis taste like Chablis? Does Pinot taste like Pinot?",
+          "how_to_assess": "Compare to benchmark examples. Does the wine meet style expectations for its region and variety?",
+          "controversy": {
+            "traditionalists": "Typicity is essential; wine should taste of its place",
+            "modernists": "Innovation and personal expression matter more than conformity"
+          },
+          "note": "Typicity is valued in some contexts (classic regions) and less relevant in others (new wine regions, experimental wines)."
+        }
+      ],
+      "quality_vs_preference": {
+        "title": "Quality vs. Preference",
+        "content": "A wine can be high quality and not to your taste. Both truths coexist. Learning to distinguish 'I don't like this' from 'this is flawed' is part of developing a palate. You might recognize that a wine is well-made while not personally enjoying it. Conversely, you might love a wine that's technically simple. Both responses are valid."
+      },
+      "rating_systems": {
+        "title": "A Note on Ratings",
+        "content": "Point scores (100-point, 20-point) are imperfect tools that compress multidimensional experiences into single numbers. They're useful for rough comparison but can be misleading. A 92-point wine isn't objectively 'better' than an 88-point wine; it's just one taster's assessment. Use ratings as guides, not verdicts."
+      }
+    },
+    "perception": {
+      "title": "Perception Factors",
+      "description": "Everything that affects your experience beyond the wine itself. Understanding these variables helps you taste more accurately and enjoy wine more fully.",
+      "factors": [
+        {
+          "id": "temperature",
+          "name": "Temperature",
+          "icon": "🌡️",
+          "impact": "Temperature dramatically affects wine perception. Cold mutes aromas and emphasizes acid and tannin. Warm amplifies aromas but also alcohol.",
+          "science": "Temperature affects volatile compound release (warmer = more aromatics) and receptor sensitivity (cold numbs taste buds slightly).",
+          "guidelines": [
+            { "style": "Sparkling wines", "range": "6-8C / 43-46F", "reason": "Preserves bubbles, crisp freshness" },
+            { "style": "Light white wines", "range": "8-10C / 46-50F", "reason": "Maintains freshness, showcases acidity" },
+            { "style": "Full-bodied whites", "range": "10-13C / 50-55F", "reason": "Opens aromatics without losing structure" },
+            { "style": "Light red wines", "range": "13-16C / 55-61F", "reason": "Slightly cool preserves freshness" },
+            { "style": "Full-bodied reds", "range": "16-18C / 61-64F", "reason": "Opens aromatics; don't serve too warm" }
+          ],
+          "common_mistakes": [
+            "Whites too cold: Mutes all aromatics; you taste only acid",
+            "Reds too warm: Alcohol dominates; wine tastes flabby and hot"
+          ],
+          "tip": "When in doubt, serve slightly cooler than you think. The wine will warm in the glass."
+        },
+        {
+          "id": "glassware",
+          "name": "Glassware",
+          "icon": "🍷",
+          "impact": "Glass shape affects how aromas concentrate and where wine hits your palate. But the importance is often overstated by marketing.",
+          "what_matters": [
+            { "feature": "Bowl size", "effect": "Larger bowls allow more aeration and aroma development" },
+            { "feature": "Opening width", "effect": "Narrower concentrates aromas; wider disperses them" },
+            { "feature": "Rim thickness", "effect": "Thinner rims feel more elegant; minor impact on flavor" },
+            { "feature": "Stem", "effect": "Keeps hand warmth away from wine; allows swirling" }
+          ],
+          "what_doesnt_matter_much": [
+            "Crystal vs. glass (marginal difference)",
+            "Brand names (mostly marketing)",
+            "Grape-specific glasses (nice but not necessary)"
+          ],
+          "recommendation": "One good all-purpose wine glass covers 80% of needs. A larger bowl for reds, a smaller for whites, and a flute for sparkling covers everything else.",
+          "minimum_requirements": "Clear glass, stem, reasonably thin rim, some bowl curvature to concentrate aromas. That's it."
+        },
+        {
+          "id": "decanting",
+          "name": "Decanting",
+          "icon": "🫗",
+          "impact": "Decanting introduces oxygen, which can soften tannins, release aromas, and 'wake up' a closed wine. Also removes sediment.",
+          "science": "Oxygen promotes oxidation (in small amounts, beneficial), volatile release, and tannin polymerization (softening).",
+          "when_helpful": [
+            "Young, tannic red wines (softens tannins)",
+            "Wines that smell 'reduced' (H2S blows off)",
+            "Wines with sediment (old reds, vintage Port)",
+            "Wines that seem 'closed' or muted"
+          ],
+          "when_harmful": [
+            "Old, fragile wines (may fall apart with air)",
+            "Delicate whites (lose freshness quickly)",
+            "Sparkling wines (lose bubbles, obviously)"
+          ],
+          "how_long": [
+            { "wine": "Young, tannic reds", "time": "1-4 hours" },
+            { "wine": "Mature reds", "time": "30-60 minutes, if at all" },
+            { "wine": "Reduced wines", "time": "20-30 minutes with vigorous splash" },
+            { "wine": "Full whites", "time": "15-30 minutes (unusual but can help)" }
+          ],
+          "double_decanting": "Decant into a vessel, then back into the rinsed bottle. Combines aeration with elegant service."
+        },
+        {
+          "id": "food",
+          "name": "Food Pairing",
+          "icon": "🍽️",
+          "impact": "Food and wine interact chemically and perceptually. The right pairing enhances both; the wrong pairing diminishes both.",
+          "science": [
+            { "interaction": "Tannin + Protein", "effect": "Tannins bind to proteins, softening their astringency. Steak makes tannic wine seem smoother." },
+            { "interaction": "Acid + Fat", "effect": "Acid cuts through richness, refreshing the palate. Champagne with fried food works." },
+            { "interaction": "Salt + Bitter", "effect": "Salt reduces bitterness perception. Salty cheese makes tannic wine more approachable." },
+            { "interaction": "Sweet + Spicy", "effect": "Sugar tames heat. Off-dry Riesling with spicy food." }
+          ],
+          "principles": [
+            "Match weight: Light wine with light food, full wine with rich food",
+            "Bridge flavors: Earthy wine with earthy food, fruity wine with fruity sauces",
+            "Contrast: Acid or bubbles cut through richness",
+            "Sweetness: Wine should be at least as sweet as the food"
+          ],
+          "danger_zones": [
+            "Artichokes (contain cynarin, makes wine taste sweet)",
+            "Asparagus (sulfur compounds clash with many wines)",
+            "Very spicy food (overwhelms most wines; go off-dry)",
+            "Chocolate with dry red wine (usually clashes)"
+          ]
+        },
+        {
+          "id": "expectation",
+          "name": "Expectation Bias",
+          "icon": "🧠",
+          "impact": "What you expect to taste changes what you actually taste. Price, label, context, and prior knowledge all influence perception measurably.",
+          "research": [
+            { "study": "Brochet 2001", "finding": "Wine experts described a white wine dyed red using red wine descriptors" },
+            { "study": "Plassman 2008", "finding": "Brain activity differs when tasting identical wine labeled at different prices" },
+            { "study": "Morrot 2001", "finding": "Experts used red wine vocabulary for white wine when colored red" }
+          ],
+          "how_it_works": "Your brain uses context as a prior when interpreting sensory data. If you expect something to be good (expensive, famous, recommended), you're primed to perceive it positively.",
+          "implications": [
+            "Taste blind when possible for honest assessment",
+            "Be aware that marketing influences you",
+            "Price does not reliably indicate quality beyond a threshold",
+            "Famous names carry weight that may not be deserved"
+          ],
+          "takeaway": "You cannot be fully objective. The best you can do is acknowledge your biases and taste blind when accurate assessment matters."
+        },
+        {
+          "id": "adaptation",
+          "name": "Sensory Adaptation",
+          "icon": "🔄",
+          "impact": "Your senses adapt quickly to continuous stimulation. The second sip of wine tastes different from the first.",
+          "science": "Receptors fatigue with constant stimulation, reducing sensitivity. This is why perfume fades after you've worn it a while.",
+          "in_wine_tasting": [
+            "First sip: Most impactful; trust initial impressions",
+            "Subsequent sips: Adapted; better for structural assessment",
+            "Palate fatigue: After many wines, sensitivity decreases"
+          ],
+          "how_to_manage": [
+            "Cleanse palate with water, bread, or neutral crackers between wines",
+            "Take breaks when tasting many wines",
+            "Trust first impressions for character; use subsequent sips for analysis",
+            "Smell coffee beans to 'reset' olfactory receptors (somewhat effective)"
+          ],
+          "note": "This is why the first taste at a restaurant is important; your palate is fresh and able to detect faults."
+        }
+      ]
+    },
+    "appearance": {
+      "title": "Visual Assessment",
+      "description": "Before you smell or taste, wine tells a story through its appearance. Color, clarity, and viscosity provide clues about age, grape variety, climate, and winemaking.",
+      "clarity": {
+        "title": "Clarity",
+        "description": "How clear or hazy the wine appears when held against light.",
+        "levels": [
+          {
+            "term": "Brilliant",
+            "description": "Crystal clear, highly reflective, no particles",
+            "indicates": "Heavy filtration, modern winemaking"
+          },
+          {
+            "term": "Clear",
+            "description": "No visible particles, good transparency",
+            "indicates": "Standard filtration or careful settling"
+          },
+          {
+            "term": "Slight Haze",
+            "description": "Faint cloudiness, some light diffusion",
+            "indicates": "Light or no filtration, possible colloid instability"
+          },
+          {
+            "term": "Hazy",
+            "description": "Noticeable turbidity, reduced transparency",
+            "indicates": "Unfiltered wine, may be intentional (natural wine) or fault"
+          },
+          {
+            "term": "Cloudy/Opaque",
+            "description": "Cannot see through the wine, significant particles",
+            "indicates": "Unfiltered, possibly refermented, or heavily tannic"
+          }
+        ],
+        "context": "Haze is expected in unfiltered natural wines but may indicate problems in conventionally made wines."
+      },
+      "color_white": {
+        "title": "White Wine Color",
+        "description": "White wines darken with age and oak exposure.",
+        "progression": [
+          {
+            "color": "Water-white / Green tinge",
+            "indicates": "Very young, cool climate, stainless steel",
+            "examples": "Muscadet, young Riesling, Vinho Verde"
+          },
+          {
+            "color": "Pale lemon",
+            "indicates": "Young, fresh, minimal oak",
+            "examples": "Young Sauvignon Blanc, Pinot Grigio"
+          },
+          {
+            "color": "Lemon",
+            "indicates": "1-3 years, some development",
+            "examples": "Most white wines"
+          },
+          {
+            "color": "Gold / Straw",
+            "indicates": "Age, oak exposure, or botrytis",
+            "examples": "Oaked Chardonnay, Sauternes, older white Burgundy"
+          },
+          {
+            "color": "Deep gold / Amber",
+            "indicates": "Significant age, oxidative winemaking, or sweet wine",
+            "examples": "Aged Sauternes, Vin Jaune, very old white Burgundy"
+          },
+          {
+            "color": "Brown",
+            "indicates": "Extreme age or oxidation",
+            "examples": "Old Sherry, Madeira, severely oxidized wine"
+          }
+        ],
+        "special_cases": [
+          {
+            "case": "Orange/Amber in young wine",
+            "cause": "Skin contact ('orange wine'), oxidative winemaking",
+            "examples": "Georgian qvevri wines, skin-contact Friulano"
+          },
+          {
+            "case": "Pink/salmon tinge",
+            "cause": "Very brief skin contact, rosé-like treatment",
+            "examples": "Some Pinot Grigio (ramato style)"
+          }
+        ]
+      },
+      "color_red": {
+        "title": "Red Wine Color",
+        "description": "Red wines lighten with age, shifting from purple toward brick and tawny.",
+        "progression": [
+          {
+            "color": "Purple / Violet",
+            "indicates": "Very young, high anthocyanins",
+            "examples": "Young Malbec, Syrah, Petite Sirah"
+          },
+          {
+            "color": "Ruby",
+            "indicates": "Young to medium age",
+            "examples": "Most red wines under 5 years"
+          },
+          {
+            "color": "Garnet",
+            "indicates": "Some development, softening",
+            "examples": "Mature Bordeaux, Rioja Reserva"
+          },
+          {
+            "color": "Brick / Tawny",
+            "indicates": "Significant age, tannin polymerization",
+            "examples": "Aged Nebbiolo, old Bordeaux, aged Pinot Noir"
+          },
+          {
+            "color": "Brown",
+            "indicates": "Very old or oxidized",
+            "examples": "40+ year old wines, Tawny Port"
+          }
+        ],
+        "rim_assessment": {
+          "title": "The Rim",
+          "description": "Tilt the glass at 45° over white paper. The rim (meniscus) shows age:",
+          "observations": [
+            "Young wines: Core and rim similar color",
+            "Developing wines: Garnet or orange rim with ruby core",
+            "Mature wines: Wide orange/tawny rim, fading core",
+            "Old wines: Rim may be watery, core brownish"
+          ]
+        },
+        "variety_clues": [
+          {
+            "variety": "Pinot Noir / Nebbiolo / Grenache",
+            "color": "Pale, translucent, early bricking",
+            "reason": "Lower anthocyanins, thin skins"
+          },
+          {
+            "variety": "Malbec / Syrah / Petite Sirah",
+            "color": "Deep purple, opaque, slow bricking",
+            "reason": "High anthocyanins, thick skins"
+          },
+          {
+            "variety": "Cabernet Sauvignon",
+            "color": "Deep ruby to purple, moderate aging",
+            "reason": "Moderate anthocyanins, tannic structure"
+          }
+        ]
+      },
+      "viscosity": {
+        "title": "Viscosity & Legs",
+        "description": "The 'legs' or 'tears' that form on the glass after swirling. Often misunderstood as a quality indicator.",
+        "science": {
+          "name": "Marangoni Effect",
+          "explanation": "As alcohol evaporates from the thin film on the glass, surface tension increases, pulling wine upward. Droplets form and run down as 'legs.'",
+          "what_it_indicates": "Alcohol and/or sugar content - NOT quality"
+        },
+        "observations": [
+          {
+            "pattern": "Fast, thin legs",
+            "indicates": "Lower alcohol, dry wine",
+            "examples": "Mosel Riesling (8% ABV), Muscadet"
+          },
+          {
+            "pattern": "Slow, thick legs",
+            "indicates": "Higher alcohol and/or sugar",
+            "examples": "Napa Cabernet (15%), Port, Sauternes"
+          },
+          {
+            "pattern": "Very slow, viscous",
+            "indicates": "Very high sugar or alcohol",
+            "examples": "TBA, Icewine"
+          }
+        ],
+        "myth_busting": "Legs indicate alcohol and sugar, not quality, concentration, or terroir. A cheap high-alcohol wine has impressive legs; a refined cool-climate Burgundy may have minimal legs. Ignore them as quality signals."
+      }
+    },
+    "professional_methods": {
+      "title": "Professional Tasting Frameworks",
+      "description": "Several standardized tasting methodologies exist for wine education and professional evaluation. Each has strengths and limitations.",
+      "methods": [
+        {
+          "id": "wset-sat",
+          "name": "WSET Systematic Approach to Tasting (SAT)",
+          "organization": "Wine & Spirit Education Trust",
+          "levels": ["Level 2", "Level 3", "Level 4 (Diploma)"],
+          "structure": {
+            "appearance": ["Clarity", "Intensity", "Color", "Other observations"],
+            "nose": ["Condition", "Intensity", "Aroma characteristics", "Development"],
+            "palate": ["Sweetness", "Acidity", "Tannin", "Alcohol", "Body", "Flavor intensity", "Flavor characteristics", "Finish"],
+            "conclusions": ["Quality level", "Readiness for drinking", "Identity (if blind)"]
+          },
+          "strengths": [
+            "Highly systematic and reproducible",
+            "Good for beginners learning vocabulary",
+            "Widely recognized globally",
+            "Quality assessment framework included"
+          ],
+          "limitations": [
+            "Can feel mechanical, checkbox-like",
+            "Quality assessment criteria can be reductive",
+            "Less emphasis on emotional response",
+            "Some find it stifles personal expression"
+          ],
+          "quality_scale": ["Poor", "Acceptable", "Good", "Very Good", "Outstanding"]
+        },
+        {
+          "id": "cms",
+          "name": "Court of Master Sommeliers Deductive Method",
+          "organization": "Court of Master Sommeliers",
+          "purpose": "Designed to identify wines blind - what, where, when",
+          "structure": {
+            "sight": ["Clarity", "Concentration", "Color", "Rim variation", "Other observations"],
+            "nose": ["Condition", "Intensity", "Fruit", "Earth", "Wood", "Other"],
+            "palate": ["Sweetness", "Acidity", "Alcohol", "Tannin (if red)", "Body", "Texture", "Flavor profile", "Finish"],
+            "initial_conclusion": ["Old World / New World", "Climate", "Possible varieties", "Age range"],
+            "final_conclusion": ["Grape variety", "Country", "Region/Appellation", "Quality", "Vintage"]
+          },
+          "strengths": [
+            "Excellent for developing blind tasting skills",
+            "Forces logical deduction from observation",
+            "Builds deep regional knowledge",
+            "Prestigious certification pathway"
+          ],
+          "limitations": [
+            "Focused on identification, less on enjoyment",
+            "Can encourage overthinking",
+            "Old World/New World binary increasingly outdated",
+            "Some bias toward classic regions"
+          ],
+          "key_phrases": ["If/then\" reasoning", "Cluster identification", "Classic markers"]
+        },
+        {
+          "id": "istituto-grandi-marchi",
+          "name": "20-Point Scale (Traditional European)",
+          "organization": "Traditional academic/competition use",
+          "description": "The older European standard for wine evaluation, still used in some contexts.",
+          "scoring": {
+            "appearance": "1-3 points",
+            "nose": "1-6 points",
+            "palate": "1-8 points",
+            "overall_harmony": "1-3 points"
+          },
+          "equivalents": {
+            "20": "Perfect, extraordinary",
+            "18-19": "Excellent",
+            "16-17": "Very good",
+            "14-15": "Good",
+            "12-13": "Average",
+            "below_12": "Flawed or deficient"
+          },
+          "strengths": ["Traditional prestige", "More differentiation at lower levels"],
+          "limitations": ["Fading use", "Unfamiliar to most consumers"]
+        },
+        {
+          "id": "100-point",
+          "name": "100-Point Scale (Parker/American)",
+          "organization": "Robert Parker (Wine Advocate), widely adopted",
+          "description": "Dominant consumer-facing scoring system, criticized and defended in equal measure.",
+          "structure": {
+            "color_appearance": "1-5 points",
+            "aroma_bouquet": "1-15 points",
+            "flavor_finish": "1-20 points",
+            "overall_quality": "1-10 points",
+            "baseline": "50 points (minimum)"
+          },
+          "typical_ranges": {
+            "96-100": "Extraordinary - profound wines",
+            "90-95": "Outstanding - distinctive character",
+            "85-89": "Very good - special qualities",
+            "80-84": "Good - solid, well-made",
+            "75-79": "Average - drinkable but simple",
+            "below_75": "Below average or flawed"
+          },
+          "criticism": [
+            "Compresses most wines into 80-95 range",
+            "Encourages point-chasing by producers",
+            "Single number loses nuance",
+            "Different critics use scale differently",
+            "May favor certain styles (ripe, concentrated)"
+          ],
+          "defense": [
+            "Provides consumer guidance in vast market",
+            "Simple to understand",
+            "Creates accountability for critics",
+            "Better than no guidance at all"
+          ]
+        }
+      ],
+      "blind_tasting": {
+        "title": "Blind Tasting Techniques",
+        "description": "Tasting without knowing the wine's identity removes bias and tests true perceptual skills.",
+        "levels": [
+          {
+            "level": "Single blind",
+            "definition": "You know what wines are being served, but not which is which",
+            "use": "Comparative tastings, testing preference"
+          },
+          {
+            "level": "Double blind",
+            "definition": "You don't know what wines are being served or in what order",
+            "use": "Professional exams, unbiased evaluation"
+          }
+        ],
+        "strategies": [
+          {
+            "strategy": "Identify structural tells",
+            "explanation": "High acid + high tannin = cool climate or specific varieties. High alcohol + low acid = warm climate.",
+            "practice": "Build database of climate/variety correlations"
+          },
+          {
+            "strategy": "Note primary character first",
+            "explanation": "Before analysis, what's your gut impression? Fruity? Earthy? Green? This often points to variety or region.",
+            "practice": "Train yourself to capture first impression quickly"
+          },
+          {
+            "strategy": "Work from general to specific",
+            "explanation": "Start with broad categories (Old vs New World), then narrow (country, region, variety, vintage).",
+            "practice": "Build a decision tree you can follow under pressure"
+          },
+          {
+            "strategy": "Use process of elimination",
+            "explanation": "What this wine is NOT can be as useful as what it IS.",
+            "practice": "Practice ruling out options systematically"
+          },
+          {
+            "strategy": "Trust structural clues over aroma",
+            "explanation": "Aroma descriptors are personal and inconsistent. Acid, tannin, and alcohol are more objective.",
+            "practice": "Calibrate your structural perception with measured wines"
+          }
+        ],
+        "common_traps": [
+          "Guessing too quickly before adequate assessment",
+          "Letting one feature dominate your conclusion",
+          "Overthinking and second-guessing solid deductions",
+          "Anchoring on first guess and seeking confirming evidence",
+          "Mistaking personal preference for objective assessment"
+        ]
+      }
+    },
+    "service": {
+      "title": "Wine Service",
+      "description": "How wine is served affects your experience as much as the wine itself. Temperature, glassware, and timing all matter.",
+      "opening": {
+        "title": "Opening Wine",
+        "techniques": [
+          {
+            "type": "Standard cork (waiter's friend)",
+            "steps": [
+              "Cut capsule below lip (second ring)",
+              "Wipe top with clean cloth",
+              "Insert worm off-center, twist clockwise keeping worm straight",
+              "Insert until one spiral remains visible",
+              "Lever against first notch, lift partially",
+              "Lever against second notch, complete extraction",
+              "Wipe rim, present cork to host if in service context"
+            ]
+          },
+          {
+            "type": "Old/fragile cork",
+            "steps": [
+              "Use a two-pronged cork puller (ah-so/butler's friend)",
+              "Insert longer prong first, rock back and forth",
+              "Work both prongs down sides of cork",
+              "Twist and pull upward simultaneously",
+              "If cork crumbles, use a port tongs or push remaining cork in"
+            ]
+          },
+          {
+            "type": "Sparkling wine",
+            "steps": [
+              "Chill wine to 6-8°C - cold wine releases less gas",
+              "Remove foil and wire cage while keeping thumb on cork",
+              "Hold cork firmly, twist BOTTLE (not cork)",
+              "Ease out cork with gentle resistance - quiet sigh, not pop",
+              "Hold bottle at 45° after opening to increase surface area",
+              "Pour gently down side of tilted glass"
+            ],
+            "safety": "A warm champagne cork can launch at 50 km/h. Always point away from people and valuables."
+          }
+        ]
+      },
+      "order": {
+        "title": "Tasting Order",
+        "principles": [
+          {
+            "principle": "Light before full",
+            "reasoning": "Delicate wines are overwhelmed after heavy ones"
+          },
+          {
+            "principle": "Dry before sweet",
+            "reasoning": "Sweetness makes subsequent wines taste sour"
+          },
+          {
+            "principle": "Young before old",
+            "reasoning": "Aged wines are more delicate and can be overwhelmed"
+          },
+          {
+            "principle": "White before red (usually)",
+            "reasoning": "Lighter wines first, though exceptions exist (e.g., sweet white last)"
+          },
+          {
+            "principle": "Simple before complex",
+            "reasoning": "Palate fatigue reduces appreciation of nuance"
+          }
+        ],
+        "exceptions": [
+          "Great aged Champagne may come after white Burgundy",
+          "Sweet white may conclude after red",
+          "A flight of one grape/region may progress any direction",
+          "Palate cleansers (water, bread) reset between dramatically different wines"
+        ]
+      },
+      "optimal_conditions": {
+        "title": "Optimal Tasting Conditions",
+        "factors": [
+          {
+            "factor": "Time of day",
+            "optimal": "Late morning (10-12am) or early afternoon (2-4pm)",
+            "reasoning": "Palate is fresh but not empty; alertness is high"
+          },
+          {
+            "factor": "Food",
+            "optimal": "Light meal 1-2 hours before; not immediately after heavy/spicy food",
+            "reasoning": "Empty stomach distorts perception; full stomach dulls it"
+          },
+          {
+            "factor": "Fragrances",
+            "optimal": "No perfume, cologne, scented products",
+            "reasoning": "Competes with wine aromas; in professional settings, often prohibited"
+          },
+          {
+            "factor": "Mouth",
+            "optimal": "Clean but not freshly brushed; no coffee, gum, or mints within 30 minutes",
+            "reasoning": "Mint and toothpaste particularly distort wine perception"
+          },
+          {
+            "factor": "Environment",
+            "optimal": "Well-lit (natural light ideal), neutral smells, white backgrounds for color",
+            "reasoning": "Light affects color perception; odors compete with wine"
+          },
+          {
+            "factor": "Palate fatigue",
+            "optimal": "Maximum 15-20 wines per session with breaks",
+            "reasoning": "Sensory adaptation diminishes discrimination after extended tasting"
+          }
+        ]
+      }
+    }
+  }
+}

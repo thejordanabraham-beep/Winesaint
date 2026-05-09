@@ -2,6 +2,38 @@ import Link from 'next/link';
 
 const RESOURCES = [
   {
+    id: 'viticulture',
+    name: 'Viticulture Guide',
+    description: 'Grape growing from dormancy to harvest. Vine lifecycle, training systems, canopy management, pests and diseases, farming practices, and famous vineyard sites.',
+    icon: '🍇',
+    href: '/resources/viticulture',
+    status: 'available',
+  },
+  {
+    id: 'winemaking',
+    name: 'Winemaking Guide',
+    description: 'From crush to cork. Fermentation, pressing, aging, blending, clarification, and bottling. Plus sparkling, sweet, fortified, and natural wine production.',
+    icon: '🍷',
+    href: '/resources/winemaking',
+    status: 'available',
+  },
+  {
+    id: 'tasting',
+    name: 'Tasting Science Guide',
+    description: 'Sensory science, wine chemistry, aroma compounds, structural elements, faults, and quality assessment. How to taste wine systematically.',
+    icon: '👃',
+    href: '/resources/tasting',
+    status: 'available',
+  },
+  {
+    id: 'terroir',
+    name: 'Terroir Guide',
+    description: 'Soil types, climate zones, geology, topography, and famous vineyard sites. Understanding how place shapes wine character.',
+    icon: '🌍',
+    href: '/resources/terroir',
+    status: 'available',
+  },
+  {
     id: 'oak',
     name: 'Oak Guide',
     description: 'Forests, species, cooperage, toast levels, barrel formats, and regional traditions. Everything about how oak shapes wine.',
@@ -31,6 +63,14 @@ const RESOURCES = [
     description: 'Phylloxera, grafting, rootstock varieties, and how the roots beneath the vine affect what ends up in your glass.',
     icon: '🌱',
     href: '/resources/rootstock',
+    status: 'available',
+  },
+  {
+    id: 'yeast',
+    name: 'Yeast Guide',
+    description: 'Fermentation science, yeast species and commercial strains, flavor compounds, and techniques from wild fermentation to sur lie aging.',
+    icon: '🫧',
+    href: '/resources/yeast',
     status: 'available',
   },
   {

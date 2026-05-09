@@ -1,0 +1,1292 @@
+{
+  "guide_type": "terroir_encyclopedia",
+  "created_date": "2026-05-03",
+  "sections": {
+    "overview": {
+      "title": "Understanding Terroir",
+      "description": "Terroir (French for 'land' or 'earth') is the complete natural environment in which a wine is produced, including soil, subsoil, climate, topography, and all other factors that give a wine its unique identity. The concept suggests that wines from a specific place carry characteristics that cannot be replicated elsewhere, even with identical grape varieties and winemaking techniques.",
+      "key_components": ["Soil composition", "Climate", "Topography", "Geology", "Hydrology", "Microclimate", "Human tradition"],
+      "philosophy": {
+        "french_view": "French winemakers believe terroir is the soul of wine - the invisible hand that shapes character. It's why Burgundy's greatest producers speak of themselves as 'translators' of their vineyard.",
+        "debate": "Critics argue terroir is overstated, that winemaking choices matter more than dirt. Supporters counter that no technique can replicate the mineral tension of Chablis or the iron-inflected power of Pomerol.",
+        "modern_science": "Soil microbiology research increasingly supports terroir. Studies show distinct microbial communities in different vineyards may influence fermentation and flavor."
+      },
+      "key_terms": [
+        {
+          "term": "Goût de terroir",
+          "definition": "The 'taste of place' - flavors attributed to vineyard origin rather than winemaking"
+        },
+        {
+          "term": "Lieu-dit",
+          "definition": "A named vineyard site with distinct terroir, below AOC/commune level"
+        },
+        {
+          "term": "Cru",
+          "definition": "A vineyard or group of vineyards recognized for consistent quality, often reflecting terroir"
+        },
+        {
+          "term": "Typicity",
+          "definition": "How well a wine expresses the expected character of its origin"
+        }
+      ]
+    },
+    "soil": {
+      "title": "Soil Types",
+      "description": "Soil composition affects drainage, heat retention, nutrient availability, and root development. The best vineyard soils are often poor for other crops - they stress vines, reduce yields, and concentrate flavors. Each soil type leaves its mark on wine character.",
+      "items": [
+        {
+          "id": "limestone",
+          "name": "Limestone (Calcaire)",
+          "composition": "Calcium carbonate (CaCite), often from ancient sea beds",
+          "characteristics": ["High pH (alkaline)", "Excellent drainage", "Heat reflective", "Moderate water retention", "Forces deep rooting"],
+          "wine_impact": "Bright acidity, mineral tension, finesse over power. Often imparts a chalky, saline quality to wines.",
+          "famous_regions": ["Burgundy (Côte d'Or)", "Champagne", "Chablis", "Loire Valley", "Saint-Émilion", "Rioja Alta"],
+          "best_for": ["Chardonnay", "Pinot Noir", "Chenin Blanc", "Tempranillo"],
+          "depth_note": "Limestone bedrock may lie under various topsoils, providing drainage while subsoil limestone influences mineral uptake.",
+          "color": "#E8E4D9"
+        },
+        {
+          "id": "clay",
+          "name": "Clay",
+          "composition": "Fine mineral particles, often with high iron content",
+          "characteristics": ["Water retention", "Cool in summer (holds moisture)", "Rich in nutrients", "Can be challenging in wet years", "Compacts easily"],
+          "wine_impact": "Full-bodied, powerful wines with deep color. Can produce tannic structure but risks dilution in wet vintages.",
+          "famous_regions": ["Pomerol (blue clay)", "Saint-Émilion", "Barossa Valley", "Willamette Valley"],
+          "best_for": ["Merlot", "Shiraz", "Tempranillo", "Grenache"],
+          "depth_note": "Blue clay at Pétrus is famous for producing some of the world's most expensive Merlot. The clay's water-holding capacity helps in drought years.",
+          "color": "#8B7355"
+        },
+        {
+          "id": "gravel",
+          "name": "Gravel (Graves/Galets)",
+          "composition": "Rounded stones of varying sizes over sand or clay",
+          "characteristics": ["Excellent drainage", "Heat retention (stones warm at night)", "Forces deep rooting", "Low fertility", "Reflects sunlight"],
+          "wine_impact": "Concentrated wines with good structure. The heat retention helps ripening in cooler climates. Often produces wines with notable tannin and aging potential.",
+          "famous_regions": ["Médoc (Graves, Margaux)", "Châteauneuf-du-Pape (galets roulés)", "Pessac-Léognan", "Hawke's Bay"],
+          "best_for": ["Cabernet Sauvignon", "Grenache", "Syrah", "Mourvèdre"],
+          "depth_note": "The galets roulés (round stones) of Châteauneuf-du-Pape can reach 50cm deep and were deposited by the ancient Rhône River.",
+          "color": "#B8B0A0"
+        },
+        {
+          "id": "schist",
+          "name": "Schist",
+          "composition": "Metamorphic rock that splits into layers, often with quartz and mica",
+          "characteristics": ["Excellent drainage", "Heat absorption during day", "Releases warmth at night", "Mineral-rich", "Forces deep rooting"],
+          "wine_impact": "Intense, mineral-driven wines with distinctive smoky or flinty character. Often produces wines with great aromatic complexity.",
+          "famous_regions": ["Douro Valley (Port)", "Côte Rôtie (Côte Brune)", "Priorat", "Banyuls", "Savennières"],
+          "best_for": ["Touriga Nacional", "Syrah", "Grenache", "Chenin Blanc"],
+          "depth_note": "In the Douro, schist can be 2000+ feet deep. Vines must penetrate rock fissures to find water, intensely stressing the plant.",
+          "color": "#4A4A4A"
+        },
+        {
+          "id": "slate",
+          "name": "Slate (Schiefer)",
+          "composition": "Fine-grained metamorphic rock, similar to schist but denser",
+          "characteristics": ["Exceptional heat retention", "Poor soil fertility", "Excellent drainage", "Often steep slopes", "Blue, gray, or red varieties"],
+          "wine_impact": "Distinctive mineral character often described as 'slatey' or 'petrolic.' Produces wines with piercing acidity and long aging potential.",
+          "famous_regions": ["Mosel (blue slate)", "Nahe", "Rheingau", "Wachau", "Ahr"],
+          "best_for": ["Riesling", "Spätburgunder (Pinot Noir)"],
+          "depth_note": "Blue Devonian slate in the Mosel is 400 million years old. Different slate colors (blue, red, gray) produce subtly different wine characters.",
+          "color": "#5C6370"
+        },
+        {
+          "id": "volcanic",
+          "name": "Volcanic Soils",
+          "composition": "Basalt, ash, pumice, and tuff from volcanic activity",
+          "characteristics": ["Mineral-rich (iron, potassium, magnesium)", "Well-drained", "Low fertility", "Variable water retention", "Often dark colored (heat absorbing)"],
+          "wine_impact": "Smoky, mineral, intensely flavored wines. Often described as having 'volcanic tension' or ash-like character. Excellent natural acidity.",
+          "famous_regions": ["Etna (Sicily)", "Canary Islands", "Santorini", "Azores", "Oregon (ancient basalt)"],
+          "best_for": ["Nerello Mascalese", "Assyrtiko", "Listán Negro", "Various indigenous varieties"],
+          "depth_note": "Mount Etna's wines from different elevations and lava flows (contrade) show remarkable variation, like Burgundy's climats.",
+          "color": "#2D2D2D"
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "composition": "Large mineral particles, often quartz-based",
+          "characteristics": ["Excellent drainage (almost excessive)", "Low fertility", "Warms quickly", "Phylloxera resistant", "Low water retention"],
+          "wine_impact": "Light, aromatic wines with delicate structure. Sand's phylloxera resistance means some sandy vineyards still have pre-phylloxera vines.",
+          "famous_regions": ["Colares (Portugal)", "Listel (France)", "Great Hungarian Plain", "Murray Darling"],
+          "best_for": ["Ramisco", "Various - depends on climate"],
+          "depth_note": "Colares, Portugal grows ungrafted vines in sand near the Atlantic - one of the last pre-phylloxera vineyards in Europe.",
+          "color": "#E5DCC5"
+        },
+        {
+          "id": "chalk",
+          "name": "Chalk",
+          "composition": "Soft, white limestone from ancient marine organisms (primarily coccolithophores)",
+          "characteristics": ["Pure calcium carbonate", "Exceptional drainage", "Water reservoir below surface", "Cool, reflective", "Very high pH"],
+          "wine_impact": "Wines with remarkable freshness, laser-like acidity, and saline minerality. The porous chalk provides consistent water access even in dry years.",
+          "famous_regions": ["Champagne", "Jerez (albariza)", "Southern England", "Sancerre"],
+          "best_for": ["Chardonnay", "Pinot Noir", "Pinot Meunier", "Palomino"],
+          "depth_note": "Champagne's chalk can be 200+ meters deep. It acts as a natural water reservoir, releasing moisture during dry periods.",
+          "color": "#FAFAFA"
+        },
+        {
+          "id": "granite",
+          "name": "Granite",
+          "composition": "Ignite rock with quartz, feldspar, and mica; decomposes into sand-like soil",
+          "characteristics": ["Acidic (low pH)", "Excellent drainage", "Low fertility", "Decomposes slowly", "Heat retentive"],
+          "wine_impact": "Wines with tension, mineral edge, and often floral aromatics. Lower pH soils tend to produce wines with freshness and lift.",
+          "famous_regions": ["Northern Rhône (Côte Rôtie Côte Blonde)", "Beaujolais (Morgon, Moulin-à-Vent)", "Swartland", "Galicia (Rías Baixas)"],
+          "best_for": ["Syrah", "Gamay", "Albariño", "Chenin Blanc"],
+          "depth_note": "The pink granite of Beaujolais (Côte de Brouilly) is different from the decomposed granite (gore) of Côte Rôtie, producing distinct expressions.",
+          "color": "#C4B8B0"
+        },
+        {
+          "id": "marl",
+          "name": "Marl (Marne)",
+          "composition": "Mixture of clay and limestone (calcium carbonate)",
+          "characteristics": ["Variable drainage (clay-limestone ratio)", "Moderate fertility", "Complex mineral content", "Can be blue, gray, or yellow"],
+          "wine_impact": "Balanced wines with both structure (from clay) and freshness (from limestone). Often produces aromatic, age-worthy wines.",
+          "famous_regions": ["Burgundy (Kimmeridgian marl)", "Barolo (Tortonian marl)", "Jura", "Alsace"],
+          "best_for": ["Nebbiolo", "Chardonnay", "Pinot Noir", "Savagnin"],
+          "depth_note": "Barolo's Tortonian marl (Serravalian/Tortonian) varies in composition, contributing to the marked differences between villages like Barolo and La Morra.",
+          "color": "#9A9A88"
+        },
+        {
+          "id": "terra-rossa",
+          "name": "Terra Rossa",
+          "composition": "Red clay over limestone bedrock, iron-rich surface",
+          "characteristics": ["Iron-rich red topsoil", "Limestone drainage below", "Moderate fertility", "Warm (dark color)", "Excellent root penetration to limestone"],
+          "wine_impact": "Structured wines with richness from clay but finesse from limestone influence. The iron can contribute to deep color and tannic grip.",
+          "famous_regions": ["Coonawarra (Australia)", "Puglia (Italy)", "Istria (Croatia)", "Majorca (Spain)"],
+          "best_for": ["Cabernet Sauvignon", "Primitivo", "Malvasia"],
+          "depth_note": "Coonawarra's famous cigar-shaped terra rossa strip is only 15km long and 2km wide, yet produces some of Australia's finest Cabernet.",
+          "color": "#A0522D"
+        },
+        {
+          "id": "loess",
+          "name": "Loess",
+          "composition": "Wind-blown silt deposited during ice ages, often over other soils",
+          "characteristics": ["Deep, easily penetrated", "Good water retention", "Moderate fertility", "Neutral to alkaline pH", "Pale colored"],
+          "wine_impact": "Softer, rounder wines with generous fruit. The deep soil allows extensive root development and consistent water access.",
+          "famous_regions": ["Wachau (Austria)", "Kamptal", "Washington State", "Rheinhessen", "Tokaj"],
+          "best_for": ["Grüner Veltliner", "Riesling", "Furmint", "Various"],
+          "depth_note": "In the Wachau, loess terraces can be 20+ meters deep, deposited over millions of years by Alpine winds.",
+          "color": "#D2C4A8"
+        }
+      ]
+    },
+    "climate": {
+      "title": "Climate Zones",
+      "description": "Climate determines ripening potential, vintage variation, and which grape varieties can succeed. Temperature, rainfall, and sunlight hours are the fundamental building blocks of wine style.",
+      "items": [
+        {
+          "id": "continental",
+          "name": "Continental",
+          "temperature_range": "Hot summers, cold winters (-10°C to 35°C)",
+          "characteristics": ["Large seasonal variation", "Short, intense growing season", "Cold winters force vine dormancy", "Risk of spring frost", "Large diurnal temperature shift"],
+          "wine_impact": "High natural acidity (cold nights preserve acids), aromatic intensity, marked vintage variation. Wines tend to be elegant rather than powerful.",
+          "growing_degree_days": "1200-1500",
+          "famous_regions": ["Burgundy", "Champagne", "Alsace", "Finger Lakes", "Niagara Peninsula", "Central Otago"],
+          "key_challenges": ["Spring frost", "Insufficient ripeness in cool years", "Hail", "Short harvest window"],
+          "icon": "snowflake-sun"
+        },
+        {
+          "id": "maritime",
+          "name": "Maritime",
+          "temperature_range": "Mild year-round (5°C to 25°C)",
+          "characteristics": ["Ocean influence moderates extremes", "Cool summers, mild winters", "Higher humidity", "Rainfall during growing season", "Smaller diurnal shift"],
+          "wine_impact": "Fresh, elegant wines with moderate alcohol. Ocean influence provides consistency but humidity increases disease pressure. Extended ripening preserves aromatics.",
+          "growing_degree_days": "1000-1400",
+          "famous_regions": ["Bordeaux", "Loire Valley", "Western Oregon", "Marlborough", "Galicia", "Margaret River"],
+          "key_challenges": ["Rot pressure", "Uneven ripeness", "Rain at harvest", "Mildew"],
+          "icon": "ocean"
+        },
+        {
+          "id": "mediterranean",
+          "name": "Mediterranean",
+          "temperature_range": "Warm to hot, dry summers (15°C to 40°C summer)",
+          "characteristics": ["Dry growing season", "Hot summers", "Mild, wet winters", "High sunshine hours", "Low vintage variation"],
+          "wine_impact": "Ripe, full-bodied wines with soft acidity. Drought stress concentrates flavors. Reliable vintages but risk of over-ripeness and high alcohol.",
+          "growing_degree_days": "1500-2200+",
+          "famous_regions": ["Southern Rhône", "Provence", "Languedoc", "Priorat", "Napa Valley", "Barossa Valley", "Stellenbosch"],
+          "key_challenges": ["Drought stress", "Heat spikes", "Over-ripeness", "Low acidity", "Forest fires"],
+          "icon": "sun"
+        },
+        {
+          "id": "alpine",
+          "name": "Alpine/Mountain",
+          "temperature_range": "Variable with altitude (often 10-20°C cooler than valley floor)",
+          "characteristics": ["Extreme UV intensity", "Cool nights at altitude", "Protected valleys", "Rapid temperature changes", "Often dry (rain shadow)"],
+          "wine_impact": "Intense colors (UV stimulates anthocyanin), thick skins, high acidity from cold nights. Mountain wines often show remarkable concentration and freshness.",
+          "growing_degree_days": "900-1400 (varies with altitude)",
+          "famous_regions": ["Valle d'Aosta", "Alto Adige", "Mendoza (high altitude)", "Cafayate", "Swiss Alps", "Etna (upper slopes)"],
+          "key_challenges": ["Frost", "Limited growing season", "Difficult viticulture", "Hail"],
+          "icon": "mountain"
+        },
+        {
+          "id": "desert",
+          "name": "Desert/Arid",
+          "temperature_range": "Hot days, cool nights (10°C to 45°C)",
+          "characteristics": ["Extreme diurnal shift", "Very low humidity", "Minimal disease pressure", "Irrigation essential", "High UV intensity"],
+          "wine_impact": "Concentrated, powerful wines. Dramatic day-night temperature swings preserve acidity while achieving ripeness. Low disease pressure allows organic/sustainable practices.",
+          "growing_degree_days": "1800-2500",
+          "famous_regions": ["Mendoza", "San Juan", "Cafayate", "Walla Walla", "Central Spain (high meseta)", "Negev Desert"],
+          "key_challenges": ["Water scarcity", "Heat stress", "Sunburn", "Frost in high desert"],
+          "icon": "desert"
+        },
+        {
+          "id": "tropical",
+          "name": "Tropical/Emerging",
+          "temperature_range": "Consistent heat year-round (25°C to 35°C)",
+          "characteristics": ["No dormancy period", "Multiple harvests possible", "High humidity", "Monsoon patterns", "Challenging disease pressure"],
+          "wine_impact": "Experimental, unconventional wine styles. Some producers induce dormancy through drought stress. Quality improving rapidly in select sites.",
+          "growing_degree_days": "2500+",
+          "famous_regions": ["Thailand", "Vietnam", "Brazil (Vale do São Francisco)", "India (Nashik)", "Bali"],
+          "key_challenges": ["Disease pressure", "Lack of dormancy", "Heat stress", "Market perception"],
+          "icon": "tropics"
+        }
+      ]
+    },
+    "geology": {
+      "title": "Geological Foundations",
+      "description": "Bedrock and geological history determine the mineral composition, drainage patterns, and physical structure of vineyard soils. Millions of years of geological processes create the canvas on which terroir is painted.",
+      "items": [
+        {
+          "id": "kimmeridgian",
+          "name": "Kimmeridgian Limestone",
+          "formation": "Late Jurassic period (~155 million years ago), ancient seabed",
+          "composition": "Limestone rich in fossilized oyster shells (Exogyra virgula)",
+          "characteristics": ["Fossil-rich", "High calcium content", "Excellent drainage", "Distinctive gray color with shell fragments"],
+          "wine_impact": "Wines with pronounced mineral tension, saline edge, and remarkable freshness. The oyster fossils contribute distinctive characteristics often described as 'oyster shell' or 'chalky.'",
+          "famous_regions": ["Chablis (Grand Cru)", "Sancerre", "Champagne (Côte des Blancs)"],
+          "geological_note": "Named after Kimmeridge Bay in England, where this formation was first identified. The same geological band extends through Champagne and Chablis."
+        },
+        {
+          "id": "jurassic-limestone",
+          "name": "Jurassic Limestone (Comblanchien)",
+          "formation": "Middle Jurassic period (~170 million years ago)",
+          "composition": "Dense, hard limestone, often white to cream colored",
+          "characteristics": ["Very hard (used for flooring)", "Excellent drainage", "High calcium content", "Forms steep slopes"],
+          "wine_impact": "Structured wines with fine tannins and pronounced minerality. The hard limestone forces roots deep, stressing vines beneficially.",
+          "famous_regions": ["Burgundy Côte d'Or", "Northern Rhône", "Jura"],
+          "geological_note": "Comblanchien marble from Burgundy was used to construct the Paris Opera House. This same stone underlies the region's greatest vineyards."
+        },
+        {
+          "id": "triassic",
+          "name": "Triassic Formations",
+          "formation": "Triassic period (~250-200 million years ago)",
+          "composition": "Varied: sandstone, mudstone, marl, often red-colored",
+          "characteristics": ["Often iron-rich (red color)", "Variable drainage", "Mixed soil types", "Ancient river deposits"],
+          "wine_impact": "Complex wines with earthy, mineral character. Iron content can contribute to color intensity and tannic structure.",
+          "famous_regions": ["Côtes du Rhône", "Provence", "Parts of Rioja"],
+          "geological_note": "Triassic rocks were formed before the breakup of Pangaea, making them among the oldest vineyard bedrock in Europe."
+        },
+        {
+          "id": "devonian",
+          "name": "Devonian Slate",
+          "formation": "Devonian period (~400 million years ago)",
+          "composition": "Blue, gray, and red slate formed from compressed sea sediments",
+          "characteristics": ["Exceptional heat retention", "Fractures allow root penetration", "Poor fertility", "Creates steep slopes"],
+          "wine_impact": "Wines with distinctive 'slatey' minerality, often described as petrolic or flinty. The heat retention helps ripen grapes on steep, cool slopes.",
+          "famous_regions": ["Mosel", "Saar", "Ruwer", "Ahr", "Parts of Portugal"],
+          "geological_note": "Blue Devonian slate (Blauschiefer) is particularly prized in the Mosel. Different slate colors produce subtly different wine characters."
+        },
+        {
+          "id": "quaternary",
+          "name": "Quaternary Alluvial",
+          "formation": "Quaternary period (last 2.6 million years), river deposits",
+          "composition": "Gravel, sand, and clay deposited by rivers and glaciers",
+          "characteristics": ["Well-drained gravel beds", "Deep alluvial fans", "Varied composition", "Often terraced"],
+          "wine_impact": "Well-structured wines with good concentration. Alluvial gravel provides excellent drainage while deep deposits allow extensive root development.",
+          "famous_regions": ["Médoc", "Napa Valley", "Mendoza", "Hawke's Bay", "Marlborough"],
+          "geological_note": "The Médoc's famous gravel beds were deposited by the Gironde estuary over millions of years, creating naturally elevated, well-drained mounds (croupes)."
+        },
+        {
+          "id": "volcanic-tertiary",
+          "name": "Tertiary Volcanic",
+          "formation": "Various volcanic events (65-2.6 million years ago)",
+          "composition": "Basalt, tuff, pumice, volcanic ash",
+          "characteristics": ["Mineral-rich", "Variable drainage", "Often dark colored", "Creates dramatic topography"],
+          "wine_impact": "Intensely mineral wines with smoky, ashy characteristics. Volcanic soils often produce wines with notable acidity and ageability.",
+          "famous_regions": ["Etna", "Santorini", "Madeira", "Canary Islands", "Somló (Hungary)"],
+          "geological_note": "Etna's different lava flows create distinct 'contrade' with varying soil compositions, paralleling Burgundy's climat system."
+        },
+        {
+          "id": "cretaceous",
+          "name": "Cretaceous Chalk",
+          "formation": "Cretaceous period (~145-66 million years ago)",
+          "composition": "Pure calcium carbonate from coccolithophore (microscopic marine algae) shells",
+          "characteristics": ["Brilliant white color", "Highly porous", "Excellent water regulation", "Cool soil"],
+          "wine_impact": "Wines with laser-like precision, remarkable freshness, and chalky minerality. The porous chalk provides consistent water access.",
+          "famous_regions": ["Champagne", "White Cliffs of Dover (English Sparkling)", "Jerez (albariza)"],
+          "geological_note": "The same chalk bed that creates the White Cliffs of Dover extends under the English Channel to Champagne, explaining similar wine styles."
+        },
+        {
+          "id": "precambrian",
+          "name": "Precambrian Shield",
+          "formation": "Oldest rock formations (>500 million years ago)",
+          "composition": "Ancient granite, gneiss, and metamorphic rock",
+          "characteristics": ["Extremely old and stable", "Low fertility", "Well-drained", "Acidic soils"],
+          "wine_impact": "Wines with mineral intensity, tension, and often floral aromatics. Ancient soils force vines to work hard, concentrating flavors.",
+          "famous_regions": ["Swartland (South Africa)", "Parts of Australia", "Canadian Shield regions"],
+          "geological_note": "Some of the oldest vineyard soils on Earth, these ancient formations have been eroding for hundreds of millions of years."
+        }
+      ]
+    },
+    "topography": {
+      "title": "Topography & Aspect",
+      "description": "The physical shape of the land - slopes, valleys, and orientation - fundamentally shapes vine exposure, drainage, and microclimate. A few meters of elevation or a slight change in angle can mean the difference between a village wine and a Grand Cru.",
+      "concepts": [
+        {
+          "id": "south-facing",
+          "name": "South-Facing Slopes (Northern Hemisphere)",
+          "explanation": "Slopes oriented toward the south receive maximum solar exposure in the Northern Hemisphere. The angle of the slope can effectively increase heat accumulation by 2-3°C compared to flat land.",
+          "temperature_gain": "+2-3°C vs flat land",
+          "benefits": ["Maximum sun exposure", "Better ripening in cool climates", "Faster snow melt in spring", "Drier conditions (disease prevention)"],
+          "famous_examples": ["Côte d'Or (east-southeast)", "Mosel steep slopes", "Côte Rôtie", "Hermitage"],
+          "note": "In very warm climates, south-facing slopes may be too hot, and north-facing slopes become desirable."
+        },
+        {
+          "id": "slope-angle",
+          "name": "Slope Angle",
+          "explanation": "Steeper slopes receive more direct sunlight per unit area. A slope perpendicular to the sun's rays receives maximum energy. Steepness also improves drainage and cold air flow.",
+          "optimal_range": "15-35° for most wine regions (steeper requires terracing)",
+          "benefits": ["Increased effective temperature", "Improved drainage", "Cold air drains away", "Reduced frost risk"],
+          "famous_examples": ["Mosel (up to 65° slopes)", "Douro terraces", "Côte Rôtie (up to 60°)", "Banyuls terraces"],
+          "note": "Extreme slopes (>40°) require terracing or heroic viticulture and significantly increase costs."
+        },
+        {
+          "id": "elevation",
+          "name": "Elevation",
+          "explanation": "Temperature decreases approximately 0.6°C per 100m of elevation gain. Higher vineyards experience cooler nights, increased UV exposure, and often different soil types.",
+          "temperature_effect": "-0.6°C per 100m altitude",
+          "benefits": ["Cooler temperatures", "Preserved acidity", "Longer ripening period", "Increased UV (thicker skins)", "Larger diurnal shift"],
+          "famous_examples": ["Mendoza (900-1500m)", "Etna (400-1000m)", "Cafayate (1700m)", "Trentino-Alto Adige (200-1000m)"],
+          "note": "Some of the world's highest vineyards are in Argentina's Salta region, above 3,000 meters."
+        },
+        {
+          "id": "valley-floor",
+          "name": "Valley Floor",
+          "explanation": "Valley floors are typically flatter with deeper, more fertile soils. They collect cold air at night (frost pockets) but may have better water access.",
+          "characteristics": ["Deeper alluvial soils", "Cold air pooling", "Higher frost risk", "Often more fertile", "Better water access"],
+          "wine_style": "Often produces more generous, approachable wines with less concentration than hillside sites",
+          "considerations": "Valley floor vineyards are often used for volume production or earlier-drinking styles."
+        },
+        {
+          "id": "mid-slope",
+          "name": "Mid-Slope Position",
+          "explanation": "The 'sweet spot' in many wine regions. Mid-slope sites avoid frost accumulation at the bottom and exposure at the top while benefiting from optimal drainage and air circulation.",
+          "benefits": ["Best air drainage", "Optimal sun exposure", "Good soil drainage", "Balanced conditions"],
+          "famous_examples": ["Burgundy Grand Crus", "Barolo's best crus", "Hermitage's best parcels"],
+          "note": "In Burgundy, the Grand Crus are almost universally positioned at mid-slope, with Premiers Crus above and below."
+        },
+        {
+          "id": "amphitheater",
+          "name": "Natural Amphitheaters",
+          "explanation": "Bowl-shaped formations that concentrate and retain heat, protect from wind, and often create unique microclimates. These formations act as natural solar collectors.",
+          "benefits": ["Wind protection", "Heat concentration", "Extended ripening", "Unique microclimates"],
+          "famous_examples": ["Corton (Burgundy)", "Hermitage", "Scharzhofberg (Mosel)", "Cornas"],
+          "note": "The hill of Corton is one of Burgundy's most famous natural amphitheaters, producing both red and white Grand Crus."
+        }
+      ]
+    },
+    "drainage": {
+      "title": "Water & Drainage",
+      "description": "Water availability fundamentally shapes vine behavior. Too much water dilutes flavors and encourages vegetative growth; too little causes stress and shutdown. The best vineyard sites balance drainage with access to deep water reserves.",
+      "factors": [
+        {
+          "id": "water-table",
+          "name": "Water Table Depth",
+          "explanation": "The depth to groundwater determines vine root development strategy. Deep water tables force roots down 10+ meters in search of moisture.",
+          "ideal_depth": "3-10 meters (forces deep rooting without water stress)",
+          "impact": "Deep-rooted vines access consistent water supplies and minerals, producing wines with greater complexity and stress resistance.",
+          "regional_examples": ["Médoc gravel over clay (natural water reservoir)", "Châteauneuf-du-Pape (deep galets over clay)"]
+        },
+        {
+          "id": "soil-drainage",
+          "name": "Soil Drainage Capacity",
+          "explanation": "How quickly water moves through soil affects vine water uptake and root development. Well-drained soils prevent waterlogging while poorly drained soils can drown roots.",
+          "drainage_scale": [
+            {"rating": "Excellent", "soil_types": ["Gravel", "Sand", "Volcanic"], "note": "May require irrigation in dry climates"},
+            {"rating": "Good", "soil_types": ["Limestone", "Schist", "Slate"], "note": "Ideal for most quality wine production"},
+            {"rating": "Moderate", "soil_types": ["Loess", "Marl", "Mixed"], "note": "Balanced, site-dependent"},
+            {"rating": "Poor", "soil_types": ["Heavy clay", "Compacted soils"], "note": "Risk of waterlogging, need slope for drainage"}
+          ]
+        },
+        {
+          "id": "rainfall-timing",
+          "name": "Rainfall Timing",
+          "explanation": "When rain falls matters as much as how much. Winter rain replenishes reserves; harvest rain dilutes grapes and promotes rot.",
+          "ideal_pattern": "Wet winter/spring, dry summer, no rain at harvest",
+          "regional_variations": [
+            {"region": "Mediterranean", "pattern": "Dry summers, wet winters - ideal"},
+            {"region": "Maritime", "pattern": "Year-round rainfall - challenging at harvest"},
+            {"region": "Continental", "pattern": "Summer storms - variable vintage quality"}
+          ]
+        },
+        {
+          "id": "irrigation-debate",
+          "name": "The Irrigation Debate",
+          "explanation": "Irrigation is prohibited in many European appellations (based on terroir philosophy) but essential in drier New World regions. The debate centers on whether water management is terroir manipulation or necessary adaptation.",
+          "positions": {
+            "traditional": "Irrigation masks terroir and reduces quality. Vines should struggle to produce concentrated fruit.",
+            "modern": "Controlled deficit irrigation can improve quality by managing vine stress. Climate change makes irrigation increasingly necessary.",
+            "scientific": "Moderate water stress generally improves quality; severe stress damages vines. Optimal stress levels are site-specific."
+          },
+          "irrigation_types": ["Drip (most precise)", "Furrow", "Sprinkler", "Regulated Deficit Irrigation (RDI)"]
+        }
+      ]
+    },
+    "microclimate": {
+      "title": "Microclimate Factors",
+      "description": "Within any vineyard, conditions vary meter by meter. Fog, wind, slope exposure, and proximity to water create microclimates that can make one row dramatically different from its neighbor.",
+      "factors": [
+        {
+          "id": "diurnal-shift",
+          "name": "Diurnal Temperature Variation",
+          "definition": "The difference between day and night temperatures during the growing season",
+          "ideal_range": "15-20°C difference",
+          "impact": "Large diurnal shifts preserve acidity while allowing daytime ripening. This produces wines with both concentration and freshness.",
+          "high_diurnal_regions": ["Mendoza (20-25°C)", "Cafayate (25°C+)", "Paso Robles", "Central Otago"],
+          "low_diurnal_regions": ["Bordeaux", "Burgundy", "Most maritime climates"],
+          "mechanism": "Cool nights slow respiration, preserving malic acid accumulated during photosynthesis."
+        },
+        {
+          "id": "fog",
+          "name": "Fog Influence",
+          "definition": "Maritime fog that burns off by midday, cooling mornings and extending ripening",
+          "benefits": ["Morning cooling effect", "Moisture for dry regions", "Extended hang time", "Preserves acidity"],
+          "risks": ["Excessive humidity (rot)", "Insufficient warmth if persistent", "Uneven ripening"],
+          "famous_regions": ["Russian River Valley", "Carneros", "Santa Rita Hills", "Casablanca Valley"],
+          "mechanism": "Cold Pacific Ocean water creates fog that flows through gaps in coastal mountains, cooling specific valleys."
+        },
+        {
+          "id": "wind",
+          "name": "Wind Patterns",
+          "definition": "Prevailing winds that affect temperature, humidity, and disease pressure",
+          "named_winds": [
+            {"name": "Mistral", "region": "Rhône Valley", "effect": "Dries vines, prevents rot, can stress young vines"},
+            {"name": "Zonda", "region": "Mendoza", "effect": "Hot, dry wind from Andes, can cause heat stress"},
+            {"name": "Cape Doctor", "region": "South Africa", "effect": "Afternoon wind that cools vineyards"},
+            {"name": "Tramontana", "region": "Northern Spain", "effect": "Cool, dry north wind"}
+          ],
+          "impact": "Wind reduces disease pressure by drying foliage but can cause physical damage and increase water stress."
+        },
+        {
+          "id": "frost-pockets",
+          "name": "Frost Pockets",
+          "definition": "Low-lying areas where cold air accumulates, increasing frost risk",
+          "cause": "Cold air is denser than warm air and flows downhill, pooling in valleys and depressions",
+          "protection_methods": ["Wind machines", "Smudge pots", "Water spraying", "Site selection (avoid valley floors)"],
+          "famous_frost_events": ["2017 Burgundy (90% loss)", "2021 France (nationwide devastation)"],
+          "mitigation": "Planting on slopes allows cold air drainage; avoiding valley floors is the best protection."
+        },
+        {
+          "id": "water-bodies",
+          "name": "Water Body Influence",
+          "definition": "Lakes, rivers, and oceans that moderate temperatures and create unique microclimates",
+          "mechanisms": [
+            {"effect": "Temperature moderation", "explanation": "Water heats and cools more slowly than land"},
+            {"effect": "Fog generation", "explanation": "Temperature differences create coastal fog"},
+            {"effect": "Light reflection", "explanation": "Water surfaces reflect sunlight onto nearby slopes"},
+            {"effect": "Humidity", "explanation": "Increased moisture affects disease pressure"}
+          ],
+          "famous_examples": ["Mosel River", "Lake Geneva", "Lake Constance", "Finger Lakes", "Margaret River coastline"]
+        },
+        {
+          "id": "forest-influence",
+          "name": "Forest Edge Effects",
+          "definition": "Adjacent forests that provide wind protection, biodiversity, and temperature moderation",
+          "benefits": ["Wind shelter", "Biodiversity (beneficial insects)", "Temperature moderation", "Humidity regulation"],
+          "considerations": "Proximity to forests can increase frost risk (cold air drainage) and shade (in northern climates).",
+          "biodynamic_connection": "Biodynamic philosophy emphasizes vineyard biodiversity, often preserving forest edges and hedgerows."
+        }
+      ]
+    },
+    "examples": {
+      "title": "Famous Terroir Sites",
+      "description": "These iconic vineyard sites represent the pinnacle of terroir expression. Each combines geology, climate, topography, and centuries of human understanding to produce wines that cannot be replicated elsewhere.",
+      "sites": [
+        {
+          "id": "romanee-conti",
+          "name": "Romanée-Conti",
+          "region": "Burgundy, France",
+          "appellation": "Romanée-Conti Grand Cru",
+          "area": "1.81 hectares",
+          "soil": "Limestone with clay and iron-rich marl (Bathonian limestone)",
+          "aspect": "East-southeast facing, mid-slope (260-280m)",
+          "elevation": "260-280 meters",
+          "slope": "Gentle (5-8%)",
+          "microclimate": "Protected from west winds by forest above, perfect air drainage down slope",
+          "grape": "Pinot Noir (100%)",
+          "what_makes_it_special": "The perfect convergence of slope, soil depth, drainage, and centuries of observation. Iron-rich marl over fractured limestone creates ideal root penetration and mineral uptake. Mid-slope position ensures frost drainage while receiving optimal sun. Owned by a single estate (DRC) since 1869, ensuring consistent philosophy.",
+          "production": "~450 cases annually",
+          "price_indication": "Most expensive wine in the world ($15,000-30,000+ per bottle)",
+          "climate_data": {
+            "climate_type": "Continental",
+            "growing_degree_days": "1150-1250",
+            "annual_rainfall": "700-750mm",
+            "rainfall_pattern": "Evenly distributed, risk of hail in summer",
+            "avg_summer_temp": "19-21°C",
+            "avg_winter_temp": "2-4°C",
+            "diurnal_shift": "10-12°C",
+            "frost_risk": "Moderate (April-May)",
+            "sunshine_hours": "1900-2000 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Middle Jurassic (Bathonian), ~167 million years ago",
+            "parent_rock": "Bathonian limestone (Comblanchien formation)",
+            "soil_profile": [
+              {"depth": "0-30cm", "composition": "Brown clay-limestone with iron oxide nodules"},
+              {"depth": "30-60cm", "composition": "Weathered marl with limestone fragments"},
+              {"depth": "60cm+", "composition": "Fractured Bathonian limestone bedrock"}
+            ],
+            "soil_ph": "7.8-8.2 (alkaline)",
+            "active_limestone": "15-25%",
+            "iron_content": "High (gives wines structure)",
+            "geological_notes": "The vineyard sits on a fault line that brings iron-rich marl to the surface. This unique combination is found in only a few hundred meters of the Côte de Nuits."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent",
+            "water_table_depth": "15-20 meters",
+            "root_depth": "Up to 12 meters in limestone fissures",
+            "irrigation": "Prohibited by AOC law",
+            "water_stress": "Moderate - limestone acts as water reservoir",
+            "drainage_notes": "The fractured limestone allows deep root penetration while the clay fraction retains just enough moisture for even ripening."
+          },
+          "viticulture": {
+            "vine_age": "Average 50+ years (replanted 1945-1947 after phylloxera)",
+            "rootstock": "Primarily 161-49C and 3309C",
+            "training": "Guyot simple",
+            "density": "10,000 vines/hectare",
+            "yield": "25-30 hl/ha (severely restricted)",
+            "harvest_date": "Typically mid-September",
+            "organic_status": "Practicing organic, biodynamic since 2008"
+          },
+          "wine_character": {
+            "color": "Medium ruby with garnet hints",
+            "aromas": ["Rose petal", "Violet", "Cherry", "Exotic spices", "Forest floor", "Truffle"],
+            "palate": ["Silk texture", "Perfect acidity", "Ethereal tannins", "Endless finish"],
+            "aging_potential": "30-50+ years",
+            "best_vintages": ["2019", "2018", "2015", "2010", "2005", "1999", "1990"],
+            "style_notes": "Paradoxically delicate yet intense. Never heavy, always perfumed. The iron contributes a distinctive saline, blood-orange undertone."
+          },
+          "notable_producers": [
+            {"name": "Domaine de la Romanée-Conti", "note": "Sole owner (monopole) since 1869"}
+          ],
+          "history": "First documented in 1131 when monks of Saint-Vivant priory began cultivating. Named for Prince de Conti who purchased it in 1760, outbidding Madame de Pompadour. Confiscated during French Revolution, eventually acquired by de Villaine family."
+        },
+        {
+          "id": "to-kalon",
+          "name": "To Kalon Vineyard",
+          "region": "Napa Valley, California",
+          "appellation": "Oakville AVA",
+          "area": "~550 hectares (divided among owners)",
+          "soil": "Deep alluvial gravel over clay, well-drained benchland",
+          "aspect": "Gentle west-facing slopes, valley floor to benchland",
+          "elevation": "55-85 meters",
+          "slope": "Minimal (1-3%)",
+          "microclimate": "Protected by western mountains, morning fog burns off by mid-morning, warm afternoons",
+          "grape": "Primarily Cabernet Sauvignon",
+          "what_makes_it_special": "Greek for 'the highest beauty' - named by H.W. Crabb in 1868. The gravelly alluvial fan provides perfect drainage while the western mountains create an ideal microclimate. Divided among Robert Mondavi, Opus One, Schrader, and others. Each parcel produces distinctive wine while sharing identifiable 'To Kalon' character: velvety tannins, dark fruit, and remarkable aging potential.",
+          "production": "Variable by owner",
+          "price_indication": "Schrader To Kalon: $250-500; Opus One: $400+",
+          "climate_data": {
+            "climate_type": "Mediterranean",
+            "growing_degree_days": "1650-1800",
+            "annual_rainfall": "600-750mm",
+            "rainfall_pattern": "Winter rain (Nov-March), dry growing season",
+            "avg_summer_temp": "27-32°C days, 12-15°C nights",
+            "avg_winter_temp": "8-12°C",
+            "diurnal_shift": "15-20°C",
+            "frost_risk": "Low (benchland position)",
+            "sunshine_hours": "2800-3000 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Quaternary alluvial deposits (last 2 million years)",
+            "parent_rock": "Volcanic and sedimentary material from Mayacamas Range",
+            "soil_profile": [
+              {"depth": "0-50cm", "composition": "Gravelly loam with rounded river stones"},
+              {"depth": "50-150cm", "composition": "Alluvial gravel and sand"},
+              {"depth": "150cm+", "composition": "Clay hardpan (slows drainage beneficially)"}
+            ],
+            "soil_ph": "6.5-7.2 (slightly acidic to neutral)",
+            "active_limestone": "Low",
+            "iron_content": "Moderate",
+            "geological_notes": "Ancient alluvial fan from Mayacamas Mountains. The gravel was deposited over millions of years by seasonal floods. Different sections have varying stone content and clay depth."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent to moderate (varies by block)",
+            "water_table_depth": "3-8 meters",
+            "root_depth": "4-6 meters typical",
+            "irrigation": "Drip irrigation, regulated deficit irrigation (RDI) common",
+            "water_stress": "Controlled - deliberate stress applied post-veraison",
+            "drainage_notes": "The gravel layer provides excellent drainage while underlying clay prevents excessive water loss. This creates ideal conditions for controlled vine stress."
+          },
+          "viticulture": {
+            "vine_age": "Mixed - oldest blocks from 1960s, continuous replanting",
+            "rootstock": "Various: 110R, 3309C, St. George",
+            "training": "Vertical shoot positioning (VSP), bilateral cordon",
+            "density": "2,000-3,000 vines/hectare (typical California)",
+            "yield": "3-5 tons/acre for premium blocks",
+            "harvest_date": "Late September to mid-October",
+            "organic_status": "Varies by owner; many sustainable/organic blocks"
+          },
+          "wine_character": {
+            "color": "Deep purple-black",
+            "aromas": ["Cassis", "Blackberry", "Graphite", "Violet", "Dark chocolate", "Cedar"],
+            "palate": ["Velvety tannins", "Concentrated fruit", "Mineral core", "Long finish"],
+            "aging_potential": "20-40 years",
+            "best_vintages": ["2021", "2019", "2018", "2016", "2013", "2007", "2002"],
+            "style_notes": "Combines Napa opulence with surprising structure. The gravel imparts a distinctive mineral graphite note absent in richer valley floor wines."
+          },
+          "notable_producers": [
+            {"name": "Schrader Cellars", "note": "CCS, GIII, RBS bottlings"},
+            {"name": "Opus One", "note": "Joint venture Mondavi/Rothschild"},
+            {"name": "Robert Mondavi", "note": "Reserve Cabernet"},
+            {"name": "Paul Hobbs", "note": "To Kalon designate"},
+            {"name": "Tor Wines", "note": "Beckstoffer To Kalon"}
+          ],
+          "history": "Planted 1868 by H.W. Crabb who named it 'To Kalon' (Greek: the highest beauty). Survived Prohibition as vineyard (not winery). Robert Mondavi purchased core parcels in 1966. Now divided among multiple owners, with ongoing legal disputes over the name."
+        },
+        {
+          "id": "cote-rotie-blonde",
+          "name": "Côte Rôtie - Côte Blonde",
+          "region": "Northern Rhône, France",
+          "appellation": "Côte Rôtie AOC",
+          "area": "~80 hectares (Côte Blonde portion)",
+          "soil": "Decomposed granite (gore) with mica, leucogranite",
+          "aspect": "Southeast to south-facing, extremely steep",
+          "elevation": "180-330 meters",
+          "slope": "35-60% gradient",
+          "microclimate": "Sun-trapped amphitheater, protected from north winds, very hot in summer",
+          "grape": "Syrah (up to 20% Viognier permitted)",
+          "what_makes_it_special": "The 'roasted slope' lives up to its name. Legend says blonde and brunette daughters of a local lord gave names to the two côtes. Côte Blonde's lighter granite produces more perfumed, elegant Syrah compared to darker, more tannic Côte Brune (iron-rich schist). The extreme slopes (some requiring hand-winching) and granite create Syrah of unmatched elegance.",
+          "production": "Limited by extreme viticulture costs",
+          "price_indication": "Top producers (Guigal La Mouline): $300-600",
+          "climate_data": {
+            "climate_type": "Continental with Mediterranean influence",
+            "growing_degree_days": "1400-1550",
+            "annual_rainfall": "700-850mm",
+            "rainfall_pattern": "Autumn storms, dry summer, Mistral wind influence",
+            "avg_summer_temp": "24-28°C",
+            "avg_winter_temp": "3-5°C",
+            "diurnal_shift": "12-15°C",
+            "frost_risk": "Low (steep slopes drain cold air)",
+            "sunshine_hours": "2200-2400 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Paleozoic metamorphic (300-400 million years ago)",
+            "parent_rock": "Leucogranite (light-colored granite) with mica schist intrusions",
+            "soil_profile": [
+              {"depth": "0-20cm", "composition": "Gore (decomposed granite), sandy, golden-pink color"},
+              {"depth": "20-50cm", "composition": "Weathered granite with mica flakes"},
+              {"depth": "50cm+", "composition": "Fractured granite bedrock"}
+            ],
+            "soil_ph": "5.5-6.5 (acidic)",
+            "active_limestone": "None (granite is siliceous)",
+            "iron_content": "Low to moderate",
+            "geological_notes": "Côte Blonde's lighter granite (leucogranite) contrasts with Côte Brune's darker, iron-rich mica schist. The mica crystals reflect sunlight, increasing effective heat. Gore decomposes extremely slowly, requiring centuries to form."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent (steep slope + porous granite)",
+            "water_table_depth": "Deep (granite bedrock)",
+            "root_depth": "3-6 meters in rock fissures",
+            "irrigation": "Prohibited by AOC law",
+            "water_stress": "High in dry summers - vines suffer",
+            "drainage_notes": "The extreme slopes and porous granite create rapid drainage. Terraced walls (cheys) help retain soil and slow water runoff. Vines must root deeply to survive."
+          },
+          "viticulture": {
+            "vine_age": "Many parcels 40-80+ years",
+            "rootstock": "Primarily Riparia Gloire, some 3309C",
+            "training": "Single stake (échalas) - traditional but labor-intensive",
+            "density": "8,000-10,000 vines/hectare",
+            "yield": "30-35 hl/ha maximum",
+            "harvest_date": "Mid-September to early October",
+            "organic_status": "Many producers organic/biodynamic"
+          },
+          "wine_character": {
+            "color": "Deep ruby with purple edge",
+            "aromas": ["Violet", "Bacon fat", "Black olive", "Raspberry", "White pepper", "Apricot (Viognier influence)"],
+            "palate": ["Silky tannins", "Perfumed elegance", "Less structure than Côte Brune", "Floral lift"],
+            "aging_potential": "15-30 years",
+            "best_vintages": ["2020", "2019", "2017", "2015", "2010", "2005", "1999"],
+            "style_notes": "Côte Blonde produces the most perfumed, feminine Côte-Rôtie. The granite contributes floral aromatics and silky texture. Viognier co-fermentation (when used) adds apricot notes and stabilizes color."
+          },
+          "notable_producers": [
+            {"name": "E. Guigal", "note": "La Mouline (100% Côte Blonde, 11% Viognier)"},
+            {"name": "René Rostaing", "note": "Côte Blonde bottling"},
+            {"name": "Stéphane Ogier", "note": "Lancement (Côte Blonde)"},
+            {"name": "Patrick Jasmin", "note": "Traditional producer"},
+            {"name": "Jean-Michel Gerin", "note": "La Landonne contrast"}
+          ],
+          "history": "Romans planted here in 1st century AD. Legend: Lord Maugiron divided the hill between his blonde and brunette daughters. Nearly abandoned by 1960s (only 70 hectares planted). Guigal's La Mouline (1966) sparked renaissance. Now ~300 hectares total AOC."
+        },
+        {
+          "id": "scharzhofberg",
+          "name": "Scharzhofberg",
+          "region": "Mosel, Germany",
+          "appellation": "Wiltingen, Saar",
+          "area": "~28 hectares",
+          "soil": "Blue Devonian slate (Blauschiefer), 400 million years old",
+          "aspect": "South to southwest facing",
+          "elevation": "200-300 meters",
+          "slope": "Up to 65% gradient",
+          "microclimate": "Protected amphitheater, optimal sun exposure for this cool climate",
+          "grape": "Riesling (100%)",
+          "what_makes_it_special": "The most famous vineyard of the Saar. Blue Devonian slate stores solar energy by day and releases warmth at night, essential for ripening Riesling in this marginal climate. The 65% slopes are among the steepest in the world, requiring heroic viticulture. Egon Müller's wines from this site command Burgundy Grand Cru prices. The resulting Rieslings possess ethereal precision, slatey minerality, and can age for decades.",
+          "production": "Very limited (Egon Müller)",
+          "price_indication": "Egon Müller Scharzhofberger Auslese: $500-3,000+",
+          "climate_data": {
+            "climate_type": "Cool continental (marginal for viticulture)",
+            "growing_degree_days": "900-1050",
+            "annual_rainfall": "700-800mm",
+            "rainfall_pattern": "Year-round, some summer drought stress beneficial",
+            "avg_summer_temp": "17-20°C",
+            "avg_winter_temp": "-1 to 2°C",
+            "diurnal_shift": "8-12°C",
+            "frost_risk": "High (April-May, sometimes October)",
+            "sunshine_hours": "1500-1700 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Lower Devonian (400-410 million years ago)",
+            "parent_rock": "Blue Devonian slate (Blauschiefer) - metamorphosed marine sediment",
+            "soil_profile": [
+              {"depth": "0-15cm", "composition": "Slate fragments and weathered slate dust"},
+              {"depth": "15-40cm", "composition": "Fractured slate with thin soil pockets"},
+              {"depth": "40cm+", "composition": "Solid slate bedrock (roots penetrate fissures)"}
+            ],
+            "soil_ph": "4.5-5.5 (very acidic)",
+            "active_limestone": "None (siliceous slate)",
+            "iron_content": "Low (blue slate) vs higher in red slate",
+            "geological_notes": "Blue Devonian slate formed from compressed sea-floor sediments. The blue color indicates low iron. Slate stores solar heat by day and radiates it at night - crucial in this cold climate. Different slate colors (blue, gray, red) produce subtly different wines."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent (steep slope, fractured rock)",
+            "water_table_depth": "Deep (slate bedrock)",
+            "root_depth": "5-10+ meters through slate fissures",
+            "irrigation": "Prohibited",
+            "water_stress": "Variable - drought stress common in recent warm years",
+            "drainage_notes": "The steep slopes and fractured slate create rapid drainage. Roots must penetrate deep into rock fissures to find water. This stress concentrates flavors but makes drought years challenging."
+          },
+          "viticulture": {
+            "vine_age": "Many parcels 50-100+ years, some pre-WWII",
+            "rootstock": "Primarily ungrafted (phylloxera rare in slate), some 3309C",
+            "training": "Single stake (Einzelpfahlerziehung) - traditional Mosel",
+            "density": "8,000-10,000 vines/hectare",
+            "yield": "40-60 hl/ha (varies by producer and vintage)",
+            "harvest_date": "October to November (late ripening)",
+            "organic_status": "Many producers sustainable, some organic"
+          },
+          "wine_character": {
+            "color": "Pale gold with green tints",
+            "aromas": ["Slate mineral", "Citrus blossom", "White peach", "Wet stone", "Petrol (with age)", "Honey"],
+            "palate": ["Laser precision", "Electric acidity", "Featherweight body", "Slatey finish"],
+            "aging_potential": "30-50+ years (Auslese/TBA much longer)",
+            "best_vintages": ["2022", "2021", "2019", "2018", "2017", "2015", "2009", "2005", "2001"],
+            "style_notes": "Scharzhofberg produces the most ethereal Saar Riesling. The blue slate contributes a distinctive mineral note often described as wet stone or crushed rock. Even sweet styles retain piercing acidity."
+          },
+          "notable_producers": [
+            {"name": "Egon Müller", "note": "Most famous, highest prices, estate since 1797"},
+            {"name": "Van Volxem", "note": "Revivalist, biodynamic, single-parcel bottlings"},
+            {"name": "Geltz-Zilliken", "note": "Pure, crystalline style"},
+            {"name": "Von Hövel", "note": "Elegant, traditional"}
+          ],
+          "history": "Planted by Romans, later by Cistercian monks from French abbey of Himmerod. Name derives from 'Scharze' (boundary) not 'schwarz' (black). Müller family acquired Scharzhof estate in 1797. Nearly abandoned in mid-20th century due to labor costs on steep slopes. Recent decades have seen renewed investment and recognition."
+        },
+        {
+          "id": "coulee-de-serrant",
+          "name": "Coulée de Serrant",
+          "region": "Loire Valley, France",
+          "appellation": "Savennières (Monopole)",
+          "area": "7 hectares",
+          "soil": "Volcanic rhyolite and schist over purple slate",
+          "aspect": "South-facing steep slopes above Loire",
+          "elevation": "50-80 meters",
+          "slope": "Steep, terraced",
+          "microclimate": "Loire River influence, protected from north winds, long growing season",
+          "grape": "Chenin Blanc (100%)",
+          "what_makes_it_special": "A monopole vineyard owned by Nicolas Joly, pioneer of biodynamic viticulture. Cistercian monks planted vines here in 1130. The volcanic and schist soils, combined with Loire influence and south-facing slopes, produce Chenin Blanc of extraordinary mineral intensity and aging potential. Joly's biodynamic approach treats the vineyard as a complete ecosystem. Among the world's greatest dry white wines.",
+          "production": "~1,500 cases annually",
+          "price_indication": "$80-150",
+          "climate_data": {
+            "climate_type": "Maritime-continental transition",
+            "growing_degree_days": "1200-1350",
+            "annual_rainfall": "550-650mm",
+            "rainfall_pattern": "Year-round, relatively dry by Loire standards",
+            "avg_summer_temp": "20-24°C",
+            "avg_winter_temp": "4-6°C",
+            "diurnal_shift": "10-12°C",
+            "frost_risk": "Moderate (April, Loire provides some protection)",
+            "sunshine_hours": "1900-2100 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Precambrian volcanic (500+ million years ago)",
+            "parent_rock": "Rhyolite (volcanic) and purple schist with quartz veins",
+            "soil_profile": [
+              {"depth": "0-25cm", "composition": "Sandy loam with schist fragments"},
+              {"depth": "25-60cm", "composition": "Weathered rhyolite and purple schist"},
+              {"depth": "60cm+", "composition": "Volcanic bedrock with quartz intrusions"}
+            ],
+            "soil_ph": "5.5-6.5 (slightly acidic)",
+            "active_limestone": "None (volcanic/metamorphic)",
+            "iron_content": "Moderate to high (purple schist)",
+            "geological_notes": "One of the oldest vineyard soils in France. The volcanic rhyolite formed from ancient lava flows. Purple schist with quartz veins creates unique mineral expression. This geological complexity is found nowhere else in the Loire."
+          },
+          "hydrology": {
+            "drainage_rating": "Good to excellent",
+            "water_table_depth": "Variable (Loire influence)",
+            "root_depth": "4-8 meters",
+            "irrigation": "Prohibited",
+            "water_stress": "Moderate in dry years",
+            "drainage_notes": "The steep south-facing slopes and porous volcanic soil ensure good drainage. The Loire River below moderates temperature extremes and provides some humidity."
+          },
+          "viticulture": {
+            "vine_age": "Mixed, average 35-40 years",
+            "rootstock": "Various traditional Loire rootstocks",
+            "training": "Guyot simple",
+            "density": "6,000-7,000 vines/hectare",
+            "yield": "25-35 hl/ha",
+            "harvest_date": "October (often multiple passes)",
+            "organic_status": "Biodynamic since 1980s (pioneer Nicolas Joly)"
+          },
+          "wine_character": {
+            "color": "Deep gold (ages to amber)",
+            "aromas": ["Quince", "Lanolin", "Chamomile", "Wet wool", "Honey", "Mineral", "Citrus peel"],
+            "palate": ["Intense minerality", "Waxy texture", "Penetrating acidity", "Austere when young"],
+            "aging_potential": "20-50+ years",
+            "best_vintages": ["2020", "2019", "2018", "2015", "2010", "2005", "2002", "1997"],
+            "style_notes": "Requires patience - austere and closed when young, transforming with age into one of the world's great white wines. The volcanic soils contribute intense minerality and almost saline tension. Never sweet, always bone-dry."
+          },
+          "notable_producers": [
+            {"name": "Nicolas Joly / Château de la Roche aux Moines", "note": "Sole owner (monopole), biodynamic pioneer since 1980"}
+          ],
+          "history": "Cistercian monks from Pontlevoy planted vines in 1130. Named for the 'coulée' (flow/stream) and 'Serrant' family who owned it for generations. Nicolas Joly's father purchased estate in 1962. Nicolas converted to biodynamics after observing insect decline from chemicals. Now one of three Loire Grand Crus (alongside La Roche aux Moines)."
+        },
+        {
+          "id": "petrus",
+          "name": "Pétrus",
+          "region": "Bordeaux, France",
+          "appellation": "Pomerol AOC",
+          "area": "11.5 hectares",
+          "soil": "Blue clay (smectite) with iron-rich crasse de fer",
+          "aspect": "Gentle plateau, highest point in Pomerol",
+          "elevation": "~40 meters (highest point in Pomerol)",
+          "slope": "Minimal (plateau)",
+          "microclimate": "Slightly elevated position ensures drainage and air circulation",
+          "grape": "Merlot (100%, since 2011)",
+          "what_makes_it_special": "The 'buttonhole' of blue clay in the Pomerol plateau creates conditions found nowhere else in Bordeaux. The clay retains water in dry years while the elevated position and crasse de fer (iron-rich hardpan) ensure drainage in wet years. This consistency explains why Pétrus rivals the First Growths despite Pomerol's lack of classification. The wines show extraordinary richness, velvet texture, and truffle-laced complexity.",
+          "production": "~2,500 cases annually",
+          "price_indication": "$3,000-5,000+",
+          "climate_data": {
+            "climate_type": "Maritime (oceanic)",
+            "growing_degree_days": "1450-1600",
+            "annual_rainfall": "850-950mm",
+            "rainfall_pattern": "Year-round, risk of rain at harvest",
+            "avg_summer_temp": "20-25°C",
+            "avg_winter_temp": "5-8°C",
+            "diurnal_shift": "8-10°C (moderated by ocean)",
+            "frost_risk": "Low to moderate",
+            "sunshine_hours": "2000-2100 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Quaternary (recent geological deposits)",
+            "parent_rock": "Isle river terrace deposits over molasse bedrock",
+            "soil_profile": [
+              {"depth": "0-40cm", "composition": "Blue clay (smectite) - extremely fine particles"},
+              {"depth": "40-80cm", "composition": "Clay with crasse de fer (iron-rich gravel/hardpan)"},
+              {"depth": "80cm+", "composition": "Molasse (sandy limestone) bedrock"}
+            ],
+            "soil_ph": "6.5-7.5",
+            "active_limestone": "Low (in subsoil)",
+            "iron_content": "Very high (crasse de fer)",
+            "geological_notes": "The 'buttonhole' of blue clay is unique in Pomerol. Smectite clay expands when wet (holding water for dry periods) and contracts when dry (creating drainage cracks). The crasse de fer (iron gravel) provides drainage and contributes mineral elements. This specific geology covers only about 4 hectares within the 11.5-hectare estate."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent despite clay (elevated position + crasse de fer)",
+            "water_table_depth": "Variable - clay acts as reservoir",
+            "root_depth": "2-4 meters (limited by clay)",
+            "irrigation": "Prohibited by AOC law",
+            "water_stress": "Buffered by clay water retention",
+            "drainage_notes": "The blue clay's unique property: expands to hold water in drought, contracts creating fissures when dry. Combined with the crasse de fer layer, this creates surprisingly good drainage for clay soil."
+          },
+          "viticulture": {
+            "vine_age": "Average 40-45 years, oldest vines 70+ years",
+            "rootstock": "Primarily Riparia, some 101-14",
+            "training": "Guyot double",
+            "density": "5,500-6,500 vines/hectare",
+            "yield": "35-40 hl/ha (low for Merlot)",
+            "harvest_date": "Early October (often first in Pomerol)",
+            "organic_status": "Practicing organic"
+          },
+          "wine_character": {
+            "color": "Deep ruby to purple-black",
+            "aromas": ["Black truffle", "Plum", "Violet", "Mocha", "Iron/blood", "Wet earth", "Rose petal"],
+            "palate": ["Velvet texture", "Extraordinary concentration", "No harsh tannins", "Endless finish"],
+            "aging_potential": "30-50+ years",
+            "best_vintages": ["2020", "2019", "2018", "2016", "2015", "2010", "2009", "2005", "2000", "1998", "1990", "1989"],
+            "style_notes": "Unlike any other Merlot. The blue clay and iron contribute a distinctive truffle/mineral character absent in other Pomerol wines. Texture is the hallmark - often described as drinking velvet."
+          },
+          "notable_producers": [
+            {"name": "Château Pétrus (Moueix family)", "note": "Sole owner since 2018 (previously 50% Moueix)"}
+          ],
+          "history": "Name derives from Saint Peter (patron saint of fishermen). Obscure until 1920s when Madame Loubat began international promotion. Jean-Pierre Moueix became distributor (1945), eventually acquiring estate. Jean-Claude Berrouet made every vintage 1964-2007. Now led by Olivier Berrouet. 100% Merlot since 2011 (previously 5% Cabernet Franc)."
+        },
+        {
+          "id": "pisoni",
+          "name": "Pisoni Vineyard",
+          "region": "Santa Lucia Highlands, California",
+          "appellation": "Santa Lucia Highlands AVA",
+          "area": "~10 hectares",
+          "soil": "Decomposed granite over limestone",
+          "aspect": "Southwest-facing steep slopes",
+          "elevation": "400-500 meters",
+          "slope": "35-40%",
+          "microclimate": "Pacific fog influence, extreme diurnal shift (30°F+), persistent afternoon winds",
+          "grape": "Primarily Pinot Noir (also Chardonnay, Syrah)",
+          "what_makes_it_special": "Planted in 1982 by Gary Pisoni against all conventional wisdom (too steep, too remote, too cold). The combination of high elevation, granite soils, Pacific fog, and extreme temperature swings produces Pinot Noir of unmatched concentration and complexity for California. The 'Pisoni clone' (a selection from the vineyard) is now widely planted. Wines show dark fruit, mineral depth, and remarkable structure.",
+          "production": "Limited; sold to elite producers (Roar, Lucia, Siduri)",
+          "price_indication": "Pisoni Estate: $80-120; top single-vineyard bottlings: $60-100",
+          "climate_data": {
+            "climate_type": "Mediterranean with strong maritime influence",
+            "growing_degree_days": "1200-1400",
+            "annual_rainfall": "380-500mm",
+            "rainfall_pattern": "Winter rain only, bone-dry growing season",
+            "avg_summer_temp": "24-30°C days, 8-12°C nights",
+            "avg_winter_temp": "6-10°C",
+            "diurnal_shift": "16-22°C (up to 30°F)",
+            "frost_risk": "Moderate (spring)",
+            "sunshine_hours": "2600-2800 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Cretaceous to Tertiary (65-25 million years ago)",
+            "parent_rock": "Decomposed Santa Lucia granite over marine limestone",
+            "soil_profile": [
+              {"depth": "0-30cm", "composition": "Sandy loam with granite fragments (gore)"},
+              {"depth": "30-80cm", "composition": "Weathered granite with quartz"},
+              {"depth": "80cm+", "composition": "Limestone bedrock (marine origin)"}
+            ],
+            "soil_ph": "6.0-7.0",
+            "active_limestone": "Present in subsoil",
+            "iron_content": "Moderate",
+            "geological_notes": "The Santa Lucia Range was uplifted from the ocean floor, creating unique granite-over-limestone profile. Similar to parts of Burgundy. The granite provides drainage while limestone contributes minerality."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent",
+            "water_table_depth": "Deep",
+            "root_depth": "4-8 meters (into limestone)",
+            "irrigation": "Drip irrigation (essential given dry summers)",
+            "water_stress": "Managed carefully - deficit irrigation post-veraison",
+            "drainage_notes": "The steep slopes and granite soils ensure rapid drainage. Despite minimal rainfall, morning fog provides some moisture. Deficit irrigation concentrates flavors."
+          },
+          "viticulture": {
+            "vine_age": "Original vines from 1982, now 40+ years",
+            "rootstock": "Various: 110R, 101-14, St. George",
+            "training": "VSP (vertical shoot positioning)",
+            "density": "3,000-4,000 vines/hectare",
+            "yield": "2-3 tons/acre (low for California)",
+            "harvest_date": "Mid-September to early October",
+            "organic_status": "Sustainable farming"
+          },
+          "wine_character": {
+            "color": "Deep ruby to purple",
+            "aromas": ["Black cherry", "Pomegranate", "Forest floor", "Cola", "Baking spice", "Iron"],
+            "palate": ["Massive concentration", "Structured tannins", "Dark fruit", "Long mineral finish"],
+            "aging_potential": "15-25 years",
+            "best_vintages": ["2021", "2019", "2018", "2016", "2013", "2012", "2007"],
+            "style_notes": "Unlike delicate Burgundy. These are powerful, concentrated Pinots with structure more akin to Syrah. The extreme diurnal shift preserves acidity despite ripeness. The 'Pisoni clone' contributes small berries and intense color."
+          },
+          "notable_producers": [
+            {"name": "Pisoni Estate", "note": "Family estate wine"},
+            {"name": "Lucia Vineyards", "note": "Pisoni family second label"},
+            {"name": "Roar Wines", "note": "Adam Lee, longtime grower"},
+            {"name": "Peter Michael", "note": "Le Caprice bottling"},
+            {"name": "Testarossa", "note": "Pisoni designate"}
+          ],
+          "history": "Gary Pisoni was a third-generation vegetable farmer who fell in love with wine. In 1982, against all advice, he planted Pinot Noir cuttings from California's finest vineyards on remote benchland. For years he sold grapes to home winemakers. By 1990s, cult producers recognized the quality. The 'Pisoni clone' (smuggled from Burgundy via UC Davis) is now one of California's most sought-after selections."
+        },
+        {
+          "id": "les-clos",
+          "name": "Les Clos",
+          "region": "Chablis, France",
+          "appellation": "Chablis Grand Cru",
+          "area": "26 hectares (largest Grand Cru)",
+          "soil": "Kimmeridgian limestone with fossilized oyster shells",
+          "aspect": "Southwest facing",
+          "elevation": "130-200 meters",
+          "slope": "Moderate (10-15%)",
+          "microclimate": "Protected from north winds, optimal sun exposure, frost risk in valley",
+          "grape": "Chardonnay (100%)",
+          "what_makes_it_special": "The benchmark for Chablis Grand Cru. The 155-million-year-old Kimmeridgian limestone, rich with tiny oyster shell fossils, produces Chardonnay of unmatched mineral intensity and longevity. Les Clos is consistently the most powerful and longest-lived of the seven Grand Crus. The wines show laser-like precision, oyster shell minerality, and can age for 30+ years.",
+          "production": "Variable by producer",
+          "price_indication": "Top producers (Dauvissat, Raveneau): $150-400",
+          "climate_data": {
+            "climate_type": "Northern continental",
+            "growing_degree_days": "1050-1150",
+            "annual_rainfall": "650-750mm",
+            "rainfall_pattern": "Year-round, some summer drought stress",
+            "avg_summer_temp": "18-22°C",
+            "avg_winter_temp": "1-4°C",
+            "diurnal_shift": "10-14°C",
+            "frost_risk": "Very high (April-May, devastating in 2016, 2017, 2021)",
+            "sunshine_hours": "1700-1900 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Upper Jurassic / Kimmeridgian (155-150 million years ago)",
+            "parent_rock": "Kimmeridgian marl-limestone with Exogyra virgula fossils",
+            "soil_profile": [
+              {"depth": "0-25cm", "composition": "Chalky clay-loam with fossil fragments"},
+              {"depth": "25-60cm", "composition": "Kimmeridgian marl (clay-limestone)"},
+              {"depth": "60cm+", "composition": "Solid Kimmeridgian limestone bedrock"}
+            ],
+            "soil_ph": "7.8-8.5 (alkaline)",
+            "active_limestone": "35-45% (very high)",
+            "iron_content": "Low",
+            "geological_notes": "The Kimmeridgian formation was an ancient seabed. Tiny Exogyra virgula oyster fossils (comma-shaped) are embedded throughout. This exact geological formation extends from Chablis through Champagne to southern England. The high active limestone creates the distinctive minerality."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent",
+            "water_table_depth": "Deep (limestone bedrock)",
+            "root_depth": "3-6 meters into limestone fissures",
+            "irrigation": "Prohibited by AOC law",
+            "water_stress": "Moderate - limestone reservoir effect",
+            "drainage_notes": "The porous limestone provides excellent drainage while storing water in its structure. This creates a natural buffer against both drought and excess rain."
+          },
+          "viticulture": {
+            "vine_age": "Variable - some parcels 50+ years, many replanted after severe frosts",
+            "rootstock": "161-49C dominant, some 3309C",
+            "training": "Guyot simple",
+            "density": "5,500-6,500 vines/hectare",
+            "yield": "45-55 hl/ha (lower than village Chablis)",
+            "harvest_date": "Mid-September to early October",
+            "organic_status": "Increasing - several producers organic/biodynamic"
+          },
+          "wine_character": {
+            "color": "Pale gold with green highlights",
+            "aromas": ["Oyster shell", "Lemon", "Chalk", "Flint", "White flowers", "Wet stone"],
+            "palate": ["Laser precision", "Saline minerality", "Powerful structure", "Electric acidity"],
+            "aging_potential": "20-40+ years",
+            "best_vintages": ["2020", "2019", "2018", "2017", "2014", "2010", "2007", "2002"],
+            "style_notes": "Les Clos is the most powerful of the Grand Crus - where others are elegant, Les Clos is monumental. Young wines can be austere and closed, requiring 5-10 years to open. The oyster shell minerality is unmistakable."
+          },
+          "notable_producers": [
+            {"name": "Vincent Dauvissat", "note": "Benchmark producer, biodynamic"},
+            {"name": "François Raveneau", "note": "Legendary, tiny production"},
+            {"name": "René et Vincent Dauvissat", "note": "Extended family, exceptional"},
+            {"name": "William Fèvre", "note": "Largest Grand Cru holdings"},
+            {"name": "Long-Depaquit", "note": "Monopole within Les Clos (La Moutonne)"}
+          ],
+          "history": "Walled vineyard (hence 'Les Clos') planted by Cistercian monks from Pontigny Abbey in medieval times. The monks recognized this southwest-facing slope as ideal. Devastated by phylloxera (1890s), rebuilt. Recurring spring frosts (especially 2016, 2017, 2021) challenge modern producers. Smudge pots and wind machines now essential."
+        },
+        {
+          "id": "hill-of-grace",
+          "name": "Hill of Grace",
+          "region": "Eden Valley, Australia",
+          "appellation": "Eden Valley",
+          "area": "8 hectares",
+          "soil": "Ancient Barossa Range soils, red-brown earth over clay",
+          "aspect": "North-facing (Southern Hemisphere = warm)",
+          "elevation": "420 meters",
+          "slope": "Gentle",
+          "microclimate": "Cool nights (elevation), warm days, low humidity",
+          "grape": "Shiraz (100%)",
+          "what_makes_it_special": "Planted in the 1860s by Silesian immigrants, these are among the oldest Shiraz vines on Earth. The Henschke family has tended the vineyard for six generations. Individual vines are 160+ years old, pre-phylloxera, own-rooted. The cool Eden Valley climate and ancient vines produce Shiraz of remarkable elegance and complexity - savory, spicy, and capable of decades of aging.",
+          "production": "~1,500 cases annually",
+          "price_indication": "$600-800",
+          "climate_data": {
+            "climate_type": "Continental Mediterranean",
+            "growing_degree_days": "1450-1600",
+            "annual_rainfall": "500-600mm",
+            "rainfall_pattern": "Winter-dominant, dry harvest season",
+            "avg_summer_temp": "24-30°C days, 12-16°C nights",
+            "avg_winter_temp": "5-10°C",
+            "diurnal_shift": "12-18°C",
+            "frost_risk": "Low",
+            "sunshine_hours": "2600-2800 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Precambrian (1.7 billion years - among Earth's oldest)",
+            "parent_rock": "Weathered Barossa Range granite and schist",
+            "soil_profile": [
+              {"depth": "0-30cm", "composition": "Red-brown sandy loam"},
+              {"depth": "30-80cm", "composition": "Weathered schist and clay"},
+              {"depth": "80cm+", "composition": "Fractured Precambrian bedrock"}
+            ],
+            "soil_ph": "5.5-6.5 (slightly acidic)",
+            "active_limestone": "None",
+            "iron_content": "Moderate to high (red soils)",
+            "geological_notes": "The Barossa Range contains some of Earth's oldest exposed rock formations. 1.7 billion years of weathering created deep, complex soils. The ancient vines' roots have had 160 years to explore this geological complexity."
+          },
+          "hydrology": {
+            "drainage_rating": "Good",
+            "water_table_depth": "Deep",
+            "root_depth": "Unknown - ancient vines extremely deep",
+            "irrigation": "Minimal - drip for drought emergencies only",
+            "water_stress": "Moderate - old vines extremely drought tolerant",
+            "drainage_notes": "The elevated position and well-drained soils prevent waterlogging. Ancient vines have developed extensive root systems that access deep water reserves unavailable to younger plantings."
+          },
+          "viticulture": {
+            "vine_age": "Many vines 100-160+ years old, some replanted",
+            "rootstock": "Own-rooted (pre-phylloxera, phylloxera rare in Australia)",
+            "training": "Traditional bush vine",
+            "density": "1,500-2,000 vines/hectare (low)",
+            "yield": "1-2 tons/acre (extremely low due to vine age)",
+            "harvest_date": "March-April (Southern Hemisphere autumn)",
+            "organic_status": "Organic and biodynamic practices"
+          },
+          "wine_character": {
+            "color": "Deep crimson to garnet",
+            "aromas": ["Blackberry", "Licorice", "Black pepper", "Sage", "Earth", "Graphite", "Dried herbs"],
+            "palate": ["Silky tannins", "Savory complexity", "Spice-driven", "Infinite length"],
+            "aging_potential": "30-50+ years",
+            "best_vintages": ["2021", "2019", "2018", "2017", "2013", "2012", "2010", "2006", "2002", "1998"],
+            "style_notes": "Unlike jammy, fruit-bomb Barossa Shiraz. Hill of Grace is elegant, savory, and spice-driven - more Rhône than Australia. The ancient vines produce tiny berries with concentrated, complex flavors. Always needs time."
+          },
+          "notable_producers": [
+            {"name": "Henschke", "note": "Sole owner, family since 1860s, now 6th generation Stephen Henschke"}
+          ],
+          "history": "Planted 1860s by Silesian Lutheran immigrants who named it after their church (Gnadenberg = Hill of Grace). The Henschke family has owned and farmed continuously since Johann Christian Henschke settled in 1862. First single-vineyard release in 1958. The granddaughter vine (oldest Shiraz identified) may date to original planting. Australia's answer to Romanée-Conti."
+        },
+        {
+          "id": "la-crau",
+          "name": "La Crau",
+          "region": "Châteauneuf-du-Pape, France",
+          "appellation": "Châteauneuf-du-Pape AOC",
+          "area": "Various plots, notably Château Rayas",
+          "soil": "Galets roulés (round stones) over red clay and sand",
+          "aspect": "Plateau, various aspects",
+          "elevation": "120 meters",
+          "slope": "Minimal (plateau)",
+          "microclimate": "Extreme heat (stones radiate warmth), Mistral wind, very dry",
+          "grape": "Grenache-dominated blends (Rayas: 100% Grenache)",
+          "what_makes_it_special": "The famous galets roulés (round stones) were deposited by the ancient Rhône River. By day, they absorb solar energy; by night, they radiate warmth to ripen grapes and prevent ground frost. La Crau plateau has the deepest stone coverage. Château Rayas, paradoxically, cleared many stones and grows Grenache in sandy soil, producing ethereal wines that defy the region's powerful stereotype.",
+          "production": "Variable by producer",
+          "price_indication": "Château Rayas: $400-600; other La Crau wines: $50-150",
+          "climate_data": {
+            "climate_type": "Mediterranean with Mistral influence",
+            "growing_degree_days": "1700-1900",
+            "annual_rainfall": "600-700mm",
+            "rainfall_pattern": "Autumn/winter, very dry summer",
+            "avg_summer_temp": "26-32°C",
+            "avg_winter_temp": "4-8°C",
+            "diurnal_shift": "15-20°C (stones release heat at night)",
+            "frost_risk": "Very low (stones prevent ground frost)",
+            "sunshine_hours": "2800-3000 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Quaternary alluvial (Villafranchian, ~2 million years ago)",
+            "parent_rock": "Alpine debris carried by ancient Rhône",
+            "soil_profile": [
+              {"depth": "0-50cm", "composition": "Galets roulés (quartzite cobbles) up to 15cm diameter"},
+              {"depth": "50-100cm", "composition": "Red clay with smaller stones"},
+              {"depth": "100cm+", "composition": "Sand and clay substrate"}
+            ],
+            "soil_ph": "7.5-8.0 (slightly alkaline)",
+            "active_limestone": "Moderate (in clay fraction)",
+            "iron_content": "High (red clay)",
+            "geological_notes": "The Rhône River deposited these rounded Alpine stones over millions of years. La Crau has the deepest stone coverage (up to 50cm). The stones are primarily quartzite - extremely hard, heat-retentive. Different lieux-dits have varying stone depth and underlying soil."
+          },
+          "hydrology": {
+            "drainage_rating": "Excellent",
+            "water_table_depth": "Deep",
+            "root_depth": "3-5 meters (through stones into clay)",
+            "irrigation": "Prohibited by AOC law",
+            "water_stress": "High in summer - vines rely on deep roots",
+            "drainage_notes": "The stone layer creates excellent drainage. Water percolates through stones to clay below, which acts as reservoir. The Mistral wind (300+ days/year) dries surface moisture, preventing disease."
+          },
+          "viticulture": {
+            "vine_age": "Many parcels 50-100 years, Rayas oldest vines 80+ years",
+            "rootstock": "Various - 110R, 3309C common",
+            "training": "Gobelet (bush vine) traditional",
+            "density": "3,000-4,000 vines/hectare",
+            "yield": "25-30 hl/ha maximum (often lower)",
+            "harvest_date": "September (Grenache ripens early)",
+            "organic_status": "Increasing organic/biodynamic adoption"
+          },
+          "wine_character": {
+            "color": "Ruby to garnet (lighter than expected)",
+            "aromas": ["Garrigue herbs", "Lavender", "Kirsch", "Dried orange peel", "White pepper", "Leather"],
+            "palate": ["Silky texture (high alcohol)", "Warm spice", "Cherry/raspberry fruit", "Mineral finish"],
+            "aging_potential": "15-30 years (Rayas longer)",
+            "best_vintages": ["2019", "2018", "2017", "2016", "2010", "2007", "2005", "2001", "1998"],
+            "style_notes": "Paradox: Rayas, in sandy soil without many stones, produces the most elegant wine. Other La Crau producers make powerful, structured wines. The galets contribute an iron/mineral character and ensure consistent ripening."
+          },
+          "notable_producers": [
+            {"name": "Château Rayas", "note": "Most famous, eccentric estate, 100% Grenache"},
+            {"name": "Domaine de la Vieille Julienne", "note": "Organic, powerful style"},
+            {"name": "Château La Nerthe", "note": "Historic estate, traditional"},
+            {"name": "Clos des Papes", "note": "Precise, age-worthy"},
+            {"name": "Domaine du Pégaü", "note": "Concentrated, traditional"}
+          ],
+          "history": "Named for the quarry (crau) of river stones. Popes resided in Avignon 1309-1377, promoting local wine. First AOC in France (1936) with strict rules including 13 permitted grape varieties. Rayas established by Louis Reynaud (1920s) who defied convention by clearing stones. His grandson Emmanuel (d. 1997) achieved cult status; nephew Emmanuel Reynaud continues."
+        },
+        {
+          "id": "cannubi",
+          "name": "Cannubi",
+          "region": "Barolo, Piedmont, Italy",
+          "appellation": "Barolo DOCG",
+          "area": "~15 hectares (original Cannubi)",
+          "soil": "Tortonian marl (Sant'Agata Fossil Marls), calcareous clay",
+          "aspect": "South-southwest facing",
+          "elevation": "250-300 meters",
+          "slope": "Moderate",
+          "microclimate": "Warm, protected, early ripening",
+          "grape": "Nebbiolo (100%)",
+          "what_makes_it_special": "First documented in 1752, Cannubi is considered the heart of Barolo. The Tortonian marl (blue-gray calcareous clay) produces Barolo of exceptional elegance and approachability compared to more structured sites like Monforte. Central position and south-southwest exposure ensure consistent ripening. The wine balances power and perfume, representing the historic Barolo style.",
+          "production": "Variable by producer",
+          "price_indication": "Top producers (Bartolo Mascarello, Sandrone): $150-300",
+          "climate_data": {
+            "climate_type": "Continental with Mediterranean influence",
+            "growing_degree_days": "1350-1500",
+            "annual_rainfall": "750-900mm",
+            "rainfall_pattern": "Spring and autumn peaks, summer can be dry",
+            "avg_summer_temp": "22-28°C",
+            "avg_winter_temp": "0-4°C",
+            "diurnal_shift": "12-16°C",
+            "frost_risk": "Moderate (late April)",
+            "sunshine_hours": "2000-2200 annually"
+          },
+          "geology_detail": {
+            "formation_period": "Miocene / Tortonian stage (11-7 million years ago)",
+            "parent_rock": "Sant'Agata Fossil Marls (calcareous clay with sand)",
+            "soil_profile": [
+              {"depth": "0-30cm", "composition": "Blue-gray calcareous clay (marne)"},
+              {"depth": "30-70cm", "composition": "Tortonian marl with fossil fragments"},
+              {"depth": "70cm+", "composition": "Compact marl bedrock"}
+            ],
+            "soil_ph": "7.5-8.5 (alkaline)",
+            "active_limestone": "25-35%",
+            "iron_content": "Moderate",
+            "geological_notes": "The Tortonian sea left thick marl deposits. Cannubi's marl is sandier (more Sant'Agata fossils) than eastern communes, producing more perfumed, earlier-maturing wines. The compacted marl restricts root growth, stressing vines beneficially."
+          },
+          "hydrology": {
+            "drainage_rating": "Good (slope + marl structure)",
+            "water_table_depth": "Variable",
+            "root_depth": "2-4 meters (limited by marl)",
+            "irrigation": "Prohibited by DOCG law",
+            "water_stress": "Moderate in dry summers",
+            "drainage_notes": "The sloped terrain and fractured marl provide adequate drainage despite clay content. Recent hot summers have increased stress - traditional viticulture adapting to climate change."
+          },
+          "viticulture": {
+            "vine_age": "Variable - many parcels 40-60 years",
+            "rootstock": "Kober 5BB dominant, some 420A",
+            "training": "Guyot traditional",
+            "density": "4,000-5,000 vines/hectare",
+            "yield": "50-55 hl/ha maximum",
+            "harvest_date": "October (Nebbiolo is late-ripening)",
+            "organic_status": "Increasing organic/sustainable practices"
+          },
+          "wine_character": {
+            "color": "Pale ruby-garnet (Nebbiolo is light-colored)",
+            "aromas": ["Rose", "Tar", "Cherry", "Truffle", "Dried herbs", "Licorice", "Tobacco"],
+            "palate": ["Fine-grained tannins", "Balanced acid", "Elegant structure", "Perfumed finish"],
+            "aging_potential": "20-40+ years",
+            "best_vintages": ["2020", "2019", "2016", "2015", "2013", "2010", "2006", "2004", "2001", "1999"],
+            "style_notes": "Cannubi represents the 'elegant' style of Barolo (vs 'powerful' Monforte). More approachable young than eastern crus, yet ages magnificently. The rose-and-tar signature is most pronounced here. Often described as Barolo's Chambolle-Musigny."
+          },
+          "notable_producers": [
+            {"name": "Bartolo Mascarello", "note": "Legendary traditionalist, no single-vineyard bottling"},
+            {"name": "Luciano Sandrone", "note": "Cannubi Boschis bottling"},
+            {"name": "E. Pira & Figli (Chiara Boschis)", "note": "Cannubi bottling"},
+            {"name": "Paolo Scavino", "note": "Multiple Cannubi parcels"},
+            {"name": "Marchesi di Barolo", "note": "Historic estate, Cannubi La Villa"}
+          ],
+          "history": "First documented wine sale in 1752. Name may derive from Latin 'cannabis' (hemp) or 'canabae' (Roman soldiers' taverns). The hill was recognized as exceptional for centuries before modern classification. Multiple sub-zones now recognized: Cannubi, Cannubi Boschis, Cannubi Muscatel, Cannubi Valletta, Cannubi San Lorenzo. Debate continues over whether all should share the Cannubi name."
+        }
+      ]
+    }
+  }
+}

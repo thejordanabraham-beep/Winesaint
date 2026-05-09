@@ -9,7 +9,7 @@ export async function GET() {
     // Fetch wines from Payload with depth to include relations
     const wineResult = await payload.find({
       collection: 'wines',
-      limit: 500,
+      limit: 10000,
       depth: 2,
     });
 
@@ -18,7 +18,7 @@ export async function GET() {
     // Fetch all reviews
     const reviewResult = await payload.find({
       collection: 'reviews',
-      limit: 1000,
+      limit: 10000,
       depth: 1,
     });
 

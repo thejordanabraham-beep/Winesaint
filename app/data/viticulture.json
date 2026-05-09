@@ -1,0 +1,2195 @@
+{
+  "guide_type": "viticulture_encyclopedia",
+  "title": "The Viticulture Guide",
+  "subtitle": "Grape growing and vineyard management from dormancy to harvest",
+  "created_date": "2026-05-04",
+  "sections": {
+    "overview": {
+      "title": "Understanding Viticulture",
+      "description": "Viticulture is the science, art, and practice of grape cultivation. While winemaking transforms grapes into wine, viticulture determines the raw material's quality. Great wine begins in the vineyard, and no amount of winemaking skill can compensate for poor fruit. Understanding how vines grow, what threatens them, and how farmers shape their development is essential to understanding wine itself.",
+      "philosophy": {
+        "old_world": {
+          "title": "Old World Approach",
+          "description": "Terroir-driven viticulture emphasizes minimal intervention, allowing the site to express itself. Yields are controlled by tradition and appellation law. The vigneron is a steward of the land, not its master.",
+          "key_principles": ["Site selection paramount", "Traditional training systems", "Lower yields", "Minimal irrigation", "Generational knowledge"]
+        },
+        "new_world": {
+          "title": "New World Approach",
+          "description": "Science-driven viticulture emphasizes measurement, optimization, and adaptation. Sites are chosen and modified to suit grape varieties. The viticulturist uses technology to achieve consistent quality.",
+          "key_principles": ["Variety-site matching", "Irrigation management", "Canopy optimization", "Data-driven decisions", "Continuous improvement"]
+        },
+        "convergence": "Modern viticulture increasingly blends both approaches. Old World regions adopt precision tools; New World producers embrace lower-intervention farming. The goal remains the same: healthy vines producing balanced fruit."
+      },
+      "key_terminology": [
+        {
+          "term": "Vigor",
+          "definition": "The vine's vegetative growth energy. High-vigor vines produce excessive shoots and leaves; low-vigor vines may struggle to ripen fruit. Balance is the goal."
+        },
+        {
+          "term": "Canopy",
+          "definition": "The above-ground portion of the vine: shoots, leaves, and fruit. Canopy management shapes this growth for optimal sun exposure and air circulation."
+        },
+        {
+          "term": "Clone",
+          "definition": "A genetic variant of a grape variety, selected for specific characteristics like disease resistance, cluster size, or flavor profile."
+        },
+        {
+          "term": "Rootstock",
+          "definition": "The root system onto which the fruiting variety is grafted. Rootstocks provide phylloxera resistance and influence vigor, drought tolerance, and mineral uptake."
+        },
+        {
+          "term": "Yield",
+          "definition": "The amount of fruit produced, typically measured in tons per acre or hectoliters per hectare. Lower yields generally concentrate flavors."
+        },
+        {
+          "term": "Phenolic Ripeness",
+          "definition": "The maturity of tannins, anthocyanins, and flavor compounds in grape skins and seeds, independent of sugar ripeness."
+        },
+        {
+          "term": "Diurnal Shift",
+          "definition": "The temperature difference between day and night. Large shifts preserve acidity while allowing daytime ripening."
+        },
+        {
+          "term": "Water Stress",
+          "definition": "Controlled drought conditions that limit vegetative growth and concentrate fruit character. Excessive stress damages vines."
+        }
+      ]
+    },
+    "lifecycle": {
+      "title": "The Vine Lifecycle",
+      "description": "The grapevine follows an annual cycle driven by temperature and day length. Understanding each stage helps predict harvest timing, anticipate problems, and appreciate how weather affects vintage quality. The cycle begins with winter dormancy and culminates in harvest, typically 100-120 days after flowering.",
+      "stages": [
+        {
+          "id": "dormancy",
+          "name": "Dormancy",
+          "french_term": "Repos hivernal",
+          "timing": {
+            "northern_hemisphere": "November - March",
+            "southern_hemisphere": "May - September"
+          },
+          "duration": "3-5 months",
+          "description": "The vine enters a state of suspended animation as temperatures drop below 10C (50F). Sap retreats to the roots, leaves fall, and the vine appears dead. This period of rest is essential for the vine's long-term health and prepares it for the coming growing season.",
+          "visual_signs": [
+            "Leaves turn yellow/red and fall",
+            "Shoots harden into brown canes",
+            "Vine appears lifeless",
+            "Buds form but remain dormant"
+          ],
+          "physiological_changes": [
+            "Carbohydrate reserves stored in roots and trunk",
+            "Sap flow ceases",
+            "Cold hardiness develops (down to -15C for V. vinifera)",
+            "Bud tissues enter true dormancy"
+          ],
+          "vineyard_activities": [
+            "Winter pruning (main activity)",
+            "Trellis repair and maintenance",
+            "Soil work and cover crop planting",
+            "Vineyard replanting",
+            "Equipment maintenance"
+          ],
+          "risks": [
+            "Extreme cold (below -20C) can kill buds or vines",
+            "Warm spells can break dormancy prematurely",
+            "Crown gall infection at pruning wounds"
+          ],
+          "impact_on_wine": "The pruning decisions made during dormancy determine the next vintage's potential yield and fruit quality. Retaining more buds increases yield but may dilute quality.",
+          "regional_notes": {
+            "burgundy": "Pruning typically December-March, governed by tradition",
+            "champagne": "Cold winters ensure complete dormancy",
+            "napa": "Mild winters; pruning can start earlier",
+            "barossa": "Warm winters; dormancy period shorter"
+          }
+        },
+        {
+          "id": "budbreak",
+          "name": "Budbreak",
+          "french_term": "Debourrement",
+          "timing": {
+            "northern_hemisphere": "March - April",
+            "southern_hemisphere": "September - October"
+          },
+          "duration": "2-3 weeks",
+          "description": "As soil temperatures reach 10C (50F), dormant buds swell and burst, revealing tiny shoots and the first leaves. This marks the beginning of the growing season and the point of maximum frost vulnerability.",
+          "visual_signs": [
+            "Buds swell and show 'wool' (protective coating)",
+            "Green shoot tips emerge from buds",
+            "First tiny leaves unfurl",
+            "Sap begins to flow (visible at pruning cuts)"
+          ],
+          "physiological_changes": [
+            "Cell division resumes in buds",
+            "Root growth begins",
+            "Carbohydrate reserves mobilize",
+            "Hormonal signals trigger growth"
+          ],
+          "vineyard_activities": [
+            "Frost protection preparation",
+            "Final trellis adjustments",
+            "First disease sprays (sulfur for powdery mildew)",
+            "Monitoring bud development uniformity"
+          ],
+          "risks": [
+            "Spring frost (most damaging at this stage)",
+            "Cold, wet weather delays development",
+            "Uneven budbreak from poor pruning or vine stress"
+          ],
+          "impact_on_wine": "The timing and uniformity of budbreak sets the trajectory for the vintage. Early budbreak risks frost; late budbreak may not allow full ripening in cool climates.",
+          "variety_differences": {
+            "early": ["Chardonnay", "Pinot Noir", "Gewurztraminer"],
+            "mid": ["Cabernet Sauvignon", "Merlot", "Sauvignon Blanc"],
+            "late": ["Mourvedre", "Grenache", "Carignan"]
+          }
+        },
+        {
+          "id": "shoot-growth",
+          "name": "Shoot Growth",
+          "french_term": "Croissance",
+          "timing": {
+            "northern_hemisphere": "April - May",
+            "southern_hemisphere": "October - November"
+          },
+          "duration": "6-8 weeks",
+          "description": "Shoots grow rapidly, sometimes 2-3 cm per day in warm conditions. Leaves expand and begin photosynthesis. The vine's energy is focused on vegetative growth, building the canopy that will ripen the fruit.",
+          "visual_signs": [
+            "Rapid shoot elongation",
+            "Leaves expand to full size",
+            "Tendrils reach for support",
+            "Flower clusters become visible (inflorescences)"
+          ],
+          "physiological_changes": [
+            "Photosynthesis begins in earnest",
+            "Root system expands",
+            "Carbohydrate production exceeds consumption",
+            "Flower clusters differentiate"
+          ],
+          "vineyard_activities": [
+            "Shoot thinning (removing excess shoots)",
+            "Shoot positioning in trellis wires",
+            "Disease monitoring and spraying",
+            "Cover crop management"
+          ],
+          "risks": [
+            "Excessive vigor produces too much canopy",
+            "Wind damage to tender shoots",
+            "Late frost still possible",
+            "Early disease establishment"
+          ],
+          "impact_on_wine": "Canopy management during this period determines fruit exposure and air circulation. Excessive shading produces vegetal flavors; excessive exposure causes sunburn.",
+          "vigor_management": "High-vigor sites may need multiple shoot thinning passes. Low-vigor sites benefit from reduced competition (cover crop mowing, irrigation)."
+        },
+        {
+          "id": "flowering",
+          "name": "Flowering",
+          "french_term": "Floraison",
+          "timing": {
+            "northern_hemisphere": "May - June",
+            "southern_hemisphere": "November - December"
+          },
+          "duration": "1-2 weeks",
+          "description": "Tiny flowers open and self-pollinate. This brief, critical period determines how many berries will set on each cluster. Weather during flowering dramatically affects yield and cluster uniformity.",
+          "visual_signs": [
+            "Flower caps (calyptra) fall from flowers",
+            "Tiny white/green flowers visible",
+            "Sweet, subtle fragrance in vineyard",
+            "Flowers open progressively along cluster"
+          ],
+          "physiological_changes": [
+            "Pollen release and fertilization",
+            "Ovule fertilization begins berry development",
+            "Unfertilized flowers abort",
+            "Berry cell division begins immediately"
+          ],
+          "vineyard_activities": [
+            "Minimal vineyard work (avoid disturbance)",
+            "Weather monitoring",
+            "Disease prevention (especially botrytis)",
+            "Crop estimation begins"
+          ],
+          "risks": [
+            "Rain during flowering causes coulure (poor fruit set)",
+            "Cold temperatures inhibit pollination",
+            "Hot, dry conditions can cause shatter",
+            "Botrytis infection of flower clusters"
+          ],
+          "impact_on_wine": "Poor flowering reduces yield but often improves quality (fewer, more concentrated berries). Millerandage (uneven berry size) from partial set affects ripening uniformity.",
+          "weather_requirements": {
+            "ideal": "Warm (20-25C), dry, calm conditions",
+            "problematic": "Cold (<15C), wet, windy conditions"
+          },
+          "coulure_millerandage": {
+            "coulure": "Flower or berry drop from poor fertilization. Reduces yield, often improves quality.",
+            "millerandage": "Uneven berry size from partial fertilization. Small berries (hens) with large berries (chicks). Can be positive for complexity."
+          }
+        },
+        {
+          "id": "fruit-set",
+          "name": "Fruit Set",
+          "french_term": "Nouaison",
+          "timing": {
+            "northern_hemisphere": "June",
+            "southern_hemisphere": "December"
+          },
+          "duration": "2-3 weeks",
+          "description": "Fertilized flowers develop into small, hard, green berries. The number of berries per cluster is now fixed, determining potential yield. Unfertilized flowers and weak berries drop from the cluster.",
+          "visual_signs": [
+            "Small green berries visible (size of peppercorns)",
+            "Clusters take final shape",
+            "Some flower/berry drop (normal)",
+            "Berries are hard and acidic"
+          ],
+          "physiological_changes": [
+            "Cell division creates berry structure",
+            "Seed embryos develop",
+            "Malic acid accumulates rapidly",
+            "Sugars remain low"
+          ],
+          "vineyard_activities": [
+            "Crop estimation (counting clusters, berries)",
+            "Continue canopy management",
+            "Disease spraying continues",
+            "Irrigation management begins (where used)"
+          ],
+          "risks": [
+            "Shot berries (tiny, seedless) from stress",
+            "Disease infection of young berries",
+            "Excessive shatter from vine stress"
+          ],
+          "impact_on_wine": "Berry count per cluster is now fixed. This determines potential yield and berry concentration. Fewer berries generally means more concentrated wine.",
+          "typical_set_rates": "Normal fruit set ranges from 25-50% of flowers. Higher isn't always better; moderate set produces better quality."
+        },
+        {
+          "id": "veraison",
+          "name": "Veraison",
+          "french_term": "Veraison",
+          "timing": {
+            "northern_hemisphere": "July - August",
+            "southern_hemisphere": "January - February"
+          },
+          "duration": "1-2 weeks for color change to complete",
+          "description": "The onset of ripening, marked by color change in red grapes (green to purple) and softening/translucence in white grapes. This is the most critical inflection point in the growing season, when the vine shifts from growth mode to ripening mode.",
+          "visual_signs": [
+            "Red varieties: berries turn from green to red/purple",
+            "White varieties: berries turn from green to golden/translucent",
+            "Berries begin to soften",
+            "Uneven coloring initially (normal)"
+          ],
+          "physiological_changes": [
+            "Chlorophyll breakdown in skins",
+            "Anthocyanin synthesis begins (red grapes)",
+            "Malic acid begins to decrease",
+            "Sugar accumulation accelerates (0.5-1 Brix per day)",
+            "Berry size doubles from fruit set",
+            "Flavor precursors begin developing"
+          ],
+          "vineyard_activities": [
+            "Final leaf pulling decisions",
+            "Bird netting installation",
+            "Irrigation management critical",
+            "Disease monitoring (botrytis risk increases)",
+            "Harvest planning begins"
+          ],
+          "risks": [
+            "Heat waves cause 'stuck veraison'",
+            "Drought stress can halt ripening",
+            "Botrytis loves softening berries",
+            "Bird and animal damage begins"
+          ],
+          "impact_on_wine": "The timing and uniformity of veraison affects final wine quality. Uneven veraison results in flavor inconsistency. The 50-60 days from veraison to harvest are when most flavor compounds develop.",
+          "countdown_to_harvest": "Typical: 45-60 days from veraison to harvest. Cooler climates: longer; warmer climates: shorter."
+        },
+        {
+          "id": "ripening",
+          "name": "Ripening",
+          "french_term": "Maturation",
+          "timing": {
+            "northern_hemisphere": "August - September",
+            "southern_hemisphere": "February - March"
+          },
+          "duration": "4-8 weeks",
+          "description": "The final development phase where sugars accumulate, acids decline, and flavor compounds reach optimal levels. The winemaker's most important decisions are made now: when to pick, whether to wait for more ripeness, how to balance sugar and acid.",
+          "visual_signs": [
+            "Berries reach full color intensity",
+            "Berries soften further",
+            "Seeds turn from green to brown",
+            "Sugars increase steadily (measurable daily)"
+          ],
+          "physiological_changes": [
+            "Photosynthesis converts to sugar",
+            "Sugars transported to berries",
+            "Malic acid consumed by respiration",
+            "Tartaric acid remains stable",
+            "Tannins polymerize and soften",
+            "Aromatic compounds develop"
+          ],
+          "vineyard_activities": [
+            "Regular sampling for sugar, acid, pH",
+            "Taste testing for phenolic ripeness",
+            "Bird and animal protection",
+            "Disease scouting (especially botrytis)",
+            "Harvest logistics preparation"
+          ],
+          "risks": [
+            "Rain dilutes sugars, promotes rot",
+            "Heat spikes can cause sunburn or raisining",
+            "Overripeness (sugar too high, acid too low)",
+            "Disease pressure peaks"
+          ],
+          "impact_on_wine": "Every day during ripening changes the potential wine. Earlier picking preserves acidity and freshness; later picking increases alcohol and richness. The decision is the most important of the vintage.",
+          "ripeness_monitoring": {
+            "sugar": "Brix (US), Baume (France), Oechsle (Germany)",
+            "acid": "Titratable acidity (TA), pH",
+            "phenolic": "Seed color, tannin taste, flavor development"
+          }
+        },
+        {
+          "id": "harvest",
+          "name": "Harvest",
+          "french_term": "Vendange",
+          "timing": {
+            "northern_hemisphere": "September - October (November for late harvest)",
+            "southern_hemisphere": "March - April (May for late harvest)"
+          },
+          "duration": "1-4 weeks for entire property",
+          "description": "The culmination of the growing season. Grapes are picked at optimal ripeness and transported to the winery. Timing, method, and logistics all affect final wine quality. This is the most labor-intensive and exciting time in wine regions.",
+          "visual_signs": [
+            "Berries at full ripeness",
+            "Seeds fully brown",
+            "Stems beginning to lignify (brown)",
+            "Flavor at peak (tasting!)"
+          ],
+          "harvest_decisions": {
+            "when": "Balance of sugar, acid, and phenolic ripeness",
+            "method": "Hand vs machine",
+            "timing": "Morning (cool) vs night (coolest)",
+            "sorting": "Field sorting vs winery sorting"
+          },
+          "vineyard_activities": [
+            "Harvest crew mobilization",
+            "Picking by block/variety",
+            "Rapid transport to winery",
+            "Field sorting (if done)",
+            "Communication with winemaker"
+          ],
+          "risks": [
+            "Rain during harvest",
+            "Labor shortages",
+            "Heat during picking",
+            "Logistical bottlenecks"
+          ],
+          "impact_on_wine": "Harvest decisions are irreversible. Picking too early produces green, acidic wine; too late produces flabby, alcoholic wine. The target depends on wine style.",
+          "methods": {
+            "hand": {
+              "advantages": ["Selectivity", "Gentle handling", "Multiple passes possible"],
+              "disadvantages": ["Expensive", "Slow", "Labor availability"],
+              "best_for": "Premium wines, steep slopes, uneven ripening"
+            },
+            "machine": {
+              "advantages": ["Fast", "Cost-effective", "Night harvest possible"],
+              "disadvantages": ["Less selective", "Can include MOG", "Not for all terrains"],
+              "best_for": "Large volume, flat terrain, uniform ripening"
+            }
+          }
+        }
+      ]
+    },
+    "training_systems": {
+      "title": "Training Systems",
+      "description": "Training systems are the physical structures that shape vine growth. Each system balances fruit exposure, disease pressure, labor requirements, and mechanization. The choice of training system depends on climate, variety, site, and tradition. No system is universally best; each represents a set of tradeoffs.",
+      "systems": [
+        {
+          "id": "vsp",
+          "name": "Vertical Shoot Positioning (VSP)",
+          "aka": ["Lyre curtain", "Vertical trellis"],
+          "origin": "Europe, refined in Germany and New World",
+          "description": "Shoots are trained vertically between pairs of catch wires, creating a narrow, hedge-like canopy. The fruit zone is exposed below the foliage, allowing good air circulation and spray penetration.",
+          "structure": {
+            "height": "1.5-2m total",
+            "fruiting_wire": "60-90cm from ground",
+            "catch_wires": "2-3 pairs above fruiting wire",
+            "post_spacing": "5-7m"
+          },
+          "vigor_suitability": "Low to moderate",
+          "climate_suitability": "Cool to moderate (struggles in hot climates)",
+          "labor_intensity": "Medium (requires shoot tucking)",
+          "mechanization": "Excellent (standard for machine harvest)",
+          "planting_density": "3,000-10,000 vines/ha",
+          "characteristics": [
+            "Clean fruit zone with good air flow",
+            "Uniform canopy easy to manage",
+            "Efficient spray coverage",
+            "Standard for quality wine globally"
+          ],
+          "advantages": [
+            "Excellent fruit exposure",
+            "Good disease control",
+            "Mechanizable (harvest, pruning, leaf removal)",
+            "Consistent results",
+            "Adaptable to many varieties"
+          ],
+          "disadvantages": [
+            "Can overcrop with excessive vigor",
+            "Requires annual shoot positioning",
+            "Hot climates cause sunburn",
+            "Higher trellis costs than head training"
+          ],
+          "famous_regions": ["Burgundy", "Champagne", "Oregon", "Marlborough", "Sonoma Coast"],
+          "best_varieties": ["Pinot Noir", "Chardonnay", "Riesling", "Sauvignon Blanc"]
+        },
+        {
+          "id": "gobelet",
+          "name": "Gobelet (Bush Vine)",
+          "aka": ["Head-trained", "En vaso (Spain)", "Alberello (Italy)", "Bush vine"],
+          "origin": "Ancient Mediterranean (Greece, Rome)",
+          "description": "Free-standing vines without trellising, shaped like a goblet or cup. Multiple arms radiate from a short trunk, each bearing fruit. This ancient system requires no infrastructure and is extremely drought-resistant.",
+          "structure": {
+            "height": "40-80cm",
+            "arms": "3-8 spurs radiating from trunk",
+            "wires": "None - self-supporting",
+            "spacing": "1.5-2.5m between vines"
+          },
+          "vigor_suitability": "Low (self-limiting)",
+          "climate_suitability": "Hot, dry Mediterranean",
+          "labor_intensity": "High (stooped hand labor)",
+          "mechanization": "Not possible",
+          "planting_density": "2,500-5,000 vines/ha",
+          "characteristics": [
+            "Self-shading canopy protects from sunburn",
+            "Very deep root systems develop",
+            "Wind resistant",
+            "Long-lived vines (100+ years common)"
+          ],
+          "advantages": [
+            "No infrastructure costs",
+            "Exceptional drought tolerance",
+            "Self-regulating yields",
+            "Heritage value",
+            "Often produces intense, concentrated wines"
+          ],
+          "disadvantages": [
+            "Labor-intensive",
+            "No mechanization possible",
+            "Low yields",
+            "Difficult to manage in fertile soils"
+          ],
+          "famous_regions": ["Chateauneuf-du-Pape", "Beaujolais", "Santorini", "Barossa Valley", "Priorat"],
+          "best_varieties": ["Grenache", "Gamay", "Assyrtiko", "Shiraz", "Carignan"]
+        },
+        {
+          "id": "guyot-simple",
+          "name": "Guyot Simple",
+          "aka": ["Single Guyot", "Cane pruning"],
+          "origin": "France (Dr. Jules Guyot, 1860s)",
+          "description": "One fruiting cane is trained along the wire, with a renewal spur for next year's cane. This system limits production naturally and is standard in Burgundy and many premium regions.",
+          "structure": {
+            "height": "1.5-2m with catch wires",
+            "fruiting_cane": "6-10 buds trained horizontally",
+            "renewal_spur": "2 buds near cane base",
+            "orientation": "Cane trained in one direction"
+          },
+          "vigor_suitability": "Low to moderate",
+          "climate_suitability": "Cool to moderate",
+          "labor_intensity": "Medium-high (skilled pruning required)",
+          "mechanization": "Partial (harvest yes, pruning difficult)",
+          "planting_density": "5,000-12,000 vines/ha",
+          "characteristics": [
+            "Natural yield limitation",
+            "Excellent for premium wine",
+            "Requires skilled pruning",
+            "Annual selection of best cane"
+          ],
+          "advantages": [
+            "Controls vigor naturally",
+            "Forces selection of best wood",
+            "Traditional quality marker",
+            "Adaptable to high density"
+          ],
+          "disadvantages": [
+            "Labor-intensive pruning",
+            "Requires skill to select cane",
+            "Lower yields than double systems",
+            "Cane selection is critical"
+          ],
+          "famous_regions": ["Burgundy", "Champagne", "Loire Valley", "New Zealand"],
+          "best_varieties": ["Pinot Noir", "Chardonnay", "Pinot Meunier"]
+        },
+        {
+          "id": "guyot-double",
+          "name": "Guyot Double",
+          "aka": ["Double Guyot", "Two-cane system"],
+          "origin": "France",
+          "description": "Two fruiting canes trained in opposite directions, each with its own renewal spur. Doubles the production potential of single Guyot while maintaining quality.",
+          "structure": {
+            "height": "1.5-2m with catch wires",
+            "fruiting_canes": "Two, 6-10 buds each, opposite directions",
+            "renewal_spurs": "Two, at base of each cane",
+            "orientation": "Symmetrical from trunk"
+          },
+          "vigor_suitability": "Moderate",
+          "climate_suitability": "Cool to warm",
+          "labor_intensity": "Medium-high",
+          "mechanization": "Partial",
+          "planting_density": "3,000-6,000 vines/ha",
+          "characteristics": [
+            "Higher yields than single Guyot",
+            "Good balance of quantity and quality",
+            "Requires wider spacing",
+            "Common in Bordeaux"
+          ],
+          "advantages": [
+            "More production per vine",
+            "Maintains quality",
+            "Flexible bud numbers",
+            "Well-suited to vigorous sites"
+          ],
+          "disadvantages": [
+            "Requires skilled pruning",
+            "More labor than cordon",
+            "Can overcrop if not careful"
+          ],
+          "famous_regions": ["Bordeaux", "Alsace", "Germany"],
+          "best_varieties": ["Cabernet Sauvignon", "Merlot", "Riesling", "Gewurztraminer"]
+        },
+        {
+          "id": "cordon-royat",
+          "name": "Cordon de Royat",
+          "aka": ["Unilateral cordon", "Single cordon", "Spur pruning"],
+          "origin": "France (Royat nursery, 19th century)",
+          "description": "A permanent horizontal arm (cordon) bears evenly spaced spurs. Each spur produces one or two shoots with fruit. This simple system is easily mechanized and requires less skill than cane pruning.",
+          "structure": {
+            "height": "1.5-2m total",
+            "cordon": "One permanent arm, 60-100cm long",
+            "spurs": "4-8 spurs along cordon, 2-3 buds each",
+            "spacing": "Spurs 10-15cm apart"
+          },
+          "vigor_suitability": "Moderate to high",
+          "climate_suitability": "Moderate to warm",
+          "labor_intensity": "Low (simple pruning)",
+          "mechanization": "Excellent",
+          "planting_density": "2,500-5,000 vines/ha",
+          "characteristics": [
+            "Permanent structure simplifies pruning",
+            "Very mechanizable",
+            "Consistent production",
+            "Good for large-scale viticulture"
+          ],
+          "advantages": [
+            "Easy to train workers",
+            "Machine pruning possible",
+            "Consistent yields",
+            "Lower labor costs"
+          ],
+          "disadvantages": [
+            "Cordons can develop dead spots",
+            "Less flexible than cane systems",
+            "May need cordon renewal over time"
+          ],
+          "famous_regions": ["California", "Australia", "Spain", "Southern France"],
+          "best_varieties": ["Cabernet Sauvignon", "Shiraz", "Tempranillo", "Grenache"]
+        },
+        {
+          "id": "bilateral-cordon",
+          "name": "Bilateral Cordon",
+          "aka": ["Double cordon", "Two-arm cordon"],
+          "origin": "Developed for mechanization",
+          "description": "Two permanent arms extend in opposite directions from the trunk, each bearing spurs. This maximizes production while maintaining simplicity.",
+          "structure": {
+            "height": "1.5-2m total",
+            "cordons": "Two permanent arms, each 50-80cm",
+            "spurs": "8-16 total spurs, 2-3 buds each",
+            "trunk": "Central, 60-90cm high"
+          },
+          "vigor_suitability": "Moderate to high",
+          "climate_suitability": "Moderate to warm",
+          "labor_intensity": "Low",
+          "mechanization": "Excellent",
+          "planting_density": "1,500-3,500 vines/ha",
+          "characteristics": [
+            "Symmetrical, efficient",
+            "Maximum mechanization",
+            "Higher yields per vine",
+            "Standard for volume production"
+          ],
+          "advantages": [
+            "Very efficient",
+            "Easy machine harvest",
+            "High yields",
+            "Simple management"
+          ],
+          "disadvantages": [
+            "Can compromise quality at high yields",
+            "Cordon health management needed",
+            "Less site expression"
+          ],
+          "famous_regions": ["Central Valley (CA)", "Murray-Darling", "La Mancha"],
+          "best_varieties": ["Various - suited to productive varieties"]
+        },
+        {
+          "id": "pergola",
+          "name": "Pergola (Tendone)",
+          "aka": ["Tendone", "Overhead trellis", "Parral (Argentina)"],
+          "origin": "Italy (Trentino-Alto Adige, Veneto)",
+          "description": "Vines are trained overhead on a horizontal or sloping canopy. Fruit hangs below, shaded by leaves above. Traditional in hot climates where shade is beneficial.",
+          "structure": {
+            "height": "2-2.5m overhead",
+            "canopy": "Horizontal or sloped",
+            "posts": "Heavy infrastructure required",
+            "coverage": "Full overhead coverage"
+          },
+          "vigor_suitability": "High",
+          "climate_suitability": "Hot (shade beneficial)",
+          "labor_intensity": "High (overhead work)",
+          "mechanization": "Difficult",
+          "planting_density": "1,500-3,000 vines/ha",
+          "characteristics": [
+            "Fruit protected from sunburn",
+            "Very high yields possible",
+            "Labor-intensive overhead work",
+            "Traditional in specific regions"
+          ],
+          "advantages": [
+            "Excellent sun protection",
+            "Very high yields",
+            "Multi-use (walkways, shade)",
+            "Disease can be lower (air circulation)"
+          ],
+          "disadvantages": [
+            "Expensive infrastructure",
+            "Difficult mechanization",
+            "Can reduce fruit quality",
+            "Overhead work is strenuous"
+          ],
+          "famous_regions": ["Trentino-Alto Adige", "Veneto", "Vinho Verde", "Argentina (Mendoza)"],
+          "best_varieties": ["Verdicchio", "Pinot Grigio", "Vinho Verde varieties", "Criolla"]
+        },
+        {
+          "id": "geneva-double-curtain",
+          "name": "Geneva Double Curtain (GDC)",
+          "aka": ["GDC", "Divided canopy"],
+          "origin": "Cornell University (Nelson Shaulis, 1960s)",
+          "description": "Two separate downward-growing curtains of foliage, divided by a gap. Designed to manage excessive vigor by spreading the canopy over a larger area.",
+          "structure": {
+            "height": "1.8-2m total",
+            "curtains": "Two, separated by 1-1.2m gap",
+            "shoot_direction": "Hanging downward",
+            "cordon_position": "Top of trellis"
+          },
+          "vigor_suitability": "High to very high",
+          "climate_suitability": "Humid, vigorous conditions",
+          "labor_intensity": "High (positioning required)",
+          "mechanization": "Partial",
+          "planting_density": "1,000-2,000 vines/ha",
+          "characteristics": [
+            "Manages high vigor effectively",
+            "Good light penetration",
+            "Higher yields with quality",
+            "Complex canopy management"
+          ],
+          "advantages": [
+            "Controls excessive vigor",
+            "Improves fruit quality in vigorous sites",
+            "Better disease control vs single curtain",
+            "Higher yields per hectare"
+          ],
+          "disadvantages": [
+            "Complex setup",
+            "Higher trellis costs",
+            "Requires careful shoot positioning",
+            "Not suited to low-vigor sites"
+          ],
+          "famous_regions": ["Eastern US", "Northern Italy", "Parts of New Zealand"],
+          "best_varieties": ["Concord", "Riesling (in vigorous sites)", "Native American varieties"]
+        },
+        {
+          "id": "lyre",
+          "name": "Lyre (U-shaped)",
+          "aka": ["U-system", "Open Lyre"],
+          "origin": "France (Carbonneau, 1980s)",
+          "description": "A U-shaped canopy with two vertical sides, resembling a lyre. The open center allows excellent light penetration while managing vigor.",
+          "structure": {
+            "height": "1.8-2m",
+            "shape": "U-shaped with open center",
+            "arms": "Two vertical canopy walls",
+            "opening": "40-60cm gap at top"
+          },
+          "vigor_suitability": "High",
+          "climate_suitability": "Warm, vigorous sites",
+          "labor_intensity": "High",
+          "mechanization": "Partial (harvest difficult)",
+          "planting_density": "2,000-4,000 vines/ha",
+          "characteristics": [
+            "Excellent light interception",
+            "Good for high vigor",
+            "Unique visual appearance",
+            "Complex to establish"
+          ],
+          "advantages": [
+            "Manages vigor well",
+            "Good light penetration",
+            "Can improve fruit quality",
+            "Interesting aesthetic"
+          ],
+          "disadvantages": [
+            "Complex trellis",
+            "Difficult to mechanize",
+            "High setup costs",
+            "Requires skilled management"
+          ],
+          "famous_regions": ["Southern France", "Portugal", "Australia (experimental)"],
+          "best_varieties": ["Syrah", "Grenache", "Productive varieties"]
+        },
+        {
+          "id": "smart-dyson",
+          "name": "Smart-Dyson",
+          "aka": ["Smart Dyson Ballerina"],
+          "origin": "Australia (Richard Smart, John Dyson, 1980s)",
+          "description": "A divided canopy with shoots trained both upward and downward, creating a vertical 'ballerina' effect. Designed for high vigor and hot climates.",
+          "structure": {
+            "height": "2-2.5m",
+            "division": "Upper shoots up, lower shoots down",
+            "wires": "Multiple positioning wires",
+            "complexity": "High"
+          },
+          "vigor_suitability": "Very high",
+          "climate_suitability": "Hot, vigorous",
+          "labor_intensity": "High",
+          "mechanization": "Limited",
+          "planting_density": "2,000-3,500 vines/ha",
+          "characteristics": [
+            "Maximum canopy division",
+            "For very vigorous sites",
+            "Complex management",
+            "Research-driven design"
+          ],
+          "advantages": [
+            "Handles extreme vigor",
+            "Good fruit exposure",
+            "Innovative approach"
+          ],
+          "disadvantages": [
+            "Very complex",
+            "High labor requirement",
+            "Not widely adopted"
+          ],
+          "famous_regions": ["Australia (limited)", "New Zealand (experimental)"],
+          "best_varieties": ["Any in vigorous conditions"]
+        },
+        {
+          "id": "scott-henry",
+          "name": "Scott Henry",
+          "aka": ["Scott Henry VSP"],
+          "origin": "Oregon (Scott Henry, 1980s)",
+          "description": "A modified VSP with two fruiting zones: upper shoots trained up, lower shoots trained down. Effectively doubles the fruiting area while maintaining quality.",
+          "structure": {
+            "height": "2m+",
+            "fruiting_zones": "Two (upper and lower)",
+            "upper_shoots": "Trained upward (VSP style)",
+            "lower_shoots": "Trained downward"
+          },
+          "vigor_suitability": "Moderate to high",
+          "climate_suitability": "Cool to moderate",
+          "labor_intensity": "Medium-high",
+          "mechanization": "Partial",
+          "planting_density": "2,000-4,000 vines/ha",
+          "characteristics": [
+            "Increases yield without reducing quality",
+            "Good for moderate vigor",
+            "Adapts VSP principles",
+            "Oregon innovation"
+          ],
+          "advantages": [
+            "Higher yields with quality",
+            "Good fruit exposure",
+            "Adapts to existing VSP",
+            "Proven in Oregon"
+          ],
+          "disadvantages": [
+            "Requires shoot separation",
+            "More labor than standard VSP",
+            "Harvest more complex"
+          ],
+          "famous_regions": ["Oregon", "New Zealand", "Cool climate regions"],
+          "best_varieties": ["Pinot Noir", "Pinot Gris", "Riesling"]
+        }
+      ]
+    },
+    "canopy_management": {
+      "title": "Canopy Management",
+      "description": "Canopy management encompasses all the techniques used to manipulate vine foliage and fruit exposure. The goal is to optimize photosynthesis while ensuring fruit receives appropriate sunlight and air circulation. Poor canopy management leads to disease, uneven ripening, and vegetal flavors.",
+      "principles": {
+        "title": "Core Principles",
+        "concepts": [
+          {
+            "principle": "Light interception",
+            "explanation": "Leaves need light to photosynthesize. Interior leaves in dense canopies become inefficient and eventually parasitic."
+          },
+          {
+            "principle": "Fruit exposure",
+            "explanation": "Fruit needs some sun for color development and disease prevention, but excessive exposure causes sunburn."
+          },
+          {
+            "principle": "Air circulation",
+            "explanation": "Good airflow dries moisture and reduces fungal disease pressure."
+          },
+          {
+            "principle": "Leaf-to-fruit ratio",
+            "explanation": "Adequate leaves are needed to ripen fruit. Typically 15-20 leaves per shoot for balance."
+          }
+        ]
+      },
+      "techniques": [
+        {
+          "id": "shoot-thinning",
+          "name": "Shoot Thinning",
+          "french_term": "Epamprage",
+          "timing": "Early season (shoots 10-20cm)",
+          "description": "Removing excessive shoots to reduce canopy density and improve remaining shoot vigor. Done early when shoots are easily removed by hand.",
+          "technique": [
+            "Remove shoots from trunk (suckers)",
+            "Remove weak or double shoots",
+            "Remove shoots without fruit clusters (non-fruitful)",
+            "Target 4-6 shoots per foot of cordon"
+          ],
+          "purpose": "Reduces canopy density, improves air circulation, concentrates vine energy",
+          "timing_critical": "Yes - must be done early or wounds are larger and labor increases",
+          "labor": "Low-medium (quick passes)",
+          "impact_on_wine": "Reduces vegetal character, improves fruit concentration, aids disease control"
+        },
+        {
+          "id": "shoot-positioning",
+          "name": "Shoot Positioning",
+          "french_term": "Relevage",
+          "timing": "Late spring through early summer (multiple passes)",
+          "description": "Training shoots into the trellis wires to create an organized canopy. Essential for VSP and similar systems.",
+          "technique": [
+            "Tuck shoots between catch wires",
+            "Position shoots vertically",
+            "Space shoots evenly",
+            "Multiple passes as shoots grow"
+          ],
+          "purpose": "Creates uniform canopy, exposes fruit zone, enables mechanization",
+          "timing_critical": "Yes - easier when shoots are flexible",
+          "labor": "Medium-high (multiple passes required)",
+          "impact_on_wine": "Uniform ripening, consistent quality, reduces disease"
+        },
+        {
+          "id": "leaf-pulling",
+          "name": "Leaf Pulling",
+          "french_term": "Effeuillage",
+          "timing": "Post fruit-set to veraison",
+          "description": "Removing leaves around grape clusters to improve air circulation, spray penetration, and fruit exposure. One of the most impactful canopy operations.",
+          "technique": [
+            "Remove leaves in fruit zone (1-3 leaves per shoot)",
+            "Focus on shaded side first (east in morning sun regions)",
+            "Avoid excessive exposure in hot climates",
+            "Can be done by hand or machine"
+          ],
+          "purpose": "Disease prevention, color development, flavor ripening",
+          "timing_critical": "Yes - too early risks sunburn; too late limits benefit",
+          "labor": "Medium (can be mechanized)",
+          "climate_considerations": {
+            "cool": "More aggressive leaf pulling for ripeness and disease",
+            "hot": "Minimal on sun-exposed side to prevent sunburn"
+          },
+          "impact_on_wine": "Reduces green/vegetal flavors, improves color extraction, enhances aromatic development"
+        },
+        {
+          "id": "hedging",
+          "name": "Hedging (Topping)",
+          "french_term": "Rognage",
+          "timing": "Throughout growing season as shoots exceed trellis",
+          "description": "Mechanically trimming shoot tips that extend beyond the trellis. Maintains tidy canopy and redirects energy to fruit.",
+          "technique": [
+            "Cut shoot tips extending above/beyond trellis",
+            "Usually mechanized with tractor-mounted hedger",
+            "Multiple passes through season",
+            "Avoid cutting into old wood"
+          ],
+          "purpose": "Maintains canopy shape, reduces shading, redirects energy",
+          "timing_critical": "Not critical - can be done as needed",
+          "labor": "Low (mechanized)",
+          "controversy": "Some believe excessive hedging reduces photosynthetic capacity and stresses vines",
+          "impact_on_wine": "Maintains vine balance, can increase fruit concentration"
+        },
+        {
+          "id": "lateral-removal",
+          "name": "Lateral Removal",
+          "french_term": "Effillage",
+          "timing": "Mid to late season",
+          "description": "Removing secondary shoots (laterals) that grow from leaf axils. These consume energy without contributing much photosynthesis.",
+          "technique": [
+            "Remove lateral shoots in fruit zone",
+            "Can leave upper laterals for photosynthesis",
+            "Usually done by hand",
+            "Often combined with leaf pulling"
+          ],
+          "purpose": "Opens canopy, focuses vine energy, improves spray coverage",
+          "timing_critical": "No - can be done throughout season",
+          "labor": "Medium",
+          "impact_on_wine": "Improves fruit quality through better exposure"
+        },
+        {
+          "id": "cluster-zone-management",
+          "name": "Cluster Zone Management",
+          "french_term": "Gestion de la zone fructifere",
+          "timing": "Ongoing through season",
+          "description": "Holistic management of the area where fruit hangs, combining leaf pulling, lateral removal, and positioning to optimize conditions.",
+          "technique": [
+            "Create 30-40cm open zone around clusters",
+            "Balance exposure (some dappled light ideal)",
+            "Ensure air circulation",
+            "Adjust based on variety and climate"
+          ],
+          "purpose": "Optimal fruit development, disease prevention, even ripening",
+          "goals": {
+            "light": "Dappled to partial sun on clusters",
+            "air": "Free movement around fruit",
+            "access": "Easy for sprays, sampling, harvest"
+          },
+          "impact_on_wine": "Consistent ripening, optimal flavor development, healthy fruit"
+        }
+      ]
+    },
+    "pests_diseases": {
+      "title": "Vineyard Pests & Diseases",
+      "description": "Grapevines face constant threats from fungi, insects, viruses, and environmental stresses. Understanding these threats is essential for producing healthy fruit. Integrated Pest Management (IPM) combines cultural, biological, and chemical controls to minimize damage while reducing environmental impact.",
+      "fungal": [
+        {
+          "id": "powdery-mildew",
+          "name": "Powdery Mildew",
+          "aka": ["Oidium", "PM"],
+          "scientific_name": "Erysiphe necator",
+          "severity": "high",
+          "description": "The most widespread fungal disease of grapevines worldwide. Unlike downy mildew, powdery mildew thrives in dry conditions and doesn't require moisture for infection.",
+          "origin": "Native to North America; devastated Europe in 1850s",
+          "symptoms": {
+            "leaves": ["White-gray powdery coating on surface", "Yellow patches beneath coating", "Leaf curling and distortion"],
+            "shoots": ["White patches on green tissue", "Brown scarring"],
+            "fruit": ["White-gray powder on berries", "Berry cracking and scarring", "Off-flavors in wine"]
+          },
+          "conditions_favoring": {
+            "temperature": "20-27C optimal",
+            "humidity": "40-100% (does NOT require rain)",
+            "canopy": "Shaded, dense canopies"
+          },
+          "prevention": [
+            "Open canopy management",
+            "Good air circulation",
+            "Early sulfur applications",
+            "Resistant varieties where possible"
+          ],
+          "treatment": {
+            "organic": ["Sulfur (most effective)", "Potassium bicarbonate", "Biological controls"],
+            "conventional": ["DMI fungicides", "QoI fungicides", "SDHI fungicides"]
+          },
+          "impact_on_wine": "Severe infections impart musty/moldy off-flavors. Even 3-5% infected fruit can be detected."
+        },
+        {
+          "id": "downy-mildew",
+          "name": "Downy Mildew",
+          "aka": ["Peronospora"],
+          "scientific_name": "Plasmopara viticola",
+          "severity": "high",
+          "description": "A devastating oomycete disease requiring moisture for infection. Can defoliate vines rapidly in wet conditions.",
+          "origin": "Native to North America; arrived in Europe 1878",
+          "symptoms": {
+            "leaves": ["Yellow 'oil spots' on upper surface", "White downy growth on underside", "Leaf death and drop"],
+            "shoots": ["White growth on green tissue", "Shoot tip death"],
+            "fruit": ["Gray-brown leathery berries", "Complete crop loss possible"]
+          },
+          "conditions_favoring": {
+            "temperature": "18-25C",
+            "moisture": "Requires rain or dew",
+            "humidity": "High humidity essential"
+          },
+          "prevention": [
+            "Bordeaux mixture (copper + lime)",
+            "Good drainage and air circulation",
+            "Leaf removal to aid drying"
+          ],
+          "treatment": {
+            "organic": ["Copper products", "Good for prevention, less for cure"],
+            "conventional": ["Mancozeb", "Metalaxyl", "Phosphonates"]
+          },
+          "impact_on_wine": "Infected fruit is unusable. Severe infections cause defoliation, preventing ripening."
+        },
+        {
+          "id": "botrytis",
+          "name": "Botrytis",
+          "aka": ["Gray mold", "Noble rot", "Pourriture grise/noble"],
+          "scientific_name": "Botrytis cinerea",
+          "severity": "variable",
+          "description": "A fungus that can be devastating (gray rot) or beneficial (noble rot) depending on conditions. Noble rot concentrates sugars for great dessert wines.",
+          "dual_nature": {
+            "gray_rot": {
+              "conditions": "Wet, humid weather during ripening",
+              "result": "Bunch rot, crop loss, off-flavors",
+              "undesirable": true
+            },
+            "noble_rot": {
+              "conditions": "Morning moisture, afternoon drying, late season",
+              "result": "Concentrated sugars, honeyed complexity",
+              "desirable": "Sauternes, Tokaji, TBA"
+            }
+          },
+          "symptoms": {
+            "gray_rot": ["Brown, soft berries", "Gray fuzzy growth", "Sour smell", "Cluster collapse"],
+            "noble_rot": ["Shriveled, raisined berries", "Purple-brown color", "Concentrated sweetness"]
+          },
+          "prevention": [
+            "Open canopy, good air circulation",
+            "Leaf and lateral removal in fruit zone",
+            "Avoid berry damage"
+          ],
+          "treatment": {
+            "organic": ["Bacillus products", "Canopy management primary tool"],
+            "conventional": ["Boscalid", "Fenhexamid", "Cyprodinil"]
+          },
+          "impact_on_wine": "Gray rot ruins wine. Noble rot creates some of the world's greatest dessert wines."
+        },
+        {
+          "id": "esca",
+          "name": "Esca (Black Measles)",
+          "aka": ["Trunk disease", "Apoplexy"],
+          "scientific_name": "Complex (multiple fungi)",
+          "severity": "very high",
+          "description": "A complex of trunk diseases that has become increasingly devastating worldwide. Kills vines over years or suddenly (apoplexy). No cure exists.",
+          "symptoms": {
+            "chronic": ["Tiger-striped leaves", "Declining vigor over years", "Wood discoloration"],
+            "acute": ["Sudden vine death (apoplexy)", "Entire vine wilts in days", "Usually in hot weather"]
+          },
+          "causes": [
+            "Phaeomoniella chlamydospora",
+            "Phaeoacremonium minimum",
+            "Fomitiporia mediterranea"
+          ],
+          "conditions_favoring": {
+            "entry": "Pruning wounds",
+            "spread": "Contaminated tools",
+            "expression": "Vine stress, especially drought"
+          },
+          "prevention": [
+            "Pruning wound protection",
+            "Tool disinfection",
+            "Late pruning (wounds heal faster)",
+            "Double pruning technique"
+          ],
+          "treatment": "No effective cure. Trunk renewal or vine removal only options.",
+          "impact_on_wine": "Gradual decline reduces fruit quality. Sudden death loses entire vines."
+        },
+        {
+          "id": "black-rot",
+          "name": "Black Rot",
+          "scientific_name": "Guignardia bidwellii",
+          "severity": "high",
+          "description": "A fungal disease that mummifies berries. Particularly severe in humid continental climates like the Eastern US.",
+          "origin": "Native to North America",
+          "symptoms": {
+            "leaves": ["Tan spots with dark borders", "Leaf drop in severe cases"],
+            "fruit": ["Brown, shriveled 'mummified' berries", "Black pycnidia visible", "Berries remain attached"]
+          },
+          "conditions_favoring": "Warm, wet weather during early fruit development",
+          "prevention": [
+            "Remove mummified fruit (inoculum source)",
+            "Good canopy management",
+            "Protective fungicides"
+          ],
+          "treatment": "Mancozeb, myclobutanil, or other fungicides before infection",
+          "impact_on_wine": "Infected fruit is unusable."
+        }
+      ],
+      "insects": [
+        {
+          "id": "phylloxera",
+          "name": "Phylloxera",
+          "scientific_name": "Daktulosphaira vitifoliae",
+          "severity": "critical",
+          "description": "The root-feeding aphid that devastated European vineyards in the 1860s-1880s. Controlled by grafting onto resistant American rootstocks. See the Rootstock Guide for full history.",
+          "cross_reference": "/resources/rootstock",
+          "current_status": "Managed through grafting; own-rooted V. vinifera remains vulnerable"
+        },
+        {
+          "id": "grape-berry-moth",
+          "name": "Grape Berry Moth",
+          "scientific_name": "Paralobesia viteana (N. America) / Eupoecilia ambiguella (Europe)",
+          "severity": "medium-high",
+          "description": "Caterpillars bore into berries, causing rot and crop loss. Multiple generations per year in warm climates.",
+          "life_cycle": {
+            "generations": "2-4 per year",
+            "damage": "Larvae bore into berries",
+            "timing": "Most damage during ripening"
+          },
+          "symptoms": ["Webbing on clusters", "Bore holes in berries", "Secondary rot infections"],
+          "control": {
+            "cultural": ["Leaf pulling improves spray coverage", "Sanitation"],
+            "biological": ["Bacillus thuringiensis (Bt)", "Mating disruption pheromones"],
+            "chemical": ["Various insecticides if severe"]
+          },
+          "impact_on_wine": "Damaged berries rot and must be sorted out"
+        },
+        {
+          "id": "mealybugs",
+          "name": "Mealybugs",
+          "scientific_name": "Pseudococcus spp., Planococcus spp.",
+          "severity": "medium",
+          "description": "Sap-sucking insects that excrete honeydew, promoting sooty mold. More importantly, they vector grapevine leafroll virus.",
+          "symptoms": ["White, waxy insects on bark and clusters", "Honeydew and sooty mold", "Leaf yellowing from virus transmission"],
+          "concern": "Primary vector for grapevine leafroll virus (GLRaV)",
+          "control": {
+            "biological": ["Parasitic wasps", "Ladybugs"],
+            "cultural": ["Remove bark refuges", "Control ant populations"],
+            "chemical": ["Systemic insecticides if needed"]
+          }
+        },
+        {
+          "id": "leafhoppers",
+          "name": "Leafhoppers",
+          "scientific_name": "Various species (Erythroneura, Empoasca)",
+          "severity": "low-medium",
+          "description": "Sap-sucking insects that cause leaf stippling. The glassy-winged sharpshooter vectors Pierce's disease in California.",
+          "symptoms": ["White stippling on leaves", "Leaf bronzing", "Hopper burn (severe infestations)"],
+          "special_concern": {
+            "name": "Glassy-winged Sharpshooter",
+            "scientific_name": "Homalodisca vitripennis",
+            "vectors": "Pierce's disease (Xylella fastidiosa)",
+            "impact": "Can kill vines; major threat in California"
+          },
+          "control": "Usually not economically damaging; treat only for severe infestations or sharpshooter presence"
+        }
+      ],
+      "viruses": [
+        {
+          "id": "leafroll",
+          "name": "Grapevine Leafroll Virus",
+          "aka": ["GLRaV", "Leafroll"],
+          "severity": "high",
+          "description": "The most economically important virus complex affecting grapevines. Multiple strains exist (GLRaV-1, -2, -3, etc.). Reduces yield and delays ripening.",
+          "symptoms": {
+            "red_varieties": ["Downward leaf rolling", "Interveinal reddening", "Green veins remain"],
+            "white_varieties": ["Leaf rolling", "Slight chlorosis", "Less obvious symptoms"]
+          },
+          "transmission": [
+            "Mealybugs (primary vector)",
+            "Soft scale insects",
+            "Propagation material (cuttings, rootstock)"
+          ],
+          "impact": {
+            "yield": "15-40% reduction",
+            "ripening": "Delayed sugar accumulation",
+            "color": "Reduced anthocyanin development",
+            "fruit": "Poor color, high acid, unbalanced"
+          },
+          "control": [
+            "Certified virus-free planting material",
+            "Mealybug control",
+            "Roguing infected vines",
+            "No cure - prevention only"
+          ]
+        },
+        {
+          "id": "red-blotch",
+          "name": "Grapevine Red Blotch Virus",
+          "aka": ["GRBV", "Red blotch"],
+          "severity": "high",
+          "description": "Recently identified virus (2012) that reduces fruit quality. Distinct from leafroll despite similar symptoms.",
+          "discovery": "First identified in California in 2012; now found worldwide",
+          "symptoms": {
+            "red_varieties": ["Red blotches on leaves", "Delayed ripening", "Poor color development"],
+            "timing": "Symptoms appear post-veraison"
+          },
+          "transmission": [
+            "Three-cornered alfalfa hopper (suspected)",
+            "Propagation material"
+          ],
+          "impact": "Reduces sugar accumulation, delays ripening, diminishes wine quality",
+          "control": "Certified clean material; roguing; research ongoing"
+        }
+      ],
+      "environmental": [
+        {
+          "id": "frost",
+          "name": "Frost Damage",
+          "severity": "critical",
+          "description": "Freezing temperatures during the growing season can destroy entire crops. Spring frost at budbreak is most damaging; winter cold can kill vines entirely.",
+          "types": {
+            "spring_frost": {
+              "timing": "Budbreak through flowering",
+              "damage_threshold": "-2 to -3C for green tissue",
+              "result": "Burned shoots, total crop loss possible"
+            },
+            "winter_freeze": {
+              "timing": "Dormancy",
+              "damage_threshold": "-15 to -25C for V. vinifera",
+              "result": "Bud death, cane death, trunk death"
+            }
+          },
+          "protection_methods": [
+            {
+              "method": "Wind machines",
+              "how": "Mix warm air from inversion layer down to vines",
+              "cost": "Medium (capital + operation)",
+              "effectiveness": "Good for radiation frost"
+            },
+            {
+              "method": "Smudge pots/candles",
+              "how": "Heat the air directly",
+              "cost": "Low-medium",
+              "effectiveness": "Moderate, labor-intensive"
+            },
+            {
+              "method": "Water spraying (aspersion)",
+              "how": "Ice releases heat as it forms, protecting tissue",
+              "cost": "Medium-high",
+              "effectiveness": "Very effective but requires water"
+            },
+            {
+              "method": "Helicopters",
+              "how": "Push warm air down (emergency measure)",
+              "cost": "Very high",
+              "effectiveness": "Effective but expensive"
+            }
+          ],
+          "famous_events": [
+            "2021 France - 90% loss in some areas",
+            "2017 Burgundy - devastating losses",
+            "2016 Champagne"
+          ]
+        },
+        {
+          "id": "hail",
+          "name": "Hail Damage",
+          "severity": "high",
+          "description": "Hailstones can shred leaves, damage shoots, and bruise or destroy fruit. Damage is immediate and unrepairable. Some regions are particularly hail-prone.",
+          "damage": {
+            "leaves": "Shredded, reducing photosynthesis",
+            "shoots": "Broken, scarred",
+            "fruit": "Bruised (infection entry), destroyed"
+          },
+          "protection": [
+            {
+              "method": "Hail netting",
+              "effectiveness": "Excellent but expensive",
+              "drawback": "Installation/removal labor, can affect microclimate"
+            },
+            {
+              "method": "Hail insurance",
+              "effectiveness": "Financial protection only"
+            },
+            {
+              "method": "Cloud seeding",
+              "effectiveness": "Controversial, unproven"
+            }
+          ],
+          "hail_prone_regions": ["Mendoza (Argentina)", "Burgundy", "Austria", "Parts of Italy"]
+        },
+        {
+          "id": "drought",
+          "name": "Drought Stress",
+          "severity": "medium-high",
+          "description": "Water deficit affects vine growth, fruit development, and wine quality. Moderate stress is often beneficial; severe stress damages vines and prevents ripening.",
+          "stress_levels": {
+            "mild": {
+              "effect": "Reduced vigor, smaller berries",
+              "quality_impact": "Often positive - concentrated fruit"
+            },
+            "moderate": {
+              "effect": "Limited shoot growth, early veraison",
+              "quality_impact": "Can be positive - concentrated flavors"
+            },
+            "severe": {
+              "effect": "Wilting, leaf drop, stuck ripening",
+              "quality_impact": "Negative - unbalanced fruit, vine damage"
+            }
+          },
+          "management": [
+            "Rootstock selection for drought tolerance",
+            "Deficit irrigation strategies",
+            "Cover crop management",
+            "Canopy reduction"
+          ]
+        },
+        {
+          "id": "sunburn",
+          "name": "Sunburn",
+          "severity": "medium",
+          "description": "Excessive sun exposure damages grape skins, causing browning and off-flavors. Increasingly common with climate change and aggressive leaf removal.",
+          "symptoms": ["Brown/tan patches on exposed berries", "Dried, raisined berries", "Bitter flavors"],
+          "conditions": "Sudden exposure (aggressive leaf pulling), heat waves, reflective surfaces",
+          "prevention": [
+            "Moderate leaf pulling",
+            "Maintain some shade on west/south exposure",
+            "Acclimate fruit gradually to light"
+          ]
+        }
+      ]
+    },
+    "harvest": {
+      "title": "Harvest Decisions",
+      "description": "Harvest is the culmination of the vintage. The decision of when to pick balances sugar accumulation, acid preservation, and phenolic ripeness. There is no perfect formula - the target depends on wine style, variety, and conditions.",
+      "metrics": [
+        {
+          "id": "brix",
+          "name": "Brix (Sugar Level)",
+          "measurement": {
+            "tool": "Refractometer (field) or Density meter (lab)",
+            "unit": "Degrees Brix (grams sugar per 100g juice)"
+          },
+          "significance": "Determines potential alcohol (Brix × 0.55 ≈ % alcohol)",
+          "target_ranges": {
+            "sparkling": "18-20 Brix (preserve acid, lower alcohol)",
+            "dry_white": "21-24 Brix",
+            "dry_red": "23-26 Brix",
+            "late_harvest": "26-35+ Brix"
+          },
+          "considerations": "High Brix doesn't mean quality. Over-ripe fruit can lack freshness and balance."
+        },
+        {
+          "id": "ph",
+          "name": "pH",
+          "measurement": {
+            "tool": "pH meter",
+            "unit": "pH units (logarithmic scale)"
+          },
+          "significance": "Indicates acid strength, affects microbial stability, color, aging",
+          "target_ranges": {
+            "white": "3.1-3.4 (crisp, fresh)",
+            "red": "3.4-3.7 (balanced)"
+          },
+          "considerations": "Low pH = stable, fresh wine. High pH = risk of microbial problems, flat taste."
+        },
+        {
+          "id": "titratable-acidity",
+          "name": "Titratable Acidity (TA)",
+          "measurement": {
+            "tool": "Titration",
+            "unit": "g/L tartaric acid equivalent"
+          },
+          "significance": "Total acid content - affects taste, freshness, balance",
+          "target_ranges": {
+            "white": "6-9 g/L",
+            "red": "5-7 g/L"
+          },
+          "considerations": "TA decreases during ripening as malic acid is metabolized. Hot nights speed acid loss."
+        },
+        {
+          "id": "phenolic-ripeness",
+          "name": "Phenolic Ripeness",
+          "measurement": {
+            "tool": "Tasting, seed color, specialized analysis",
+            "assessment": "Subjective + objective"
+          },
+          "significance": "Maturity of skins and seeds - affects tannin quality and flavor",
+          "indicators": {
+            "seed_color": "Green = unripe; brown = ripe",
+            "seed_taste": "Bitter = unripe; nutty = ripe",
+            "skin_taste": "Green/vegetal = unripe; fruity = ripe",
+            "skin_texture": "Difficult to chew = unripe; easily mashed = ripe"
+          },
+          "considerations": "Phenolic ripeness may lag behind or exceed sugar ripeness. Balance is key."
+        },
+        {
+          "id": "flavor",
+          "name": "Flavor/Aroma Development",
+          "measurement": {
+            "tool": "Tasting",
+            "assessment": "Subjective but crucial"
+          },
+          "significance": "Ultimately, flavor determines quality",
+          "assessment": [
+            "Walk the vineyard and taste berries",
+            "Note fruit character: green, fresh fruit, ripe fruit, overripe",
+            "Assess aromatic intensity",
+            "Check multiple blocks/rows"
+          ],
+          "considerations": "Experience matters. Learn to correlate taste with final wine character."
+        }
+      ],
+      "methods": [
+        {
+          "id": "hand-harvest",
+          "name": "Hand Harvest",
+          "description": "Workers pick clusters by hand using knives or shears. The traditional method for premium wine.",
+          "advantages": [
+            "Selective - can sort in vineyard",
+            "Gentle - whole clusters possible",
+            "Multiple passes for botrytis/ice wine",
+            "Works on any terrain"
+          ],
+          "disadvantages": [
+            "Expensive (labor cost)",
+            "Slow",
+            "Labor availability increasingly difficult",
+            "Worker fatigue affects quality"
+          ],
+          "best_for": ["Steep slopes", "Premium wines", "Uneven ripening", "Whole cluster fermentation", "Sparkling base wine"],
+          "typical_speed": "0.5-1 ton per person per day"
+        },
+        {
+          "id": "machine-harvest",
+          "name": "Machine Harvest",
+          "description": "Mechanical harvesters straddle vine rows, shaking berries free with rods. Collected on conveyor belts.",
+          "advantages": [
+            "Fast (50-100 tons per day)",
+            "Cost-effective",
+            "Can work at night (cooler)",
+            "Less labor-dependent"
+          ],
+          "disadvantages": [
+            "Less selective",
+            "Can include leaves, stems, insects (MOG)",
+            "Not for steep slopes",
+            "Can damage vines if not careful"
+          ],
+          "best_for": ["Volume wines", "Flat terrain", "Night harvest", "When labor unavailable"],
+          "improvements": "Modern machines with optical sorting reduce MOG significantly"
+        },
+        {
+          "id": "night-harvest",
+          "name": "Night Harvest",
+          "description": "Picking at night or early morning when temperatures are coolest. Common in warm climates.",
+          "advantages": [
+            "Cool fruit arrives at winery",
+            "Preserves aromatics",
+            "Better working conditions in hot climates",
+            "Reduces oxidation"
+          ],
+          "disadvantages": [
+            "Lighting required",
+            "Safety concerns",
+            "Usually requires machine harvest"
+          ],
+          "best_for": ["Hot climates (Central Valley, Australia, Spain)", "Aromatic whites"]
+        }
+      ],
+      "timing_factors": {
+        "title": "What Determines Harvest Timing",
+        "factors": [
+          {
+            "factor": "Wine style",
+            "consideration": "Sparkling = early; Late harvest = very late"
+          },
+          {
+            "factor": "Weather forecast",
+            "consideration": "Rain coming? Pick early. Heat wave? Wait or pick early."
+          },
+          {
+            "factor": "Disease pressure",
+            "consideration": "Botrytis spreading? Pick immediately."
+          },
+          {
+            "factor": "Logistics",
+            "consideration": "Winery capacity, crew availability, equipment"
+          },
+          {
+            "factor": "Block variation",
+            "consideration": "Different blocks ripen at different times"
+          }
+        ]
+      }
+    },
+    "practices": {
+      "title": "Farming Practices",
+      "description": "How a vineyard is farmed reflects philosophy, economics, and environmental concerns. From conventional to biodynamic, each approach has advocates and critics. The trend is toward reduced-input farming, though definitions vary.",
+      "approaches": [
+        {
+          "id": "conventional",
+          "name": "Conventional Viticulture",
+          "philosophy": "Use the most effective tools available to produce healthy crops. Synthetic inputs are tools, not inherently bad.",
+          "inputs": {
+            "allowed": ["Synthetic pesticides", "Synthetic fungicides", "Synthetic herbicides", "Synthetic fertilizers"],
+            "common": ["Glyphosate (Roundup)", "Systemic fungicides", "Insecticides as needed"]
+          },
+          "certification": "None required",
+          "advantages": [
+            "Effective disease control",
+            "Lower labor costs",
+            "Predictable results"
+          ],
+          "disadvantages": [
+            "Environmental concerns",
+            "Soil health impacts",
+            "Consumer perception",
+            "Resistance development"
+          ],
+          "market_position": "Still majority of global production, declining percentage"
+        },
+        {
+          "id": "sustainable",
+          "name": "Sustainable Viticulture",
+          "philosophy": "Reduce inputs and environmental impact through Integrated Pest Management (IPM) and best practices. Pragmatic environmentalism.",
+          "inputs": {
+            "allowed": "Synthetics allowed but minimized",
+            "approach": "IPM - spray only when necessary, use softest effective option"
+          },
+          "certifications": [
+            {"name": "SIP (Sustainability in Practice)", "region": "California"},
+            {"name": "LIVE", "region": "Oregon/Washington"},
+            {"name": "Certified California Sustainable Winegrowing", "region": "California"},
+            {"name": "High Value Conservation", "region": "New Zealand"}
+          ],
+          "advantages": [
+            "Reduced environmental impact",
+            "Cost savings from fewer inputs",
+            "Market appeal",
+            "Flexible approach"
+          ],
+          "disadvantages": [
+            "Multiple certification standards",
+            "Consumer confusion",
+            "Less strict than organic"
+          ],
+          "market_position": "Growing rapidly, especially in New World"
+        },
+        {
+          "id": "organic",
+          "name": "Organic Viticulture",
+          "philosophy": "Eliminate synthetic chemicals entirely. Work with natural systems. Trust that nature, properly managed, provides balance.",
+          "inputs": {
+            "prohibited": ["Synthetic pesticides", "Synthetic fungicides", "Synthetic herbicides", "Synthetic fertilizers"],
+            "allowed": ["Copper (limited)", "Sulfur", "Biological controls", "Natural fertilizers"]
+          },
+          "certifications": [
+            {"name": "USDA Organic", "region": "United States"},
+            {"name": "EU Organic", "region": "European Union"},
+            {"name": "AB (Agriculture Biologique)", "region": "France"},
+            {"name": "Ecocert", "region": "International"}
+          ],
+          "advantages": [
+            "No synthetic residues",
+            "Improved soil biology",
+            "Market premium",
+            "Environmental benefits"
+          ],
+          "disadvantages": [
+            "Higher disease risk in wet years",
+            "Copper accumulation concerns",
+            "More labor-intensive",
+            "Yield may be lower"
+          ],
+          "copper_debate": "Copper is toxic to soil organisms and accumulates. Organic farming's reliance on copper is controversial.",
+          "market_position": "Growing steadily; ~10% of global vineyard area in conversion or certified"
+        },
+        {
+          "id": "biodynamic",
+          "name": "Biodynamic Viticulture",
+          "philosophy": "The vineyard is a self-contained organism connected to cosmic rhythms. Strengthen the vine's life forces through specific preparations and timing.",
+          "founder": {
+            "name": "Rudolf Steiner",
+            "year": 1924,
+            "origin": "Agricultural Course lectures, Koberwitz"
+          },
+          "certifications": [
+            {"name": "Demeter", "region": "International"},
+            {"name": "Biodyvin", "region": "France"}
+          ],
+          "core_practices": {
+            "preparations": [
+              {"number": "500", "name": "Horn Manure", "purpose": "Stimulate soil life and root growth"},
+              {"number": "501", "name": "Horn Silica", "purpose": "Enhance photosynthesis and fruit quality"},
+              {"number": "502-507", "name": "Compost preparations", "purpose": "Enliven compost"},
+              {"number": "508", "name": "Horsetail", "purpose": "Fungal prevention"}
+            ],
+            "calendar": {
+              "description": "Activities timed to lunar and planetary positions",
+              "root_days": "Earth signs - pruning, soil work",
+              "leaf_days": "Water signs - watering",
+              "flower_days": "Air signs - avoid vineyard work",
+              "fruit_days": "Fire signs - harvest, bottling"
+            },
+            "farm_organism": "Vineyard should be self-sufficient with livestock, composting, biodiversity"
+          },
+          "advantages": [
+            "Highly attentive farming",
+            "Excellent biodiversity",
+            "Many top estates are biodynamic",
+            "Wines often show vibrancy"
+          ],
+          "disadvantages": [
+            "Mystical elements alienate some",
+            "Preparations lack scientific basis",
+            "Labor-intensive",
+            "Certification is expensive"
+          ],
+          "famous_practitioners": [
+            "Domaine de la Romanee-Conti (Burgundy)",
+            "Domaine Leroy (Burgundy)",
+            "M. Chapoutier (Rhone)",
+            "Domaine Zind-Humbrecht (Alsace)",
+            "Nikolaihof (Wachau)",
+            "Cullen (Margaret River)"
+          ],
+          "scientific_view": "Studies show biodynamic farms have good soil health, but attribute this to overall attentive farming rather than specific preparations."
+        },
+        {
+          "id": "regenerative",
+          "name": "Regenerative Viticulture",
+          "philosophy": "Beyond sustainability - actively improve soil health and sequester carbon. Leave the land better than you found it.",
+          "focus_areas": {
+            "soil_health": ["Build organic matter", "Increase soil biology", "Minimize tillage"],
+            "carbon": ["Sequester carbon in soil", "Reduce emissions", "Carbon-neutral or negative farming"],
+            "biodiversity": ["Restore ecosystems", "Integrate livestock", "Native plant restoration"]
+          },
+          "practices": [
+            "Cover cropping (permanent and diverse)",
+            "Minimal or no tillage",
+            "Compost and compost teas",
+            "Livestock integration (sheep grazing)",
+            "Agroforestry (trees in vineyards)",
+            "Water retention landscapes"
+          ],
+          "certifications": [
+            {"name": "Regenerative Organic Certified (ROC)", "region": "International"},
+            {"name": "Land to Market", "region": "International"}
+          ],
+          "advantages": [
+            "Climate change mitigation",
+            "Improved resilience",
+            "Soil building",
+            "Aligns with consumer values"
+          ],
+          "disadvantages": [
+            "New field - standards evolving",
+            "Difficult to measure carbon sequestration",
+            "May reduce short-term yields"
+          ],
+          "pioneers": ["Paicines Ranch (CA)", "Tablas Creek (CA)", "Various New Zealand producers"],
+          "market_position": "Emerging trend, rapidly growing interest"
+        }
+      ]
+    },
+    "vine_age": {
+      "title": "Vine Age & Vieilles Vignes",
+      "description": "Vine age affects wine character. Young vines produce vigorous growth but dilute fruit; old vines produce less but more concentrated fruit. 'Old vine' claims are largely unregulated, making the term both meaningful and potentially misleading.",
+      "stages": [
+        {
+          "age_range": "0-3 years",
+          "name": "Young Vines",
+          "french_term": "Jeunes Vignes",
+          "characteristics": [
+            "Excessive vegetative growth",
+            "Root system developing",
+            "Inconsistent fruit quality",
+            "High vigor"
+          ],
+          "fruit_usage": "Usually declassified or discarded. Not used for premium wine.",
+          "yield": "Low initially, increasing rapidly",
+          "wine_character": "Green, dilute, unbalanced"
+        },
+        {
+          "age_range": "4-15 years",
+          "name": "Productive Vines",
+          "french_term": "Vignes en Production",
+          "characteristics": [
+            "Peak yield potential",
+            "Established root system",
+            "Good vigor balance",
+            "Consistent production"
+          ],
+          "fruit_usage": "Standard production. Quality improving with age.",
+          "yield": "Maximum",
+          "wine_character": "Varietally typical, good quality"
+        },
+        {
+          "age_range": "15-30 years",
+          "name": "Mature Vines",
+          "french_term": "Vignes Adultes",
+          "characteristics": [
+            "Declining vigor",
+            "Deep root system",
+            "Natural yield reduction",
+            "Concentrated fruit"
+          ],
+          "fruit_usage": "Premium production. Quality typically excellent.",
+          "yield": "Moderate, declining",
+          "wine_character": "Concentrated, complex, site-expressive"
+        },
+        {
+          "age_range": "30-60 years",
+          "name": "Old Vines",
+          "french_term": "Vieilles Vignes",
+          "characteristics": [
+            "Low vigor",
+            "Very deep roots",
+            "Naturally low yields",
+            "Drought resistant",
+            "Site-adapted"
+          ],
+          "fruit_usage": "Top cuvees. Often labeled as 'Old Vine' or equivalent.",
+          "yield": "Low (often 30-50% of young vines)",
+          "wine_character": "Concentrated, complex, mineral, textured"
+        },
+        {
+          "age_range": "60+ years",
+          "name": "Ancient Vines",
+          "french_term": "Tres Vieilles Vignes",
+          "characteristics": [
+            "Very low vigor",
+            "Exceptional site adaptation",
+            "Tiny yields",
+            "Often own-rooted (pre-phylloxera)",
+            "Living heritage"
+          ],
+          "fruit_usage": "Most prestigious wines. Heritage value beyond fruit.",
+          "yield": "Very low",
+          "wine_character": "Profound concentration, depth, complexity"
+        }
+      ],
+      "why_age_matters": {
+        "title": "The Science of Vine Age",
+        "factors": [
+          {
+            "factor": "Root depth",
+            "explanation": "Older vines have deeper roots, accessing water and minerals younger vines cannot reach"
+          },
+          {
+            "factor": "Vigor balance",
+            "explanation": "Young vines put energy into growth; old vines focus on fruit"
+          },
+          {
+            "factor": "Yield regulation",
+            "explanation": "Old vines naturally produce less, more concentrated fruit"
+          },
+          {
+            "factor": "Site adaptation",
+            "explanation": "Decades of selection pressure favor well-adapted vines"
+          },
+          {
+            "factor": "Mycorrhizal networks",
+            "explanation": "Old vine root systems host complex fungal networks that aid nutrient uptake"
+          }
+        ]
+      },
+      "regional_terms": {
+        "france": "Vieilles Vignes (VV)",
+        "spain": "Vinas Viejas",
+        "germany": "Alte Reben",
+        "italy": "Vecchie Viti",
+        "portugal": "Vinhas Velhas",
+        "south_africa": "Old Vine / Ou Wingerde"
+      },
+      "regulation": {
+        "title": "The Labeling Problem",
+        "content": "Most wine regions have no legal definition of 'old vine.' A wine labeled 'Vieilles Vignes' could be from 25-year-old or 100-year-old vines. Some voluntary standards exist:",
+        "examples": [
+          {"region": "Barossa Valley", "standard": "Old Vine Charter: 35+ years", "organization": "Barossa Grape & Wine Association"},
+          {"region": "Lodi (CA)", "standard": "Heritage Vine: 50+ years", "organization": "Lodi Winegrape Commission"},
+          {"region": "South Africa", "standard": "Old Vine Project: 35+ years", "organization": "Old Vine Project"}
+        ],
+        "advice": "Ask producers the actual vine age if claims seem dubious. Reputable producers are transparent."
+      },
+      "famous_old_vines": [
+        {
+          "vineyard": "Shiraz vines, Langmeil Vineyard",
+          "region": "Barossa Valley",
+          "planted": "1843",
+          "age": "180+ years",
+          "note": "Among oldest continuously producing vines in world"
+        },
+        {
+          "vineyard": "Assyrtiko vines, Santorini",
+          "region": "Greece",
+          "planted": "Various, 200+ years",
+          "age": "200+ years",
+          "note": "Own-rooted on volcanic sand"
+        },
+        {
+          "vineyard": "Pais vines, Itata Valley",
+          "region": "Chile",
+          "planted": "1800s",
+          "age": "150-200 years",
+          "note": "Own-rooted, pre-phylloxera"
+        }
+      ]
+    },
+    "yield_management": {
+      "title": "Yield Management",
+      "description": "Yield - the amount of fruit produced per vine or hectare - is a key quality lever. Lower yields generally mean more concentrated fruit, but the relationship is not linear. Yields must balance economic reality with quality goals.",
+      "measurement": {
+        "units": {
+          "metric": "Hectoliters per hectare (hl/ha) or Tons per hectare (t/ha)",
+          "imperial": "Tons per acre (t/ac)"
+        },
+        "conversion": "1 ton/acre ≈ 17.5 hl/ha (varies by variety and juiciness)"
+      },
+      "techniques": [
+        {
+          "id": "green-harvest",
+          "name": "Green Harvest",
+          "french_term": "Vendange Verte",
+          "timing": "Veraison (when berries begin to soften)",
+          "description": "Removing entire clusters of unripe (green) fruit to reduce crop load and concentrate ripening energy in remaining fruit.",
+          "technique": [
+            "Walk vineyard post-veraison",
+            "Remove second crop (clusters from lateral shoots)",
+            "Remove uneven/lagging clusters",
+            "Target 30-50% reduction if needed"
+          ],
+          "advantages": [
+            "Concentrates remaining fruit",
+            "Improves ripening uniformity",
+            "Reduces overproduction"
+          ],
+          "disadvantages": [
+            "Labor-intensive",
+            "Removes already-produced fruit",
+            "May increase sugar too much if overdone"
+          ],
+          "cost_benefit": "Expensive operation. Usually reserved for premium wines where concentration justifies cost."
+        },
+        {
+          "id": "cluster-thinning",
+          "name": "Cluster Thinning",
+          "timing": "Pre-veraison",
+          "description": "Removing clusters earlier than green harvest, before significant resources have been invested in the fruit.",
+          "technique": [
+            "Count clusters per shoot",
+            "Remove to target (e.g., one cluster per shoot)",
+            "Remove smaller or later-developing clusters"
+          ],
+          "advantages": [
+            "Earlier intervention saves vine energy",
+            "Simpler decision than green harvest"
+          ],
+          "disadvantages": [
+            "Less precision than green harvest",
+            "May remove wrong clusters"
+          ]
+        },
+        {
+          "id": "pruning-strategy",
+          "name": "Pruning for Yield",
+          "timing": "Dormant season",
+          "description": "The number of buds retained during pruning sets maximum yield potential. Fewer buds = lower yield.",
+          "approach": {
+            "low_yield": "4-6 buds per vine (Grand Cru Burgundy)",
+            "moderate_yield": "8-12 buds per vine (quality production)",
+            "high_yield": "16-24 buds per vine (volume production)"
+          },
+          "balance": "Must match vine capacity. Under-pruning over-produces; over-pruning stresses vines."
+        }
+      ],
+      "appellation_regulations": {
+        "title": "Maximum Yields by Region",
+        "note": "Many appellations set maximum permitted yields. These limit quantity to theoretically ensure quality.",
+        "examples": [
+          {"appellation": "Romanee-Conti", "max_yield": "25 hl/ha", "note": "Actual often ~20 hl/ha"},
+          {"appellation": "Burgundy Grand Cru (general)", "max_yield": "35-37 hl/ha", "note": "Varies by vineyard"},
+          {"appellation": "Burgundy Village", "max_yield": "48-50 hl/ha", "note": "Higher than Grand Cru"},
+          {"appellation": "Champagne", "max_yield": "10,400 kg/ha (grapes)", "note": "Set annually by CIVC"},
+          {"appellation": "Bordeaux Grand Cru Classe", "max_yield": "45-55 hl/ha", "note": "Varies by chateau"},
+          {"appellation": "Barolo", "max_yield": "56 hl/ha", "note": "8 t/ha grapes"},
+          {"appellation": "Priorat", "max_yield": "39 hl/ha", "note": "Very low for Spain"}
+        ],
+        "controversy": "Critics argue maximum yields are set too high and rarely limit quality. Defenders note they prevent extreme overproduction."
+      },
+      "yield_quality_relationship": {
+        "title": "Does Lower Yield Mean Higher Quality?",
+        "nuance": [
+          "The relationship is not linear - halving yield doesn't double quality",
+          "Below certain thresholds, quality doesn't improve (vine is already balanced)",
+          "Variety matters - some varieties need crop to balance",
+          "Vine balance matters more than absolute yield numbers",
+          "Site potential is the ultimate limiter"
+        ],
+        "guideline": "Target the yield that achieves balance for your site and variety. This may be 30 hl/ha or 70 hl/ha depending on context."
+      }
+    },
+    "climate_challenges": {
+      "title": "Climate Challenges",
+      "description": "Grapevines face an array of weather challenges that can damage crops or compromise quality. Climate change is intensifying many of these threats while creating new ones.",
+      "challenges": [
+        {
+          "id": "climate-change",
+          "name": "Climate Change",
+          "severity": "critical",
+          "description": "Rising temperatures, altered precipitation patterns, and increased extreme events are reshaping viticulture globally. Wine regions are migrating, varieties are shifting, and traditional practices are being reconsidered.",
+          "observed_changes": [
+            "Earlier budbreak and harvest (2-3 weeks over 50 years)",
+            "Higher potential alcohol from increased sugars",
+            "Lower acidity from faster malic acid loss",
+            "Increased drought stress in some regions",
+            "New pest and disease pressures"
+          ],
+          "adaptation_strategies": [
+            {
+              "strategy": "Variety selection",
+              "approach": "Planting later-ripening or heat-tolerant varieties",
+              "examples": "Mourvedre instead of Grenache; Albarino in cooler sites"
+            },
+            {
+              "strategy": "Rootstock selection",
+              "approach": "Drought-tolerant rootstocks for water stress",
+              "examples": "110R, 140Ru in dry regions"
+            },
+            {
+              "strategy": "Canopy management",
+              "approach": "Increased shading to slow ripening",
+              "examples": "Reduced leaf pulling, pergola systems"
+            },
+            {
+              "strategy": "Site selection",
+              "approach": "Higher elevations, cooler exposures",
+              "examples": "Moving from valley floor to hillsides"
+            },
+            {
+              "strategy": "Harvest timing",
+              "approach": "Earlier harvest to preserve acidity",
+              "examples": "Pick at lower Brix, accept lower alcohol"
+            }
+          ],
+          "migration": {
+            "description": "Wine regions are shifting poleward and to higher elevations",
+            "examples": [
+              "England: Now producing quality sparkling wine",
+              "Patagonia: Emerging cool-climate frontier",
+              "Tasmania: Premium cool-climate production",
+              "High-altitude Argentina: 1,500m+ plantings"
+            ]
+          }
+        },
+        {
+          "id": "wildfires",
+          "name": "Wildfires & Smoke Taint",
+          "severity": "high",
+          "description": "Wildfires are increasingly common in wine regions. Beyond direct destruction, smoke exposure during ripening causes smoke taint - off-flavors that render wine undrinkable.",
+          "smoke_taint": {
+            "cause": "Volatile phenols from smoke absorbed by grape skins",
+            "compounds": ["Guaiacol", "4-Methylguaiacol", "Syringol", "Cresols"],
+            "symptoms": ["Ashy, smoky flavors", "Burnt, bitter aftertaste", "Intensifies over time"],
+            "testing": "Lab analysis for free and bound smoke markers",
+            "problem": "Compounds bind to sugars, releasing during fermentation and aging"
+          },
+          "affected_regions": ["California (2020, 2021 catastrophic)", "Australia (2020 bushfires)", "Oregon", "Portugal", "Chile"],
+          "mitigation": {
+            "prevention": "Impossible to prevent smoke exposure",
+            "early_harvest": "Pick before exposure - compromises ripeness",
+            "winemaking": "Minimal skin contact, activated charcoal (removes flavor)",
+            "economic": "Insurance, diversified holdings"
+          },
+          "reality": "No good solution exists. Affected fruit is often abandoned."
+        },
+        {
+          "id": "extreme-heat",
+          "name": "Extreme Heat Events",
+          "severity": "high",
+          "description": "Heat waves (>40C/104F) cause sunburn, raisining, shutdown of ripening, and vine stress. Increasing in frequency and intensity.",
+          "damage": [
+            "Sunburn: Exposed berries cook",
+            "Raisining: Berries dehydrate and shrivel",
+            "Shutdown: Photosynthesis stops above ~35C",
+            "Stuck ripening: Sugars rise but flavors don't develop"
+          ],
+          "management": [
+            "Maintain some leaf cover for shade",
+            "Irrigate strategically before heat events",
+            "Harvest before or after extreme heat",
+            "Consider shade cloth (expensive, experimental)"
+          ],
+          "2021_examples": ["Pacific Northwest heat dome", "Multiple California events"]
+        },
+        {
+          "id": "water-scarcity",
+          "name": "Water Scarcity",
+          "severity": "high",
+          "description": "Declining water availability from drought, aquifer depletion, and competing demands threatens vineyard viability in many regions.",
+          "affected_regions": ["Central Valley (CA)", "South Australia", "Southern Spain", "Chile"],
+          "responses": {
+            "efficiency": ["Drip irrigation", "Deficit irrigation", "Soil moisture monitoring"],
+            "rootstock": ["Drought-tolerant selections (110R, 140Ru)"],
+            "farming": ["Cover crop management", "Mulching", "Dry farming where possible"],
+            "policy": ["Water rights management", "Allocation systems"]
+          },
+          "dry_farming": {
+            "definition": "Viticulture without irrigation",
+            "requirements": "Deep soils, winter rainfall, low-vigor sites",
+            "examples": "Much of Europe, parts of California",
+            "quality_argument": "Some argue dry-farmed fruit has superior concentration"
+          }
+        }
+      ]
+    },
+    "famous_sites": {
+      "title": "Famous Vineyard Sites",
+      "description": "What makes legendary vineyards special? Beyond soil and climate, viticulture practices shape these sites' reputations. Each represents generations of accumulated wisdom about how to farm that specific place.",
+      "sites": [
+        {
+          "id": "romanee-conti",
+          "name": "Romanee-Conti",
+          "region": "Vosne-Romanee, Burgundy, France",
+          "size_ha": 1.81,
+          "owner": "Domaine de la Romanee-Conti",
+          "soil": "Limestone with clay, iron-rich, shallow topsoil over Bathonian limestone",
+          "aspect": "East-facing, mid-slope",
+          "elevation": "255-270m",
+          "training_system": "Guyot Simple",
+          "planting_density": "10,000 vines/ha",
+          "vine_age": "Replanted 1947 (phylloxera), now 75+ years",
+          "farming": "Biodynamic since 2007, certified Demeter",
+          "yields": "~20-25 hl/ha (well below legal maximum)",
+          "viticulture_notes": [
+            "Entirely hand-worked, horse plowing",
+            "Cover crops between rows",
+            "Extremely attentive canopy management",
+            "Multiple passes for sorting",
+            "Whole-cluster fermentation"
+          ],
+          "what_makes_it_special": "Perfect combination of site (limestone bedrock, slope, exposure), history (farmed since 12th century), and obsessive attention. The DRC team treats the vineyard as sacred ground."
+        },
+        {
+          "id": "hill-of-grace",
+          "name": "Hill of Grace",
+          "region": "Eden Valley, South Australia",
+          "size_ha": 8,
+          "owner": "Henschke",
+          "soil": "Sandy loam over clay, ancient pre-Cambrian soils",
+          "aspect": "Gentle northeast slope",
+          "elevation": "400m",
+          "training_system": "Ancient bush vines (gobelet)",
+          "planting_density": "~1,500 vines/ha (original spacing)",
+          "vine_age": "Oldest planted 1860s, average 100+ years",
+          "farming": "Biodynamic",
+          "yields": "1-2 tons per acre (very low)",
+          "viticulture_notes": [
+            "Own-rooted, pre-phylloxera Shiraz",
+            "No irrigation",
+            "Hand-pruned by multi-generation workers",
+            "Single-vineyard bottling since 1958"
+          ],
+          "what_makes_it_special": "160-year-old own-rooted Shiraz vines, possibly oldest in world. The vines themselves are living heritage, each with gnarly trunk 50cm+ diameter."
+        },
+        {
+          "id": "to-kalon",
+          "name": "To Kalon Vineyard",
+          "region": "Oakville, Napa Valley, California",
+          "size_ha": "~200 (divided among owners)",
+          "owners": ["Robert Mondavi/Constellation", "Opus One", "Schrader", "others"],
+          "soil": "Deep alluvial gravel over clay, Bale loam",
+          "aspect": "Benchland, slight west slope",
+          "elevation": "40-60m",
+          "training_system": "Various (mostly VSP and bilateral cordon)",
+          "planting_density": "Various (1,000-2,000 vines/acre)",
+          "vine_age": "Various, some blocks 50+ years",
+          "farming": "Various (some organic/biodynamic blocks)",
+          "yields": "2-4 tons/acre depending on owner",
+          "viticulture_notes": [
+            "The name means 'the highest beauty' in Greek",
+            "First planted 1868 by H.W. Crabb",
+            "Ideal gravel depth for Cabernet",
+            "Protected from fog by position"
+          ],
+          "what_makes_it_special": "The quintessential Napa Cabernet site. Deep gravel provides perfect drainage; benchland position offers warm days and cool nights. Multiple iconic wines share this soil."
+        },
+        {
+          "id": "cote-rotie-la-mouline",
+          "name": "La Mouline",
+          "region": "Cote Rotie, Northern Rhone, France",
+          "size_ha": 1.1,
+          "owner": "E. Guigal",
+          "soil": "Decomposed mica-schist (Cote Blonde)",
+          "aspect": "Southeast-facing, extremely steep (60+ degrees)",
+          "elevation": "180-320m",
+          "training_system": "Single stake (echalas)",
+          "planting_density": "10,000 vines/ha",
+          "vine_age": "Average 75+ years",
+          "farming": "Traditional, moving toward organic",
+          "yields": "~20 hl/ha",
+          "viticulture_notes": [
+            "Hand-work only - no tractors possible",
+            "Workers tied to stakes on steep slopes",
+            "Mica reflects heat, schist retains it",
+            "5% Viognier co-planted traditionally"
+          ],
+          "what_makes_it_special": "Extreme viticulture on near-vertical slopes. The 'blonde' soils (lighter schist with mica) produce perfumed, elegant Syrah distinct from darker 'brune' slopes."
+        },
+        {
+          "id": "scharzhofberg",
+          "name": "Scharzhofberg",
+          "region": "Saar, Mosel, Germany",
+          "size_ha": "28 (divided among owners)",
+          "major_owner": "Egon Muller",
+          "soil": "Blue Devonian slate",
+          "aspect": "South-southeast facing, steep (65% gradient)",
+          "elevation": "200-300m",
+          "training_system": "Single stake (Einzelpfahlerziehung)",
+          "planting_density": "8,000-10,000 vines/ha",
+          "vine_age": "Various, some centenarian vines",
+          "farming": "Traditional sustainable",
+          "yields": "40-60 hl/ha (varies with vintage)",
+          "viticulture_notes": [
+            "Pure Riesling",
+            "Slate retains heat on cool slopes",
+            "Late ripening - often November harvest",
+            "Multiple selective pickings for Auslese/TBA"
+          ],
+          "what_makes_it_special": "One of Germany's greatest vineyards. The steep slate slopes capture every ray of sun in this marginal climate, producing Rieslings of crystalline purity and profound minerality."
+        },
+        {
+          "id": "pisoni",
+          "name": "Pisoni Vineyard",
+          "region": "Santa Lucia Highlands, California",
+          "size_ha": 20,
+          "owner": "Pisoni Family",
+          "soil": "Decomposed granite and limestone",
+          "aspect": "Northwest-facing (unusual)",
+          "elevation": "400m",
+          "training_system": "High-density VSP (Burgundy-style)",
+          "planting_density": "4,000 vines/acre (very high for CA)",
+          "vine_age": "Planted 1982, now 40+ years",
+          "farming": "Organic practices",
+          "yields": "1.5-2 tons/acre",
+          "viticulture_notes": [
+            "Pioneered high-density planting in California",
+            "Burgundy clones (Pisoni clone now famous)",
+            "Extreme wind site - natural vigor control",
+            "Very cold nights preserve acidity"
+          ],
+          "what_makes_it_special": "Gary Pisoni proved California could produce Burgundian-style Pinot Noir through high-density planting and site selection. The 'Pisoni clone' is now planted throughout California."
+        },
+        {
+          "id": "les-clos",
+          "name": "Les Clos",
+          "region": "Chablis, Burgundy, France",
+          "size_ha": 26,
+          "owners": "Multiple (largest: Fèvre, Raveneau, Dauvissat)",
+          "soil": "Kimmeridgian limestone (fossil-rich marl)",
+          "aspect": "Southwest-facing",
+          "elevation": "130-200m",
+          "training_system": "Guyot Simple",
+          "planting_density": "6,000-8,000 vines/ha",
+          "vine_age": "Various, some very old",
+          "farming": "Various (some organic/biodynamic)",
+          "yields": "45-55 hl/ha (Grand Cru maximum)",
+          "viticulture_notes": [
+            "100% Chardonnay",
+            "Kimmeridgian fossils visible in soil",
+            "Protected position reduces frost risk",
+            "Produces most powerful Chablis"
+          ],
+          "what_makes_it_special": "The largest and most famous Chablis Grand Cru. The ancient oyster-shell fossils in the soil contribute the mineral tension that defines great Chablis. Southwest exposure ensures full ripeness."
+        },
+        {
+          "id": "la-crau",
+          "name": "Chateau Rayas / La Crau",
+          "region": "Chateauneuf-du-Pape, Southern Rhone, France",
+          "size_ha": "13 (Rayas portion)",
+          "owner": "Reynaud family",
+          "soil": "Pure sand (unusual for CdP)",
+          "aspect": "Various (flat)",
+          "elevation": "~100m",
+          "training_system": "Gobelet (bush vine)",
+          "planting_density": "~2,500 vines/ha",
+          "vine_age": "Average 50+ years",
+          "farming": "Traditional, non-interventionist",
+          "yields": "15-20 hl/ha (extremely low)",
+          "viticulture_notes": [
+            "100% Grenache (unusual for CdP)",
+            "Sandy soils - no galets roulés",
+            "Forested surroundings moderate heat",
+            "Eccentric viticulture - almost no green harvest"
+          ],
+          "what_makes_it_special": "The contrarian legend of Chateauneuf. While others celebrate galets, Rayas' sandy plot produces the most ethereal, Burgundian expression of Grenache through ultra-low yields and old vines."
+        }
+      ]
+    }
+  }
+}

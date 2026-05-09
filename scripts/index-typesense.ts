@@ -46,6 +46,20 @@ const REGIONS_SCHEMA = {
   ],
 };
 
+const WINES_SCHEMA = {
+  name: 'wines',
+  fields: [
+    { name: 'id', type: 'string' as const },
+    { name: 'name', type: 'string' as const },
+    { name: 'slug', type: 'string' as const },
+    { name: 'vintage', type: 'int32' as const, facet: true },
+    { name: 'wineType', type: 'string' as const, facet: true, optional: true },
+    { name: 'producer', type: 'string' as const },
+    { name: 'region', type: 'string' as const, optional: true },
+    { name: 'country', type: 'string' as const, facet: true, optional: true },
+  ],
+};
+
 async function fetchAllRegions(): Promise<any[]> {
   const allRegions: any[] = [];
   let page = 1;
@@ -156,6 +170,92 @@ async function indexRegions(regions: any[]) {
   console.log(`\nIndexing complete: ${indexed} regions indexed`);
 }
 
+async function fetchAllWines(): Promise<any[]> {
+  const allWines: any[] = [];
+  let page = 1;
+  let hasMore = true;
+
+  console.log('Fetching wines from Payload...');
+
+  while (hasMore) {
+    const response = await fetch(
+      `${PAYLOAD_API}/wines?limit=100&page=${page}&depth=1`
+    );
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch wines: ${response.statusText}`);
+    }
+
+    const data = await response.json();
+    allWines.push(...data.docs);
+
+    console.log(`  Fetched page ${page}: ${data.docs.length} wines`);
+
+    hasMore = data.hasNextPage;
+    page++;
+  }
+
+  console.log(`Total wines fetched: ${allWines.length}\n`);
+  return allWines;
+}
+
+async function createOrUpdateWinesCollection() {
+  try {
+    await client.collections('wines').delete();
+    console.log('Deleted existing wines collection');
+  } catch {
+    // Collection doesn't exist
+  }
+
+  await client.collections().create(WINES_SCHEMA);
+  console.log('Created wines collection\n');
+}
+
+async function indexWines(wines: any[]) {
+  console.log('Indexing wines into Typesense...');
+
+  const documents = wines.map((wine) => {
+    const doc: any = {
+      id: String(wine.id),
+      name: String(wine.name || ''),
+      slug: String(wine.slug || ''),
+      vintage: wine.vintage || 0,
+      producer: typeof wine.producer === 'object' ? String(wine.producer?.name || '') : '',
+      region: typeof wine.region === 'object' ? String(wine.region?.name || '') : '',
+    };
+
+    if (wine.wineType) {
+      doc.wineType = String(wine.wineType);
+    }
+    if (typeof wine.region === 'object' && wine.region?.country) {
+      doc.country = String(wine.region.country);
+    }
+
+    return doc;
+  });
+
+  const batchSize = 100;
+  let indexed = 0;
+
+  for (let i = 0; i < documents.length; i += batchSize) {
+    const batch = documents.slice(i, i + batchSize);
+
+    try {
+      const result = await client.collections('wines').documents().import(batch, {
+        action: 'upsert',
+      });
+
+      const successful = result.filter((r: any) => r.success).length;
+      indexed += successful;
+      console.log(`  Indexed ${indexed}/${documents.length} wines`);
+    } catch (error: any) {
+      console.error(`Error indexing batch: ${error.message}`);
+    }
+  }
+
+  console.log(`\nIndexing complete: ${indexed} wines indexed`);
+}
+
 async function main() {
   console.log('Typesense Indexing Script\n');
   console.log(`Host: ${process.env.TYPESENSE_HOST}`);
@@ -185,9 +285,15 @@ async function main() {
     process.exit(1);
   }
 
+  // Index regions
   const regions = await fetchAllRegions();
   await createOrUpdateCollection();
   await indexRegions(regions);
+
+  // Index wines
+  const wines = await fetchAllWines();
+  await createOrUpdateWinesCollection();
+  await indexWines(wines);
 
   console.log('\nDone!');
 }

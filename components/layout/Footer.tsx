@@ -71,6 +71,26 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/resources/viticulture" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Viticulture Guide
+                </Link>
+              </li>
+              <li>
+                <Link href="/resources/winemaking" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Winemaking Guide
+                </Link>
+              </li>
+              <li>
+                <Link href="/resources/tasting" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Tasting Science Guide
+                </Link>
+              </li>
+              <li>
+                <Link href="/resources/terroir" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Terroir Guide
+                </Link>
+              </li>
+              <li>
                 <Link href="/resources/oak" className="fun-link text-gray-600 hover:text-[#722F37]">
                   Oak Guide
                 </Link>
@@ -78,6 +98,11 @@ export function Footer() {
               <li>
                 <Link href="/resources/rootstock" className="fun-link text-gray-600 hover:text-[#722F37]">
                   Rootstock Guide
+                </Link>
+              </li>
+              <li>
+                <Link href="/resources/yeast" className="fun-link text-gray-600 hover:text-[#722F37]">
+                  Yeast Guide
                 </Link>
               </li>
               <li>

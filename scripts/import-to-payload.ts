@@ -47,7 +47,7 @@ const getArg = (name: string, defaultValue: string = '') => {
   return index !== -1 && args[index + 1] ? args[index + 1] : defaultValue;
 };
 
-const EXCEL_FILE = '/Users/jordanabraham/Desktop/WINESAINT_MSTR_RVW.xlsx';
+const EXCEL_FILE = '/Users/jordanabraham/Desktop/WINESAINT_MSTR_RVW_CLEANED.xlsx';
 const SHEET = getArg('--sheet', 'Australia');
 const LIMIT = getArg('--limit') ? parseInt(getArg('--limit')) : null;
 const OFFSET = getArg('--offset') ? parseInt(getArg('--offset')) : 0;
@@ -609,11 +609,12 @@ async function importWineWithReview(
     const wineType = wineTypeMap[rawType] || undefined;
 
     // Create wine
-    const wineSlug = slugify(`${wine.Vintage} ${wine.Producer} ${wine['Wine Name']}`);
+    const wineName = (wine['Wine Name'] || '').trim();
+    const wineSlug = slugify(`${wine.Vintage} ${wine.Producer} ${wineName || 'estate'}`);
     const price = parsePrice(wine['Release Price']);
 
     const winePayload: any = {
-      name: wine['Wine Name'],
+      name: wineName,
       slug: wineSlug,
       vintage: wine.Vintage,
       producer: producerId,

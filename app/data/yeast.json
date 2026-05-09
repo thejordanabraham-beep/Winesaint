@@ -1,0 +1,2308 @@
+{
+  "guide_type": "yeast_encyclopedia",
+  "title": "The Yeast Guide",
+  "subtitle": "Fermentation, strains, and the invisible winemaker",
+  "created_date": "2026-05-04",
+  "sections": {
+    "overview": {
+      "title": "The Invisible Winemaker",
+      "description": "Every wine is made twice: once by the grape and once by yeast. These single-celled fungi transform sugar into alcohol, but they do far more than that. Yeast produces hundreds of flavor compounds, esters, aldehydes, and organic acids that shape a wine's character as profoundly as terroir or winemaking decisions. Understanding yeast is understanding fermentation itself.",
+      "role_in_winemaking": {
+        "primary_function": "Convert grape sugars (glucose and fructose) into ethanol and carbon dioxide through anaerobic respiration",
+        "secondary_functions": [
+          "Produce flavor compounds (esters, higher alcohols, aldehydes)",
+          "Modify grape-derived compounds",
+          "Contribute to mouthfeel through mannoproteins and polysaccharides",
+          "Influence color stability in red wines",
+          "Produce glycerol (adds body and sweetness perception)",
+          "Generate heat during fermentation",
+          "Release thiols from bound precursors (tropical aromas)",
+          "Metabolize organic acids (some strains reduce malic acid)"
+        ],
+        "the_equation": "C6H12O6 → 2 C2H5OH + 2 CO2 (Glucose → Ethanol + Carbon Dioxide)",
+        "yield": "Approximately 0.51g ethanol and 0.49g CO2 per gram of sugar (theoretical maximum)",
+        "the_biochemistry": {
+          "glycolysis": "Glucose is broken down through 10 enzymatic steps to pyruvate, generating 2 ATP per glucose molecule",
+          "alcoholic_fermentation": "Pyruvate is decarboxylated to acetaldehyde by pyruvate decarboxylase, then reduced to ethanol by alcohol dehydrogenase, regenerating NAD+",
+          "crabtree_effect": "Even in the presence of oxygen, S. cerevisiae preferentially ferments rather than respires when glucose exceeds 0.1%. This is why wine ferments rather than 'spoiling' aerobically.",
+          "heat_generation": "Fermentation releases approximately 23.5 kcal per mole of glucose. A 1000L tank can rise 1.3°C per 1° Brix drop without cooling.",
+          "efficiency": "In practice, yields are 0.45-0.48g ethanol per gram sugar due to biomass production and side reactions"
+        }
+      },
+      "wild_vs_cultured_debate": {
+        "title": "The Great Debate",
+        "description": "No topic divides winemakers more than yeast selection. The choice between wild (indigenous, native, spontaneous) fermentation and cultured (commercial, inoculated) yeast reflects fundamental philosophies about winemaking.",
+        "wild_advocates": {
+          "argument": "Wild yeasts express terroir. Each vineyard has a unique microbiome that contributes to site-specific character.",
+          "proponents": "Natural wine movement, many Burgundy producers, traditional estates in Loire, some biodynamic producers",
+          "notable_practitioners": [
+            "Domaine de la Romanée-Conti (Burgundy) - exclusively indigenous fermentation",
+            "Domaine Leflaive (Burgundy) - biodynamic, native yeasts",
+            "Nicolas Joly at Coulée de Serrant (Loire) - wild fermentation pioneer",
+            "Gravner (Friuli) - amphora fermentation with indigenous yeasts",
+            "Radikon (Friuli) - no SO2, fully wild",
+            "Frank Cornelissen (Etna) - zero intervention"
+          ]
+        },
+        "cultured_advocates": {
+          "argument": "Commercial yeasts provide consistency, reliability, and specific flavor profiles. Wild fermentation is gambling.",
+          "proponents": "Most large-scale producers, New World wineries, anyone prioritizing predictability",
+          "notable_practitioners": [
+            "Most Champagne houses - require consistent secondary fermentation",
+            "Large California producers - consistency at scale",
+            "Australian volume producers - reliability in warm climates"
+          ]
+        },
+        "the_third_way": {
+          "description": "Many premium producers use hybrid approaches, capturing benefits of both philosophies",
+          "approaches": [
+            "Indigenous start, commercial finish: Let wild yeasts establish complexity, inoculate at 5-8% alcohol to ensure completion",
+            "Lot separation: Indigenous for best parcels, commercial for others, blend for complexity",
+            "Pied de cuve: Build indigenous starter before harvest for more reliable wild fermentation",
+            "Non-Saccharomyces inoculation: Use commercial non-Sacch for early phase, then S. cerevisiae"
+          ],
+          "notable_practitioners": [
+            "Kistler (Sonoma) - indigenous start, commercial finish",
+            "Ridge Vineyards (California) - documented native yeast populations since 1970s",
+            "Henschke (Eden Valley) - pied de cuve tradition",
+            "Many Burgundy négociants - blend approaches by cuvée"
+          ]
+        },
+        "the_science": {
+          "vineyard_vs_winery": "Research shows most fermenting yeasts come from winery equipment, not vineyards. The 'winery microbiome' may matter more than the vineyard microbiome.",
+          "studies": "Goddard et al. (2010) found S. cerevisiae rarely present on healthy grapes; most comes from winery-resident populations",
+          "implications": "Indigenous fermentation may express 'winery terroir' rather than vineyard terroir"
+        },
+        "reality": "Many winemakers use hybrid approaches: indigenous fermentation to start, cultured yeast to finish; or different yeasts for different lots."
+      },
+      "winery_microbiome": {
+        "title": "The Winery Microbiome",
+        "description": "Every winery develops its own resident yeast population over years of operation. These winery-adapted strains colonize equipment, walls, and floors.",
+        "formation": "Takes 3-5 years for a new winery to develop a stable, dominant S. cerevisiae population",
+        "characteristics": [
+          "Winery strains are pre-adapted to wine conditions (high sugar, low pH, alcohol)",
+          "Old wineries may have unique strains found nowhere else",
+          "Strains persist in cracks in concrete, wooden equipment, drains",
+          "Summer cleaning can disrupt populations; some producers avoid aggressive sanitization"
+        ],
+        "famous_examples": [
+          "Château Musar (Lebanon) - claims indigenous yeasts surviving since 1930s",
+          "Domaine de la Romanée-Conti - documented unique strains in their cellars",
+          "Penfolds (Australia) - resident strains in historic cellars"
+        ]
+      }
+    },
+    "history": {
+      "title": "A History of Fermentation",
+      "description": "Humans have made wine for 8,000 years without knowing yeast existed. The discovery that fermentation was caused by living organisms, not spontaneous chemistry, revolutionized winemaking.",
+      "timeline": [
+        {
+          "year": "6000 BCE",
+          "event": "Earliest evidence of winemaking in Georgia (Caucasus). Qvevri fermentation relies on wild yeasts.",
+          "significance": "Humanity makes wine for millennia without understanding fermentation"
+        },
+        {
+          "year": "3000 BCE",
+          "event": "Egyptian hieroglyphics depict winemaking. Wine production spreads through Mediterranean.",
+          "significance": "Fermentation technology spreads without scientific understanding"
+        },
+        {
+          "year": "1680",
+          "event": "Antonie van Leeuwenhoek observes yeast cells under microscope, calls them 'globules.'",
+          "significance": "First observation of yeast, but their role in fermentation unknown"
+        },
+        {
+          "year": "1789",
+          "event": "Antoine Lavoisier quantifies fermentation, showing sugar converts to alcohol and CO2 in fixed proportions.",
+          "significance": "First chemical understanding of fermentation, though mechanism unknown"
+        },
+        {
+          "year": "1835-1837",
+          "event": "Charles Cagniard de la Tour, Theodor Schwann, and Friedrich Kützing independently conclude that yeast are living organisms responsible for fermentation.",
+          "significance": "The biological theory of fermentation begins to replace spontaneous generation"
+        },
+        {
+          "year": "1857-1860",
+          "event": "Louis Pasteur proves fermentation is caused by living yeast cells, not chemical reaction. Publishes 'Mémoire sur la fermentation alcoolique.'",
+          "significance": "The birth of modern fermentation science. Pasteur calls fermentation 'life without air'"
+        },
+        {
+          "year": "1883",
+          "event": "Emil Christian Hansen at Carlsberg brewery isolates pure yeast strains for consistent brewing.",
+          "significance": "The beginning of strain selection and inoculation"
+        },
+        {
+          "year": "1890",
+          "event": "Hermann Müller-Thurgau at Geisenheim Research Institute begins systematic study of wine yeasts in Germany.",
+          "significance": "European wine science institutionalizes yeast research"
+        },
+        {
+          "year": "1897",
+          "event": "Eduard Buchner demonstrates cell-free fermentation using yeast extract, proving enzymes (not living cells) drive the chemistry. Wins 1907 Nobel Prize.",
+          "significance": "Birth of biochemistry. Enzymes like zymase identified as the active agents"
+        },
+        {
+          "year": "1904",
+          "event": "UC Davis (then University Farm) established. Begins California wine research program.",
+          "significance": "Foundation of American wine science"
+        },
+        {
+          "year": "1930s",
+          "event": "Embden-Meyerhof-Parnas pathway (glycolysis) fully elucidated.",
+          "significance": "Complete biochemical understanding of fermentation achieved"
+        },
+        {
+          "year": "1935",
+          "event": "Maynard Amerine joins UC Davis, begins systematic study of wine yeasts and fermentation.",
+          "significance": "Amerine becomes 'father of modern American wine science'"
+        },
+        {
+          "year": "1950s",
+          "event": "UC Davis develops freeze-dried yeast cultures for distribution.",
+          "significance": "First practical method for transporting viable yeast"
+        },
+        {
+          "year": "1965",
+          "event": "UC Davis releases Montrachet strain (UCD 522), its first commercial wine yeast.",
+          "significance": "American wine industry standardizes on cultured yeasts"
+        },
+        {
+          "year": "1974",
+          "event": "Lallemand develops commercial Active Dry Yeast (ADY) production for wine.",
+          "significance": "Yeast becomes shelf-stable, affordable, globally distributable"
+        },
+        {
+          "year": "1980s",
+          "event": "Killer yeast phenomenon characterized. Competition between strains understood.",
+          "significance": "Explains why some indigenous fermentations fail; leads to killer-positive commercial strains"
+        },
+        {
+          "year": "1996",
+          "event": "S. cerevisiae genome fully sequenced (first eukaryote).",
+          "significance": "Enables genetic understanding of fermentation traits"
+        },
+        {
+          "year": "1990s-2000s",
+          "event": "Natural wine movement emerges in France, embracing wild fermentation.",
+          "significance": "Counter-movement rejects cultured yeast dominance"
+        },
+        {
+          "year": "2005",
+          "event": "First commercial non-Saccharomyces products launched (Torulaspora delbrueckii).",
+          "significance": "Non-Saccharomyces yeasts move from 'spoilage' to 'tool'"
+        },
+        {
+          "year": "2011",
+          "event": "ML01, first GMO wine yeast, approved in USA and Canada. Performs MLF without bacteria.",
+          "significance": "GMO enters wine, though adoption remains minimal due to consumer resistance"
+        },
+        {
+          "year": "2015-present",
+          "event": "Rapid expansion of non-Saccharomyces products. Sequential inoculation becomes mainstream for aromatic whites.",
+          "significance": "The third way: controlled use of 'wild' species"
+        },
+        {
+          "year": "2020s",
+          "event": "Climate change drives research into low-alcohol yeasts and acid-producing strains.",
+          "significance": "Yeast selection becomes climate adaptation strategy"
+        }
+      ],
+      "pasteur": {
+        "name": "Louis Pasteur",
+        "years": "1822-1895",
+        "contribution": "Proved that fermentation is a biological process performed by living yeast cells, not a spontaneous chemical reaction",
+        "key_experiments": [
+          "Demonstrated that boiled (sterile) grape juice does not ferment until yeast is introduced",
+          "Showed that different microorganisms cause different types of fermentation",
+          "Identified oxygen as detrimental to alcoholic fermentation ('Pasteur effect')",
+          "Used swan-neck flasks to disprove spontaneous generation",
+          "Identified bacteria responsible for wine spoilage (acetic acid bacteria, lactic acid bacteria)"
+        ],
+        "studies_on_wine": "Études sur le Vin (1866) - comprehensive treatise on wine diseases and their microbial causes",
+        "famous_quote": "In the fields of observation, chance favors only the prepared mind.",
+        "legacy": "Founded microbiology, enabled controlled fermentation, made modern winemaking possible",
+        "pasteurization": "Developed heat treatment (pasteurization) to kill spoilage organisms in wine, though rarely used in fine wine today"
+      },
+      "other_pioneers": [
+        {
+          "name": "Emil Christian Hansen",
+          "years": "1842-1909",
+          "institution": "Carlsberg Laboratory, Denmark",
+          "contribution": "Developed pure culture technique for isolating single yeast strains. First to produce beer from a single-cell isolate (1883).",
+          "legacy": "Father of industrial yeast selection. Carlsberg strain naming convention still used."
+        },
+        {
+          "name": "Eduard Buchner",
+          "years": "1860-1917",
+          "institution": "University of Berlin",
+          "contribution": "Demonstrated cell-free fermentation using ground yeast extract (zymase). Proved enzymes, not living cells, perform fermentation chemistry.",
+          "legacy": "Nobel Prize in Chemistry 1907. Founded biochemistry as a discipline."
+        },
+        {
+          "name": "Hermann Müller-Thurgau",
+          "years": "1850-1927",
+          "institution": "Geisenheim Research Institute, Germany",
+          "contribution": "Systematic study of wine yeasts. Developed grape crossing techniques. Bred Müller-Thurgau grape variety.",
+          "legacy": "Established German wine science tradition. Geisenheim remains leading yeast research center."
+        },
+        {
+          "name": "Maynard Amerine",
+          "years": "1911-1998",
+          "institution": "UC Davis",
+          "contribution": "Established scientific winemaking curriculum. Developed climate classification system. Systematically studied yeast strains for California conditions.",
+          "legacy": "'Father of American wine science.' Trained generation of California winemakers. Authored definitive textbooks."
+        },
+        {
+          "name": "Ralph Kunkee",
+          "years": "1927-2016",
+          "institution": "UC Davis",
+          "contribution": "Pioneered malolactic fermentation research. First to isolate and characterize ML bacteria for commercial use.",
+          "legacy": "Made MLF a controlled process rather than chance occurrence."
+        }
+      ]
+    },
+    "species": {
+      "title": "Yeast Species",
+      "description": "Wine fermentation involves multiple yeast species. Saccharomyces cerevisiae dominates, but non-Saccharomyces yeasts play crucial roles in wild fermentations and are increasingly used intentionally.",
+      "succession": {
+        "title": "Yeast Succession in Wild Fermentation",
+        "description": "In spontaneous fermentation, different species dominate at different stages. This succession creates complexity but also risk.",
+        "stages": [
+          {
+            "phase": "0-2% alcohol",
+            "dominant_species": ["Hanseniaspora uvarum", "Candida", "Pichia", "Metschnikowia"],
+            "notes": "Apiculate yeasts dominate. High populations on grape skins. Produce esters but also volatile acidity."
+          },
+          {
+            "phase": "2-4% alcohol",
+            "dominant_species": ["Hanseniaspora", "Torulaspora", "Metschnikowia", "early S. cerevisiae"],
+            "notes": "Transition phase. Non-Saccharomyces begin dying off. S. cerevisiae populations building."
+          },
+          {
+            "phase": "4-8% alcohol",
+            "dominant_species": ["Saccharomyces cerevisiae"],
+            "notes": "S. cerevisiae takes over. More alcohol-tolerant. Outcompetes other species."
+          },
+          {
+            "phase": "8%+ alcohol",
+            "dominant_species": ["Saccharomyces cerevisiae", "Saccharomyces bayanus"],
+            "notes": "Only Saccharomyces survives. Completes fermentation to dryness."
+          }
+        ],
+        "timing": "The entire succession typically occurs over 7-21 days depending on temperature and conditions."
+      },
+      "killer_factor": {
+        "title": "Killer Yeasts",
+        "description": "Some yeast strains produce toxins that kill other yeasts. This 'killer factor' affects both wild and inoculated fermentations.",
+        "mechanism": "Killer yeasts secrete protein toxins (K1, K2, K28 types) that disrupt cell walls of sensitive strains.",
+        "categories": {
+          "killer": "Produces toxin and is immune to it. K+ strains dominate mixed fermentations.",
+          "sensitive": "Killed by toxin. May die even if inoculated at high populations.",
+          "neutral": "Neither produces toxin nor is affected by it."
+        },
+        "implications": [
+          "Indigenous fermentations often have killer-positive wild strains that eliminate inoculated yeast",
+          "Commercial killer-positive strains (EC-1118, K1-V1116) resist wild yeast competition",
+          "Stuck fermentations sometimes caused by killer yeast eliminating the primary strain",
+          "Restart yeasts should be killer-positive to overcome resident populations"
+        ],
+        "famous_killer_strains": ["EC-1118 (K2+)", "K1-V1116 (K2+)", "Lalvin 43 (K2+)"]
+      },
+      "items": [
+        {
+          "id": "saccharomyces-cerevisiae",
+          "name": "Saccharomyces cerevisiae",
+          "common_name": "Wine Yeast / Brewer's Yeast",
+          "role": "Primary fermenter",
+          "description": "The workhorse of fermentation. Highly alcohol-tolerant, vigorous, reliable. All commercial wine yeast strains are Saccharomyces cerevisiae, selected for specific traits.",
+          "characteristics": [
+            "High alcohol tolerance (14-18%+ depending on strain)",
+            "Efficient sugar consumption",
+            "Reliable, predictable fermentation",
+            "Diverse strain selection available",
+            "Dominates fermentation after 4-5% alcohol"
+          ],
+          "origin": "Ubiquitous in nature, found on grape skins, in wineries, on equipment",
+          "alcohol_tolerance": "14-18%+ (strain dependent)",
+          "optimal_temperature": "15-30°C (59-86°F), strain dependent",
+          "flavor_contribution": "Strain-dependent: from neutral to highly aromatic",
+          "commercial_strains": true,
+          "icon": "🍷"
+        },
+        {
+          "id": "saccharomyces-bayanus",
+          "name": "Saccharomyces bayanus",
+          "common_name": "Champagne Yeast",
+          "role": "High-alcohol fermentation, sparkling wine",
+          "description": "Closely related to S. cerevisiae, now often classified as a subspecies. Exceptional stress tolerance makes it ideal for difficult fermentations and secondary fermentation in sparkling wine.",
+          "characteristics": [
+            "Very high alcohol tolerance (16-18%+)",
+            "Cold tolerant (can ferment at 10°C)",
+            "Pressure tolerant (survives carbonation)",
+            "Low nutrient requirements",
+            "Clean, neutral fermentation character",
+            "Often used to restart stuck fermentations"
+          ],
+          "origin": "Isolated from Champagne and other sparkling wine regions",
+          "alcohol_tolerance": "18%+",
+          "optimal_temperature": "10-30°C (50-86°F)",
+          "flavor_contribution": "Generally neutral, clean",
+          "commercial_strains": true,
+          "famous_strains": ["EC-1118 (Prise de Mousse)", "DV10"],
+          "icon": "🍾"
+        },
+        {
+          "id": "brettanomyces",
+          "name": "Brettanomyces bruxellensis",
+          "common_name": "Brett",
+          "role": "Spoilage organism (usually) / Character contributor (controversial)",
+          "description": "The most controversial yeast in wine. Produces volatile phenols (4-ethylphenol, 4-ethylguaiacol) that create 'barnyard,' 'band-aid,' and 'horse stable' aromas. Considered a fault by most, a terroir expression by some.",
+          "characteristics": [
+            "Slow-growing but persistent",
+            "Survives in low-nutrient environments",
+            "Produces 4-EP and 4-EG (volatile phenols)",
+            "Can continue activity at very low sugar levels",
+            "Thrives in barrels, difficult to eradicate",
+            "Activity increases with pH above 3.5"
+          ],
+          "origin": "Winery-resident, difficult to eliminate once established",
+          "alcohol_tolerance": "12-14%",
+          "optimal_temperature": "15-25°C",
+          "flavor_contribution": "Band-aid, barnyard, leather, smoke, medicinal",
+          "controversy": {
+            "fault_view": "Masks varietal character, indicates poor hygiene",
+            "character_view": "Low levels add complexity, express winery terroir",
+            "regional_tolerance": "More accepted in Rhône, some traditional Bordeaux; rejected in most New World"
+          },
+          "prevention": [
+            "Good hygiene",
+            "Adequate SO2",
+            "Low pH (below 3.5)",
+            "Avoid residual sugar",
+            "New or well-maintained barrels"
+          ],
+          "icon": "🐴"
+        },
+        {
+          "id": "torulaspora-delbrueckii",
+          "name": "Torulaspora delbrueckii",
+          "common_name": "Torulaspora",
+          "role": "Non-Saccharomyces co-fermenter",
+          "description": "A 'friendly' non-Saccharomyces increasingly used commercially. Produces glycerol and polysaccharides that enhance mouthfeel, while generating interesting ester profiles. Often used in co-fermentation with S. cerevisiae.",
+          "characteristics": [
+            "Low alcohol tolerance (8-9%)",
+            "Produces high glycerol",
+            "Low volatile acidity production",
+            "Creates fruity esters",
+            "Enhances mouthfeel",
+            "Used for aromatic whites"
+          ],
+          "origin": "Grape skins, soil, natural environments",
+          "alcohol_tolerance": "8-9%",
+          "optimal_temperature": "15-25°C",
+          "flavor_contribution": "Fruity esters, enhanced mouthfeel, complexity",
+          "commercial_use": "Lallemand Biodiva, Prelude, Level2",
+          "pairing": "Co-inoculated with S. cerevisiae, which takes over as alcohol rises",
+          "icon": "🍑"
+        },
+        {
+          "id": "metschnikowia-pulcherrima",
+          "name": "Metschnikowia pulcherrima",
+          "common_name": "Metschnikowia",
+          "role": "Non-Saccharomyces co-fermenter",
+          "description": "Naturally present early in wild fermentations. Releases thiols (tropical aromas) from grape precursors more effectively than many S. cerevisiae strains. Increasingly used for Sauvignon Blanc.",
+          "characteristics": [
+            "Very low alcohol tolerance (4-5%)",
+            "Excellent thiol release (tropical aromas)",
+            "Reduces volatile acidity",
+            "Short fermentation phase",
+            "Needs S. cerevisiae to complete fermentation"
+          ],
+          "origin": "Grape skins, flowers, natural environments",
+          "alcohol_tolerance": "4-5%",
+          "optimal_temperature": "15-20°C",
+          "flavor_contribution": "Tropical thiols (passionfruit, grapefruit), reduced VA",
+          "commercial_use": "Flavia (Chr. Hansen), used for Sauvignon Blanc",
+          "icon": "🥭"
+        },
+        {
+          "id": "lachancea-thermotolerans",
+          "name": "Lachancea thermotolerans",
+          "common_name": "Lachancea",
+          "role": "Non-Saccharomyces co-fermenter",
+          "description": "Produces lactic acid during fermentation, naturally acidifying wine without malolactic fermentation. Increasingly valuable for warm-climate wines that lack natural acidity.",
+          "characteristics": [
+            "Produces lactic acid (not just ethanol)",
+            "Maintains natural acidity",
+            "Moderate alcohol tolerance (9%)",
+            "Useful for warm-climate wines",
+            "Can substitute for acidification"
+          ],
+          "origin": "Grapes, soil, insects",
+          "alcohol_tolerance": "9%",
+          "optimal_temperature": "20-25°C",
+          "flavor_contribution": "Lactic acid (freshness), maintains acidity",
+          "commercial_use": "Laktia (Lallemand), Concerto (Chr. Hansen)",
+          "climate_change_relevance": "Helps address declining acidity in warming regions",
+          "icon": "🍋"
+        },
+        {
+          "id": "pichia-kluyveri",
+          "name": "Pichia kluyveri",
+          "common_name": "Pichia",
+          "role": "Non-Saccharomyces co-fermenter",
+          "description": "Present early in wild fermentations. Produces high levels of esters, particularly fruity and floral compounds. Used to enhance aromatic complexity.",
+          "characteristics": [
+            "Very low alcohol tolerance (3-4%)",
+            "High ester production",
+            "Floral and fruity aromas",
+            "Very short fermentation phase",
+            "Must be followed by S. cerevisiae"
+          ],
+          "origin": "Grape skins, natural fermentations",
+          "alcohol_tolerance": "3-4%",
+          "optimal_temperature": "15-20°C",
+          "flavor_contribution": "Rose, floral, fruity esters",
+          "commercial_use": "Frootzen (Chr. Hansen)",
+          "icon": "🌹"
+        },
+        {
+          "id": "schizosaccharomyces-pombe",
+          "name": "Schizosaccharomyces pombe",
+          "common_name": "Fission Yeast",
+          "role": "Deacidification specialist",
+          "description": "Unlike most yeasts (budding), S. pombe divides by fission. Its unique metabolism converts malic acid to ethanol, naturally deacidifying wine. Used in warm regions or high-acid vintages.",
+          "characteristics": [
+            "Metabolizes malic acid to ethanol",
+            "Natural deacidification",
+            "High alcohol tolerance (15%)",
+            "Different cell division (fission, not budding)",
+            "Can replace chemical deacidification"
+          ],
+          "origin": "Africa, tropical regions",
+          "alcohol_tolerance": "15%",
+          "optimal_temperature": "25-30°C",
+          "flavor_contribution": "Neutral, mainly used for acid reduction",
+          "commercial_use": "ProMalic (Proenol)",
+          "unique_metabolism": "Malic acid → Ethanol (maloalcoholic fermentation)",
+          "icon": "⚗️"
+        },
+        {
+          "id": "hanseniaspora-uvarum",
+          "name": "Hanseniaspora uvarum",
+          "common_name": "Apiculate Yeast / Kloeckera",
+          "role": "Early wild fermentation dominant",
+          "description": "The most abundant yeast on grape skins. Lemon-shaped (apiculate) cells dominate the first 24-48 hours of wild fermentation. Previously considered purely negative, now recognized for contributing esters and complexity when controlled.",
+          "characteristics": [
+            "Most abundant yeast on healthy grapes (50-75% of population)",
+            "Distinctive lemon/apiculate cell shape",
+            "Very low alcohol tolerance (4-6%)",
+            "High ester production (positive and negative)",
+            "Produces acetic acid and ethyl acetate",
+            "Dies off quickly as alcohol rises",
+            "Requires S. cerevisiae to complete fermentation"
+          ],
+          "origin": "Ubiquitous on grape skins worldwide",
+          "alcohol_tolerance": "4-6%",
+          "optimal_temperature": "15-25°C",
+          "flavor_contribution": "Fruity esters at low levels; acetate and VA at high levels",
+          "controversy": {
+            "traditional_view": "Spoilage organism producing volatile acidity and off-flavors",
+            "modern_view": "Controlled populations contribute complexity and ester diversity",
+            "research": "AWRI studies show moderate Hanseniaspora activity increases ester diversity without excessive VA"
+          },
+          "related_species": "Hanseniaspora guilliermondii, H. osmophila (more alcohol tolerant)",
+          "icon": "🍋"
+        },
+        {
+          "id": "candida-stellata",
+          "name": "Starmerella bacillaris",
+          "common_name": "Candida stellata (former name)",
+          "role": "Osmotolerant specialist / Botrytis wines",
+          "description": "Thrives in high-sugar environments where other yeasts struggle. Naturally associated with botrytized grapes. Produces glycerol and fructophilic fermentation (prefers fructose over glucose).",
+          "characteristics": [
+            "Osmotolerant (survives >40° Brix)",
+            "Fructophilic (preferentially ferments fructose)",
+            "Low alcohol tolerance (8-10%)",
+            "High glycerol production",
+            "Associated with Botrytis cinerea",
+            "Produces succinic acid"
+          ],
+          "origin": "Associated with botrytized and dried grape wines",
+          "alcohol_tolerance": "8-10%",
+          "optimal_temperature": "20-28°C",
+          "flavor_contribution": "Glycerol (body), succinic acid (savory notes)",
+          "relevance": "Important in Sauternes, Tokaji, Trockenbeerenauslese production",
+          "commercial_use": "Not widely commercialized; naturally present in botrytis vineyards",
+          "fructophilic_note": "By preferentially consuming fructose, leaves glucose-dominant residual sugar which tastes less sweet",
+          "icon": "🍯"
+        },
+        {
+          "id": "zygosaccharomyces-bailii",
+          "name": "Zygosaccharomyces bailii",
+          "common_name": "Zygo",
+          "role": "Spoilage organism",
+          "description": "The wine industry's most problematic spoilage yeast. Extremely resistant to preservatives, can grow in bottled wine, and survives conditions that kill other yeasts. A nightmare for sweet wine producers.",
+          "characteristics": [
+            "Extremely SO2 resistant (survives >200 mg/L)",
+            "Acid tolerant (grows at pH 2.0)",
+            "Preservative resistant (survives sorbate, benzoate)",
+            "Osmotolerant (grows at >60% sugar)",
+            "Can referment bottled sweet wines",
+            "Forms haze and sediment",
+            "Produces off-flavors (acetic, estery)"
+          ],
+          "origin": "Winery equipment, must, wines",
+          "alcohol_tolerance": "15%+",
+          "optimal_temperature": "25-30°C",
+          "flavor_contribution": "Negative: acetic acid, ethyl acetate, off-flavors",
+          "threat_level": "High - causes recalls, bottle fermentation in sweet wines",
+          "prevention": [
+            "Sterile filtration (0.45 μm)",
+            "Very high SO2 (though resistant)",
+            "Hot bottling (>50°C)",
+            "DMDC (Velcorin) treatment",
+            "Strict hygiene"
+          ],
+          "icon": "⚠️"
+        },
+        {
+          "id": "saccharomyces-uvarum",
+          "name": "Saccharomyces uvarum",
+          "common_name": "Cryotolerant Wine Yeast",
+          "role": "Cold-climate fermentation specialist",
+          "description": "A cold-tolerant Saccharomyces species historically found in cool-climate wine regions. Ferments well at temperatures that stress S. cerevisiae. Being used for hybrid breeding programs.",
+          "characteristics": [
+            "Excellent cold tolerance (ferments at 6-10°C)",
+            "Produces higher glycerol than S. cerevisiae",
+            "Different ester profile (more phenylethyl acetate)",
+            "Slower fermentation than S. cerevisiae",
+            "Natural in Alsace, Germany, cool-climate regions",
+            "Used in hybrid breeding with S. cerevisiae"
+          ],
+          "origin": "Cool-climate wine regions, especially Alsace and Germany",
+          "alcohol_tolerance": "12-14%",
+          "optimal_temperature": "10-20°C",
+          "flavor_contribution": "Floral esters, rose notes, enhanced glycerol",
+          "hybrid_breeding": "S. cerevisiae × S. uvarum hybrids combine cold tolerance with fermentation vigor (Lallemand Cross Evolution series)",
+          "icon": "❄️"
+        }
+      ]
+    },
+    "strains": {
+      "title": "Commercial Yeast Strains",
+      "description": "Hundreds of commercial yeast strains are available, each selected for specific fermentation characteristics, flavor profiles, and stress tolerance. Choosing the right strain is a critical winemaking decision.",
+      "categories": {
+        "neutral": "Clean fermentation, minimal flavor impact, lets fruit speak",
+        "aromatic": "Enhances varietal character, produces specific esters and thiols",
+        "robust": "High alcohol tolerance, stress resistant, finishes difficult fermentations",
+        "specialty": "Specific applications: sparkling, high residual sugar, stuck fermentation restart"
+      },
+      "strains": [
+        {
+          "id": "ec-1118",
+          "name": "EC-1118",
+          "brand": "Lalvin",
+          "full_name": "Prise de Mousse",
+          "species": "Saccharomyces bayanus",
+          "category": "Robust / Neutral",
+          "origin": "Champagne, France",
+          "description": "The world's most widely used wine yeast. Extremely reliable, stress-tolerant, and neutral. The default choice when in doubt.",
+          "characteristics": [
+            "Very high alcohol tolerance (18%+)",
+            "Cold tolerant (10-30°C range)",
+            "Low nutrient requirements",
+            "Fast, complete fermentation",
+            "Neutral flavor profile",
+            "Excellent for restarting stuck fermentations",
+            "Compacts well (good for riddling sparkling)"
+          ],
+          "alcohol_tolerance": "18%+",
+          "temperature_range": "10-30°C (50-86°F)",
+          "fermentation_speed": "Fast",
+          "nutrient_needs": "Low",
+          "flavor_profile": {
+            "character": "Neutral, clean",
+            "esters": "Low",
+            "impact": "Minimal - lets fruit express"
+          },
+          "best_for": ["Sparkling wine (secondary fermentation)", "High-sugar musts", "Stuck fermentation restart", "Any wine where reliability is priority"],
+          "wine_styles": ["Champagne", "Sparkling", "Clean whites", "Any style requiring neutral fermentation"],
+          "so2_tolerance": "High",
+          "flocculation": "High",
+          "killer_factor": "Killer positive",
+          "popularity": "The most used wine yeast globally",
+          "icon": "🍾"
+        },
+        {
+          "id": "rc212",
+          "name": "RC212",
+          "brand": "Lalvin",
+          "full_name": "Bourgorouge",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Burgundy, France (INRA selection)",
+          "description": "Selected specifically for Pinot Noir. Enhances color extraction, produces spicy and fruity esters, and promotes complexity. The go-to strain for premium Pinot.",
+          "characteristics": [
+            "Excellent color extraction",
+            "Produces spicy, fruity esters",
+            "Moderate alcohol tolerance",
+            "Enhances mouthfeel",
+            "Promotes complexity",
+            "Benefits from MLF"
+          ],
+          "alcohol_tolerance": "16%",
+          "temperature_range": "15-30°C (59-86°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Fruity, spicy",
+            "esters": "Cherry, raspberry, spice",
+            "impact": "Moderate - enhances fruit"
+          },
+          "best_for": ["Pinot Noir", "Gamay", "Light to medium reds"],
+          "wine_styles": ["Burgundy-style Pinot", "Oregon Pinot", "Premium cool-climate reds"],
+          "so2_tolerance": "Moderate",
+          "flocculation": "Moderate",
+          "killer_factor": "Sensitive",
+          "icon": "🍒"
+        },
+        {
+          "id": "d47",
+          "name": "D47",
+          "brand": "Lalvin",
+          "full_name": "ICV-D47",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Côtes du Rhône, France",
+          "description": "Aromatic white wine specialist. Enhances tropical and citrus notes, produces rich mouthfeel. Excellent for Chardonnay, Viognier, and aromatic whites. Somewhat temperature sensitive.",
+          "characteristics": [
+            "Enhances tropical and citrus aromas",
+            "Produces rich mouthfeel",
+            "Good for barrel fermentation",
+            "Benefits from MLF",
+            "Temperature sensitive (prefers cool)",
+            "Can produce floral notes"
+          ],
+          "alcohol_tolerance": "14%",
+          "temperature_range": "15-20°C (59-68°F) - cool preferred",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate to high",
+          "flavor_profile": {
+            "character": "Tropical, citrus, floral",
+            "esters": "Pineapple, citrus, white flowers",
+            "impact": "High - adds aromatics"
+          },
+          "best_for": ["Chardonnay", "Viognier", "Gewürztraminer", "Aromatic whites"],
+          "wine_styles": ["Full-bodied whites", "Barrel-fermented Chardonnay", "Aromatic varieties"],
+          "so2_tolerance": "Moderate",
+          "flocculation": "Low",
+          "caution": "Can struggle above 20°C; may produce excessive H2S if nutrient-deficient",
+          "icon": "🍍"
+        },
+        {
+          "id": "71b",
+          "name": "71B",
+          "brand": "Lalvin",
+          "full_name": "71B-1122",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic / Specialty",
+          "origin": "Narbonne, France (INRA)",
+          "description": "The semi-sweet wine specialist. Metabolizes malic acid, softening acidity. Produces intense fruit esters. Ideal for nouveau-style wines, rosés, and fruit-forward styles.",
+          "characteristics": [
+            "Partially metabolizes malic acid (up to 40%)",
+            "High ester production (fruit-forward)",
+            "Softens wine naturally",
+            "Great for early-drinking wines",
+            "Moderate alcohol tolerance",
+            "Enhances fresh fruit character"
+          ],
+          "alcohol_tolerance": "14%",
+          "temperature_range": "15-30°C (59-86°F)",
+          "fermentation_speed": "Moderate to fast",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Intensely fruity",
+            "esters": "Banana, pear, tropical",
+            "impact": "High - very fruit-forward"
+          },
+          "best_for": ["Nouveau-style wines", "Rosés", "Semi-sweet whites", "Fruit wines"],
+          "wine_styles": ["Beaujolais Nouveau style", "Fruity rosé", "Off-dry whites", "Early-drinking reds"],
+          "so2_tolerance": "Moderate",
+          "flocculation": "Low",
+          "malic_metabolism": "Reduces malic acid up to 40%",
+          "icon": "🍌"
+        },
+        {
+          "id": "bm45",
+          "name": "BM45",
+          "brand": "Lalvin",
+          "full_name": "BM45",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic / Specialty",
+          "origin": "Tuscany, Italy (Brunello di Montalcino)",
+          "description": "Selected from Sangiovese fermentations in Montalcino. Respects variety and terroir while enhancing color and structure. The gold standard for Italian reds.",
+          "characteristics": [
+            "Enhances color and tannin",
+            "Respects varietal character",
+            "Good for high-tannin varieties",
+            "Moderate fermentation speed",
+            "Promotes complexity",
+            "Benefits from extended maceration"
+          ],
+          "alcohol_tolerance": "16%",
+          "temperature_range": "18-30°C (64-86°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Cherry, leather, earthy",
+            "esters": "Red cherry, violet",
+            "impact": "Moderate - respects fruit"
+          },
+          "best_for": ["Sangiovese", "Nebbiolo", "Italian varieties", "High-tannin reds"],
+          "wine_styles": ["Brunello di Montalcino", "Chianti Classico", "Barolo", "Super Tuscans"],
+          "so2_tolerance": "Good",
+          "flocculation": "Moderate",
+          "icon": "🍇"
+        },
+        {
+          "id": "qd145",
+          "name": "QA23",
+          "brand": "Lalvin",
+          "full_name": "QA23",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Portugal (selected for Vinho Verde)",
+          "description": "The thiol-releasing specialist. Extremely effective at converting grape precursors into tropical and citrus thiols. The choice for Sauvignon Blanc and aromatic whites.",
+          "characteristics": [
+            "Exceptional thiol release",
+            "Clean fermentation",
+            "Preserves varietal aromatics",
+            "Good at low temperatures",
+            "Low sulfur production",
+            "Excellent for aromatic whites"
+          ],
+          "alcohol_tolerance": "16%",
+          "temperature_range": "14-28°C (57-82°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Tropical, citrus, grapefruit",
+            "esters": "Passionfruit, grapefruit, citrus",
+            "impact": "High - thiol-expressive"
+          },
+          "best_for": ["Sauvignon Blanc", "Verdejo", "Albariño", "Aromatic whites"],
+          "wine_styles": ["Marlborough Sauvignon Blanc", "Loire Sauvignon", "Modern aromatic whites"],
+          "so2_tolerance": "Good",
+          "flocculation": "Low to moderate",
+          "thiol_release": "Exceptional",
+          "icon": "🍊"
+        },
+        {
+          "id": "cote-des-blancs",
+          "name": "Côte des Blancs",
+          "brand": "Red Star",
+          "full_name": "Côte des Blancs",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Specialty",
+          "origin": "Champagne, France",
+          "description": "Leaves residual sweetness due to low alcohol tolerance. Popular for German-style wines, fruit wines, and anywhere off-dry profile is desired.",
+          "characteristics": [
+            "Low alcohol tolerance (naturally stops)",
+            "Preserves residual sugar",
+            "Clean fermentation",
+            "Good for off-dry styles",
+            "Enhances fruitiness",
+            "Slow fermentation"
+          ],
+          "alcohol_tolerance": "12-14%",
+          "temperature_range": "13-24°C (55-75°F)",
+          "fermentation_speed": "Slow",
+          "nutrient_needs": "Low",
+          "flavor_profile": {
+            "character": "Clean, lets RS shine",
+            "esters": "Low",
+            "impact": "Minimal - focused on structure"
+          },
+          "best_for": ["German-style Riesling", "Off-dry wines", "Fruit wines", "Cider"],
+          "wine_styles": ["Spätlese", "Off-dry Riesling", "Semi-sweet styles"],
+          "so2_tolerance": "Moderate",
+          "flocculation": "Good",
+          "icon": "🍯"
+        },
+        {
+          "id": "vin13",
+          "name": "VIN13",
+          "brand": "Anchor Yeast",
+          "full_name": "VIN13",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "South Africa",
+          "description": "South African workhorse. Excellent ester production, particularly for Sauvignon Blanc. Enhances tropical character while maintaining freshness.",
+          "characteristics": [
+            "High ester production",
+            "Excellent for Sauvignon Blanc",
+            "Tropical fruit enhancement",
+            "Good fermentation kinetics",
+            "South African standard",
+            "Versatile"
+          ],
+          "alcohol_tolerance": "15%",
+          "temperature_range": "12-28°C (54-82°F)",
+          "fermentation_speed": "Moderate to fast",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Tropical, guava, passionfruit",
+            "esters": "Tropical, guava",
+            "impact": "High - aromatic enhancement"
+          },
+          "best_for": ["Sauvignon Blanc", "Chenin Blanc", "Aromatic whites"],
+          "wine_styles": ["Cape Sauvignon Blanc", "Tropical-style whites"],
+          "so2_tolerance": "Good",
+          "flocculation": "Moderate",
+          "icon": "🥝"
+        },
+        {
+          "id": "premier-cuvee",
+          "name": "Premier Cuvée",
+          "brand": "Red Star",
+          "full_name": "Premier Cuvée",
+          "species": "Saccharomyces bayanus",
+          "category": "Robust",
+          "origin": "USA (Davis)",
+          "description": "Strong fermenter similar to EC-1118. Very clean, reliable, and tolerant of difficult conditions. Popular home winemaking choice.",
+          "characteristics": [
+            "Very high alcohol tolerance",
+            "Clean, neutral profile",
+            "Good for difficult fermentations",
+            "Fast fermentation",
+            "Low nutrient needs",
+            "Compact lees"
+          ],
+          "alcohol_tolerance": "18%",
+          "temperature_range": "7-35°C (45-95°F)",
+          "fermentation_speed": "Fast",
+          "nutrient_needs": "Low",
+          "flavor_profile": {
+            "character": "Neutral, clean",
+            "esters": "Low",
+            "impact": "Minimal"
+          },
+          "best_for": ["Any wine", "Stuck fermentation restart", "Difficult conditions"],
+          "wine_styles": ["All styles", "High-alcohol", "Sparkling"],
+          "so2_tolerance": "High",
+          "flocculation": "High",
+          "icon": "🔬"
+        },
+        {
+          "id": "icv-gre",
+          "name": "ICV-GRE",
+          "brand": "Lalvin",
+          "full_name": "ICV-GRE",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Côtes du Rhône, France",
+          "description": "Grenache specialist. Enhances spicy, peppery notes while maintaining freshness. Excellent for Rhône-style reds and GSM blends.",
+          "characteristics": [
+            "Enhances spice and pepper notes",
+            "Maintains freshness",
+            "Good for high-alcohol fermentations",
+            "Promotes complexity",
+            "Benefits from warmth"
+          ],
+          "alcohol_tolerance": "16%",
+          "temperature_range": "18-30°C (64-86°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Spicy, peppery, red fruit",
+            "esters": "Black pepper, garrigue",
+            "impact": "Moderate to high"
+          },
+          "best_for": ["Grenache", "GSM blends", "Southern Rhône varieties"],
+          "wine_styles": ["Châteauneuf-du-Pape style", "Côtes du Rhône", "Warm-climate reds"],
+          "so2_tolerance": "Good",
+          "flocculation": "Moderate",
+          "icon": "🌶️"
+        },
+        {
+          "id": "csk",
+          "name": "CSM",
+          "brand": "Lalvin",
+          "full_name": "Cross Evolution CSM",
+          "species": "Saccharomyces cerevisiae (hybrid)",
+          "category": "Specialty",
+          "origin": "INRA France (hybrid breeding)",
+          "description": "Non-GMO hybrid yeast bred for enhanced aromatic potential. Combines traits of S. cerevisiae and S. uvarum for cold-climate fermentation and thiol release.",
+          "characteristics": [
+            "Hybrid vigor",
+            "Enhanced thiol production",
+            "Excellent cold tolerance",
+            "Fruitier than parent strains",
+            "Non-GMO crossbreeding"
+          ],
+          "alcohol_tolerance": "14%",
+          "temperature_range": "10-22°C (50-72°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Tropical, complex",
+            "esters": "Enhanced fruit",
+            "impact": "High"
+          },
+          "best_for": ["Cold-climate aromatic whites", "Sauvignon Blanc", "Cool fermentations"],
+          "wine_styles": ["Modern aromatic whites", "Cool-climate expressions"],
+          "so2_tolerance": "Good",
+          "modern_breeding": "Non-GMO hybrid selection program",
+          "icon": "🧬"
+        },
+        {
+          "id": "k1-v1116",
+          "name": "K1-V1116",
+          "brand": "Lalvin",
+          "full_name": "K1-V1116 (Killer Montpellier)",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Robust / Aromatic",
+          "origin": "Montpellier, France",
+          "description": "A competitive strain that dominates fermentations. Killer-positive factor eliminates competing yeasts. Excellent for fresh aromatic whites where it enhances floral and tropical notes.",
+          "characteristics": [
+            "Killer positive (K2+) - eliminates competing yeasts",
+            "Very competitive fermenter",
+            "High alcohol tolerance",
+            "Enhances fresh, floral aromatics",
+            "Reliable in difficult conditions",
+            "Low H2S production"
+          ],
+          "alcohol_tolerance": "18%",
+          "temperature_range": "10-35°C (50-95°F)",
+          "fermentation_speed": "Fast",
+          "nutrient_needs": "Low",
+          "flavor_profile": {
+            "character": "Fresh, floral, citrus",
+            "esters": "Citrus, tropical",
+            "impact": "Moderate - enhances freshness"
+          },
+          "best_for": ["Late-harvest wines", "Ice wine", "Aromatic whites", "Restart stuck fermentations"],
+          "wine_styles": ["Gewürztraminer", "Riesling", "Muscat", "Ice wine", "Late harvest"],
+          "so2_tolerance": "High",
+          "flocculation": "Low to moderate",
+          "killer_factor": "Killer positive (K2+)",
+          "icon": "⚔️"
+        },
+        {
+          "id": "dv10",
+          "name": "DV10",
+          "brand": "Lalvin",
+          "full_name": "DV10",
+          "species": "Saccharomyces bayanus",
+          "category": "Robust / Neutral",
+          "origin": "Champagne, France",
+          "description": "Premium Champagne yeast for secondary fermentation. Extremely cold-tolerant, pressure-resistant, and produces fine, persistent bubbles. The choice for méthode traditionnelle.",
+          "characteristics": [
+            "Very cold tolerant (6°C minimum)",
+            "Pressure tolerant (6+ atmospheres)",
+            "Excellent autolysis characteristics",
+            "Produces fine, persistent mousse",
+            "Very neutral flavor",
+            "Compact lees for riddling"
+          ],
+          "alcohol_tolerance": "17%",
+          "temperature_range": "6-35°C (43-95°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Low",
+          "flavor_profile": {
+            "character": "Very neutral",
+            "esters": "Minimal",
+            "impact": "None - preserves base wine"
+          },
+          "best_for": ["Champagne (secondary)", "Méthode traditionnelle", "Crémant", "High-end sparkling"],
+          "wine_styles": ["Champagne", "Franciacorta", "Cava", "English sparkling"],
+          "so2_tolerance": "High",
+          "flocculation": "Very high - excellent riddling",
+          "autolysis": "Superior for lees aging",
+          "icon": "🥂"
+        },
+        {
+          "id": "d254",
+          "name": "D254",
+          "brand": "Lalvin",
+          "full_name": "ICV-D254",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Southern Rhône, France",
+          "description": "Red wine specialist bred for structured, age-worthy wines. Enhances color extraction, produces intense fruit with spicy notes. Popular for Syrah and Rhône varieties.",
+          "characteristics": [
+            "Excellent color extraction and stability",
+            "Enhances tannin structure",
+            "Intense spice and dark fruit esters",
+            "High polysaccharide production (mouthfeel)",
+            "Good for extended maceration",
+            "Benefits from warm fermentation"
+          ],
+          "alcohol_tolerance": "16%",
+          "temperature_range": "20-30°C (68-86°F)",
+          "fermentation_speed": "Moderate to fast",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Spicy, dark fruit, structured",
+            "esters": "Black pepper, violet, blackberry",
+            "impact": "High - adds structure and complexity"
+          },
+          "best_for": ["Syrah", "Grenache", "Mourvèdre", "Full-bodied reds"],
+          "wine_styles": ["Hermitage", "Châteauneuf-du-Pape", "Barossa Shiraz", "Age-worthy reds"],
+          "so2_tolerance": "Good",
+          "flocculation": "Moderate",
+          "icon": "🫐"
+        },
+        {
+          "id": "cy3079",
+          "name": "CY3079",
+          "brand": "Lalvin",
+          "full_name": "CY3079 (Chablis Yeast)",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Chablis, Burgundy, France",
+          "description": "Selected from grand cru Chardonnay fermentations in Chablis. Produces elegant, mineral whites with restrained fruit. The choice for Burgundian-style Chardonnay.",
+          "characteristics": [
+            "Enhances mineral expression",
+            "Restrained fruit character",
+            "Excellent for barrel fermentation",
+            "Produces creamy mouthfeel",
+            "Stays in suspension (good for bâtonnage)",
+            "Benefits from sur lie aging"
+          ],
+          "alcohol_tolerance": "15%",
+          "temperature_range": "14-28°C (57-82°F)",
+          "fermentation_speed": "Slow to moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Mineral, elegant, restrained",
+            "esters": "Subtle citrus, white flowers",
+            "impact": "Moderate - emphasizes terroir"
+          },
+          "best_for": ["Chardonnay", "White Burgundy", "Premium barrel-fermented whites"],
+          "wine_styles": ["Chablis", "Meursault", "Puligny-Montrachet", "Elegant Chardonnay"],
+          "so2_tolerance": "Moderate",
+          "flocculation": "Low - good for lees contact",
+          "icon": "🦪"
+        },
+        {
+          "id": "bdx",
+          "name": "BDX",
+          "brand": "Lalvin",
+          "full_name": "Lalvin BDX",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Bordeaux, France",
+          "description": "Bordeaux specialist selected for Cabernet Sauvignon and Merlot. Enhances varietal character, color stability, and structured tannins. Built for age-worthy reds.",
+          "characteristics": [
+            "Excellent color extraction",
+            "Enhances Cabernet cassis character",
+            "Promotes tannin polymerization",
+            "Good for extended maceration",
+            "Low volatile acidity",
+            "Promotes malolactic fermentation compatibility"
+          ],
+          "alcohol_tolerance": "16%",
+          "temperature_range": "18-30°C (64-86°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Cassis, cedar, structured",
+            "esters": "Black currant, dark fruit",
+            "impact": "Moderate - enhances varietal character"
+          },
+          "best_for": ["Cabernet Sauvignon", "Merlot", "Bordeaux blends"],
+          "wine_styles": ["Bordeaux", "Napa Cabernet", "Margaret River", "Age-worthy blends"],
+          "so2_tolerance": "Good",
+          "flocculation": "Moderate",
+          "icon": "🏰"
+        },
+        {
+          "id": "w15",
+          "name": "W15",
+          "brand": "Lalvin",
+          "full_name": "Lalvin W15",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Neutral / Specialty",
+          "origin": "UC Davis selection",
+          "description": "Selected specifically for low H2S production. Ideal for challenging musts with low YAN or high sulfate soils. Prevents reductive characters.",
+          "characteristics": [
+            "Very low H2S production",
+            "Tolerates low-nitrogen musts",
+            "Clean fermentation character",
+            "Good for difficult conditions",
+            "Moderate alcohol tolerance",
+            "Helps prevent reduction"
+          ],
+          "alcohol_tolerance": "15%",
+          "temperature_range": "15-28°C (59-82°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Low - tolerates low YAN",
+          "flavor_profile": {
+            "character": "Clean, neutral",
+            "esters": "Low",
+            "impact": "Minimal"
+          },
+          "best_for": ["Low-nitrogen musts", "Sulfate-rich soils", "Problem vineyards"],
+          "wine_styles": ["Any style where reduction is a concern"],
+          "so2_tolerance": "Good",
+          "h2s_production": "Very low - key selection criterion",
+          "icon": "🧼"
+        },
+        {
+          "id": "uvaferm-svg",
+          "name": "SVG",
+          "brand": "Uvaferm",
+          "full_name": "Uvaferm SVG",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic",
+          "origin": "Alsace, France",
+          "description": "Alsace specialist selected for aromatic varieties. Enhances terpenes and floral notes. Produces expressive Gewürztraminer, Riesling, and Muscat.",
+          "characteristics": [
+            "Enhances terpene expression",
+            "Produces floral, spicy notes",
+            "Good residual sugar tolerance",
+            "Cold tolerant",
+            "Slow, controlled fermentation",
+            "Aromatic enhancement"
+          ],
+          "alcohol_tolerance": "14%",
+          "temperature_range": "12-26°C (54-79°F)",
+          "fermentation_speed": "Slow to moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Floral, spicy, lychee",
+            "esters": "Rose, lychee, ginger",
+            "impact": "High - maximizes aromatics"
+          },
+          "best_for": ["Gewürztraminer", "Muscat", "Riesling", "Aromatic varieties"],
+          "wine_styles": ["Alsace Grand Cru", "German Spätlese", "Aromatic whites"],
+          "so2_tolerance": "Moderate",
+          "icon": "🌸"
+        },
+        {
+          "id": "assmanshausen",
+          "name": "Assmanshausen",
+          "brand": "Various (German selection)",
+          "full_name": "Assmanshausen",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Aromatic / Specialty",
+          "origin": "Rheingau, Germany (Assmannshausen village)",
+          "description": "Classic German Spätburgunder (Pinot Noir) strain. Selected from the famous Assmannshausen vineyards. Produces silky, aromatic Pinot with red fruit character.",
+          "characteristics": [
+            "Enhances red fruit character",
+            "Silky tannin integration",
+            "Cool fermentation tolerant",
+            "Low color extraction (pale style)",
+            "Aromatic complexity",
+            "Traditional German character"
+          ],
+          "alcohol_tolerance": "14%",
+          "temperature_range": "14-28°C (57-82°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Red cherry, raspberry, earth",
+            "esters": "Red fruit, subtle spice",
+            "impact": "Moderate - elegant style"
+          },
+          "best_for": ["Spätburgunder", "Cool-climate Pinot Noir", "Elegant reds"],
+          "wine_styles": ["German Pinot Noir", "Burgundy style", "Lighter Pinot"],
+          "so2_tolerance": "Moderate",
+          "historic_note": "Assmannshausen has grown Pinot Noir since the 12th century",
+          "icon": "🍷"
+        },
+        {
+          "id": "nt116",
+          "name": "NT116",
+          "brand": "Anchor",
+          "full_name": "Anchor NT116",
+          "species": "Saccharomyces cerevisiae",
+          "category": "Specialty",
+          "origin": "South Africa",
+          "description": "Natural high SO2 producer. Protects wine during fermentation and early aging without additions. Useful for reducing sulfite use in low-intervention winemaking.",
+          "characteristics": [
+            "Produces SO2 during fermentation (30-60 mg/L)",
+            "Self-protecting fermentation",
+            "Reduces need for SO2 additions",
+            "Moderate alcohol tolerance",
+            "Clean fermentation profile",
+            "Useful for low-intervention wines"
+          ],
+          "alcohol_tolerance": "14%",
+          "temperature_range": "15-28°C (59-82°F)",
+          "fermentation_speed": "Moderate",
+          "nutrient_needs": "Moderate",
+          "flavor_profile": {
+            "character": "Clean, neutral",
+            "esters": "Low",
+            "impact": "Minimal"
+          },
+          "best_for": ["Low-intervention wines", "Reduced sulfite winemaking", "Fresh whites"],
+          "wine_styles": ["Natural-leaning wines", "Low-sulfite production"],
+          "so2_production": "30-60 mg/L produced during fermentation",
+          "relevance": "Growing interest for sulfite-sensitive consumers",
+          "icon": "🛡️"
+        }
+      ]
+    },
+    "selection": {
+      "title": "Yeast Selection Criteria",
+      "description": "Choosing yeast requires matching strain characteristics to grape, style, and fermentation conditions. No single strain is best for everything.",
+      "factors": [
+        {
+          "factor": "Wine Style",
+          "description": "The most important consideration. What character do you want in the finished wine?",
+          "considerations": [
+            "Neutral strains for terroir expression",
+            "Aromatic strains for fruit enhancement",
+            "Specialty strains for specific effects"
+          ],
+          "examples": [
+            {"style": "Terroir-driven Burgundy", "strain": "Neutral or indigenous"},
+            {"style": "Tropical Sauvignon Blanc", "strain": "QA23, VIN13"},
+            {"style": "Nouveau-style fruity", "strain": "71B"},
+            {"style": "Classic Champagne", "strain": "EC-1118"},
+            {"style": "Full-bodied Italian red", "strain": "BM45"}
+          ]
+        },
+        {
+          "factor": "Alcohol Tolerance",
+          "description": "Must match expected final alcohol. High-sugar musts need high-tolerance yeasts.",
+          "rankings": [
+            {"category": "Very High (17%+)", "strains": ["EC-1118", "Premier Cuvée", "DV10"]},
+            {"category": "High (15-17%)", "strains": ["RC212", "BM45", "QA23"]},
+            {"category": "Moderate (13-15%)", "strains": ["D47", "71B"]},
+            {"category": "Low (under 13%)", "strains": ["Côte des Blancs", "Some non-Sacch"]}
+          ]
+        },
+        {
+          "factor": "Temperature Range",
+          "description": "Must match fermentation temperature you can achieve/maintain.",
+          "considerations": [
+            "Cool fermentation (13-18°C): Preserves aromatics, slower",
+            "Moderate (18-25°C): Standard range, most strains",
+            "Warm (25-30°C): Faster, more extraction, stress risk"
+          ],
+          "rankings": [
+            {"category": "Cold tolerant", "strains": ["EC-1118", "QA23", "CSM hybrid"]},
+            {"category": "Moderate range", "strains": ["Most commercial strains"]},
+            {"category": "Warm tolerant", "strains": ["BM45", "ICV-GRE", "robust strains"]}
+          ]
+        },
+        {
+          "factor": "Nutrient Requirements",
+          "description": "Low-nitrogen musts need low-nutrient yeasts to avoid stuck fermentation.",
+          "rankings": [
+            {"category": "Low needs", "strains": ["EC-1118", "Premier Cuvée"]},
+            {"category": "Moderate needs", "strains": ["Most strains"]},
+            {"category": "High needs", "strains": ["D47", "Some aromatic strains"]}
+          ],
+          "caution": "Nutrient-deficient fermentations produce H2S (rotten egg)"
+        },
+        {
+          "factor": "Fermentation Speed",
+          "description": "Fast fermenters for efficiency; slow for controlled extraction and complexity.",
+          "rankings": [
+            {"category": "Fast", "strains": ["EC-1118", "Premier Cuvée"]},
+            {"category": "Moderate", "strains": ["RC212", "QA23", "BM45"]},
+            {"category": "Slow", "strains": ["Côte des Blancs", "Some specialty"]}
+          ]
+        },
+        {
+          "factor": "Flocculation",
+          "description": "How well yeast settles after fermentation. High flocculation = cleaner lees, easier riddling.",
+          "rankings": [
+            {"category": "High (compact)", "strains": ["EC-1118", "Premier Cuvée"]},
+            {"category": "Moderate", "strains": ["RC212", "BM45"]},
+            {"category": "Low (stays suspended)", "strains": ["D47", "71B"]}
+          ],
+          "relevance": "Critical for sparkling wine (riddling) and clarity"
+        }
+      ],
+      "quick_reference": {
+        "sauvignon_blanc": ["QA23", "VIN13", "Metschnikowia co-ferment"],
+        "chardonnay": ["D47", "CY3079", "EC-1118 (neutral)"],
+        "pinot_noir": ["RC212", "BM45", "Indigenous"],
+        "cabernet_sauvignon": ["BM45", "D254", "Indigenous"],
+        "sangiovese": ["BM45"],
+        "syrah": ["ICV-GRE", "D254"],
+        "riesling": ["QA23", "Côte des Blancs (off-dry)", "EC-1118"],
+        "sparkling": ["EC-1118", "DV10", "Premier Cuvée"],
+        "stuck_fermentation": ["EC-1118", "Premier Cuvée", "K1-V1116"]
+      }
+    },
+    "fermentation": {
+      "title": "Fermentation Science",
+      "description": "Fermentation is a complex biochemical process. Understanding the science helps prevent problems and optimize quality.",
+      "stages": [
+        {
+          "stage": "Lag Phase",
+          "duration": "1-3 days",
+          "description": "Yeast acclimates to must conditions. Cell division begins. No visible fermentation yet.",
+          "what_happens": "Yeast synthesizes enzymes, builds cell membranes, prepares for growth",
+          "concerns": "Extended lag = risk of spoilage organisms, oxidation",
+          "management": "Proper rehydration, yeast nutrients, temperature control"
+        },
+        {
+          "stage": "Exponential Growth",
+          "duration": "2-5 days",
+          "description": "Rapid yeast multiplication. Vigorous fermentation begins. CO2 production visible.",
+          "what_happens": "Cell count doubles every 2-4 hours. Sugar consumption accelerates. Temperature rises.",
+          "concerns": "Excessive heat, foam-over, nutrient depletion",
+          "management": "Temperature control, space for foam, nutrient additions"
+        },
+        {
+          "stage": "Stationary Phase",
+          "duration": "Variable (days to weeks)",
+          "description": "Growth slows as nutrients deplete. Fermentation continues but cell division stops.",
+          "what_happens": "Yeast maintains activity using stored reserves. Alcohol accumulates.",
+          "concerns": "Stuck fermentation if nutrients depleted",
+          "management": "Monitor sugar consumption, nutrient additions if needed"
+        },
+        {
+          "stage": "Decline/Death Phase",
+          "duration": "After fermentation complete",
+          "description": "Sugar exhausted or alcohol toxic. Yeast dies and settles as lees.",
+          "what_happens": "Autolysis releases compounds; can add complexity (sur lie aging)",
+          "concerns": "Off-flavors if excessive autolysis",
+          "management": "Timely racking or intentional lees contact depending on style"
+        }
+      ],
+      "stuck_fermentation": {
+        "title": "Stuck Fermentation",
+        "description": "When fermentation stops before all sugar is consumed. One of the most common winemaking problems.",
+        "causes": [
+          {"cause": "Nutrient deficiency", "detail": "Low YAN (yeast assimilable nitrogen)", "solution": "Add DAP or organic nitrogen"},
+          {"cause": "Temperature extremes", "detail": "Too cold (<13°C) or too hot (>35°C)", "solution": "Adjust temperature"},
+          {"cause": "High alcohol", "detail": "Exceeds yeast tolerance", "solution": "Use high-tolerance strain to restart"},
+          {"cause": "High sugar", "detail": "Osmotic stress from very high Brix", "solution": "Dilute or use osmotolerant yeast"},
+          {"cause": "Killer yeast", "detail": "Wild killer strain eliminated inoculated yeast", "solution": "Use killer-positive restart strain"},
+          {"cause": "Pesticide residue", "detail": "Fungicides toxic to yeast", "solution": "Avoid late sprays, use hardy yeast"},
+          {"cause": "SO2 excess", "detail": "Too much sulfite at crush", "solution": "Reduce sulfiting, wait before inoculation"}
+        ],
+        "prevention": [
+          "Measure and adjust YAN before fermentation",
+          "Maintain temperature in optimal range",
+          "Properly rehydrate dried yeast",
+          "Use appropriate yeast for expected alcohol",
+          "Add nutrients in stages (not all at once)",
+          "Monitor fermentation progress daily"
+        ],
+        "restart_protocol": [
+          "Rack off gross lees",
+          "Warm to 20-22°C",
+          "Prepare vigorous starter with fresh yeast (EC-1118)",
+          "Gradually acclimate starter to stuck wine",
+          "Add restart nutrients",
+          "Monitor closely"
+        ]
+      },
+      "temperature": {
+        "title": "Temperature Effects",
+        "ranges": [
+          {
+            "range": "10-15°C (50-59°F)",
+            "effect": "Very slow fermentation, maximum aromatic preservation, risk of stuck",
+            "use": "Aromatic whites, Sauvignon Blanc, Riesling"
+          },
+          {
+            "range": "15-20°C (59-68°F)",
+            "effect": "Slow fermentation, good aromatic preservation, balanced",
+            "use": "Premium whites, cool-fermented reds"
+          },
+          {
+            "range": "20-25°C (68-77°F)",
+            "effect": "Moderate fermentation, standard for most wines",
+            "use": "Most reds and whites"
+          },
+          {
+            "range": "25-30°C (77-86°F)",
+            "effect": "Fast fermentation, more extraction, stress risk",
+            "use": "Full extraction reds, warm-climate wines"
+          },
+          {
+            "range": "Above 30°C (86°F)",
+            "effect": "Stress zone, risk of stuck fermentation, off-flavors",
+            "use": "Avoid - yeast distress"
+          }
+        ],
+        "science": "Higher temperatures increase yeast metabolism but also stress. Volatiles escape more at warm temperatures. Cold fermentation preserves aromatics but slows kinetics."
+      },
+      "nutrients": {
+        "title": "Yeast Nutrients",
+        "description": "Yeast needs nitrogen, vitamins, and minerals beyond sugar to ferment successfully.",
+        "yan": {
+          "title": "YAN (Yeast Assimilable Nitrogen)",
+          "description": "The nitrogen available for yeast to use. Critical for fermentation health.",
+          "components": ["Ammonia (inorganic)", "Free amino acids (organic)"],
+          "targets": {
+            "low_sugar": "150-200 mg/L YAN",
+            "moderate_sugar": "200-250 mg/L YAN",
+            "high_sugar": "250-350 mg/L YAN"
+          },
+          "deficiency_signs": ["Slow fermentation", "H2S production (rotten egg)", "Stuck fermentation"]
+        },
+        "additions": [
+          {
+            "product": "DAP (Diammonium Phosphate)",
+            "type": "Inorganic nitrogen",
+            "timing": "Mid-fermentation (after 1/3 sugar depleted)",
+            "notes": "Cheap, effective, but excessive use can stress yeast"
+          },
+          {
+            "product": "Organic nitrogen (Fermaid-O, etc.)",
+            "type": "Amino acids",
+            "timing": "Early to mid-fermentation",
+            "notes": "Preferred by yeast, more complex nutrition"
+          },
+          {
+            "product": "Complete nutrients (Fermaid-K, etc.)",
+            "type": "Mixed organic/inorganic + vitamins",
+            "timing": "Staggered additions",
+            "notes": "Best overall fermentation health"
+          }
+        ],
+        "timing": "Best in 2-3 additions: at lag phase, 1/3 sugar depletion, 2/3 sugar depletion. Never add after 2/3 depletion."
+      },
+      "oxygen": {
+        "title": "Oxygen Management",
+        "description": "Yeast requires some oxygen despite being a 'anaerobic' process. Understanding when to provide and exclude oxygen is critical.",
+        "yeast_oxygen_needs": {
+          "rehydration": "Critical. Active dry yeast needs 5-10 mg/L O2 during rehydration for membrane synthesis. Use aerated water or commercial rehydration nutrients.",
+          "lag_phase": "Helpful. Small amounts of oxygen help yeast build healthy cell membranes (sterols, unsaturated fatty acids).",
+          "active_fermentation": "Generally excluded. CO2 production creates protective blanket. Excessive O2 wastes yeast energy and can produce acetaldhyde.",
+          "late_fermentation": "Some strains benefit from micro-oxygenation for completing fermentation."
+        },
+        "effects_of_oxygen": {
+          "positive": ["Healthier yeast membranes", "Reduces H2S production", "Helps color stability", "Can assist stuck fermentation restart"],
+          "negative": ["Acetaldehyde accumulation", "Oxidized/bruised fruit", "Premature browning", "Encourages acetic acid bacteria"]
+        },
+        "rehydration_protocol": {
+          "temperature": "35-40°C (95-104°F) water",
+          "duration": "15-20 minutes",
+          "ratio": "10:1 water to yeast",
+          "nutrients": "Go-Ferm or similar rehydration nutrient recommended",
+          "acclimation": "Slowly add must to starter before inoculation to acclimate to temperature"
+        }
+      },
+      "cap_management": {
+        "title": "Cap Management (Red Wine)",
+        "description": "During red wine fermentation, skins and solids float to form a 'cap.' Managing this cap affects extraction and wine quality.",
+        "methods": [
+          {
+            "technique": "Pigeage (Punch-down)",
+            "description": "Manually or mechanically pushing cap down into wine",
+            "extraction": "Moderate - more gentle",
+            "oxygenation": "Minimal",
+            "character": "Fine-grained tannins, elegant",
+            "best_for": "Burgundy, Pinot Noir, delicate reds",
+            "frequency": "2-4 times daily"
+          },
+          {
+            "technique": "Remontage (Pump-over)",
+            "description": "Pumping wine from bottom over cap",
+            "extraction": "Aggressive - more extraction",
+            "oxygenation": "High (wine exposed to air)",
+            "character": "Bigger tannins, more color",
+            "best_for": "Cabernet, Syrah, robust reds",
+            "frequency": "1-3 times daily"
+          },
+          {
+            "technique": "Délestage (Rack and Return)",
+            "description": "Draining wine off, letting cap fall, splashing back",
+            "extraction": "Moderate",
+            "oxygenation": "Very high",
+            "character": "Soft tannins, removes seeds",
+            "best_for": "Color stability, premium reds"
+          },
+          {
+            "technique": "Rotary Fermenter",
+            "description": "Horizontal rotating tank keeps cap mixed",
+            "extraction": "High, fast",
+            "oxygenation": "Variable",
+            "character": "Efficient extraction, can be aggressive",
+            "best_for": "Volume production, consistent extraction"
+          },
+          {
+            "technique": "Submerged Cap",
+            "description": "Screen holds cap below surface throughout",
+            "extraction": "Continuous, gentle",
+            "oxygenation": "Minimal - reductive conditions",
+            "character": "Fruit-forward, soft tannins",
+            "best_for": "Fresh, modern reds"
+          }
+        ]
+      },
+      "mlf_interaction": {
+        "title": "MLF Interaction with Alcoholic Fermentation",
+        "description": "Malolactic fermentation (MLF) converts sharp malic acid to softer lactic acid. Timing relative to alcoholic fermentation matters.",
+        "options": {
+          "sequential": {
+            "description": "Complete AF, then inoculate MLB",
+            "advantages": ["Full control", "Can choose to block MLF", "Traditional approach"],
+            "disadvantages": ["Higher alcohol may stress bacteria", "Lower nutrients available", "Can take weeks to complete"]
+          },
+          "co_inoculation": {
+            "description": "Add MLB at same time as yeast or 24-48 hours later",
+            "advantages": ["Faster overall fermentation", "Better integration", "Less diacetyl", "Works in high-alcohol wines"],
+            "disadvantages": ["Less control", "Must use compatible strains", "Harder to prevent MLF if unwanted"]
+          }
+        },
+        "compatibility": {
+          "yeast_strain_matters": "Some yeasts inhibit MLB (high SO2 production, competitive exclusion). Others are 'MLF-compatible.'",
+          "mlf_friendly_yeasts": ["RC212", "BM45", "D254", "Most Lalvin aromatic strains"],
+          "mlf_inhibiting_yeasts": ["Some high SO2 producers", "Highly competitive strains"]
+        },
+        "nutrients_for_mlf": "Yeast consumes nutrients MLB needs. Consider bacterial nutrients if sequential MLF is slow."
+      },
+      "diagnosing_problems": {
+        "title": "Diagnosing Fermentation Problems",
+        "symptoms": [
+          {
+            "symptom": "Fermentation won't start (extended lag)",
+            "possible_causes": ["Must too cold", "Excessive SO2", "Yeast not properly rehydrated", "Old or dead yeast", "Pesticide residue"],
+            "solutions": ["Warm to 20°C", "Wait 24h for SO2 to bind", "Re-inoculate with fresh yeast", "Check yeast viability"]
+          },
+          {
+            "symptom": "Rotten egg smell (H2S)",
+            "possible_causes": ["Nitrogen deficiency", "Vitamin deficiency", "Excessive elemental sulfur residue", "Certain yeast strains", "Heavy lees"],
+            "solutions": ["Add organic nitrogen immediately", "Splash rack to aerate", "Add copper sulfate (last resort)", "Rack off lees"]
+          },
+          {
+            "symptom": "Fermentation slowing or stopping",
+            "possible_causes": ["Temperature drop", "Nutrient depletion", "Alcohol toxicity", "Killer yeast", "Yeast strain limits"],
+            "solutions": ["Warm to 20-22°C", "Add nutrients", "Check alcohol vs. strain tolerance", "Re-inoculate with killer-positive strain"]
+          },
+          {
+            "symptom": "Excessive foam",
+            "possible_causes": ["High protein must", "Vigorous strain", "Warm temperature", "Nutrient imbalance"],
+            "solutions": ["Use larger headspace", "Lower temperature", "Add anti-foam agent (food-grade)", "Punch down foam cap"]
+          },
+          {
+            "symptom": "Vinegar smell during fermentation",
+            "possible_causes": ["Acetobacter contamination", "Excessive Hanseniaspora", "Damaged fruit", "Oxygen exposure"],
+            "solutions": ["Improve hygiene", "Add SO2 if early enough", "Complete fermentation quickly", "Minimize air contact"]
+          }
+        ]
+      }
+    },
+    "compounds": {
+      "title": "Flavor Compounds",
+      "description": "Yeast produces hundreds of compounds beyond ethanol. These shape wine character as much as grape variety. Understanding yeast biochemistry is essential for managing wine flavor.",
+      "overview": {
+        "total_compounds": "Fermentation produces 400+ volatile compounds in addition to ethanol and CO2",
+        "key_categories": ["Esters (fruity)", "Higher alcohols (body/harshness)", "Aldehydes (oxidation)", "Thiols (tropical)", "Organic acids", "Sulfur compounds (reductive)", "Glycerol (mouthfeel)", "Volatile phenols (Brett)"],
+        "concentration_matters": "Most compounds have threshold concentrations below which they're not perceived. The interaction between compounds creates overall 'flavor integration.'"
+      },
+      "categories": [
+        {
+          "id": "esters",
+          "name": "Esters",
+          "description": "Fruity, floral aromas. The primary positive contribution of fermentation.",
+          "formation": "Enzymatic reaction between alcohols and organic acids",
+          "aroma_character": "Fruity, floral, candy-like",
+          "factors_increasing": ["Cool fermentation", "Aromatic yeast strains", "Clean juice"],
+          "factors_decreasing": ["High temperature", "High SO2", "Nutrient stress"],
+          "examples": [
+            {"compound": "Ethyl acetate", "aroma": "Fruity, solvent at high levels", "threshold": "150 mg/L"},
+            {"compound": "Isoamyl acetate", "aroma": "Banana, pear drops", "threshold": "0.03 mg/L"},
+            {"compound": "Ethyl hexanoate", "aroma": "Apple, anise", "threshold": "0.01 mg/L"},
+            {"compound": "Ethyl octanoate", "aroma": "Tropical, pear", "threshold": "0.005 mg/L"},
+            {"compound": "Phenylethyl acetate", "aroma": "Rose, floral, honey", "threshold": "0.25 mg/L"}
+          ],
+          "icon": "🍎"
+        },
+        {
+          "id": "higher-alcohols",
+          "name": "Higher Alcohols (Fusel Oils)",
+          "description": "Complex alcohols heavier than ethanol. Moderate levels add body; excess causes harshness.",
+          "formation": "Amino acid metabolism (Ehrlich pathway)",
+          "aroma_character": "Solvent-like at high levels, adds complexity at low levels",
+          "factors_increasing": ["High temperature", "Amino acid deficiency", "Anaerobic stress"],
+          "factors_decreasing": ["Cool fermentation", "Adequate nitrogen"],
+          "examples": [
+            {"compound": "Isoamyl alcohol", "aroma": "Solvent, harsh", "threshold": "30 mg/L"},
+            {"compound": "2-Phenylethanol", "aroma": "Rose, floral (positive)", "threshold": "10 mg/L"},
+            {"compound": "Isobutanol", "aroma": "Solvent", "threshold": "40 mg/L"},
+            {"compound": "n-Propanol", "aroma": "Alcohol", "threshold": "306 mg/L"}
+          ],
+          "balance": "Higher alcohols are precursors to esters, so some formation is necessary",
+          "icon": "⚗️"
+        },
+        {
+          "id": "aldehydes",
+          "name": "Aldehydes",
+          "description": "Reactive compounds, mostly oxidized away during fermentation. Acetaldehyde is key.",
+          "formation": "Oxidation of alcohols, intermediate in ethanol production",
+          "examples": [
+            {"compound": "Acetaldehyde", "aroma": "Green apple, nutty", "threshold": "100-125 mg/L", "notes": "Key Sherry character; fault in table wine"}
+          ],
+          "significance": "Acetaldehyde binds SO2, reducing free SO2. Also involved in color stability.",
+          "icon": "🍏"
+        },
+        {
+          "id": "sulfur-compounds",
+          "name": "Sulfur Compounds",
+          "description": "Mostly negative (reductive). Produced under stress, particularly nitrogen deficiency.",
+          "formation": "Sulfur metabolism, amino acid breakdown",
+          "aroma_character": "Rotten egg, rubber, struck match, garlic",
+          "causes": [
+            "Nitrogen deficiency",
+            "Temperature stress",
+            "Vitamin deficiency",
+            "Heavy metals (copper deficiency)",
+            "Certain yeast strains"
+          ],
+          "examples": [
+            {"compound": "H2S (hydrogen sulfide)", "aroma": "Rotten egg", "threshold": "1-2 μg/L"},
+            {"compound": "Mercaptans", "aroma": "Rubber, garlic, onion", "threshold": "Variable"},
+            {"compound": "Dimethyl sulfide (DMS)", "aroma": "Cooked corn, truffle", "threshold": "25 μg/L"}
+          ],
+          "prevention": "Adequate YAN, proper temperature, healthy yeast",
+          "remediation": "Splash racking, copper fining (controversial), aeration",
+          "icon": "🥚"
+        },
+        {
+          "id": "glycerol",
+          "name": "Glycerol",
+          "description": "A polyol (sugar alcohol) that adds body and sweetness perception.",
+          "formation": "Byproduct of glycolysis, especially under stress",
+          "contribution": "Viscosity, mouthfeel, perceived sweetness",
+          "levels": "Typically 5-15 g/L; higher in botrytized wines",
+          "factors_increasing": ["Non-Saccharomyces yeasts (Torulaspora)", "Botrytis", "Osmotic stress"],
+          "icon": "💧"
+        },
+        {
+          "id": "volatile-phenols",
+          "name": "Volatile Phenols",
+          "description": "Phenolic compounds, mostly from Brettanomyces. Also medicinal notes from some yeasts.",
+          "formation": "Enzymatic conversion of grape-derived precursors (hydroxycinnamic acids)",
+          "examples": [
+            {"compound": "4-Ethylphenol (4-EP)", "aroma": "Band-aid, barnyard, horse stable", "threshold": "230-440 μg/L", "source": "Brett"},
+            {"compound": "4-Ethylguaiacol (4-EG)", "aroma": "Smoke, clove, spice", "threshold": "33-110 μg/L", "source": "Brett"},
+            {"compound": "4-Vinylphenol", "aroma": "Medicinal, phenolic", "threshold": "180 μg/L", "source": "Some S. cerevisiae (POF+)"},
+            {"compound": "4-Vinylguaiacol", "aroma": "Clove-like", "threshold": "40 μg/L", "source": "POF+ yeasts"}
+          ],
+          "pof_positive_yeasts": "Some S. cerevisiae strains have active POF (phenolic off-flavor) genes that produce vinyl phenols. These strains are avoided for wine but valued in Belgian wheat beers.",
+          "icon": "🐴"
+        },
+        {
+          "id": "thiols",
+          "name": "Varietal Thiols",
+          "description": "Sulfur-containing compounds responsible for tropical and citrus aromas in Sauvignon Blanc, Colombard, and other varieties. Not produced de novo by yeast but released from odorless grape precursors.",
+          "formation": "Yeast enzymes (carbon-sulfur lyases) cleave cysteine or glutathione conjugates in grapes, releasing volatile thiols",
+          "aroma_character": "Tropical fruit, passionfruit, grapefruit, citrus, boxwood",
+          "importance": "Thiols define the character of modern Sauvignon Blanc. Marlborough style depends on thiol release.",
+          "key_compounds": [
+            {"compound": "3-MH (3-mercaptohexan-1-ol)", "aroma": "Grapefruit, passionfruit", "threshold": "60 ng/L", "notes": "Primary Sauvignon Blanc thiol"},
+            {"compound": "3-MHA (3-mercaptohexyl acetate)", "aroma": "Passionfruit, boxwood", "threshold": "4 ng/L", "notes": "Acetate ester of 3-MH, more potent"},
+            {"compound": "4-MMP (4-mercapto-4-methylpentan-2-one)", "aroma": "Boxwood, blackcurrant bud, cat urine", "threshold": "0.8 ng/L", "notes": "Extremely potent, present in Sauvignon Blanc and Scheurebe"}
+          ],
+          "yeast_differences": {
+            "high_releasers": ["QA23", "VIN13", "X5", "Metschnikowia pulcherrima"],
+            "moderate_releasers": ["VL3", "EC-1118"],
+            "mechanism": "Yeast strains differ in carbon-sulfur lyase activity and ability to acetylate 3-MH to 3-MHA"
+          },
+          "winemaking_factors": {
+            "increases_thiols": ["Skin contact", "Reductive handling", "Cool fermentation", "Inert gas protection", "Copper chelation", "Non-Saccharomyces co-ferment"],
+            "decreases_thiols": ["Oxidation", "Copper fining", "UV exposure", "High SO2 at crush", "Hot fermentation"]
+          },
+          "icon": "🍈"
+        },
+        {
+          "id": "organic-acids",
+          "name": "Organic Acids",
+          "description": "Yeast produces and modifies organic acids during fermentation. These affect wine acidity, flavor, and stability.",
+          "formation": "Byproducts of amino acid metabolism, TCA cycle, and other pathways",
+          "examples": [
+            {"compound": "Succinic acid", "concentration": "0.5-1.5 g/L", "character": "Salty-bitter, savory, umami", "notes": "Primary yeast-produced acid. Adds complexity."},
+            {"compound": "Acetic acid", "concentration": "0.2-0.7 g/L (normal)", "character": "Vinegar (at high levels)", "threshold": "0.7-1.1 g/L", "notes": "Always produced in small amounts. Excessive = volatile acidity fault."},
+            {"compound": "Lactic acid", "concentration": "0.1-0.3 g/L (from yeast)", "character": "Soft, milky", "notes": "More from MLF than yeast. Lachancea thermotolerans produces significant amounts."},
+            {"compound": "Pyruvic acid", "concentration": "10-500 mg/L", "character": "Neutral", "notes": "Intermediate in glycolysis. Binds SO2. Higher in stuck fermentations."},
+            {"compound": "α-Ketoglutaric acid", "concentration": "50-300 mg/L", "character": "Neutral", "notes": "TCA cycle intermediate. Binds SO2."}
+          ],
+          "malic_acid_modification": {
+            "by_yeast": "Some strains (71B) metabolize 20-40% of malic acid during fermentation",
+            "schizo_pombe": "S. pombe converts malic acid to ethanol (maloalcoholic fermentation)",
+            "impact": "Natural deacidification without MLF"
+          },
+          "icon": "🧪"
+        },
+        {
+          "id": "terpenes",
+          "name": "Terpene Modification",
+          "description": "Terpenes come from grapes, but yeast enzymes modify them. Glycosidase enzymes release bound terpenes; other enzymes convert between forms.",
+          "grape_derived": true,
+          "formation": "Yeast β-glucosidases cleave sugar-bound (glycosylated) terpene precursors, releasing volatile aromatic forms",
+          "key_compounds": [
+            {"compound": "Linalool", "aroma": "Floral, citrus, lavender", "varieties": "Muscat, Gewürztraminer, Riesling"},
+            {"compound": "Geraniol", "aroma": "Rose, geranium", "varieties": "Muscat, Gewürztraminer"},
+            {"compound": "Citronellol", "aroma": "Citrus, rose", "varieties": "Various aromatics"},
+            {"compound": "α-Terpineol", "aroma": "Lilac, floral", "varieties": "Develops during aging from linalool"}
+          ],
+          "yeast_effects": {
+            "glycosidase_activity": "Varies by strain. Some yeasts release more bound terpenes than others.",
+            "biotransformation": "Yeast can convert one terpene to another (e.g., geraniol → citronellol)",
+            "best_strains": "SVG, VIN13, aromatic-specialist strains"
+          },
+          "icon": "🌺"
+        }
+      ]
+    },
+    "techniques": {
+      "title": "Fermentation Techniques",
+      "description": "How fermentation is managed reflects winemaking philosophy and style goals.",
+      "techniques": [
+        {
+          "id": "indigenous",
+          "name": "Indigenous (Wild) Fermentation",
+          "description": "Relying on naturally-present yeasts from vineyard, winery, and equipment. No commercial inoculation.",
+          "process": [
+            "Crush and destem (or whole cluster)",
+            "Wait for natural yeast activity to begin",
+            "Multiple yeast species active in sequence",
+            "S. cerevisiae eventually dominates (usually)",
+            "Fermentation completes (hopefully)"
+          ],
+          "advantages": [
+            "Terroir expression (vineyard microbiome)",
+            "Complexity from multiple yeast species",
+            "Philosophical alignment with natural winemaking",
+            "Unique, unrepeatable wines"
+          ],
+          "disadvantages": [
+            "Unpredictable timing and kinetics",
+            "Risk of stuck fermentation",
+            "Risk of spoilage organisms",
+            "Inconsistent vintage-to-vintage"
+          ],
+          "who_uses": "Natural wine producers, traditional Burgundy, Loire, some biodynamic estates",
+          "risk_level": "High",
+          "icon": "🌿"
+        },
+        {
+          "id": "inoculated",
+          "name": "Inoculated Fermentation",
+          "description": "Adding commercial yeast to control fermentation. The standard approach globally.",
+          "process": [
+            "Crush and destem",
+            "Add sulfite to suppress wild yeasts",
+            "Rehydrate commercial yeast",
+            "Inoculate must",
+            "Monitor and manage fermentation"
+          ],
+          "advantages": [
+            "Reliable, predictable fermentation",
+            "Known flavor profile",
+            "Reduced spoilage risk",
+            "Consistency across vintages"
+          ],
+          "disadvantages": [
+            "Potential for homogenization",
+            "May not express site",
+            "Commercial flavor signature"
+          ],
+          "who_uses": "Most commercial wineries globally",
+          "risk_level": "Low",
+          "icon": "🧪"
+        },
+        {
+          "id": "co-inoculation",
+          "name": "Co-Inoculation",
+          "description": "Adding malolactic bacteria at the same time as yeast, rather than after alcoholic fermentation.",
+          "process": [
+            "Inoculate yeast and MLB simultaneously",
+            "Both fermentations proceed together",
+            "MLF often completes before or with AF"
+          ],
+          "advantages": [
+            "Shorter total fermentation time",
+            "Reduced risk of problematic MLF",
+            "Smoother MLF in high-alcohol wines",
+            "Better integration of MLF character"
+          ],
+          "disadvantages": [
+            "Potential for diacetyl if not managed",
+            "Must use compatible strains",
+            "Less control over individual processes"
+          ],
+          "who_uses": "Increasingly popular for reds and full-bodied whites",
+          "icon": "🔄"
+        },
+        {
+          "id": "sequential-non-sacch",
+          "name": "Sequential Non-Saccharomyces",
+          "description": "Inoculating with non-Saccharomyces yeast first, then S. cerevisiae to finish.",
+          "process": [
+            "Inoculate with non-Saccharomyces (Torulaspora, Metschnikowia, etc.)",
+            "Allow activity for 24-72 hours",
+            "Inoculate S. cerevisiae to complete fermentation"
+          ],
+          "advantages": [
+            "Benefits of non-Saccharomyces (thiols, glycerol, acid)",
+            "Reliable completion with S. cerevisiae",
+            "Complexity without wild fermentation risk"
+          ],
+          "disadvantages": [
+            "More complex protocol",
+            "Timing critical",
+            "Additional cost"
+          ],
+          "who_uses": "Premium aromatic white producers, experimental winemakers",
+          "icon": "🔬"
+        },
+        {
+          "id": "sur-lie",
+          "name": "Sur Lie Aging",
+          "description": "Aging wine on dead yeast cells (lees) after fermentation. Yeast autolysis releases compounds.",
+          "process": [
+            "Complete fermentation",
+            "Leave wine on fine lees",
+            "Stir periodically (bâtonnage) or not",
+            "Age for months to years"
+          ],
+          "compounds_released": [
+            "Mannoproteins (mouthfeel, protein stability)",
+            "Polysaccharides (body, texture)",
+            "Amino acids (umami)",
+            "Nucleotides (flavor complexity)"
+          ],
+          "advantages": [
+            "Enhanced mouthfeel and body",
+            "Increased complexity",
+            "Improved protein stability",
+            "Reduced bitterness"
+          ],
+          "disadvantages": [
+            "Risk of reduction (H2S)",
+            "Risk of off-flavors if lees not healthy",
+            "Time and tank space"
+          ],
+          "styles": "Muscadet sur lie, Champagne, premium Burgundy white",
+          "duration": "3-18 months typical; Champagne: years",
+          "icon": "⏳"
+        },
+        {
+          "id": "carbonic-maceration",
+          "name": "Carbonic Maceration",
+          "description": "Whole grape fermentation in CO2 atmosphere. Intracellular fermentation without yeast involvement initially.",
+          "process": [
+            "Whole clusters placed in CO2-filled tank",
+            "Intracellular (enzymatic) fermentation begins inside berries",
+            "Produces 1-2% alcohol without yeast",
+            "Eventually grapes break, yeast takes over",
+            "Short maceration, early pressing"
+          ],
+          "characteristics": [
+            "High isoamyl acetate (banana)",
+            "Low tannin (minimal extraction)",
+            "Bright, fruity character",
+            "Fresh, early-drinking wines"
+          ],
+          "styles": "Beaujolais Nouveau, some Loire, experimental wines",
+          "grape_varieties": "Gamay (classic), also Grenache, Carignan, others",
+          "icon": "🍌"
+        },
+        {
+          "id": "pied-de-cuve",
+          "name": "Pied de Cuve",
+          "description": "Building a starter culture from local grapes before main harvest. Captures indigenous yeasts.",
+          "process": [
+            "Harvest early-ripening grapes or selected vines",
+            "Allow to ferment naturally",
+            "Use active fermenting must to inoculate main harvest"
+          ],
+          "advantages": [
+            "Indigenous yeast character",
+            "More reliable than pure spontaneous",
+            "Vigorous starter for main fermentation"
+          ],
+          "who_uses": "Traditional Burgundy, natural wine producers seeking reliability",
+          "icon": "🌱"
+        },
+        {
+          "id": "cold-soak",
+          "name": "Cold Soak (Pre-fermentation Maceration)",
+          "description": "Holding crushed red grapes at cold temperatures before fermentation begins. Extracts color and flavor without tannin.",
+          "process": [
+            "Crush and destem grapes",
+            "Add SO2 to prevent fermentation",
+            "Chill to 4-10°C (39-50°F)",
+            "Hold for 2-7 days",
+            "Warm and inoculate to begin fermentation"
+          ],
+          "mechanism": "Cold temperature inhibits yeast activity but allows aqueous extraction. Color (anthocyanins) extracts easily; tannin requires alcohol.",
+          "advantages": [
+            "Increased color extraction",
+            "Fruit-forward character",
+            "Softer tannins",
+            "More aromatic wines"
+          ],
+          "disadvantages": [
+            "Risk of spoilage if temperature control fails",
+            "Requires refrigeration capacity",
+            "Some consider character less 'serious'",
+            "Oxygen exposure risk"
+          ],
+          "temperature": "4-10°C (39-50°F)",
+          "duration": "2-7 days typical",
+          "who_uses": "Burgundy producers, Oregon Pinot, cool-climate regions",
+          "icon": "❄️"
+        },
+        {
+          "id": "extended-maceration",
+          "name": "Extended Maceration (Post-fermentation)",
+          "description": "Leaving wine on skins after fermentation completes. Continued extraction and tannin polymerization.",
+          "process": [
+            "Complete alcoholic fermentation on skins",
+            "Keep wine on skins for additional 1-8 weeks",
+            "Minimal punch-downs to avoid harsh extraction",
+            "Press when tannins are integrated"
+          ],
+          "mechanism": "Alcohol continues extracting tannin, but polymerization (chain lengthening) also occurs, softening tannins over time.",
+          "advantages": [
+            "More integrated, softer tannins",
+            "Better color stability (tannin-anthocyanin bonding)",
+            "Increased complexity",
+            "Age-worthy structure"
+          ],
+          "disadvantages": [
+            "Risk of over-extraction if mismanaged",
+            "Requires tank space",
+            "Potential for bacterial issues",
+            "Not suitable for all varieties"
+          ],
+          "duration": "2-8 weeks post-fermentation",
+          "who_uses": "Bordeaux (traditional), Australia (Barossa Shiraz), serious Rhône reds",
+          "monitoring": "Taste daily to assess tannin development",
+          "icon": "⏰"
+        },
+        {
+          "id": "whole-cluster",
+          "name": "Whole Cluster Fermentation",
+          "description": "Including grape stems in fermentation. Adds structure, spice, and freshness but risks green characters.",
+          "process": [
+            "Destem some clusters, keep others whole",
+            "Layer whole clusters with crushed fruit",
+            "Partial carbonic maceration occurs inside whole berries",
+            "Standard fermentation for crushed portion"
+          ],
+          "effects": {
+            "positive": ["Spice and complexity", "Lifted aromatics", "Fine-grained tannins", "Freshness/energy", "Partial carbonic adds fruit"],
+            "negative": ["Green/vegetal if stems unripe", "Harsh tannins if stems immature", "Dilution from stem water"]
+          },
+          "stem_ripeness": "Critical. Only works with fully lignified (brown, woody) stems. Green stems = green flavors.",
+          "percentage": "10-100% whole cluster depending on vintage and style",
+          "advantages": [
+            "Complexity and spice",
+            "Carbonic component adds fruit",
+            "Potassium addition buffers acidity",
+            "More 'Burgundian' character"
+          ],
+          "disadvantages": [
+            "Green character if stems unripe",
+            "Requires perfect stem maturity",
+            "Labor intensive (hand sorting)",
+            "Can dominate delicate fruit"
+          ],
+          "who_uses": "Traditional Burgundy (DRC uses 100%), Rhône, Oregon, natural wine producers",
+          "icon": "🍇"
+        },
+        {
+          "id": "delestage",
+          "name": "Délestage (Rack and Return)",
+          "description": "Draining fermenting wine off skins, aerating, and returning. French technique for color and soft tannins.",
+          "process": [
+            "Drain fermenting wine from tank, leaving cap",
+            "Cap falls and compacts under own weight",
+            "Wine splashes back over cap (aeration)",
+            "Repeat daily during fermentation"
+          ],
+          "mechanism": "Aeration promotes color stability (acetaldehyde bridges anthocyanins). Cap compression then expansion improves extraction.",
+          "advantages": [
+            "Enhanced color stability",
+            "Softer tannins than pigeage",
+            "Removes bitter seed tannins (seeds sink)",
+            "Oxygenation helps yeast health"
+          ],
+          "disadvantages": [
+            "Equipment intensive (two tanks needed)",
+            "Labor intensive",
+            "Potential oxidation if overdone",
+            "Seed removal changes structure"
+          ],
+          "vs_pumping_over": "More gentle than pump-over, more oxygenating than punch-down",
+          "who_uses": "Premium Bordeaux, California Cabernet, quality-focused producers",
+          "icon": "🔄"
+        },
+        {
+          "id": "micro-ox",
+          "name": "Micro-oxygenation During Fermentation",
+          "description": "Controlled addition of tiny amounts of oxygen during fermentation. Promotes color stability and tannin polymerization.",
+          "process": [
+            "Ceramic diffuser introduces micro-bubbles of O2",
+            "Dosage: 2-10 mg/L/month during fermentation",
+            "Higher rates early, reduced late",
+            "Monitored to prevent oxidation"
+          ],
+          "mechanism": "Oxygen promotes acetaldehyde formation, which bridges anthocyanins to tannins (color stability). Also polymerizes tannins (softening).",
+          "advantages": [
+            "Stabilized color",
+            "Softer tannins",
+            "Reduced green/vegetal characters",
+            "Can substitute for barrel aging"
+          ],
+          "disadvantages": [
+            "Equipment cost",
+            "Risk of oxidation if overdone",
+            "Can homogenize wine character",
+            "Controversial among traditionalists"
+          ],
+          "invented": "Patrick Ducournau, Madiran, 1990s",
+          "who_uses": "Modern wineries worldwide, particularly for early-drinking reds",
+          "icon": "💨"
+        }
+      ]
+    },
+    "modern": {
+      "title": "Modern Developments",
+      "description": "Yeast science is advancing rapidly. Non-GMO breeding, non-Saccharomyces commercialization, and climate adaptation are current frontiers.",
+      "trends": [
+        {
+          "trend": "Non-Saccharomyces Commercialization",
+          "description": "Previously considered spoilage organisms, non-Saccharomyces yeasts are now valued for specific contributions.",
+          "examples": [
+            "Torulaspora delbrueckii: Glycerol, mouthfeel",
+            "Metschnikowia pulcherrima: Thiol release",
+            "Lachancea thermotolerans: Natural acidification",
+            "Pichia kluyveri: Fruity esters"
+          ],
+          "products": "Biodiva, Flavia, Laktia, Frootzen, and others",
+          "adoption": "Growing, especially for aromatic whites"
+        },
+        {
+          "trend": "Non-GMO Hybrid Breeding",
+          "description": "Traditional crossing of yeast strains to combine traits without genetic modification.",
+          "examples": [
+            "Lallemand Cross Evolution series",
+            "S. cerevisiae × S. uvarum hybrids for cold tolerance",
+            "Breeding for enhanced thiol release"
+          ],
+          "advantage": "Consumer acceptance, 'natural' positioning",
+          "status": "Active research at major labs"
+        },
+        {
+          "trend": "Climate Change Adaptation",
+          "description": "Warmer vintages produce higher-sugar, lower-acid musts. Yeast selection helps compensate.",
+          "challenges": [
+            "Higher potential alcohol requiring tolerant strains",
+            "Lower acidity requiring acid-producing yeasts",
+            "Changed flavor profiles requiring adjustment"
+          ],
+          "solutions": [
+            "Lachancea thermotolerans for natural acidification",
+            "Low-alcohol yeast strains (research phase)",
+            "Strains that produce less alcohol per gram sugar"
+          ]
+        },
+        {
+          "trend": "Terroir Yeast Programs",
+          "description": "Capturing and commercializing indigenous yeasts from specific vineyards or regions.",
+          "examples": [
+            "Winery-specific strain isolation",
+            "Regional yeast banks",
+            "Commercialization of local isolates"
+          ],
+          "philosophy": "Combining indigenous character with commercial reliability",
+          "programs": "Several universities and companies offer strain isolation services"
+        },
+        {
+          "trend": "Genetic Research",
+          "description": "Understanding yeast genetics enables targeted breeding and potentially GMO applications.",
+          "applications": [
+            "QTL mapping for flavor production",
+            "Marker-assisted selection for traits",
+            "Understanding H2S production pathways"
+          ],
+          "gmo_status": "GMO wine yeasts exist (ML01) but have minimal commercial adoption due to consumer resistance",
+          "future": "Non-GMO breeding guided by genomic knowledge"
+        }
+      ],
+      "research_institutions": [
+        {
+          "name": "UC Davis",
+          "country": "USA",
+          "focus": "Yeast genetics, strain development, fermentation science",
+          "notable": "Origin of many commercial strains (Montrachet, Prise de Mousse). Leading American wine research center.",
+          "key_researchers": "Linda Bisson, David Mills",
+          "contributions": ["Yeast strain typing", "Fermentation kinetics", "ML bacteria research"]
+        },
+        {
+          "name": "AWRI (Australian Wine Research Institute)",
+          "country": "Australia",
+          "focus": "Non-Saccharomyces, thiol research, practical winemaking applications",
+          "notable": "Leading non-Saccharomyces research. Pioneered understanding of thiol release mechanisms.",
+          "key_researchers": "Paul Henschke, Vladimir Jiranek",
+          "contributions": ["Thiol metabolism", "Sequential inoculation protocols", "Non-Sacch characterization"]
+        },
+        {
+          "name": "INRAE (formerly INRA)",
+          "country": "France",
+          "focus": "Indigenous yeast, terroir expression, strain diversity, breeding",
+          "notable": "Source of ICV strain series (D47, D254, GRE). French national research institute.",
+          "key_researchers": "Sylvie Dequin, Bruno Blondin",
+          "contributions": ["Aromatic yeast selection", "Hybrid breeding", "Genetic modification research"]
+        },
+        {
+          "name": "Stellenbosch University / IWBT",
+          "country": "South Africa",
+          "focus": "Yeast genomics, non-Saccharomyces, flavor compound production",
+          "notable": "Institute for Wine Biotechnology. Major yeast genetics research center.",
+          "key_researchers": "Florian Bauer, Benoit Divol",
+          "contributions": ["Yeast strain genomics", "Killer yeast research", "VIN13 development"]
+        },
+        {
+          "name": "Geisenheim University",
+          "country": "Germany",
+          "focus": "Cool-climate fermentation, Riesling specialization, yeast-bacteria interactions",
+          "notable": "World's oldest wine research institute (founded 1872). Strong ML and yeast tradition.",
+          "contributions": ["German wine yeast selections", "Prädikat wine fermentation", "Botrytis research"]
+        },
+        {
+          "name": "University of Adelaide",
+          "country": "Australia",
+          "focus": "Yeast stress response, fermentation optimization, wine quality",
+          "notable": "Strong collaboration with AWRI. Focus on practical winemaking applications.",
+          "contributions": ["Stuck fermentation research", "Stress tolerance mechanisms"]
+        },
+        {
+          "name": "Cornell University",
+          "country": "USA",
+          "focus": "Cool-climate viticulture, hybrid grapes, yeast selection for difficult conditions",
+          "notable": "Focus on New York and cool-climate regions. Pioneering cold-hardy grape breeding.",
+          "contributions": ["Cold-climate fermentation", "Hybrid wine production"]
+        },
+        {
+          "name": "University of Bordeaux / ISVV",
+          "country": "France",
+          "focus": "Bordeaux varieties, MLF, yeast-wine chemistry interactions",
+          "notable": "Institut des Sciences de la Vigne et du Vin. Close ties to Bordeaux wine industry.",
+          "contributions": ["Brett research", "Tannin-yeast interactions", "Color stability"]
+        },
+        {
+          "name": "Università di Firenze",
+          "country": "Italy",
+          "focus": "Sangiovese fermentation, non-Saccharomyces, indigenous Italian strains",
+          "notable": "Strong ties to Tuscany wine industry. BM45 development partner.",
+          "contributions": ["Italian variety specialization", "Regional strain selection"]
+        },
+        {
+          "name": "Universidad de la República",
+          "country": "Uruguay",
+          "focus": "Tannat fermentation, warm-climate challenges, local strain isolation",
+          "notable": "Leading South American wine research center.",
+          "contributions": ["Tannat optimization", "Indigenous Uruguayan strains"]
+        }
+      ],
+      "future_directions": [
+        {
+          "area": "Low-Alcohol Yeast",
+          "description": "Strains that produce less ethanol per gram of sugar. Critical for climate change adaptation.",
+          "status": "Active research, some products emerging",
+          "approaches": ["Diverting carbon to glycerol instead of ethanol", "Early-stopping strains", "Metabolic engineering"],
+          "products": "Lalvin IONYS WF (reduces alcohol 1-1.5%)"
+        },
+        {
+          "area": "Enhanced Thiol Release",
+          "description": "Breeding for strains that maximize tropical/citrus thiol conversion from grape precursors.",
+          "status": "Commercially available, improving",
+          "mechanism": "Selecting for high carbon-sulfur lyase activity",
+          "products": "VL3, X5, newer selections"
+        },
+        {
+          "area": "Precision Fermentation",
+          "description": "Using sensor technology and AI to optimize fermentation in real-time.",
+          "status": "Emerging in large wineries",
+          "technologies": ["Real-time density monitoring", "Temperature optimization algorithms", "Predictive nutrient addition"]
+        },
+        {
+          "area": "Targeted Nutrient Programs",
+          "description": "Strain-specific nutrient protocols for optimized fermentation health.",
+          "status": "Standard practice at premium level",
+          "concept": "Different strains have different nutrient needs; matching nutrients to strain optimizes performance"
+        },
+        {
+          "area": "Bioprotection",
+          "description": "Using yeast and bacteria to protect must without SO2. Growing interest for low-sulfite winemaking.",
+          "status": "Commercially available, expanding",
+          "mechanism": "Non-Saccharomyces yeasts consume oxygen and nutrients, outcompeting spoilage organisms",
+          "products": "Torulaspora delbrueckii products (Biodiva), Metschnikowia products",
+          "benefits": ["Reduced SO2 at crush", "Natural antimicrobial activity", "Consumer-friendly 'low-sulfite' positioning"]
+        },
+        {
+          "area": "CRISPR and Gene Editing",
+          "description": "Precise genetic modification for specific traits without introducing foreign DNA.",
+          "status": "Research phase; regulatory hurdles",
+          "applications": ["Eliminating H2S production pathways", "Enhancing glycerol production", "Improving stress tolerance"],
+          "controversy": "Consumer acceptance remains uncertain. Some argue CRISPR-edited organisms are not 'GMO' in traditional sense."
+        },
+        {
+          "area": "Microbiome Sequencing",
+          "description": "Using DNA sequencing to characterize vineyard and winery microbiomes.",
+          "status": "Research and premium application",
+          "applications": ["Identifying 'terroir signature' microbes", "Tracking fermentation populations", "Quality control"],
+          "future": "May enable 'microbial terroir' marketing and authentication"
+        }
+      ],
+      "commercial_suppliers": {
+        "title": "Major Yeast Suppliers",
+        "suppliers": [
+          {
+            "name": "Lallemand",
+            "headquarters": "Montreal, Canada",
+            "brands": ["Lalvin", "Uvaferm"],
+            "notable_products": ["EC-1118", "RC212", "D47", "71B", "QA23", "BM45"],
+            "market_position": "Global leader in wine yeast"
+          },
+          {
+            "name": "Chr. Hansen",
+            "headquarters": "Hørsholm, Denmark",
+            "brands": ["Viniflora"],
+            "notable_products": ["Flavia (Metschnikowia)", "Frootzen (Pichia)", "Concerto (Lachancea)"],
+            "market_position": "Leading non-Saccharomyces supplier"
+          },
+          {
+            "name": "AB Biotek (formerly ABMauri)",
+            "headquarters": "UK",
+            "brands": ["Maurivin", "Fermentis"],
+            "notable_products": ["Various industrial and craft strains"],
+            "market_position": "Industrial scale focus"
+          },
+          {
+            "name": "Anchor Oenology (Lallemand subsidiary)",
+            "headquarters": "South Africa",
+            "brands": ["Anchor"],
+            "notable_products": ["VIN13", "NT116", "NT50"],
+            "market_position": "South African and New World focus"
+          },
+          {
+            "name": "Red Star (Lesaffre)",
+            "headquarters": "France/USA",
+            "brands": ["Red Star"],
+            "notable_products": ["Premier Cuvée", "Côte des Blancs"],
+            "market_position": "Home winemaking and craft"
+          },
+          {
+            "name": "Scott Laboratories (US distributor)",
+            "headquarters": "Petaluma, California",
+            "brands": ["Distributes multiple brands"],
+            "notable_products": ["Wide selection for US market"],
+            "market_position": "Major US wine supply distributor"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,7 +1,76 @@
 {
   "title": "Wine Bottle Guide",
   "subtitle": "Shapes, sizes, and why they matter",
+  "created_date": "2026-05-04",
   "sections": {
+    "overview": {
+      "title": "The Evolution of the Wine Bottle",
+      "description": "The wine bottle is perhaps the most underappreciated piece of wine technology. For millennia, wine was stored in clay amphorae, animal skins, and wooden barrels. The glass bottle as we know it emerged only in the 17th century, and standardization took another two hundred years. Today's bottle shapes carry centuries of regional tradition, practical innovation, and marketing evolution.",
+      "key_milestones": [
+        {
+          "era": "Ancient (3000 BCE - 500 CE)",
+          "vessel": "Amphorae and clay jars",
+          "characteristics": "Pointed bottoms for sand storage, sealed with clay or resin",
+          "limitation": "Fragile, heavy, porous without proper sealing"
+        },
+        {
+          "era": "Medieval (500 - 1600)",
+          "vessel": "Wooden barrels and leather skins",
+          "characteristics": "Barrels for bulk transport and storage, skins for personal use",
+          "limitation": "Wine oxidized quickly once barrel tapped, no long-term storage"
+        },
+        {
+          "era": "Early Modern (1600 - 1700)",
+          "vessel": "Hand-blown glass bottles",
+          "characteristics": "Onion-shaped, squat bodies, uneven thickness, used for serving not storage",
+          "limitation": "Expensive, irregular shapes couldn't lie flat, weak at neck"
+        },
+        {
+          "era": "Georgian (1700 - 1800)",
+          "vessel": "Mallet and cylinder bottles",
+          "characteristics": "Taller, straighter sides emerged, could be binned on their side",
+          "limitation": "Still hand-blown, significant variation between bottles"
+        },
+        {
+          "era": "Industrial (1800 - 1900)",
+          "vessel": "Machine-made standardized bottles",
+          "characteristics": "Consistent 750ml capacity, regional shapes codified, mass production",
+          "advancement": "Cork closures perfected, cellar aging becomes practical"
+        },
+        {
+          "era": "Modern (1900 - present)",
+          "vessel": "Refined regional standards",
+          "characteristics": "Lightweight bottles, screw caps, environmental considerations",
+          "advancement": "Closure diversity, sustainability focus, alternative formats"
+        }
+      ],
+      "why_750ml": {
+        "title": "The 750ml Mystery",
+        "theories": [
+          {
+            "name": "Lung Capacity Theory",
+            "explanation": "A glassblower could produce roughly 750ml of bottle volume with one breath",
+            "plausibility": "Possible but unproven; hand-blown bottles varied significantly"
+          },
+          {
+            "name": "British Imperial Gallon",
+            "explanation": "6 bottles (6 x 750ml = 4.5L) fit neatly into an Imperial gallon case structure",
+            "plausibility": "Likely contributor to standardization"
+          },
+          {
+            "name": "French-British Trade",
+            "explanation": "A 225L Bordeaux barrel divides evenly into 300 bottles of 750ml",
+            "plausibility": "Strong practical reason for standardization"
+          },
+          {
+            "name": "EU Harmonization",
+            "explanation": "750ml became mandatory for EU wine trade in 1970s",
+            "plausibility": "Confirmed. Formalized existing practice"
+          }
+        ],
+        "conclusion": "The 750ml size likely emerged from a combination of practical glassblowing limits, trade mathematics, and was formally codified in the 20th century."
+      }
+    },
     "shapes": {
       "title": "Regional Bottle Shapes",
       "description": "Wine bottle shapes evolved regionally, each designed for practical reasons that became tradition. The shape often hints at what's inside.",
@@ -110,7 +179,110 @@
           "wines": ["Franconian wines", "Silvaner"],
           "regions_using": ["Franconia", "Some Portuguese wines"],
           "practical_reason": "Protected designation; distinctive shape prevents counterfeiting",
-          "capacity_ml": 750
+          "capacity_ml": 750,
+          "history_note": "The name may derive from 'Bocksbeutel' (goat scrotum) referring to the shape, though some scholars dispute this etymology"
+        },
+        {
+          "id": "fiasco",
+          "name": "Fiasco",
+          "aka": "Chianti flask",
+          "shape": "Round-bottomed bulb wrapped in straw basket (fiasco)",
+          "shoulder_type": "None (spherical body)",
+          "color": "Clear or green",
+          "origin": "Tuscany, Italy",
+          "wines": ["Chianti (historically)", "Basic Tuscan reds"],
+          "regions_using": ["Tuscany"],
+          "practical_reason": "Straw basket protects fragile round bottom, allows bottle to stand upright",
+          "capacity_ml": 750,
+          "history_note": "The iconic straw-wrapped fiasco was the symbol of Italian wine for decades. Modern Chianti has largely abandoned it in favor of Bordeaux-style bottles to signal quality",
+          "decline_reason": "Labor-intensive straw weaving, association with cheap wine, impossibility of cellar storage on side"
+        },
+        {
+          "id": "clavelin",
+          "name": "Clavelin",
+          "aka": "Vin Jaune bottle",
+          "shape": "Squat, wide-shouldered, distinctive proportions",
+          "shoulder_type": "High, square",
+          "color": "Dark green or amber",
+          "origin": "Jura, France",
+          "wines": ["Vin Jaune"],
+          "regions_using": ["Jura (exclusively for Vin Jaune)"],
+          "practical_reason": "620ml capacity reflects the amount remaining after 6+ years of evaporative aging (part des anges)",
+          "capacity_ml": 620,
+          "history_note": "The only legally mandated non-standard wine bottle size in France. The 620ml represents what remains of one liter after years of oxidative aging under voile yeast",
+          "special_features": ["Unique 620ml capacity", "Squat proportions", "Protected shape for Vin Jaune only"]
+        },
+        {
+          "id": "antinori",
+          "name": "Antinori / Super Tuscan",
+          "aka": "Designer bottle",
+          "shape": "Heavy, elongated Bordeaux-style with exaggerated shoulders and thick base",
+          "shoulder_type": "Very high, pronounced",
+          "color": "Very dark green, almost black",
+          "origin": "Tuscany, Italy (1970s)",
+          "wines": ["Super Tuscans", "Premium Italian reds"],
+          "regions_using": ["Tuscany", "Premium wine worldwide"],
+          "practical_reason": "Heavy weight signals premium quality; deep punt adds perceived value",
+          "capacity_ml": 750,
+          "history_note": "Emerged with the Super Tuscan movement as producers sought to differentiate from traditional Chianti. The heavy, dark bottle became a marker of serious, age-worthy wine",
+          "special_features": ["Extra-heavy glass (600-900g)", "Deep punt", "Dark glass", "Often custom-designed"]
+        },
+        {
+          "id": "cotnari",
+          "name": "Tokaji / Cotnari",
+          "aka": "Aszú bottle",
+          "shape": "Tall, slender, similar to Alsace but often 500ml",
+          "shoulder_type": "Slight",
+          "color": "Clear or pale green",
+          "origin": "Hungary / Romania",
+          "wines": ["Tokaji Aszú", "Cotnari sweet wines"],
+          "regions_using": ["Tokaj-Hegyalja", "Moldova"],
+          "practical_reason": "500ml format reflects the precious nature of botrytized wine and allows multiple tastings from harvest",
+          "capacity_ml": 500,
+          "history_note": "The 500ml size for Tokaji dates to the Austro-Hungarian Empire. Modern producers sometimes use 375ml or 750ml, but 500ml remains traditional"
+        },
+        {
+          "id": "ice-wine",
+          "name": "Ice Wine / Dessert",
+          "aka": "375ml dessert bottle",
+          "shape": "Typically tall and slender, Alsace-derived",
+          "shoulder_type": "Minimal",
+          "color": "Clear to showcase golden color",
+          "origin": "Germany / Canada",
+          "wines": ["Eiswein", "Ice Wine", "TBA", "Late harvest"],
+          "regions_using": ["Germany", "Austria", "Canada", "Alsace"],
+          "practical_reason": "Half-size reflects labor-intensive production and precious nature of dessert wines",
+          "capacity_ml": 375,
+          "history_note": "The 375ml format became standard for German Prädikatswein as production yields decreased with sweetness level"
+        },
+        {
+          "id": "bag-in-box",
+          "name": "Bag-in-Box",
+          "aka": "Cask, BiB",
+          "shape": "Flexible bladder inside cardboard box",
+          "shoulder_type": "N/A",
+          "color": "N/A (cardboard exterior)",
+          "origin": "Australia (1960s)",
+          "wines": ["Everyday drinking wines", "Premium wines increasingly"],
+          "regions_using": ["Australia (pioneered)", "Worldwide"],
+          "practical_reason": "Bladder collapses as wine is dispensed, preventing oxidation for weeks. Lower carbon footprint than glass",
+          "capacity_ml": "Typically 3000 (3L) or 5000 (5L)",
+          "history_note": "Invented by Thomas Angove in Australia in 1965. Long associated with cheap wine but increasingly used for premium wines, especially in Scandinavia",
+          "special_features": ["Wine stays fresh 4-6 weeks after opening", "80% lower carbon footprint than equivalent glass", "Tap dispenser"]
+        },
+        {
+          "id": "keeved",
+          "name": "Cidre / Pet-Nat",
+          "aka": "Crown cap bottle",
+          "shape": "Similar to Champagne but often lighter weight",
+          "shoulder_type": "Sloped",
+          "color": "Dark amber or green",
+          "origin": "France / Natural wine movement",
+          "wines": ["Pétillant Naturel", "Natural sparkling wines", "Cidre"],
+          "regions_using": ["Loire Valley", "Natural wine producers globally"],
+          "practical_reason": "Crown caps allow easy disgorgement and are cheaper than corks for low-pressure sparkling",
+          "capacity_ml": 750,
+          "history_note": "Crown caps have been revived by the natural wine movement for pétillant naturel. They signal informal, minimal-intervention winemaking"
         }
       ]
     },
@@ -118,6 +290,48 @@
       "title": "Bottle Sizes",
       "description": "Larger formats age more gracefully. Smaller bottles age faster. The relationship between wine volume and oxygen exposure through the cork creates different aging trajectories.",
       "intro_note": "Named after biblical kings and figures, large format bottles are prized for aging and celebration.",
+      "naming_history": {
+        "title": "Biblical Names for Big Bottles",
+        "explanation": "The tradition of naming large bottles after biblical figures began in 19th century Champagne houses. The grandeur of biblical kings seemed appropriate for bottles of increasing magnificence. The names progress roughly chronologically through the Old Testament.",
+        "cultural_note": "Bordeaux and Champagne use different names for some sizes, reflecting their separate traditions. A Jeroboam in Champagne (3L) is different from a Jeroboam in Bordeaux (4.5L).",
+        "figures": [
+          {
+            "name": "Jeroboam",
+            "biblical_reference": "First King of the Northern Kingdom of Israel after Solomon's death",
+            "reign": "c. 931-910 BCE"
+          },
+          {
+            "name": "Rehoboam",
+            "biblical_reference": "Son of Solomon, King of Judah who saw the kingdom split",
+            "reign": "c. 931-913 BCE"
+          },
+          {
+            "name": "Methuselah",
+            "biblical_reference": "Grandfather of Noah, oldest person in the Bible (lived 969 years)",
+            "significance": "Appropriate for aging wine"
+          },
+          {
+            "name": "Salmanazar",
+            "biblical_reference": "Assyrian king (Shalmaneser) who conquered Israel",
+            "reign": "Several kings bore this name; Shalmaneser V (727-722 BCE) most relevant"
+          },
+          {
+            "name": "Balthazar",
+            "biblical_reference": "Traditional name of one of the Three Wise Men (Magi)",
+            "significance": "Bringer of myrrh to the infant Jesus"
+          },
+          {
+            "name": "Nebuchadnezzar",
+            "biblical_reference": "King of Babylon who destroyed Jerusalem's Temple",
+            "reign": "c. 605-562 BCE"
+          },
+          {
+            "name": "Melchior",
+            "biblical_reference": "Traditional name of another of the Three Wise Men",
+            "significance": "Bringer of gold to the infant Jesus"
+          }
+        ]
+      },
       "sizes": [
         {
           "name": "Piccolo",
@@ -245,8 +459,75 @@
           "common_use": "Extremely rare, promotional",
           "aging_impact": "Unknown - almost never produced",
           "named_after": "One of the Three Wise Men"
+        },
+        {
+          "name": "Solomon",
+          "aka": "Melchior (alternate name)",
+          "ml": 18000,
+          "liters": 18,
+          "standard_bottles": 24,
+          "glasses": 120,
+          "common_use": "Used interchangeably with Melchior",
+          "aging_impact": "Unknown - museum pieces",
+          "named_after": "King Solomon of Israel"
+        },
+        {
+          "name": "Sovereign",
+          "aka": "Champagne only",
+          "ml": 25000,
+          "liters": 25,
+          "standard_bottles": 33.3,
+          "glasses": 166,
+          "common_use": "Ceremonial, ship christenings",
+          "aging_impact": "Purely symbolic",
+          "named_after": "Royalty (modern invention)"
+        },
+        {
+          "name": "Primat",
+          "aka": "Goliath",
+          "ml": 27000,
+          "liters": 27,
+          "standard_bottles": 36,
+          "glasses": 180,
+          "common_use": "Promotional events only",
+          "aging_impact": "Theoretical - never aged",
+          "named_after": "Religious rank / Biblical giant"
+        },
+        {
+          "name": "Melchizedek",
+          "aka": "Midas",
+          "ml": 30000,
+          "liters": 30,
+          "standard_bottles": 40,
+          "glasses": 200,
+          "common_use": "The largest Champagne bottle produced commercially",
+          "aging_impact": "Unknown - promotional only",
+          "named_after": "Biblical king-priest of Salem, 'King of Righteousness'",
+          "special_note": "Drappier Champagne pioneered this size; each bottle weighs over 50kg full"
         }
       ],
+      "champagne_vs_bordeaux": {
+        "title": "Champagne vs Bordeaux Naming",
+        "description": "The same names don't always mean the same sizes between Champagne and still wines from Bordeaux.",
+        "differences": [
+          {
+            "name": "Jeroboam",
+            "champagne": "3L (4 bottles)",
+            "bordeaux": "4.5L (6 bottles) - called Rehoboam in Champagne"
+          },
+          {
+            "name": "Rehoboam",
+            "champagne": "4.5L (6 bottles)",
+            "bordeaux": "Not commonly used for this size"
+          },
+          {
+            "name": "Imperial",
+            "champagne": "Called Methuselah (6L)",
+            "bordeaux": "6L (8 bottles)"
+          }
+        ],
+        "why_different": "Champagne houses developed their own traditions independently from Bordeaux. The added complexity of producing sparkling wine in large formats may have influenced sizing decisions."
+      },
       "aging_explanation": {
         "title": "Why Size Affects Aging",
         "points": [
@@ -255,6 +536,159 @@
           "Slower oxidation means more gradual, complex development",
           "Magnums are considered ideal: practical size with aging benefits",
           "Very large formats are often filled from standard bottles, affecting consistency"
+        ]
+      }
+    },
+    "manufacturing": {
+      "title": "How Bottles Are Made",
+      "description": "Modern wine bottles are made through a precise industrial process that has evolved from centuries of glassblowing tradition. Understanding glass manufacturing explains why bottles look and behave as they do.",
+      "glass_composition": {
+        "title": "What Glass Is Made Of",
+        "components": [
+          {
+            "material": "Silica (SiO2)",
+            "percentage": "70-75%",
+            "source": "Sand (quartz sand)",
+            "purpose": "Primary glass-forming material"
+          },
+          {
+            "material": "Soda (Na2O)",
+            "percentage": "12-15%",
+            "source": "Soda ash (sodium carbonate)",
+            "purpose": "Flux - lowers melting temperature from 1700°C to 1500°C"
+          },
+          {
+            "material": "Lime (CaO)",
+            "percentage": "10-12%",
+            "source": "Limestone (calcium carbonate)",
+            "purpose": "Stabilizer - prevents glass from dissolving in water"
+          },
+          {
+            "material": "Colorants",
+            "percentage": "0-3%",
+            "source": "Various metal oxides",
+            "purpose": "Create green, amber, or dead-leaf colors"
+          },
+          {
+            "material": "Minor additives",
+            "percentage": "1-3%",
+            "source": "Alumina, magnesia",
+            "purpose": "Improve durability and workability"
+          }
+        ],
+        "recycled_content": "Modern wine bottles typically contain 30-90% recycled glass (cullet), reducing energy consumption by 2-3% per 10% cullet added"
+      },
+      "color_chemistry": {
+        "title": "Glass Color Chemistry",
+        "colors": [
+          {
+            "color": "Dead leaf green (feuille morte)",
+            "additive": "Iron oxide + chromium oxide",
+            "uv_protection": "90%+",
+            "common_use": "Premium wines, particularly Champagne and Burgundy"
+          },
+          {
+            "color": "Antique green",
+            "additive": "Iron oxide + sulfur compounds",
+            "uv_protection": "50-70%",
+            "common_use": "Bordeaux reds, general purpose"
+          },
+          {
+            "color": "Amber/Brown",
+            "additive": "Iron + sulfur in controlled atmosphere",
+            "uv_protection": "90%+",
+            "common_use": "Rhine wines, some dessert wines"
+          },
+          {
+            "color": "Flint/Clear",
+            "additive": "No colorants, often decolorized with selenium/cobalt",
+            "uv_protection": "~10%",
+            "common_use": "White wines, rosé (to display color)"
+          },
+          {
+            "color": "Extra dark (black)",
+            "additive": "High iron oxide + carbon",
+            "uv_protection": "99%+",
+            "common_use": "Premium reds, protection-focused producers"
+          }
+        ]
+      },
+      "manufacturing_process": {
+        "title": "The Bottle-Making Process",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Batch House",
+            "description": "Raw materials are weighed, mixed, and conveyed to the furnace. Recycled cullet is added here."
+          },
+          {
+            "step": 2,
+            "name": "Furnace",
+            "description": "Materials melt at 1500°C for 24-48 hours. Glass exits as a continuous stream at ~1100°C."
+          },
+          {
+            "step": 3,
+            "name": "Gob Forming",
+            "description": "Molten glass is cut into 'gobs' (specific weight portions) by shears."
+          },
+          {
+            "step": 4,
+            "name": "IS Machine",
+            "description": "Individual Section (IS) machine shapes bottles through blow-and-blow or press-and-blow process."
+          },
+          {
+            "step": 5,
+            "name": "Annealing",
+            "description": "Bottles pass through lehr (annealing oven), slowly cooling to relieve internal stresses. Takes 30-60 minutes."
+          },
+          {
+            "step": 6,
+            "name": "Inspection",
+            "description": "Automated cameras check for defects: cracks, bubbles, dimensional accuracy, finish quality."
+          },
+          {
+            "step": 7,
+            "name": "Packaging",
+            "description": "Bottles are palletized, often shrink-wrapped, and shipped to wineries."
+          }
+        ],
+        "speed": "Modern IS machines produce 300-500 bottles per minute per section, with machines having 8-16 sections"
+      },
+      "quality_terms": {
+        "title": "Bottle Quality Terminology",
+        "terms": [
+          {
+            "term": "Finish",
+            "definition": "The lip/mouth of the bottle where the closure seals. Critical for cork or screw cap sealing."
+          },
+          {
+            "term": "Sealing surface",
+            "definition": "The top of the finish that contacts the closure. Must be perfectly flat."
+          },
+          {
+            "term": "Bore",
+            "definition": "The internal diameter of the neck opening. Standard is 18.5mm for cork."
+          },
+          {
+            "term": "Punt/Kick-up",
+            "definition": "The indentation in the bottom. Adds strength and aids sediment collection."
+          },
+          {
+            "term": "Pushup",
+            "definition": "How deep the punt goes. Champagne bottles have very deep pushups."
+          },
+          {
+            "term": "Wall thickness",
+            "definition": "Varies from 2mm (lightweight) to 5mm+ (Champagne). Affects strength and weight."
+          },
+          {
+            "term": "Seeds",
+            "definition": "Tiny bubbles in glass - not a defect unless affecting structure."
+          },
+          {
+            "term": "Stones",
+            "definition": "Unmelted material inclusions - can cause breakage, a serious defect."
+          }
         ]
       }
     },
@@ -438,6 +872,268 @@
         "affected_wines": "White Burgundy most famously, but seen in other regions",
         "signs": ["Deep gold color in young wine", "Nutty, sherry-like nose", "Loss of freshness and acidity"],
         "note": "Premox remains debated. Some believe cork suppliers, others blame winemaking choices. Many top producers have since increased sulfur levels and improved cork selection."
+      }
+    },
+    "capsules": {
+      "title": "Capsules & Closures",
+      "description": "The capsule (foil or cap covering the cork) serves both protective and decorative purposes. Once functional, it's now largely about presentation and tamper evidence.",
+      "history": {
+        "title": "Capsule Evolution",
+        "timeline": [
+          {
+            "era": "Pre-1800s",
+            "material": "Wax seals",
+            "purpose": "Completely seal cork against air and insects"
+          },
+          {
+            "era": "1800s",
+            "material": "Lead foil",
+            "purpose": "Protect cork, prevent tampering, exclude insects"
+          },
+          {
+            "era": "1993",
+            "material": "Lead banned (FDA)",
+            "purpose": "Health concerns led to elimination of lead from wine packaging"
+          },
+          {
+            "era": "Modern",
+            "material": "Tin, aluminum, PVC, polylaminate",
+            "purpose": "Decoration, branding, tamper evidence"
+          }
+        ]
+      },
+      "materials": [
+        {
+          "type": "Tin",
+          "characteristics": "Premium appearance, soft and malleable, recyclable",
+          "cost": "Highest",
+          "common_use": "Premium wines, traditional producers",
+          "pros": ["Prestigious appearance", "Easy to remove", "Recyclable"],
+          "cons": ["Expensive", "Requires special printing"]
+        },
+        {
+          "type": "Aluminum",
+          "characteristics": "Lightweight, printable, good barrier properties",
+          "cost": "Medium-high",
+          "common_use": "Quality wines, mid-range",
+          "pros": ["Good appearance", "Recyclable", "Cost-effective"],
+          "cons": ["Can tear or crinkle"]
+        },
+        {
+          "type": "PVC (Polyvinyl Chloride)",
+          "characteristics": "Heat-shrinkable, highly printable, low cost",
+          "cost": "Low",
+          "common_use": "Volume wines, budget wines",
+          "pros": ["Cheap", "Easy to apply", "Flexible printing"],
+          "cons": ["Not recyclable with bottle", "Environmental concerns"]
+        },
+        {
+          "type": "Polylaminate",
+          "characteristics": "Multi-layer plastic/metal, printable",
+          "cost": "Medium",
+          "common_use": "Mid-range wines",
+          "pros": ["Good appearance", "Cost-effective"],
+          "cons": ["Complex recycling"]
+        },
+        {
+          "type": "Wax",
+          "characteristics": "Traditional, hand-applied, high-end appearance",
+          "cost": "High (labor-intensive)",
+          "common_use": "Artisan wines, premium cuvées",
+          "pros": ["Premium appearance", "Traditional", "Unique"],
+          "cons": ["Messy to remove", "Inconsistent seal", "Labor-intensive"]
+        },
+        {
+          "type": "None (naked cork)",
+          "characteristics": "No capsule, cork exposed",
+          "cost": "Lowest",
+          "common_use": "Natural wines, some traditional producers",
+          "pros": ["Minimalist", "No waste", "Shows cork quality"],
+          "cons": ["Cork vulnerable to damage", "Less premium appearance"]
+        }
+      ],
+      "cutting_debate": {
+        "title": "Where to Cut the Capsule",
+        "positions": [
+          {
+            "position": "Below the lip",
+            "advocates": "Traditional sommeliers, formal service",
+            "reasoning": "Prevents wine from contacting potentially contaminated capsule material when pouring"
+          },
+          {
+            "position": "At the top of the lip",
+            "advocates": "Some restaurants, casual service",
+            "reasoning": "Cleaner appearance, easier to execute"
+          },
+          {
+            "position": "Remove entirely",
+            "advocates": "Natural wine movement, home drinkers",
+            "reasoning": "Why bother with a partial cut? Just remove it all"
+          }
+        ],
+        "best_practice": "Cut below the lip (second ring from top) using a foil cutter, then wipe the rim before and after removing cork"
+      }
+    },
+    "sustainability": {
+      "title": "Environmental Considerations",
+      "description": "Wine bottles represent a significant environmental impact. The industry is slowly adopting lighter bottles, alternative packaging, and recycling initiatives.",
+      "carbon_footprint": {
+        "title": "The Weight Problem",
+        "context": "Glass production is energy-intensive, and heavy bottles increase transport emissions. A standard 750ml bottle weighs 400-500g empty; premium bottles can exceed 900g.",
+        "comparison": [
+          {
+            "format": "Heavy premium bottle (900g)",
+            "carbon_kg_per_bottle": 0.95,
+            "notes": "Marketing-driven weight, no quality benefit"
+          },
+          {
+            "format": "Standard bottle (450g)",
+            "carbon_kg_per_bottle": 0.55,
+            "notes": "Traditional weight, adequate for most wines"
+          },
+          {
+            "format": "Lightweight bottle (300g)",
+            "carbon_kg_per_bottle": 0.40,
+            "notes": "Increasingly adopted, especially in UK/Scandinavia"
+          },
+          {
+            "format": "Bag-in-box (3L)",
+            "carbon_kg_per_bottle_equiv": 0.15,
+            "notes": "80% lower than equivalent glass"
+          },
+          {
+            "format": "PET bottle",
+            "carbon_kg_per_bottle": 0.12,
+            "notes": "Lowest footprint but limited adoption"
+          },
+          {
+            "format": "Aluminum can (250ml)",
+            "carbon_kg_per_can": 0.08,
+            "notes": "Highly recyclable, growing market"
+          }
+        ]
+      },
+      "lightweight_movement": {
+        "title": "The Lightweight Bottle Movement",
+        "description": "Some regions and retailers are pushing for lighter glass to reduce carbon emissions from transport.",
+        "pioneers": [
+          {
+            "entity": "Tesco (UK retailer)",
+            "action": "Set 420g maximum for own-label wines",
+            "impact": "Significant reduction across volume wines"
+          },
+          {
+            "entity": "Systembolaget (Swedish monopoly)",
+            "action": "Prioritizes light bottles in tender evaluations",
+            "impact": "Major influence on Scandinavian market"
+          },
+          {
+            "entity": "Torres (Spain)",
+            "action": "Uses 300g bottles for many wines",
+            "impact": "Proved premium wine doesn't need heavy glass"
+          },
+          {
+            "entity": "Gérard Bertrand (France)",
+            "action": "Committed to reducing bottle weight across portfolio",
+            "impact": "Major Languedoc producer influence"
+          }
+        ],
+        "resistance": "Many premium producers resist, arguing consumers equate weight with quality. Studies show this association is learned, not innate."
+      },
+      "alternatives": {
+        "title": "Alternative Formats",
+        "formats": [
+          {
+            "format": "Bag-in-Box",
+            "market_share": "~15% globally, 50%+ in Sweden",
+            "advantages": ["80% lower carbon", "Wine stays fresh 4-6 weeks", "Lighter to transport"],
+            "disadvantages": ["Cannot age wine", "Perceived as cheap", "Limited premium adoption"]
+          },
+          {
+            "format": "Tetra Pak",
+            "market_share": "Growing in casual market",
+            "advantages": ["Lightweight", "Recyclable where facilities exist", "Unbreakable"],
+            "disadvantages": ["Cannot age", "Perceived as cheap", "Recycling infrastructure limited"]
+          },
+          {
+            "format": "Aluminum Cans",
+            "market_share": "Fast-growing (1-2%)",
+            "advantages": ["100% recyclable", "Infinitely recyclable", "Portable"],
+            "disadvantages": ["Limited to early-drinking styles", "Sulfide concerns", "Cultural resistance"]
+          },
+          {
+            "format": "PET (Plastic) Bottles",
+            "market_share": "Limited, airline/event use",
+            "advantages": ["Unbreakable", "Lightweight", "Cheap"],
+            "disadvantages": ["Oxygen permeable", "Environmental concerns", "Perceived as cheap"]
+          },
+          {
+            "format": "Flat Bottles (Garçon Wines)",
+            "market_share": "Niche",
+            "advantages": ["Fits through letterbox", "Efficient shipping", "Novel"],
+            "disadvantages": ["Limited capacity", "Different aesthetic"]
+          }
+        ]
+      },
+      "recycling": {
+        "title": "Recycling Reality",
+        "facts": [
+          {
+            "fact": "Glass is infinitely recyclable",
+            "detail": "Can be melted and reformed indefinitely without quality loss"
+          },
+          {
+            "fact": "Color separation matters",
+            "detail": "Clear, green, and amber glass must be separated for recycling"
+          },
+          {
+            "fact": "Cullet reduces energy",
+            "detail": "Each 10% recycled glass added reduces energy by 2-3%"
+          },
+          {
+            "fact": "Actual recycling rates vary",
+            "detail": "Europe: ~75%; USA: ~33%; UK: ~70%"
+          },
+          {
+            "fact": "Bottle reuse is even better",
+            "detail": "Washing and refilling has lower footprint than recycling, but hygiene and logistics are challenging"
+          }
+        ],
+        "what_you_can_do": [
+          "Remove capsules (they can jam recycling equipment)",
+          "Rinse bottles before recycling",
+          "Remove corks (natural corks can be recycled separately)",
+          "Keep glass separate from other recyclables where required"
+        ]
+      },
+      "future_trends": {
+        "title": "The Future of Wine Packaging",
+        "trends": [
+          {
+            "trend": "Paper bottles",
+            "status": "Pilot stage",
+            "example": "Frugalpac Frugal Bottle (recycled paper outer with food-grade liner)",
+            "challenge": "Barrier properties, consumer acceptance"
+          },
+          {
+            "trend": "Reusable bottles",
+            "status": "Growing interest",
+            "example": "German Mehrweg system, some natural wine bars",
+            "challenge": "Logistics, hygiene certification, bottle standardization"
+          },
+          {
+            "trend": "Carbon-neutral glass",
+            "status": "Emerging",
+            "example": "Solar/hydrogen-powered glass furnaces in development",
+            "challenge": "Energy infrastructure, cost"
+          },
+          {
+            "trend": "Weight regulation",
+            "status": "Under discussion",
+            "example": "Potential EU maximum bottle weights",
+            "challenge": "Industry resistance, luxury segment exemptions"
+          }
+        ]
       }
     }
   }

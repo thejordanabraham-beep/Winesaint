@@ -16,9 +16,9 @@ export const Wines: CollectionConfig = {
     {
       name: 'name',
       type: 'text',
-      required: true,
+      required: false,
       admin: {
-        description: 'Wine name (e.g., "Grüner Veltliner Kreutles Smaragd")',
+        description: 'Wine name/cuvée (blank for estate wines with no cuvée)',
       },
     },
     {

@@ -289,7 +289,7 @@ const Wines: CollectionConfig = {
     delete: ({ req: { user } }) => !!user,
   },
   fields: [
-    { name: 'name', type: 'text', required: true },
+    { name: 'name', type: 'text', required: false },
     { name: 'slug', type: 'text', required: true, unique: true },
     { name: 'vintage', type: 'number', required: true },
     { name: 'producer', type: 'relationship', relationTo: 'producers', required: true },

@@ -4,7 +4,12 @@ import { useState } from 'react';
 import Link from 'next/link';
 
 const RESOURCES = [
+  { name: 'Viticulture Guide', slug: 'viticulture' },
+  { name: 'Winemaking Guide', slug: 'winemaking' },
+  { name: 'Tasting Science Guide', slug: 'tasting' },
+  { name: 'Terroir Guide', slug: 'terroir' },
   { name: 'Oak Guide', slug: 'oak' },
+  { name: 'Yeast Guide', slug: 'yeast' },
   { name: 'Bottle Guide', slug: 'bottles' },
   { name: 'Glassware Guide', slug: 'glassware' },
   { name: 'Rootstock Guide', slug: 'rootstock' },

@@ -1,0 +1,1184 @@
+{
+  "guide_type": "winemaking_encyclopedia",
+  "title": "The Winemaking Guide",
+  "subtitle": "From crush to cork: the art and science of transforming grapes into wine",
+  "created_date": "2026-05-04",
+  "sections": {
+    "overview": {
+      "title": "Understanding Winemaking",
+      "description": "Winemaking (vinification) is the process of transforming grapes into wine. While viticulture determines the raw material's potential, winemaking realizes that potential - or squanders it. Great winemakers make decisive interventions at critical moments while knowing when to step back and let the wine make itself.",
+      "philosophy": {
+        "interventionist": {
+          "title": "Interventionist Approach",
+          "description": "Use all available tools to craft a specific style. Technology, additives, and technique shape the wine toward a vision. The winemaker is an artist with complete control over the medium.",
+          "key_principles": ["Inoculated fermentation", "Temperature precision", "Enzyme additions", "Micro-oxygenation", "Filtration and fining"]
+        },
+        "non_interventionist": {
+          "title": "Non-Interventionist Approach",
+          "description": "Minimal intervention allows terroir and vintage to express themselves. The winemaker is a guide, not a sculptor. 'Natural' wine takes this to its extreme.",
+          "key_principles": ["Indigenous yeast", "No temperature control", "No additions", "No fining or filtration", "Accepting variation"]
+        },
+        "balance": "Most quality producers fall between these extremes, intervening thoughtfully while respecting the fruit's character. The goal is wine that reflects both place and maker."
+      },
+      "key_terminology": [
+        {
+          "term": "Must",
+          "definition": "Freshly crushed grape juice containing skins, seeds, and pulp. The raw material for fermentation."
+        },
+        {
+          "term": "Cap",
+          "definition": "The layer of skins, seeds, and pulp that floats atop fermenting red wine. Must be managed for extraction."
+        },
+        {
+          "term": "Lees",
+          "definition": "Dead yeast cells and grape particles that settle after fermentation. Can add texture and complexity if stirred."
+        },
+        {
+          "term": "Racking",
+          "definition": "Transferring wine off its sediment to a clean vessel. Clarifies wine and introduces controlled oxygen."
+        },
+        {
+          "term": "Malolactic Fermentation",
+          "definition": "Bacterial conversion of sharp malic acid to softer lactic acid. Adds creaminess and stability."
+        },
+        {
+          "term": "Sulfites",
+          "definition": "Sulfur dioxide (SO2) added to prevent oxidation and microbial spoilage. Used since Roman times."
+        },
+        {
+          "term": "Brix",
+          "definition": "Measurement of sugar content in grape juice. Determines potential alcohol level."
+        },
+        {
+          "term": "Volatile Acidity",
+          "definition": "Acetic acid and its esters. Low levels add complexity; high levels indicate spoilage."
+        }
+      ]
+    },
+    "reception": {
+      "title": "Harvest Reception",
+      "description": "The winemaking process begins the moment grapes arrive at the winery. Speed, temperature, and careful handling in these first hours set the trajectory for the entire vintage.",
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "Arrival & Inspection",
+          "description": "Grapes arrive at the winery by truck, trailer, or small bins. Quick assessment determines processing decisions.",
+          "considerations": [
+            "Time since picking (minimizing delay is critical)",
+            "Grape temperature (cool grapes ferment better)",
+            "Fruit condition (rot, damage, ripeness)",
+            "Brix, pH, and TA measurements"
+          ],
+          "best_practice": "Process grapes within hours of picking. Night harvesting keeps fruit cool. Small bins prevent crushing under weight."
+        },
+        {
+          "id": "sorting",
+          "name": "Sorting",
+          "description": "Removing damaged, unripe, or rotten fruit before processing. Critical for quality wines.",
+          "methods": {
+            "manual": {
+              "description": "Workers visually inspect and remove unwanted material on a sorting table",
+              "advantages": ["Highly selective", "Can sort for color, size, damage"],
+              "disadvantages": ["Labor-intensive", "Slow", "Expensive"]
+            },
+            "optical": {
+              "description": "Cameras and air jets automatically eject defective berries",
+              "advantages": ["Fast", "Consistent", "Can sort individual berries"],
+              "disadvantages": ["Expensive equipment", "Requires technical expertise"]
+            },
+            "density": {
+              "description": "Berries float in salt water; ripe berries sink, unripe float",
+              "advantages": ["Effective for separating by ripeness"],
+              "disadvantages": ["Additional processing step"]
+            }
+          },
+          "when_to_sort": "Sorting is most critical when fruit quality is variable. Top estates sort meticulously; volume producers may skip entirely."
+        },
+        {
+          "id": "destemming",
+          "name": "Destemming",
+          "description": "Separating grape berries from their stems. Stems can add tannin and green flavors if included.",
+          "options": {
+            "full_destem": {
+              "description": "All stems removed before fermentation",
+              "effect": "Fruitier, softer wines; faster fermentation"
+            },
+            "partial_stems": {
+              "description": "Some percentage of whole clusters retained",
+              "effect": "Adds structure, spice, and freshness; common in Burgundy (30-100%)"
+            },
+            "whole_cluster": {
+              "description": "Entire clusters fermented with stems",
+              "effect": "Carbonic maceration character, lifted aromatics, firm tannins"
+            }
+          },
+          "regional_traditions": {
+            "burgundy": "Increasing whole cluster use, especially for Pinot Noir (30-100%)",
+            "bordeaux": "Traditionally full destemming; some experiments with whole cluster",
+            "rhone": "Historically whole cluster; modern producers vary widely",
+            "beaujolais": "Whole cluster essential for carbonic maceration"
+          }
+        },
+        {
+          "id": "crushing",
+          "name": "Crushing",
+          "description": "Breaking grape skins to release juice. The degree of crushing affects extraction and texture.",
+          "options": {
+            "hard_crush": {
+              "description": "Berries fully broken, maximum juice release",
+              "effect": "Faster fermentation start, more extraction"
+            },
+            "gentle_crush": {
+              "description": "Skins just broken, berries remain largely intact",
+              "effect": "Softer extraction, less harsh tannin"
+            },
+            "no_crush": {
+              "description": "Whole berries placed in tank intact",
+              "effect": "Intracellular (carbonic) fermentation, fruity character"
+            }
+          },
+          "white_vs_red": "White grapes are often pressed immediately after crushing; red grapes go to tank for maceration."
+        }
+      ]
+    },
+    "fermentation": {
+      "title": "Fermentation",
+      "description": "Fermentation is the magical transformation where yeast converts sugar to alcohol, carbon dioxide, and hundreds of flavor compounds. It is both the most critical and most dangerous phase of winemaking.",
+      "techniques": [
+        {
+          "id": "alcoholic-fermentation",
+          "name": "Alcoholic Fermentation",
+          "description": "Yeast (Saccharomyces cerevisiae) metabolizes grape sugars into ethanol and CO2. This primary fermentation typically takes 1-4 weeks depending on temperature and yeast activity.",
+          "equation": "C6H12O6 → 2 C2H5OH + 2 CO2 + Heat",
+          "stages": {
+            "lag_phase": "Yeast acclimates to must (0-24 hours)",
+            "exponential": "Rapid yeast growth, vigorous fermentation (2-5 days)",
+            "stationary": "Yeast population peaks, steady fermentation",
+            "decline": "Sugar depletes, yeast dies off, fermentation slows"
+          },
+          "completion": "Fermentation is complete when sugar reaches 0-2 g/L (dry) or desired residual level. Stuck fermentation is a serious problem.",
+          "byproducts": ["Glycerol (adds body)", "Higher alcohols", "Esters (fruity aromas)", "Aldehydes", "Heat"]
+        },
+        {
+          "id": "yeast-choice",
+          "name": "Yeast Selection",
+          "description": "The choice between indigenous (wild) and commercial yeast is one of winemaking's most debated decisions.",
+          "options": {
+            "indigenous": {
+              "description": "Native yeasts from vineyard and winery environment",
+              "advantages": ["Terroir expression", "Complexity", "Unique character"],
+              "disadvantages": ["Unpredictable", "Risk of stuck fermentation", "Off-flavors possible"],
+              "cross_reference": "/resources/yeast"
+            },
+            "commercial": {
+              "description": "Selected strains chosen for specific properties",
+              "advantages": ["Reliable", "Predictable", "Strain-specific character"],
+              "disadvantages": ["Potentially less complex", "Homogenization concerns"],
+              "cross_reference": "/resources/yeast"
+            }
+          }
+        },
+        {
+          "id": "temperature-control",
+          "name": "Temperature Control",
+          "description": "Fermentation temperature dramatically affects wine character. Controlling temperature is one of modern winemaking's greatest advances.",
+          "effects": {
+            "cool_fermentation": {
+              "range": "12-16°C (54-61°F)",
+              "effect": "Preserves aromatics, slow extraction, common for whites",
+              "risks": "Stuck fermentation if too cold"
+            },
+            "moderate_fermentation": {
+              "range": "18-25°C (64-77°F)",
+              "effect": "Balanced extraction, moderate speed"
+            },
+            "warm_fermentation": {
+              "range": "25-32°C (77-90°F)",
+              "effect": "Faster extraction, more tannin, richer body",
+              "risks": "Can kill yeast above 35°C, volatile aromas lost"
+            }
+          },
+          "methods": ["Jacketed stainless steel tanks", "Heat exchangers", "Cold rooms", "Ice additions (emergency)"]
+        },
+        {
+          "id": "cap-management",
+          "name": "Cap Management",
+          "description": "During red wine fermentation, skins float to form a 'cap' that must be kept moist and in contact with juice for extraction.",
+          "techniques": {
+            "punchdown": {
+              "name": "Punchdown (Pigeage)",
+              "description": "Pushing cap down into juice manually or mechanically",
+              "effect": "Gentle extraction, traditional in Burgundy",
+              "frequency": "2-4 times daily"
+            },
+            "pumpover": {
+              "name": "Pumpover (Remontage)",
+              "description": "Pumping juice from bottom over cap",
+              "effect": "More aggressive extraction, oxygenation",
+              "frequency": "2-3 times daily"
+            },
+            "rack_and_return": {
+              "name": "Rack and Return (Delestage)",
+              "description": "Draining tank completely, allowing cap to fall, then returning juice",
+              "effect": "Strong extraction, removes harsh seed tannins"
+            },
+            "rotary": {
+              "name": "Rotary Fermenters",
+              "description": "Horizontal tanks that rotate, keeping cap in constant contact",
+              "effect": "Maximum extraction, efficient but can be harsh"
+            },
+            "submerged_cap": {
+              "name": "Submerged Cap",
+              "description": "Screen holds cap below surface throughout fermentation",
+              "effect": "Gentle, continuous extraction without labor"
+            }
+          }
+        },
+        {
+          "id": "cold-soak",
+          "name": "Cold Soak (Cold Maceration)",
+          "description": "Holding crushed grapes at cold temperatures before fermentation begins. Extracts color and fruit character without tannin.",
+          "temperature": "5-10°C (41-50°F)",
+          "duration": "2-7 days",
+          "effect": "Enhanced color, fruit-forward aromatics, softer tannins",
+          "when_to_use": "Common for Pinot Noir and varieties where fruit expression is prioritized over structure",
+          "risks": "Spoilage if not properly managed; requires SO2 or inert gas"
+        },
+        {
+          "id": "extended-maceration",
+          "name": "Extended Maceration",
+          "description": "Leaving wine on skins after fermentation completes. Continues extraction but character changes.",
+          "duration": "1-8 weeks post-fermentation",
+          "effect": "Tannin polymerization (softer texture), color stability, added complexity",
+          "when_to_use": "Age-worthy reds, particularly Nebbiolo, Cabernet, Syrah",
+          "risks": "Over-extraction if fruit quality is poor"
+        }
+      ]
+    },
+    "pressing": {
+      "title": "Pressing",
+      "description": "Pressing separates juice or wine from grape solids. The timing, pressure, and method significantly affect wine quality and yield.",
+      "techniques": [
+        {
+          "id": "press-timing",
+          "name": "Press Timing",
+          "description": "When pressing occurs depends on wine style and grape color.",
+          "options": {
+            "immediate": {
+              "name": "Direct Press (Whites, Rosé)",
+              "description": "Grapes pressed immediately after crushing",
+              "effect": "Clean, fresh juice with minimal phenolics"
+            },
+            "post_fermentation": {
+              "name": "Post-Fermentation (Reds)",
+              "description": "Wine pressed after fermentation on skins",
+              "effect": "Maximum extraction achieved during fermentation"
+            },
+            "pre_fermentation": {
+              "name": "Skin Contact (Orange Wine)",
+              "description": "White grapes macerate before pressing",
+              "effect": "Phenolic extraction, amber color, tannic texture"
+            }
+          }
+        },
+        {
+          "id": "press-types",
+          "name": "Press Types",
+          "description": "Different press designs offer varying levels of extraction and quality.",
+          "types": {
+            "basket": {
+              "name": "Basket Press (Vertical)",
+              "description": "Traditional wooden or stainless basket with plate pressing from above",
+              "advantages": ["Gentle", "Traditional", "Low phenolics"],
+              "disadvantages": ["Slow", "Labor-intensive", "Lower yield"],
+              "used_for": "Premium Champagne, top estates"
+            },
+            "bladder": {
+              "name": "Bladder Press (Pneumatic)",
+              "description": "Inflatable bladder inside horizontal cylinder presses fruit against screen",
+              "advantages": ["Gentle", "Programmable", "Good yield", "Efficient"],
+              "disadvantages": ["Equipment cost"],
+              "used_for": "Standard for quality production"
+            },
+            "membrane": {
+              "name": "Membrane Press",
+              "description": "Similar to bladder but membrane presses inward from all sides",
+              "advantages": ["Very gentle", "Excellent juice quality"],
+              "used_for": "Top white wine production"
+            },
+            "continuous": {
+              "name": "Continuous Press (Screw)",
+              "description": "Screw forces fruit through decreasing-diameter tube",
+              "advantages": ["High volume", "Fast", "Economical"],
+              "disadvantages": ["Harsh extraction", "Lower quality"],
+              "used_for": "Bulk wine production"
+            }
+          }
+        },
+        {
+          "id": "press-fractions",
+          "name": "Press Fractions",
+          "description": "Juice extracted at different pressures has different character.",
+          "fractions": {
+            "free_run": {
+              "name": "Free Run",
+              "description": "Juice that flows without pressure",
+              "character": "Finest quality, delicate, fresh",
+              "percentage": "60-70% of total"
+            },
+            "light_press": {
+              "name": "Light Press",
+              "description": "First pressing at low pressure",
+              "character": "Good quality, slightly more body",
+              "percentage": "15-20%"
+            },
+            "hard_press": {
+              "name": "Hard Press",
+              "description": "Final pressing at high pressure",
+              "character": "More phenolics, bitter, harsh",
+              "percentage": "10-15%"
+            }
+          },
+          "usage": "Top producers may use only free run. Press fractions can be blended back for structure or sold separately."
+        }
+      ]
+    },
+    "mlf": {
+      "title": "Malolactic Fermentation",
+      "description": "Malolactic fermentation (MLF) is a bacterial conversion of tart malic acid to softer lactic acid. Despite the name, it's not a true fermentation but a decarboxylation. MLF profoundly affects wine texture, stability, and flavor.",
+      "techniques": [
+        {
+          "id": "mlf-basics",
+          "name": "MLF Fundamentals",
+          "description": "Lactic acid bacteria (primarily Oenococcus oeni) convert malic acid to lactic acid, releasing CO2.",
+          "equation": "Malic Acid → Lactic Acid + CO2",
+          "effects": [
+            "Reduces total acidity (softer mouthfeel)",
+            "Adds buttery/creamy notes (diacetyl)",
+            "Increases microbial stability",
+            "Reduces fresh fruit character"
+          ],
+          "timing": "Usually occurs after alcoholic fermentation, either spontaneously or by inoculation"
+        },
+        {
+          "id": "mlf-encourage",
+          "name": "Encouraging MLF",
+          "description": "Steps to promote malolactic fermentation when desired.",
+          "methods": [
+            "Inoculate with commercial bacteria",
+            "Maintain warm temperature (18-22°C)",
+            "Avoid sulfur additions until complete",
+            "Co-inoculate during alcoholic fermentation",
+            "Keep pH above 3.2"
+          ],
+          "wines_that_benefit": ["Chardonnay (creamy style)", "Most red wines", "Wines for early drinking"]
+        },
+        {
+          "id": "mlf-prevent",
+          "name": "Preventing MLF",
+          "description": "Steps to block malolactic fermentation when crisp acidity is desired.",
+          "methods": [
+            "Add SO2 immediately after alcoholic fermentation",
+            "Sterile filter to remove bacteria",
+            "Keep wine cold",
+            "Maintain low pH (below 3.1)",
+            "Use lysozyme (enzyme that kills bacteria)"
+          ],
+          "wines_that_skip": ["Crisp Sauvignon Blanc", "Riesling", "Many aromatic whites", "Some rosés"]
+        },
+        {
+          "id": "diacetyl",
+          "name": "Diacetyl & Butter",
+          "description": "Diacetyl is a byproduct of MLF responsible for buttery aromas.",
+          "chemistry": "Produced as an intermediate in bacterial metabolism; metabolized further if bacteria remain active",
+          "controlling_levels": {
+            "more_butter": "Rack wine off lees mid-MLF to preserve diacetyl",
+            "less_butter": "Allow MLF to complete fully; lees contact metabolizes diacetyl"
+          },
+          "regional_preferences": {
+            "new_world": "Often embraced in Chardonnay (butter bomb style)",
+            "burgundy": "Typically minimal; freshness preferred",
+            "chablis": "Usually blocked entirely"
+          }
+        }
+      ]
+    },
+    "aging": {
+      "title": "Aging & Maturation",
+      "description": "Aging transforms raw fermented grape juice into complex, integrated wine. Whether in barrel, tank, or bottle, time allows chemical reactions that develop texture, integrate flavors, and build complexity.",
+      "techniques": [
+        {
+          "id": "barrel-aging",
+          "name": "Barrel Aging",
+          "description": "Aging wine in wooden barrels (typically oak) adds flavor, texture, and allows controlled oxygen exposure.",
+          "effects": [
+            "Oak flavor compounds (vanilla, spice, toast)",
+            "Tannin from wood",
+            "Micro-oxygenation through staves",
+            "Concentration through evaporation",
+            "Lees contact complexity"
+          ],
+          "duration": {
+            "light_aging": "3-6 months (subtle oak influence)",
+            "moderate": "9-14 months (balanced integration)",
+            "extended": "18-36 months (significant oak character)"
+          },
+          "cross_reference": "/resources/oak"
+        },
+        {
+          "id": "lees-aging",
+          "name": "Lees Aging (Sur Lie)",
+          "description": "Keeping wine in contact with dead yeast cells (lees) adds texture and protects from oxidation.",
+          "effects": [
+            "Creamy, rich mouthfeel",
+            "Bread/brioche aromas",
+            "Natural antioxidant protection",
+            "Enhanced mouthfeel through mannoproteins"
+          ],
+          "batonnage": {
+            "description": "Stirring lees back into suspension",
+            "frequency": "Weekly to monthly",
+            "effect": "Increases yeast contact, richer texture"
+          },
+          "wines": ["Muscadet Sur Lie", "Champagne", "White Burgundy", "Some Chardonnays"]
+        },
+        {
+          "id": "tank-aging",
+          "name": "Tank Aging",
+          "description": "Aging in neutral vessels (stainless steel, concrete, or used barrels) focuses on fruit purity.",
+          "advantages": [
+            "Preserves primary fruit character",
+            "No oak influence",
+            "Cost-effective",
+            "Precise temperature control"
+          ],
+          "vessels": {
+            "stainless": "Neutral, hygienic, temperature-controlled",
+            "concrete": "Slight texture, some believe terroir connection",
+            "amphora": "Ancient method, micro-oxygenation, clay character"
+          },
+          "wines": "Aromatic whites, fresh rosés, fruit-forward reds"
+        },
+        {
+          "id": "oxidative-aging",
+          "name": "Oxidative Aging",
+          "description": "Deliberate oxygen exposure during aging creates specific styles.",
+          "examples": {
+            "sherry": "Solera system with headspace, fino/oloroso styles",
+            "vin_jaune": "Under voile (yeast film) for 6+ years",
+            "madeira": "Heated aging with air contact"
+          },
+          "effects": "Nutty, dried fruit, caramel notes; amber color development"
+        },
+        {
+          "id": "bottle-aging",
+          "name": "Bottle Aging",
+          "description": "Reductive aging in bottle allows slow chemical evolution.",
+          "effects": [
+            "Primary fruit evolves to secondary/tertiary aromas",
+            "Tannins polymerize and soften",
+            "Acids integrate",
+            "Color shifts (red: garnet to brick; white: gold to amber)"
+          ],
+          "requirements": "Cork closure (allows micro-oxygen); stable cellar conditions",
+          "timeline": {
+            "simple_wines": "Drink within 1-3 years",
+            "quality_wines": "Peak at 5-15 years",
+            "age_worthy": "Develop for 20-50+ years"
+          }
+        }
+      ]
+    },
+    "blending": {
+      "title": "Blending",
+      "description": "Blending (assemblage) is the art of combining different lots to create a final wine. Whether blending varieties, vineyards, barrels, or vintages, the goal is a whole greater than its parts.",
+      "techniques": [
+        {
+          "id": "varietal-blending",
+          "name": "Varietal Blending",
+          "description": "Combining different grape varieties to achieve complexity and balance.",
+          "famous_blends": {
+            "bordeaux_red": {
+              "varieties": ["Cabernet Sauvignon", "Merlot", "Cabernet Franc", "Petit Verdot", "Malbec"],
+              "rationale": "Cabernet provides structure, Merlot adds flesh, Cab Franc aromatics, Petit Verdot color"
+            },
+            "chateauneuf": {
+              "varieties": "Up to 13 varieties permitted",
+              "rationale": "Grenache for warmth, Syrah for spice, Mourvedre for structure"
+            },
+            "champagne": {
+              "varieties": ["Chardonnay", "Pinot Noir", "Pinot Meunier"],
+              "rationale": "Chardonnay for elegance, Pinot for body, Meunier for fruit"
+            },
+            "port": {
+              "varieties": "80+ varieties permitted; Touriga Nacional, Touriga Franca, Tinta Roriz key",
+              "rationale": "Each contributes specific characteristics to field blend"
+            }
+          }
+        },
+        {
+          "id": "lot-blending",
+          "name": "Lot Blending",
+          "description": "Blending different fermentation lots of the same variety for complexity.",
+          "reasons": [
+            "Different vineyard blocks contribute unique character",
+            "Different fermentation vessels add variety",
+            "Different pressing fractions adjust structure",
+            "Different yeast strains create complexity"
+          ],
+          "process": "Trial blends assembled; tasted over time; final blend refined"
+        },
+        {
+          "id": "vintage-blending",
+          "name": "Vintage Blending",
+          "description": "Blending wines from multiple years, common in non-vintage styles.",
+          "examples": {
+            "nv_champagne": "Base wine from current year blended with reserve wines from previous vintages",
+            "sherry": "Solera system continuously blends young and old wines",
+            "tawny_port": "Multiple vintages blended; age indicated (10, 20, 30, 40 year)"
+          },
+          "goal": "Maintain consistent house style across years"
+        },
+        {
+          "id": "blend-trials",
+          "name": "Blend Trials",
+          "description": "The process of determining final blend through systematic tasting.",
+          "process": [
+            "Taste individual lots to understand components",
+            "Create small trial blends with different proportions",
+            "Taste trials blind and over time",
+            "Refine proportions based on feedback",
+            "Confirm final blend and scale to production"
+          ],
+          "considerations": "Chemistry (pH, alcohol, acid) must work together; not just taste"
+        }
+      ]
+    },
+    "clarification": {
+      "title": "Fining & Filtration",
+      "description": "Clarification removes particles that cause haze, instability, or off-flavors. The degree of clarification is a philosophical and practical choice with implications for texture and character.",
+      "techniques": [
+        {
+          "id": "settling",
+          "name": "Natural Settling",
+          "description": "Allowing particles to fall naturally by gravity over time.",
+          "method": "Wine sits undisturbed in tank; particles settle to bottom; wine racked off",
+          "duration": "Weeks to months",
+          "advantages": ["No additives", "Gentle", "Traditional"],
+          "disadvantages": ["Slow", "May not achieve full clarity"]
+        },
+        {
+          "id": "fining",
+          "name": "Fining",
+          "description": "Adding substances that bind to particles and precipitate them out.",
+          "agents": {
+            "bentonite": {
+              "source": "Clay mineral",
+              "removes": "Proteins (prevents heat haze in whites)",
+              "character": "Neutral"
+            },
+            "egg_white": {
+              "source": "Albumin from egg whites",
+              "removes": "Harsh tannins",
+              "character": "Traditional for red Bordeaux; softens wine"
+            },
+            "isinglass": {
+              "source": "Fish bladder collagen",
+              "removes": "Fine particles in whites",
+              "character": "Very gentle, minimal stripping"
+            },
+            "casein": {
+              "source": "Milk protein",
+              "removes": "Browning, off-colors in whites",
+              "character": "Can reduce oxidation"
+            },
+            "gelatin": {
+              "source": "Animal collagen",
+              "removes": "Tannins, some color",
+              "character": "Aggressive; softens reds"
+            },
+            "pvpp": {
+              "source": "Synthetic polymer",
+              "removes": "Browning phenolics",
+              "character": "Vegan alternative"
+            },
+            "activated_charcoal": {
+              "source": "Carbon",
+              "removes": "Off-aromas, color",
+              "character": "Last resort; can strip wine"
+            }
+          },
+          "vegan_concerns": "Many traditional fining agents are animal-derived. Vegan wines use bentonite, PVPP, or remain unfined."
+        },
+        {
+          "id": "filtration",
+          "name": "Filtration",
+          "description": "Passing wine through a filter medium to remove particles.",
+          "types": {
+            "coarse": {
+              "name": "Coarse/Plate Filtration",
+              "pore_size": "2-10 microns",
+              "removes": "Large particles, yeast",
+              "effect": "Minimal impact on texture"
+            },
+            "fine": {
+              "name": "Fine Filtration",
+              "pore_size": "0.45-1 micron",
+              "removes": "Bacteria, fine particles",
+              "effect": "Some believe strips body"
+            },
+            "sterile": {
+              "name": "Sterile Filtration",
+              "pore_size": "0.45 microns",
+              "removes": "All microorganisms",
+              "effect": "Ensures stability; debated quality impact"
+            },
+            "crossflow": {
+              "name": "Crossflow Filtration",
+              "description": "Wine flows parallel to filter; gentler than perpendicular",
+              "effect": "Modern method; less stripping"
+            }
+          }
+        },
+        {
+          "id": "unfined-unfiltered",
+          "name": "Unfined & Unfiltered",
+          "description": "Philosophical choice to bottle wine with minimal intervention.",
+          "rationale": [
+            "Preserves texture and body",
+            "Respects natural character",
+            "Traditional approach",
+            "Market differentiation"
+          ],
+          "risks": [
+            "Haze or sediment (cosmetic issue)",
+            "Microbial instability",
+            "Protein haze in whites"
+          ],
+          "trend": "Increasingly common among natural wine producers and quality estates"
+        }
+      ]
+    },
+    "bottling": {
+      "title": "Bottling",
+      "description": "Bottling is the final step before wine reaches consumers. Decisions about timing, closures, and technique affect aging potential and quality.",
+      "techniques": [
+        {
+          "id": "bottling-timing",
+          "name": "Bottling Timing",
+          "description": "When to bottle depends on wine style and winemaker philosophy.",
+          "considerations": [
+            "Aromatic wines: Early bottling preserves freshness",
+            "Age-worthy wines: Extended aging before bottling",
+            "Market timing: Release dates may drive schedule",
+            "Vintage conditions: Some years need longer aging"
+          ],
+          "typical_timing": {
+            "fresh_whites": "3-6 months after harvest",
+            "barrel_aged_whites": "12-18 months",
+            "young_reds": "6-12 months",
+            "premium_reds": "18-36 months",
+            "grand_cru_burgundy": "16-20 months",
+            "vintage_port": "2 years"
+          }
+        },
+        {
+          "id": "closures",
+          "name": "Closures",
+          "description": "The choice of closure affects aging, convenience, and perception.",
+          "types": {
+            "natural_cork": {
+              "description": "Traditional bark cork from cork oak (Quercus suber)",
+              "advantages": ["Traditional", "Aging-friendly", "Sustainable"],
+              "disadvantages": ["TCA risk (cork taint)", "Variable quality", "Cost"],
+              "aging": "Micro-oxygenation through cork aids development"
+            },
+            "technical_cork": {
+              "description": "Manufactured cork with consistent properties",
+              "types": "Agglomerated, Diam, composite",
+              "advantages": ["Consistent", "Lower TCA risk", "Cost-effective"],
+              "aging": "Good for medium-term aging"
+            },
+            "screwcap": {
+              "description": "Aluminum cap with liner",
+              "advantages": ["No TCA", "Consistent", "Easy to open/reseal"],
+              "disadvantages": ["Perception (wrongly seen as cheap)", "Reductive potential"],
+              "aging": "Excellent for whites; debated for reds"
+            },
+            "glass_stopper": {
+              "description": "Glass closure with seal",
+              "advantages": ["Elegant", "No TCA", "Reusable"],
+              "disadvantages": ["Cost", "Can break"],
+              "examples": "Vino-Lok"
+            },
+            "crown_cap": {
+              "description": "Beer-style cap",
+              "use": "Champagne during aging; natural wine for freshness"
+            }
+          }
+        },
+        {
+          "id": "bottling-line",
+          "name": "Bottling Line Operations",
+          "description": "Modern bottling involves multiple synchronized steps.",
+          "steps": [
+            "Bottle washing/sterilization",
+            "Inert gas purge (nitrogen/CO2)",
+            "Filling (gravity, vacuum, or pressure)",
+            "Headspace adjustment",
+            "Cork/closure insertion",
+            "Capsule application",
+            "Labeling",
+            "Case packing"
+          ],
+          "critical_factors": {
+            "oxygen": "Minimize pickup through inert gas, low headspace",
+            "temperature": "Cool wine reduces gas solubility issues",
+            "sanitation": "Prevent contamination"
+          }
+        },
+        {
+          "id": "bottle-shock",
+          "name": "Bottle Shock",
+          "description": "Wines often taste muted or disjointed immediately after bottling.",
+          "cause": "Dissolved gases, physical disruption, temporary reduction",
+          "duration": "2-8 weeks typically",
+          "recommendation": "Rest bottles before consumption; best estates hold wine before release"
+        }
+      ]
+    },
+    "sparkling": {
+      "title": "Sparkling Wine Production",
+      "description": "Sparkling wine requires a second fermentation to create bubbles. The method used dramatically affects quality, texture, and style.",
+      "methods": [
+        {
+          "id": "traditional",
+          "name": "Traditional Method (Methode Traditionnelle)",
+          "aka": ["Methode Champenoise (Champagne only)", "Classic Method"],
+          "description": "Second fermentation occurs in the final bottle. The most prestigious and labor-intensive method.",
+          "process": [
+            "Base wine produced (typically dry, high acid)",
+            "Cuvee blended from multiple lots/vintages",
+            "Liqueur de tirage (yeast + sugar) added",
+            "Wine bottled with crown cap",
+            "Second fermentation in bottle (6-8 weeks)",
+            "Aging on lees in bottle (minimum 15 months Champagne, often years)",
+            "Riddling (remuage): bottles gradually tilted to collect lees in neck",
+            "Disgorgement (degorgement): frozen plug of lees expelled",
+            "Dosage added: liqueur d'expedition sets final sweetness",
+            "Final cork inserted"
+          ],
+          "lees_aging_effects": [
+            "Autolytic character: brioche, bread, cream",
+            "Fine, persistent bubbles",
+            "Creamy texture"
+          ],
+          "regions": "Champagne, Cremant, Cava, Franciacorta, English sparkling, quality producers worldwide"
+        },
+        {
+          "id": "charmat",
+          "name": "Tank Method (Charmat/Martinotti)",
+          "description": "Second fermentation occurs in pressurized tanks. Faster and more economical than traditional method.",
+          "process": [
+            "Base wine produced",
+            "Wine transferred to pressurized tank",
+            "Yeast and sugar added",
+            "Second fermentation in tank (2-4 weeks)",
+            "Wine filtered and bottled under pressure"
+          ],
+          "characteristics": [
+            "Preserves primary fruit character",
+            "Larger, less persistent bubbles",
+            "Fresh, fruity style",
+            "No autolytic character"
+          ],
+          "regions": "Prosecco, Lambrusco, most Asti"
+        },
+        {
+          "id": "ancestral",
+          "name": "Ancestral Method (Methode Ancestrale)",
+          "aka": ["Pet-Nat", "Methode Rurale"],
+          "description": "Original sparkling method: wine bottled before primary fermentation completes. No second fermentation or dosage.",
+          "process": [
+            "Fermentation started in tank",
+            "Wine bottled while still fermenting",
+            "Fermentation completes in bottle",
+            "Wine may or may not be disgorged"
+          ],
+          "characteristics": [
+            "Often cloudy (lees in bottle)",
+            "Lower pressure than traditional method",
+            "Unpredictable character",
+            "Funky, natural wine aesthetic"
+          ],
+          "trend": "Hugely popular with natural wine movement; Pet-Nat explosion since 2010s"
+        },
+        {
+          "id": "transfer",
+          "name": "Transfer Method",
+          "description": "Hybrid: second fermentation in bottle, then transferred to tank for filtration before re-bottling.",
+          "advantages": "Autolytic character without riddling labor",
+          "disadvantages": "Some feel quality is reduced",
+          "use": "Half bottles, large formats where riddling is impractical"
+        },
+        {
+          "id": "carbonation",
+          "name": "Carbonation (Injection)",
+          "description": "CO2 injected into still wine under pressure.",
+          "characteristics": "Large, coarse bubbles; no complexity; budget sparkling",
+          "use": "Cheap sparkling wine, wine coolers"
+        }
+      ]
+    },
+    "sweet": {
+      "title": "Sweet Wine Production",
+      "description": "Great sweet wines balance concentrated sugar with acidity. Various methods concentrate sugars or arrest fermentation to achieve sweetness.",
+      "methods": [
+        {
+          "id": "late-harvest",
+          "name": "Late Harvest",
+          "description": "Grapes left on vine past normal harvest to accumulate sugar through dehydration and continued ripening.",
+          "sugar_levels": "26-35+ Brix",
+          "regions": {
+            "alsace": "Vendange Tardive (VT)",
+            "germany": "Spatlese, Auslese",
+            "austria": "Spatlese, Auslese"
+          },
+          "character": "Rich but can retain freshness; intensity depends on drying degree"
+        },
+        {
+          "id": "noble-rot",
+          "name": "Noble Rot (Botrytis)",
+          "description": "Botrytis cinerea fungus in beneficial form concentrates sugars and adds honeyed complexity.",
+          "process": [
+            "Specific weather conditions required (morning moisture, afternoon drying)",
+            "Botrytis perforates skins, allowing water evaporation",
+            "Sugar concentrates; botrytis adds glycerol and unique flavors",
+            "Multiple selective pickings required",
+            "Fermentation slow; often arrested with residual sugar"
+          ],
+          "character": "Honeyed, apricot, marmalade; waxy texture; extreme complexity",
+          "regions": {
+            "sauternes": "Semillon, Sauvignon Blanc, Muscadelle",
+            "tokaji": "Furmint (Aszu)",
+            "germany": "Riesling Beerenauslese, Trockenbeerenauslese",
+            "loire": "Coteaux du Layon, Bonnezeaux"
+          }
+        },
+        {
+          "id": "ice-wine",
+          "name": "Ice Wine (Eiswein)",
+          "description": "Grapes frozen on vine, pressed while frozen to concentrate sugars.",
+          "process": [
+            "Grapes left on vine into winter",
+            "Harvested when frozen (below -7°C/19°F)",
+            "Pressed immediately while frozen",
+            "Water remains as ice; concentrated juice extracted",
+            "Slow fermentation"
+          ],
+          "character": "Pure, intense fruit; high acidity balances sweetness; crystalline clarity",
+          "regions": "Germany, Austria, Canada (world's largest producer), Northern US",
+          "challenges": "Weather dependent; birds, rot risk; low yields"
+        },
+        {
+          "id": "passito",
+          "name": "Dried Grape Wines (Passito/Straw Wine)",
+          "description": "Grapes dried after harvest to concentrate sugars before pressing.",
+          "methods": {
+            "appassimento": "Grapes dried on racks or mats for weeks/months",
+            "straw_wine": "Dried on straw mats (Vin de Paille)"
+          },
+          "character": "Raisined, intense, sometimes oxidative notes",
+          "regions": {
+            "italy": "Recioto, Vin Santo, Amarone (dry version)",
+            "france": "Vin de Paille (Jura)",
+            "greece": "Vinsanto (Santorini)"
+          }
+        },
+        {
+          "id": "fortification",
+          "name": "Fortification",
+          "description": "Adding grape spirit to arrest fermentation, leaving residual sugar.",
+          "process": [
+            "Fermentation started normally",
+            "Grape spirit (77% alcohol) added mid-fermentation",
+            "Yeast killed by alcohol; sugar remains",
+            "Wine reaches 18-22% alcohol"
+          ],
+          "timing_affects_style": {
+            "early_fortification": "Sweeter (more RS) - Ruby Port",
+            "later_fortification": "Drier - some Sherry styles"
+          },
+          "cross_reference": "See Fortified Wines section"
+        },
+        {
+          "id": "arrested",
+          "name": "Arrested Fermentation",
+          "description": "Stopping fermentation before all sugar is consumed, without fortification.",
+          "methods": [
+            "Chilling wine to halt yeast activity",
+            "Sterile filtration to remove yeast",
+            "Sulfur dioxide addition",
+            "Centrifugation"
+          ],
+          "examples": "Many German Rieslings (Kabinett through Auslese levels)",
+          "risk": "Remaining yeast can restart fermentation; requires careful stabilization"
+        }
+      ]
+    },
+    "fortified": {
+      "title": "Fortified Wines",
+      "description": "Fortified wines have grape spirit added during or after fermentation. This tradition began as a preservation method for shipping but evolved into distinctive wine styles.",
+      "styles": [
+        {
+          "id": "port",
+          "name": "Port",
+          "region": "Douro Valley, Portugal",
+          "description": "Sweet fortified wine; spirit added mid-fermentation to preserve sugar.",
+          "styles": {
+            "ruby": {
+              "name": "Ruby Port",
+              "aging": "2-3 years in large vessels",
+              "character": "Fresh, fruity, deep red"
+            },
+            "tawny": {
+              "name": "Tawny Port",
+              "aging": "Extended aging in small barrels; oxygen exposure",
+              "character": "Nutty, caramel, amber color",
+              "ages": "10, 20, 30, 40 year designations"
+            },
+            "vintage": {
+              "name": "Vintage Port (Vintage, Single Quinta)",
+              "aging": "2-3 years in barrel, decades in bottle",
+              "character": "Complex, age-worthy, structured"
+            },
+            "colheita": {
+              "name": "Colheita",
+              "aging": "Single vintage aged as Tawny",
+              "character": "Tawny character with vintage declaration"
+            },
+            "white": {
+              "name": "White Port",
+              "character": "From white grapes; dry to sweet"
+            }
+          },
+          "production": "Fermentation stopped by fortification at ~6-9% alcohol; final wine 19-22%"
+        },
+        {
+          "id": "sherry",
+          "name": "Sherry",
+          "region": "Jerez, Spain",
+          "description": "Fortified wine aged oxidatively or under flor yeast. Immense style diversity from bone-dry to intensely sweet.",
+          "styles": {
+            "fino": {
+              "name": "Fino",
+              "aging": "Under flor (yeast film); biological aging",
+              "character": "Bone dry, pale, almond, saline",
+              "fortification": "15.5% (allows flor survival)"
+            },
+            "manzanilla": {
+              "name": "Manzanilla",
+              "aging": "Fino aged in Sanlucar de Barrameda",
+              "character": "Lighter, more saline than Fino"
+            },
+            "amontillado": {
+              "name": "Amontillado",
+              "aging": "Biological then oxidative",
+              "character": "Amber, nutty, complex"
+            },
+            "oloroso": {
+              "name": "Oloroso",
+              "aging": "Oxidative only (no flor)",
+              "character": "Dark, rich, walnut, dried fruit",
+              "fortification": "17%+ (kills flor)"
+            },
+            "palo_cortado": {
+              "name": "Palo Cortado",
+              "aging": "Mysterious: begins as Fino, evolves to Oloroso character",
+              "character": "Combines Amontillado aroma with Oloroso body"
+            },
+            "pedro_ximenez": {
+              "name": "Pedro Ximenez (PX)",
+              "aging": "From sun-dried PX grapes",
+              "character": "Intensely sweet, molasses, raisins"
+            }
+          },
+          "solera": "Fractional blending system: wine drawn from oldest barrels, refreshed from younger. Average age, not single vintage."
+        },
+        {
+          "id": "madeira",
+          "name": "Madeira",
+          "region": "Madeira Island, Portugal",
+          "description": "Fortified wine deliberately heated during aging. Virtually indestructible; can age for centuries.",
+          "estufagem": {
+            "description": "Heating process that defines Madeira",
+            "methods": {
+              "estufas": "Large tanks heated to 45-50°C for 3 months (basic wines)",
+              "canteiro": "Natural attic heat over years (premium wines)"
+            },
+            "effect": "Maderization: caramel, oxidation, extraordinary stability"
+          },
+          "styles": {
+            "sercial": "Driest; high acid, citrus, almond",
+            "verdelho": "Off-dry; smoky, honey",
+            "bual": "Medium-sweet; caramel, dried fruit",
+            "malmsey": "Sweetest; rich, chocolate, coffee"
+          },
+          "aging": "3 year (bulk), 5 year, 10 year, 15 year, 20 year, vintage (20+ years)"
+        },
+        {
+          "id": "vdn",
+          "name": "Vin Doux Naturel (VDN)",
+          "region": "Southern France (Roussillon, Rhone)",
+          "description": "French fortified wines, spirit added mid-fermentation.",
+          "styles": {
+            "muscat": "Muscat de Beaumes-de-Venise, Muscat de Rivesaltes - sweet, grapey",
+            "banyuls": "Grenache-based; Port-like character",
+            "maury": "Grenache; can be vintage dated",
+            "rivesaltes": "Various styles; can age decades"
+          }
+        }
+      ]
+    },
+    "orange": {
+      "title": "Orange & Skin-Contact Wines",
+      "description": "Orange wine is white wine made like red wine: with extended skin contact. This ancient method, revived in recent decades, creates wines with amber color, tannic texture, and unique character.",
+      "techniques": [
+        {
+          "id": "skin-contact-basics",
+          "name": "Extended Maceration",
+          "description": "White grapes fermented on their skins for days to months, extracting color, tannin, and phenolics.",
+          "duration": {
+            "light": "3-7 days (some texture, minimal color)",
+            "moderate": "2-4 weeks (amber color, noticeable tannin)",
+            "extended": "2-6 months (deep amber, significant structure)"
+          },
+          "fermentation": "Usually spontaneous (indigenous yeast); often in amphora or neutral vessels"
+        },
+        {
+          "id": "vessel-choice",
+          "name": "Vessel Choice",
+          "description": "Container affects character significantly.",
+          "options": {
+            "amphora": {
+              "description": "Clay vessels, traditional in Georgia",
+              "effect": "Micro-oxygenation, earthy character, temperature stability"
+            },
+            "qvevri": {
+              "description": "Georgian clay vessels buried underground",
+              "effect": "Traditional, stable temperature, specific terroir connection"
+            },
+            "wood": {
+              "description": "Fermentation/maceration in barrel",
+              "effect": "Oak influence possible; oxidative potential"
+            },
+            "concrete": {
+              "description": "Concrete eggs or tanks",
+              "effect": "Neutral but breathable; gentle texture"
+            }
+          }
+        },
+        {
+          "id": "georgian-tradition",
+          "name": "Georgian Qvevri Wines",
+          "description": "8,000-year tradition of fermenting in buried clay vessels (qvevri).",
+          "process": [
+            "Grapes (often Rkatsiteli, Mtsvane) crushed and placed in qvevri",
+            "Fermentation with skins, stems, seeds",
+            "Qvevri buried to neck; sealed with clay",
+            "Extended maceration (up to 6 months)",
+            "Wine removed, qvevri cleaned for next vintage"
+          ],
+          "unesco": "Georgian qvevri winemaking inscribed on UNESCO Intangible Cultural Heritage list (2013)",
+          "character": "Deep amber, tannic, oxidative notes, dried fruit, tea"
+        },
+        {
+          "id": "modern-producers",
+          "name": "Modern Orange Wine Movement",
+          "description": "Revival of skin-contact whites beginning in 1990s, particularly in Slovenia and Friuli.",
+          "pioneers": [
+            "Josko Gravner (Friuli) - adopted Georgian methods",
+            "Stanko Radikon (Friuli)",
+            "Ales Kristancic (Slovenia)",
+            "Frank Cornelissen (Etna)"
+          ],
+          "spread": "Now produced globally from Australia to Oregon; standard category in natural wine"
+        },
+        {
+          "id": "food-pairing",
+          "name": "Food Pairing",
+          "description": "Orange wines' structure makes them versatile with food.",
+          "pairings": [
+            "Cured meats and charcuterie",
+            "Hard aged cheeses",
+            "Rich, savory dishes",
+            "Asian cuisine (spice-friendly)",
+            "Vegetable dishes with bitter elements"
+          ],
+          "serving": "Slightly cool (12-16°C), not cold like typical whites"
+        }
+      ]
+    },
+    "natural": {
+      "title": "Natural Wine",
+      "description": "Natural wine is a philosophy as much as a category: minimal intervention in vineyard and cellar, letting grapes express themselves without technological manipulation. Definitions vary, but the spirit emphasizes transparency and authenticity.",
+      "principles": [
+        {
+          "id": "vineyard",
+          "name": "Vineyard Practices",
+          "requirements": [
+            "Organic or biodynamic farming (usually)",
+            "Hand harvesting",
+            "No synthetic inputs",
+            "Healthy, ripe fruit"
+          ]
+        },
+        {
+          "id": "cellar",
+          "name": "Cellar Practices",
+          "requirements": [
+            "Indigenous yeast fermentation",
+            "No temperature control (debated)",
+            "No or minimal sulfur",
+            "No fining or filtration",
+            "No additives (enzymes, tannin, acid, etc.)"
+          ]
+        },
+        {
+          "id": "sulfur-debate",
+          "name": "The Sulfur Question",
+          "description": "Sulfur dioxide (SO2) use is the most contentious natural wine debate.",
+          "positions": {
+            "zero_sulfur": "Purist position; no additions whatsoever",
+            "minimal_sulfur": "Small amount at bottling only (<30mg/L total)",
+            "pragmatic": "What's needed for stability, but minimal"
+          },
+          "effects": "Without sulfur, wines are more fragile, variable, and prone to faults (or funky character, depending on perspective)"
+        },
+        {
+          "id": "faults-vs-features",
+          "name": "Faults vs Features",
+          "description": "Natural wines often show characteristics considered faults in conventional wine.",
+          "examples": {
+            "volatile_acidity": "Vinegar notes: fault or complexity?",
+            "brettanomyces": "Barnyard, band-aid: terroir or spoilage?",
+            "oxidation": "Nutty notes: intentional or accidental?",
+            "mousiness": "Increasingly recognized as genuine fault"
+          },
+          "perspective": "Natural wine proponents argue these add character; critics call them spoilage"
+        },
+        {
+          "id": "certifications",
+          "name": "Certifications & Labels",
+          "description": "Various attempts to define 'natural wine' officially.",
+          "examples": {
+            "vin_methode_nature": "French label; organic grapes, indigenous yeast, no sulfur or <30mg/L",
+            "triple_a": "Italian informal certification",
+            "raw_wine": "Fair/event-based community standards"
+          },
+          "challenge": "No universal definition; some prefer it that way"
+        }
+      ]
+    }
+  }
+}
