@@ -5,6 +5,9 @@ import ExercisePlayer, {
   type PlayerExercise,
 } from '@/components/learn/ExercisePlayer'
 
+// Render at request time, not build time — see learn/page.tsx for rationale.
+export const dynamic = 'force-dynamic'
+
 export const metadata = {
   title: 'Practice | Wine Saint',
 }

@@ -4,6 +4,9 @@ import { getPayload } from 'payload'
 import config from '@payload-config'
 import { LessonRichText } from '@/components/learn/LessonRichText'
 
+// Render at request time, not build time — see learn/page.tsx for rationale.
+export const dynamic = 'force-dynamic'
+
 const TRACK_LABELS: Record<string, string> = {
   france: 'France Mastery',
   italy: 'Italy Mastery',

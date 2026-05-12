@@ -2,6 +2,11 @@ import Link from 'next/link'
 import { getPayload } from 'payload'
 import config from '@payload-config'
 
+// Render at request time, not build time. Payload's schema sync (push:true)
+// runs at runtime, so the lessons table doesn't exist when Next.js tries to
+// prerender during the build.
+export const dynamic = 'force-dynamic'
+
 export const metadata = {
   title: 'Education | Wine Saint',
   description:
