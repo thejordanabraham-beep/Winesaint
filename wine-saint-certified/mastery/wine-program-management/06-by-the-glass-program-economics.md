@@ -2,10 +2,10 @@
 
 ---
 
-**Program:** Wine Saint Certified — Wine Program Management Mastery
+**Program:** Wine Saint Certified: Wine Program Management Mastery
 **Level:** Wine Program Management — By-the-Glass Program Economics
 **Module:** 6
-**Audience:** Corporate hospitality professionals — beverage directors, sommeliers, F&B managers
+**Audience:** Corporate hospitality professionals: beverage directors, sommeliers, F&B managers
 **Estimated Duration:** 60–75 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent
 
@@ -21,17 +21,17 @@ By the end of this module, you will be able to:
 - Apply oxidation timelines by wine style and match appropriate preservation technology to the operation's volume and investment profile
 - Build a freshness-rotation system that prevents quality degradation, trains staff to detect problems, and minimizes revenue loss from compromised bottles
 - Use the BTG program as a structured discovery vehicle to educate guests, build loyalty, and convert glass drinkers into bottle purchasers
-- Diagnose and correct common BTG program failures — over-selection, poor tier balance, absence of rotation protocols, and underinvestment in preservation
+- Diagnose and correct common BTG program failures, over-selection, poor tier balance, absence of rotation protocols, and underinvestment in preservation
 
 ---
 
 ## Section 1: Why BTG Is the Engine of the Program
 
-Walk into any full-service restaurant and look at the wine sales data for a quarter. In most operations, by-the-glass sales account for 55 to 70 percent of total wine revenue by units sold and, depending on pricing strategy, 45 to 60 percent of wine revenue by dollar value. The BTG program is not a secondary feature of the wine list — it is the primary commercial vehicle.
+Walk into any full-service restaurant and look at the wine sales data for a quarter. In most operations, by-the-glass sales account for 55 to 70 percent of total wine revenue by units sold and, depending on pricing strategy, 45 to 60 percent of wine revenue by dollar value. The BTG program is not a secondary feature of the wine list, it is the primary commercial vehicle.
 
-This dominance is not surprising when you consider guest behavior. The majority of restaurant diners — even at upper-casual and fine dining price points — come to a restaurant with no intention of buying a bottle. They want one or two glasses with dinner. The BTG program is their entire interaction with the wine program. If it is weak, confusing, poorly priced, or stale, those guests disengage from wine entirely and default to cocktails or beer. If it is strong, they drink well, tip on a higher check average, return, and eventually become bottle buyers.
+This dominance is not surprising when you consider guest behavior. The majority of restaurant diners, even at upper-casual and fine dining price points, come to a restaurant with no intention of buying a bottle. They want one or two glasses with dinner. The BTG program is their entire interaction with the wine program. If it is weak, confusing, poorly priced, or stale, those guests disengage from wine entirely and default to cocktails or beer. If it is strong, they drink well, tip on a higher check average, return, and eventually become bottle buyers.
 
-Server confidence is directly tied to BTG structure. A server who knows four BTG selections thoroughly will outsell a server who nominally knows twenty. The BTG list defines the practical ceiling of most servers' wine knowledge — they sell what they can talk about with confidence. A bloated, unfocused BTG list creates anxiety at the table and default orders ("I'll have whatever the house Cab is"). A well-constructed BTG list gives servers a genuine narrative: this is what we pour and why, and here is what makes each selection worth your attention.
+Server confidence is directly tied to BTG structure. A server who knows four BTG selections thoroughly will outsell a server who nominally knows twenty. The BTG list defines the practical ceiling of most servers' wine knowledge, they sell what they can talk about with confidence. A bloated, unfocused BTG list creates anxiety at the table and default orders ("I'll have whatever the house Cab is"). A well-constructed BTG list gives servers a genuine narrative: this is what we pour and why, and here is what makes each selection worth your attention.
 
 Table average is the metric most directly affected by BTG program quality. A table of four dining for 90 minutes may each consume two to three glasses. At a $14 entry pour versus a $20 mid-tier pour, that is a check impact of $48 to $72 in wine revenue on that table alone. Multiplied across 40 covers on a Saturday night, the difference between a well-priced, well-staffed BTG program and an indifferent one is thousands of dollars in weekly revenue.
 
@@ -39,7 +39,7 @@ Brand perception is the least quantifiable but arguably most durable effect. Gue
 
 The implication for the beverage director or sommelier is clear: the BTG list is not the place to park leftover inventory or fill commodity slots with minimum-cost pours. It is the most public expression of the program's values, and it deserves the most deliberate attention in the portfolio.
 
-> **Pro Tip:** Run a BTG-to-bottle conversion analysis quarterly. For every BTG selection, track how often a guest who starts with a glass of that wine converts to a bottle of the same wine or a wine from the same producer's full-bottle offering. Selections with high conversion rates are doing double duty — generating immediate revenue and driving bottle sales. Selections with zero conversion rates are candidates for replacement with something more compelling.
+> **Pro Tip:** Run a BTG-to-bottle conversion analysis quarterly. For every BTG selection, track how often a guest who starts with a glass of that wine converts to a bottle of the same wine or a wine from the same producer's full-bottle offering. Selections with high conversion rates are doing double duty, generating immediate revenue and driving bottle sales. Selections with zero conversion rates are candidates for replacement with something more compelling.
 
 ---
 
@@ -49,9 +49,9 @@ The most common BTG program mistakes are structural: too many selections, wrong 
 
 ### How Many Selections Is Right?
 
-Research on choice overload in consumer behavior — most influentially Barry Schwartz's work on the "paradox of choice" — consistently finds that beyond a certain number of options, additional choices do not increase satisfaction. They increase anxiety, decision paralysis, and the tendency to default to familiar brands. For wine, the practical threshold for table-service environments is well-established through operational experience: 8 to 12 BTG selections is the sweet spot for most full-service restaurants.
+Research on choice overload in consumer behavior (most influentially Barry Schwartz's work on the "paradox of choice") consistently finds that beyond a certain number of options, additional choices do not increase satisfaction. They increase anxiety, decision paralysis, and the tendency to default to familiar brands. For wine, the practical threshold for table-service environments is well-established through operational experience: 8 to 12 BTG selections is the sweet spot for most full-service restaurants.
 
-Casual dining can operate with 6 to 8 selections. Fine dining can extend to 12 to 16, particularly if flights or half-pours are offered. Above 16 to 20 selections, turnover problems multiply — you cannot move enough volume of each selection to keep wines fresh, preservation costs climb, and staff cannot maintain genuine knowledge of the full list.
+Casual dining can operate with 6 to 8 selections. Fine dining can extend to 12 to 16, particularly if flights or half-pours are offered. Above 16 to 20 selections, turnover problems multiply, you cannot move enough volume of each selection to keep wines fresh, preservation costs climb, and staff cannot maintain genuine knowledge of the full list.
 
 The specific number should be calibrated to cover count and average daily sales velocity. A restaurant that turns 80 covers on a weeknight and 150 on weekends can sustain 12 BTG selections with proper rotation. A 40-cover neighborhood wine bar running 5 nights a week may be better served by 8 to 10 selections that rotate weekly.
 
@@ -68,11 +68,11 @@ A baseline structure for 10 BTG selections:
 | Rosé | 1 | Year-round if volume supports it; seasonal rotation acceptable |
 | Red | 3–4 | Spread across weight: lighter, medium, full-bodied |
 
-This allocation leaves 1 to 2 flex slots for the program's point of view — an orange wine, a fortified pour, a natural wine, a regional specialty. Those flex slots are where program identity is expressed.
+This allocation leaves 1 to 2 flex slots for the program's point of view, an orange wine, a fortified pour, a natural wine, a regional specialty. Those flex slots are where program identity is expressed.
 
 ### Tier Structure and Pricing
 
-Every functional BTG program needs at least three pricing tiers: entry, mid, and premium. A single-tier program (all pours the same price) eliminates upsell opportunity and forces the sommelier to compete only on persuasion rather than price accessibility. A program with only cheap and expensive options — the missing middle — strands the majority of guests who are willing to spend modestly more but will not jump to a significantly higher price.
+Every functional BTG program needs at least three pricing tiers: entry, mid, and premium. A single-tier program (all pours the same price) eliminates upsell opportunity and forces the sommelier to compete only on persuasion rather than price accessibility. A program with only cheap and expensive options, the missing middle, strands the majority of guests who are willing to spend modestly more but will not jump to a significantly higher price.
 
 Typical tier structures in major U.S. markets (2025–2026):
 
@@ -82,11 +82,11 @@ Typical tier structures in major U.S. markets (2025–2026):
 | Mid | $16–$22 | $14–$22 | 22–26% |
 | Premium | $22–$40+ | $20–$45 | 20–25% |
 
-Premium tiers should not be merely more expensive — they should be genuinely differentiated. The premium pour that is simply a more expensive Napa Cabernet does not work as well as the premium pour that is a Barolo, a serious Burgundy, or a producer the program has a story about.
+Premium tiers should not be merely more expensive, they should be genuinely differentiated. The premium pour that is simply a more expensive Napa Cabernet does not work as well as the premium pour that is a Barolo, a serious Burgundy, or a producer the program has a story about.
 
 ### Reflecting Program Identity
 
-The BTG list should be readable as a statement of the program's curatorial point of view. A list of twelve by-the-glass selections that are all from California tells a story. So does a list that is exclusively European. Neither is inherently wrong — but a list that is twelve unrelated, commodity-driven selections from eight countries with no internal logic tells no story at all, and that incoherence is felt by guests even when they cannot name it.
+The BTG list should be readable as a statement of the program's curatorial point of view. A list of twelve by-the-glass selections that are all from California tells a story. So does a list that is exclusively European. Neither is inherently wrong, but a list that is twelve unrelated, commodity-driven selections from eight countries with no internal logic tells no story at all, and that incoherence is felt by guests even when they cannot name it.
 
 Choose BTG selections that can be connected to each other through a narrative the service team can articulate. The narrative can be regional, varietal, producer-driven, or conceptual ("we pour wines from small, family-owned producers only"). The specific content matters less than the coherence.
 
@@ -96,19 +96,19 @@ Choose BTG selections that can be connected to each other through a narrative th
 
 ## Section 3: The Economics of a Poured Glass
 
-Wine program profitability is determined by the gap between what a wine costs you and what you sell it for, calibrated against actual yield. The BTG pour is where this math is most exposed — and most often miscalculated.
+Wine program profitability is determined by the gap between what a wine costs you and what you sell it for, calibrated against actual yield. The BTG pour is where this math is most exposed, and most often miscalculated.
 
 ### The Core Yield Math
 
 A standard 750ml bottle contains 25.4 fluid ounces. Industry standard pour sizes are:
 
-- **5 oz (standard):** 5.08 pours per bottle — round to **5 pours**
-- **6 oz (generous):** 4.23 pours per bottle — round to **4 pours**
+- **5 oz (standard):** 5.08 pours per bottle: round to **5 pours**
+- **6 oz (generous):** 4.23 pours per bottle: round to **4 pours**
 
 These theoretical yields assume perfect pours. In practice, yield is reduced by:
 
-- **Over-pouring:** The most common and most expensive yield killer. A server who consistently pours 5.5 oz instead of 5 oz is losing a full glass every 9 pours — approximately one glass per 1.5 bottles opened. At a $15 selling price, that is $10 lost per bottle compared to perfect-pour yield.
-- **Spillage:** Minimal with proper equipment and training — budget 0.25 to 0.5 oz per bottle for spillage and residual bottle waste.
+- **Over-pouring:** The most common and most expensive yield killer. A server who consistently pours 5.5 oz instead of 5 oz is losing a full glass every 9 pours, approximately one glass per 1.5 bottles opened. At a $15 selling price, that is $10 lost per bottle compared to perfect-pour yield.
+- **Spillage:** Minimal with proper equipment and training, budget 0.25 to 0.5 oz per bottle for spillage and residual bottle waste.
 - **Tasting pours and comped glasses:** Track these separately as controllable expenses.
 - **Oxidized pour pull:** If a bottle is pulled because wine has oxidized past acceptable quality, the remaining pours in that bottle are pure loss. This is the hardest yield killer to account for in advance, which is why preservation systems (covered in Section 4) are not a luxury but an economic necessity.
 
@@ -141,7 +141,7 @@ To find the selling price required to hit a target pour cost:
 - Target pour cost: 25%
 - Required selling price: $2.22 ÷ 0.25 = **$8.88 → price at $9 or $10**
 
-At $10/glass this wine runs a 22.2% pour cost — healthy. At $9/glass it runs 24.7% — acceptable. At $8/glass it runs 27.8% — marginally acceptable. Below $8 you are in menu value territory but margin is thinning.
+At $10/glass this wine runs a 22.2% pour cost, healthy. At $9/glass it runs 24.7%, acceptable. At $8/glass it runs 27.8%, marginally acceptable. Below $8 you are in menu value territory but margin is thinning.
 
 **Example 2: Mid-tier red**
 
@@ -161,7 +161,7 @@ At $10/glass this wine runs a 22.2% pour cost — healthy. At $9/glass it runs 2
 - Target pour cost: 22%
 - Required selling price: $10.00 ÷ 0.22 = **$45.45 → price at $46 or $48**
 
-Note that moving from a 5 oz to a 6 oz pour on a $40 bottle reduces yield from 4.5 to 4 pours, increasing cost per pour from $8.89 to $10.00 — a $1.11 increase. On a premium pour, this is manageable. On an entry-tier pour, it is the difference between a profitable glass and a break-even one.
+Note that moving from a 5 oz to a 6 oz pour on a $40 bottle reduces yield from 4.5 to 4 pours, increasing cost per pour from $8.89 to $10.00, a $1.11 increase. On a premium pour, this is manageable. On an entry-tier pour, it is the difference between a profitable glass and a break-even one.
 
 ### The Over-Pour Tax
 
@@ -173,7 +173,7 @@ This is worth calculating explicitly for every beverage director. If your progra
 
 Over-pour is a solvable problem. Jigger-pour training, regular line audits, marked glassware lines, and management spot-checking at service dramatically reduce over-pour variance. The return on investment for pour training is immediate.
 
-> **Pro Tip:** Audit your BTG pour sizes during a live service once a quarter — not by counting pours after the fact, but by weighing a filled glass immediately after it is poured before it reaches the guest. A 5 oz pour of a wine at approximately 8% specific gravity should weigh 148–150 grams. Any pour over 160 grams is a 0.5+ oz over-pour. This is the fastest way to identify habitual over-pourers on your floor team.
+> **Pro Tip:** Audit your BTG pour sizes during a live service once a quarter, not by counting pours after the fact, but by weighing a filled glass immediately after it is poured before it reaches the guest. A 5 oz pour of a wine at approximately 8% specific gravity should weigh 148–150 grams. Any pour over 160 grams is a 0.5+ oz over-pour. This is the fastest way to identify habitual over-pourers on your floor team.
 
 ---
 
@@ -196,9 +196,9 @@ The rate of oxidation is not uniform across wine styles. Structure, sugar, and S
 | Skin-contact/orange wines | 5–7 days | Higher phenolics from skin contact extend window |
 | Fortified wines (Sherry, Port, Madeira) | 2–6 weeks (style-dependent) | High alcohol plus fortification dramatically extends shelf life |
 
-These windows assume proper storage: re-sealed with a tight stopper, refrigerated (all wines, including reds — slow refrigeration dramatically extends life compared to ambient storage), and away from agitation.
+These windows assume proper storage: re-sealed with a tight stopper, refrigerated (all wines, including reds, slow refrigeration dramatically extends life compared to ambient storage), and away from agitation.
 
-The standard that should govern your BTG program is this: **if you would not pour a glass of it yourself, it does not go to a guest**. The cost of serving a degraded glass — in the complaint, the free replacement, and the lasting impression on the guest — exceeds the cost of pulling the bottle.
+The standard that should govern your BTG program is this: **if you would not pour a glass of it yourself, it does not go to a guest**. The cost of serving a degraded glass (in the complaint, the free replacement, and the lasting impression on the guest) exceeds the cost of pulling the bottle.
 
 ### Preservation Systems
 
@@ -209,7 +209,7 @@ The Coravin system inserts a thin needle through the natural cork, allowing wine
 - Best for: Premium pours with high bottle cost, wines ordered infrequently, cellar selections available by the glass
 - Investment: $300–$700 per unit depending on model
 - Ongoing cost: Argon capsules at approximately $10–$15 per capsule; each capsule yields 15–25 pours depending on pour size
-- Per-pour argon cost: approximately $0.50–$0.80 — add to cost model
+- Per-pour argon cost: approximately $0.50–$0.80, add to cost model
 - Limitation: Works only with natural corks; ineffective with screwcaps or synthetic closures; does not work with sparkling wines
 
 **Enomatic / Wine-on-Tap Preservation Dispensing**
@@ -235,26 +235,26 @@ Rubber stoppers and a hand pump used to remove air from open bottles, creating a
 
 - Best for: White and lighter reds at entry tier when speed and cost are priorities
 - Investment: Under $20 for a basic kit
-- Limitation: Vacuum is never total; residual oxygen remains; effective window extension is modest (1–2 days). Not suitable for sparkling wines — removing CO₂ is irreversible.
+- Limitation: Vacuum is never total; residual oxygen remains; effective window extension is modest (1–2 days). Not suitable for sparkling wines, removing CO₂ is irreversible.
 - Not recommended as primary preservation for premium selections
 
 ### Matching System to Operation
 
 The investment decision should be driven by average bottle cost on the BTG list, volume of bottles opened nightly, and the revenue at risk from oxidation loss.
 
-A program with a $25 average BTG bottle cost opening 8 bottles per night has $200 of nightly inventory at oxidation risk. If 20% of that is lost to oxidation annually (a conservative estimate for a program with no preservation), that is $40/night × 300 days = **$12,000 per year in pure loss** — before considering the guest experience cost of serving degraded wine. An Enomatic system at $5,000 capital cost pays back in under five months.
+A program with a $25 average BTG bottle cost opening 8 bottles per night has $200 of nightly inventory at oxidation risk. If 20% of that is lost to oxidation annually (a conservative estimate for a program with no preservation), that is $40/night × 300 days = **$12,000 per year in pure loss**: before considering the guest experience cost of serving degraded wine. An Enomatic system at $5,000 capital cost pays back in under five months.
 
-> **Pro Tip:** Every BTG pour on a Coravin or Enomatic system should carry a visible "preserved by argon" or "poured by the glass fresh" note — either on the menu or as a server talking point. Guests who understand that a $38 glass of Barolo is poured under argon gas without opening the bottle find the premium completely justified. The preservation story is itself a sales tool.
+> **Pro Tip:** Every BTG pour on a Coravin or Enomatic system should carry a visible "preserved by argon" or "poured by the glass fresh" note, either on the menu or as a server talking point. Guests who understand that a $38 glass of Barolo is poured under argon gas without opening the bottle find the premium completely justified. The preservation story is itself a sales tool.
 
 ---
 
 ## Section 5: Rotation and Freshness Management
 
-A BTG program without a rotation system is a program that will eventually serve bad wine. Not occasionally, not as an exception — as a structural inevitability. Freshness management is not a quality aspiration; it is a revenue protection protocol.
+A BTG program without a rotation system is a program that will eventually serve bad wine. Not occasionally, not as an exception, as a structural inevitability. Freshness management is not a quality aspiration; it is a revenue protection protocol.
 
 ### Building Rotation Into the Program
 
-Rotation begins at list construction. Every BTG selection should have an expected weekly consumption rate based on historical sales data. If a selection is selling fewer than one bottle every three days, it is not moving fast enough to stay fresh without preservation — either the price is wrong, the selection is mismatched to the guest profile, or the service team is not selling it effectively.
+Rotation begins at list construction. Every BTG selection should have an expected weekly consumption rate based on historical sales data. If a selection is selling fewer than one bottle every three days, it is not moving fast enough to stay fresh without preservation, either the price is wrong, the selection is mismatched to the guest profile, or the service team is not selling it effectively.
 
 A practical rotation framework:
 
@@ -278,25 +278,25 @@ The front-of-house team is the last quality checkpoint before wine reaches a gue
 - **Flat or candied aroma in whites:** Loss of primary fruit character; aromatic wines (Riesling, Viognier) should smell vivid and varietal; a dull, candied, or vinegary note signals the wine is past its prime
 - **Cooked or "hot" quality in reds:** As reds oxidize, the fruit recedes and the alcohol forward quality increases; wine smells warm and flat rather than fruited
 - **Reduced or "struck match" quality:** A reduction fault that often appears immediately after opening a bottle; give the wine 5 minutes in the glass; if the sulfurous note does not dissipate, the wine may be in a reductive state that will not resolve
-- **Refermentation/carbonation in still wines:** Tiny bubbles in a still wine indicate in-bottle secondary fermentation — pull the bottle immediately
+- **Refermentation/carbonation in still wines:** Tiny bubbles in a still wine indicate in-bottle secondary fermentation, pull the bottle immediately
 
 ### Handling Wine That Is Past Its Prime
 
 When a bottle is pulled for quality, a decision must be made about the remaining pours. Options:
 
 1. **Staff consumption:** Staff drink at the end of shift. This is the most common disposition and appropriate for wine that is past service quality but not spoiled. It builds team knowledge and morale.
-2. **Culinary use:** Wine passed for service can often be used in reductions, pan sauces, braising liquids. Coordinate with the kitchen — this creates value from what would otherwise be a write-off.
-3. **Write-off and discard:** For wine that is genuinely faulty — corked, acetic, or refermented — discard immediately. Do not use in food production.
+2. **Culinary use:** Wine passed for service can often be used in reductions, pan sauces, braising liquids. Coordinate with the kitchen, this creates value from what would otherwise be a write-off.
+3. **Write-off and discard:** For wine that is genuinely faulty, corked, acetic, or refermented, discard immediately. Do not use in food production.
 
 Document pulled bottles as a separate line item in beverage cost tracking. This creates a visible data trail that shows what preservation investment is saving, and it creates accountability for quality decisions at the bottle level.
 
-> **Pro Tip:** Run a "freshness challenge" at your monthly floor meeting: open two glasses of the same BTG selection side by side — one from a freshly opened bottle, one from a bottle opened 4 days ago under nitrogen. Let the team taste both without telling them which is which. The exercise makes oxidation visceral and concrete in a way no amount of verbal explanation achieves. After that tasting, your team will never pass a degraded glass without noticing.
+> **Pro Tip:** Run a "freshness challenge" at your monthly floor meeting: open two glasses of the same BTG selection side by side, one from a freshly opened bottle, one from a bottle opened 4 days ago under nitrogen. Let the team taste both without telling them which is which. The exercise makes oxidation visceral and concrete in a way no amount of verbal explanation achieves. After that tasting, your team will never pass a degraded glass without noticing.
 
 ---
 
 ## Section 6: BTG as a Discovery Tool
 
-The BTG program's most underexploited function is not revenue generation — it is education. Every glass pour is a controlled, low-risk opportunity for a guest to encounter a wine they would not have chosen from a full bottle list and at a fraction of the financial commitment.
+The BTG program's most underexploited function is not revenue generation, it is education. Every glass pour is a controlled, low-risk opportunity for a guest to encounter a wine they would not have chosen from a full bottle list and at a fraction of the financial commitment.
 
 ### The Discovery Arc
 
@@ -304,11 +304,11 @@ Sophisticated wine programs understand that guest wine loyalty is built in stage
 
 The BTG program is the mechanism for those encounters because it removes the commitment barrier. A guest who would never order a $75 bottle of Grüner Veltliner might order a $16 glass if a server can articulate what makes it interesting in relation to a Chardonnay they already enjoy. The discovery happens at the glass; the bottle purchase follows in future visits.
 
-This is the reason why the BTG list should contain at least one or two selections that will be unfamiliar to most guests — not to confuse them, but to give the service team an opening to teach. The server who can say "have you had Txakoli before? It's the wine they drink in San Sebastián with pintxos — bone dry, slightly spritzy, very different from anything else on the list" has a story to tell. Stories sell wine.
+This is the reason why the BTG list should contain at least one or two selections that will be unfamiliar to most guests (not to confuse them, but to give the service team an opening to teach. The server who can say "have you had Txakoli before? It's the wine they drink in San Sebastián with pintxos) bone dry, slightly spritzy, very different from anything else on the list" has a story to tell. Stories sell wine.
 
 ### BTG as Upsell Architecture
 
-The most direct upsell path from glass to bottle is a BTG program designed with that conversion in mind. The selection that a guest orders by the glass should always have a corresponding full bottle available. If a guest finishes their first glass and leans in, the conversation is "I'm so glad you liked that — this is actually available by the bottle and it only gets better through the course of dinner."
+The most direct upsell path from glass to bottle is a BTG program designed with that conversion in mind. The selection that a guest orders by the glass should always have a corresponding full bottle available. If a guest finishes their first glass and leans in, the conversation is "I'm so glad you liked that, this is actually available by the bottle and it only gets better through the course of dinner."
 
 Practical structures that support glass-to-bottle conversion:
 
@@ -320,9 +320,9 @@ Practical structures that support glass-to-bottle conversion:
 
 The most sophisticated BTG programs tell a story that guests can follow across visits. This requires intentionality: not just what is poured but why, and how each selection connects to the others.
 
-A beverage director who can explain "we built our BTG list around wines that are each a best-in-class expression of a specific terroir — this Cru Beaujolais, this Sancerre Rouge, this Etna Rosso — so that every glass you order here is something you're unlikely to find by the glass anywhere else in this city" has given their team a sales tool and their guests a reason to return.
+A beverage director who can explain "we built our BTG list around wines that are each a best-in-class expression of a specific terroir, this Cru Beaujolais, this Sancerre Rouge, this Etna Rosso, so that every glass you order here is something you're unlikely to find by the glass anywhere else in this city" has given their team a sales tool and their guests a reason to return.
 
-The BTG program is also the primary vehicle for seasonal storytelling. Rotating one or two selections with the season — moving to a côtes du Rhône blanc in summer, a Priorat in autumn — gives regular guests a reason to re-engage and creates a sense of program vitality. Wine programs that never change feel stagnant. Programs that evolve feel curated.
+The BTG program is also the primary vehicle for seasonal storytelling. Rotating one or two selections with the season (moving to a côtes du Rhône blanc in summer, a Priorat in autumn) gives regular guests a reason to re-engage and creates a sense of program vitality. Wine programs that never change feel stagnant. Programs that evolve feel curated.
 
 ### Measuring Guest Engagement
 
@@ -330,9 +330,9 @@ Concrete metrics to track BTG as a discovery and loyalty vehicle:
 
 - **Return visit rate of BTG guests vs. non-wine guests:** Guest management data consistently shows that guests who engage meaningfully with a wine program (ordering multiple glasses, trying server recommendations, asking questions) have higher return visit rates. This is a relationship, not a transaction.
 - **BTG-to-bottle conversion rate by selection:** Track this quarterly. Top-converting selections should be anchored and celebrated; zero-converting selections should be evaluated for replacement or positioning adjustment.
-- **Average glasses per cover:** A baseline metric for BTG program health. Rising average means guests are engaging more deeply. Flat or falling average means something is broken — the list, the team's selling skills, or the value perception of the pours.
+- **Average glasses per cover:** A baseline metric for BTG program health. Rising average means guests are engaging more deeply. Flat or falling average means something is broken, the list, the team's selling skills, or the value perception of the pours.
 
-> **Pro Tip:** Give every BTG selection a one-sentence server story — not a tasting note, but a provenance story. "This Albariño comes from a producer in Galicia who farms 30-year-old vines 800 meters above sea level" is more persuasive than "bright citrus and stone fruit with a clean finish." Facts close transactions; stories build relationships. Write the stories, train them into the team, and update them when selections rotate.
+> **Pro Tip:** Give every BTG selection a one-sentence server story, not a tasting note, but a provenance story. "This Albariño comes from a producer in Galicia who farms 30-year-old vines 800 meters above sea level" is more persuasive than "bright citrus and stone fruit with a clean finish." Facts close transactions; stories build relationships. Write the stories, train them into the team, and update them when selections rotate.
 
 ---
 
@@ -352,13 +352,13 @@ Concrete metrics to track BTG as a discovery and loyalty vehicle:
 | **Choice Overload** | The cognitive phenomenon in which an excess of options reduces consumer satisfaction and decision quality, producing anxiety, paralysis, and defaults to familiar brands. The primary research basis for limiting BTG lists to 8–12 selections in most full-service environments. |
 | **Rotation Protocol** | A systematic procedure for tracking open bottle age, assessing wine quality at each service, cycling in new selections on a defined schedule, and retiring selections before oxidation compromises guest experience. |
 | **Inert Gas Preservation** | The use of argon or nitrogen gas to displace oxygen in an open wine bottle, slowing oxidation. Applied via manual spray systems (Private Preserve), Coravin, VacuVin, or Enomatic. Argon is denser than air and preferred for wine; nitrogen is functionally similar and lower cost. |
-| **Flight Program** | A structured tasting format offering three to four small pours (2–3 oz) of related wines — by region, variety, producer, or theme — priced as a single menu item. Among the highest-margin items on a wine program and the most effective BTG-to-bottle conversion vehicle. |
+| **Flight Program** | A structured tasting format offering three to four small pours (2–3 oz) of related wines, by region, variety, producer, or theme, priced as a single menu item. Among the highest-margin items on a wine program and the most effective BTG-to-bottle conversion vehicle. |
 | **Pour Size Standard** | The defined volume of a single BTG serve. Industry standard is 5 oz; premium pours and fine dining operations may use 6 oz for elevated presentation. Consistency of pour size is a primary determinant of pour cost reliability and profitability. |
 | **Velocity** | The rate at which a given BTG selection is consumed over a defined period, typically expressed in bottles per day or per week. Velocity determines appropriate preservation method, rotation frequency, and whether a selection belongs on the list at all. |
 
 ---
 
-## Quiz — By-the-Glass Program Economics
+## Quiz: By-the-Glass Program Economics
 
 **Instructions:** Select the best answer. All answers can be found in this module.
 
@@ -390,7 +390,7 @@ Concrete metrics to track BTG as a discovery and loyalty vehicle:
 
 **Q3. A server consistently pours 5.5 oz instead of the 5 oz standard. Which of the following most accurately describes the financial consequence?**
 
-- A) Negligible — a 0.5 oz over-pour has no meaningful cost impact at scale
+- A) Negligible, a 0.5 oz over-pour has no meaningful cost impact at scale
 - B) The operation loses approximately one full pour for every nine pours served, creating significant annualized revenue loss
 - C) Over-pouring only affects profitability when it occurs on premium-tier selections
 - D) The primary consequence is guest dissatisfaction with inconsistent portion sizes, not revenue loss
@@ -482,7 +482,7 @@ Concrete metrics to track BTG as a discovery and loyalty vehicle:
 
 **Q11. A bottle is opened on Monday and preserved under a nitrogen blanket. By Friday of the same week, a server notices the wine is browning in color and smells candied rather than fruity. The correct action is:**
 
-- A) Serve the wine — slight color change and aroma evolution are normal and acceptable
+- A) Serve the wine, slight color change and aroma evolution are normal and acceptable
 - B) Pull the bottle and flag it for culinary use or staff consumption; do not serve to guests
 - C) Add the wine to a flight at a reduced pour price to sell through it quickly
 - D) Recork and hold for one additional service day to see if the wine improves
@@ -535,7 +535,7 @@ Concrete metrics to track BTG as a discovery and loyalty vehicle:
 
 **Correct: B**
 
-*(Calculation: Cost per oz = $24 ÷ 25.4 oz = $0.945/oz. Four pours × 2.5 oz = 10 oz total. Total cost = 10 × $0.945 = $9.45 in wine cost. However, using per-pour framework: each 2.5 oz pour = half of a 5 oz pour; cost per 5 oz pour at 4.5 yield = $24 ÷ 4.5 = $5.33; half-pour cost = $2.67; four pours = $10.67 — use A if the question is interpreted on pure pour-cost basis. Accept A or B depending on rounding method; correct answer under standard module methodology is A)*
+*(Calculation: Cost per oz = $24 ÷ 25.4 oz = $0.945/oz. Four pours × 2.5 oz = 10 oz total. Total cost = 10 × $0.945 = $9.45 in wine cost. However, using per-pour framework: each 2.5 oz pour = half of a 5 oz pour; cost per 5 oz pour at 4.5 yield = $24 ÷ 4.5 = $5.33; half-pour cost = $2.67; four pours = $10.67, use A if the question is interpreted on pure pour-cost basis. Accept A or B depending on rounding method; correct answer under standard module methodology is A)*
 
 **Correct: A**
 
@@ -576,5 +576,5 @@ Concrete metrics to track BTG as a discovery and loyalty vehicle:
 
 ---
 
-*Module 6 — By-the-Glass Program Economics | Wine Program Management Mastery | Wine Saint Certified*
+*Module 6; by-the-Glass Program Economics | Wine Program Management Mastery | Wine Saint Certified*
 *Version 1.0 | Review cycle: Annual*

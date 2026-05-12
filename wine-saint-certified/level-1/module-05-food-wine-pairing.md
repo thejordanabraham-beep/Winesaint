@@ -17,9 +17,9 @@ By the end of this module, you will be able to:
 
 ## Section 1: Why Pairing Matters
 
-Food and wine pairing is not a collection of rigid rules to memorize. It is a framework for understanding how food and wine interact — and using that understanding to make recommendations that enhance both the dish and the wine simultaneously.
+Food and wine pairing is not a collection of rigid rules to memorize. It is a framework for understanding how food and wine interact, and using that understanding to make recommendations that enhance both the dish and the wine simultaneously.
 
-A great pairing does one of two things: it either **harmonizes** — finding shared flavors, weight, or texture between food and wine — or it **contrasts** in a way that is deliberate and complementary, where the wine highlights what is best in the dish and vice versa. A poor pairing does neither. It creates conflict: one element overpowers the other, produces an unpleasant chemical reaction, or simply makes both seem worse than they would be alone.
+A great pairing does one of two things: it either **harmonizes** (finding shared flavors, weight, or texture between food and wine) or it **contrasts** in a way that is deliberate and complementary, where the wine highlights what is best in the dish and vice versa. A poor pairing does neither. It creates conflict: one element overpowers the other, produces an unpleasant chemical reaction, or simply makes both seem worse than they would be alone.
 
 The reason this matters on the floor is simple: guests who receive a great pairing recommendation become loyal guests. They remember that the server knew the list and knew the food. That's the difference between a transaction and hospitality.
 
@@ -30,7 +30,7 @@ The key to pairing is not memorizing a list of "Chardonnay with chicken" rules. 
 ## Section 2: The Core Principles
 
 ### Principle 1: Match Weight and Intensity
-The single most important pairing principle. A delicate dish needs a delicate wine; a rich, powerful dish needs a wine with equal weight and intensity. If the wine overwhelms the food — or the food overwhelms the wine — neither shows at its best.
+The single most important pairing principle. A delicate dish needs a delicate wine; a rich, powerful dish needs a wine with equal weight and intensity. If the wine overwhelms the food, or the food overwhelms the wine, neither shows at its best.
 
 **Examples:**
 - Delicate sole or turbot → light-bodied Chablis, Muscadet, or Pinot Grigio
@@ -43,19 +43,19 @@ A common mistake: recommending a powerful, tannic red with a delicate fish dish.
 ---
 
 ### Principle 2: Acidity is Your Best Friend
-High-acid wines are the most food-versatile wines on any list. Acidity in wine mirrors the role of lemon juice in cooking — it cuts through richness, cleanses the palate, and refreshes for the next bite. When in doubt, go higher acid.
+High-acid wines are the most food-versatile wines on any list. Acidity in wine mirrors the role of lemon juice in cooking: it cuts through richness, cleanses the palate, and refreshes for the next bite. When in doubt, go higher acid.
 
 **Acidity works especially well with:**
-- **Fatty or rich dishes** — the acid cuts through the fat (Sancerre with goat cheese; Champagne with fried chicken; Italian whites with pasta in cream sauce)
-- **Acidic dishes** — match the acidity of the food with acidity in the wine. A tomato-based dish needs a high-acid wine; a low-acid, flabby wine will taste sour and bitter against a tomato sauce. This is why Sangiovese with pasta e pomodoro is one of the world's great pairings — they were built for each other.
-- **Fried food** — bubbles and acidity in sparkling wine cut through oil and refresh the palate. One of the most reliable pairing principles: when in doubt, Champagne.
+- **Fatty or rich dishes:** the acid cuts through the fat (Sancerre with goat cheese; Champagne with fried chicken; Italian whites with pasta in cream sauce)
+- **Acidic dishes:** match the acidity of the food with acidity in the wine. A tomato-based dish needs a high-acid wine; a low-acid, flabby wine will taste sour and bitter against a tomato sauce. This is why Sangiovese with pasta e pomodoro is one of the world's great pairings: they were built for each other.
+- **Fried food:** bubbles and acidity in sparkling wine cut through oil and refresh the palate. One of the most reliable pairing principles: when in doubt, Champagne.
 
 ---
 
-### Principle 3: Tannin and Protein — A Powerful Partnership
+### Principle 3: Tannin and Protein, A Powerful Partnership
 Tannin and protein have a unique chemical affinity. When a highly tannic red wine meets the protein and fat in red meat, two things happen: the fat softens and rounds the tannin, making the wine taste more approachable; and the tannin cuts through the fat, making the food taste less heavy. This is why Cabernet Sauvignon with a ribeye steak is one of the most reliable pairings in existence.
 
-The flip side: tannin and fish are problematic. Fish contains compounds that react with tannin to produce a metallic, fishy aftertaste. This is not a subtle flaw — it is actively unpleasant. Avoid highly tannic reds with fish and shellfish.
+The flip side: tannin and fish are problematic. Fish contains compounds that react with tannin to produce a metallic, fishy aftertaste. This is not a subtle flaw; it is actively unpleasant. Avoid highly tannic reds with fish and shellfish.
 
 **Tannin and protein pairings that work:**
 - Barolo with braised beef cheeks or osso buco
@@ -65,7 +65,7 @@ The flip side: tannin and fish are problematic. Fish contains compounds that rea
 
 ---
 
-### Principle 4: Complement or Contrast — Both Are Valid
+### Principle 4: Complement or Contrast, Both Are Valid
 A pairing can work by sharing flavor characteristics (complement) or by deliberate opposition (contrast). Both can be brilliant.
 
 **Complementary pairings** find harmony in shared flavors or textures:
@@ -75,7 +75,7 @@ A pairing can work by sharing flavor characteristics (complement) or by delibera
 - Smoked salmon with aged Grüner Veltliner (complementary savory, nutty notes)
 
 **Contrasting pairings** use opposition to create balance:
-- Salty aged Manchego with sweet Sherry (salt + sweetness is a classic balance)
+- Salty aged Manchego with sweet Sherry (salt and sweetness is a classic balance)
 - Spicy Thai food with off-dry Riesling (the residual sugar tames the heat; the acidity refreshes)
 - Rich duck liver pâté with acidic, crisp Champagne (the bubbles and acidity cut through the fat)
 - Tangy goat cheese with Sancerre (the wine's acidity contrasts the creaminess; both are from the Loire)
@@ -83,7 +83,7 @@ A pairing can work by sharing flavor characteristics (complement) or by delibera
 ---
 
 ### Principle 5: Sweetness in Wine Should Meet or Exceed Sweetness in Food
-This is one of the few near-absolute rules in pairing. If the food is sweeter than the wine, the wine will taste dry, thin, and harsh by comparison. Always pair dessert with a wine that is at least as sweet as the dish — ideally sweeter.
+This is one of the few near-absolute rules in pairing. If the food is sweeter than the wine, the wine will taste dry, thin, and harsh by comparison. Always pair dessert with a wine that is at least as sweet as the dish, ideally sweeter.
 
 **Examples:**
 - Chocolate cake → Banyuls or Ruby Port (both rich, sweet, and stand up to chocolate)
@@ -94,7 +94,7 @@ A bone-dry Champagne with a wedding cake will taste sour and metallic. This is a
 
 ---
 
-### Principle 6: Regional Pairings — "What Grows Together, Goes Together"
+### Principle 6: Regional Pairings, "What Grows Together, Goes Together"
 Wine and food evolved together in the same place over centuries. Regional pairings almost always work because they were shaped by the same climate, soil, and culinary traditions.
 
 **Classic regional pairings:**
@@ -105,7 +105,7 @@ Wine and food evolved together in the same place over centuries. Regional pairin
 - Rioja with roast lamb (asado)
 - Albariño / Vinho Verde with Galician seafood and shellfish
 - Burgundy Pinot Noir with roast duck or coq au vin
-- Champagne with anything — the French take credit for inventing indulgence
+- Champagne with anything; the French take credit for inventing indulgence
 
 ---
 
@@ -117,7 +117,7 @@ Some pairings are so consistently problematic that they're worth flagging proact
 Tannin reacts with fish oils to produce a metallic, fishy off-flavor. This is a genuine chemical reaction, not a matter of taste. Avoid Barolo, Cabernet Sauvignon, and Nebbiolo with fish dishes.
 
 **High-Alcohol Wine + Spicy Food**
-Alcohol amplifies the perception of heat and spice. A 15% Barossa Shiraz with Thai green curry will make the heat unbearable. Choose lower-alcohol, off-dry, or slightly sweet wines with spicy dishes — Riesling, Gewürztraminer, Grenache-based wines.
+Alcohol amplifies the perception of heat and spice. A 15% Barossa Shiraz with Thai green curry will make the heat unbearable. Choose lower-alcohol, off-dry, or slightly sweet wines with spicy dishes: Riesling, Gewürztraminer, Grenache-based wines.
 
 **Dry Wine + Very Sweet Dessert**
 As discussed above: the food sweetness overwhelms the wine, making it taste sharp and acidic. Always match sweetness levels.
@@ -169,14 +169,14 @@ Never just say "this pairs well." Tell the guest why. "The acidity in this Sance
 | **Complementary Pairing** | A pairing where food and wine share similar flavor characteristics or textures, creating harmony |
 | **Contrasting Pairing** | A pairing where food and wine are deliberately opposite in character (e.g., sweet wine with salty food), creating balance through opposition |
 | **Cynarin** | A compound in artichokes that temporarily makes things taste sweeter, interfering with wine perception |
-| **Umami** | The fifth taste (alongside sweet, sour, salty, bitter) — a savory, mouth-filling quality found in mushrooms, aged cheese, soy sauce, and cured meats. High-umami foods pair well with earthy, savory wines |
+| **Umami** | The fifth taste (alongside sweet, sour, salty, bitter): a savory, mouth-filling quality found in mushrooms, aged cheese, soy sauce, and cured meats. High-umami foods pair well with earthy, savory wines |
 | **Appassimento** | (see Module 3) Grape drying technique |
 | **Diurnal Variation** | (see Module 4) Temperature swing between day and night |
-| **Sur Lie** | (see Module 3) Aging on lees — adds texture and savory complexity, improving food pairing versatility |
+| **Sur Lie** | (see Module 3) Aging on lees: adds texture and savory complexity, improving food pairing versatility |
 
 ---
 
-## Quiz — Module 5
+## Quiz: Module 5
 
 **Instructions:** Select the best answer for each question. All answers can be found in this module.
 
@@ -243,9 +243,9 @@ Never just say "this pairs well." Tell the guest why. "The acidity in this Sance
 ---
 
 **Q7. A guest orders a light sole dish with a lemon-butter sauce. Which pairing principle should guide your recommendation?**
-- A) Match the weight — choose a light, crisp white wine that won't overwhelm the delicate fish
-- B) Match the tannin — choose a high-tannin red to cut through the butter
-- C) Match the sweetness — choose an off-dry white to balance the lemon
+- A) Match the weight, choose a light, crisp white wine that won't overwhelm the delicate fish
+- B) Match the tannin, choose a high-tannin red to cut through the butter
+- C) Match the sweetness, choose an off-dry white to balance the lemon
 - D) Always serve Champagne with fish regardless of preparation
 
 **Correct: A**
@@ -265,7 +265,7 @@ Never just say "this pairs well." Tell the guest why. "The acidity in this Sance
 **Q9. A guest wants a wine to pair with a cheese course that includes aged cheddar, Manchego, and blue cheese. What structural characteristic in the wine is most useful here?**
 - A) Low acidity to soften against the salt in the cheese
 - B) High tannin to cut through the fat in the cheese
-- C) Sweetness — sweet wines balance the salt and fat in aged cheeses
+- C) Sweetness, sweet wines balance the salt and fat in aged cheeses
 - D) High alcohol to neutralize strong flavors in the cheese
 
 **Correct: C**

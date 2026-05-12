@@ -2,10 +2,10 @@
 
 ---
 
-**Program:** Wine Saint Certified — California Mastery
+**Program:** Wine Saint Certified, California Mastery
 **Level:** California Mastery — Napa Valley
 **Module:** 01
-**Audience:** Corporate hospitality professionals — servers, sommeliers, floor managers
+**Audience:** Corporate hospitality professionals: servers, sommeliers, floor managers
 **Estimated Duration:** 45 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent foundational knowledge
 
@@ -19,38 +19,38 @@ By the end of this module, you will be able to:
 - Identify and distinguish the 16 sub-AVAs by soil type, elevation, and the stylistic signatures they impart to Cabernet Sauvignon
 - Articulate the key differences between valley floor and mountain-grown Napa Cabernet for guest-facing conversations
 - Describe how the 1976 Judgment of Paris reshaped the global perception of Napa Valley and why it still matters on the floor today
-- Position Napa against Bordeaux with confidence — understanding fruit profile, alcohol, tannin structure, and aging trajectory
+- Position Napa against Bordeaux with confidence, understanding fruit profile, alcohol, tannin structure, and aging trajectory
 - Recommend Napa wines across sub-regions, styles, and price points based on guest preferences and table context
 
 ---
 
 ## Section 1: Scale, Economics, and Why Napa Matters
 
-Napa Valley is 30 miles long and rarely exceeds 5 miles wide — a corridor of land smaller than Bordeaux's Left Bank. You could drive from one end to the other in under an hour. And yet, this narrow strip of California real estate accounts for just 0.5% of the world's wine production while generating 25% of California's annual wine revenue.
+Napa Valley is 30 miles long and rarely exceeds 5 miles wide, a corridor of land smaller than Bordeaux's Left Bank. You could drive from one end to the other in under an hour. And yet, this narrow strip of California real estate accounts for just 0.5% of the world's wine production while generating 25% of California's annual wine revenue.
 
 That ratio tells you everything about Napa's position in the global wine market. This is not a volume game. Napa competes on prestige, and it wins.
 
-Of Napa's 485,000 total acres, only roughly 45,000 are planted to vines — about 9% of the land area. California law prevents vineyard expansion onto slopes steeper than 30%, which has protected hillside ecosystems while keeping supply constrained. The result: valley floor vineyard land trades at $350,000 or more per acre, and mountain vineyard parcels can exceed $500,000 per acre. These figures are not abstract — they explain why a bottle of Harlan Estate costs what it costs, and why your guests who understand this will never question the price.
+Of Napa's 485,000 total acres, only roughly 45,000 are planted to vines, about 9% of the land area. California law prevents vineyard expansion onto slopes steeper than 30%, which has protected hillside ecosystems while keeping supply constrained. The result: valley floor vineyard land trades at $350,000 or more per acre, and mountain vineyard parcels can exceed $500,000 per acre. These figures are not abstract; they explain why a bottle of Harlan Estate costs what it costs, and why your guests who understand this will never question the price.
 
-Approximately 475 bonded wineries operate in Napa Valley, but more than 1,000 brands exist. The gap is explained by custom crush facilities, where winemakers source fruit and use shared production infrastructure. This is worth knowing when guests ask why they've never heard of a label — Napa's brand universe is enormous.
+Approximately 475 bonded wineries operate in Napa Valley, but more than 1,000 brands exist. The gap is explained by custom crush facilities, where winemakers source fruit and use shared production infrastructure. This is worth knowing when guests ask why they've never heard of a label; Napa's brand universe is enormous.
 
-**Pro Tip:** When a guest raises an eyebrow at a Napa Cabernet price, reframe it around land economics. "What's remarkable about this wine is that the vineyard itself represents some of the most expensive agricultural land on earth — and the winery is producing fewer than 3,000 cases a year from it." That context transforms sticker shock into appreciation.
+**Pro Tip:** When a guest raises an eyebrow at a Napa Cabernet price, reframe it around land economics. "What's remarkable about this wine is that the vineyard itself represents some of the most expensive agricultural land on earth; and the winery is producing fewer than 3,000 cases a year from it." That context transforms sticker shock into appreciation.
 
 ---
 
-## Section 2: Geography and Climate — The Engine Behind the Wines
+## Section 2: Geography and Climate, The Engine Behind the Wines
 
 ### The Valley's Orientation
 
-Napa Valley runs northwest to southeast, and that orientation is not incidental — it is the fundamental driver of the region's climate. The southeastern opening of the valley faces directly toward San Pablo Bay, the northernmost reach of San Francisco Bay. Every afternoon, cool marine air and fog are drawn inland through this natural corridor, moderating temperatures that would otherwise be punishing for fine wine production.
+Napa Valley runs northwest to southeast, and that orientation is not incidental; it is the fundamental driver of the region's climate. The southeastern opening of the valley faces directly toward San Pablo Bay, the northernmost reach of San Francisco Bay. Every afternoon, cool marine air and fog are drawn inland through this natural corridor, moderating temperatures that would otherwise be punishing for fine wine production.
 
-The valley is flanked by two mountain ranges. The Mayacamas Mountains form the western wall, separating Napa from Sonoma. The Vaca Range defines the eastern boundary. These ranges funnel the marine influence and create microclimates that vary dramatically over short distances — one of the reasons Napa has 16 sub-AVAs and more than 100 distinct soil variations across 33 soil series.
+The valley is flanked by two mountain ranges. The Mayacamas Mountains form the western wall, separating Napa from Sonoma. The Vaca Range defines the eastern boundary. These ranges funnel the marine influence and create microclimates that vary dramatically over short distances, which is one of the reasons Napa has 16 sub-AVAs and more than 100 distinct soil variations across 33 soil series.
 
 ### The North-South Temperature Gradient
 
 The single most important geographic concept for understanding Napa's wine diversity is the temperature gradient from south to north.
 
-The southern reaches of the valley — Carneros and Oak Knoll — sit closest to the Bay. Cool fog arrives early and lingers. These areas are classified as Region I (fewer than 2,500 Growing Degree Days), comparable to Champagne. Chardonnay and Pinot Noir thrive here.
+The southern reaches of the valley, Carneros and Oak Knoll, sit closest to the Bay. Cool fog arrives early and lingers. These areas are classified as Region I (fewer than 2,500 Growing Degree Days), comparable to Champagne. Chardonnay and Pinot Noir thrive here.
 
 By the time you reach Calistoga at the northern terminus, you are in Region III territory (3,000 to 3,500 GDD). The marine influence has largely dissipated. Days are hotter, and the wines are correspondingly riper and more extracted.
 
@@ -58,7 +58,7 @@ Between these poles, the valley transitions through a spectrum of thermal zones.
 
 ### Diurnal Swing: Napa's Secret Weapon
 
-The diurnal temperature swing — the difference between daytime highs and nighttime lows — is one of the most important contributors to wine quality in Napa. In peak summer, the swing can reach 40 to 50 degrees Fahrenheit. July nights regularly drop to 50 to 55°F even when afternoon temperatures have touched 90°F or above.
+The diurnal temperature swing, meaning the difference between daytime highs and nighttime lows, is one of the most important contributors to wine quality in Napa. In peak summer, the swing can reach 40 to 50 degrees Fahrenheit. July nights regularly drop to 50 to 55°F even when afternoon temperatures have touched 90°F or above.
 
 Cold nights halt the respiration of the vine, allowing grapes to retain natural acidity while ripening sugars slowly during warm days. The result: wines with generous fruit and enough acidity to provide structure and aging potential. Without this diurnal swing, Napa Cabernet would be jammy and flat. With it, the wines can be genuinely complex.
 
@@ -66,7 +66,7 @@ Marine fog typically penetrates as far inland as Yountville or beyond, burning o
 
 ### Rainfall and Irrigation
 
-Napa receives 20 to 35 inches of annual rainfall, with roughly 90% of it falling between November and April. The growing season — May through October — is essentially dry. This makes drip irrigation not a luxury but a necessity. Most quality producers practice regulated deficit irrigation: precise, strategic water stress applied at specific phenological stages (typically around berry set and veraison) to control vine vigor and enhance fruit concentration.
+Napa receives 20 to 35 inches of annual rainfall, with roughly 90% of it falling between November and April. The growing season, May through October, is essentially dry. This makes drip irrigation not a luxury but a necessity. Most quality producers practice regulated deficit irrigation: precise, strategic water stress applied at specific phenological stages (typically around berry set and veraison) to control vine vigor and enhance fruit concentration.
 
 ### Fire and Smoke
 
@@ -78,21 +78,21 @@ Smoke taint awareness has become a permanent part of Napa's viticulture and mark
 
 ---
 
-## Section 3: Soils — The Foundation of Sub-Regional Identity
+## Section 3: Soils, The Foundation of Sub-Regional Identity
 
-Napa Valley sits atop a geologically complex mosaic. The valley floor, the lower benchlands, and the surrounding mountain ranges each tell a different soil story — and each soil story produces a different style of wine.
+Napa Valley sits atop a geologically complex mosaic. The valley floor, the lower benchlands, and the surrounding mountain ranges each tell a different soil story, and each soil story produces a different style of wine.
 
 ### Valley Floor: Alluvial Depth and "Rutherford Dust"
 
-The valley floor is dominated by deep alluvial soils — gravelly loams deposited over millennia by streams draining down from the Mayacamas Mountains. These soils are fertile and well-drained, which creates a challenge for quality producers: left unchecked, the vine will push aggressive vigor and high yields. Managing the valley floor means managing the vine's natural tendency to overproduce.
+The valley floor is dominated by deep alluvial soils, gravelly loams deposited over millennia by streams draining down from the Mayacamas Mountains. These soils are fertile and well-drained, which creates a challenge for quality producers: left unchecked, the vine will push aggressive vigor and high yields. Managing the valley floor means managing the vine's natural tendency to overproduce.
 
-Within this general alluvial context, Rutherford's benchlands have earned a specific distinction: "Rutherford Dust." This term, popularized by winemakers and propagated by André Tchelistcheff's famous observation that "it takes Rutherford dust to make great Cabernet Sauvignon," refers to the fine, powdery, gravelly texture of dry Rutherford soils. The texture is physical and visible — walk a dry Rutherford vineyard in August and the soil crumbles like talcum powder underfoot. Many winemakers believe this soil texture contributes directly to the earthy, cocoa-powder tannin signature that defines Rutherford Cabernet.
+Within this general alluvial context, Rutherford's benchlands have earned a specific distinction: "Rutherford Dust." This term, popularized by winemakers and propagated by André Tchelistcheff's famous observation that "it takes Rutherford dust to make great Cabernet Sauvignon," refers to the fine, powdery, gravelly texture of dry Rutherford soils. The texture is physical and visible; walk a dry Rutherford vineyard in August and the soil crumbles like talcum powder underfoot. Many winemakers believe this soil texture contributes directly to the earthy, cocoa-powder tannin signature that defines Rutherford Cabernet.
 
 ### Howell Mountain: Volcanic Tufa Above the Fog Line
 
-At 1,400 to 2,200 feet of elevation, Howell Mountain sits entirely above the fog line. Its soils are volcanic tufa — white volcanic ash that has hardened into a porous, mineral-dense matrix. Tufa drains aggressively, forcing roots deep and stressing the vine to the point where yields frequently fall below 2 tons per acre.
+At 1,400 to 2,200 feet of elevation, Howell Mountain sits entirely above the fog line. Its soils are volcanic tufa, white volcanic ash that has hardened into a porous, mineral-dense matrix. Tufa drains aggressively, forcing roots deep and stressing the vine to the point where yields frequently fall below 2 tons per acre.
 
-The wines this produces are not approachable young wines. Howell Mountain Cabernet is dense, iron-fisted, and tannic in a way that requires time — a minimum of a decade, often more. The fog line exclusion means more sunlight and UV exposure at altitude, contributing to thicker grape skins and more phenolic intensity.
+The wines this produces are not approachable young wines. Howell Mountain Cabernet is dense, iron-fisted, and tannic in a way that requires time: a minimum of a decade, often more. The fog line exclusion means more sunlight and UV exposure at altitude, contributing to thicker grape skins and more phenolic intensity.
 
 ### Diamond Mountain: Iron-Rich and Extreme
 
@@ -100,7 +100,7 @@ Diamond Mountain sits in the northwest corner of the valley. Its defining featur
 
 ### Spring Mountain and Mount Veeder: Mayacamas Complexity
 
-Both Spring Mountain and Mount Veeder sit on the Mayacamas range. Their soils are a mixture of volcanic and sedimentary material with higher clay content than Howell Mountain or Diamond Mountain. That additional clay moderates drainage and heat retention in ways that produce wines with more supple tannins than their eastern mountain counterparts — still structured and age-worthy, but with somewhat more mid-palate softness.
+Both Spring Mountain and Mount Veeder sit on the Mayacamas range. Their soils are a mixture of volcanic and sedimentary material with higher clay content than Howell Mountain or Diamond Mountain. That additional clay moderates drainage and heat retention in ways that produce wines with more supple tannins than their eastern mountain counterparts, still structured and age-worthy, but with somewhat more mid-palate softness.
 
 Mayacamas Vineyards, one of the region's most historic producers, sources from these elevations and produces wines with documented 40 to 50-year aging trajectories.
 
@@ -110,7 +110,7 @@ Mayacamas Vineyards, one of the region's most historic producers, sources from t
 
 ## Section 4: Cabernet Sauvignon and Sub-Regional Character
 
-Cabernet Sauvignon occupies roughly 40% of Napa's vineyard area — approximately 18,000 acres. That single-variety dominance has no real parallel in fine wine. For comparison, Bordeaux plants only about 12% of its vineyard area to Cabernet Sauvignon.
+Cabernet Sauvignon occupies roughly 40% of Napa's vineyard area, approximately 18,000 acres. That single-variety dominance has no real parallel in fine wine. For comparison, Bordeaux plants only about 12% of its vineyard area to Cabernet Sauvignon.
 
 Napa's Cabernet Sauvignon differs from Bordeaux's in ways that matter on the floor.
 
@@ -122,38 +122,38 @@ Napa's Cabernet Sauvignon differs from Bordeaux's in ways that matter on the flo
 | New oak usage | Historically high (60–100%+) | Moderate |
 | Aging peak | 10–20 years (estate tier) | 15–25 years (classified tier) |
 
-The contemporary trend in Napa — driven by a generation of winemakers who trained in Burgundy, worked harvests in Europe, and grew increasingly critical of the overwrought Parker-era style — has been toward earlier harvesting, lower alcohol, and restraint in new oak. Stylistic moderation is now a competitive differentiator at the high end. That said, the classic Napa profile is riper, richer, and more immediately pleasurable than Bordeaux, and for many guests that accessibility is exactly the point.
+The contemporary trend in Napa, driven by a generation of winemakers who trained in Burgundy, worked harvests in Europe, and grew increasingly critical of the overwrought Parker-era style, has been toward earlier harvesting, lower alcohol, and restraint in new oak. Stylistic moderation is now a competitive differentiator at the high end. That said, the classic Napa profile is riper, richer, and more immediately pleasurable than Bordeaux, and for many guests that accessibility is exactly the point.
 
 ### Sub-Regional Cabernet Profiles
 
 **Rutherford**
-The benchmark. Rutherford Cabernet is built around structure — earthy tannins, a dusty, cocoa-powder texture on the mid-palate, black fruit anchored by a saline, mineral quality. This is not a fruit-forward, immediately pleasing style. It rewards patience and food pairing. Think red meat, aged cheeses, anything with umami depth.
+The benchmark. Rutherford Cabernet is built around structure: earthy tannins, a dusty, cocoa-powder texture on the mid-palate, black fruit anchored by a saline, mineral quality. This is not a fruit-forward, immediately pleasing style. It rewards patience and food pairing. Think red meat, aged cheeses, anything with umami depth.
 
 Key producers: Inglenook, Caymus, Rubicon Estate.
 
 **Oakville**
-Slightly warmer than Rutherford, Oakville produces Napa's most elegant Cabernet — black currant, violet, subtle herbal lift, fine-grained tannins that are present without aggression. The heartland of Napa's finest vineyards.
+Slightly warmer than Rutherford, Oakville produces Napa's most elegant Cabernet: black currant, violet, subtle herbal lift, fine-grained tannins that are present without aggression. The heartland of Napa's finest vineyards.
 
-To-Kalon Vineyard sits here and is considered America's most famous single vineyard. The parcel is split between Robert Mondavi Winery (now Constellation) and Beckstoffer Vineyards, controlled by Andy Beckstoffer — the most powerful independent grape grower in Napa. Beckstoffer licenses his famous vineyard names (To-Kalon, Georges III, Dr. Crane) to prestige winemakers under contracts that specify quality minimums and pricing formulas. He grows; he does not make wine.
+To-Kalon Vineyard sits here and is considered America's most famous single vineyard. The parcel is split between Robert Mondavi Winery (now Constellation) and Beckstoffer Vineyards, controlled by Andy Beckstoffer, the most powerful independent grape grower in Napa. Beckstoffer licenses his famous vineyard names (To-Kalon, Georges III, Dr. Crane) to prestige winemakers under contracts that specify quality minimums and pricing formulas. He grows; he does not make wine.
 
 **Stags Leap District**
-The eastern valley sub-AVA defined by dramatic volcanic palisades — basalt cliffs that create afternoon shadow and moderate temperatures. Stags Leap produces what many consider Napa's most seductive style: the "iron fist in a velvet glove." Wines here balance structural power with textural approachability in a way that makes them compelling even without extended cellaring.
+The eastern valley sub-AVA defined by dramatic volcanic palisades, basalt cliffs that create afternoon shadow and moderate temperatures. Stags Leap produces what many consider Napa's most seductive style: the "iron fist in a velvet glove." Wines here balance structural power with textural approachability in a way that makes them compelling even without extended cellaring.
 
-The historical significance: in 1976, Stag's Leap Wine Cellars' 1973 Cabernet Sauvignon placed first among red wines in the Judgment of Paris blind tasting — defeating Bordeaux first growths in front of French judges. That result remains the pivotal event in Napa Valley's global positioning.
+The historical significance: in 1976, Stag's Leap Wine Cellars' 1973 Cabernet Sauvignon placed first among red wines in the Judgment of Paris blind tasting, defeating Bordeaux first growths in front of French judges. That result remains the pivotal event in Napa Valley's global positioning.
 
 **Howell Mountain**
-First mountain AVA to be established (1983). Entirely above 1,400 feet and above the fog line. Volcanic tufa soils. Wines are dense, dark-fruited, and massively structured — the most age-dependent style in Napa. Dunn Vineyards is the archetypal producer; Randy Dunn's wines routinely demand 15 to 20 years to fully open.
+First mountain AVA to be established (1983). Entirely above 1,400 feet and above the fog line. Volcanic tufa soils. Wines are dense, dark-fruited, and massively structured, making this the most age-dependent style in Napa. Dunn Vineyards is the archetypal producer; Randy Dunn's wines routinely demand 15 to 20 years to fully open.
 
 **Mount Veeder and Spring Mountain**
 Higher elevation sites on the Mayacamas range with mixed volcanic and sedimentary soils. The higher clay content creates wines with more mid-palate flesh than Howell Mountain, but still with significant aging potential. These are mountain wines with slightly more generosity.
 
 **Calistoga**
-The warmest sub-AVA; least influenced by marine air. More extracted, higher alcohol, and more overtly opulent than the valley's southern and central sections. Bold, concentrated, and accessible in their primary fruit.
+The warmest sub-AVA, least influenced by marine air. More extracted, higher alcohol, and more overtly opulent than the valley's southern and central sections. Bold, concentrated, and accessible in their primary fruit.
 
 **Carneros**
-Cool, windswept, closer to the Bay than any other sub-AVA. Region I conditions. Chardonnay and Pinot Noir are what Carneros does best — Cabernet Sauvignon rarely achieves full phenolic ripeness here. This is Napa's answer to Burgundy, and it occupies a shared appellational space with Sonoma.
+Cool, windswept, closer to the Bay than any other sub-AVA. Region I conditions. Chardonnay and Pinot Noir are what Carneros does best; Cabernet Sauvignon rarely achieves full phenolic ripeness here. This is Napa's answer to Burgundy, and it occupies a shared appellational space with Sonoma.
 
-**Pro Tip:** Use the Judgment of Paris to elevate Stags Leap pours. "What you're drinking tonight comes from the same district that beat Bordeaux's first growths in a blind tasting in Paris in 1976 — before the French judges knew what they were drinking." Tables light up every time.
+**Pro Tip:** Use the Judgment of Paris to elevate Stags Leap pours. "What you're drinking tonight comes from the same district that beat Bordeaux's first growths in a blind tasting in Paris in 1976, before the French judges knew what they were drinking." Tables light up every time.
 
 ---
 
@@ -161,27 +161,27 @@ Cool, windswept, closer to the Bay than any other sub-AVA. Region I conditions. 
 
 ### A Compressed but Consequential History
 
-George Calvert Yount planted the first Napa vineyard in 1838 or 1839 using Mission vines. Commercial winemaking began with Charles Krug's founding in 1861. European immigrants shaped the early character of the region — Gustave Niebaum built Inglenook into a serious estate, and Beringer, Schramsberg, and others established the foundations of what would eventually become a world-class industry.
+George Calvert Yount planted the first Napa vineyard in 1838 or 1839 using Mission vines. Commercial winemaking began with Charles Krug's founding in 1861. European immigrants shaped the early character of the region; Gustave Niebaum built Inglenook into a serious estate, and Beringer, Schramsberg, and others established the foundations of what would eventually become a world-class industry.
 
 Prohibition devastated the industry from 1920 to 1933. Most wineries converted to table grapes or sacramental wine; institutional knowledge was lost, vineyards were replanted to inferior varieties, and the culture of fine wine production was interrupted for a generation.
 
 The post-World War II revival was gradual, but its catalytic figure was Robert Mondavi, who founded his namesake winery in 1966 after a dramatic split from his family at Charles Krug. Mondavi brought ambition, marketing acumen, and a commitment to technical excellence. He positioned Napa as a serious competitor to European fine wine at a time when the American wine establishment was dominated by jug wine.
 
-The 1976 Judgment of Paris — organized by British wine merchant Steven Spurrier — is the event that changed everything. In a blind tasting in Paris, California wines were submitted alongside their French counterparts. Stag's Leap Wine Cellars' 1973 Cabernet Sauvignon won the red wine category; Chateau Montelena's 1973 Chardonnay won the whites. The French judges were not told which wines were which. The results were an international sensation, covered in TIME Magazine, and Napa Valley's global reputation was sealed.
+The 1976 Judgment of Paris, organized by British wine merchant Steven Spurrier, is the event that changed everything. In a blind tasting in Paris, California wines were submitted alongside their French counterparts. Stag's Leap Wine Cellars' 1973 Cabernet Sauvignon won the red wine category; Chateau Montelena's 1973 Chardonnay won the whites. The French judges were not told which wines were which. The results were an international sensation, covered in TIME Magazine, and Napa Valley's global reputation was sealed.
 
-The 1990s brought the "cult wine" era: Harlan Estate, Screaming Eagle, Colgin, Bryant Family, and Dalla Valle achieved allocation lists measured in years, mailing lists that became social currency, and prices that established Napa as a credible player in the ultra-premium category. These wines were characterized by extreme ripeness, very high alcohol, and heavy new oak — a style championed by critics who prioritized concentration and power.
+The 1990s brought the "cult wine" era: Harlan Estate, Screaming Eagle, Colgin, Bryant Family, and Dalla Valle achieved allocation lists measured in years, mailing lists that became social currency, and prices that established Napa as a credible player in the ultra-premium category. These wines were characterized by extreme ripeness, very high alcohol, and heavy new oak, a style championed by critics who prioritized concentration and power.
 
 The 2000s and 2010s brought a stylistic correction. A younger generation of winemakers, many with European training, began harvesting earlier to preserve acidity and aromatic complexity, pulling back on new oak percentages, and targeting lower alcohol (13 to 14% versus the previous generation's 15 to 16%). This moderation trend has accelerated and is now the dominant philosophy among Napa's critically acclaimed new producers.
 
 ### Other Varieties Worth Knowing
 
-**Chardonnay** occupies approximately 7,000 acres, concentrated in the cooler southern valley. Carneros Chardonnay offers the closest thing in California to a Burgundian reference point — restrained, mineral, with genuine aging potential of 10 to 15 years in top examples. This is the wine to recommend to guests who reflexively request "French Burgundy" when budget or availability are constraints.
+**Chardonnay** occupies approximately 7,000 acres, concentrated in the cooler southern valley. Carneros Chardonnay offers the closest thing in California to a Burgundian reference point: restrained, mineral, with genuine aging potential of 10 to 15 years in top examples. This is the wine to recommend to guests who reflexively request "French Burgundy" when budget or availability are constraints.
 
 **Merlot** covers roughly 5,000 acres and is used predominantly as a blending component in Bordeaux-style reds. Exceptions exist: Duckhorn Vineyards built its reputation on varietally labeled Napa Merlot, and Pahlmeyer and Pride Mountain produce notable examples. If a guest has been burned by generic Merlot and written off the variety, Duckhorn Three Palms is the correction.
 
-**Sauvignon Blanc** thrives particularly in the Oak Knoll and Rutherford sub-AVAs. Napa's version skews riper than the Loire or Marlborough benchmarks — ripe citrus, melon, and stone fruit in an unoaked style; some barrel-fermented examples add texture and weight. A strong by-the-glass recommendation for guests who want Napa on a relative value basis.
+**Sauvignon Blanc** thrives particularly in the Oak Knoll and Rutherford sub-AVAs. Napa's version skews riper than the Loire or Marlborough benchmarks: ripe citrus, melon, and stone fruit in an unoaked style, with some barrel-fermented examples adding texture and weight. A strong by-the-glass recommendation for guests who want Napa on a relative value basis.
 
-**Zinfandel** clings on at mountain sites with old vine plantings. The elevation and stress that would diminish other varieties actually suit Zinfandel's heat tolerance — mountain Zins from Napa produce brambly, peppery, structured wines that bear little resemblance to the jammy Central Valley versions guests may have already formed an opinion about.
+**Zinfandel** clings on at mountain sites with old vine plantings. The elevation and stress that would diminish other varieties actually suit Zinfandel's heat tolerance; mountain Zins from Napa produce brambly, peppery, structured wines that bear little resemblance to the jammy Central Valley versions guests may have already formed an opinion about.
 
 **Pro Tip:** Napa Sauvignon Blanc is one of the most underused upsell tools in hospitality. The region's reputation brings instant credibility, the price point is accessible relative to Cabernet, and the ripe California style converts guests who find Loire or New Zealand versions too sharp. Keep a Napa Sauvignon Blanc prominent in by-the-glass rotations.
 
@@ -199,7 +199,7 @@ The 2000s and 2010s brought a stylistic correction. A younger generation of wine
 | **Benchlands** | Gently sloping alluvial fans at the base of mountain ranges, typically formed by stream deposition. Rutherford and Oakville benchlands are formed by streams draining the Mayacamas Mountains. |
 | **Custom Crush** | A production model in which a winery or brand sources fruit and uses a shared facility for fermentation and aging rather than owning its own winery infrastructure. Accounts for the gap between Napa's ~475 bonded wineries and 1,000+ brands. |
 | **Smoke Taint** | A wine fault caused by vine exposure to wildfire smoke; volatile phenols (particularly guaiacol) bind to sugars in the grape and release as ash, medicinal, or rubber characteristics during fermentation. |
-| **Judgment of Paris (1976)** | A blind tasting organized by Steven Spurrier in Paris in which California wines — Stag's Leap Wine Cellars Cabernet and Chateau Montelena Chardonnay — defeated French wines, establishing Napa Valley's international reputation. |
+| **Judgment of Paris (1976)** | A blind tasting organized by Steven Spurrier in Paris in which California wines, Stag's Leap Wine Cellars Cabernet and Chateau Montelena Chardonnay, defeated French wines, establishing Napa Valley's international reputation. |
 | **Growing Degree Days (GDD)** | A measure of cumulative heat accumulation during the growing season, calculated as the sum of daily mean temperatures above 50°F. Used to classify climate regions from I (coolest, below 2,500 GDD) to V (warmest, above 4,000 GDD). |
 
 ---
@@ -318,5 +318,5 @@ The 2000s and 2010s brought a stylistic correction. A younger generation of wine
 
 ---
 
-*Module 01 — Napa Valley | California Mastery Program | Wine Saint Certified*
+*Module 01. Napa Valley | California Mastery Program | Wine Saint Certified*
 *Version 1.0 | Review cycle: Annual*

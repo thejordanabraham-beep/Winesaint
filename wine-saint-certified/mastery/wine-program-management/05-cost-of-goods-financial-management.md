@@ -2,10 +2,10 @@
 
 ---
 
-**Program:** Wine Saint Certified — Wine Program Management Mastery
+**Program:** Wine Saint Certified: Wine Program Management Mastery
 **Level:** Wine Program Management — Cost of Goods & Financial Management
 **Module:** 5
-**Audience:** Corporate hospitality professionals — beverage directors, sommeliers, F&B managers
+**Audience:** Corporate hospitality professionals: beverage directors, sommeliers, F&B managers
 **Estimated Duration:** 60–75 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent
 
@@ -31,15 +31,15 @@ Pour cost is the first financial metric most beverage professionals learn and th
 
 **Pour Cost % = Cost of Product Sold ÷ Beverage Revenue**
 
-If a glass of wine costs you $4.00 in product and you sell it for $14.00, your pour cost is 28.6%. If a bottle costs you $22.00 and you sell it for $72.00, your pour cost is 30.6%. The percentage tells you how much of each revenue dollar is consumed by the cost of the liquid itself — before any labor, occupancy, or overhead.
+If a glass of wine costs you $4.00 in product and you sell it for $14.00, your pour cost is 28.6%. If a bottle costs you $22.00 and you sell it for $72.00, your pour cost is 30.6%. The percentage tells you how much of each revenue dollar is consumed by the cost of the liquid itself, before any labor, occupancy, or overhead.
 
-Industry benchmarks for wine hover between **28% and 35%**, though this range requires interpretation. A well-curated by-the-glass program anchored by high-velocity, value-priced selections can sustain 27–30%. A luxury dining program with extensive aged inventory and a broad bottle list will often run 33–36% — and that may be entirely intentional. The benchmark is a compass, not a ceiling.
+Industry benchmarks for wine hover between **28% and 35%**, though this range requires interpretation. A well-curated by-the-glass program anchored by high-velocity, value-priced selections can sustain 27–30%. A luxury dining program with extensive aged inventory and a broad bottle list will often run 33–36%, and that may be entirely intentional. The benchmark is a compass, not a ceiling.
 
-**By-the-glass vs. bottle economics differ substantially.** A standard BTG pour is 5 oz from a 750 ml bottle, yielding approximately 5 glasses per bottle (with a small allowance for spillage and overpour). If you purchase a bottle for $14 and sell each glass at $12, your revenue per bottle is $60 and your pour cost is 23.3%. The same bottle sold whole at $48 carries a pour cost of 29.2%. This is why well-managed BTG programs are typically lower in pour cost than bottle programs — the markup per unit is higher. However, BTG programs carry greater execution risk: every ounce of overpour erodes that margin.
+**By-the-glass vs. bottle economics differ substantially.** A standard BTG pour is 5 oz from a 750 ml bottle, yielding approximately 5 glasses per bottle (with a small allowance for spillage and overpour). If you purchase a bottle for $14 and sell each glass at $12, your revenue per bottle is $60 and your pour cost is 23.3%. The same bottle sold whole at $48 carries a pour cost of 29.2%. This is why well-managed BTG programs are typically lower in pour cost than bottle programs, the markup per unit is higher. However, BTG programs carry greater execution risk: every ounce of overpour erodes that margin.
 
-Here is a worked example. You have a BTG list with five wines. Over the course of a week, total BTG revenue is $4,200 and your product cost (based on what was consumed, not what was purchased) is $1,176. Pour cost = $1,176 ÷ $4,200 = **28%**. On the bottle side, revenue is $6,800 with product cost of $2,380. Bottle pour cost = **35%**. Your blended wine pour cost for the week is $3,556 ÷ $11,000 = **32.3%** — inside a healthy range for a full-service dining operation.
+Here is a worked example. You have a BTG list with five wines. Over the course of a week, total BTG revenue is $4,200 and your product cost (based on what was consumed, not what was purchased) is $1,176. Pour cost = $1,176 ÷ $4,200 = **28%**. On the bottle side, revenue is $6,800 with product cost of $2,380. Bottle pour cost = **35%**. Your blended wine pour cost for the week is $3,556 ÷ $11,000 = **32.3%**: inside a healthy range for a full-service dining operation.
 
-**Why pour cost alone is insufficient.** A 28% pour cost on $3,000 in revenue produces $2,160 in gross margin. A 34% pour cost on $12,000 in revenue produces $7,920. The higher-pour-cost program is generating nearly four times the gross margin dollars. This is why sophisticated operators track both pour cost percentage and gross margin dollars simultaneously — and why the most financially literate beverage directors focus relentlessly on growing revenue, not just shaving cost percentages.
+**Why pour cost alone is insufficient.** A 28% pour cost on $3,000 in revenue produces $2,160 in gross margin. A 34% pour cost on $12,000 in revenue produces $7,920. The higher-pour-cost program is generating nearly four times the gross margin dollars. This is why sophisticated operators track both pour cost percentage and gross margin dollars simultaneously, and why the most financially literate beverage directors focus relentlessly on growing revenue, not just shaving cost percentages.
 
 > **Pro Tip:** When presenting your program's financial performance to ownership, always pair your pour cost percentage with gross margin dollars. Saying "our wine pour cost is 32%" tells a limited story. Saying "our wine program generated $18,400 in gross margin last month at a 32% pour cost, up from $14,200 the prior month" tells the story that wins budget increases and earns trust.
 
@@ -47,7 +47,7 @@ Here is a worked example. You have a BTG list with five wines. Over the course o
 
 ## Section 2: Reading a Beverage P&L
 
-A profit and loss statement for a beverage program is a structured accounting of what the program earned, what it cost to deliver, and what remains. Every line item is a decision point. Learning to read a P&L fluently — not just to report it, but to interrogate it — is one of the highest-leverage skills a beverage director can develop.
+A profit and loss statement for a beverage program is a structured accounting of what the program earned, what it cost to deliver, and what remains. Every line item is a decision point. Learning to read a P&L fluently, not just to report it, but to interrogate it, is one of the highest-leverage skills a beverage director can develop.
 
 **The core structure of a beverage P&L:**
 
@@ -63,16 +63,16 @@ A profit and loss statement for a beverage program is a structured accounting of
 | Operating Expenses | 2,140 | Glassware, menus, training materials, tools |
 | Net Beverage Income | 20,390 | What the program actually contributes |
 
-The most common confusion for professionals new to P&L reading is the relationship between **gross sales** and **net sales**. Comps, voids, and employee meals are deducted from gross sales to arrive at the net revenue figure that COGS is measured against. If your operator compares COGS to gross sales rather than net sales, your pour cost will appear lower than it actually is — a flattering distortion that eventually creates budget problems.
+The most common confusion for professionals new to P&L reading is the relationship between **gross sales** and **net sales**. Comps, voids, and employee meals are deducted from gross sales to arrive at the net revenue figure that COGS is measured against. If your operator compares COGS to gross sales rather than net sales, your pour cost will appear lower than it actually is, a flattering distortion that eventually creates budget problems.
 
 **What the numbers are telling you.** Gross margin is your primary operational signal. In the example above, 67% gross margin means that for every dollar of net revenue, $0.67 flows through to cover labor, operating expenses, and profit. If gross margin drops below 63% without a corresponding explanation (a new luxury BTG feature, a strategic aged inventory investment), something has changed in purchasing cost, menu pricing, or execution.
 
-**When the numbers are off — the diagnostic sequence:**
+**When the numbers are off: the diagnostic sequence:**
 
 1. Is COGS elevated relative to prior periods? Check whether purchasing cost increased (supplier pricing, substitutions) or whether consumption exceeded expectations (overpour, theft, waste).
-2. Is gross revenue flat or declining while COGS holds steady? This indicates a volume problem — fewer covers, weaker attachment, or lower average bottle prices. Review the mix of BTG vs. bottle sales.
+2. Is gross revenue flat or declining while COGS holds steady? This indicates a volume problem, fewer covers, weaker attachment, or lower average bottle prices. Review the mix of BTG vs. bottle sales.
 3. Are operating expenses elevated? Investigate glassware breakage rates and non-recurring purchases that may have been miscategorized.
-4. Is labor disproportionate to revenue? In a $46,760 net sales period, $8,800 in beverage labor represents 18.8% — workable for a fine dining operation. If that same labor number appears against $31,000 in sales, you have a staffing efficiency problem.
+4. Is labor disproportionate to revenue? In a $46,760 net sales period, $8,800 in beverage labor represents 18.8%, workable for a fine dining operation. If that same labor number appears against $31,000 in sales, you have a staffing efficiency problem.
 
 **A critical habit:** review the P&L against the same period from the prior year, not just the prior month. Seasonality will distort month-over-month comparisons. A beverage program that appears to be declining in March may simply be recovering from an abnormally strong February.
 
@@ -82,7 +82,7 @@ The most common confusion for professionals new to P&L reading is the relationsh
 
 ## Section 3: Cost of Goods vs. Cost of Sales
 
-This is one of the most consequential distinctions in beverage financial management, and one that many operators conflate. Understanding the difference — and using it — is what separates programs that investigate problems from programs that just report them.
+This is one of the most consequential distinctions in beverage financial management, and one that many operators conflate. Understanding the difference, and using it, is what separates programs that investigate problems from programs that just report them.
 
 **Cost of Goods (Purchased)** is what you spent on inventory during a period. If you received $8,400 in wine deliveries in October, that is your cost of goods purchased.
 
@@ -92,7 +92,7 @@ This is one of the most consequential distinctions in beverage financial managem
 
 Using real numbers: if you began October with $14,200 in wine inventory (at cost), received $8,400 in deliveries, and ended October with $13,800 in inventory, your cost of sales is $14,200 + $8,400 − $13,800 = **$8,800**.
 
-This $8,800 is what should appear as COGS on your P&L. If it is higher than the product you should have sold based on POS data, you have variance — and variance has a source.
+This $8,800 is what should appear as COGS on your P&L. If it is higher than the product you should have sold based on POS data, you have variance, and variance has a source.
 
 **Inventory Variance** is the gap between theoretical usage (what the POS says you sold) and actual usage (what your physical count shows is gone):
 
@@ -102,33 +102,33 @@ If POS data says you should have used $8,200 in product but your physical invent
 
 **What variance tells you:**
 
-- **Theft** — product removed without sale. Watch for systematic variance in specific SKUs, variance that tracks with particular staff shifts, or variance in high-value bottles with no corresponding POS transaction.
-- **Waste** — product spoiled, broken, or rendered unsellable. A bottle dropped during service, a wine returned as corked and not credited by the supplier, an open bottle that sat too long on the BTG list.
-- **Over-pouring** — the most common source of BTG variance. A sommelier consistently pouring 5.5 oz instead of 5 oz reduces a 5-bottle yield to approximately 4.5 bottles — a 10% revenue leak. On a program doing $8,000 per week in BTG sales, a 10% over-pour is $800 per week, $41,600 per year.
-- **Comps not recorded** — hospitality pours extended to guests that were never entered as comps in the POS. Unrecorded comps make variance look like theft; recorded comps are a legitimate cost of doing business.
+- **Theft**: product removed without sale. Watch for systematic variance in specific SKUs, variance that tracks with particular staff shifts, or variance in high-value bottles with no corresponding POS transaction.
+- **Waste**: product spoiled, broken, or rendered unsellable. A bottle dropped during service, a wine returned as corked and not credited by the supplier, an open bottle that sat too long on the BTG list.
+- **Over-pouring** (the most common source of BTG variance. A sommelier consistently pouring 5.5 oz instead of 5 oz reduces a 5-bottle yield to approximately 4.5 bottles) a 10% revenue leak. On a program doing $8,000 per week in BTG sales, a 10% over-pour is $800 per week, $41,600 per year.
+- **Comps not recorded**: hospitality pours extended to guests that were never entered as comps in the POS. Unrecorded comps make variance look like theft; recorded comps are a legitimate cost of doing business.
 
-**How to investigate variance.** First, pull the variance by SKU. Variance concentrated in one or two wines — particularly high-velocity BTG pours — points to over-pouring or unrecorded comps. Variance distributed across the cellar without pattern points to a counting or receiving error. Variance concentrated in high-value bottles points to theft and warrants a different response. Second, correlate variance timing to staffing patterns. If variance is consistently higher on Thursday/Friday nights when a particular service team works, you have a staffing-specific problem. Third, physically observe service. There is no substitute for watching how your team pours — glassware choice, fill level, technique.
+**How to investigate variance.** First, pull the variance by SKU. Variance concentrated in one or two wines, particularly high-velocity BTG pours, points to over-pouring or unrecorded comps. Variance distributed across the cellar without pattern points to a counting or receiving error. Variance concentrated in high-value bottles points to theft and warrants a different response. Second, correlate variance timing to staffing patterns. If variance is consistently higher on Thursday/Friday nights when a particular service team works, you have a staffing-specific problem. Third, physically observe service. There is no substitute for watching how your team pours, glassware choice, fill level, technique.
 
-> **Pro Tip:** Implement a weekly BTG inventory count for your highest-velocity pours — the five to eight wines that represent the bulk of your BTG revenue. A full cellar count monthly is standard; a weekly spot-check on BTG bottles takes 15 minutes and catches over-pour drift before it compounds into thousands of dollars. Build it into your Monday opening routine.
+> **Pro Tip:** Implement a weekly BTG inventory count for your highest-velocity pours, the five to eight wines that represent the bulk of your BTG revenue. A full cellar count monthly is standard; a weekly spot-check on BTG bottles takes 15 minutes and catches over-pour drift before it compounds into thousands of dollars. Build it into your Monday opening routine.
 
 ---
 
 ## Section 4: Beverage Revenue as a Business Driver
 
-Wine is not a line item in a restaurant's P&L. It is a business driver that reshapes the economics of every other line. Understanding this — and being able to articulate it with numbers — is the difference between a sommelier who runs a wine list and a beverage director who runs a business.
+Wine is not a line item in a restaurant's P&L. It is a business driver that reshapes the economics of every other line. Understanding this, and being able to articulate it with numbers, is the difference between a sommelier who runs a wine list and a beverage director who runs a business.
 
 **Check average and table economics.** Consider two scenarios at a 100-seat restaurant with 2.5 turns per night:
 
 - **Scenario A:** Average check $68, beverage attachment 22%, average beverage spend $24 when ordered
 - **Scenario B:** Average check $78, beverage attachment 34%, average beverage spend $32 when ordered
 
-The math: Scenario A generates 250 covers × $68 = $17,000 in revenue. Scenario B generates 250 covers × $78 = $19,500. The $2,500 difference — roughly $60,000 per month — comes almost entirely from stronger beverage attachment and higher bottle positioning. Labor cost in both scenarios is nearly identical (the kitchen cooked the same number of covers; the dining room served the same number of tables). Occupancy cost is identical. The extra $2,500 per night flows through at a dramatically higher margin than food revenue because the labor-to-revenue ratio on wine is so favorable.
+The math: Scenario A generates 250 covers × $68 = $17,000 in revenue. Scenario B generates 250 covers × $78 = $19,500. The $2,500 difference, roughly $60,000 per month, comes almost entirely from stronger beverage attachment and higher bottle positioning. Labor cost in both scenarios is nearly identical (the kitchen cooked the same number of covers; the dining room served the same number of tables). Occupancy cost is identical. The extra $2,500 per night flows through at a dramatically higher margin than food revenue because the labor-to-revenue ratio on wine is so favorable.
 
-**How wine revenue affects the labor cost ratio.** If total labor for the evening is $2,800, Scenario A produces a 16.5% labor ratio. Scenario B produces 14.4%. That 2-point improvement in labor ratio has a compounding effect across every reporting period and makes ownership's bonus metrics more achievable — which is exactly why ownership should be investing in wine program infrastructure.
+**How wine revenue affects the labor cost ratio.** If total labor for the evening is $2,800, Scenario A produces a 16.5% labor ratio. Scenario B produces 14.4%. That 2-point improvement in labor ratio has a compounding effect across every reporting period and makes ownership's bonus metrics more achievable, which is exactly why ownership should be investing in wine program infrastructure.
 
-**The 10% beverage attachment improvement model.** Suppose your current beverage attachment rate is 28% and your average beverage spend per attaching guest is $29. On a 400-cover Saturday, that means 112 guests ordered a beverage, generating $3,248 in beverage revenue. If you improve attachment to 38% through better staff training, stronger BTG positioning, and sommelier table presence, 152 guests order at $29 average — $4,408. The $1,160 incremental revenue at a 68% gross margin produces **$789 in additional gross profit on a single Saturday**. Annualized across 52 Saturdays: **$41,000 in incremental gross margin from a single day-part on a single day of week**, with zero increase in fixed costs.
+**The 10% beverage attachment improvement model.** Suppose your current beverage attachment rate is 28% and your average beverage spend per attaching guest is $29. On a 400-cover Saturday, that means 112 guests ordered a beverage, generating $3,248 in beverage revenue. If you improve attachment to 38% through better staff training, stronger BTG positioning, and sommelier table presence, 152 guests order at $29 average: $4,408. The $1,160 incremental revenue at a 68% gross margin produces **$789 in additional gross profit on a single Saturday**. Annualized across 52 Saturdays: **$41,000 in incremental gross margin from a single day-part on a single day of week**, with zero increase in fixed costs.
 
-**Making the business case to ownership.** When requesting budget for staff training, glassware upgrades, a new wine director hire, or a menu redesign, frame the request in payback terms. "I'm requesting $4,200 for a two-day off-site staff wine training program. Based on our current attachment rate of 28% and the team performance data I've observed, a 6-point improvement in attachment — below what I've achieved at comparable volume operations — generates $24,000 in annual gross margin improvement. The program pays for itself in three weeks." This framing — investment, expected return, payback period — is the language of capital allocation decisions. Operators who speak it fluently get resources. Those who frame requests in terms of guest experience alone usually do not.
+**Making the business case to ownership.** When requesting budget for staff training, glassware upgrades, a new wine director hire, or a menu redesign, frame the request in payback terms. "I'm requesting $4,200 for a two-day off-site staff wine training program. Based on our current attachment rate of 28% and the team performance data I've observed, a 6-point improvement in attachment, below what I've achieved at comparable volume operations, generates $24,000 in annual gross margin improvement. The program pays for itself in three weeks." This framing, investment, expected return, payback period, is the language of capital allocation decisions. Operators who speak it fluently get resources. Those who frame requests in terms of guest experience alone usually do not.
 
 > **Pro Tip:** Build a one-page "wine program economic model" for your operation: current attachment rate, current average beverage spend, and gross margin output at three improvement scenarios (conservative, base, optimistic). Update it quarterly and keep it in your back pocket. When the GM asks why you want to add a sommelier headcount, you can show the math in 90 seconds. The ability to produce that document on demand is what separates leaders who get resources from those who get told to make do.
 
@@ -136,9 +136,9 @@ The math: Scenario A generates 250 covers × $68 = $17,000 in revenue. Scenario 
 
 ## Section 5: Budgeting and Forecasting
 
-A beverage budget is not a guess with a spreadsheet attached. It is a structured projection of expected revenue, planned cost, and targeted margin — built from historical data, adjusted for known variables, and designed to be revised as conditions change. Building one rigorously is among the most professionally valuable things a beverage director can do.
+A beverage budget is not a guess with a spreadsheet attached. It is a structured projection of expected revenue, planned cost, and targeted margin, built from historical data, adjusted for known variables, and designed to be revised as conditions change. Building one rigorously is among the most professionally valuable things a beverage director can do.
 
-**The structure of a beverage budget.** Start with revenue. Pull the prior year's monthly beverage revenue by week, noting holidays, private events, unusual weather events, and anything else that distorted the pattern. Calculate a trailing twelve-month average by week-of-year as your baseline. Then apply your growth assumption — if the restaurant is projecting 6% year-over-year revenue growth, apply 6% to your beverage baseline, then layer in any program-specific initiatives (a new BTG format, a wine dinner series, improved training) that justify an incremental bump.
+**The structure of a beverage budget.** Start with revenue. Pull the prior year's monthly beverage revenue by week, noting holidays, private events, unusual weather events, and anything else that distorted the pattern. Calculate a trailing twelve-month average by week-of-year as your baseline. Then apply your growth assumption, if the restaurant is projecting 6% year-over-year revenue growth, apply 6% to your beverage baseline, then layer in any program-specific initiatives (a new BTG format, a wine dinner series, improved training) that justify an incremental bump.
 
 **Day-part and day-of-week forecasting.** Most restaurant beverage revenue is not distributed evenly across the week. A typical full-service dining operation might see the following weekly distribution:
 
@@ -152,15 +152,15 @@ A beverage budget is not a guess with a spreadsheet attached. It is a structured
 | Saturday | 24% | $10,080 |
 | Sunday | 15% | $6,300 |
 
-This distribution should inform purchasing cadence. If Friday and Saturday represent 44% of weekly revenue, you need adequate inventory on hand by Thursday close to cover peak demand. Running short of a high-velocity BTG wine on a Saturday night is not just a missed sale — it signals disorganization to guests and staff and has a disproportionate impact on weekly financial performance.
+This distribution should inform purchasing cadence. If Friday and Saturday represent 44% of weekly revenue, you need adequate inventory on hand by Thursday close to cover peak demand. Running short of a high-velocity BTG wine on a Saturday night is not just a missed sale, it signals disorganization to guests and staff and has a disproportionate impact on weekly financial performance.
 
-**Aligning purchasing with projected sales.** Calculate your weekly theoretical consumption by SKU based on projected covers and historical pour rates. If you project 480 covers Friday-Saturday and your Sauvignon Blanc pours at a rate of 1.4 glasses per wine-ordering table at a 2.4-top average, you can estimate demand. Add a safety stock of 15–20% for variance. This is not over-purchasing — it is avoiding stockout cost, which includes lost revenue, comp recovery costs, and service credibility damage.
+**Aligning purchasing with projected sales.** Calculate your weekly theoretical consumption by SKU based on projected covers and historical pour rates. If you project 480 covers Friday-Saturday and your Sauvignon Blanc pours at a rate of 1.4 glasses per wine-ordering table at a 2.4-top average, you can estimate demand. Add a safety stock of 15–20% for variance. This is not over-purchasing, it is avoiding stockout cost, which includes lost revenue, comp recovery costs, and service credibility damage.
 
-**Managing cash flow: inventory as tied-up capital.** A cellar holding $85,000 in retail-value wine inventory (roughly $42,000 at cost) represents significant working capital. Every dollar of slow-moving inventory is a dollar not available for purchasing agile, high-velocity SKUs. Conduct a quarterly inventory velocity analysis: rank every wine in the cellar by turns per month (bottles sold ÷ bottles on hand). Anything turning fewer than 0.3 times per month is a cash efficiency problem. Either merchandise it aggressively or liquidate it at cost through staff education, BTG placement, or — in extremis — returning to the distributor.
+**Managing cash flow: inventory as tied-up capital.** A cellar holding $85,000 in retail-value wine inventory (roughly $42,000 at cost) represents significant working capital. Every dollar of slow-moving inventory is a dollar not available for purchasing agile, high-velocity SKUs. Conduct a quarterly inventory velocity analysis: rank every wine in the cellar by turns per month (bottles sold ÷ bottles on hand). Anything turning fewer than 0.3 times per month is a cash efficiency problem. Either merchandise it aggressively or liquidate it at cost through staff education, BTG placement, or, in extremis, returning to the distributor.
 
-**Budget revision cadence.** Revisit your budget monthly. A revenue shortfall in month one does not simply reset the following month — it affects cash flow, purchasing capacity, and year-end projections. Build a rolling twelve-month forecast that updates automatically when actuals land, so you are always operating from current assumptions rather than stale January projections.
+**Budget revision cadence.** Revisit your budget monthly. A revenue shortfall in month one does not simply reset the following month, it affects cash flow, purchasing capacity, and year-end projections. Build a rolling twelve-month forecast that updates automatically when actuals land, so you are always operating from current assumptions rather than stale January projections.
 
-> **Pro Tip:** When you present your annual beverage budget to ownership, build in an explicit "reinvestment rate" — a stated percentage of beverage gross margin that will be reinvested in training, events, cellar development, or glassware. If you generate $310,000 in wine gross margin in year one and propose reinvesting 4% ($12,400) in program development, you are showing ownership a compounding growth model rather than a static cost center. Programs that are positioned as growth investments receive different treatment — and different budgets — than programs that are positioned as cost controls.
+> **Pro Tip:** When you present your annual beverage budget to ownership, build in an explicit "reinvestment rate", a stated percentage of beverage gross margin that will be reinvested in training, events, cellar development, or glassware. If you generate $310,000 in wine gross margin in year one and propose reinvesting 4% ($12,400) in program development, you are showing ownership a compounding growth model rather than a static cost center. Programs that are positioned as growth investments receive different treatment, and different budgets, than programs that are positioned as cost controls.
 
 ---
 
@@ -182,17 +182,17 @@ The ability to generate accurate financial reports is table stakes. The ability 
 
 **What to look for and what action it triggers:**
 
-When daily sales show a BTG category trailing forecast by more than 12%, investigate whether staffing adequacy, cover volume, or menu placement is the issue — same-shift, same-week-prior-year data is the fastest diagnostic. When weekly pour cost shows an upward trend over three consecutive weeks, do not wait for the monthly P&L — pull a physical count and run a theoretical vs. actual reconciliation immediately. When the monthly vendor statement shows a pricing discrepancy — and they regularly do — reconcile it within 48 hours of receipt. Credits not captured within the billing cycle may be lost entirely.
+When daily sales show a BTG category trailing forecast by more than 12%, investigate whether staffing adequacy, cover volume, or menu placement is the issue (same-shift, same-week-prior-year data is the fastest diagnostic. When weekly pour cost shows an upward trend over three consecutive weeks, do not wait for the monthly P&L) pull a physical count and run a theoretical vs. actual reconciliation immediately. When the monthly vendor statement shows a pricing discrepancy, and they regularly do, reconcile it within 48 hours of receipt. Credits not captured within the billing cycle may be lost entirely.
 
-**Using data to drive purchasing and staffing decisions.** A weekly sales mix report showing that your top five BTG wines represent 71% of BTG revenue but only 40% of your BTG inventory investment is telling you to consolidate your BTG list and concentrate purchasing in proven performers. A staffing efficiency report showing that wine revenue per labor hour is $42 on Thursday nights and $61 on Saturday nights tells you that Thursday night service is over-staffed relative to revenue or under-supported relative to cover volume — two very different problems requiring opposite solutions.
+**Using data to drive purchasing and staffing decisions.** A weekly sales mix report showing that your top five BTG wines represent 71% of BTG revenue but only 40% of your BTG inventory investment is telling you to consolidate your BTG list and concentrate purchasing in proven performers. A staffing efficiency report showing that wine revenue per labor hour is $42 on Thursday nights and $61 on Saturday nights tells you that Thursday night service is over-staffed relative to revenue or under-supported relative to cover volume, two very different problems requiring opposite solutions.
 
-**Presenting financial performance to ownership and GMs.** The most effective financial presentations are brief, comparative, and action-oriented. A one-page monthly summary that shows: (1) revenue vs. budget and prior year, (2) gross margin dollars and percentage, (3) pour cost vs. target, (4) one operational metric that was improved, and (5) one investment request for the following period — this format takes 15 minutes to prepare and 5 minutes to present. It positions you as a professional who runs a business, not a professional who manages a list.
+**Presenting financial performance to ownership and GMs.** The most effective financial presentations are brief, comparative, and action-oriented. A one-page monthly summary that shows: (1) revenue vs. budget and prior year, (2) gross margin dollars and percentage, (3) pour cost vs. target, (4) one operational metric that was improved, and (5) one investment request for the following period, this format takes 15 minutes to prepare and 5 minutes to present. It positions you as a professional who runs a business, not a professional who manages a list.
 
 The language that earns respect in ownership conversations is not the language of wine. It is the language of returns. "Our wine program contributed $22,400 in gross margin last month, 8.3% above our $20,700 target, driven by a 4-point improvement in BTG attachment following the training investment we made in February. I am requesting a $3,600 budget for spring vintage allocation deposits on three producers whose allocations have historically turned at 3.2x cost in bottle sales within 90 days." This is ownership language. It speaks to investment, return, timeline, and operational history. Beverage directors who present this way are taken seriously. Those who lead with tasting notes are not.
 
-**Building accountability into the program.** The most durable financial improvements come from systems, not individual effort. Set weekly targets for pour cost and gross margin by category. Post them where your team can see them (not necessarily the dollar amounts — but the directional goals). Run a monthly "program metrics" meeting with your senior floor staff where you share what is working, what is not, and what the team is doing to improve. Financial accountability that is embedded in team culture produces better results than accountability that lives only in a director's spreadsheet.
+**Building accountability into the program.** The most durable financial improvements come from systems, not individual effort. Set weekly targets for pour cost and gross margin by category. Post them where your team can see them (not necessarily the dollar amounts, but the directional goals). Run a monthly "program metrics" meeting with your senior floor staff where you share what is working, what is not, and what the team is doing to improve. Financial accountability that is embedded in team culture produces better results than accountability that lives only in a director's spreadsheet.
 
-> **Pro Tip:** Create a single "program scorecard" — one page, updated monthly — that shows five to seven key metrics with current performance, prior month, prior year, and target. Share it with ownership before they ask for it. Proactive, structured reporting is one of the highest-trust signals a beverage director can send. It communicates that you are in control of the program, that you have nothing to hide, and that you are managing the business rather than reacting to it. Operators who share performance data voluntarily almost never get interrogated about it.
+> **Pro Tip:** Create a single "program scorecard", one page, updated monthly, that shows five to seven key metrics with current performance, prior month, prior year, and target. Share it with ownership before they ask for it. Proactive, structured reporting is one of the highest-trust signals a beverage director can send. It communicates that you are in control of the program, that you have nothing to hide, and that you are managing the business rather than reacting to it. Operators who share performance data voluntarily almost never get interrogated about it.
 
 ---
 
@@ -218,7 +218,7 @@ The language that earns respect in ownership conversations is not the language o
 
 ---
 
-## Quiz — Cost of Goods & Financial Management
+## Quiz: Cost of Goods & Financial Management
 
 **Instructions:** Select the best answer. All answers can be found in this module.
 
@@ -417,7 +417,7 @@ The language that earns respect in ownership conversations is not the language o
 **Q20. A beverage director presents the following to ownership: "Our wine program generated $24,600 in gross margin last month, 11% above our $22,200 target, driven by a 5-point improvement in BTG attachment following February's training. I am requesting $4,800 for spring allocation deposits on three producers whose allocations historically turn at 3x cost within 60 days." Why is this presentation format effective?**
 - A) It uses technical wine language that signals expertise to ownership
 - B) It focuses on guest experience outcomes, which ownership values most
-- C) It frames the program as an investment vehicle with measurable returns, a prior proof point, and a specific payback timeline — the language of capital allocation decisions
+- C) It frames the program as an investment vehicle with measurable returns, a prior proof point, and a specific payback timeline, the language of capital allocation decisions
 - D) It avoids mentioning cost, which prevents ownership from focusing on expense reduction
 
 **Correct: C**

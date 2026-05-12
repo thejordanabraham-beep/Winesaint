@@ -2,10 +2,10 @@
 
 ---
 
-**Program:** Wine Saint Certified — Wine Program Management Mastery
+**Program:** Wine Saint Certified: Wine Program Management Mastery
 **Level:** Wine Program Management — Wine List Architecture
 **Module:** 3
-**Audience:** Corporate hospitality professionals — beverage directors, sommeliers, F&B managers
+**Audience:** Corporate hospitality professionals: beverage directors, sommeliers, F&B managers
 **Estimated Duration:** 60–75 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent
 
@@ -21,7 +21,7 @@ By the end of this module, you will be able to:
 - Construct a wine list with correct section sequencing, strategic placement of high-margin items, and guest-appropriate flow
 - Determine the optimal list size for a given operation using research-backed frameworks for avoiding decision paralysis
 - Audit an oversized list using revenue data, velocity metrics, and inventory cost to identify cuts without sacrificing guest satisfaction
-- Evaluate physical list design — typography, description length, pricing architecture, and digital format — for its effect on purchasing behavior and perceived value
+- Evaluate physical list design (typography, description length, pricing architecture, and digital format) for its effect on purchasing behavior and perceived value
 - Apply a decision-making framework for when to introduce half bottles, large formats, and library selections to a program
 
 ---
@@ -30,9 +30,9 @@ By the end of this module, you will be able to:
 
 ### A Sales Tool, Not a Catalog
 
-The most important conceptual shift a beverage director can make is to stop thinking of the wine list as an inventory document and start treating it as a piece of persuasion design. A catalog reflects what you have. A sales tool shapes what guests choose. The distinction is not semantic — it drives every decision from organization to typography to list length.
+The most important conceptual shift a beverage director can make is to stop thinking of the wine list as an inventory document and start treating it as a piece of persuasion design. A catalog reflects what you have. A sales tool shapes what guests choose. The distinction is not semantic, it drives every decision from organization to typography to list length.
 
-This reframing begins with understanding how guests actually interact with wine lists. Research consistently shows that most guests in full-service restaurants spend fewer than 90 seconds reviewing the wine list before making a selection. Eye-tracking studies from menu engineering research — most prominently the work of Gregg Rapp and the Cornell School of Hotel Administration's menu research program — demonstrate that guests move through a menu in predictable scanning patterns: they anchor on the upper-right quadrant, quickly scan headers, and make decisions under social and time pressure. The guest who appears to be studying your list is, in most cases, scanning for price anchors and looking for something familiar enough to feel safe.
+This reframing begins with understanding how guests actually interact with wine lists. Research consistently shows that most guests in full-service restaurants spend fewer than 90 seconds reviewing the wine list before making a selection. Eye-tracking studies from menu engineering research (most prominently the work of Gregg Rapp and the Cornell School of Hotel Administration's menu research program) demonstrate that guests move through a menu in predictable scanning patterns: they anchor on the upper-right quadrant, quickly scan headers, and make decisions under social and time pressure. The guest who appears to be studying your list is, in most cases, scanning for price anchors and looking for something familiar enough to feel safe.
 
 This means the wine list is not a document guests read. It is a document guests scan. Every decision you make about organization, section length, and item placement needs to account for a guest who is spending less time with your list than you spent selecting any single wine on it.
 
@@ -40,20 +40,20 @@ This means the wine list is not a document guests read. It is a document guests 
 
 When a guest opens a wine list, they make decisions in a predictable hierarchy:
 
-1. **Budget orientation** — Guests almost immediately locate the price range they are comfortable with, scanning for the lowest and highest prices on the list to calibrate. This happens before they read a single label.
-2. **Familiarity anchoring** — Guests look for something they recognize: a grape variety, a region, a producer name. Familiarity is a risk-reduction strategy, not a sign of unsophisticated taste.
-3. **Format selection** — Guests decide between white, red, rosé, and sparkling based on the occasion, the food they have ordered or intend to order, and social context.
-4. **Specific selection** — Only after the first three decisions does a guest begin evaluating individual options within a narrowed field.
+1. **Budget orientation**: Guests almost immediately locate the price range they are comfortable with, scanning for the lowest and highest prices on the list to calibrate. This happens before they read a single label.
+2. **Familiarity anchoring**: Guests look for something they recognize: a grape variety, a region, a producer name. Familiarity is a risk-reduction strategy, not a sign of unsophisticated taste.
+3. **Format selection**: Guests decide between white, red, rosé, and sparkling based on the occasion, the food they have ordered or intend to order, and social context.
+4. **Specific selection**, Only after the first three decisions does a guest begin evaluating individual options within a narrowed field.
 
-A list that buries familiar anchors, obscures pricing, or frontloads the guest with dozens of unfamiliar choices before they can orient themselves is a list that drives guests toward the most familiar wine on the list — which is rarely your best-margin or most interesting bottle. Great list design respects and supports this decision hierarchy rather than fighting it.
+A list that buries familiar anchors, obscures pricing, or frontloads the guest with dozens of unfamiliar choices before they can orient themselves is a list that drives guests toward the most familiar wine on the list, which is rarely your best-margin or most interesting bottle. Great list design respects and supports this decision hierarchy rather than fighting it.
 
 ### How List Design Supports or Undermines Purchasing
 
-The practical consequences of poor list design are measurable. When guests feel disoriented by a list, they default to either the second-cheapest bottle on the list (a nearly universal behavioral pattern identified in behavioral economics research by Dan Ariely and others) or they defer entirely to server recommendations. Both outcomes represent a lost sales opportunity. The guest who says "just bring me something" has given up on your list — and your list has abdicated its role as a sales tool.
+The practical consequences of poor list design are measurable. When guests feel disoriented by a list, they default to either the second-cheapest bottle on the list (a nearly universal behavioral pattern identified in behavioral economics research by Dan Ariely and others) or they defer entirely to server recommendations. Both outcomes represent a lost sales opportunity. The guest who says "just bring me something" has given up on your list, and your list has abdicated its role as a sales tool.
 
-A well-designed list, by contrast, moves guests upward in average bottle price by creating a sense of guided discovery. When guests find what they are looking for quickly, feel oriented within the structure, and encounter descriptions that build rather than undermine confidence, they are more likely to explore one tier above their initial comfort zone. That movement — from a $60 selection to an $85 selection — is where the financial impact of great list design is felt over thousands of covers.
+A well-designed list, by contrast, moves guests upward in average bottle price by creating a sense of guided discovery. When guests find what they are looking for quickly, feel oriented within the structure, and encounter descriptions that build rather than undermine confidence, they are more likely to explore one tier above their initial comfort zone. That movement, from a $60 selection to an $85 selection, is where the financial impact of great list design is felt over thousands of covers.
 
-> **Pro Tip:** Pull your last 90 days of wine sales data and identify your top 10 selling bottles. Now find them on your printed or digital list. Can you locate each one within 15 seconds, scanning the way a first-time guest would? If not, your list is working against its own bestsellers. Reorganize headers, section breaks, and item sequencing so that your highest-velocity wines are easy to find — not buried in the middle of a long section with no visual hierarchy to guide the eye.
+> **Pro Tip:** Pull your last 90 days of wine sales data and identify your top 10 selling bottles. Now find them on your printed or digital list. Can you locate each one within 15 seconds, scanning the way a first-time guest would? If not, your list is working against its own bestsellers. Reorganize headers, section breaks, and item sequencing so that your highest-velocity wines are easy to find, not buried in the middle of a long section with no visual hierarchy to guide the eye.
 
 ---
 
@@ -76,15 +76,15 @@ A guest-centric approach that organizes wines along a spectrum from light to ful
 The most blunt organizational approach, occasionally used in high-volume casual concepts. Wines are listed from least to most expensive, regardless of style, region, or grape. Almost never advisable as a primary organizational framework because it reduces wine to pure price signal and eliminates any editorial identity or curatorial voice.
 
 **5. Hybrid Systems**
-The most sophisticated and increasingly common approach. Typically combines regional organization (for structure and credibility) with style descriptors within sections (for guest accessibility). A hybrid list might organize by region for the broad section headers — Burgundy, Loire, Rhône — but include a brief style note for each wine ("mineral, citrus-driven" or "full, spiced, earthy") to guide guests who lack geographic fluency. Done well, a hybrid system serves the wine-literate guest and the curious newcomer simultaneously.
+The most sophisticated and increasingly common approach. Typically combines regional organization (for structure and credibility) with style descriptors within sections (for guest accessibility). A hybrid list might organize by region for the broad section headers, Burgundy, Loire, Rhône, but include a brief style note for each wine ("mineral, citrus-driven" or "full, spiced, earthy") to guide guests who lack geographic fluency. Done well, a hybrid system serves the wine-literate guest and the curious newcomer simultaneously.
 
 ### Choosing the Right System for Your Concept
 
-The decision is not about which system is objectively superior — it is about which system serves your guest profile and reinforces your restaurant's identity. A Michelin-starred French restaurant that organizes by style is sending a signal that conflicts with its culinary positioning. A modern wine bar that organizes by region is creating friction for the guest who just wants a good glass of something light and fizzy.
+The decision is not about which system is objectively superior, it is about which system serves your guest profile and reinforces your restaurant's identity. A Michelin-starred French restaurant that organizes by style is sending a signal that conflicts with its culinary positioning. A modern wine bar that organizes by region is creating friction for the guest who just wants a good glass of something light and fizzy.
 
 The diagnostic framework is straightforward: Who is your median guest? What is their wine vocabulary? Is wine a destination or an accompaniment at your restaurant? Does your program have a curatorial point of view (terroir-driven, natural wine-focused, producer-centric) that demands a specific framework? Answer those questions first, then choose the system that puts the least distance between your guest and the wine they actually want.
 
-> **Pro Tip:** Seat yourself at your own bar on a slow night and watch how ten guests interact with the wine list. Are they flipping to specific sections, or starting at the beginning? Are they reading labels, or looking at prices? Are they deferring to the server before they finish the first page? This 30-minute observation will tell you more about whether your organizational system is working than any sales report. Pay particular attention to where guests stop scanning — that is either a point of discovery or a point of abandonment.
+> **Pro Tip:** Seat yourself at your own bar on a slow night and watch how ten guests interact with the wine list. Are they flipping to specific sections, or starting at the beginning? Are they reading labels, or looking at prices? Are they deferring to the server before they finish the first page? This 30-minute observation will tell you more about whether your organizational system is working than any sales report. Pay particular attention to where guests stop scanning, that is either a point of discovery or a point of abandonment.
 
 ---
 
@@ -92,9 +92,9 @@ The diagnostic framework is straightforward: Who is your median guest? What is t
 
 ### The Fundamental Tension
 
-Every wine list exists somewhere on a spectrum between breadth — many regions and styles, each represented by one or two selections — and depth — fewer regions, each represented by multiple producers, vintages, and price points. This is not merely a philosophical question. It has direct implications for inventory investment, staff knowledge requirements, storage capacity, and guest experience.
+Every wine list exists somewhere on a spectrum between breadth (many regions and styles, each represented by one or two selections) and depth, fewer regions, each represented by multiple producers, vintages, and price points. This is not merely a philosophical question. It has direct implications for inventory investment, staff knowledge requirements, storage capacity, and guest experience.
 
-A broad list signals range and accessibility. It says: whatever you are in the mood for, we have something. A deep list signals expertise and commitment. It says: we have studied this region seriously and can take you somewhere most lists cannot. Neither is inherently superior. The error is in failing to make a conscious choice — which produces lists that are neither broad enough to be accessible nor deep enough to be interesting.
+A broad list signals range and accessibility. It says: whatever you are in the mood for, we have something. A deep list signals expertise and commitment. It says: we have studied this region seriously and can take you somewhere most lists cannot. Neither is inherently superior. The error is in failing to make a conscious choice, which produces lists that are neither broad enough to be accessible nor deep enough to be interesting.
 
 ### When to Go Broad
 
@@ -120,7 +120,7 @@ Depth is appropriate when:
 
 ### The Anchor and Explore Model
 
-The most effective operational framework for balancing breadth and depth is what can be called the anchor and explore model. Every major category on your list should have at least one "anchor" — a well-known, reliably available, high-confidence selection that guests can default to. Around that anchor, you build explore options: wines that reward curiosity and reward the guest who trusts your team's recommendation.
+The most effective operational framework for balancing breadth and depth is what can be called the anchor and explore model. Every major category on your list should have at least one "anchor", a well-known, reliably available, high-confidence selection that guests can default to. Around that anchor, you build explore options: wines that reward curiosity and reward the guest who trusts your team's recommendation.
 
 In practice, this means your Burgundy section might have two Côte de Nuits anchors (a Gevrey-Chambertin and a Vosne-Romanée from recognizable producers at accessible price points) and then four to six explore selections (lesser-known appellations, emerging producers, alternative vintages). Guests who want safety have it. Guests who want discovery have a path. Staff can use the anchor wines to establish trust before steering curious guests toward the explore tier.
 
@@ -128,7 +128,7 @@ In practice, this means your Burgundy section might have two Côte de Nuits anch
 
 To audit your current list for breadth/depth balance: export your wine list by section and count selections per section. Then pull velocity data for those sections over 90 days. Sections with more than 20% of your selections but less than 20% of your revenue are likely over-weighted. Sections with fewer than 10% of selections but more than 20% of your revenue are likely under-resourced. This ratio analysis tells you where to add depth and where to pull back.
 
-> **Pro Tip:** The anchor and explore model is most powerful when staff are trained to sell it explicitly. Script a simple table-side move: "We have a few things in that style you might recognize, and also some producers we're really excited about right now — want me to tell you about one?" This two-step offer (safety first, discovery second) dramatically increases the rate at which guests purchase from the explore tier. Train your team to lead with the anchor and pivot to the explore once the guest is comfortable.
+> **Pro Tip:** The anchor and explore model is most powerful when staff are trained to sell it explicitly. Script a simple table-side move: "We have a few things in that style you might recognize, and also some producers we're really excited about right now, want me to tell you about one?" This two-step offer (safety first, discovery second) dramatically increases the rate at which guests purchase from the explore tier. Train your team to lead with the anchor and pivot to the explore once the guest is comfortable.
 
 ---
 
@@ -150,15 +150,15 @@ The ordering of sections within a wine list is not neutral. It shapes the guest'
 
 ### Page Turns and Section Breaks
 
-Every page turn is a friction point. A guest who must flip to the next page to see the rest of a section may not flip — they make a selection from what is visible. This means that your highest-priority wines in any section should appear on the first visible spread of that section, not buried after a page break. If a section is long enough to require multiple pages, consider whether it is too long — or use visual design elements (bold section headers, ruled dividers, background color blocks) to help guests understand where they are in the document.
+Every page turn is a friction point. A guest who must flip to the next page to see the rest of a section may not flip, they make a selection from what is visible. This means that your highest-priority wines in any section should appear on the first visible spread of that section, not buried after a page break. If a section is long enough to require multiple pages, consider whether it is too long, or use visual design elements (bold section headers, ruled dividers, background color blocks) to help guests understand where they are in the document.
 
 ### Half Bottles, Large Formats, and Library Selections
 
 These three categories serve distinct strategic roles. Half bottles enable solo diners, table-with-different-preferences scenarios, and wine pairing across multiple courses without full bottle commitment. They expand the market for wine rather than competing with it. Large formats (magnums and above) serve celebratory occasions and high-spend tables; they should appear either at the end of a relevant section or in a dedicated "Special Formats" section for visibility.
 
-Library selections — older vintages held specifically for the list — are the most powerful trust signals a beverage director can deploy. A single page of library wines communicates that your program is serious, your cellar is managed with intention, and that something genuinely rare is available to guests who are ready to spend on it. Library sections should be short (10–20 selections) and curated for condition, provenance, and wow factor.
+Library selections, older vintages held specifically for the list, are the most powerful trust signals a beverage director can deploy. A single page of library wines communicates that your program is serious, your cellar is managed with intention, and that something genuinely rare is available to guests who are ready to spend on it. Library sections should be short (10–20 selections) and curated for condition, provenance, and wow factor.
 
-> **Pro Tip:** Sequence your red wine section deliberately for a specific revenue goal: place your second-highest-margin bottle at the top of the section where the guest's eye lands first, and your third-highest-margin bottle as the third item in the section. The first item anchors the perception of quality; the second and third items are where behavioral economics research shows guests disproportionately concentrate their selections. Reserve your highest-margin bottle for approximately one-third of the way down the section — far enough down to feel like a "discovery" but early enough to be found by guests who are scanning rather than reading.
+> **Pro Tip:** Sequence your red wine section deliberately for a specific revenue goal: place your second-highest-margin bottle at the top of the section where the guest's eye lands first, and your third-highest-margin bottle as the third item in the section. The first item anchors the perception of quality; the second and third items are where behavioral economics research shows guests disproportionately concentrate their selections. Reserve your highest-margin bottle for approximately one-third of the way down the section, far enough down to feel like a "discovery" but early enough to be found by guests who are scanning rather than reading.
 
 ---
 
@@ -166,7 +166,7 @@ Library selections — older vintages held specifically for the list — are the
 
 ### How Many Selections Is the Right Number?
 
-There is no universally correct answer, but there is a research-supported framework for arriving at the right number for your operation. The starting point is the psychology of choice: the work of psychologist Barry Schwartz and the foundational jam study by Sheena Iyengar established that beyond a certain number of options, additional choices reduce rather than increase the likelihood of purchase. Applied to wine lists, this means that there is a point at which more wines produce fewer sales — not because the wines are wrong, but because the cognitive burden of evaluation exceeds the guest's tolerance.
+There is no universally correct answer, but there is a research-supported framework for arriving at the right number for your operation. The starting point is the psychology of choice: the work of psychologist Barry Schwartz and the foundational jam study by Sheena Iyengar established that beyond a certain number of options, additional choices reduce rather than increase the likelihood of purchase. Applied to wine lists, this means that there is a point at which more wines produce fewer sales, not because the wines are wrong, but because the cognitive burden of evaluation exceeds the guest's tolerance.
 
 For most full-service restaurants, this inflection point occurs somewhere between 80 and 150 selections. This is not a rigid rule; it scales with list organization quality and staff support. A brilliantly organized list with strong staff guidance can carry 200 selections without producing paralysis. A poorly organized list with minimal staff engagement can produce paralysis at 60.
 
@@ -179,7 +179,7 @@ The operational benchmarks by concept type:
 
 ### The Relationship Between List Size and Operational Factors
 
-List size does not exist in isolation — it is directly constrained by three operational realities:
+List size does not exist in isolation, it is directly constrained by three operational realities:
 
 **Storage capacity.** Every wine on your list requires a home in your cellar or storage facility. A list of 200 selections that requires maintaining a minimum of six bottles of each wine demands 1,200+ bottle positions before a single case of backup inventory is considered. Audit your physical storage against your list size regularly.
 
@@ -192,12 +192,12 @@ List size does not exist in isolation — it is directly constrained by three op
 The framework for cutting an oversized list without losing revenue:
 
 1. **Export 12-month velocity data.** Identify every wine that sold fewer than one case (12 bottles) in the previous year. These are candidates for removal, not necessarily automatic cuts.
-2. **Segment by margin.** Of those low-velocity wines, which carry above-average margin? These are worth examining before cutting — they may be undersold rather than unwanted.
+2. **Segment by margin.** Of those low-velocity wines, which carry above-average margin? These are worth examining before cutting, they may be undersold rather than unwanted.
 3. **Identify redundancy.** Are there three Sancerres on the list where one would do? Consolidate redundant offerings in the same style/region/price tier.
-4. **Protect anchors.** Never cut the wines that serve as anchor selections in a category, even if their velocity is modest — they provide the confidence scaffolding that enables explore selections to sell.
+4. **Protect anchors.** Never cut the wines that serve as anchor selections in a category, even if their velocity is modest, they provide the confidence scaffolding that enables explore selections to sell.
 5. **Make cuts in cohorts.** Do not cut 40 wines in a single service; you will create gaps and confuse regulars. Rotate out 10–15 wines per quarter, replacing each removed selection with something that better serves your current strategy.
 
-> **Pro Tip:** Before finalizing any list cut, cross-reference with your reservation system to identify your top 50 highest-spend regulars and check whether any of the wines flagged for removal appear in their purchase history. Cutting a wine that three of your top annual-spend guests order consistently is a guest relations problem, not just an inventory decision. Consider moving those wines to an "Available on Request" reserve category rather than removing them entirely — you protect the relationship while streamlining the public list.
+> **Pro Tip:** Before finalizing any list cut, cross-reference with your reservation system to identify your top 50 highest-spend regulars and check whether any of the wines flagged for removal appear in their purchase history. Cutting a wine that three of your top annual-spend guests order consistently is a guest relations problem, not just an inventory decision. Consider moving those wines to an "Available on Request" reserve category rather than removing them entirely, you protect the relationship while streamlining the public list.
 
 ---
 
@@ -205,17 +205,17 @@ The framework for cutting an oversized list without losing revenue:
 
 ### The List as a Physical Object
 
-The physical experience of interacting with a wine list — its weight, its typography, its use of white space, its description language — is inseparable from the purchasing experience it enables. A list that is difficult to read, dense with text, or physically awkward to hold is a list that works against the guest from the moment they open it.
+The physical experience of interacting with a wine list (its weight, its typography, its use of white space, its description language) is inseparable from the purchasing experience it enables. A list that is difficult to read, dense with text, or physically awkward to hold is a list that works against the guest from the moment they open it.
 
 The most effective wine lists in the world share a cluster of design characteristics that have been validated both by anecdotal practice and by menu engineering research:
 
-**Typography.** Body text should be set at a minimum of 10 points, and ideally 11–12 points, in a serif font for print applications. Guests reading wine lists in restaurant lighting — which is almost always dimmer than optimal reading conditions — need legible text without straining. Section headers should be meaningfully larger (14–18 points) and visually distinct to support scanning behavior.
+**Typography.** Body text should be set at a minimum of 10 points, and ideally 11–12 points, in a serif font for print applications. Guests reading wine lists in restaurant lighting (which is almost always dimmer than optimal reading conditions) need legible text without straining. Section headers should be meaningfully larger (14–18 points) and visually distinct to support scanning behavior.
 
-**White space.** Dense wine lists that minimize white space in order to fit more selections per page consistently underperform. White space is not wasted space — it is functional space that allows the eye to rest and the brain to process what it has read. A list with breathing room between selections communicates confidence; a list crammed to the margins communicates desperation.
+**White space.** Dense wine lists that minimize white space in order to fit more selections per page consistently underperform. White space is not wasted space, it is functional space that allows the eye to rest and the brain to process what it has read. A list with breathing room between selections communicates confidence; a list crammed to the margins communicates desperation.
 
 **Description length.** The most effective wine descriptions are 10–20 words. They answer three questions: What does it taste like? Where is it from (or what makes it interesting)? Why might you want it tonight? Descriptions longer than 25 words are rarely read in their entirety by guests under service time pressure. Descriptions shorter than 8 words provide insufficient guidance for the guest who needs orientation.
 
-**Pricing display.** Right-aligned pricing in a consistent column format is standard and expected. Never bury prices within descriptions or use em-dashes with inconsistent spacing — these are visual tricks that guests resent when they notice them, and they always notice. Pricing should be honest, visible, and consistent.
+**Pricing display.** Right-aligned pricing in a consistent column format is standard and expected. Never bury prices within descriptions or use em-dashes with inconsistent spacing, these are visual tricks that guests resent when they notice them, and they always notice. Pricing should be honest, visible, and consistent.
 
 ### Digital vs. Printed Lists
 
@@ -237,7 +237,7 @@ Across formats and concepts, the wine lists that consistently produce the highes
 
 A wine list is never finished. It is a living document that reflects the evolution of your program, the preferences of your guest base, and the opportunities presented by each new vintage. The best beverage directors treat it as such.
 
-> **Pro Tip:** Commission a blind layout review of your wine list at least once per year. Give a printed copy of your list to three people: one wine professional, one engaged wine consumer, and one person who drinks wine casually but without deep knowledge. Ask each of them to find a specific wine (something they would plausibly order), then time how long it takes. Ask them what felt easy and what felt confusing. The gap between what you designed and what they experience is your design deficit — and it is costing you money on every cover.
+> **Pro Tip:** Commission a blind layout review of your wine list at least once per year. Give a printed copy of your list to three people: one wine professional, one engaged wine consumer, and one person who drinks wine casually but without deep knowledge. Ask each of them to find a specific wine (something they would plausibly order), then time how long it takes. Ask them what felt easy and what felt confusing. The gap between what you designed and what they experience is your design deficit, and it is costing you money on every cover.
 
 ---
 
@@ -263,7 +263,7 @@ A wine list is never finished. It is a living document that reflects the evoluti
 
 ---
 
-## Quiz — Wine List Architecture
+## Quiz: Wine List Architecture
 
 **Instructions:** Select the best answer. All answers can be found in this module.
 
@@ -380,7 +380,7 @@ A wine list is never finished. It is a living document that reflects the evoluti
 ---
 
 **Q12. A beverage director is told to cut 30 wines from an oversized list. A guest review of velocity data shows that 12 of the flagged wines appear in the purchase history of the restaurant's top 40 highest-spend regular guests. What is the MOST appropriate course of action?**
-- A) Cut all 12 wines immediately — velocity data is the only relevant metric
+- A) Cut all 12 wines immediately, velocity data is the only relevant metric
 - B) Retain all 12 wines and cut only from lower-spend guest preferences
 - C) Move those 12 wines to an "Available on Request" reserve category rather than removing them from the program entirely
 - D) Raise the prices on all 12 wines to increase their velocity before making a final decision
@@ -400,7 +400,7 @@ A wine list is never finished. It is a living document that reflects the evoluti
 ---
 
 **Q14. What is the recommended length for individual wine descriptions on a print list?**
-- A) 5–8 words — any more is unnecessary
+- A) 5–8 words, any more is unnecessary
 - B) 10–20 words, answering what it tastes like, where it is from, and why a guest might want it tonight
 - C) 30–50 words, providing full producer background and technical detail
 - D) 100 words or more, so guests can make fully informed decisions without server assistance
@@ -421,7 +421,7 @@ A wine list is never finished. It is a living document that reflects the evoluti
 
 **Q16. A beverage director notices that guests consistently ask servers for recommendations rather than choosing from the list independently. The most likely root cause, based on this module, is:**
 - A) The guests are insufficiently interested in wine to engage with any list
-- B) The list is disorienting guests — either through poor organization, excessive length, or inadequate design — causing them to give up on self-navigation
+- B) The list is disorienting guests (either through poor organization, excessive length, or inadequate design) causing them to give up on self-navigation
 - C) The servers are too persuasive and are actively discouraging list engagement
 - D) The wine list is too short to provide guests with meaningful options
 

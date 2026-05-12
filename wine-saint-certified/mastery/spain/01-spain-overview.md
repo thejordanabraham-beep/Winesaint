@@ -1,11 +1,11 @@
-# Spain: The Sleeping Giant Awakes — Geography, Grapes, and the DO System
+# Spain: The Sleeping Giant Awakes, Geography, Grapes, and the DO System
 
 ---
 
-**Program:** Wine Saint Certified — Spain Mastery
+**Program:** Wine Saint Certified: Spain Mastery
 **Level:** Spain Mastery — Overview
 **Module:** 1
-**Audience:** Corporate hospitality professionals — servers, sommeliers, floor managers
+**Audience:** Corporate hospitality professionals: servers, sommeliers, floor managers
 **Estimated Duration:** 60–75 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent
 
@@ -14,70 +14,70 @@
 ## Learning Objectives
 By the end of this module, you will be able to:
 - Explain why Spain has the world's largest vineyard area yet ranks third in production volume, and use this fact to position Spanish wines on the floor
-- Identify Spain's five major climate zones — Atlantic, Meseta, Mediterranean, Southern, and Island — and match each to its signature wines and grape varieties
-- Describe the five-tier Spanish wine classification system (Vino de Mesa, VdlT, DO, DOCa, Vino de Pago) and explain what each tier communicates — and fails to communicate — about quality
+- Identify Spain's five major climate zones; Atlantic, Meseta, Mediterranean, Southern, and Island, and match each to its signature wines and grape varieties
+- Describe the five-tier Spanish wine classification system (Vino de Mesa, VdlT, DO, DOCa, Vino de Pago) and explain what each tier communicates, and fails to communicate, about quality
 - Explain the four aging designations (Joven, Crianza, Reserva, Gran Reserva) with their minimum requirements, and articulate why Gran Reserva does not always mean "better"
 - Name Spain's nine key grape varieties (Tempranillo, Garnacha, Monastrell, Albariño, Verdejo, Godello, Palomino, Pedro Ximénez, and the Cava trio), describe their flavor profiles, and identify their home regions
-- Read a Spanish wine label fluently — identifying producer, DO, vintage, and aging tier — and translate that information into a confident guest recommendation
+- Read a Spanish wine label fluently, identifying producer, DO, vintage, and aging tier, and translate that information into a confident guest recommendation
 - Execute three floor conversations confidently: "easy Spanish wine," "serious Spanish wine," and "something unusual"
 
 ---
 
-## Section 1: Spain — The World's Largest Vineyard
+## Section 1: Spain, The World's Largest Vineyard
 
-Spain holds a distinction that surprises nearly every wine professional who hears it for the first time: it has more land under vine than any country on earth. Approximately 960,000 hectares — nearly a million — are planted to grapevines across the Iberian Peninsula and its offshore islands. France has roughly 750,000 hectares. Italy, around 700,000. Spain dwarfs them both in planted area, and yet Spain ranks third in production volume, behind France and Italy by a significant margin.
+Spain holds a distinction that surprises nearly every wine professional who hears it for the first time: it has more land under vine than any country on earth. Approximately 960,000 hectares, nearly a million, are planted to grapevines across the Iberian Peninsula and its offshore islands. France has roughly 750,000 hectares. Italy, around 700,000. Spain dwarfs them both in planted area, and yet Spain ranks third in production volume, behind France and Italy by a significant margin.
 
-That apparent paradox reveals the single most important structural fact about Spanish viticulture: low yields. Spain's vineyards are not merely large; they are ancient, drought-stressed, and deliberately unproductive. Across the vast central plateau and the arid interior, bush-vine plantings — called vaso or en vaso, unsupported shrubs sprawling close to the ground — can go an entire growing season on 200–350mm of rainfall. In La Mancha, the country's largest DO by area, vineyard density averages just 900–1,200 vines per hectare, compared to Bordeaux's 5,000–10,000. Each vine is competing for a limited water supply. Each vine produces far less fruit than its French or Italian counterpart. The result is concentrated juice from low-yielding plants spread across an enormous landscape.
+That apparent paradox reveals the single most important structural fact about Spanish viticulture: low yields. Spain's vineyards are not merely large; they are ancient, drought-stressed, and deliberately unproductive. Across the vast central plateau and the arid interior, bush-vine plantings, called vaso or en vaso, unsupported shrubs sprawling close to the ground, can go an entire growing season on 200–350mm of rainfall. In La Mancha, the country's largest DO by area, vineyard density averages just 900–1,200 vines per hectare, compared to Bordeaux's 5,000–10,000. Each vine is competing for a limited water supply. Each vine produces far less fruit than its French or Italian counterpart. The result is concentrated juice from low-yielding plants spread across an enormous landscape.
 
-This explains something critical that confounds the casual consumer: why Spanish wine has historically been cheap. Vast surface area, very little wine per vine, traditionally sold for bulk. For much of the 20th century, Spain was exactly that — a supplier of anonymous bulk wine destined for blending tables across France and Germany. The country's reputation rested almost entirely on Sherry and a narrow slice of Rioja, with everything else largely invisible to international markets.
+This explains something critical that confounds the casual consumer: why Spanish wine has historically been cheap. Vast surface area, very little wine per vine, traditionally sold for bulk. For much of the 20th century, Spain was exactly that, a supplier of anonymous bulk wine destined for blending tables across France and Germany. The country's reputation rested almost entirely on Sherry and a narrow slice of Rioja, with everything else largely invisible to international markets.
 
-The transformation began in the 1980s and accelerated through the 1990s and 2000s. A generation of Spanish winemakers traveled — to Bordeaux, to Burgundy, to California — absorbed modern techniques, and then returned home to apply them to something France and California could never replicate: Spain's ancient indigenous varieties and pre-phylloxera old-vine plantings, many of which had survived because Spain's sandy soils and isolation made phylloxera's spread slower and more incomplete than in France. They found bush vines 80, 100, even 120 years old in Priorat, in Gredos, in Toro. They found forgotten white varieties in Galicia's granite river valleys. They found, in short, raw material that no other country possessed in comparable quantity.
+The transformation began in the 1980s and accelerated through the 1990s and 2000s. A generation of Spanish winemakers traveled, to Bordeaux, to Burgundy, to California, absorbed modern techniques, and then returned home to apply them to something France and California could never replicate: Spain's ancient indigenous varieties and pre-phylloxera old-vine plantings, many of which had survived because Spain's sandy soils and isolation made phylloxera's spread slower and more incomplete than in France. They found bush vines 80, 100, even 120 years old in Priorat, in Gredos, in Toro. They found forgotten white varieties in Galicia's granite river valleys. They found, in short, raw material that no other country possessed in comparable quantity.
 
-The result was rapid and striking. Priorat went from obscure backwater to one of the world's great wine regions in less than a decade. Ribera del Duero's Vega Sicilia — already legendary among insiders — was joined by Pingus, whose debut vintage in 1995 sold for prices rivaling first-growth Bordeaux. Rías Baixas Albariño became the sommelier world's darling white wine. Spain went from bulk exporter to producer of some of the most collectible, critically acclaimed bottles on earth, while simultaneously maintaining extraordinary value at every tier below the top.
+The result was rapid and striking. Priorat went from obscure backwater to one of the world's great wine regions in less than a decade. Ribera del Duero's Vega Sicilia, already legendary among insiders, was joined by Pingus, whose debut vintage in 1995 sold for prices rivaling first-growth Bordeaux. Rías Baixas Albariño became the sommelier world's darling white wine. Spain went from bulk exporter to producer of some of the most collectible, critically acclaimed bottles on earth, while simultaneously maintaining extraordinary value at every tier below the top.
 
-That dual identity — world-class at the top, phenomenal value throughout — is Spain's most powerful selling point on a wine list. Use it.
+That dual identity, world-class at the top, phenomenal value throughout, is Spain's most powerful selling point on a wine list. Use it.
 
-> **Pro Tip:** When a guest says "I want something interesting that isn't French," Spain is the answer. Lead with the value story: "Spain has more old vines than any country on earth, and prices that haven't caught up with the quality yet." That framing creates urgency and curiosity simultaneously — it positions the purchase as discovery, not just consumption.
+> **Pro Tip:** When a guest says "I want something interesting that isn't French," Spain is the answer. Lead with the value story: "Spain has more old vines than any country on earth, and prices that haven't caught up with the quality yet." That framing creates urgency and curiosity simultaneously, it positions the purchase as discovery, not just consumption.
 
 ---
 
 ## Section 2: Climate Zones and Geography
 
-Spain's geography is not one country's geography — it is half a continent compressed into a single nation. From the rain-drenched granite cliffs of Galicia on the Atlantic coast to the volcanic moonscapes of the Canary Islands in the Atlantic off the coast of Africa, from the freezing continental plateau of the Meseta to the subtropical warmth of Mediterranean Murcia, Spain encompasses climatic extremes that span what would be half a dozen countries in central Europe. To understand Spanish wine, you must first understand this geographic fragmentation.
+Spain's geography is not one country's geography; it is half a continent compressed into a single nation. From the rain-drenched granite cliffs of Galicia on the Atlantic coast to the volcanic moonscapes of the Canary Islands in the Atlantic off the coast of Africa, from the freezing continental plateau of the Meseta to the subtropical warmth of Mediterranean Murcia, Spain encompasses climatic extremes that span what would be half a dozen countries in central Europe. To understand Spanish wine, you must first understand this geographic fragmentation.
 
-**The Meseta Central — The High Plateau**
+**The Meseta Central; The High Plateau**
 
-The Meseta is Spain's backbone: a vast central plateau rising 600–900 meters above sea level, covering roughly 40% of the country's total landmass. Its climate is brutally continental — hot, dry summers with temperatures regularly exceeding 35°C and cold, harsh winters that can drop below -15°C. Annual rainfall of just 300–500mm falls primarily in spring and autumn, leaving the growing season largely dry.
+The Meseta is Spain's backbone: a vast central plateau rising 600–900 meters above sea level, covering roughly 40% of the country's total landmass. Its climate is brutally continental, hot, dry summers with temperatures regularly exceeding 35°C and cold, harsh winters that can drop below -15°C. Annual rainfall of just 300–500mm falls primarily in spring and autumn, leaving the growing season largely dry.
 
-This is where Spain's dramatic diurnal temperature swings — the difference between daytime highs and nighttime lows — do their critical work. In Ribera del Duero at 850 meters, grapes may bake at 35°C during the day while nights cool to 12–15°C. That 20-degree swing preserves the acidity that would otherwise cook out of the fruit. Without altitude moderating the Meseta's heat, fine wine would be impossible here. The Meseta hosts Ribera del Duero, Toro, Rueda, La Mancha, and parts of Rioja — Spain's most commercially important red wine country.
+This is where Spain's dramatic diurnal temperature swings, the difference between daytime highs and nighttime lows, do their critical work. In Ribera del Duero at 850 meters, grapes may bake at 35°C during the day while nights cool to 12–15°C. That 20-degree swing preserves the acidity that would otherwise cook out of the fruit. Without altitude moderating the Meseta's heat, fine wine would be impossible here. The Meseta hosts Ribera del Duero, Toro, Rueda, La Mancha, and parts of Rioja; Spain's most commercially important red wine country.
 
-**The Atlantic Zone — Green Spain**
+**The Atlantic Zone; Green Spain**
 
-The north coast — Galicia, the Basque Country (Txakoli), and Navarra's western edge — receives 700–1,600mm of annual rainfall, with Galicia's Rías Baixas approaching Bordeaux's precipitation levels. The Atlantic moderates temperatures, preventing the extremes of the Meseta. This is Spain's "green" corner, where granite soils and maritime humidity produce high-acid white wines and lighter, aromatic reds that have no relationship to the sun-baked Spanish stereotype. Albariño, Godello, and Mencía are its calling cards.
+The north coast; Galicia, the Basque Country (Txakoli), and Navarra's western edge, receives 700–1,600mm of annual rainfall, with Galicia's Rías Baixas approaching Bordeaux's precipitation levels. The Atlantic moderates temperatures, preventing the extremes of the Meseta. This is Spain's "green" corner, where granite soils and maritime humidity produce high-acid white wines and lighter, aromatic reds that have no relationship to the sun-baked Spanish stereotype. Albariño, Godello, and Mencía are its calling cards.
 
-**The Mediterranean Zone — Consistent Sun**
+**The Mediterranean Zone; Consistent Sun**
 
 Catalonia, Valencia, and Murcia line Spain's eastern coastline in a warm, dry Mediterranean belt. Annual rainfall of 400–600mm, long dry summers, and reliable sunshine make this Spain's most climatically consistent wine zone. Coastal areas benefit from sea breezes; interior zones can be extreme. This is where Monastrell thrives in Jumilla and Yecla, where Garnacha produces powerful, sun-drenched reds, and where Cava emerges from Penedès' limestone and chalk soils.
 
-**The Southern Zone — Fortified Wine Country**
+**The Southern Zone; Fortified Wine Country**
 
-Andalucía sits at Spain's southern extreme, just 14 kilometers from North Africa at its narrowest crossing. The climate is hot Mediterranean, modulated along the coast by the Atlantic and the poniente wind that blows in cooling sea air. Annual rainfall of approximately 600mm falls almost entirely in winter. This is Sherry country — Jerez, Sanlúcar de Barrameda, El Puerto de Santa María — where Palomino grapes grow in brilliant white albariza chalk soils and are transformed through biological and oxidative aging into some of the world's most complex and misunderstood wines.
+Andalucía sits at Spain's southern extreme, just 14 kilometers from North Africa at its narrowest crossing. The climate is hot Mediterranean, modulated along the coast by the Atlantic and the poniente wind that blows in cooling sea air. Annual rainfall of approximately 600mm falls almost entirely in winter. This is Sherry country; Jerez, Sanlúcar de Barrameda, El Puerto de Santa María, where Palomino grapes grow in brilliant white albariza chalk soils and are transformed through biological and oxidative aging into some of the world's most complex and misunderstood wines.
 
-**The Island Zones — Volcanic and Subtropical**
+**The Island Zones; Volcanic and Subtropical**
 
-The Canary Islands, 1,400 kilometers southwest of mainland Spain near the African coast, occupy a climatically distinct universe. Volcanic soils, subtropical temperatures moderated by Atlantic trade winds, and altitude-ranging vineyards up to 1,700 meters produce wines unlike anything on the peninsula. The islands escaped phylloxera entirely — the sandy volcanic soils prevented the louse from establishing — meaning the Canaries contain some of the world's oldest ungrafted vines, some pre-phylloxera plants still producing fruit. Listán Negro, Listán Blanco, and Negramoll are the key varieties. The Balearic Islands (Mallorca, primarily) produce good Callet and Mantonegro reds from limestone soils.
+The Canary Islands, 1,400 kilometers southwest of mainland Spain near the African coast, occupy a climatically distinct universe. Volcanic soils, subtropical temperatures moderated by Atlantic trade winds, and altitude-ranging vineyards up to 1,700 meters produce wines unlike anything on the peninsula. The islands escaped phylloxera entirely, the sandy volcanic soils prevented the louse from establishing, meaning the Canaries contain some of the world's oldest ungrafted vines, some pre-phylloxera plants still producing fruit. Listán Negro, Listán Blanco, and Negramoll are the key varieties. The Balearic Islands (Mallorca, primarily) produce good Callet and Mantonegro reds from limestone soils.
 
-> **Pro Tip:** The altitude-compensates-for-latitude principle is one of Spain's most powerful teaching moments. When a guest assumes "Spanish" means "hot and jammy," walk them through Ribera del Duero at 850 meters or Bierzo's mountain vineyards. That shift in mental model — high Spain is cool Spain — unlocks an entire category of wines they'd otherwise overlook.
+> **Pro Tip:** The altitude-compensates-for-latitude principle is one of Spain's most powerful teaching moments. When a guest assumes "Spanish" means "hot and jammy," walk them through Ribera del Duero at 850 meters or Bierzo's mountain vineyards. That shift in mental model, high Spain is cool Spain, unlocks an entire category of wines they'd otherwise overlook.
 
 ---
 
-## Section 3: The DO System — Spain's Wine Law
+## Section 3: The DO System, Spain's Wine Law
 
 Spain's wine classification system has five tiers, and like every wine law in every country, it describes process and geography far more reliably than it predicts quality. Understanding the tiers is essential. Understanding their limits is more important.
 
 **Vino de Mesa**
 
-The bottom tier: table wine with no geographical indication, no vintage, no variety statement required. In practice, this classification appears on very few bottles consumers encounter, and those that do appear here are generally either very basic bulk-production wine or, paradoxically, wines from ambitious producers who have deliberately exited the DO system to gain creative freedom. The latter are rare at this tier — most rebellious producers use VdlT instead.
+The bottom tier: table wine with no geographical indication, no vintage, no variety statement required. In practice, this classification appears on very few bottles consumers encounter, and those that do appear here are generally either very basic bulk-production wine or, paradoxically, wines from ambitious producers who have deliberately exited the DO system to gain creative freedom. The latter are rare at this tier, most rebellious producers use VdlT instead.
 
 **Vinos de la Tierra (VdlT) / Indicación Geográfica Protegida (IGP)**
 
@@ -85,27 +85,27 @@ Spain's equivalent of France's Vin de Pays: wines with a regional geographical i
 
 **Denominación de Origen (DO)**
 
-The primary quality tier, covering approximately 70 defined wine regions across Spain. Each DO has its own Consejo Regulador (regulatory council) that establishes permitted grape varieties, maximum yields, minimum alcohol levels, permitted winemaking practices, and aging requirements. Quality varies enormously — the DO on a label guarantees geographic origin and compliance with process rules; it does not guarantee a good wine. Spain's 70+ DOs range from world-class regions producing benchmark wines to large-volume DOs producing commodity wine for supermarket shelves.
+The primary quality tier, covering approximately 70 defined wine regions across Spain. Each DO has its own Consejo Regulador (regulatory council) that establishes permitted grape varieties, maximum yields, minimum alcohol levels, permitted winemaking practices, and aging requirements. Quality varies enormously, the DO on a label guarantees geographic origin and compliance with process rules; it does not guarantee a good wine. Spain's 70+ DOs range from world-class regions producing benchmark wines to large-volume DOs producing commodity wine for supermarket shelves.
 
 **Denominación de Origen Calificada (DOCa / DOQ)**
 
-The highest regional classification in Spain, and one of the most restrictive in the world. Only two regions hold this status: Rioja (granted 1991) and Priorat (granted 2009, where the Catalan equivalent is DOQ — Denominació d'Origen Qualificada). Requirements for DOCa include lower maximum yields than DO, mandatory bottling within the region of production, and a longer track record of consistent quality. The two-region exclusivity of DOCa tells you something important about the difficulty of the standard: in Italy, the equivalent DOCG covers dozens of regions; Spain has two.
+The highest regional classification in Spain, and one of the most restrictive in the world. Only two regions hold this status: Rioja (granted 1991) and Priorat (granted 2009, where the Catalan equivalent is DOQ; Denominació d'Origen Qualificada). Requirements for DOCa include lower maximum yields than DO, mandatory bottling within the region of production, and a longer track record of consistent quality. The two-region exclusivity of DOCa tells you something important about the difficulty of the standard: in Italy, the equivalent DOCG covers dozens of regions; Spain has two.
 
 **Vino de Pago (VP)**
 
-The apex of the Spanish system, and the most interesting tier conceptually. Introduced in 2003, Vino de Pago is a single-estate designation — a specific, named estate (pago means "estate" or "plot" in Spanish) with distinctive terroir that has demonstrated consistent quality over time. Think of it as Spain's answer to Burgundy's Grand Cru, but applied to estates rather than individual vineyard parcels. Approximately 20 estates hold VP status, including Dominio de Valdepusa in Castilla-La Mancha (where Marqués de Griñón pioneered international varieties on the Spanish plateau) and Dehesa del Carrizal, also in Castilla-La Mancha. A VP wine legally outranks DOCa in prestige, though the estates are geographically scattered and not always within existing DO boundaries.
+The apex of the Spanish system, and the most interesting tier conceptually. Introduced in 2003, Vino de Pago is a single-estate designation, a specific, named estate (pago means "estate" or "plot" in Spanish) with distinctive terroir that has demonstrated consistent quality over time. Think of it as Spain's answer to Burgundy's Grand Cru, but applied to estates rather than individual vineyard parcels. Approximately 20 estates hold VP status, including Dominio de Valdepusa in Castilla-La Mancha (where Marqués de Griñón pioneered international varieties on the Spanish plateau) and Dehesa del Carrizal, also in Castilla-La Mancha. A VP wine legally outranks DOCa in prestige, though the estates are geographically scattered and not always within existing DO boundaries.
 
-> **Pro Tip:** When a guest asks why a VdlT Castilla wine costs more than a Rioja Reserva, this is your moment. Explain that Spain's classification describes rules and geography, not a quality pyramid — and that some of the country's most innovative producers choose lower classifications for creative freedom. That answer builds the guest's confidence in you and reframes the label entirely.
+> **Pro Tip:** When a guest asks why a VdlT Castilla wine costs more than a Rioja Reserva, this is your moment. Explain that Spain's classification describes rules and geography, not a quality pyramid, and that some of the country's most innovative producers choose lower classifications for creative freedom. That answer builds the guest's confidence in you and reframes the label entirely.
 
 ---
 
-## Section 4: Aging Tiers — The Crianza System
+## Section 4: Aging Tiers, The Crianza System
 
-Spain's aging designation system is one of the most distinctive and commercially significant elements of its wine law. The four tiers — Joven, Crianza, Reserva, and Gran Reserva — appear on labels as primary quality signals and have profound effects on price, style, and guest expectations. They originated in Rioja and spread throughout Spain's red wine regions, though the specific requirements vary by DO. Understanding both what these designations mean and what they do not mean is essential to floor performance.
+Spain's aging designation system is one of the most distinctive and commercially significant elements of its wine law. The four tiers; Joven, Crianza, Reserva, and Gran Reserva, appear on labels as primary quality signals and have profound effects on price, style, and guest expectations. They originated in Rioja and spread throughout Spain's red wine regions, though the specific requirements vary by DO. Understanding both what these designations mean and what they do not mean is essential to floor performance.
 
 **Joven (Young)**
 
-Joven wines carry no minimum aging requirement and are released shortly after the harvest. The word "Joven" rarely appears on labels — these wines simply lack any Crianza, Reserva, or Gran Reserva designation. Typically released within six to twelve months of vintage, Joven wines emphasize fresh fruit character, often utilizing carbonic maceration (whole-cluster fermentation in a CO₂ environment) to produce fruity, aromatic, low-tannin wines for immediate consumption. Rioja's Joven wines are often the most approachable and restaurant-friendly pour by the glass.
+Joven wines carry no minimum aging requirement and are released shortly after the harvest. The word "Joven" rarely appears on labels, these wines simply lack any Crianza, Reserva, or Gran Reserva designation. Typically released within six to twelve months of vintage, Joven wines emphasize fresh fruit character, often utilizing carbonic maceration (whole-cluster fermentation in a CO₂ environment) to produce fruity, aromatic, low-tannin wines for immediate consumption. Rioja's Joven wines are often the most approachable and restaurant-friendly pour by the glass.
 
 **Crianza**
 
@@ -113,69 +113,69 @@ The entry-level aged category. For red wines in most DOs, Crianza requires a min
 
 **Reserva**
 
-Reserva signals a step up in both time and theoretical quality. Red Reserva requires a minimum of 36 months total aging, with at least 12 months in oak and the remainder in bottle. White and rosé Reserva requires 24 months total with 6 months in oak. The implicit promise of Reserva is that the wine represents a better vintage selection or a superior vineyard — and while this is often true at conscientious producers, it is not legally required. A Reserva is not, by law, from a better vineyard than a Crianza from the same house; it has simply aged longer. The distinction matters when managing guest expectations.
+Reserva signals a step up in both time and theoretical quality. Red Reserva requires a minimum of 36 months total aging, with at least 12 months in oak and the remainder in bottle. White and rosé Reserva requires 24 months total with 6 months in oak. The implicit promise of Reserva is that the wine represents a better vintage selection or a superior vineyard, and while this is often true at conscientious producers, it is not legally required. A Reserva is not, by law, from a better vineyard than a Crianza from the same house; it has simply aged longer. The distinction matters when managing guest expectations.
 
 **Gran Reserva**
 
-The apex of the traditional aging hierarchy. Red Gran Reserva requires a minimum of 60 months (5 years) total aging, with at least 18 months in oak and a minimum of 24 months in bottle. White and rosé Gran Reserva requires 48 months total with 6 months in oak. Gran Reserva is theoretically reserved for exceptional vintages — years when the fruit has the concentration and structure to survive extended aging without collapsing. In practice, the best Gran Reservas are among the most complex, layered, and age-worthy wines Spain produces: dried fruit, leather, tobacco, cedar, and earth layered over diminished but persistent red fruit. The oak is fully integrated; the tannins are resolved.
+The apex of the traditional aging hierarchy. Red Gran Reserva requires a minimum of 60 months (5 years) total aging, with at least 18 months in oak and a minimum of 24 months in bottle. White and rosé Gran Reserva requires 48 months total with 6 months in oak. Gran Reserva is theoretically reserved for exceptional vintages, years when the fruit has the concentration and structure to survive extended aging without collapsing. In practice, the best Gran Reservas are among the most complex, layered, and age-worthy wines Spain produces: dried fruit, leather, tobacco, cedar, and earth layered over diminished but persistent red fruit. The oak is fully integrated; the tannins are resolved.
 
 **The Critical Caveat: The Modernist Rejection**
 
 Here is what the aging tier system does not tell you: some of Spain's finest, most terroir-expressive wines carry no aging designation at all. Artadi, one of Rioja's most celebrated producers, withdrew from the DOCa system entirely and now bottles its wines as Vino de España, preferring freedom over classification prestige. Telmo Rodríguez, whose project spans multiple Spanish regions, builds wines around terroir rather than aging tiers. Producers throughout Spain's most innovative generation reject the Crianza/Reserva framework in favor of single-vineyard bottlings that reflect specific sites rather than time in barrel.
 
-The lesson: Gran Reserva from a mass-market cooperative is not necessarily superior to a non-designated, terroir-focused single-vineyard wine from an elite estate. Communicate this clearly to your guests, and position aging tiers as a style descriptor — "longer, more traditional, oak-influenced" — rather than an absolute quality ranking.
+The lesson: Gran Reserva from a mass-market cooperative is not necessarily superior to a non-designated, terroir-focused single-vineyard wine from an elite estate. Communicate this clearly to your guests, and position aging tiers as a style descriptor, "longer, more traditional, oak-influenced", rather than an absolute quality ranking.
 
-> **Pro Tip:** The aging tier vocabulary is the easiest translation tool in Spanish wine. When a guest says, "I want something more serious," reach for a Reserva or Gran Reserva and explain: "This wine spent five years aging before release — some of that in French oak barrels, some in bottle, developing complexity slowly. You're tasting time as much as place." That language positions the price premium as a concrete value rather than a marketing label.
+> **Pro Tip:** The aging tier vocabulary is the easiest translation tool in Spanish wine. When a guest says, "I want something more serious," reach for a Reserva or Gran Reserva and explain: "This wine spent five years aging before release, some of that in French oak barrels, some in bottle, developing complexity slowly. You're tasting time as much as place." That language positions the price premium as a concrete value rather than a marketing label.
 
 ---
 
 ## Section 5: Spain's Major Grape Varieties
 
-Spain cultivates over 400 indigenous grape varieties, more than any wine-producing country except possibly Georgia. Many are obscure regional relics known to fewer than a dozen producers. But a core group of varieties defines Spain's commercial and qualitative identity on the world stage. Knowing these varieties — their synonyms, their homes, their flavor profiles, and their structural signatures — gives a floor professional the fluency to navigate any Spanish wine conversation.
+Spain cultivates over 400 indigenous grape varieties, more than any wine-producing country except possibly Georgia. Many are obscure regional relics known to fewer than a dozen producers. But a core group of varieties defines Spain's commercial and qualitative identity on the world stage. Knowing these varieties, their synonyms, their homes, their flavor profiles, and their structural signatures, gives a floor professional the fluency to navigate any Spanish wine conversation.
 
-**Tempranillo — The Noble Red**
+**Tempranillo; The Noble Red**
 
-Spain's most important quality red grape and the anchor of Rioja, Ribera del Duero, Toro, La Mancha, and dozens of other regions. Tempranillo is a chameleon: its character shifts dramatically with altitude, climate, and soil, producing medium-bodied, red-fruited, elegant wines in Rioja's cooler sites and dense, black-fruited, powerfully structured wines in Ribera del Duero's high-altitude continental conditions. The name derives from "temprano" (early), referring to the grape's early ripening relative to other Spanish varieties — critical in regions where autumn rains can threaten a late harvest.
+Spain's most important quality red grape and the anchor of Rioja, Ribera del Duero, Toro, La Mancha, and dozens of other regions. Tempranillo is a chameleon: its character shifts dramatically with altitude, climate, and soil, producing medium-bodied, red-fruited, elegant wines in Rioja's cooler sites and dense, black-fruited, powerfully structured wines in Ribera del Duero's high-altitude continental conditions. The name derives from "temprano" (early), referring to the grape's early ripening relative to other Spanish varieties, critical in regions where autumn rains can threaten a late harvest.
 
 Tempranillo goes by different names across Spain's regions, and knowing the synonyms is a core floor skill: Tinto Fino and Tinto del País in Ribera del Duero, Tinto de Toro in Toro, Cencibel in La Mancha and Valdepeñas, Ull de Llebre in Catalonia, and Tinta Roriz across the border in Portugal. Same grape, different name, different character shaped by different terroir.
 
-**Garnacha — The Mediterranean Heart**
+**Garnacha; The Mediterranean Heart**
 
-Garnacha (Grenache) originated in Aragón and spread throughout the Mediterranean world, becoming one of the globe's most widely planted red varieties. In Spain, it is the heartland grape of Aragón and Navarra, and the backbone of Priorat (where it is spelled Garnatxa in Catalan). Old-vine Garnacha at elevation — in the Sierra de Gredos west of Madrid, in Calatayud's high-altitude limestone sites, in Priorat's llicorella slate — produces wines of extraordinary finesse and complexity that challenge every assumption about Garnacha as a heavy, alcoholic blending grape. At its best, old-vine Garnacha combines high alcohol with elegant red fruit (strawberry, raspberry, red cherry), silky tannins, and remarkable mineral precision.
+Garnacha (Grenache) originated in Aragón and spread throughout the Mediterranean world, becoming one of the globe's most widely planted red varieties. In Spain, it is the heartland grape of Aragón and Navarra, and the backbone of Priorat (where it is spelled Garnatxa in Catalan). Old-vine Garnacha at elevation, in the Sierra de Gredos west of Madrid, in Calatayud's high-altitude limestone sites, in Priorat's llicorella slate, produces wines of extraordinary finesse and complexity that challenge every assumption about Garnacha as a heavy, alcoholic blending grape. At its best, old-vine Garnacha combines high alcohol with elegant red fruit (strawberry, raspberry, red cherry), silky tannins, and remarkable mineral precision.
 
-**Monastrell (Mourvèdre) — The Southeast Powerhouse**
+**Monastrell (Mourvèdre); The Southeast Powerhouse**
 
-The dominant variety of Spain's hot southeastern interior — Jumilla, Yecla, and Alicante in the regions of Murcia and Valencia. Monastrell is Mourvèdre under its Spanish name, and it thrives precisely where other varieties struggle: in extreme heat (regular summer temperatures above 40°C), minimal rainfall, and poor, dry soils. Its thick skins provide drought resistance and intense color. Monastrell produces deeply colored, full-bodied wines with high tannins, moderate acidity, and dark fruit flavors (blackberry, black plum, dried fig) layered with meaty, gamey, and earthy notes. Old-vine bush-vine Monastrell from Jumilla offers some of Spain's most dramatic and undervalued red wines.
+The dominant variety of Spain's hot southeastern interior; Jumilla, Yecla, and Alicante in the regions of Murcia and Valencia. Monastrell is Mourvèdre under its Spanish name, and it thrives precisely where other varieties struggle: in extreme heat (regular summer temperatures above 40°C), minimal rainfall, and poor, dry soils. Its thick skins provide drought resistance and intense color. Monastrell produces deeply colored, full-bodied wines with high tannins, moderate acidity, and dark fruit flavors (blackberry, black plum, dried fig) layered with meaty, gamey, and earthy notes. Old-vine bush-vine Monastrell from Jumilla offers some of Spain's most dramatic and undervalued red wines.
 
-**Albariño — Galicia's White Star**
+**Albariño; Galicia's White Star**
 
 The defining white grape of Rías Baixas in coastal Galicia, trained on granite pergola systems called parrales to lift fruit off the humid ground and promote air circulation. Albariño is one of Spain's most internationally recognized whites: aromatic, high-acid (pH typically 3.0–3.2), medium-bodied, with distinctive citrus and stone fruit character (lemon, grapefruit, white peach, apricot) and a saline, coastal minerality that reflects proximity to the Atlantic. Alcohol ranges from 12–13%, refreshing by Spanish standards. Albariño drinks beautifully young but the finest examples age gracefully for five to ten years.
 
-**Verdejo — Rueda's Herbaceous Star**
+**Verdejo; Rueda's Herbaceous Star**
 
-The signature white of Rueda in Castilla y León, grown at 700–800 meters elevation on the Meseta. Verdejo produces aromatic, medium-to-full-bodied whites with moderate to high acidity and distinctive fennel, white herb, and citrus character — sometimes described as a Spanish Sauvignon Blanc, though the comparison flatters neither variety. At its most serious, Verdejo is barrel-fermented and aged on lees, producing complex, textured wines for the table. It is also Spain's most food-versatile white: the herbal quality bridges the gap between seafood and poultry.
+The signature white of Rueda in Castilla y León, grown at 700–800 meters elevation on the Meseta. Verdejo produces aromatic, medium-to-full-bodied whites with moderate to high acidity and distinctive fennel, white herb, and citrus character, sometimes described as a Spanish Sauvignon Blanc, though the comparison flatters neither variety. At its most serious, Verdejo is barrel-fermented and aged on lees, producing complex, textured wines for the table. It is also Spain's most food-versatile white: the herbal quality bridges the gap between seafood and poultry.
 
-**Godello — The Great Age-Worthy White**
+**Godello; The Great Age-Worthy White**
 
-Galicia's other great white variety, producing wines of extraordinary complexity and aging potential from the granite and slate soils of Valdeorras and Ribeira Sacra. Godello was nearly extinct by the 1970s — a casualty of rural depopulation and the preference for easier-growing varieties — but dedicated producers resurrected it, and the results have been revelatory. Godello produces medium-to-full-bodied whites with moderate to high acidity, complex citrus and stone fruit character, herbal undertones, and a mineral precision from granite soils. Barrel-fermented Godello with extended lees contact can rival white Burgundy in structure and complexity, and can age for ten or more years. It is Spain's most underrated white grape.
+Galicia's other great white variety, producing wines of extraordinary complexity and aging potential from the granite and slate soils of Valdeorras and Ribeira Sacra. Godello was nearly extinct by the 1970s, a casualty of rural depopulation and the preference for easier-growing varieties, but dedicated producers resurrected it, and the results have been revelatory. Godello produces medium-to-full-bodied whites with moderate to high acidity, complex citrus and stone fruit character, herbal undertones, and a mineral precision from granite soils. Barrel-fermented Godello with extended lees contact can rival white Burgundy in structure and complexity, and can age for ten or more years. It is Spain's most underrated white grape.
 
-**Palomino — Sherry's Neutral Canvas**
+**Palomino; Sherry's Neutral Canvas**
 
-The dominant grape of Jerez, representing approximately 95% of plantings in the Sherry Triangle. On its own, as a table wine, Palomino is neutral, low-acid, and unremarkable — which is precisely why it is so valuable for Sherry production. The grape's neutrality becomes a canvas for the transformative processes that create Sherry's extraordinary range of styles: the biological flor yeast aging that creates Fino and Manzanilla, the oxidative barrel aging that creates Oloroso, and the hybrid aging that creates Amontillado and Palo Cortado. Palomino is not a variety you taste — it is a variety that disappears, allowing process to become the wine.
+The dominant grape of Jerez, representing approximately 95% of plantings in the Sherry Triangle. On its own, as a table wine, Palomino is neutral, low-acid, and unremarkable, which is precisely why it is so valuable for Sherry production. The grape's neutrality becomes a canvas for the transformative processes that create Sherry's extraordinary range of styles: the biological flor yeast aging that creates Fino and Manzanilla, the oxidative barrel aging that creates Oloroso, and the hybrid aging that creates Amontillado and Palo Cortado. Palomino is not a variety you taste; it is a variety that disappears, allowing process to become the wine.
 
-**Pedro Ximénez — Concentrated Sweetness**
+**Pedro Ximénez; Concentrated Sweetness**
 
-Pedro Ximénez (PX) is harvested and then dried on esparto mats under the Andalucían sun, concentrating sugars to extraordinary levels before pressing. The resulting must can reach 400–500 grams per liter of residual sugar — the wine is almost syrup. PX Sherry is one of the world's most intensely sweet wines: dark mahogany in color, viscous, with intense raisin, fig, molasses, dark chocolate, and dried date character. It is poured over vanilla ice cream, used to sweeten Cream Sherries, and served alongside bitter chocolate desserts. Know it. It is a conversation piece on any list.
+Pedro Ximénez (PX) is harvested and then dried on esparto mats under the Andalucían sun, concentrating sugars to extraordinary levels before pressing. The resulting must can reach 400–500 grams per liter of residual sugar, the wine is almost syrup. PX Sherry is one of the world's most intensely sweet wines: dark mahogany in color, viscous, with intense raisin, fig, molasses, dark chocolate, and dried date character. It is poured over vanilla ice cream, used to sweeten Cream Sherries, and served alongside bitter chocolate desserts. Know it. It is a conversation piece on any list.
 
-**Xarel·lo, Macabeu, and Parellada — The Cava Trio**
+**Xarel·lo, Macabeu, and Parellada; The Cava Trio**
 
-The three traditional base varieties of Cava, Spain's traditional-method sparkling wine produced primarily in Penedès, Catalonia. Macabeu (also known as Viura in Rioja) provides the structural base and moderate acidity. Xarel·lo contributes body and earthy, nutty character. Parellada, grown at higher altitude, brings freshness and floral aromatics. Together they create Cava's distinctive personality — earthier and more textural than Champagne, with a savory, bread-dough quality from extended lees aging in quality-focused producers. Chardonnay and Pinot Noir are increasingly incorporated in premium Cava production.
+The three traditional base varieties of Cava, Spain's traditional-method sparkling wine produced primarily in Penedès, Catalonia. Macabeu (also known as Viura in Rioja) provides the structural base and moderate acidity. Xarel·lo contributes body and earthy, nutty character. Parellada, grown at higher altitude, brings freshness and floral aromatics. Together they create Cava's distinctive personality, earthier and more textural than Champagne, with a savory, bread-dough quality from extended lees aging in quality-focused producers. Chardonnay and Pinot Noir are increasingly incorporated in premium Cava production.
 
 **The Supporting Cast: Graciano, Cariñena, and Maturana Tinta**
 
-Graciano is Rioja's high-acidity, high-aromatic-intensity supporting variety — nearly extinct by the 1980s due to low yields and difficulty in the vineyard, now being replanted by quality-focused estates for its contribution to complex, structured blends. Cariñena (Carignan) is the workhorse of Priorat and Catalonia, producing tannic, high-acid reds from old vines that require careful management. Maturana Tinta is an ancient Rioja variety recently rescued from near-extinction, producing deeply colored wines with distinctive floral aromatics.
+Graciano is Rioja's high-acidity, high-aromatic-intensity supporting variety, nearly extinct by the 1980s due to low yields and difficulty in the vineyard, now being replanted by quality-focused estates for its contribution to complex, structured blends. Cariñena (Carignan) is the workhorse of Priorat and Catalonia, producing tannic, high-acid reds from old vines that require careful management. Maturana Tinta is an ancient Rioja variety recently rescued from near-extinction, producing deeply colored wines with distinctive floral aromatics.
 
-> **Pro Tip:** The synonym game is an instant floor credibility builder. When a guest orders "Ribera del Duero" and you mention that the Tempranillo there is called Tinto Fino — and that the same grape is Tinta Roriz across the border in Portugal's Douro — you've demonstrated mastery. Guests remember that kind of specific knowledge. It positions you as a guide, not just an order-taker.
+> **Pro Tip:** The synonym game is an instant floor credibility builder. When a guest orders "Ribera del Duero" and you mention that the Tempranillo there is called Tinto Fino, and that the same grape is Tinta Roriz across the border in Portugal's Douro, you've demonstrated mastery. Guests remember that kind of specific knowledge. It positions you as a guide, not just an order-taker.
 
 ---
 
@@ -185,23 +185,23 @@ A Spanish wine label is a compressed communication system. Unlike Burgundy, wher
 
 **Anatomy of a Label**
 
-The bodega name is the producer — "Bodegas" is simply the Spanish word for a winery. The DO or DOCa name identifies the appellation: Rioja, Ribera del Duero, Rías Baixas, Priorat (or Priorat DOQ in Catalan). The vintage year, required on all DO and above wines, tells you how old the wine is. The aging tier — Crianza, Reserva, or Gran Reserva — tells you the minimum time the wine spent aging before release. What the label does not tell you: the blend percentages, the specific vineyard, the winemaking philosophy, or whether this producer uses American or French oak.
+The bodega name is the producer, "Bodegas" is simply the Spanish word for a winery. The DO or DOCa name identifies the appellation: Rioja, Ribera del Duero, Rías Baixas, Priorat (or Priorat DOQ in Catalan). The vintage year, required on all DO and above wines, tells you how old the wine is. The aging tier; Crianza, Reserva, or Gran Reserva, tells you the minimum time the wine spent aging before release. What the label does not tell you: the blend percentages, the specific vineyard, the winemaking philosophy, or whether this producer uses American or French oak.
 
 **What the Aging Tier Tells You vs. What It Doesn't**
 
-Crianza: this wine is at least two years old from harvest, has seen at least six months in small oak barrels, and is ready to drink now with modest complexity. Reserva: this wine is at least three years old, has more developed tannins and aromatic complexity, benefits from another year or two in your cellar but is enjoyable now. Gran Reserva: this wine is at least five years old, has been substantially shaped by both oak and bottle aging, and represents the traditional aesthetic pinnacle of Spanish winemaking — dried fruit, earth, leather, integrated oak.
+Crianza: this wine is at least two years old from harvest, has seen at least six months in small oak barrels, and is ready to drink now with modest complexity. Reserva: this wine is at least three years old, has more developed tannins and aromatic complexity, benefits from another year or two in your cellar but is enjoyable now. Gran Reserva: this wine is at least five years old, has been substantially shaped by both oak and bottle aging, and represents the traditional aesthetic pinnacle of Spanish winemaking, dried fruit, earth, leather, integrated oak.
 
 What the tier does not tell you: Gran Reserva from a volume producer in a mediocre vintage, aged in tired old barrels and bottled at minimum requirement, is not automatically superior to a non-designated, single-vineyard wine from an elite estate aged for 18 months in new French oak. Quality and style are separate conversations. The aging tier is a style descriptor, not a quality guarantee.
 
 **VdlT Castilla: The "Lower Classification" Paradox**
 
-When a guest sees a VdlT Castilla label and questions whether it is as serious as a DO wine, explain the creative freedom paradox: the Castilla IGP allows producers to work with grape varieties, yields, and techniques that local DOs prohibit. Some of Spain's most celebrated bottles — including wines from Mariano García, Fernando Remírez de Ganuza's experimental projects, and single-variety wines from internationally planted estates — carry VdlT or VdP classifications precisely because their makers prefer creative freedom to appellation prestige. The classification signals philosophy, not inferiority.
+When a guest sees a VdlT Castilla label and questions whether it is as serious as a DO wine, explain the creative freedom paradox: the Castilla IGP allows producers to work with grape varieties, yields, and techniques that local DOs prohibit. Some of Spain's most celebrated bottles, including wines from Mariano García, Fernando Remírez de Ganuza's experimental projects, and single-variety wines from internationally planted estates, carry VdlT or VdP classifications precisely because their makers prefer creative freedom to appellation prestige. The classification signals philosophy, not inferiority.
 
 **Three Floor Conversations**
 
 A guest who wants "something Spanish and easy" is looking for accessibility and familiarity. Lead with Rioja Crianza: approachable red fruit (cherry, strawberry), moderate tannins, the warm vanilla note of American oak. Or go to Albariño: bright citrus, good acidity, saline freshness, instantly appealing. Both are crowd-pleasers with broad food compatibility.
 
-A guest who wants "something serious" is ready for structure, complexity, and a story. Reach for Ribera del Duero Gran Reserva — the black fruit intensity, the firm tannins, the age — or for Priorat, one of only two DOCa wines in the country, with its dense Garnacha and Cariñena from ancient llicorella slate vineyards. These are wines with a destination; they take the guest somewhere.
+A guest who wants "something serious" is ready for structure, complexity, and a story. Reach for Ribera del Duero Gran Reserva, the black fruit intensity, the firm tannins, the age, or for Priorat, one of only two DOCa wines in the country, with its dense Garnacha and Cariñena from ancient llicorella slate vineyards. These are wines with a destination; they take the guest somewhere.
 
 A guest who wants "something unusual" is your most rewarding conversation. This is where Spain truly has no rival. Sherry: bone-dry Fino or Manzanilla with seafood, the most food-versatile wine in the world. Wines from the Canary Islands: volcanic terroir, pre-phylloxera old vines, something genuinely unlike anything else on earth. Mencía from Bierzo: the elegant, granitic, Pinot Noir-adjacent red from Spain's misty northwest that nobody expects Spain to produce. These conversations create the most loyal guests.
 
@@ -209,7 +209,7 @@ A guest who wants "something unusual" is your most rewarding conversation. This 
 
 Spain offers extraordinary range across every price point. At the entry level, La Mancha and Jumilla provide reliable everyday drinking at three to six dollars a glass wholesale. In the mid-tier, Rioja Crianza and Ribera del Duero Crianza offer name recognition and quality at ten to fifteen dollars retail. At the premium tier, top-flight Rioja Gran Reserva, Priorat, and single-vineyard Ribera del Duero compete with Grand Cru Burgundy and classified-growth Bordeaux at prices that remain relatively moderate for their quality level. And at the sommelier's-choice tier, Sherry and Canary Islands wines offer something no other country provides: radical distinctiveness at approachable prices. Build a Spanish section into any wine list and you have covered every guest type and every price conversation.
 
-> **Pro Tip:** Sherry is the most underserved wine category in American hospitality, and it is also the most floor-friendly. A 375mL bottle of Fino kept cold and opened fresh (Fino oxidizes quickly — ideally consumed within three to five days of opening) is an incomparable aperitif service. Pitch it as "Spain's answer to Champagne for the pre-dinner moment" — savory, bone-dry, uniquely complex, and priced at a fraction of what you'd spend on a comparable Champagne. The guest who discovers Fino through you is a guest who comes back.
+> **Pro Tip:** Sherry is the most underserved wine category in American hospitality, and it is also the most floor-friendly. A 375mL bottle of Fino kept cold and opened fresh (Fino oxidizes quickly, ideally consumed within three to five days of opening) is an incomparable aperitif service. Pitch it as "Spain's answer to Champagne for the pre-dinner moment", savory, bone-dry, uniquely complex, and priced at a fraction of what you'd spend on a comparable Champagne. The guest who discovers Fino through you is a guest who comes back.
 
 ---
 
@@ -235,7 +235,7 @@ Spain offers extraordinary range across every price point. At the entry level, L
 
 ---
 
-## Quiz — Spain: The Sleeping Giant Awakes
+## Quiz, Spain: The Sleeping Giant Awakes
 
 **Instructions:** Select the best answer. All answers can be found in this module.
 
@@ -301,7 +301,7 @@ Spain offers extraordinary range across every price point. At the entry level, L
 
 ---
 
-**Q7. The Meseta Central's extreme diurnal temperature variation — hot days and cold nights — is critical for fine wine production there. What specific wine quality benefit does this temperature swing provide?**
+**Q7. The Meseta Central's extreme diurnal temperature variation, hot days and cold nights, is critical for fine wine production there. What specific wine quality benefit does this temperature swing provide?**
 - A) It prevents the formation of flor yeast on barrel surfaces
 - B) It accelerates tannin polymerization, softening the wines faster
 - C) It preserves acidity in grapes that ripen under intense daytime heat
@@ -381,7 +381,7 @@ Spain offers extraordinary range across every price point. At the entry level, L
 
 ---
 
-**Q15. A guest orders a bottle of Spanish red wine with no aging designation on the label — no Crianza, Reserva, or Gran Reserva. What does this most likely indicate?**
+**Q15. A guest orders a bottle of Spanish red wine with no aging designation on the label, no Crianza, Reserva, or Gran Reserva. What does this most likely indicate?**
 - A) The wine is defective and was mislabeled
 - B) The wine is either a fresh Joven style for early drinking, or a terroir-focused producer who has rejected the traditional aging tier system
 - C) The wine is from a VdlT region and is not subject to Spanish wine law
@@ -404,7 +404,7 @@ Spain offers extraordinary range across every price point. At the entry level, L
 **Q17. Which of the following statements about the Spanish aging tier system is most accurate from a floor perspective?**
 - A) Gran Reserva always indicates a higher quality wine than Reserva from the same producer
 - B) The aging tier is a guarantee of superior terroir selection, legally required by all DOs
-- C) Aging tiers describe minimum time in oak and bottle, communicating style rather than absolute quality — a Gran Reserva from a mass-market cooperative may be inferior to a non-designated single-vineyard wine from an elite estate
+- C) Aging tiers describe minimum time in oak and bottle, communicating style rather than absolute quality, a Gran Reserva from a mass-market cooperative may be inferior to a non-designated single-vineyard wine from an elite estate
 - D) The Crianza designation applies only to wines produced in Rioja and Ribera del Duero
 
 **Correct: C**
@@ -422,10 +422,10 @@ Spain offers extraordinary range across every price point. At the entry level, L
 ---
 
 **Q19. Which of the following grape variety and region pairings is incorrect?**
-- A) Albariño — Rías Baixas
-- B) Monastrell — Jumilla
-- C) Verdejo — Rueda
-- D) Graciano — Priorat
+- A) Albariño; Rías Baixas
+- B) Monastrell; Jumilla
+- C) Verdejo; Rueda
+- D) Graciano; Priorat
 
 **Correct: D**
 

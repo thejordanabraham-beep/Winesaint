@@ -2,10 +2,10 @@
 
 ---
 
-**Program:** Wine Saint Certified — Pacific Northwest Mastery
+**Program:** Wine Saint Certified: Pacific Northwest Mastery
 **Level:** Pacific Northwest Mastery — Oregon White Wines
 **Module:** 13
-**Audience:** Corporate hospitality professionals — servers, sommeliers, floor managers
+**Audience:** Corporate hospitality professionals: servers, sommeliers, floor managers
 **Estimated Duration:** 60–75 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent
 
@@ -17,176 +17,176 @@ By the end of this module, you will be able to:
 
 - Explain why Oregon's cool climate, which made it famous for Pinot Noir, is equally well-suited to producing some of America's finest white wines
 - Describe the founding of Oregon Pinot Gris by David Lett at Eyrie Vineyards and distinguish Oregon's stylistic position between Italian Pinot Grigio and Alsatian Pinot Gris
-- Identify the range of Pinot Gris styles produced in Oregon — unoaked, lightly oaked, and skin-contact — and match each to appropriate guest and menu contexts
+- Identify the range of Pinot Gris styles produced in Oregon (unoaked, lightly oaked, and skin-contact) and match each to appropriate guest and menu contexts
 - Articulate why Oregon Chardonnay has undergone a quality transformation in the last decade and how Burgundian winemaking technique has shaped its current identity
 - Distinguish between sub-regional expressions of Oregon Chardonnay across Chehalem Mountains, Dundee Hills, and Eola-Amity Hills
-- Position key producers — Bergström Sigrid, Evening Land Seven Springs, Lingua Franca, King Estate — by style, story, and service occasion
+- Position key producers (Bergström Sigrid, Evening Land Seven Springs, Lingua Franca, King Estate) by style, story, and service occasion
 - Describe the supporting roles of Riesling, Pinot Blanc, and Gewürztraminer in Oregon's white wine landscape
 - Build a floor-ready sales argument for Oregon white wines as essential range extensions on any serious Pacific Northwest wine list
 
 ---
 
-## Section 1: The White Wine Problem — And Why It Is Actually an Opportunity
+## Section 1: The White Wine Problem, And Why It Is Actually an Opportunity
 
 ### Pinot Noir's Long Shadow
 
 Oregon is, by reputation and by volume, a Pinot Noir state. That identity was earned through decades of extraordinary effort, international validation, and critical attention. It is also, from a floor professional's standpoint, a constraint. When guests think Oregon, they think red. When a table orders Pacific Northwest whites, the instinct is to reach for Washington Chardonnay or Willamette Valley rosé and move on. That instinct leaves money and conversation on the table.
 
-The commercial reality is that Pinot Noir's dominance has functioned as both a shield and a shadow for Oregon's white wines. The shield: Oregon's cool-climate credentials, its soil complexity, and its winemaking talent apply to white grapes just as completely as they do to Pinot Noir. The shadow: those white wines have historically been marketed as supporting acts, priced as food wines rather than destination bottles, and allocated to secondary shelf position in retail and secondary pour position on restaurant lists. The result is that some of America's most exciting white wines — from producers with Burgundy-trained winemakers, biodynamic estates, and vineyards with 30 or more years of vine age — are systematically underpriced relative to their quality.
+The commercial reality is that Pinot Noir's dominance has functioned as both a shield and a shadow for Oregon's white wines. The shield: Oregon's cool-climate credentials, its soil complexity, and its winemaking talent apply to white grapes just as completely as they do to Pinot Noir. The shadow: those white wines have historically been marketed as supporting acts, priced as food wines rather than destination bottles, and allocated to secondary shelf position in retail and secondary pour position on restaurant lists. The result is that some of America's most exciting white wines: from producers with Burgundy-trained winemakers, biodynamic estates, and vineyards with 30 or more years of vine age, are systematically underpriced relative to their quality.
 
-That gap is your opportunity as a floor professional. A guest who considers themselves sophisticated about Oregon wine is almost certainly more informed about Pinot Noir than about white wines. Introducing them to Bergström Sigrid Chardonnay or Evening Land Seven Springs is not an upsell — it is a genuine discovery moment, and discovery moments are the foundation of long-term guest loyalty.
+That gap is your opportunity as a floor professional. A guest who considers themselves sophisticated about Oregon wine is almost certainly more informed about Pinot Noir than about white wines. Introducing them to Bergström Sigrid Chardonnay or Evening Land Seven Springs is not an upsell: it is a genuine discovery moment, and discovery moments are the foundation of long-term guest loyalty.
 
 ### Climate as White Wine Logic
 
-The same mechanisms that drive Pinot Noir quality in the Willamette Valley drive white wine quality with equal force. Oregon's climate is defined by a long, cool growing season — warm, dry summers moderated by Pacific influence, cool nights generated by elevation and coastal proximity, and a late harvest window that allows grapes to develop phenolic and aromatic complexity without losing acidity. For white varieties, the preservation of natural acidity is not merely a stylistic preference — it is the structural foundation on which everything else rests.
+The same mechanisms that drive Pinot Noir quality in the Willamette Valley drive white wine quality with equal force. Oregon's climate is defined by a long, cool growing season: warm, dry summers moderated by Pacific influence, cool nights generated by elevation and coastal proximity, and a late harvest window that allows grapes to develop phenolic and aromatic complexity without losing acidity. For white varieties, the preservation of natural acidity is not merely a stylistic preference; it is the structural foundation on which everything else rests.
 
-High natural acidity means white wines remain vibrant and food-friendly at higher alcohol levels, age more gracefully without losing definition, and carry oak treatment without becoming heavy. Pinot Gris grown in the Willamette Valley retains acidity that its counterparts in warmer Californian or Australian conditions simply cannot match at equivalent ripeness. Oregon Chardonnay, at its best, sits in the same structural register as Chablis premier cru or Mâcon-Villages of exceptional quality — mineral, precise, alive.
+High natural acidity means white wines remain vibrant and food-friendly at higher alcohol levels, age more gracefully without losing definition, and carry oak treatment without becoming heavy. Pinot Gris grown in the Willamette Valley retains acidity that its counterparts in warmer Californian or Australian conditions simply cannot match at equivalent ripeness. Oregon Chardonnay, at its best, sits in the same structural register as Chablis premier cru or Mâcon-Villages of exceptional quality: mineral, precise, alive.
 
 Oregon's white wine challenge is not quality. It is positioning. The wines exist. The quality exists. The task for hospitality professionals is to make the argument.
 
-> **Pro Tip:** When a guest is exploring an Oregon wine list and anchors on Pinot Noir, try this framing: "Oregon's cool climate is actually the reason their white wines are so good — the same thing that keeps their Pinot Noir so elegant preserves acidity in the whites that you just don't find in California. If you want to see what Oregon does with Chardonnay or Pinot Gris, the results are genuinely surprising." This reframes the white wine recommendation as a natural extension of what they already value about the state, not a departure from it.
+> **Pro Tip:** When a guest is exploring an Oregon wine list and anchors on Pinot Noir, try this framing: "Oregon's cool climate is actually the reason their white wines are so good, the same thing that keeps their Pinot Noir so elegant preserves acidity in the whites that you just don't find in California. If you want to see what Oregon does with Chardonnay or Pinot Gris, the results are genuinely surprising." This reframes the white wine recommendation as a natural extension of what they already value about the state, not a departure from it.
 
 ---
 
-## Section 2: Pinot Gris — Oregon's Most Planted White and Its Founding Story
+## Section 2: Pinot Gris, Oregon's Most Planted White and Its Founding Story
 
 ### David Lett and the Introduction of Pinot Gris
 
-The same man who brought Pinot Noir to Oregon also introduced Pinot Gris. In 1966, David Lett planted Pinot Gris cuttings at what would become Eyrie Vineyards in the Dundee Hills — the first commercial planting of the variety in Oregon. The decision reflected Lett's broader interest in the Burgundian and Alsatian varieties he believed were climatically suited to the northern Willamette Valley, and his conviction that Oregon should be building a white wine identity as well as a red one.
+The same man who brought Pinot Noir to Oregon also introduced Pinot Gris. In 1966, David Lett planted Pinot Gris cuttings at what would become Eyrie Vineyards in the Dundee Hills, the first commercial planting of the variety in Oregon. The decision reflected Lett's broader interest in the Burgundian and Alsatian varieties he believed were climatically suited to the northern Willamette Valley, and his conviction that Oregon should be building a white wine identity as well as a red one.
 
-Lett's timing was prescient. Pinot Gris is a pink-skinned mutation of Pinot Noir — the same grape family, differently expressed — and it shares many of Pinot Noir's climate preferences. It ripens early, does well in cool conditions, and produces wines of genuine complexity when grown in well-drained soils with good diurnal temperature variation. The Willamette Valley offered all of these things. Pinot Gris found a natural home, and today it is Oregon's most widely planted white variety by acreage.
+Lett's timing was prescient. Pinot Gris is a pink-skinned mutation of Pinot Noir (the same grape family, differently expressed) and it shares many of Pinot Noir's climate preferences. It ripens early, does well in cool conditions, and produces wines of genuine complexity when grown in well-drained soils with good diurnal temperature variation. The Willamette Valley offered all of these things. Pinot Gris found a natural home, and today it is Oregon's most widely planted white variety by acreage.
 
 ### The Three-Way Stylistic Comparison
 
-Understanding Oregon Pinot Gris requires situating it between its two most famous international expressions: Italian Pinot Grigio and Alsatian Pinot Gris. These are not the same wine wearing different labels — they represent fundamentally different stylistic intentions, and Oregon falls deliberately between them.
+Understanding Oregon Pinot Gris requires situating it between its two most famous international expressions: Italian Pinot Grigio and Alsatian Pinot Gris. These are not the same wine wearing different labels: they represent fundamentally different stylistic intentions, and Oregon falls deliberately between them.
 
-**Italian Pinot Grigio** at the commercial level is designed for lightness, freshness, and immediate drinkability. High acidity, low alcohol, minimal texture, neutral aromatics — it is white wine as a beverage category rather than a gastronomic statement. Higher-end examples from Alto Adige or Friuli approach something more interesting, but the archetype is refreshing and ephemeral.
+**Italian Pinot Grigio** at the commercial level is designed for lightness, freshness, and immediate drinkability. High acidity, low alcohol, minimal texture, neutral aromatics; it is white wine as a beverage category rather than a gastronomic statement. Higher-end examples from Alto Adige or Friuli approach something more interesting, but the archetype is refreshing and ephemeral.
 
-**Alsatian Pinot Gris** occupies the opposite end of the spectrum. Alsace produces Pinot Gris of considerable weight, richness, and textural density — often with residual sugar, sometimes approaching a semi-sweet profile, with honey, beeswax, smoke, and stone fruit at full concentration. It is grand and serious, but it is also demanding: a wine that requires the right dish and the right occasion.
+**Alsatian Pinot Gris** occupies the opposite end of the spectrum. Alsace produces Pinot Gris of considerable weight, richness, and textural density: often with residual sugar, sometimes approaching a semi-sweet profile, with honey, beeswax, smoke, and stone fruit at full concentration. It is grand and serious, but it is also demanding: a wine that requires the right dish and the right occasion.
 
-**Oregon Pinot Gris** sits in the middle, and the positioning is purposeful rather than accidental. Oregon producers aim for a wine with more body and texture than Italy — stone fruit, white peach, melon, ripe pear, light citrus, with a creamier mid-palate than Italian expressions allow — while maintaining the freshness and food-focus that Alsace sometimes sacrifices in pursuit of richness. The result is a highly versatile table wine: substantial enough to pair with fish, poultry, pork, and cream-based preparations; light enough to serve as an aperitif; interesting enough to hold the attention of a guest who knows what Pinot Gris can be.
+**Oregon Pinot Gris** sits in the middle, and the positioning is purposeful rather than accidental. Oregon producers aim for a wine with more body and texture than Italy: stone fruit, white peach, melon, ripe pear, light citrus, with a creamier mid-palate than Italian expressions allow, while maintaining the freshness and food-focus that Alsace sometimes sacrifices in pursuit of richness. The result is a highly versatile table wine: substantial enough to pair with fish, poultry, pork, and cream-based preparations; light enough to serve as an aperitif; interesting enough to hold the attention of a guest who knows what Pinot Gris can be.
 
 ### Style Variations Within Oregon
 
-Oregon produces Pinot Gris across a stylistic range driven by winemaking decisions as much as terroir. The most common style is **unoaked**: stainless steel fermented, aromatic, fresh, emphasizing the variety's natural stone fruit and floral character. A smaller segment produces **lightly oaked** Pinot Gris — partial barrel fermentation or short lees aging adds texture and weight without overwhelming the aromatics. The most recent development is **skin-contact Pinot Gris**, sometimes called orange wine, where extended maceration with the grape skins extracts tannin, color, and textural complexity. The pink-tinged skins of Pinot Gris produce wines of golden-amber color and savory, oxidative character that have become a feature of Oregon's natural wine scene.
+Oregon produces Pinot Gris across a stylistic range driven by winemaking decisions as much as terroir. The most common style is **unoaked**: stainless steel fermented, aromatic, fresh, emphasizing the variety's natural stone fruit and floral character. A smaller segment produces **lightly oaked** Pinot Gris, partial barrel fermentation or short lees aging adds texture and weight without overwhelming the aromatics. The most recent development is **skin-contact Pinot Gris**, sometimes called orange wine, where extended maceration with the grape skins extracts tannin, color, and textural complexity. The pink-tinged skins of Pinot Gris produce wines of golden-amber color and savory, oxidative character that have become a feature of Oregon's natural wine scene.
 
 ### Key Producers
 
-**Eyrie Vineyards** remains the originator and the standard for classic Oregon Pinot Gris — textbook stone fruit and melon, clean acidity, the reference expression. **King Estate**, based in Eugene, is Oregon's largest producer and the largest certified organic winery in the United States; their Pinot Gris is consistently excellent at a price point that makes it the logical choice for by-the-glass programs, high-volume accounts, and any operation that needs a reliable, well-made Oregon white in quantity. **Willamette Valley Vineyards** produces an accessible, widely distributed Pinot Gris that belongs on any list with regional ambitions. **Adelsheim** offers single-vineyard expressions that demonstrate what site selection does to the variety. **A to Z Wineworks**, operating on a négociant model by sourcing fruit from across the state, produces exceptional value Pinot Gris that outperforms its price category consistently.
+**Eyrie Vineyards** remains the originator and the standard for classic Oregon Pinot Gris: textbook stone fruit and melon, clean acidity, the reference expression. **King Estate**, based in Eugene, is Oregon's largest producer and the largest certified organic winery in the United States; their Pinot Gris is consistently excellent at a price point that makes it the logical choice for by-the-glass programs, high-volume accounts, and any operation that needs a reliable, well-made Oregon white in quantity. **Willamette Valley Vineyards** produces an accessible, widely distributed Pinot Gris that belongs on any list with regional ambitions. **Adelsheim** offers single-vineyard expressions that demonstrate what site selection does to the variety. **A to Z Wineworks**, operating on a négociant model by sourcing fruit from across the state, produces exceptional value Pinot Gris that outperforms its price category consistently.
 
-> **Pro Tip:** King Estate is the Pinot Gris story that sells itself to operations-focused buyers. "Largest certified organic winery in America, consistently priced under $20 at retail, and their Pinot Gris pairs with almost anything on the menu" is a three-sentence pitch that addresses quality, values alignment, and versatility simultaneously. For a floor server, King Estate Pinot Gris is the answer to the question "what's your most food-friendly white?" — it genuinely is, and the organic certification gives guests an additional reason to feel good about the choice.
+> **Pro Tip:** King Estate is the Pinot Gris story that sells itself to operations-focused buyers. "Largest certified organic winery in America, consistently priced under $20 at retail, and their Pinot Gris pairs with almost anything on the menu" is a three-sentence pitch that addresses quality, values alignment, and versatility simultaneously. For a floor server, King Estate Pinot Gris is the answer to the question "what's your most food-friendly white?": it genuinely is, and the organic certification gives guests an additional reason to feel good about the choice.
 
 ---
 
-## Section 3: Oregon Chardonnay — The Rising Star That Serious Professionals Need to Know
+## Section 3: Oregon Chardonnay, The Rising Star That Serious Professionals Need to Know
 
 ### A Decade of Transformation
 
-Oregon Chardonnay has a complicated history. In the early decades of Willamette Valley winemaking, Chardonnay was treated as a secondary crop — planted widely, produced abundantly, and made in a style that reflected the California influence of the era: heavy malolactic fermentation, substantial new oak, and a full-bodied, buttery profile that obscured rather than expressed site character. The wines were competent but undistinguished, and critics who came to Oregon for Pinot Noir rarely lingered over the whites.
+Oregon Chardonnay has a complicated history. In the early decades of Willamette Valley winemaking, Chardonnay was treated as a secondary crop: planted widely, produced abundantly, and made in a style that reflected the California influence of the era: heavy malolactic fermentation, substantial new oak, and a full-bodied, buttery profile that obscured rather than expressed site character. The wines were competent but undistinguished, and critics who came to Oregon for Pinot Noir rarely lingered over the whites.
 
-The transformation that has occurred over the last fifteen years is fundamental. A cohort of winemakers — many Burgundy-trained, some biodynamically committed, all working with increasingly mature vine stock — have rebuilt Oregon Chardonnay from first principles. The new approach borrows directly from the great Côte de Beaune estates: whole-cluster pressing to preserve aromatics, barrel fermentation in used and neutral barrels to add texture without imparting primary oak flavor, partial or full lees aging on the fine lees to build complexity and weight, and selective use of malolactic fermentation to manage acidity without eliminating it. The result is a generation of Oregon Chardonnays that bear no resemblance to their predecessors.
+The transformation that has occurred over the last fifteen years is fundamental. A cohort of winemakers: many Burgundy-trained, some biodynamically committed, all working with increasingly mature vine stock, have rebuilt Oregon Chardonnay from first principles. The new approach borrows directly from the great Côte de Beaune estates: whole-cluster pressing to preserve aromatics, barrel fermentation in used and neutral barrels to add texture without imparting primary oak flavor, partial or full lees aging on the fine lees to build complexity and weight, and selective use of malolactic fermentation to manage acidity without eliminating it. The result is a generation of Oregon Chardonnays that bear no resemblance to their predecessors.
 
-What makes this exciting from a service standpoint is the timing. The wines are here now. The vine age is sufficient — many of the best Chardonnay blocks in the Willamette Valley were planted in the late 1980s and through the 1990s, and vines in their late 20s and 30s produce qualitatively different fruit than young plantings. The winemaking talent has arrived. The critical attention is beginning to follow. Guests who discover Oregon Chardonnay now are ahead of the conversation.
+What makes this exciting from a service standpoint is the timing. The wines are here now. The vine age is sufficient, many of the best Chardonnay blocks in the Willamette Valley were planted in the late 1980s and through the 1990s, and vines in their late 20s and 30s produce qualitatively different fruit than young plantings. The winemaking talent has arrived. The critical attention is beginning to follow. Guests who discover Oregon Chardonnay now are ahead of the conversation.
 
 ### Sub-Regional Expressions
 
-The Willamette Valley's soil diversity — volcanic basalt in the Dundee Hills, marine sedimentary and loess in Chehalem Mountains, ancient sea floor sediment in Eola-Amity — produces meaningfully different Chardonnay expressions across the valley.
+The Willamette Valley's soil diversity: volcanic basalt in the Dundee Hills, marine sedimentary and loess in Chehalem Mountains, ancient sea floor sediment in Eola-Amity, produces meaningfully different Chardonnay expressions across the valley.
 
-**Chehalem Mountains Chardonnay** tends toward mineral precision and stony character, reflecting the loess and volcanic composition of its soils. The wines are typically leaner in profile, with citrus and green apple alongside stone fruit, and a textural finesse that rewards time in the glass. **Dundee Hills Chardonnay** tends slightly rounder, with stone fruit more prominent — white peach, apricot — and a touch more body from the iron-rich Jory volcanic soils. **Eola-Amity Hills Chardonnay** is arguably the most distinctive: the coldest growing conditions in the northern Willamette Valley, driven by the Van Duzer Corridor wind, produce Chardonnay of exceptional acidity, mineral tension, and angular elegance. These are the most Chablis-like expressions Oregon produces — not in any imitative sense, but in structural character.
+**Chehalem Mountains Chardonnay** tends toward mineral precision and stony character, reflecting the loess and volcanic composition of its soils. The wines are typically leaner in profile, with citrus and green apple alongside stone fruit, and a textural finesse that rewards time in the glass. **Dundee Hills Chardonnay** tends slightly rounder, with stone fruit more prominent (white peach, apricot) and a touch more body from the iron-rich Jory volcanic soils. **Eola-Amity Hills Chardonnay** is arguably the most distinctive: the coldest growing conditions in the northern Willamette Valley, driven by the Van Duzer Corridor wind, produce Chardonnay of exceptional acidity, mineral tension, and angular elegance. These are the most Chablis-like expressions Oregon produces: not in any imitative sense, but in structural character.
 
 ### Key Producers and the Stories Behind Them
 
-**Bergström Wines** is the essential starting point for Oregon Chardonnay of the first rank. Josh Bergström studied at Burgundy's Lycée Viticole in Beaune; the estate is certified biodynamic; and the flagship **Sigrid Chardonnay** — named for Josh's mother — is produced from a single selection of estate fruit, barrel-fermented with native yeast, and aged entirely on its fine lees. Critics have compared it consistently to top Puligny-Montrachet. It is not the most widely distributed wine in Oregon, which makes it a genuine discovery for guests unfamiliar with it.
+**Bergström Wines** is the essential starting point for Oregon Chardonnay of the first rank. Josh Bergström studied at Burgundy's Lycée Viticole in Beaune; the estate is certified biodynamic; and the flagship **Sigrid Chardonnay** (named for Josh's mother) is produced from a single selection of estate fruit, barrel-fermented with native yeast, and aged entirely on its fine lees. Critics have compared it consistently to top Puligny-Montrachet. It is not the most widely distributed wine in Oregon, which makes it a genuine discovery for guests unfamiliar with it.
 
-**Evening Land Vineyards** occupies a different position in the market but an equally important one in the critical conversation. The estate is built around **Seven Springs Vineyard** in the Eola-Amity Hills, one of the oldest and most carefully tended Chardonnay blocks in the valley. Rajat Parr — one of America's most celebrated sommeliers before he became a winemaker — built Evening Land's winemaking philosophy around minimalist intervention, biodynamic viticulture, and the conviction that Seven Springs is a world-class vineyard site. The resulting Chardonnay has been called one of America's most important whites by multiple major critics. The Rajat Parr story is particularly resonant for guests who already respect the sommelier community: "The sommelier who became a winemaker, building around a biodynamic vineyard he believes is the best Chardonnay site in Oregon" is a narrative that lands immediately.
+**Evening Land Vineyards** occupies a different position in the market but an equally important one in the critical conversation. The estate is built around **Seven Springs Vineyard** in the Eola-Amity Hills, one of the oldest and most carefully tended Chardonnay blocks in the valley. Rajat Parr (one of America's most celebrated sommeliers before he became a winemaker) built Evening Land's winemaking philosophy around minimalist intervention, biodynamic viticulture, and the conviction that Seven Springs is a world-class vineyard site. The resulting Chardonnay has been called one of America's most important whites by multiple major critics. The Rajat Parr story is particularly resonant for guests who already respect the sommelier community: "The sommelier who became a winemaker, building around a biodynamic vineyard he believes is the best Chardonnay site in Oregon" is a narrative that lands immediately.
 
 **Lingua Franca**, founded with the involvement of Master Sommelier Larry Stone, produces serious, structured Chardonnay with an emphasis on site-specific character and Burgundian discipline. **Ponzi Vineyards**, one of Oregon's founding estates, offers long-established, consistent Chardonnay across multiple tiers that belongs on any comprehensive Oregon list.
 
-> **Pro Tip:** The Bergström Sigrid is your "mind-changing" bottle for the guest who has decided they don't like Oregon Chardonnay based on early-era examples or who defaults to Burgundy whenever they want serious white wine. The pitch is simple: "This is what happens when a Burgundy-trained winemaker applies biodynamic farming to the Willamette Valley's best Chardonnay fruit. Critics compare it to top Puligny-Montrachet — and it's priced significantly below its Burgundy equivalents." For the Burgundy loyalist, this is a bridge. For the guest who wants something new, it is a discovery. For the operation, it is a high-margin conversation starter.
+> **Pro Tip:** The Bergström Sigrid is your "mind-changing" bottle for the guest who has decided they don't like Oregon Chardonnay based on early-era examples or who defaults to Burgundy whenever they want serious white wine. The pitch is simple: "This is what happens when a Burgundy-trained winemaker applies biodynamic farming to the Willamette Valley's best Chardonnay fruit. Critics compare it to top Puligny-Montrachet, and it's priced significantly below its Burgundy equivalents." For the Burgundy loyalist, this is a bridge. For the guest who wants something new, it is a discovery. For the operation, it is a high-margin conversation starter.
 
 ---
 
-## Section 4: Riesling, Pinot Blanc, and Gewürztraminer — Oregon's Supporting Aromatics
+## Section 4: Riesling, Pinot Blanc, and Gewürztraminer, Oregon's Supporting Aromatics
 
 ### Why the Aromatic Varieties Matter
 
-Oregon's white wine story does not begin and end with Pinot Gris and Chardonnay. The state's cool climate, its range of elevations, and the particular conditions of its outlying growing regions support a cluster of aromatic varieties — Riesling, Pinot Blanc, Gewürztraminer — that contribute meaningfully to the diversity of the state's white wine output. For hospitality professionals, these varieties represent by-the-glass opportunities, food pairing tools, and conversation openers for guests who approach wine through aromatics rather than through structure.
+Oregon's white wine story does not begin and end with Pinot Gris and Chardonnay. The state's cool climate, its range of elevations, and the particular conditions of its outlying growing regions support a cluster of aromatic varieties (Riesling, Pinot Blanc, Gewürztraminer) that contribute meaningfully to the diversity of the state's white wine output. For hospitality professionals, these varieties represent by-the-glass opportunities, food pairing tools, and conversation openers for guests who approach wine through aromatics rather than through structure.
 
-Understanding where these varieties grow, who makes them well, and how they perform at the table gives a floor professional a complete picture of Oregon's white wine possibilities — and an answer to nearly any guest request.
+Understanding where these varieties grow, who makes them well, and how they perform at the table gives a floor professional a complete picture of Oregon's white wine possibilities, and an answer to nearly any guest request.
 
 ### Riesling in Oregon
 
-Oregon produces a small but genuinely impressive volume of Riesling. The variety performs best in the coolest growing conditions the state offers, which points primarily to two regions: the **Columbia Gorge** — the dramatic east-west river corridor that straddles the Oregon-Washington border and functions as its own AVA — and the **Tualatin Hills** in the northern reaches of Washington County, where elevation and cool Pacific influence create growing conditions of genuine Riesling precision.
+Oregon produces a small but genuinely impressive volume of Riesling. The variety performs best in the coolest growing conditions the state offers, which points primarily to two regions: the **Columbia Gorge**, the dramatic east-west river corridor that straddles the Oregon-Washington border and functions as its own AVA, and the **Tualatin Hills** in the northern reaches of Washington County, where elevation and cool Pacific influence create growing conditions of genuine Riesling precision.
 
-**Trisaetum Winery**, based in Ribbon Ridge within the Chehalem Mountains, has made Riesling a signature focus alongside their Pinot Noir. Their Ribbon Ridge Riesling expressions — both dry and semi-dry — demonstrate that Oregon can produce Riesling of structural integrity and aromatic complexity. The wines carry the minerality that Ribbon Ridge's marine sedimentary soils and the Chehalem Mountains' loess impart to everything grown there, giving them a stony, saline quality that distinguishes them from the softer Rieslings of warmer climates.
+**Trisaetum Winery**, based in Ribbon Ridge within the Chehalem Mountains, has made Riesling a signature focus alongside their Pinot Noir. Their Ribbon Ridge Riesling expressions (both dry and semi-dry) demonstrate that Oregon can produce Riesling of structural integrity and aromatic complexity. The wines carry the minerality that Ribbon Ridge's marine sedimentary soils and the Chehalem Mountains' loess impart to everything grown there, giving them a stony, saline quality that distinguishes them from the softer Rieslings of warmer climates.
 
-For by-the-glass applications, Oregon Riesling — particularly in dry or off-dry expressions — is one of the most versatile pairing tools in a Pacific Northwest-focused cellar. Its high acidity, aromatic expressiveness, and moderate alcohol make it a natural companion for Pacific seafood, Asian-influenced cuisine, charcuterie, and cheese courses.
+For by-the-glass applications, Oregon Riesling (particularly in dry or off-dry expressions) is one of the most versatile pairing tools in a Pacific Northwest-focused cellar. Its high acidity, aromatic expressiveness, and moderate alcohol make it a natural companion for Pacific seafood, Asian-influenced cuisine, charcuterie, and cheese courses.
 
 ### Pinot Blanc
 
-Pinot Blanc is another pink-skinned Pinot family member — closely related to both Pinot Gris and Pinot Noir — and it produces wines of quiet, restrained character that prioritize texture and food affinity over aromatic display. In Oregon, it is grown most successfully in the **Chehalem Mountains**, where its natural inclination toward minerality and lean body finds expression in the loess and volcanic soils of that AVA.
+Pinot Blanc is another pink-skinned Pinot family member (closely related to both Pinot Gris and Pinot Noir) and it produces wines of quiet, restrained character that prioritize texture and food affinity over aromatic display. In Oregon, it is grown most successfully in the **Chehalem Mountains**, where its natural inclination toward minerality and lean body finds expression in the loess and volcanic soils of that AVA.
 
-**Adelsheim Vineyard** has been the most consistent champion of Oregon Pinot Blanc, producing a reserve-level expression that demonstrates the variety's potential for complexity when handled with care. The wines tend toward white flower aromatics, green apple, light citrus, and a silky, medium-weight palate with clean acidity — a guest-friendly profile that bridges easily between unoaked Chardonnay and Pinot Gris for guests exploring Oregon whites.
+**Adelsheim Vineyard** has been the most consistent champion of Oregon Pinot Blanc, producing a reserve-level expression that demonstrates the variety's potential for complexity when handled with care. The wines tend toward white flower aromatics, green apple, light citrus, and a silky, medium-weight palate with clean acidity, a guest-friendly profile that bridges easily between unoaked Chardonnay and Pinot Gris for guests exploring Oregon whites.
 
 ### Gewürztraminer
 
-The most dramatic of Oregon's aromatic whites, Gewürztraminer produces wines of intense floral fragrance — lychee, rose petal, orange blossom — with a characteristically low-acid, slightly viscous palate and spice character on the finish. In Oregon, the best Gewürztraminer comes from the **Columbia Gorge AVA** and the **Umpqua Valley** in southern Oregon, where the warmer, drier conditions of these regions allow Gewürztraminer to achieve the phenolic ripeness it requires without the excessive alcohol that can result from overcropping in warm climates.
+The most dramatic of Oregon's aromatic whites, Gewürztraminer produces wines of intense floral fragrance (lychee, rose petal, orange blossom) with a characteristically low-acid, slightly viscous palate and spice character on the finish. In Oregon, the best Gewürztraminer comes from the **Columbia Gorge AVA** and the **Umpqua Valley** in southern Oregon, where the warmer, drier conditions of these regions allow Gewürztraminer to achieve the phenolic ripeness it requires without the excessive alcohol that can result from overcropping in warm climates.
 
-**Pacific Rim Winemakers**, while not exclusively an Oregon producer, has been instrumental in building consumer awareness of Pacific Northwest aromatic varieties — Riesling and Gewürztraminer in particular — through wide distribution and approachable pricing. At the table, Oregon Gewürztraminer is one of the most reliable tools for pairing with spice-forward cuisine: Thai, Indian, Moroccan, and any preparation that features ginger, coriander, or chili heat.
+**Pacific Rim Winemakers**, while not exclusively an Oregon producer, has been instrumental in building consumer awareness of Pacific Northwest aromatic varieties (Riesling and Gewürztraminer in particular) through wide distribution and approachable pricing. At the table, Oregon Gewürztraminer is one of the most reliable tools for pairing with spice-forward cuisine: Thai, Indian, Moroccan, and any preparation that features ginger, coriander, or chili heat.
 
-> **Pro Tip:** Aromatic whites — Riesling, Pinot Blanc, Gewürztraminer — are your tools for guests who say "I want something unusual" or for tables ordering from a diverse menu where a single variety cannot carry every dish. Frame them as "Oregon's hidden depth": "Beyond the Pinot Gris and Chardonnay that Oregon is known for, there's a small-production world of Riesling and Gewürztraminer that most wine lists don't even carry — and these pair with things that nothing else on the list can touch." That framing makes the recommendation feel like insider knowledge, which builds both guest confidence and server credibility.
+> **Pro Tip:** Aromatic whites (Riesling, Pinot Blanc, Gewürztraminer) are your tools for guests who say "I want something unusual" or for tables ordering from a diverse menu where a single variety cannot carry every dish. Frame them as "Oregon's hidden depth": "Beyond the Pinot Gris and Chardonnay that Oregon is known for, there's a small-production world of Riesling and Gewürztraminer that most wine lists don't even carry, and these pair with things that nothing else on the list can touch." That framing makes the recommendation feel like insider knowledge, which builds both guest confidence and server credibility.
 
 ---
 
-## Section 5: King Estate — Scale, Organics, and the Business Case for Oregon Pinot Gris
+## Section 5: King Estate, Scale, Organics, and the Business Case for Oregon Pinot Gris
 
 ### An Estate That Changed the Economics of Oregon White Wine
 
-King Estate is not the most critically discussed winery in Oregon. It does not produce the wines that appear on the shortlist of America's greatest bottles. What it does — and does at a level no other Oregon producer has matched — is demonstrate that serious, certified organic viticulture and genuinely high-quality Pinot Gris production can operate at commercial scale without compromising the standards that make Oregon white wine interesting in the first place.
+King Estate is not the most critically discussed winery in Oregon. It does not produce the wines that appear on the shortlist of America's greatest bottles. What it does (and does at a level no other Oregon producer has matched) is demonstrate that serious, certified organic viticulture and genuinely high-quality Pinot Gris production can operate at commercial scale without compromising the standards that make Oregon white wine interesting in the first place.
 
-Founded in 1991 in the hills south of Eugene, King Estate has grown into the largest certified organic winery in the United States by planted acreage. The estate encompasses over 1,000 acres, of which the majority is dedicated to certified organic viticulture under Oregon Tilth certification. The decision to pursue organic certification at this scale was made not as a marketing exercise but as a production commitment: the estate's management concluded that organic viticulture — eliminating synthetic pesticides and herbicides, working with cover crops and compost to build soil biology, managing the vineyard as an ecosystem rather than a monoculture — produced better fruit than conventional approaches. The resulting Pinot Gris reflects that commitment: it is clean, consistently structured, and expressive of the cooler conditions of the southern Willamette Valley at a price point that makes it accessible to any operation.
+Founded in 1991 in the hills south of Eugene, King Estate has grown into the largest certified organic winery in the United States by planted acreage. The estate encompasses over 1,000 acres, of which the majority is dedicated to certified organic viticulture under Oregon Tilth certification. The decision to pursue organic certification at this scale was made not as a marketing exercise but as a production commitment: the estate's management concluded that organic viticulture: eliminating synthetic pesticides and herbicides, working with cover crops and compost to build soil biology, managing the vineyard as an ecosystem rather than a monoculture, produced better fruit than conventional approaches. The resulting Pinot Gris reflects that commitment: it is clean, consistently structured, and expressive of the cooler conditions of the southern Willamette Valley at a price point that makes it accessible to any operation.
 
 ### The Portfolio and Its Applications
 
-King Estate produces Pinot Gris and Pinot Noir across multiple tiers. The entry-level **Acrobat** tier is designed for broad commercial distribution and high-volume by-the-glass programs — reliably made, widely available, and priced to function as a house pour without embarrassment. The estate-tier **King Estate** Pinot Gris steps up in complexity, reflecting the organic estate fruit and the cooler temperatures of the Eugene hills. The reserve and single-vineyard tiers, while produced in smaller quantities, demonstrate what the estate's best blocks can achieve with more selective viticulture and careful winemaking.
+King Estate produces Pinot Gris and Pinot Noir across multiple tiers. The entry-level **Acrobat** tier is designed for broad commercial distribution and high-volume by-the-glass programs: reliably made, widely available, and priced to function as a house pour without embarrassment. The estate-tier **King Estate** Pinot Gris steps up in complexity, reflecting the organic estate fruit and the cooler temperatures of the Eugene hills. The reserve and single-vineyard tiers, while produced in smaller quantities, demonstrate what the estate's best blocks can achieve with more selective viticulture and careful winemaking.
 
-For hospitality operations managing large volumes — hotel food and beverage programs, group dining, convention-level accounts — King Estate represents a solution that California and Washington producers rarely offer: certified organic, genuinely Oregon, at a price point that works in cost-controlled environments. The organic certification matters increasingly to corporate clients and institutional buyers who face guest inquiries about sustainability practices. Being able to say that your by-the-glass Oregon white is the largest certified organic wine estate in America is a differentiating answer.
+For hospitality operations managing large volumes (hotel food and beverage programs, group dining, convention-level accounts) King Estate represents a solution that California and Washington producers rarely offer: certified organic, genuinely Oregon, at a price point that works in cost-controlled environments. The organic certification matters increasingly to corporate clients and institutional buyers who face guest inquiries about sustainability practices. Being able to say that your by-the-glass Oregon white is the largest certified organic wine estate in America is a differentiating answer.
 
 ### The Southern Willamette Context
 
-King Estate's position in the hills south of Eugene places it outside the named AVAs of the northern Willamette Valley — it is not in the Dundee Hills or Eola-Amity Hills, and its terroir is distinct from the volcanic and marine sedimentary soils of the northern sub-regions. The southern Willamette is cooler and wetter than the Chehalem Mountains and Dundee Hills, and the soils tend toward older marine sedimentary and residual clay compositions. For Pinot Gris — a variety that does not require the complex volcanic soil interactions that drive Pinot Noir complexity — this is entirely workable, and the resulting wines carry a freshness and aromatic clarity that suits the variety's food-pairing strengths.
+King Estate's position in the hills south of Eugene places it outside the named AVAs of the northern Willamette Valley: it is not in the Dundee Hills or Eola-Amity Hills, and its terroir is distinct from the volcanic and marine sedimentary soils of the northern sub-regions. The southern Willamette is cooler and wetter than the Chehalem Mountains and Dundee Hills, and the soils tend toward older marine sedimentary and residual clay compositions. For Pinot Gris, a variety that does not require the complex volcanic soil interactions that drive Pinot Noir complexity: this is entirely workable, and the resulting wines carry a freshness and aromatic clarity that suits the variety's food-pairing strengths.
 
-> **Pro Tip:** When a buyer or floor manager asks about by-the-glass Oregon white wine programs, King Estate is the answer that addresses every practical concern simultaneously: certified organic (sustainability), largest-in-category (credibility), consistently high quality at the entry tier (reliability), and available in commercial volumes (logistics). The pitch to a hesitant buyer is not about prestige — it is about the combination of values, quality, and operational practicality that no other Oregon producer can match at that scale. Present it as a program decision, not just a wine selection.
+> **Pro Tip:** When a buyer or floor manager asks about by-the-glass Oregon white wine programs, King Estate is the answer that addresses every practical concern simultaneously: certified organic (sustainability), largest-in-category (credibility), consistently high quality at the entry tier (reliability), and available in commercial volumes (logistics). The pitch to a hesitant buyer is not about prestige: it is about the combination of values, quality, and operational practicality that no other Oregon producer can match at that scale. Present it as a program decision, not just a wine selection.
 
 ---
 
-## Section 6: Building the Oregon White Wine List — Floor Strategy and Guest Positioning
+## Section 6: Building the Oregon White Wine List, Floor Strategy and Guest Positioning
 
 ### The White Wine Argument for a PNW-Focused List
 
-Any serious Pacific Northwest wine program that begins and ends with Pinot Noir is telling only half the story. The case for white wine range extension is not merely stylistic — it is commercial. A well-constructed Oregon white wine section addresses multiple guest segments simultaneously: the Burgundy enthusiast who wants to explore Chardonnay beyond the Côte de Beaune, the natural wine devotee who wants biodynamic or skin-contact expressions, the food-and-wine-pairing guest who needs aromatic whites for a complex menu, and the value-conscious buyer who wants regional credibility at an accessible price point.
+Any serious Pacific Northwest wine program that begins and ends with Pinot Noir is telling only half the story. The case for white wine range extension is not merely stylistic; it is commercial. A well-constructed Oregon white wine section addresses multiple guest segments simultaneously: the Burgundy enthusiast who wants to explore Chardonnay beyond the Côte de Beaune, the natural wine devotee who wants biodynamic or skin-contact expressions, the food-and-wine-pairing guest who needs aromatic whites for a complex menu, and the value-conscious buyer who wants regional credibility at an accessible price point.
 
-The architecture of a strong Oregon white wine section follows a logic of escalating depth. It begins with an accessible, food-friendly Pinot Gris — King Estate or Willamette Valley Vineyards at the entry tier — and builds through single-vineyard Pinot Gris expressions and aromatic whites toward the serious Chardonnay bottles that represent the program's prestige anchors. Evening Land Seven Springs and Bergström Sigrid function at the top of that architecture: they are not impulse purchases, but they are conversation pieces that justify the entire program.
+The architecture of a strong Oregon white wine section follows a logic of escalating depth. It begins with an accessible, food-friendly Pinot Gris (King Estate or Willamette Valley Vineyards at the entry tier) and builds through single-vineyard Pinot Gris expressions and aromatic whites toward the serious Chardonnay bottles that represent the program's prestige anchors. Evening Land Seven Springs and Bergström Sigrid function at the top of that architecture: they are not impulse purchases, but they are conversation pieces that justify the entire program.
 
 ### Floor Narratives by Producer and Occasion
 
-**King Estate Pinot Gris** is your house white narrative: "Oregon's largest certified organic winery, and their Pinot Gris goes with almost everything on the menu — the acidity holds up to the fish and the texture handles the chicken. It's become our signature white." This language is concrete, food-referenced, and connects organic credentials to practical appeal.
+**King Estate Pinot Gris** is your house white narrative: "Oregon's largest certified organic winery, and their Pinot Gris goes with almost everything on the menu, the acidity holds up to the fish and the texture handles the chicken. It's become our signature white." This language is concrete, food-referenced, and connects organic credentials to practical appeal.
 
-**Eyrie Vineyards Pinot Gris** carries the origin story: "This is the winery that introduced Pinot Gris to Oregon — the same family that founded Oregon wine with Pinot Noir in the 1960s. The Pinot Gris is their original white wine expression: clean stone fruit, great acidity, completely classic." This narrative rewards guests who already know the Eyrie founding story from Pinot Noir discussions.
+**Eyrie Vineyards Pinot Gris** carries the origin story: "This is the winery that introduced Pinot Gris to Oregon, the same family that founded Oregon wine with Pinot Noir in the 1960s. The Pinot Gris is their original white wine expression: clean stone fruit, great acidity, completely classic." This narrative rewards guests who already know the Eyrie founding story from Pinot Noir discussions.
 
-**Bergström Sigrid Chardonnay** is your prestige white pivot: "If you're a Chardonnay person who thinks Oregon doesn't do whites seriously — this is the bottle that changes that. Josh Bergström trained in Burgundy, farms biodynamically, and critics compare the Sigrid to top Puligny-Montrachet. It's priced well below its Burgundy equivalents and it's one of Oregon's most celebrated wines." This works for the Burgundy loyalist and the wine-educated guest looking to expand.
+**Bergström Sigrid Chardonnay** is your prestige white pivot: "If you're a Chardonnay person who thinks Oregon doesn't do whites seriously; this is the bottle that changes that. Josh Bergström trained in Burgundy, farms biodynamically, and critics compare the Sigrid to top Puligny-Montrachet. It's priced well below its Burgundy equivalents and it's one of Oregon's most celebrated wines." This works for the Burgundy loyalist and the wine-educated guest looking to expand.
 
-**Evening Land Seven Springs Chardonnay** is your natural wine and sommelier-credibility story: "Rajat Parr — one of America's most celebrated sommeliers — built this estate around a single biodynamic vineyard in the Eola-Amity Hills. The Chardonnay is minimalist in the best sense: the fruit and the site do all the work. Critics put it on their shortlists for American Chardonnay every year." This works for guests who name-check sommeliers, who follow wine media closely, or who respond to the biodynamic farming narrative.
+**Evening Land Seven Springs Chardonnay** is your natural wine and sommelier-credibility story: "Rajat Parr (one of America's most celebrated sommeliers) built this estate around a single biodynamic vineyard in the Eola-Amity Hills. The Chardonnay is minimalist in the best sense: the fruit and the site do all the work. Critics put it on their shortlists for American Chardonnay every year." This works for guests who name-check sommeliers, who follow wine media closely, or who respond to the biodynamic farming narrative.
 
-**Skin-contact Pinot Gris** (from producers like Trisaetum or various small natural producers) is your natural wine answer: "Oregon is producing some really interesting orange wines from Pinot Gris — the pink skins give you color, texture, and a savory quality that's completely different from the conventional style. It's become a genuine trend among natural wine enthusiasts." This works for adventurous guests who explicitly want something different.
+**Skin-contact Pinot Gris** (from producers like Trisaetum or various small natural producers) is your natural wine answer: "Oregon is producing some really interesting orange wines from Pinot Gris: the pink skins give you color, texture, and a savory quality that's completely different from the conventional style. It's become a genuine trend among natural wine enthusiasts." This works for adventurous guests who explicitly want something different.
 
 ### The Long-Term Case
 
-Oregon white wine is at an inflection point. The quality is established — the critical conversation around Bergström, Evening Land, and Lingua Franca is no longer a prediction but a record. The vine age is sufficient. The winemaking is sophisticated. What remains is market awareness, and market awareness is built by hospitality professionals who know the story and tell it at the table. The floor professional who introduces a guest to Bergström Sigrid in 2026 is building the category. The guest who discovers it will look for it again, will tell other guests about it, and will remember where the discovery happened.
+Oregon white wine is at an inflection point. The quality is established: the critical conversation around Bergström, Evening Land, and Lingua Franca is no longer a prediction but a record. The vine age is sufficient. The winemaking is sophisticated. What remains is market awareness, and market awareness is built by hospitality professionals who know the story and tell it at the table. The floor professional who introduces a guest to Bergström Sigrid in 2026 is building the category. The guest who discovers it will look for it again, will tell other guests about it, and will remember where the discovery happened.
 
 Oregon white wine is not a category in need of advocacy because the wines are obscure. It is a category in need of advocacy because the wines are excellent and undersold. That is the best possible position for a hospitality professional to occupy.
 
-> **Pro Tip:** At the end of a meal, when a guest has ordered Oregon Pinot Noir and enjoyed it, a natural bridge to the wine program is: "Since you're familiar with what Oregon does with Pinot Noir — next time you're in, I'd love to show you what they do with Chardonnay and Pinot Gris. There's a level of quality there that most guests don't know about yet, and it pairs differently — we can build an entirely different kind of meal around it." This plants a return visit, demonstrates depth of wine knowledge, and positions you as a guide rather than a salesperson. The guest leaves with a reason to come back.
+> **Pro Tip:** At the end of a meal, when a guest has ordered Oregon Pinot Noir and enjoyed it, a natural bridge to the wine program is: "Since you're familiar with what Oregon does with Pinot Noir: next time you're in, I'd love to show you what they do with Chardonnay and Pinot Gris. There's a level of quality there that most guests don't know about yet, and it pairs differently, we can build an entirely different kind of meal around it." This plants a return visit, demonstrates depth of wine knowledge, and positions you as a guide rather than a salesperson. The guest leaves with a reason to come back.
 
 ---
 
@@ -195,7 +195,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 | Term | Definition |
 |------|------------|
 | Pinot Gris | A pink-skinned mutation of Pinot Noir; produces white wines ranging from light and crisp (Italian Pinot Grigio style) to rich and textured (Alsatian style); Oregon's most widely planted white variety |
-| Pinot Grigio | The Italian name and stylistic archetype for Pinot Gris — light, high-acid, neutral, designed for early drinking; the contrast point for understanding Oregon's richer, more textured expressions |
+| Pinot Grigio | The Italian name and stylistic archetype for Pinot Gris: light, high-acid, neutral, designed for early drinking; the contrast point for understanding Oregon's richer, more textured expressions |
 | Alsatian Pinot Gris | The rich, weighty, often off-dry expression of Pinot Gris produced in Alsace, France; characterized by honey, beeswax, smoke, and stone fruit at full concentration; the upper end of the Pinot Gris stylistic spectrum |
 | Skin-contact wine | Also called orange wine; produced by leaving grape juice in contact with grape skins during fermentation, extracting tannin, color, and texture; Oregon Pinot Gris skin-contact wines show golden-amber color and savory, oxidative character |
 | Malolactic fermentation (MLF) | A secondary fermentation in which sharp malic acid is converted to softer lactic acid by bacteria; historically overused in Oregon Chardonnay, producing buttery, round wines; now used selectively by top producers to balance richness and acidity |
@@ -212,7 +212,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 
 ---
 
-## Quiz — Oregon White Wines: Pinot Gris, Chardonnay, and Beyond
+## Quiz, Oregon White Wines: Pinot Gris, Chardonnay, and Beyond
 
 **Instructions:** Select the best answer. All answers can be found in this module.
 
@@ -239,10 +239,10 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 ---
 
 **Q3. A guest who enjoys Italian Pinot Grigio wants something "in the same family but more interesting." Which Oregon wine and descriptor best fits this recommendation?**
-- A) Bergström Sigrid Chardonnay — barrel-fermented, native yeast, Puligny-Montrachet comparisons
-- B) King Estate Pinot Gris — certified organic, stone fruit and melon, more texture than Italian expressions but still refreshing and food-friendly
-- C) Evening Land Seven Springs Chardonnay — minimalist biodynamic, high-acid, Eola-Amity mineral character
-- D) Trisaetum Ribbon Ridge Riesling — dry, mineral, saline, late-harvest potential
+- A) Bergström Sigrid Chardonnay: barrel-fermented, native yeast, Puligny-Montrachet comparisons
+- B) King Estate Pinot Gris: certified organic, stone fruit and melon, more texture than Italian expressions but still refreshing and food-friendly
+- C) Evening Land Seven Springs Chardonnay: minimalist biodynamic, high-acid, Eola-Amity mineral character
+- D) Trisaetum Ribbon Ridge Riesling: dry, mineral, saline, late-harvest potential
 
 **Correct: B**
 
@@ -251,7 +251,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 **Q4. What is the primary winemaking shift that defines the new generation of Oregon Chardonnay, distinguishing it from earlier Oregon styles?**
 - A) A move toward stainless steel fermentation and zero oak influence, producing cleaner, more neutral wines
 - B) A shift from unoaked, high-acid expressions toward heavily oaked, full malolactic California-style Chardonnay
-- C) A departure from heavy new oak and full MLF toward Burgundian techniques — barrel fermentation in neutral wood, lees aging, and selective malolactic use
+- C) A departure from heavy new oak and full MLF toward Burgundian techniques: barrel fermentation in neutral wood, lees aging, and selective malolactic use
 - D) The adoption of warm-climate picking dates to achieve higher alcohol and riper fruit character
 
 **Correct: C**
@@ -280,7 +280,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 
 **Q7. Rajat Parr is associated with Evening Land Vineyards and Seven Springs Vineyard. What is his background, and why does it matter as a guest-facing narrative?**
 - A) He is a Burgundy-trained viticulturist who transplanted traditional Champenois techniques to Oregon's Eola-Amity Hills
-- B) He is one of America's most celebrated sommeliers who became a winemaker, building Evening Land around a biodynamic vineyard he considers one of Oregon's finest sites — making him a credibility bridge for wine-educated guests
+- B) He is one of America's most celebrated sommeliers who became a winemaker, building Evening Land around a biodynamic vineyard he considers one of Oregon's finest sites, making him a credibility bridge for wine-educated guests
 - C) He is a former UC Davis professor who pioneered the study of Willamette Valley soil types and founded Evening Land as a research estate
 - D) He is the founding director of the Oregon Wine Board who established the Eola-Amity Hills as a distinct AVA
 
@@ -290,7 +290,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 
 **Q8. King Estate's operational significance in the Oregon white wine market is best described as which of the following?**
 - A) The smallest and most exclusive organic producer in Oregon, with distribution limited to fine dining accounts
-- B) The largest certified organic winery in the United States, producing Pinot Gris and Pinot Noir at commercial scale without sacrificing quality — making it the practical choice for high-volume hospitality programs with sustainability commitments
+- B) The largest certified organic winery in the United States, producing Pinot Gris and Pinot Noir at commercial scale without sacrificing quality, making it the practical choice for high-volume hospitality programs with sustainability commitments
 - C) A négociant producer that sources fruit from certified organic growers across Oregon but does not own its own vineyards
 - D) A single-vineyard estate producing Pinot Gris exclusively for export to European markets
 
@@ -301,7 +301,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 **Q9. A guest says they "don't drink Oregon white wine because the Chardonnay used to be too oaky and buttery." What is the most effective floor response, using a specific producer as your pivot?**
 - A) Agree with the guest and redirect them to a Washington Chardonnay instead
 - B) Explain that Oregon Chardonnay is now made exclusively in stainless steel with no oak contact, producing purely mineral expressions
-- C) Acknowledge that early Oregon Chardonnay had that style, then introduce them to Bergström Sigrid — a biodynamic, Burgundy-influenced wine that critics compare to top Puligny-Montrachet and that represents the new generation
+- C) Acknowledge that early Oregon Chardonnay had that style, then introduce them to Bergström Sigrid: a biodynamic, Burgundy-influenced wine that critics compare to top Puligny-Montrachet and that represents the new generation
 - D) Recommend an Oregon Pinot Gris as a substitute, noting that Oregon does not produce serious Chardonnay
 
 **Correct: C**
@@ -340,7 +340,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 
 **Q13. What is the key mechanism by which Oregon's cool climate benefits white wine quality, and why does it matter for food pairing?**
 - A) Cool temperatures produce very low natural sugar levels, requiring chaptalization to reach commercial alcohol, which adds body and rounds the wine's acidity
-- B) Cool temperatures allow grapes to develop phenolic and aromatic complexity while retaining high natural acidity — the structural foundation that keeps white wines vibrant, age-worthy, and broadly food-compatible
+- B) Cool temperatures allow grapes to develop phenolic and aromatic complexity while retaining high natural acidity: the structural foundation that keeps white wines vibrant, age-worthy, and broadly food-compatible
 - C) Cool temperatures delay harvest so far that grapes develop botrytis character, adding honey and glycerol to most Oregon white wines
 - D) Cool temperatures force early picking, producing low-alcohol, neutral wines that are best suited to dessert pairings
 
@@ -359,10 +359,10 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 ---
 
 **Q15. A guest who identifies as a natural wine enthusiast is looking for something "unusual and textured" from Oregon. Which white wine style is most appropriate, and what should you tell them about it?**
-- A) King Estate Pinot Gris — certified organic, stone fruit, medium-bodied, the largest organic estate in America
-- B) Lingua Franca Chardonnay — serious, structured, Burgundian, founded by Larry Stone MS
-- C) A skin-contact Oregon Pinot Gris — extended maceration with the pink Pinot Gris skins extracts tannin, amber color, and savory, oxidative character that has become a defining expression of Oregon's natural wine scene
-- D) Trisaetum Dry Riesling — mineral, saline, stony character from Ribbon Ridge marine sedimentary soils
+- A) King Estate Pinot Gris: certified organic, stone fruit, medium-bodied, the largest organic estate in America
+- B) Lingua Franca Chardonnay: serious, structured, Burgundian, founded by Larry Stone MS
+- C) A skin-contact Oregon Pinot Gris, extended maceration with the pink Pinot Gris skins extracts tannin, amber color, and savory, oxidative character that has become a defining expression of Oregon's natural wine scene
+- D) Trisaetum Dry Riesling: mineral, saline, stony character from Ribbon Ridge marine sedimentary soils
 
 **Correct: C**
 
@@ -380,8 +380,8 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 
 **Q17. Which of the following best describes the floor-positioning argument for including Oregon white wines as a range extension beyond Pinot Noir on a Pacific Northwest wine list?**
 - A) Oregon white wines should replace Washington Chardonnay on any serious list, as Oregon's quality is now definitively superior
-- B) Oregon white wines are priced so low that they function exclusively as house pours — they have no role in a prestige wine program
-- C) Oregon white wines address multiple guest segments simultaneously — Burgundy enthusiasts, natural wine devotees, food-and-pairing guests, and value buyers — while benefiting from the same cool-climate credibility that makes Oregon Pinot Noir compelling
+- B) Oregon white wines are priced so low that they function exclusively as house pours, they have no role in a prestige wine program
+- C) Oregon white wines address multiple guest segments simultaneously (Burgundy enthusiasts, natural wine devotees, food-and-pairing guests, and value buyers) while benefiting from the same cool-climate credibility that makes Oregon Pinot Noir compelling
 - D) Oregon white wines are best positioned only as food pairings with Pacific seafood; they lack the prestige to anchor a wine list
 
 **Correct: C**
@@ -400,7 +400,7 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 
 **Q19. Why does Oregon Pinot Gris' stylistic position between Italian and Alsatian expressions make it particularly valuable for a restaurant wine program?**
 - A) It is interchangeable with both styles, eliminating the need to carry Italian Pinot Grigio or Alsatian wines on the same list
-- B) Its combination of more body and texture than Italian Grigio with more freshness and food-focus than Alsace produces exceptional versatility — it functions as an aperitif, a pairing for a broad range of dishes, and a discovery wine for guests who know either the Italian or Alsatian expression
+- B) Its combination of more body and texture than Italian Grigio with more freshness and food-focus than Alsace produces exceptional versatility: it functions as an aperitif, a pairing for a broad range of dishes, and a discovery wine for guests who know either the Italian or Alsatian expression
 - C) Its price point is consistently lower than either Italian or Alsatian equivalents, making it the best value option regardless of guest preference
 - D) It is the only white wine style that pairs successfully with red meat preparations, giving it unique range on a menu
 
@@ -409,9 +409,9 @@ Oregon white wine is not a category in need of advocacy because the wines are ob
 ---
 
 **Q20. A corporate client managing a large hotel food and beverage program asks you to recommend a by-the-glass Oregon white wine that satisfies their sustainability reporting requirements, is available in commercial volume, and delivers consistent quality at an accessible price. What is your recommendation and rationale?**
-- A) Bergström Sigrid Chardonnay — biodynamic, estate-grown, nationally acclaimed, and widely distributed in commercial quantities
-- B) Evening Land Seven Springs Chardonnay — biodynamic, critical darling, priced at an accessible by-the-glass tier for large accounts
-- C) King Estate Pinot Gris — the largest certified organic winery in the United States, available across commercial tiers including the Acrobat label for high-volume programs, and consistently well-made at every tier
-- D) Eyrie Vineyards Pinot Gris — the founding Oregon Pinot Gris estate, certified organic, and produced in volumes sufficient for national hotel accounts
+- A) Bergström Sigrid Chardonnay: biodynamic, estate-grown, nationally acclaimed, and widely distributed in commercial quantities
+- B) Evening Land Seven Springs Chardonnay: biodynamic, critical darling, priced at an accessible by-the-glass tier for large accounts
+- C) King Estate Pinot Gris: the largest certified organic winery in the United States, available across commercial tiers including the Acrobat label for high-volume programs, and consistently well-made at every tier
+- D) Eyrie Vineyards Pinot Gris: the founding Oregon Pinot Gris estate, certified organic, and produced in volumes sufficient for national hotel accounts
 
 **Correct: C**

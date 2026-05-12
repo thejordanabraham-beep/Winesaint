@@ -2,10 +2,10 @@
 
 ---
 
-**Program:** Wine Saint Certified — Spain Mastery
+**Program:** Wine Saint Certified: Spain Mastery
 **Level:** Spain Mastery — Galicia (Beyond Rías Baixas)
 **Module:** 7
-**Audience:** Corporate hospitality professionals — servers, sommeliers, floor managers
+**Audience:** Corporate hospitality professionals: servers, sommeliers, floor managers
 **Estimated Duration:** 60–75 minutes
 **Prerequisites:** Wine Saint Certified Level 2 or equivalent
 
@@ -15,152 +15,152 @@
 
 By the end of this module, you will be able to:
 
-- Identify all five DOs of Galicia beyond Rías Baixas — Ribeira Sacra, Valdeorras, Ribeiro, Monterrei, and Rías Baixas — and articulate what distinguishes each in terms of geography, climate, and primary varieties
+- Identify all five DOs of Galicia beyond Rías Baixas; Ribeira Sacra, Valdeorras, Ribeiro, Monterrei, and Rías Baixas, and articulate what distinguishes each in terms of geography, climate, and primary varieties
 - Describe the extreme terraced viticulture of Ribeira Sacra, explain why nearly all vineyard work is performed by hand, and articulate how the river gorge microclimate differs from Galicia's Atlantic coast
 - Explain the five sub-zones of Ribeira Sacra and identify which is considered most prestigious for red wine production
 - Describe Mencía's flavor profile, its confirmed genetic origin as an ancient Iberian variety, and how it differs stylistically from both Tempranillo and Cabernet Franc despite superficial comparisons
 - Identify the key producers of Ribeira Sacra and Valdeorras, explain the Palacios family's significance across Galicia and Bierzo, and articulate the role of Raúl Pérez as the region's most celebrated winemaker
 - Explain Godello's near-extinction, its rescue in Valdeorras, its flavor profile and aging potential, and why it represents the sommelier's most compelling sell to Burgundy-loving guests
-- Describe Ribeiro's position as Galicia's historically oldest wine region and its primary white varieties — Treixadura, Torrontés Gallego, Loureira — distinguishing them from non-Galician counterparts
+- Describe Ribeiro's position as Galicia's historically oldest wine region and its primary white varieties; Treixadura, Torrontés Gallego, Loureira, distinguishing them from non-Galician counterparts
 - Apply targeted floor language and comparison frameworks for Mencía, Godello, and Ribeiro whites to convert guests unfamiliar with Galicia into enthusiastic repeat buyers
 
 ---
 
-## Section 1: Galicia's Wine Regions — The Complete Picture
+## Section 1: Galicia's Wine Regions, The Complete Picture
 
-Most guests who know Galician wine know one word: Albariño. That is not their fault. Rías Baixas was masterfully branded, exported aggressively, and arrived on restaurant lists at the precise moment the American market was hungry for crisp, aromatic seafood whites. The result: an entire wine culture — one of the most geographically diverse, historically deep, and qualitatively extraordinary in Spain — collapsed, in most guests' minds, into a single grape from a single DO.
+Most guests who know Galician wine know one word: Albariño. That is not their fault. Rías Baixas was masterfully branded, exported aggressively, and arrived on restaurant lists at the precise moment the American market was hungry for crisp, aromatic seafood whites. The result: an entire wine culture, one of the most geographically diverse, historically deep, and qualitatively extraordinary in Spain, collapsed, in most guests' minds, into a single grape from a single DO.
 
 Your job is to fix that.
 
-Galicia occupies the northwestern corner of the Iberian Peninsula, a green, mountainous, rain-soaked region that is recognizably different from any other part of Spain. Annual rainfall in coastal areas reaches 1,200–1,600mm. The landscape is carved by rivers — the Miño, the Sil, the Avia, the Limia — that cut deep gorges through granite and schist plateaus. The language spoken here is Galician (Galego), closely related to Portuguese and distinct from Castilian. The food culture is defined by seafood, pork, and corn bread. It is, in many ways, more Celtic than Iberian.
+Galicia occupies the northwestern corner of the Iberian Peninsula, a green, mountainous, rain-soaked region that is recognizably different from any other part of Spain. Annual rainfall in coastal areas reaches 1,200–1,600mm. The landscape is carved by rivers, the Miño, the Sil, the Avia, the Limia, that cut deep gorges through granite and schist plateaus. The language spoken here is Galician (Galego), closely related to Portuguese and distinct from Castilian. The food culture is defined by seafood, pork, and corn bread. It is, in many ways, more Celtic than Iberian.
 
 Beyond Rías Baixas, Galicia contains four additional DOs, each with a distinct identity:
 
-**Ribeira Sacra** lies inland in the provinces of Lugo and Ourense, in the dramatic gorge country where the Miño and Sil rivers converge. It is Spain's most vertically dramatic wine region, with near-vertical terraced vineyards carved into river gorges. Red wine — particularly Mencía — dominates, though whites from Godello and Albariño are also produced. Ribeira Sacra is the region that wine professionals discuss in hushed, excited tones; it has not yet broken into full public consciousness, which makes it the perfect sommelier's weapon.
+**Ribeira Sacra** lies inland in the provinces of Lugo and Ourense, in the dramatic gorge country where the Miño and Sil rivers converge. It is Spain's most vertically dramatic wine region, with near-vertical terraced vineyards carved into river gorges. Red wine, particularly Mencía, dominates, though whites from Godello and Albariño are also produced. Ribeira Sacra is the region that wine professionals discuss in hushed, excited tones; it has not yet broken into full public consciousness, which makes it the perfect sommelier's weapon.
 
-**Valdeorras** sits at Galicia's eastern edge, where the landscape begins its transition from Atlantic coast to the continental interior. This is Godello's home — the great white grape of inland Galicia, richer and more textural than Albariño, with stone fruit and mineral complexity and extraordinary aging potential. Valdeorras receives less rainfall than coastal Galicia and experiences warmer, drier summers, which suits Godello's need for longer hang time to develop complexity.
+**Valdeorras** sits at Galicia's eastern edge, where the landscape begins its transition from Atlantic coast to the continental interior. This is Godello's home, the great white grape of inland Galicia, richer and more textural than Albariño, with stone fruit and mineral complexity and extraordinary aging potential. Valdeorras receives less rainfall than coastal Galicia and experiences warmer, drier summers, which suits Godello's need for longer hang time to develop complexity.
 
-**Ribeiro** is Galicia's oldest and historically most important wine region, centered around the town of Ribadavia in the Avia River valley. For centuries, Ribeiro was Galicia's wine identity — its wines were exported to the British Isles in the Middle Ages and commanded high prices in Castilian markets. Rías Baixas and the Albariño export boom of the 1990s and 2000s overshadowed it commercially, but Ribeiro's indigenous white varieties — particularly Treixadura — are now experiencing a serious quality renaissance.
+**Ribeiro** is Galicia's oldest and historically most important wine region, centered around the town of Ribadavia in the Avia River valley. For centuries, Ribeiro was Galicia's wine identity, its wines were exported to the British Isles in the Middle Ages and commanded high prices in Castilian markets. Rías Baixas and the Albariño export boom of the 1990s and 2000s overshadowed it commercially, but Ribeiro's indigenous white varieties, particularly Treixadura, are now experiencing a serious quality renaissance.
 
 **Monterrei** occupies a small, somewhat isolated pocket in the extreme southeast of Galicia near the Portuguese border. It is Galicia's warmest, driest DO, with a more continental feel than any of the others. Mencía, Merenzao, Caíño Tinto, and Sousón lead the reds; Godello, Treixadura, and Doña Blanca anchor the whites.
 
-The thread uniting all five DOs — including Rías Baixas — is unmistakable: Atlantic or Atlantic-influenced climate; granite and schist soils; high natural acidity as a defining wine character; and a deep portfolio of indigenous varieties found nowhere else on earth.
+The thread uniting all five DOs, including Rías Baixas, is unmistakable: Atlantic or Atlantic-influenced climate; granite and schist soils; high natural acidity as a defining wine character; and a deep portfolio of indigenous varieties found nowhere else on earth.
 
-> **Pro Tip:** When introducing Galicia to a guest, the frame that works is contrast: "Galicia is Spain's other country — same latitude as Bordeaux, twice the rainfall, granite soil, and white wines that make Albariño look like the obvious choice rather than the interesting one." Let them taste a Treixadura from Ribeiro or a Godello from Valdeorras next to the Albariño on your list and the conversation writes itself.
+> **Pro Tip:** When introducing Galicia to a guest, the frame that works is contrast: "Galicia is Spain's other country, same latitude as Bordeaux, twice the rainfall, granite soil, and white wines that make Albariño look like the obvious choice rather than the interesting one." Let them taste a Treixadura from Ribeiro or a Godello from Valdeorras next to the Albariño on your list and the conversation writes itself.
 
 ---
 
-## Section 2: Ribeira Sacra — The Sacred River
+## Section 2: Ribeira Sacra, The Sacred River
 
-The name translates, roughly, as "sacred banks," and it is not an accident. The landscape of Ribeira Sacra has been drawing humans for millennia. Ancient Roman writers noted the vineyards on the gorge walls above the Sil and Miño rivers. Benedictine and Cistercian monasteries were established on the high plateaus above the gorges from the early medieval period, and their monks cultivated vines on the terraces below. The "sacred" designation reflects that monastic heritage — these river valleys were holy ground, worked by religious communities for over a thousand years before secular wine production became an economic enterprise.
+The name translates, roughly, as "sacred banks," and it is not an accident. The landscape of Ribeira Sacra has been drawing humans for millennia. Ancient Roman writers noted the vineyards on the gorge walls above the Sil and Miño rivers. Benedictine and Cistercian monasteries were established on the high plateaus above the gorges from the early medieval period, and their monks cultivated vines on the terraces below. The "sacred" designation reflects that monastic heritage, these river valleys were holy ground, worked by religious communities for over a thousand years before secular wine production became an economic enterprise.
 
 Today the monasteries are largely quiet. The vineyards remain, and they are among the most extraordinary in Europe.
 
-Ribeira Sacra DO encompasses portions of Lugo province in the north and Ourense province in the south. The geographic core is the gorge country where the Miño and Sil rivers converge — a landscape of sheer granite and schist walls dropping hundreds of meters to fast-moving rivers below. The vineyards cling to these walls on narrow terraces, some of which slope at 60 to 70 degrees — nearly vertical. There is no mechanical harvest here. There is no mechanical anything. Every operation, from canopy management to hand-harvesting, is performed by people working on slopes where a misstep is genuinely dangerous. In some vineyards, the only access is by boat on the river below, with harvested fruit brought down by pulley system or carried by hand.
+Ribeira Sacra DO encompasses portions of Lugo province in the north and Ourense province in the south. The geographic core is the gorge country where the Miño and Sil rivers converge, a landscape of sheer granite and schist walls dropping hundreds of meters to fast-moving rivers below. The vineyards cling to these walls on narrow terraces, some of which slope at 60 to 70 degrees, nearly vertical. There is no mechanical harvest here. There is no mechanical anything. Every operation, from canopy management to hand-harvesting, is performed by people working on slopes where a misstep is genuinely dangerous. In some vineyards, the only access is by boat on the river below, with harvested fruit brought down by pulley system or carried by hand.
 
 The labor intensity is extreme, and it is reflected in prices that are still remarkably modest by international standards. A wine that requires ten times the labor of a flat-terrain harvest costs, in most cases, less than thirty dollars at retail. This is the central Ribeira Sacra paradox: extraordinary effort, extraordinary wines, ordinary prices. It will not last forever.
 
-The climate inside the gorges is Ribeira Sacra's defining advantage. The plateau above the gorge walls — where the Atlantic rains arrive with full force — receives substantially more rainfall and cooler temperatures than the gorge floor. The gorges themselves create a sheltered, warmer microclimate that is significantly drier than coastal Galicia. The dark granite and schist walls absorb solar radiation during the day and radiate it back at night, effectively extending the growing season. Viticulturally, the gorge functions as a natural heat trap — warm enough to ripen Mencía fully, with the altitude of the surrounding plateau providing the cool nights that preserve acidity.
+The climate inside the gorges is Ribeira Sacra's defining advantage. The plateau above the gorge walls, where the Atlantic rains arrive with full force, receives substantially more rainfall and cooler temperatures than the gorge floor. The gorges themselves create a sheltered, warmer microclimate that is significantly drier than coastal Galicia. The dark granite and schist walls absorb solar radiation during the day and radiate it back at night, effectively extending the growing season. Viticulturally, the gorge functions as a natural heat trap, warm enough to ripen Mencía fully, with the altitude of the surrounding plateau providing the cool nights that preserve acidity.
 
-Soils are predominantly granite, slate, and schist — mineral, poor, and acidic. These are ancient, primordial materials with low nutrient content that force vines to root deeply, produce low yields, and express mineral character directly in the glass. The relationship between Ribeira Sacra's geology and its wines' characteristic graphite and slate minerality is not metaphorical. It is geochemical.
+Soils are predominantly granite, slate, and schist, mineral, poor, and acidic. These are ancient, primordial materials with low nutrient content that force vines to root deeply, produce low yields, and express mineral character directly in the glass. The relationship between Ribeira Sacra's geology and its wines' characteristic graphite and slate minerality is not metaphorical. It is geochemical.
 
-Ribeira Sacra is divided into five sub-zones: **Amandi**, **Chantada**, **Quiroga-Bibei**, **Ribeiras do Miño**, and **Ribeiras do Sil**. Amandi, located in the Sil gorge in Ourense province, is considered the most prestigious sub-zone for red wine production — its combination of steep granite terraces, sun exposure, and protected microclimate yields Mencía of the greatest concentration and aromatic complexity. Quiroga-Bibei, at higher elevation in the east, is gaining attention for both reds and whites with more structured, mineral character. Ribeiras do Sil encompasses the main Sil river canyon and contains the majority of the DO's production.
+Ribeira Sacra is divided into five sub-zones: **Amandi**, **Chantada**, **Quiroga-Bibei**, **Ribeiras do Miño**, and **Ribeiras do Sil**. Amandi, located in the Sil gorge in Ourense province, is considered the most prestigious sub-zone for red wine production, its combination of steep granite terraces, sun exposure, and protected microclimate yields Mencía of the greatest concentration and aromatic complexity. Quiroga-Bibei, at higher elevation in the east, is gaining attention for both reds and whites with more structured, mineral character. Ribeiras do Sil encompasses the main Sil river canyon and contains the majority of the DO's production.
 
-> **Pro Tip:** Guests visiting from wine-curious markets — New York, San Francisco, Chicago — increasingly recognize Ribeira Sacra by reputation even if they haven't tasted it. A simple visual description closes the sale: "These vineyards are carved into near-vertical cliffs above river gorges. Every grape is harvested by hand, some by boat. The wine in this glass required ten times the labor of a Napa Cabernet at a fraction of the price." Price-to-labor ratio is a compelling frame for guests who understand value.
+> **Pro Tip:** Guests visiting from wine-curious markets; New York, San Francisco, Chicago, increasingly recognize Ribeira Sacra by reputation even if they haven't tasted it. A simple visual description closes the sale: "These vineyards are carved into near-vertical cliffs above river gorges. Every grape is harvested by hand, some by boat. The wine in this glass required ten times the labor of a Napa Cabernet at a fraction of the price." Price-to-labor ratio is a compelling frame for guests who understand value.
 
 ---
 
-## Section 3: Mencía — Galicia's Great Red Grape
+## Section 3: Mencía, Galicia's Great Red Grape
 
-Mencía is, by any serious measure, one of the most compelling red varieties in Spain. It is also one of the most misunderstood — including, until recently, by the scientists who study it.
+Mencía is, by any serious measure, one of the most compelling red varieties in Spain. It is also one of the most misunderstood, including, until recently, by the scientists who study it.
 
 For much of the twentieth century, Mencía was assumed to be related to, or even identical with, Cabernet Franc. The wines share surface similarities: medium body, high acidity, pronounced perfume, red and dark berry fruit character, an herbal or slightly green edge in cooler vintages, and a structural elegance that distinguishes them from Spain's heavier southern varieties. The comparison made intuitive sense, and it made a useful marketing shortcut. "Like Cabernet Franc but Spanish" is not the worst floor script.
 
-It is, however, wrong. DNA analysis published in the 2000s definitively disproved the Cabernet Franc connection. Mencía is not related to any of France's major varieties. It is an ancient Iberian grape, genetically related to Jaén — a variety found in southern Spain and Portugal — and its roots in the northwestern Iberian Peninsula predate the Roman period. It is indigenous in the deepest sense: a grape that evolved in this specific landscape, in these specific soils, under these specific climatic conditions.
+It is, however, wrong. DNA analysis published in the 2000s definitively disproved the Cabernet Franc connection. Mencía is not related to any of France's major varieties. It is an ancient Iberian grape, genetically related to Jaén, a variety found in southern Spain and Portugal, and its roots in the northwestern Iberian Peninsula predate the Roman period. It is indigenous in the deepest sense: a grape that evolved in this specific landscape, in these specific soils, under these specific climatic conditions.
 
-What Mencía produces in Ribeira Sacra is distinctive and, once tasted, unmistakable. The color is medium ruby — rarely deep or opaque, often translucent at the rim. The aromatics are the wine's signature: violet, iris, red cherry, wild strawberry, red currant, with a herbal note (thyme, garrigue, sometimes a light eucalyptus edge) and, from the best granite and schist sites, a mineral quality that the tasting vocabulary consistently reaches for graphite, crushed stone, or wet slate to describe. The palate is medium-bodied, with firm but refined tannins and the high natural acidity that the gorge climate preserves even as the fruit ripens to full maturity. Alcohol is typically 12.5–13.5%, modest by modern Spanish red standards.
+What Mencía produces in Ribeira Sacra is distinctive and, once tasted, unmistakable. The color is medium ruby, rarely deep or opaque, often translucent at the rim. The aromatics are the wine's signature: violet, iris, red cherry, wild strawberry, red currant, with a herbal note (thyme, garrigue, sometimes a light eucalyptus edge) and, from the best granite and schist sites, a mineral quality that the tasting vocabulary consistently reaches for graphite, crushed stone, or wet slate to describe. The palate is medium-bodied, with firm but refined tannins and the high natural acidity that the gorge climate preserves even as the fruit ripens to full maturity. Alcohol is typically 12.5–13.5%, modest by modern Spanish red standards.
 
-The comparison to Pinot Noir is more useful than the Cabernet Franc comparison — not because the varieties are related (they are not), but because the stylistic overlap is genuine: transparency, aromatic complexity, texture-driven structure, the capacity for site expression. A serious Ribeira Sacra Mencía from Amandi tastes different from one produced in Ribeiras do Sil. The terroir speaks through the grape. This is the mark of a great variety.
+The comparison to Pinot Noir is more useful than the Cabernet Franc comparison; not because the varieties are related (they are not), but because the stylistic overlap is genuine: transparency, aromatic complexity, texture-driven structure, the capacity for site expression. A serious Ribeira Sacra Mencía from Amandi tastes different from one produced in Ribeiras do Sil. The terroir speaks through the grape. This is the mark of a great variety.
 
-Key producers shape the international conversation about Mencía. **Guímaro**, run by Pedro Rodríguez, produces some of the most terroir-pure expressions, with separate bottlings from different sub-zones and vineyard parcels. **Envínate** (a collective of four sommeliers-turned-winemakers) produces the celebrated **Lousas** bottling — fresh, precise, and increasingly referenced in European natural wine discussions. **D. Ventura** works from extremely old-vine parcels in the Quiroga-Bibei sub-zone, producing mineral, structured Mencía of notable complexity and aging potential.
+Key producers shape the international conversation about Mencía. **Guímaro**, run by Pedro Rodríguez, produces some of the most terroir-pure expressions, with separate bottlings from different sub-zones and vineyard parcels. **Envínate** (a collective of four sommeliers-turned-winemakers) produces the celebrated **Lousas** bottling, fresh, precise, and increasingly referenced in European natural wine discussions. **D. Ventura** works from extremely old-vine parcels in the Quiroga-Bibei sub-zone, producing mineral, structured Mencía of notable complexity and aging potential.
 
-**Raúl Pérez** is the figure whose name most fully defines Ribeira Sacra's arrival as a serious wine region. Born in Bierzo (the Castilla y León DO immediately to the east of Galicia, also planted heavily to Mencía), Pérez trained as a winemaker, traveled widely, and returned to northwestern Spain to produce wines that have, over the past two decades, become some of the most collected and discussed in the country. His **Ultreia** range from Bierzo's granite soils set a new benchmark for what Mencía can achieve. His **Sketch** bottling — made from Albariño in Rías Baixas — is among Spain's most unusual and celebrated white wines. As a consultant, Pérez has worked with producers across Spain, Portugal, and beyond. His involvement in a project is, in the natural wine and sommelier communities, a significant signal of quality and seriousness.
+**Raúl Pérez** is the figure whose name most fully defines Ribeira Sacra's arrival as a serious wine region. Born in Bierzo (the Castilla y León DO immediately to the east of Galicia, also planted heavily to Mencía), Pérez trained as a winemaker, traveled widely, and returned to northwestern Spain to produce wines that have, over the past two decades, become some of the most collected and discussed in the country. His **Ultreia** range from Bierzo's granite soils set a new benchmark for what Mencía can achieve. His **Sketch** bottling, made from Albariño in Rías Baixas, is among Spain's most unusual and celebrated white wines. As a consultant, Pérez has worked with producers across Spain, Portugal, and beyond. His involvement in a project is, in the natural wine and sommelier communities, a significant signal of quality and seriousness.
 
-A note on Bierzo: this DO sits just across the regional boundary in Castilla y León, but its viticulture, variety portfolio, and wine character are closely related to Ribeira Sacra. Both regions grow Mencía on granite and schist, both produce wines of similar style, and the Álvaro Palacios connection bridges them directly — his **Descendientes de J. Palacios** project in Bierzo (particularly the **Pétalos del Bierzo** bottling and single-vineyard wines like La Faraona) is one of Spain's most important red wine estates.
+A note on Bierzo: this DO sits just across the regional boundary in Castilla y León, but its viticulture, variety portfolio, and wine character are closely related to Ribeira Sacra. Both regions grow Mencía on granite and schist, both produce wines of similar style, and the Álvaro Palacios connection bridges them directly, his **Descendientes de J. Palacios** project in Bierzo (particularly the **Pétalos del Bierzo** bottling and single-vineyard wines like La Faraona) is one of Spain's most important red wine estates.
 
-> **Pro Tip:** The Mencía comparison script that works best on the floor: "If your guest loves Pinot Noir or Cabernet Franc and wants something with similar elegance but completely different terroir — ancient granite gorges, near-vertical vineyards, a grape that's been growing here for thousands of years — Ribeira Sacra Mencía is exactly the answer. It drinks like Burgundy thinks about Spain." For guests who know natural wine, the Envínate Lousas or a Raúl Pérez bottle opens the conversation immediately.
+> **Pro Tip:** The Mencía comparison script that works best on the floor: "If your guest loves Pinot Noir or Cabernet Franc and wants something with similar elegance but completely different terroir, ancient granite gorges, near-vertical vineyards, a grape that's been growing here for thousands of years; Ribeira Sacra Mencía is exactly the answer. It drinks like Burgundy thinks about Spain." For guests who know natural wine, the Envínate Lousas or a Raúl Pérez bottle opens the conversation immediately.
 
 ---
 
-## Section 4: Valdeorras — Godello's Home
+## Section 4: Valdeorras, Godello's Home
 
-Valdeorras sits at Galicia's eastern edge, where the mountains begin their gradual descent toward the Castilian plateau and the Atlantic's influence diminishes. It is the most inland of Galicia's DOs, more continental in character than Ribeira Sacra or Rías Baixas, with warmer summers, colder winters, and less annual rainfall. The Sil River runs through it here, though at a lower elevation and calmer gradient than in the dramatic gorge country to the west. The landscapes are still beautiful — granite hills, slate outcroppings, small river valley vineyards — but the overall feel is quieter and more agricultural than Ribeira Sacra's cinematic drama.
+Valdeorras sits at Galicia's eastern edge, where the mountains begin their gradual descent toward the Castilian plateau and the Atlantic's influence diminishes. It is the most inland of Galicia's DOs, more continental in character than Ribeira Sacra or Rías Baixas, with warmer summers, colder winters, and less annual rainfall. The Sil River runs through it here, though at a lower elevation and calmer gradient than in the dramatic gorge country to the west. The landscapes are still beautiful, granite hills, slate outcroppings, small river valley vineyards, but the overall feel is quieter and more agricultural than Ribeira Sacra's cinematic drama.
 
 This is Godello's heartland.
 
-Godello is, without qualification, one of the great white grape varieties of Europe. It produces wines of real textural weight — fuller-bodied than Albariño, less aromatic in the piercing citrus-forward sense, but more complex and more serious in the way that fine white Burgundy is serious. The flavor profile centers on stone fruit (white peach, apricot, nectarine), citrus pith, and a mineral undercurrent that the granite and schist soils of Valdeorras and Ribeira Sacra amplify. With oak treatment and extended lees contact, Godello develops hazelnut, brioche, and cream notes alongside the fruit — a full, textured, age-worthy wine that holds its shape for a decade or more in good vintages.
+Godello is, without qualification, one of the great white grape varieties of Europe. It produces wines of real textural weight, fuller-bodied than Albariño, less aromatic in the piercing citrus-forward sense, but more complex and more serious in the way that fine white Burgundy is serious. The flavor profile centers on stone fruit (white peach, apricot, nectarine), citrus pith, and a mineral undercurrent that the granite and schist soils of Valdeorras and Ribeira Sacra amplify. With oak treatment and extended lees contact, Godello develops hazelnut, brioche, and cream notes alongside the fruit, a full, textured, age-worthy wine that holds its shape for a decade or more in good vintages.
 
-The aging potential of top Godello is not theoretical. Bottles from respected producers, given eight to twelve years in good cellaring conditions, develop extraordinary complexity — the fruit evolves, the mineral character integrates and deepens, and the texture gains the kind of weight and presence that makes Burgundy lovers stop and pay attention. This is not a grape for casual seafood pairing and immediate drinking (though it works magnificently in that role too). It is a grape for serious white wine.
+The aging potential of top Godello is not theoretical. Bottles from respected producers, given eight to twelve years in good cellaring conditions, develop extraordinary complexity, the fruit evolves, the mineral character integrates and deepens, and the texture gains the kind of weight and presence that makes Burgundy lovers stop and pay attention. This is not a grape for casual seafood pairing and immediate drinking (though it works magnificently in that role too). It is a grape for serious white wine.
 
-The near-extinction story is important, and it is worth knowing. By the late 1960s and early 1970s, Godello had nearly disappeared from Galician vineyards. The reasons were practical: phylloxera had devastated the region's viticulture in the late nineteenth century, and when replanting occurred, producers chose higher-yielding, easier-to-manage varieties. Godello was low-yielding, difficult to manage, and commercially undervalued. The vineyards that remained were old, neglected, and economically marginal. A small group of dedicated producers in Valdeorras recognized what was being lost and organized to rescue it — replanting from surviving old-vine material, convincing neighbors to do the same, and investing in quality winemaking to demonstrate what the variety could produce. By the 1980s and 1990s, the rescue was confirmed. Godello was back.
+The near-extinction story is important, and it is worth knowing. By the late 1960s and early 1970s, Godello had nearly disappeared from Galician vineyards. The reasons were practical: phylloxera had devastated the region's viticulture in the late nineteenth century, and when replanting occurred, producers chose higher-yielding, easier-to-manage varieties. Godello was low-yielding, difficult to manage, and commercially undervalued. The vineyards that remained were old, neglected, and economically marginal. A small group of dedicated producers in Valdeorras recognized what was being lost and organized to rescue it, replanting from surviving old-vine material, convincing neighbors to do the same, and investing in quality winemaking to demonstrate what the variety could produce. By the 1980s and 1990s, the rescue was confirmed. Godello was back.
 
-**Guitián** is the reference estate for Godello in a fresh, unoaked style — the wine that most wine professionals first encounter and that demonstrates Godello's citrus, stone fruit, and mineral character in its most accessible form. For guests new to the variety, Guitián is the entry point.
+**Guitián** is the reference estate for Godello in a fresh, unoaked style, the wine that most wine professionals first encounter and that demonstrates Godello's citrus, stone fruit, and mineral character in its most accessible form. For guests new to the variety, Guitián is the entry point.
 
-**Rafael Palacios** and his estate wine **As Sortes** represent Godello at its fullest, most complex, and most age-worthy expression. As Sortes is a wine of genuine international stature — full-bodied, layered, deeply mineral, capable of fifteen or more years of development. Rafael is the brother of Álvaro Palacios (Priorat, Bierzo), and his decision to focus entirely on Galicia and Godello has produced one of Spain's most important white wine estates. The family connection is worth understanding: the Palacios family has effectively defined two generations of Spanish wine ambition, with Álvaro in the south and east (Priorat, Bierzo) and Rafael in the northwest (Galicia).
+**Rafael Palacios** and his estate wine **As Sortes** represent Godello at its fullest, most complex, and most age-worthy expression. As Sortes is a wine of genuine international stature, full-bodied, layered, deeply mineral, capable of fifteen or more years of development. Rafael is the brother of Álvaro Palacios (Priorat, Bierzo), and his decision to focus entirely on Galicia and Godello has produced one of Spain's most important white wine estates. The family connection is worth understanding: the Palacios family has effectively defined two generations of Spanish wine ambition, with Álvaro in the south and east (Priorat, Bierzo) and Rafael in the northwest (Galicia).
 
-**Telmo Rodríguez**, one of Spain's most important and widely traveled winemakers, produces **Gaba do Xil** from Valdeorras — a fresher, more immediately approachable style that showcases Godello's citrus and mineral character at an accessible price point.
+**Telmo Rodríguez**, one of Spain's most important and widely traveled winemakers, produces **Gaba do Xil** from Valdeorras, a fresher, more immediately approachable style that showcases Godello's citrus and mineral character at an accessible price point.
 
-> **Pro Tip:** The Godello sell to a white Burgundy guest is direct and honest: "This is the white wine that Burgundy lovers who don't know it are missing. Same textural weight, similar mineral complexity, better value, and — if you give it eight years in your cellar — extraordinary." For guests who love Viognier or white Rhône, frame it differently: "Godello has some of that stone fruit richness, but with much higher acidity and a mineral drive that keeps it precise rather than heavy." Both comparisons are accurate, and both open doors.
+> **Pro Tip:** The Godello sell to a white Burgundy guest is direct and honest: "This is the white wine that Burgundy lovers who don't know it are missing. Same textural weight, similar mineral complexity, better value, and, if you give it eight years in your cellar, extraordinary." For guests who love Viognier or white Rhône, frame it differently: "Godello has some of that stone fruit richness, but with much higher acidity and a mineral drive that keeps it precise rather than heavy." Both comparisons are accurate, and both open doors.
 
 ---
 
-## Section 5: Ribeiro — Galicia's Oldest Wine Region
+## Section 5: Ribeiro, Galicia's Oldest Wine Region
 
-Long before Albariño was a marketing phenomenon, before Ribeira Sacra's terraced vineyards drew international attention, before Valdeorras rescued Godello from obscurity, there was Ribeiro. Centered around the town of Ribadavia in the Avia River valley of Ourense province, Ribeiro was for centuries the wine identity of Galicia — its commercial engine, its export product, and its viticultural heartland.
+Long before Albariño was a marketing phenomenon, before Ribeira Sacra's terraced vineyards drew international attention, before Valdeorras rescued Godello from obscurity, there was Ribeiro. Centered around the town of Ribadavia in the Avia River valley of Ourense province, Ribeiro was for centuries the wine identity of Galicia, its commercial engine, its export product, and its viticultural heartland.
 
-Medieval records document Ribeiro wine shipments to the British Isles. Castilian royal courts consumed it in quantity. In the sixteenth and seventeenth centuries, Ribeiro was among the most commercially significant wine regions in the entire Iberian Peninsula. The region's name — from the Latin for "riverbank" — describes its fundamental geography: valley vineyards along the Avia, Miño, and Arnoia rivers, protected by surrounding hills, on schist and granite soils that have been cultivated for at least two thousand years.
+Medieval records document Ribeiro wine shipments to the British Isles. Castilian royal courts consumed it in quantity. In the sixteenth and seventeenth centuries, Ribeiro was among the most commercially significant wine regions in the entire Iberian Peninsula. The region's name, from the Latin for "riverbank", describes its fundamental geography: valley vineyards along the Avia, Miño, and Arnoia rivers, protected by surrounding hills, on schist and granite soils that have been cultivated for at least two thousand years.
 
-The rise of Rías Baixas in the late twentieth century is largely responsible for Ribeiro's current low international profile. When Albariño was identified as a marketable, exportable white grape and Rías Baixas was granted DO status in 1988, wine importers, exporters, and press focused their energy there. Ribeiro — with its more complex variety portfolio, more traditional winemaking, and less obviously international-market-ready flavor profile — was passed over. It has been quietly producing excellent wine ever since, largely for domestic consumption.
+The rise of Rías Baixas in the late twentieth century is largely responsible for Ribeiro's current low international profile. When Albariño was identified as a marketable, exportable white grape and Rías Baixas was granted DO status in 1988, wine importers, exporters, and press focused their energy there. Ribeiro, with its more complex variety portfolio, more traditional winemaking, and less obviously international-market-ready flavor profile, was passed over. It has been quietly producing excellent wine ever since, largely for domestic consumption.
 
-Ribeiro's white variety portfolio is its greatest asset and its most significant point of differentiation from the rest of Galicia. **Treixadura** is the soul of Ribeiro — an indigenous white variety that produces wines of substantial body, aromatic complexity (white flowers, stone fruit, citrus zest, herbs), and the high natural acidity that defines all serious Galician white wine. Treixadura is often blended with other local varieties: **Loureira** adds aromatic intensity and floral character; **Albariño** contributes citrus and saline minerality; **Torrontés Gallego** — critically distinct from the Argentine Torrontés, which is a different grape entirely despite sharing the name — contributes body and a slightly more neutral aromatic contribution. These blends, when made well, produce wines of real complexity and interest that reward comparison with white Burgundy or high-end Loire Chenin Blanc in their capacity for structure and aging.
+Ribeiro's white variety portfolio is its greatest asset and its most significant point of differentiation from the rest of Galicia. **Treixadura** is the soul of Ribeiro, an indigenous white variety that produces wines of substantial body, aromatic complexity (white flowers, stone fruit, citrus zest, herbs), and the high natural acidity that defines all serious Galician white wine. Treixadura is often blended with other local varieties: **Loureira** adds aromatic intensity and floral character; **Albariño** contributes citrus and saline minerality; **Torrontés Gallego**, critically distinct from the Argentine Torrontés, which is a different grape entirely despite sharing the name, contributes body and a slightly more neutral aromatic contribution. These blends, when made well, produce wines of real complexity and interest that reward comparison with white Burgundy or high-end Loire Chenin Blanc in their capacity for structure and aging.
 
-The red variety portfolio reflects indigenous Galician varieties found across the region: **Caiño Tinto**, **Brancellao**, **Ferrón**, **Sousón** — old vines, distinctive flavors, and a growing interest from natural wine producers and quality-focused estates looking to rescue varieties that were nearly abandoned alongside the region itself.
+The red variety portfolio reflects indigenous Galician varieties found across the region: **Caiño Tinto**, **Brancellao**, **Ferrón**, **Sousón**, old vines, distinctive flavors, and a growing interest from natural wine producers and quality-focused estates looking to rescue varieties that were nearly abandoned alongside the region itself.
 
 The terroir of Ribeiro is schist and granite, river valley, with elevations ranging from 75 to 600 meters depending on the specific vineyard. The climate is moderated by surrounding hills that reduce Atlantic rainfall compared to coastal Galicia but maintain high humidity and the acidity-preserving cool nights that make Galician whites what they are.
 
-**Do Ferreiro** is the most internationally recognized Ribeiro producer, though the estate is perhaps better known for its Rías Baixas Albariño — its Ribeiro bottlings are a quieter statement of the region's potential. **Coto de Gomariz** produces benchmark Treixadura-led whites and has been central to the region's quality revival. **Viña Mein** has long been considered one of Ribeiro's finest estates, with aromatic, complex whites from native varieties that reward both immediate drinking and cellaring.
+**Do Ferreiro** is the most internationally recognized Ribeiro producer, though the estate is perhaps better known for its Rías Baixas Albariño, its Ribeiro bottlings are a quieter statement of the region's potential. **Coto de Gomariz** produces benchmark Treixadura-led whites and has been central to the region's quality revival. **Viña Mein** has long been considered one of Ribeiro's finest estates, with aromatic, complex whites from native varieties that reward both immediate drinking and cellaring.
 
-> **Pro Tip:** Ribeiro whites are the sommelier's secret weapon for guests who are tired of Albariño but still want something Spanish, white, and food-friendly. The pitch: "This is where Galician wine started — the oldest wine region in the area, varieties that have been here for thousands of years, and a style that's richer and more complex than Albariño without losing any of the acidity. It's what the locals actually drink." That combination of history, locality, and discovery-framing works on sophisticated guests.
+> **Pro Tip:** Ribeiro whites are the sommelier's secret weapon for guests who are tired of Albariño but still want something Spanish, white, and food-friendly. The pitch: "This is where Galician wine started, the oldest wine region in the area, varieties that have been here for thousands of years, and a style that's richer and more complex than Albariño without losing any of the acidity. It's what the locals actually drink." That combination of history, locality, and discovery-framing works on sophisticated guests.
 
 ---
 
-## Section 6: Floor Application — Selling Galicia
+## Section 6: Floor Application, Selling Galicia
 
-The central challenge of selling Galician wine — beyond Albariño — is that almost no guest walks in the door asking for Ribeira Sacra Mencía or Valdeorras Godello. The opportunity is created, not captured. Your job is to be the person who introduces a guest to something they didn't know they were looking for and makes them feel both educated and grateful for the discovery. Done correctly, this is one of the most satisfying wine sales a floor professional can make. Done repeatedly, it builds the kind of guest loyalty that generates regulars.
+The central challenge of selling Galician wine, beyond Albariño, is that almost no guest walks in the door asking for Ribeira Sacra Mencía or Valdeorras Godello. The opportunity is created, not captured. Your job is to be the person who introduces a guest to something they didn't know they were looking for and makes them feel both educated and grateful for the discovery. Done correctly, this is one of the most satisfying wine sales a floor professional can make. Done repeatedly, it builds the kind of guest loyalty that generates regulars.
 
 **The Mencía Pitch**
 
 The guest: someone who ordered Pinot Noir last time, or who mentions Burgundy or Loire reds as a reference, or who is browsing the wine list with that expression that says "I'd like something interesting."
 
-The move: "Have you ever had Mencía from Ribeira Sacra? It's a Spanish red that doesn't taste like most Spanish reds — elegant, perfumed, high acidity, incredible minerality. The vineyards are carved into near-vertical cliffs above river gorges. It's unlike anything else I can put in front of you tonight, and it's going to work beautifully with what you ordered." Pause. Let them engage. If they're curious, you have them.
+The move: "Have you ever had Mencía from Ribeira Sacra? It's a Spanish red that doesn't taste like most Spanish reds, elegant, perfumed, high acidity, incredible minerality. The vineyards are carved into near-vertical cliffs above river gorges. It's unlike anything else I can put in front of you tonight, and it's going to work beautifully with what you ordered." Pause. Let them engage. If they're curious, you have them.
 
-For Pinot Noir lovers specifically, the comparison is accurate and useful: both varieties reward transparency, site expression, and medium-bodied elegance over power. For guests who cite Cabernet Franc, explain that the comparison is intuitive but the genetic reality is different — Mencía is an ancient Iberian variety, indigenous to this specific landscape.
+For Pinot Noir lovers specifically, the comparison is accurate and useful: both varieties reward transparency, site expression, and medium-bodied elegance over power. For guests who cite Cabernet Franc, explain that the comparison is intuitive but the genetic reality is different; Mencía is an ancient Iberian variety, indigenous to this specific landscape.
 
 **The Godello Pitch**
 
 The guest: someone who drinks white Burgundy, or who responds to mineral, textural whites, or who has finished their Albariño and wants something with more weight.
 
-The move: "This is what I'd put against a good Macon or a village Burgundy. Godello from Valdeorras — fuller-bodied than Albariño, stone fruit, real mineral character, and if you're the kind of person who ages white wine, it'll be extraordinary in eight years. Tonight it's going to be excellent." The Burgundy comparison is honest — good Godello at age earns the comparison — and it frames the grape as serious rather than exotic.
+The move: "This is what I'd put against a good Macon or a village Burgundy. Godello from Valdeorras, fuller-bodied than Albariño, stone fruit, real mineral character, and if you're the kind of person who ages white wine, it'll be extraordinary in eight years. Tonight it's going to be excellent." The Burgundy comparison is honest, good Godello at age earns the comparison, and it frames the grape as serious rather than exotic.
 
 Rafael Palacios' As Sortes, when it appears on a list, is the wine to name-drop: "This is made by the brother of Álvaro Palacios, who put Priorat on the map. Rafael moved to Galicia and decided Godello was the most underrated white grape in Europe. He might be right."
 
 **The Raúl Pérez Name-Drop**
 
-For guests who indicate knowledge of natural wine, Spanish wine, or European wine culture more broadly, Raúl Pérez is a signal. His name carries real weight in sommelier and wine-enthusiast circles. If your property carries anything associated with him — Ultreia from Bierzo, Sketch Albariño, any of his Ribeira Sacra work — the mention is an opener, not a closer. It tells the guest they are in the presence of someone who knows something they probably don't, and it invites them into the conversation.
+For guests who indicate knowledge of natural wine, Spanish wine, or European wine culture more broadly, Raúl Pérez is a signal. His name carries real weight in sommelier and wine-enthusiast circles. If your property carries anything associated with him; Ultreia from Bierzo, Sketch Albariño, any of his Ribeira Sacra work, the mention is an opener, not a closer. It tells the guest they are in the presence of someone who knows something they probably don't, and it invites them into the conversation.
 
 **Ribeiro Whites as a Restaurant Move**
 
-Ribeiro whites — particularly Treixadura-led blends — are excellent by-the-glass options for tables ordering seafood, particularly if the table is split between Albariño-familiar guests and guests who want something different. Frame it as "Galician wine before Albariño was famous" and let the wine make its own argument.
+Ribeiro whites, particularly Treixadura-led blends, are excellent by-the-glass options for tables ordering seafood, particularly if the table is split between Albariño-familiar guests and guests who want something different. Frame it as "Galician wine before Albariño was famous" and let the wine make its own argument.
 
 **Food Pairing Framework**
 
@@ -168,9 +168,9 @@ Ribeira Sacra Mencía: salmon (the acidity cuts through the fat beautifully), oc
 
 Godello (Valdeorras): roast chicken, lobster, rich fish preparations, anything with butter sauce. The textural weight of Godello supports richer dishes that would overwhelm Albariño.
 
-Ribeiro whites: seafood tapas, percebes, razor clams, pulpo — the same seafood pairings that work for Albariño but with a richer, more herbal frame that adds complexity to the pairing.
+Ribeiro whites: seafood tapas, percebes, razor clams, pulpo, the same seafood pairings that work for Albariño but with a richer, more herbal frame that adds complexity to the pairing.
 
-> **Pro Tip:** Build a Galicia tasting flight for adventurous guests when volume allows: Ribeiro Treixadura, Valdeorras Godello, Rías Baixas Albariño side by side. Ask them to identify the differences. Almost every guest who does this flight becomes a repeat buyer of at least one of the three. The exercise teaches and sells simultaneously — and it positions your program as the kind of place where wine education happens at the table.
+> **Pro Tip:** Build a Galicia tasting flight for adventurous guests when volume allows: Ribeiro Treixadura, Valdeorras Godello, Rías Baixas Albariño side by side. Ask them to identify the differences. Almost every guest who does this flight becomes a repeat buyer of at least one of the three. The exercise teaches and sells simultaneously, and it positions your program as the kind of place where wine education happens at the table.
 
 ---
 
@@ -190,13 +190,13 @@ Ribeiro whites: seafood tapas, percebes, razor clams, pulpo — the same seafood
 | Rafael Palacios | Álvaro Palacios' brother; produces As Sortes Godello from Valdeorras; one of Spain's most important white wine estates; benchmark for age-worthy Godello |
 | As Sortes | Rafael Palacios' flagship Valdeorras Godello; full, complex, mineral, age-worthy; frequently cited as one of Spain's finest white wines |
 | Torrontés Gallego | Indigenous Galician white variety used in Ribeiro blends; distinct from Argentine Torrontés (a different variety despite the shared name); contributes body to blends |
-| Llicorella | Not Galician — black slate and quartzite soil of Priorat (included as a contrast term); distinguishes Priorat's soil from Galicia's granite and schist |
+| Llicorella | Not Galician, black slate and quartzite soil of Priorat (included as a contrast term); distinguishes Priorat's soil from Galicia's granite and schist |
 | Loureira | Indigenous Galician white variety; grown in Rías Baixas and Ribeiro; contributes floral aromatics and citrus character to blends |
 | Monterrei | Galicia's southernmost and warmest DO, near the Portuguese border; more continental climate; Mencía and Godello are primary varieties; least internationally known of Galicia's five DOs |
 
 ---
 
-## Quiz — Galicia Beyond Rías Baixas: Ribeira Sacra, Godello, and Spain's Hidden White Wine Treasures
+## Quiz, Galicia Beyond Rías Baixas: Ribeira Sacra, Godello, and Spain's Hidden White Wine Treasures
 
 **Instructions:** Select the best answer. All answers can be found in this module.
 
@@ -283,17 +283,17 @@ Ribeiro whites: seafood tapas, percebes, razor clams, pulpo — the same seafood
 ---
 
 **Q9. Rafael Palacios is best known for which wine and DO?**
-- A) Pétalos del Bierzo — Bierzo
-- B) Sketch — Rías Baixas
-- C) As Sortes — Valdeorras
-- D) Lousas — Ribeira Sacra
+- A) Pétalos del Bierzo; Bierzo
+- B) Sketch; Rías Baixas
+- C) As Sortes; Valdeorras
+- D) Lousas; Ribeira Sacra
 
 **Correct: C**
 
 ---
 
 **Q10. What is the family relationship between Rafael Palacios and Álvaro Palacios?**
-- A) They are unrelated — both share the name Palacios by coincidence
+- A) They are unrelated, both share the name Palacios by coincidence
 - B) Álvaro is Rafael's son; Rafael founded the family wine estates
 - C) They are brothers; Álvaro focuses on Priorat and Bierzo while Rafael focuses on Galicia
 - D) They are cousins who studied winemaking together in Bordeaux before returning to Spain
@@ -313,7 +313,7 @@ Ribeiro whites: seafood tapas, percebes, razor clams, pulpo — the same seafood
 ---
 
 **Q12. The Torrontés Gallego grown in Ribeiro is best described as which of the following?**
-- A) Identical to Argentine Torrontés — both are the same grape variety with different local names
+- A) Identical to Argentine Torrontés, both are the same grape variety with different local names
 - B) A distinct indigenous Galician variety that shares a name but is genetically unrelated to Argentine Torrontés
 - C) A crossing of Muscat and Albariño, created in the nineteenth century to add aromatic intensity to Ribeiro blends
 - D) A synonym for Loureira when used in the Ribeiro appellation
@@ -333,10 +333,10 @@ Ribeiro whites: seafood tapas, percebes, razor clams, pulpo — the same seafood
 ---
 
 **Q14. Which producer and wine does this module identify as the reference estate for fresh, unoaked Godello in Valdeorras?**
-- A) Rafael Palacios — As Sortes
-- B) Telmo Rodríguez — Gaba do Xil
-- C) Guitián — Guitián Godello
-- D) Do Ferreiro — Cepas Vellas
+- A) Rafael Palacios; As Sortes
+- B) Telmo Rodríguez; Gaba do Xil
+- C) Guitián; Guitián Godello
+- D) Do Ferreiro; Cepas Vellas
 
 **Correct: C**
 
