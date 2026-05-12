@@ -6,6 +6,17 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import type { CollectionConfig } from 'payload'
 
+// ── Wine Saint Certified — extracted collections ──
+import { Users } from './payload/collections/Users.ts'
+import {
+  Lessons,
+  Exercises,
+  UserProgress,
+  Exams,
+  ExamAttempts,
+  Certificates,
+} from './payload/collections/learn/index.ts'
+
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
 
@@ -13,24 +24,8 @@ const dirname = path.dirname(filename)
 const isProduction = process.env.NODE_ENV === 'production' && process.env.BLOB_READ_WRITE_TOKEN
 
 // ============ COLLECTIONS ============
-
-const Users: CollectionConfig = {
-  slug: 'users',
-  admin: { useAsTitle: 'email' },
-  auth: true,
-  fields: [
-    { name: 'name', type: 'text' },
-    {
-      name: 'role',
-      type: 'select',
-      options: [
-        { label: 'Admin', value: 'admin' },
-        { label: 'Editor', value: 'editor' },
-      ],
-      defaultValue: 'editor',
-    },
-  ],
-}
+// (Users is now extracted to ./payload/collections/Users.ts — extended for
+// Wine Saint Certified v1 with anonymous learner support.)
 
 const Media: CollectionConfig = {
   slug: 'media',
@@ -425,6 +420,13 @@ export default buildConfig({
     Glossary,
     OakResources,
     RootstockResources,
+    // ── Wine Saint Certified ──
+    Lessons,
+    Exercises,
+    UserProgress,
+    Exams,
+    ExamAttempts,
+    Certificates,
   ],
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || 'your-secret-key-change-in-production',

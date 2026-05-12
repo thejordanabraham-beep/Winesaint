@@ -56,4 +56,4 @@ dist/
 migration-output.log
 regions-export.ndjson
 sanity.config.ts
-wine-saint-certified/
+# wine-saint-certified/ — tracked, source content for Wine Saint Certified course
