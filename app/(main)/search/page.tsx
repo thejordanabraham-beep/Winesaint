@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, Suspense } from 'react';
+import { useState, useEffect, useRef, useCallback, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { SearchFilters } from '@/components/search/SearchFilters';
 import { SearchResultCard } from '@/components/search/SearchResultCard';
@@ -34,8 +34,10 @@ function SearchContent() {
   const initialQuery = searchParams.get('q') || '';
 
   const [searchQuery, setSearchQuery] = useState(initialQuery);
-  const [allWines, setAllWines] = useState<WineResult[]>([]);
+  const [debouncedQuery, setDebouncedQuery] = useState(initialQuery);
   const [results, setResults] = useState<WineResult[]>([]);
+  const [totalDocs, setTotalDocs] = useState(0);
+  const [totalPages, setTotalPages] = useState(0);
   const [loading, setLoading] = useState(true);
   const [expandedCards, setExpandedCards] = useState<Set<string>>(new Set());
   const [currentPage, setCurrentPage] = useState(1);
@@ -51,71 +53,60 @@ function SearchContent() {
   const [priceMax, setPriceMax] = useState('');
   const [selectedCountries, setSelectedCountries] = useState<string[]>([]);
 
-  const totalPages = Math.ceil(results.length / PER_PAGE);
-  const paginatedResults = results.slice((currentPage - 1) * PER_PAGE, currentPage * PER_PAGE);
+  // Debounce search input
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setDebouncedQuery(searchQuery);
+      setCurrentPage(1);
+    }, 250);
+    return () => clearTimeout(timer);
+  }, [searchQuery]);
+
+  // Reset page when filters change
+  const filtersKey = `${sortBy}-${vintageMin}-${vintageMax}-${scoreMin}-${scoreMax}-${priceMin}-${priceMax}-${selectedCountries.join(',')}`;
+  const prevFiltersRef = useRef(filtersKey);
+  useEffect(() => {
+    if (prevFiltersRef.current !== filtersKey) {
+      prevFiltersRef.current = filtersKey;
+      setCurrentPage(1);
+    }
+  }, [filtersKey]);
+
+  // Fetch from server
+  const fetchResults = useCallback(async () => {
+    setLoading(true);
+    try {
+      const params = new URLSearchParams();
+      if (debouncedQuery) params.set('q', debouncedQuery);
+      params.set('page', String(currentPage));
+      params.set('perPage', String(PER_PAGE));
+      if (sortBy !== 'default') params.set('sortBy', sortBy);
+      if (vintageMin) params.set('vintageMin', vintageMin);
+      if (vintageMax) params.set('vintageMax', vintageMax);
+      if (scoreMin) params.set('scoreMin', scoreMin);
+      if (scoreMax) params.set('scoreMax', scoreMax);
+      if (priceMin) params.set('priceMin', priceMin);
+      if (priceMax) params.set('priceMax', priceMax);
+      if (selectedCountries.length > 0) params.set('countries', selectedCountries.join(','));
+
+      const response = await fetch(`/api/wines-list?${params.toString()}`);
+      const data = await response.json();
+
+      setResults(data.docs || []);
+      setTotalDocs(data.totalDocs || 0);
+      setTotalPages(data.totalPages || 0);
+    } catch (error) {
+      console.error('Error fetching wines:', error);
+      setResults([]);
+      setTotalDocs(0);
+      setTotalPages(0);
+    }
+    setLoading(false);
+  }, [debouncedQuery, currentPage, sortBy, vintageMin, vintageMax, scoreMin, scoreMax, priceMin, priceMax, selectedCountries]);
 
   useEffect(() => {
-    const fetchAllWines = async () => {
-      setLoading(true);
-      try {
-        const response = await fetch('/api/wines-list');
-        const data = await response.json();
-        setAllWines(data);
-        if (initialQuery) {
-          setResults(filterWines(data, initialQuery));
-        } else {
-          setResults(data);
-        }
-      } catch (error) {
-        console.error('Error fetching wines:', error);
-      }
-      setLoading(false);
-    };
-    fetchAllWines();
-  }, [initialQuery]);
-
-  const filterWines = (wines: WineResult[], searchTerm: string) => {
-    if (!searchTerm.trim()) return wines;
-    const term = searchTerm.toLowerCase();
-    return wines.filter((wine) => {
-      const nameMatch = wine.name?.toLowerCase().includes(term);
-      const producerMatch = wine.producer?.name?.toLowerCase().includes(term);
-      const regionMatch = wine.region?.name?.toLowerCase().includes(term);
-      return nameMatch || producerMatch || regionMatch;
-    });
-  };
-
-  const handleSearch = () => {
-    let filtered = filterWines(allWines, searchQuery);
-
-    if (vintageMin) filtered = filtered.filter((wine) => wine.vintage >= parseInt(vintageMin));
-    if (vintageMax) filtered = filtered.filter((wine) => wine.vintage <= parseInt(vintageMax));
-    if (priceMin) filtered = filtered.filter((wine) => wine.priceUsd && wine.priceUsd >= parseInt(priceMin));
-    if (priceMax) filtered = filtered.filter((wine) => wine.priceUsd && wine.priceUsd <= parseInt(priceMax));
-    if (selectedCountries.length > 0) {
-      filtered = filtered.filter((wine) => wine.region?.country && selectedCountries.includes(wine.region.country));
-    }
-    if (scoreMin || scoreMax) {
-      filtered = filtered.filter((wine) => {
-        if (!wine.review) return false;
-        const score10 = wine.review.score;
-        if (scoreMin && score10 < parseFloat(scoreMin)) return false;
-        if (scoreMax && score10 > parseFloat(scoreMax)) return false;
-        return true;
-      });
-    }
-
-    if (sortBy === 'score') filtered.sort((a, b) => (b.review?.score || 0) - (a.review?.score || 0));
-    else if (sortBy === 'vintage') filtered.sort((a, b) => b.vintage - a.vintage);
-    else if (sortBy === 'price') filtered.sort((a, b) => (a.priceUsd || 0) - (b.priceUsd || 0));
-
-    setResults(filtered);
-    setCurrentPage(1);
-  };
-
-  useEffect(() => {
-    if (allWines.length > 0) handleSearch();
-  }, [sortBy, vintageMin, vintageMax, scoreMin, scoreMax, priceMin, priceMax, selectedCountries, searchQuery]);
+    fetchResults();
+  }, [fetchResults]);
 
   const goToPage = (page: number) => {
     setCurrentPage(page);
@@ -140,6 +131,7 @@ function SearchContent() {
 
   const clearFilters = () => {
     setSearchQuery('');
+    setDebouncedQuery('');
     setSortBy('default');
     setVintageMin('');
     setVintageMax('');
@@ -148,7 +140,6 @@ function SearchContent() {
     setPriceMin('');
     setPriceMax('');
     setSelectedCountries([]);
-    setResults(allWines);
     setCurrentPage(1);
   };
 
@@ -169,8 +160,8 @@ function SearchContent() {
   };
 
   const currentYear = new Date().getFullYear();
-  const startResult = (currentPage - 1) * PER_PAGE + 1;
-  const endResult = Math.min(currentPage * PER_PAGE, results.length);
+  const startResult = totalDocs > 0 ? (currentPage - 1) * PER_PAGE + 1 : 0;
+  const endResult = Math.min(currentPage * PER_PAGE, totalDocs);
 
   const activeFilters: { label: string; onRemove: () => void }[] = [];
   if (searchQuery) activeFilters.push({ label: `"${searchQuery}"`, onRemove: () => setSearchQuery('') });
@@ -279,8 +270,8 @@ function SearchContent() {
 
             {/* Result count */}
             <p className="text-sm text-gray-500 mb-4">
-              {results.length > 0 ? (
-                <>Showing {startResult}–{endResult} of {results.length.toLocaleString()} results</>
+              {totalDocs > 0 ? (
+                <>Showing {startResult}–{endResult} of {totalDocs.toLocaleString()} results</>
               ) : loading ? '' : 'No results'}
             </p>
 
@@ -295,7 +286,7 @@ function SearchContent() {
             ) : (
               <>
                 <div className="divide-y divide-gray-100">
-                  {paginatedResults.map((wine) => (
+                  {results.map((wine) => (
                     <SearchResultCard
                       key={wine._id}
                       wine={wine}

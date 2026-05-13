@@ -23,9 +23,10 @@ interface SearchFiltersProps {
 }
 
 const COUNTRIES = [
-  'Argentina', 'Australia', 'Austria', 'Canada', 'Chile', 'China',
-  'Croatia', 'England', 'France', 'Germany', 'Italy', 'New Zealand',
-  'Portugal', 'Spain', 'USA'
+  'Argentina', 'Australia', 'Austria', 'Canada', 'Chile',
+  'Croatia', 'England', 'France', 'Germany', 'Greece', 'Hungary',
+  'Israel', 'Italy', 'New Zealand', 'Portugal', 'South Africa',
+  'Spain', 'Switzerland', 'United States'
 ];
 
 const currentYear = new Date().getFullYear();
