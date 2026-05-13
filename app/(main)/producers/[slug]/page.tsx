@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { getPayload } from 'payload';
 import config from '@payload-config';
+import { RichText } from '@payloadcms/richtext-lexical/react';
+import type { SerializedEditorState } from '@payloadcms/richtext-lexical/lexical';
 import { ScoreBadge } from '@/components/ui/ScoreBadge';
 
 interface Producer {
@@ -10,7 +12,7 @@ interface Producer {
   name: string;
   slug: string;
   summary?: string;
-  description?: string;
+  description?: SerializedEditorState | null;
   winemaker?: string;
   founded?: number;
   website?: string;
@@ -177,12 +179,8 @@ export default async function ProducerPage({ params }: PageProps) {
           {producer.description && (
             <>
               <hr className="my-6 border-gray-200" />
-              <div className="prose max-w-none">
-                {producer.description.split('\n\n').map((paragraph, i) => (
-                  <p key={i} className="text-gray-700 leading-relaxed mb-4">
-                    {paragraph}
-                  </p>
-                ))}
+              <div className="prose max-w-none prose-p:text-gray-700 prose-p:leading-relaxed">
+                <RichText data={producer.description} />
               </div>
             </>
           )}

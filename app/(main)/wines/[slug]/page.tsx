@@ -19,7 +19,12 @@ interface Wine {
     id: number;
     name: string;
     slug: string;
-    description?: string;
+    summary?: string;
+    image?: {
+      id: number;
+      url?: string;
+      alt?: string;
+    } | null;
   } | null;
   region: {
     id: number;
@@ -314,13 +319,33 @@ export default async function WineDetailPage({ params }: PageProps) {
                 href={`/producers/${wine.producer.slug}`}
                 className="block bg-white border-3 border-[#1C1C1C] rounded-lg p-6 hover:bg-gray-50 transition-colors group"
               >
-                <div className="flex justify-between items-center">
-                  <h3 className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37]">{wine.producer.name}</h3>
-                  <span className="text-gray-400 group-hover:text-[#722F37]">→</span>
+                <div className="flex gap-4">
+                  <div className="flex-shrink-0 w-20 h-14 bg-gradient-to-br from-stone-100 to-stone-200 rounded border border-stone-300 flex items-center justify-center overflow-hidden">
+                    {wine.producer.image?.url ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        src={wine.producer.image.url}
+                        alt={wine.producer.image.alt || `${wine.producer.name} label`}
+                        className="w-full h-full object-cover"
+                      />
+                    ) : (
+                      <span className="text-stone-400 text-[10px]">Label</span>
+                    )}
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex justify-between items-start gap-3">
+                      <h3 className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37]">
+                        {wine.producer.name}
+                      </h3>
+                      <span className="text-gray-400 group-hover:text-[#722F37] flex-shrink-0">→</span>
+                    </div>
+                    {wine.producer.summary && (
+                      <p className="mt-1 text-sm text-gray-600 leading-snug">
+                        {wine.producer.summary}
+                      </p>
+                    )}
+                  </div>
                 </div>
-                {wine.producer.description && (
-                  <p className="mt-2 text-gray-600">{wine.producer.description}</p>
-                )}
               </Link>
             )}
 

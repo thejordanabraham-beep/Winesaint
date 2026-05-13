@@ -35,6 +35,13 @@ export const Producers: CollectionConfig = {
       type: 'text',
     },
     {
+      name: 'summary',
+      type: 'textarea',
+      admin: {
+        description: 'Short editorial blurb (1-2 sentences) shown on the producer card under wine reviews.',
+      },
+    },
+    {
       name: 'description',
       type: 'richText',
     },
