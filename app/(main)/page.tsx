@@ -191,30 +191,30 @@ export default async function Home() {
             <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
               <h2 className="font-serif text-xl italic mb-6">Recent Reviews</h2>
 
+              {/* TEMPORARILY DISABLED — revert divs back to <Link href={`/wines/${wine.slug}`}> when reviews are cleaned up */}
               <div className="space-y-4">
                 {recentReviews.map((wine, index) => (
-                  <Link
+                  <div
                     key={`${wine.slug}-${index}`}
-                    href={`/wines/${wine.slug}`}
-                    className="flex items-center gap-4 group p-2 -mx-2 rounded-lg hover:bg-[#722F37]/10 transition-colors"
+                    className="flex items-center gap-4 p-2 -mx-2 rounded-lg"
                   >
                     <ScoreBadge score={wine.score} size="sm" />
                     <div className="flex-1 min-w-0">
-                      <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate">
+                      <p className="font-semibold text-[#1C1C1C] truncate">
                         {formatWineDisplayName(wine.producerName, wine.wineName, wine.vintage)}
                       </p>
                       <p className="text-sm text-gray-500">{wine.regionName}</p>
                     </div>
-                  </Link>
+                  </div>
                 ))}
               </div>
 
-              <Link
-                href="/wines"
-                className="mt-6 block text-center bg-[#1C1C1C] text-white py-3 rounded-lg font-semibold hover:bg-[#722F37] transition-colors"
+              {/* TEMPORARILY DISABLED — revert to <Link href="/wines"> "All Reviews" when reviews are cleaned up */}
+              <span
+                className="mt-6 block text-center bg-gray-300 text-white py-3 rounded-lg font-semibold cursor-default"
               >
-                All Reviews
-              </Link>
+                Reviews Coming Soon
+              </span>
             </div>
 
             {/* Liv-ex Widget */}
@@ -281,18 +281,19 @@ export default async function Home() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between mb-10">
             <h2 className="font-serif text-3xl italic text-white">Editor&apos;s Picks ✨</h2>
-            <Link href="/wines" className="pill-btn text-white border-white hover:bg-white hover:text-[#1C1C1C]">
-              Browse All
-            </Link>
+            {/* TEMPORARILY DISABLED — revert to <Link href="/wines"> "Browse All" when reviews are cleaned up */}
+            <span className="pill-btn text-white/50 border-white/50 cursor-default">
+              Coming Soon
+            </span>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {recentReviews.map((wine, index) => {
               const colors = ['bg-[#6d597a]', 'bg-[#457b9d]', 'bg-[#2a9d8f]', 'bg-[#722F37]'];
               return (
-                <Link
+                {/* TEMPORARILY DISABLED — revert div back to <Link href={`/wines/${wine.slug}`}> when reviews are cleaned up */}
+                <div
                   key={`${wine.slug}-editor-${index}`}
-                  href={`/wines/${wine.slug}`}
                   className="group"
                 >
                   <div className="fun-card bg-white border-3 border-[#1C1C1C] rounded-lg overflow-hidden">
@@ -303,13 +304,13 @@ export default async function Home() {
                       </div>
                     </div>
                     <div className="p-4">
-                      <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate text-sm">
+                      <p className="font-semibold text-[#1C1C1C] truncate text-sm">
                         {formatWineDisplayName(wine.producerName, wine.wineName, wine.vintage)}
                       </p>
                       <p className="text-xs text-gray-500 mt-1">{wine.regionName}</p>
                     </div>
                   </div>
-                </Link>
+                </div>
               );
             })}
           </div>
