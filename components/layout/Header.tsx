@@ -47,13 +47,12 @@ export function Header() {
               Grape Guide
             </Link>
             <span className="text-gray-400 px-1">•</span>
-            {/* TEMPORARILY DISABLED - revert to Link href="/search" when reviews are cleaned up */}
-            <span
-              className="px-2 py-2 text-sm font-semibold uppercase tracking-wide whitespace-nowrap text-gray-400 cursor-default"
-              title="Reviews coming soon"
+            <Link
+              href="/search"
+              className="px-2 py-2 text-sm font-semibold uppercase tracking-wide whitespace-nowrap text-[#1C1C1C] hover:text-[#722F37] transition-colors"
             >
               Wine Reviews
-            </span>
+            </Link>
             <span className="text-gray-400 px-1">•</span>
             <Link
               href="/maps"
@@ -89,12 +88,10 @@ export function Header() {
               <span className="text-xs bg-[#722F37] text-white px-1.5 py-0.5 rounded-full">AI</span>
             </Link>
             <span className="text-gray-400 px-1">•</span>
-            {/* TEMPORARILY DISABLED - remove disabled prop and restore bg-[#722F37] hover:bg-[#A64253] when reviews are cleaned up */}
             <button
               onClick={() => setSearchOpen(!searchOpen)}
-              className="ml-2 px-3 py-2 bg-gray-400 text-white cursor-default rounded flex items-center gap-1.5"
+              className="ml-2 px-3 py-2 bg-[#722F37] text-white hover:bg-[#A64253] transition-colors rounded flex items-center gap-1.5"
               aria-label="Search"
-              disabled
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />

@@ -26,11 +26,10 @@ export function Footer() {
               Explore
             </h4>
             <ul className="space-y-3 text-sm">
-              {/* TEMPORARILY DISABLED - revert to Link href="/search" when reviews are cleaned up */}
               <li>
-                <span className="text-gray-400 cursor-default">
+                <Link href="/search" className="fun-link text-gray-600 hover:text-[#722F37]">
                   Reviews
-                </span>
+                </Link>
               </li>
               <li>
                 <Link href="/producers" className="fun-link text-gray-600 hover:text-[#722F37]">
