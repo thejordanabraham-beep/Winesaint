@@ -55,7 +55,7 @@ const vintageHighlights = [
   { region: 'Champagne', year: 2019, rating: 'Outstanding', slug: 'champagne' },
 ];
 
-type PowerRanking = {
+type ReviewEntry = {
   score: number;
   producerName: string;
   wineName: string;
@@ -64,15 +64,14 @@ type PowerRanking = {
   slug: string;
 };
 
-async function fetchPowerRankings(): Promise<PowerRanking[]> {
+async function fetchRecentReviews(): Promise<ReviewEntry[]> {
   try {
     const payload = await getPayload({ config });
 
-    // Fetch top reviews from Payload
     const reviewResult = await payload.find({
       collection: 'reviews',
-      limit: 4,
-      sort: '-score',
+      limit: 8,
+      sort: '-reviewDate',
       depth: 2,
     });
 
@@ -93,14 +92,13 @@ async function fetchPowerRankings(): Promise<PowerRanking[]> {
       };
     });
   } catch (error) {
-    console.error('Error fetching power rankings:', error);
+    console.error('Error fetching recent reviews:', error);
     return [];
   }
 }
 
 export default async function Home() {
-  // Fetch top-rated wines from Payload
-  const powerRankings = await fetchPowerRankings();
+  const recentReviews = await fetchRecentReviews();
 
   return (
     <div className="bg-[#FAF7F2]">
@@ -189,12 +187,12 @@ export default async function Home() {
 
           {/* Sidebar */}
           <div className="space-y-8">
-            {/* Power Rankings */}
+            {/* Recent Reviews */}
             <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
-              <h2 className="font-serif text-xl italic mb-6">February 2026: Power Rankings</h2>
+              <h2 className="font-serif text-xl italic mb-6">Recent Reviews</h2>
 
               <div className="space-y-4">
-                {powerRankings.map((wine, index) => (
+                {recentReviews.map((wine, index) => (
                   <Link
                     key={`${wine.slug}-${index}`}
                     href={`/wines/${wine.slug}`}
@@ -289,7 +287,7 @@ export default async function Home() {
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            {powerRankings.map((wine, index) => {
+            {recentReviews.map((wine, index) => {
               const colors = ['bg-[#6d597a]', 'bg-[#457b9d]', 'bg-[#2a9d8f]', 'bg-[#722F37]'];
               return (
                 <Link
