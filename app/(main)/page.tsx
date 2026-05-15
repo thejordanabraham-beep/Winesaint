@@ -107,7 +107,7 @@ export default async function Home() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 md:py-12">
           <div className="text-center">
             <h1 className="font-serif text-3xl md:text-5xl italic text-white mb-3">
-              #1 Wine Education Resource
+              The #1 Wine Education Resource
             </h1>
             <p className="text-lg md:text-xl text-white/90 mb-6 max-w-3xl mx-auto">
               In depth guides, expert reviews, producer profiles, detailed maps and learning resources for experienced wine enthusiasts as well as those just getting started
