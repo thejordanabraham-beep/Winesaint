@@ -47,7 +47,7 @@ export function Header() {
               Grape Guide
             </Link>
             <span className="text-gray-400 px-1">•</span>
-            {/* TEMPORARILY DISABLED — revert to Link href="/search" when reviews are cleaned up */}
+            {/* TEMPORARILY DISABLED - revert to Link href="/search" when reviews are cleaned up */}
             <span
               className="px-2 py-2 text-sm font-semibold uppercase tracking-wide whitespace-nowrap text-gray-400 cursor-default"
               title="Reviews coming soon"
@@ -89,7 +89,7 @@ export function Header() {
               <span className="text-xs bg-[#722F37] text-white px-1.5 py-0.5 rounded-full">AI</span>
             </Link>
             <span className="text-gray-400 px-1">•</span>
-            {/* TEMPORARILY DISABLED — remove disabled prop and restore bg-[#722F37] hover:bg-[#A64253] when reviews are cleaned up */}
+            {/* TEMPORARILY DISABLED - remove disabled prop and restore bg-[#722F37] hover:bg-[#A64253] when reviews are cleaned up */}
             <button
               onClick={() => setSearchOpen(!searchOpen)}
               className="ml-2 px-3 py-2 bg-gray-400 text-white cursor-default rounded flex items-center gap-1.5"

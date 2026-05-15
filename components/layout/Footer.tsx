@@ -26,7 +26,7 @@ export function Footer() {
               Explore
             </h4>
             <ul className="space-y-3 text-sm">
-              {/* TEMPORARILY DISABLED — revert to <Link href="/search"> when reviews are cleaned up */}
+              {/* TEMPORARILY DISABLED - revert to Link href="/search" when reviews are cleaned up */}
               <li>
                 <span className="text-gray-400 cursor-default">
                   Reviews

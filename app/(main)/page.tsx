@@ -191,7 +191,7 @@ export default async function Home() {
             <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
               <h2 className="font-serif text-xl italic mb-6">Recent Reviews</h2>
 
-              {/* TEMPORARILY DISABLED — revert divs back to <Link href={`/wines/${wine.slug}`}> when reviews are cleaned up */}
+              {/* TEMPORARILY DISABLED - revert divs back to Link with wine slug when reviews are cleaned up */}
               <div className="space-y-4">
                 {recentReviews.map((wine, index) => (
                   <div
@@ -209,7 +209,7 @@ export default async function Home() {
                 ))}
               </div>
 
-              {/* TEMPORARILY DISABLED — revert to <Link href="/wines"> "All Reviews" when reviews are cleaned up */}
+              {/* TEMPORARILY DISABLED - revert to Link href="/wines" "All Reviews" when reviews are cleaned up */}
               <span
                 className="mt-6 block text-center bg-gray-300 text-white py-3 rounded-lg font-semibold cursor-default"
               >
@@ -281,7 +281,7 @@ export default async function Home() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between mb-10">
             <h2 className="font-serif text-3xl italic text-white">Editor&apos;s Picks ✨</h2>
-            {/* TEMPORARILY DISABLED — revert to <Link href="/wines"> "Browse All" when reviews are cleaned up */}
+            {/* TEMPORARILY DISABLED - revert to Link href="/wines" "Browse All" when reviews are cleaned up */}
             <span className="pill-btn text-white/50 border-white/50 cursor-default">
               Coming Soon
             </span>
@@ -290,8 +290,8 @@ export default async function Home() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {recentReviews.map((wine, index) => {
               const colors = ['bg-[#6d597a]', 'bg-[#457b9d]', 'bg-[#2a9d8f]', 'bg-[#722F37]'];
+              // TEMPORARILY DISABLED - revert div back to Link when reviews are cleaned up
               return (
-                {/* TEMPORARILY DISABLED — revert div back to <Link href={`/wines/${wine.slug}`}> when reviews are cleaned up */}
                 <div
                   key={`${wine.slug}-editor-${index}`}
                   className="group"
