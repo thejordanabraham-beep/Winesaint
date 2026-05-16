@@ -10,6 +10,7 @@ interface Wine {
   slug: string;
   vintage: number;
   wineType?: string;
+  score?: number;
   producer: {
     id: number;
     name: string;
@@ -23,17 +24,10 @@ interface Wine {
   } | null;
 }
 
-interface Review {
-  id: number;
-  score: number;
-  wine: number | { id: number };
-}
-
-async function getWines(): Promise<{ wines: Wine[]; reviewsByWine: Map<number, number> }> {
+async function getWines(): Promise<Wine[]> {
   try {
     const payload = await getPayload({ config });
 
-    // Fetch all wines
     const wineResult = await payload.find({
       collection: 'wines',
       depth: 1,
@@ -41,36 +35,15 @@ async function getWines(): Promise<{ wines: Wine[]; reviewsByWine: Map<number, n
       sort: '-createdAt',
     });
 
-    const wines = (wineResult.docs || []) as unknown as Wine[];
-
-    // Fetch reviews to get scores
-    const reviewResult = await payload.find({
-      collection: 'reviews',
-      depth: 0,
-      limit: 1000,
-    });
-
-    const reviews = (reviewResult.docs || []) as unknown as Review[];
-
-    // Build a map of wine ID to highest score
-    const reviewsByWine = new Map<number, number>();
-    for (const review of reviews) {
-      const wineId = typeof review.wine === 'object' ? review.wine.id : review.wine;
-      const existingScore = reviewsByWine.get(wineId);
-      if (!existingScore || review.score > existingScore) {
-        reviewsByWine.set(wineId, review.score);
-      }
-    }
-
-    return { wines, reviewsByWine };
+    return (wineResult.docs || []) as unknown as Wine[];
   } catch (error) {
     console.error('Error fetching wines:', error);
-    return { wines: [], reviewsByWine: new Map() };
+    return [];
   }
 }
 
 export default async function WinesPage() {
-  const { wines, reviewsByWine } = await getWines();
+  const wines = await getWines();
 
   return (
     <div className="bg-[#FAF7F2] min-h-screen">
@@ -92,7 +65,7 @@ export default async function WinesPage() {
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {wines.map((wine) => {
-              const score = reviewsByWine.get(wine.id);
+              const score = wine.score;
               return (
                 <Link
                   key={wine.id}

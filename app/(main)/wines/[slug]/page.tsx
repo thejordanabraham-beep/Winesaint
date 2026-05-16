@@ -32,15 +32,12 @@ interface Wine {
     slug: string;
     country: string;
   } | null;
-  reviews?: Array<{
-    id: number;
-    score: number;
-    tastingNotes?: string;
-    shortSummary?: string;
-    flavorProfile?: Array<{ flavor: string }>;
-    reviewerName?: string;
-    reviewDate?: string;
-  }>;
+  score?: number;
+  tastingNotes?: string;
+  shortSummary?: string;
+  flavorProfile?: Array<{ flavor: string }>;
+  reviewerName?: string;
+  reviewDate?: string;
 }
 
 async function getWine(slug: string): Promise<Wine | null> {
@@ -57,18 +54,7 @@ async function getWine(slug: string): Promise<Wine | null> {
 
     if (!wineResult.docs || wineResult.docs.length === 0) return null;
 
-    const wine = wineResult.docs[0] as unknown as Wine;
-
-    // Fetch reviews for this wine
-    const reviewResult = await payload.find({
-      collection: 'reviews',
-      where: { wine: { equals: wine.id } },
-      depth: 0,
-    });
-
-    wine.reviews = (reviewResult.docs || []) as unknown as Wine['reviews'];
-
-    return wine;
+    return wineResult.docs[0] as unknown as Wine;
   } catch (error) {
     console.error('Error fetching wine:', error);
     return null;
@@ -90,8 +76,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const fullTitle = formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage);
-  const latestReview = wine.reviews?.[0];
-  const description = latestReview?.shortSummary || latestReview?.tastingNotes?.substring(0, 160) || `Expert review of ${fullTitle}`;
+  const description = wine.shortSummary || wine.tastingNotes?.substring(0, 160) || `Expert review of ${fullTitle}`;
 
   return {
     title: `${fullTitle} - WineSaint Review`,
@@ -102,10 +87,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       type: 'website',
       url: `https://winesaint.com/wines/${slug}`,
       siteName: 'WineSaint',
-      ...(latestReview && {
+      ...(wine.score && {
         images: [
           {
-            url: `https://winesaint.com/og-image.jpg`, // TODO: Add wine-specific images
+            url: `https://winesaint.com/og-image.jpg`,
             width: 1200,
             height: 630,
             alt: fullTitle,
@@ -129,44 +114,40 @@ export default async function WineDetailPage({ params }: PageProps) {
     notFound();
   }
 
-  const latestReview = wine.reviews?.[0];
-
   // Generate JSON-LD structured data for SEO
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Product',
     name: formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage),
-    description: latestReview?.tastingNotes || `${formatWineDisplayName(wine.producer?.name, wine.name)} from ${wine.vintage}`,
+    description: wine.tastingNotes || `${formatWineDisplayName(wine.producer?.name, wine.name)} from ${wine.vintage}`,
     brand: {
       '@type': 'Brand',
       name: wine.producer?.name || 'Unknown Producer',
     },
     category: 'Wine',
-    ...(latestReview && {
+    ...(wine.score && {
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: latestReview.score,
+        ratingValue: wine.score,
         bestRating: 100,
         worstRating: 0,
-        ratingCount: wine.reviews?.length || 1,
+        ratingCount: 1,
       },
-    }),
-    ...(wine.reviews && wine.reviews.length > 0 && {
-      review: wine.reviews.map((review) => ({
+      review: [{
         '@type': 'Review',
         reviewRating: {
           '@type': 'Rating',
-          ratingValue: review.score,
+          ratingValue: wine.score,
           bestRating: 100,
           worstRating: 0,
         },
         author: {
           '@type': 'Person',
-          name: review.reviewerName,
+          name: wine.reviewerName,
         },
-        reviewBody: review.tastingNotes,
-        datePublished: review.reviewDate,
-      })),
+        reviewBody: wine.tastingNotes,
+        datePublished: wine.reviewDate,
+      }],
     }),
     ...(wine.alcoholPercentage && {
       additionalProperty: [
@@ -255,48 +236,39 @@ export default async function WineDetailPage({ params }: PageProps) {
                 })()}
               </div>
 
-              {/* Reviews Section */}
+              {/* Review Section */}
               <div className="mt-6 pt-6 border-t-2 border-[#1C1C1C]/10">
-                {wine.reviews && wine.reviews.length > 0 ? (
-                  <div className="space-y-6">
-                    {wine.reviews.map((review, index) => (
-                      <div
-                        key={review.id}
-                        className={index > 0 ? 'pt-6 border-t-2 border-[#1C1C1C]/10' : ''}
-                      >
-                        <div className="flex items-start gap-4">
-                          <ScoreBadge score={review.score} size="md" />
-                          <div className="flex-1">
-                            {review.reviewerName && (
-                              <div className="flex items-center gap-2 mb-2">
-                                <span className="font-medium text-[#1C1C1C]">
-                                  {review.reviewerName}
-                                </span>
-                              </div>
-                            )}
-
-                            {review.tastingNotes && (
-                              <p className="text-gray-700 leading-relaxed">
-                                {review.tastingNotes}
-                              </p>
-                            )}
-
-                            {review.flavorProfile && review.flavorProfile.length > 0 && (
-                              <div className="mt-3 flex flex-wrap gap-2">
-                                {review.flavorProfile.map((item, i) => (
-                                  <span
-                                    key={i}
-                                    className="px-2 py-1 bg-[#FAF7F2] border border-[#1C1C1C]/20 rounded text-xs text-gray-600"
-                                  >
-                                    {item.flavor}
-                                  </span>
-                                ))}
-                              </div>
-                            )}
-                          </div>
+                {wine.score ? (
+                  <div className="flex items-start gap-4">
+                    <ScoreBadge score={wine.score} size="md" />
+                    <div className="flex-1">
+                      {wine.reviewerName && (
+                        <div className="flex items-center gap-2 mb-2">
+                          <span className="font-medium text-[#1C1C1C]">
+                            {wine.reviewerName}
+                          </span>
                         </div>
-                      </div>
-                    ))}
+                      )}
+
+                      {wine.tastingNotes && (
+                        <p className="text-gray-700 leading-relaxed">
+                          {wine.tastingNotes}
+                        </p>
+                      )}
+
+                      {wine.flavorProfile && wine.flavorProfile.length > 0 && (
+                        <div className="mt-3 flex flex-wrap gap-2">
+                          {wine.flavorProfile.map((item, i) => (
+                            <span
+                              key={i}
+                              className="px-2 py-1 bg-[#FAF7F2] border border-[#1C1C1C]/20 rounded text-xs text-gray-600"
+                            >
+                              {item.flavor}
+                            </span>
+                          ))}
+                        </div>
+                      )}
+                    </div>
                   </div>
                 ) : (
                   <p className="text-gray-500 text-center py-8">

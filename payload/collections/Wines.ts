@@ -100,5 +100,55 @@ export const Wines: CollectionConfig = {
       type: 'upload',
       relationTo: 'media',
     },
+    // ── Review fields (merged from Reviews collection) ──
+    {
+      name: 'score',
+      type: 'number',
+      min: 1,
+      max: 10,
+    },
+    {
+      name: 'tastingNotes',
+      type: 'textarea',
+    },
+    {
+      name: 'shortSummary',
+      type: 'text',
+    },
+    {
+      name: 'flavorProfile',
+      type: 'array',
+      fields: [{ name: 'flavor', type: 'text' }],
+    },
+    {
+      name: 'foodPairings',
+      type: 'array',
+      fields: [{ name: 'pairing', type: 'text' }],
+    },
+    {
+      name: 'drinkThisIf',
+      type: 'text',
+    },
+    {
+      name: 'drinkingWindowStart',
+      type: 'number',
+    },
+    {
+      name: 'drinkingWindowEnd',
+      type: 'number',
+    },
+    {
+      name: 'reviewerName',
+      type: 'text',
+    },
+    {
+      name: 'reviewDate',
+      type: 'date',
+    },
+    {
+      name: 'isFeatured',
+      type: 'checkbox',
+      defaultValue: false,
+    },
   ],
 }

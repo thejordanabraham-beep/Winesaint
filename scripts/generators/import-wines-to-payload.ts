@@ -389,33 +389,23 @@ async function importWines(csvPath: string, dryRun: boolean, limit?: number) {
           : undefined,
       }
 
+      // Include review data inline on the wine
+      wineData.score = score10 || undefined
+      wineData.tastingNotes = wine['Tasting Notes'] || ''
+      wineData.shortSummary = wine['Tasting Notes']?.split('.')[0] + '.' || ''
+      wineData.reviewerName = wine.Reviewer || 'WineSaint'
+      wineData.reviewDate = wine['Review Date'] || new Date().toISOString().split('T')[0]
+      wineData.drinkingWindowStart = drinkStart
+      wineData.drinkingWindowEnd = drinkEnd
+
       const createdWine = await payload.create({
         collection: 'wines',
         data: wineData,
       })
-      console.log(`  Wine created: ${createdWine.id}`)
-
-      // 8. Create review document
-      const reviewData: any = {
-        wine: createdWine.id,
-        score: score10 || undefined,
-        tastingNotes: wine['Tasting Notes'] || '',
-        shortSummary: wine['Tasting Notes']?.split('.')[0] + '.' || '',
-        reviewerName: wine.Reviewer || 'WineSaint',
-        reviewDate: wine['Review Date'] || new Date().toISOString().split('T')[0],
-        drinkingWindowStart: drinkStart,
-        drinkingWindowEnd: drinkEnd,
-      }
-
-      const createdReview = await payload.create({
-        collection: 'reviews',
-        data: reviewData,
-      })
-      console.log(`  Review created: ${createdReview.id}`)
+      console.log(`  Wine created: ${createdWine.id} (score: ${score10})`)
 
       // Track IDs for CSV update
       wine.Payload_Wine_ID = createdWine.id as string
-      wine.Payload_Review_ID = createdReview.id as string
 
       successCount++
     } catch (error: any) {

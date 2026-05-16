@@ -319,39 +319,24 @@ const Wines: CollectionConfig = {
     },
     { name: 'alcoholPercentage', type: 'number' },
     { name: 'image', type: 'upload', relationTo: 'media' },
-  ],
-}
-
-const Reviews: CollectionConfig = {
-  slug: 'reviews',
-  admin: { useAsTitle: 'wine', defaultColumns: ['wine', 'score', 'reviewerName', 'reviewDate'] },
-  access: {
-    read: () => true,
-    create: ({ req: { user } }) => !!user,
-    update: ({ req: { user } }) => !!user,
-    delete: ({ req: { user } }) => !!user,
-  },
-  fields: [
-    { name: 'wine', type: 'relationship', relationTo: 'wines', required: true },
-    { name: 'score', type: 'number', required: true, min: 1, max: 10 },
-    { name: 'tastingNotes', type: 'textarea', required: true },
+    // ── Review fields (merged from Reviews collection) ──
+    { name: 'score', type: 'number', min: 1, max: 10 },
+    { name: 'tastingNotes', type: 'textarea' },
     { name: 'shortSummary', type: 'text' },
     {
       name: 'flavorProfile',
       type: 'array',
-      admin: { description: 'Flavor descriptors (e.g., "green apple", "lemon zest")' },
       fields: [{ name: 'flavor', type: 'text' }],
     },
     {
       name: 'foodPairings',
       type: 'array',
-      admin: { description: 'Suggested food pairings (optional)' },
       fields: [{ name: 'pairing', type: 'text' }],
     },
     { name: 'drinkThisIf', type: 'text' },
     { name: 'drinkingWindowStart', type: 'number' },
     { name: 'drinkingWindowEnd', type: 'number' },
-    { name: 'reviewerName', type: 'text', required: true },
+    { name: 'reviewerName', type: 'text' },
     { name: 'reviewDate', type: 'date' },
     { name: 'isFeatured', type: 'checkbox', defaultValue: false },
   ],
@@ -413,7 +398,6 @@ export default buildConfig({
     Regions,
     Vintages,
     Wines,
-    Reviews,
     Producers,
     Grapes,
     Articles,

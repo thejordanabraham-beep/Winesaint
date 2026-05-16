@@ -68,27 +68,27 @@ async function fetchRecentReviews(): Promise<ReviewEntry[]> {
   try {
     const payload = await getPayload({ config });
 
-    const reviewResult = await payload.find({
-      collection: 'reviews',
+    const wineResult = await payload.find({
+      collection: 'wines',
+      where: { score: { exists: true } },
       limit: 8,
       sort: '-reviewDate',
-      depth: 2,
+      depth: 1,
     });
 
-    const reviews = reviewResult.docs || [];
+    const wines = wineResult.docs || [];
 
-    return reviews.map((review) => {
-      const wine = typeof review.wine === 'object' ? review.wine : null;
-      const producer = wine && typeof wine.producer === 'object' ? wine.producer : null;
-      const region = wine && typeof wine.region === 'object' ? wine.region : null;
+    return wines.map((wine) => {
+      const producer = typeof wine.producer === 'object' ? wine.producer : null;
+      const region = typeof wine.region === 'object' ? wine.region : null;
 
       return {
-        score: review.score,
+        score: wine.score as number,
         producerName: producer?.name || 'Unknown',
-        wineName: wine?.name || 'Unknown',
-        vintage: wine?.vintage || '',
+        wineName: wine.name || 'Unknown',
+        vintage: wine.vintage || '',
         regionName: region?.name || 'Unknown',
-        slug: wine?.slug || '',
+        slug: wine.slug || '',
       };
     });
   } catch (error) {

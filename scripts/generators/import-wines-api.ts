@@ -367,7 +367,7 @@ async function importWines(csvPath: string, dryRun: boolean, limit?: number) {
         continue
       }
 
-      // Create wine
+      // Create wine (review data inline on wine)
       const wineResult = await create('wines', {
         name: wine['Wine Name'],
         slug: generateSlug(`${wine['Wine Name']}-${wine.Vintage}`),
@@ -378,25 +378,18 @@ async function importWines(csvPath: string, dryRun: boolean, limit?: number) {
         vineyardName: vineyardName || undefined,
         wineType: mapWineType(wine['Color/Type']),
         priceUsd: priceUsd,
-      })
-      const wineId = wineResult.doc?.id || wineResult.id
-      console.log(`  Wine created: ${wineId}`)
-
-      // Create review (reviewDate omitted - not needed per user request)
-      const reviewResult = await create('reviews', {
-        wine: wineId,
         score: score10 || undefined,
         tastingNotes: wine['Tasting Notes'] || '',
         shortSummary: wine['Tasting Notes']?.split('.')[0] + '.' || '',
         reviewerName: wine.Reviewer || 'WineSaint',
+        reviewDate: new Date().toISOString().split('T')[0],
         drinkingWindowStart: drinkStart,
         drinkingWindowEnd: drinkEnd,
       })
-      const reviewId = reviewResult.doc?.id || reviewResult.id
-      console.log(`  Review created: ${reviewId}`)
+      const wineId = wineResult.doc?.id || wineResult.id
+      console.log(`  Wine created: ${wineId} (score: ${score10})`)
 
       wine.Payload_Wine_ID = wineId
-      wine.Payload_Review_ID = reviewId
       successCount++
 
     } catch (error: any) {

@@ -300,7 +300,7 @@ async function importFromExcel(
         continue
       }
 
-      // 5. Create wine
+      // 5. Create wine (with review data inline)
       const wineData: any = {
         name: wine.wineName,
         slug: generateSlug(`${wine.producerName}-${wine.wineName}-${wine.vintage}`),
@@ -308,17 +308,6 @@ async function importFromExcel(
         producer: producerId || undefined,
         region: regionId || undefined,
         priceUsd: wine.price > 0 ? wine.price : undefined,
-      }
-
-      const createdWine = await payload.create({
-        collection: 'wines',
-        data: wineData,
-      })
-      console.log(`  Wine created: ${createdWine.id}`)
-
-      // 6. Create review
-      const reviewData: any = {
-        wine: createdWine.id,
         score: score10 || undefined,
         tastingNotes: wine.tastingNotes,
         shortSummary: wine.tastingNotes?.split('.')[0] + '.' || '',
@@ -328,11 +317,11 @@ async function importFromExcel(
         drinkingWindowEnd: drinkEnd,
       }
 
-      const createdReview = await payload.create({
-        collection: 'reviews',
-        data: reviewData,
+      const createdWine = await payload.create({
+        collection: 'wines',
+        data: wineData,
       })
-      console.log(`  Review created: ${createdReview.id}`)
+      console.log(`  Wine created: ${createdWine.id} (score: ${score10})`)
 
       successCount++
     } catch (error: any) {

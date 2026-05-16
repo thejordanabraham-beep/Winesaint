@@ -62,30 +62,7 @@ async function getProducer(slug: string): Promise<{ producer: Producer | null; w
 
     const wines = wineResult.docs as unknown as Wine[];
 
-    // Fetch reviews for this producer's wines
-    const wineIds = wines.map(w => w.id);
-    const reviewResult = await payload.find({
-      collection: 'reviews',
-      where: { wine: { in: wineIds } },
-      depth: 0,
-      pagination: false,
-    });
-
-    const reviewsByWine = new Map<number, number>();
-    for (const review of reviewResult.docs) {
-      const wineId = typeof review.wine === 'number' ? review.wine : (review.wine as { id: number })?.id;
-      if (wineId && !reviewsByWine.has(wineId)) {
-        reviewsByWine.set(wineId, review.score);
-      }
-    }
-
-    // Add scores to wines
-    const winesWithScores = wines.map(wine => ({
-      ...wine,
-      score: reviewsByWine.get(wine.id),
-    }));
-
-    return { producer, wines: winesWithScores };
+    return { producer, wines };
   } catch (error) {
     console.error('Error fetching producer:', error);
     return { producer: null, wines: [] };
