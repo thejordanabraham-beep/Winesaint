@@ -197,21 +197,21 @@ export default async function WineDetailPage({ params }: PageProps) {
       <div className="bg-[#FAF7F2] min-h-screen">
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
-        <nav className="mb-8">
+        <nav className="mb-6 md:mb-8 overflow-hidden">
           <ol className="flex items-center space-x-2 text-sm text-gray-500">
-            <li>
+            <li className="flex-shrink-0">
               <Link href="/" className="hover:text-[#722F37]">
                 Home
               </Link>
             </li>
-            <li>/</li>
-            <li>
+            <li className="flex-shrink-0">/</li>
+            <li className="flex-shrink-0">
               <Link href="/wines" className="hover:text-[#722F37]">
                 Wines
               </Link>
             </li>
-            <li>/</li>
-            <li className="text-[#1C1C1C] font-medium">
+            <li className="flex-shrink-0">/</li>
+            <li className="text-[#1C1C1C] font-medium truncate">
               {formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage)}
             </li>
           </ol>
@@ -221,8 +221,8 @@ export default async function WineDetailPage({ params }: PageProps) {
           {/* Wine Details */}
           <div className="space-y-6">
             {/* Header + Reviews Combined */}
-            <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-6">
-              <h1 className="font-serif text-3xl italic text-[#1C1C1C]">
+            <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-4 md:p-6">
+              <h1 className="font-serif text-2xl md:text-3xl italic text-[#1C1C1C]">
                 {formatWineDisplayName(wine.producer?.name, wine.name, wine.vintage)}
               </h1>
 

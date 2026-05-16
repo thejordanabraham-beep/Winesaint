@@ -133,11 +133,11 @@ export default async function ProducerPage({ params }: PageProps) {
       </div>
 
       {/* Main Content */}
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-16">
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-8 md:pb-16">
 
         {/* Producer Header */}
-        <div className="bg-white rounded-lg border-[3px] border-[#1C1C1C] p-6 sm:p-8 mb-6">
-          <div className="flex gap-6">
+        <div className="bg-white rounded-lg border-[3px] border-[#1C1C1C] p-4 sm:p-8 mb-6">
+          <div className="flex gap-4 sm:gap-6">
             {/* Label Image Placeholder */}
             <div className="flex-shrink-0 w-24 sm:w-32 h-32 sm:h-44 bg-gradient-to-br from-stone-100 to-stone-200 rounded-lg border border-stone-300 flex items-center justify-center">
               <span className="text-stone-400 text-xs text-center px-2">Label</span>

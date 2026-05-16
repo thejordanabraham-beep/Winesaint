@@ -142,12 +142,12 @@ export default async function Home() {
       </section>
 
       {/* Main Content */}
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 md:py-16">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 md:gap-12">
           {/* Articles Column */}
           <div className="lg:col-span-2">
-            <div className="flex items-center justify-between mb-8">
-              <h2 className="font-serif text-3xl italic">Latest Stories</h2>
+            <div className="flex items-center justify-between mb-6 md:mb-8">
+              <h2 className="font-serif text-2xl md:text-3xl italic">Latest Stories</h2>
               <Link href="/articles" className="pill-btn text-sm">
                 View All →
               </Link>
@@ -277,16 +277,16 @@ export default async function Home() {
       </div>
 
       {/* Editor's Picks */}
-      <section className="bg-[#1C1C1C] py-16">
+      <section className="bg-[#1C1C1C] py-8 md:py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between mb-10">
-            <h2 className="font-serif text-3xl italic text-white">Editor&apos;s Picks ✨</h2>
+          <div className="flex items-center justify-between mb-6 md:mb-10">
+            <h2 className="font-serif text-2xl md:text-3xl italic text-white">Editor&apos;s Picks ✨</h2>
             <Link href="/wines" className="pill-btn text-white border-white hover:bg-white hover:text-[#1C1C1C]">
               Browse All
             </Link>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-6">
             {recentReviews.map((wine, index) => {
               const colors = ['bg-[#6d597a]', 'bg-[#457b9d]', 'bg-[#2a9d8f]', 'bg-[#722F37]'];
               return (
@@ -296,17 +296,17 @@ export default async function Home() {
                   className="group"
                 >
                   <div className="fun-card bg-white border-3 border-[#1C1C1C] rounded-lg overflow-hidden">
-                    <div className={`aspect-[3/4] ${colors[index]} relative flex items-center justify-center`}>
+                    <div className={`aspect-square md:aspect-[3/4] ${colors[index]} relative flex items-center justify-center`}>
                       <div className="w-12 h-40 bg-white/20 rounded-sm" />
                       <div className="absolute top-3 right-3">
                         <ScoreBadge score={wine.score} size="sm" />
                       </div>
                     </div>
-                    <div className="p-4">
-                      <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate text-sm">
+                    <div className="p-2 md:p-4">
+                      <p className="font-semibold text-[#1C1C1C] group-hover:text-[#722F37] transition-colors truncate text-xs md:text-sm">
                         {formatWineDisplayName(wine.producerName, wine.wineName, wine.vintage)}
                       </p>
-                      <p className="text-xs text-gray-500 mt-1">{wine.regionName}</p>
+                      <p className="text-xs text-gray-500 mt-0.5 md:mt-1 truncate">{wine.regionName}</p>
                     </div>
                   </div>
                 </Link>
