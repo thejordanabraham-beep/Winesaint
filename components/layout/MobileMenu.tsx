@@ -10,9 +10,11 @@ interface MobileMenuProps {
 }
 
 const NAV_LINKS = [
+  { href: '/search', label: 'Wine Reviews' },
   { href: '/regions', label: 'Wine Region Guide' },
   { href: '/grapes', label: 'Grape Guide' },
   { href: '/resources', label: 'Resources' },
+  { href: '/learn', label: 'Education' },
   { href: '/chat', label: 'François AI' },
 ];
 
@@ -33,7 +35,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
   if (!isOpen) return null;
 
   return (
-    <div className="md:hidden py-4 border-t border-[#1C1C1C]/10">
+    <div className="lg:hidden py-4 border-t border-[#1C1C1C]/10">
       {/* Mobile Search */}
       <form onSubmit={handleSearch} className="flex mb-4 px-4">
         <input

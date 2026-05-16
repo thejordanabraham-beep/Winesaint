@@ -127,7 +127,7 @@ export function SearchFilters({
 
       {/* Dropdown Panel */}
       {isOpen && (
-        <aside className="absolute top-full right-0 mt-2 w-80 bg-white border-2 border-[#1C1C1C] shadow-2xl z-50 max-h-[80vh] overflow-y-auto">
+        <aside className="absolute top-full right-0 mt-2 w-[calc(100vw-2rem)] sm:w-80 bg-white border-2 border-[#1C1C1C] shadow-2xl z-50 max-h-[80vh] overflow-y-auto">
           {/* Header */}
           <div className="bg-[#FAF7F2] border-b-2 border-[#1C1C1C] p-4 sticky top-0 z-10">
             <div className="flex items-center justify-between">

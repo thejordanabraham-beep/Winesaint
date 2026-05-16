@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { formatWineDisplayName } from '@/lib/utils';
+import { ScoreBadge } from '@/components/ui/ScoreBadge';
 
 interface WineResult {
   _id: string;
@@ -125,21 +126,21 @@ export function SearchResultCard({ wine, isExpanded, onToggle }: SearchResultCar
         </div>
 
         {/* Right: Score & Details */}
-        <div className="text-right flex-shrink-0 w-44">
+        <div className="flex flex-col items-center flex-shrink-0 w-14 sm:w-20">
           {wine.review ? (
             <>
-              <p className="text-3xl font-light text-[#722F37]">{wine.review.score.toFixed(1)}</p>
+              <ScoreBadge score={wine.review.score} size="sm" />
               {wine.priceUsd && (
-                <p className="text-sm text-gray-600 mt-1">${wine.priceUsd}</p>
+                <p className="text-xs text-gray-600 mt-1">${wine.priceUsd}</p>
               )}
             </>
           ) : (
-            <p className="text-sm text-gray-400 italic">No review yet</p>
+            <p className="text-xs text-gray-400 italic text-center">No review</p>
           )}
 
           <button
             onClick={onToggle}
-            className="mt-2 p-1 hover:bg-gray-100 rounded inline-flex"
+            className="mt-1 p-1 hover:bg-gray-100 rounded inline-flex"
           >
             <svg
               className={`w-4 h-4 text-gray-400 transform transition-transform ${isExpanded ? 'rotate-180' : ''}`}

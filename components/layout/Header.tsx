@@ -37,7 +37,7 @@ export function Header() {
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-20 items-center justify-between">
           {/* Left Navigation */}
-          <div className="hidden md:flex md:items-center md:space-x-0 flex-1 justify-start">
+          <div className="hidden lg:flex lg:items-center lg:space-x-0 flex-1 justify-start">
             <RegionsDropdown />
             <span className="text-gray-400 px-1">•</span>
             <Link
@@ -70,7 +70,7 @@ export function Header() {
           </Link>
 
           {/* Right Navigation */}
-          <div className="hidden md:flex md:items-center md:space-x-0 flex-1 justify-end">
+          <div className="hidden lg:flex lg:items-center lg:space-x-0 flex-1 justify-end">
             <ResourcesDropdown />
             <span className="text-gray-400 px-1">•</span>
             <Link
@@ -101,7 +101,7 @@ export function Header() {
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden">
+          <div className="lg:hidden">
             <button
               type="button"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -123,7 +123,7 @@ export function Header() {
 
         {/* Expandable Desktop Search Bar */}
         {searchOpen && (
-          <div className="hidden md:block pb-4 border-t-2 border-[#1C1C1C]/10 pt-4 mt-2">
+          <div className="hidden lg:block pb-4 border-t-2 border-[#1C1C1C]/10 pt-4 mt-2">
             <form onSubmit={handleSearch} className="flex items-center max-w-2xl mx-auto">
               <div className="relative flex-1">
                 <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
