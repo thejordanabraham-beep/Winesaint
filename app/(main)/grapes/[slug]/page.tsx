@@ -184,9 +184,9 @@ export default async function GrapeDetailPage({ params }: PageProps) {
         </nav>
 
         {/* Header Card */}
-        <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+        <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
           <div className="flex items-start justify-between mb-4">
-            <h1 className="font-serif text-4xl italic text-[#1C1C1C]">
+            <h1 className="font-serif text-3xl sm:text-4xl italic text-[#1C1C1C]">
               {formatGrapeName(grape.name)}
             </h1>
             <span className={`inline-flex items-center px-4 py-2 rounded-full text-sm font-medium border-2 border-[#1C1C1C] ${colorBadge.bgClass} ${colorBadge.textClass}`}>
@@ -248,14 +248,14 @@ export default async function GrapeDetailPage({ params }: PageProps) {
         </div>
 
         {/* Full Description */}
-        <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+        <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
           <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Overview</h2>
           <p className="text-gray-700 leading-relaxed">{grape.level_2.full_description}</p>
         </div>
 
         {/* Origins & History */}
         {grape.level_2.origins_history && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Origins & History</h2>
             <p className="text-gray-700 leading-relaxed">{grape.level_2.origins_history}</p>
           </div>
@@ -263,7 +263,7 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Viticultural Characteristics */}
         {grape.level_2.viticultural_characteristics && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Viticultural Characteristics</h2>
             <p className="text-gray-700 leading-relaxed">{grape.level_2.viticultural_characteristics}</p>
           </div>
@@ -271,7 +271,7 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Wine Styles */}
         {grape.level_2.wine_styles && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Wine Styles & Characteristics</h2>
             <p className="text-gray-700 leading-relaxed">{grape.level_2.wine_styles}</p>
           </div>
@@ -279,7 +279,7 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Genetic Lineage */}
         {grape.level_3?.genetic_lineage && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Genetic Lineage</h2>
             <p className="text-gray-700 leading-relaxed mb-6">{grape.level_3.genetic_lineage.overview}</p>
 
@@ -342,12 +342,12 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Clones */}
         {grape.level_3?.clones && grape.level_3.clones.length > 0 && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Clonal Selection</h2>
             <div className="grid gap-4">
               {grape.level_3.clones.map((clone, idx) => (
                 <div key={idx} className="bg-[#FAF7F2] rounded-lg p-4">
-                  <div className="flex items-center justify-between mb-2">
+                  <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
                     <span className="font-medium text-[#722F37]">{clone.name}</span>
                     <div className="flex gap-2">
                       {clone.yield && <span className="text-xs bg-white border border-[#1C1C1C]/20 px-2 py-0.5 rounded">Yield: {clone.yield}</span>}
@@ -365,7 +365,7 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Disease Profile */}
         {grape.level_3?.disease_profile && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Disease Profile</h2>
 
             {grape.level_3.disease_profile.general_notes && (
@@ -414,7 +414,7 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Terroir */}
         {grape.level_3?.terroir && grape.level_3.terroir.length > 0 && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Terroir Preferences</h2>
             <div className="grid gap-4">
               {grape.level_3.terroir.map((t, idx) => (
@@ -442,12 +442,12 @@ export default async function GrapeDetailPage({ params }: PageProps) {
 
         {/* Regional Expressions */}
         {grape.level_3?.regional_expressions && grape.level_3.regional_expressions.length > 0 && (
-          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-8 mb-6">
+          <div className="bg-white border-3 border-[#1C1C1C] rounded-lg p-5 sm:p-8 mb-6">
             <h2 className="font-serif text-2xl italic text-[#1C1C1C] mb-4">Regional Expressions</h2>
             <div className="grid gap-6">
               {grape.level_3.regional_expressions.map((expr, idx) => (
                 <div key={idx} className="bg-[#FAF7F2] rounded-lg p-5">
-                  <div className="flex items-center justify-between mb-3">
+                  <div className="flex flex-wrap items-center justify-between gap-2 mb-3">
                     <span className="font-medium text-lg text-[#722F37]">{expr.region}</span>
                     <div className="flex items-center gap-2">
                       {expr.importance && <span className="text-xs bg-[#722F37] text-white px-2 py-0.5 rounded">{expr.importance}</span>}

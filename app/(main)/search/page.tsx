@@ -193,25 +193,25 @@ function SearchContent() {
 
   return (
     <div className="bg-white min-h-screen">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8" ref={topRef}>
+      <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-8" ref={topRef}>
         <div>
             {/* Search bar + Filters row */}
-            <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 mb-4">
-              <div className="flex-1 relative">
-                <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="relative flex-1">
+                <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
                 <input
                   type="text"
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
-                  placeholder="Search by producer, wine, or region..."
-                  className="w-full pl-10 pr-4 py-2.5 border-2 border-[#1C1C1C] bg-[#FAF7F2] text-sm placeholder-gray-400 focus:outline-none focus:border-[#722F37] transition-colors"
+                  placeholder="Search..."
+                  className="w-full pl-9 pr-8 py-2 border-2 border-[#1C1C1C] bg-[#FAF7F2] text-sm placeholder-gray-400 focus:outline-none focus:border-[#722F37] transition-colors"
                 />
                 {searchQuery && (
                   <button
                     onClick={() => setSearchQuery('')}
-                    className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
                   >
                     <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />

@@ -87,7 +87,7 @@ export default function VintagesPage() {
         {/* Filters */}
         <div className="bg-white rounded-lg border border-gray-200 p-4 mb-8">
           <div className="flex flex-wrap gap-4">
-            <div className="flex-1 min-w-48">
+            <div className="flex-1 min-w-0 sm:min-w-48">
               <label className="block text-sm font-medium text-gray-700 mb-1">
                 Region
               </label>
@@ -103,7 +103,7 @@ export default function VintagesPage() {
                 ))}
               </select>
             </div>
-            <div className="flex-1 min-w-48">
+            <div className="flex-1 min-w-0 sm:min-w-48">
               <label className="block text-sm font-medium text-gray-700 mb-1">
                 Year
               </label>

@@ -85,7 +85,7 @@ export default function GrapesClient({ grapes, totalGrapes, essentialCount }: Gr
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="mb-8">
-          <h1 className="font-serif text-4xl italic text-[#1C1C1C]">Grape Guide</h1>
+          <h1 className="font-serif text-3xl sm:text-4xl italic text-[#1C1C1C]">Grape Guide</h1>
           <p className="mt-2 text-gray-600">
             Explore {totalGrapes} grape varieties with tasting profiles and regional origins.
           </p>
@@ -149,7 +149,7 @@ export default function GrapesClient({ grapes, totalGrapes, essentialCount }: Gr
         {/* Filters */}
         <div className="bg-white rounded-lg border-2 border-[#1C1C1C] p-4 mb-8">
           <div className="flex flex-wrap gap-4">
-            <div className="flex-1 min-w-48">
+            <div className="flex-1 min-w-0 sm:min-w-48">
               <label className="block text-sm font-medium text-[#1C1C1C] mb-1">
                 Color
               </label>
@@ -164,7 +164,7 @@ export default function GrapesClient({ grapes, totalGrapes, essentialCount }: Gr
                 <option value="Rosé">Rosé</option>
               </select>
             </div>
-            <div className="flex-1 min-w-48">
+            <div className="flex-1 min-w-0 sm:min-w-48">
               <label className="block text-sm font-medium text-[#1C1C1C] mb-1">
                 Region
               </label>
@@ -180,7 +180,7 @@ export default function GrapesClient({ grapes, totalGrapes, essentialCount }: Gr
                 ))}
               </select>
             </div>
-            <div className="flex-1 min-w-48">
+            <div className="flex-1 min-w-0 sm:min-w-48">
               <label className="block text-sm font-medium text-[#1C1C1C] mb-1">
                 Search
               </label>

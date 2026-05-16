@@ -21,7 +21,7 @@ export default function SavoieBuyersGuideArticle() {
       </div>
 
       {/* Article Header */}
-      <div className="bg-gradient-to-br from-[#2a9d8f] to-[#6d597a] py-16 border-b-3 border-[#1C1C1C]">
+      <div className="bg-gradient-to-br from-[#2a9d8f] to-[#6d597a] py-10 sm:py-16 border-b-3 border-[#1C1C1C]">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <span className="inline-block px-3 py-1 bg-[#f4d35e] text-[#1C1C1C] text-xs font-bold uppercase tracking-wider rounded-full mb-4">
             Buying Guide

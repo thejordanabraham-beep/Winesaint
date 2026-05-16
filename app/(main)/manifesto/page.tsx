@@ -17,7 +17,7 @@ export default function ManifestoPage() {
       </div>
 
       {/* Header */}
-      <div className="bg-gradient-to-br from-[#722F37] to-[#457b9d] py-16 border-b-3 border-[#1C1C1C]">
+      <div className="bg-gradient-to-br from-[#722F37] to-[#457b9d] py-10 sm:py-16 border-b-3 border-[#1C1C1C]">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl italic text-white leading-tight mb-6">
             The WineSaint Manifesto

@@ -221,24 +221,6 @@ export default function WineRatingsArticle() {
           </div>
         </article>
 
-        {/* Related Articles */}
-        <div className="mt-12">
-          <h3 className="font-serif text-2xl italic text-[#1C1C1C] mb-6">Related Reading</h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <Link href="/articles/bordeaux-2022-vintage-report" className="group bg-white border-3 border-[#1C1C1C] rounded-lg p-6 hover:border-[#722F37] transition-colors">
-              <span className="text-xs font-bold uppercase tracking-wider text-gray-500">Vintage Report</span>
-              <h4 className="font-serif text-xl italic text-[#1C1C1C] mt-2 group-hover:text-[#722F37]">
-                Bordeaux 2022: A Vintage for the Ages
-              </h4>
-            </Link>
-            <Link href="/articles/best-wines-under-30" className="group bg-white border-3 border-[#1C1C1C] rounded-lg p-6 hover:border-[#722F37] transition-colors">
-              <span className="text-xs font-bold uppercase tracking-wider text-gray-500">Buying Guide</span>
-              <h4 className="font-serif text-xl italic text-[#1C1C1C] mt-2 group-hover:text-[#722F37]">
-                The Best Wines Under $30
-              </h4>
-            </Link>
-          </div>
-        </div>
       </div>
     </div>
   );

@@ -141,7 +141,7 @@ export default async function LearnPage() {
 
         {/* Header */}
         <div className="mb-12 max-w-3xl">
-          <h1 className="font-serif text-5xl italic text-[#1C1C1C]">
+          <h1 className="font-serif text-3xl sm:text-5xl italic text-[#1C1C1C]">
             Wine Saint Certified
           </h1>
           <p className="mt-4 text-lg text-gray-600 leading-relaxed">
@@ -160,7 +160,7 @@ export default async function LearnPage() {
             <section key={group.key}>
               <div className="mb-6 flex items-baseline justify-between flex-wrap gap-3">
                 <div>
-                  <h2 className="font-serif text-3xl italic text-[#1C1C1C]">
+                  <h2 className="font-serif text-2xl sm:text-3xl italic text-[#1C1C1C]">
                     {group.label}
                   </h2>
                   <p className="mt-1 text-gray-600 max-w-2xl">{group.description}</p>

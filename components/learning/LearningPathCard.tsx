@@ -114,7 +114,7 @@ export default function LearningPathCard({
 
         {/* CTA */}
         <Link
-          href={`/learning/${title.toLowerCase().replace(/\s+/g, '-')}`}
+          href={`/learn/${title.toLowerCase().replace(/\s+/g, '-')}`}
           className="block w-full text-center px-4 py-3 bg-wine-600 text-white font-semibold rounded-lg hover:bg-wine-700 transition-colors"
         >
           {progress > 0 ? 'Continue Learning' : 'Start Path'}

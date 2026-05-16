@@ -75,7 +75,7 @@ export default function ArticlesPage() {
       {/* Page Header */}
       <div className="border-b-3 border-[#1C1C1C] bg-white">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10">
-          <h1 className="font-serif text-5xl italic text-[#1C1C1C] mb-3">Articles</h1>
+          <h1 className="font-serif text-3xl sm:text-5xl italic text-[#1C1C1C] mb-3">Articles</h1>
           <p className="text-gray-600 text-lg max-w-2xl">
             Analysis, opinion, features, and dispatches from the world of wine.
           </p>
@@ -89,14 +89,14 @@ export default function ArticlesPage() {
           href={`/articles/${featuredArticle.slug}`}
           className="group fun-card bg-white border-3 border-[#1C1C1C] rounded-lg overflow-hidden block mb-10"
         >
-          <div className={`bg-gradient-to-br ${featuredArticle.gradient} px-10 py-16 relative`}>
+          <div className={`bg-gradient-to-br ${featuredArticle.gradient} px-5 py-10 sm:px-10 sm:py-16 relative`}>
             <span className={`inline-block px-3 py-1 text-xs font-bold uppercase tracking-wider rounded-full mb-4 ${categoryColors[featuredArticle.category] ?? 'bg-white text-[#1C1C1C]'}`}>
               {featuredArticle.category}
             </span>
             <h2 className="font-serif text-4xl md:text-5xl italic text-white leading-tight mb-4 group-hover:underline">
               {featuredArticle.title}
             </h2>
-            <p className="text-white/80 text-xl mb-6 max-w-2xl">
+            <p className="text-white/80 text-base sm:text-xl mb-6 max-w-2xl">
               {featuredArticle.subtitle}
             </p>
             <div className="flex items-center gap-3 text-sm text-white/70">

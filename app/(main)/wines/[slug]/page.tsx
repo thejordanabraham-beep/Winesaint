@@ -142,13 +142,6 @@ export default async function WineDetailPage({ params }: PageProps) {
       name: wine.producer?.name || 'Unknown Producer',
     },
     category: 'Wine',
-    ...(wine.priceUsd && {
-      offers: {
-        '@type': 'Offer',
-        price: wine.priceUsd,
-        priceCurrency: 'USD',
-      },
-    }),
     ...(latestReview && {
       aggregateRating: {
         '@type': 'AggregateRating',

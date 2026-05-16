@@ -402,7 +402,7 @@ export default async function RegionLayout({
         {/* Main Content Area */}
         <main className="flex-1 max-w-5xl">
           {/* Breadcrumb */}
-          <nav className="text-sm text-gray-500 mb-8 flex items-center gap-2">
+          <nav className="text-sm text-gray-500 mb-8 flex items-center gap-2 flex-wrap">
             <Link href="/regions" className="hover:text-[#722F37] transition-colors">
               Wine Region Guide
             </Link>
@@ -437,7 +437,7 @@ export default async function RegionLayout({
           )}
 
           {/* Content Card */}
-          <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-12">
+          <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-5 sm:p-8 lg:p-12">
             {/* Generated Guide Content */}
             <article
               className="prose max-w-none"
@@ -457,7 +457,7 @@ export default async function RegionLayout({
 
           {/* Vineyard Metadata (for vineyard pages) */}
           {level === 'vineyard' && vineyardData && (
-            <div className="mt-6 bg-white rounded-lg shadow-sm border border-gray-200 p-8">
+            <div className="mt-6 bg-white rounded-lg shadow-sm border border-gray-200 p-5 sm:p-8">
               <h3 className="font-bold text-xl mb-6 text-[#722F37]">Vineyard Details</h3>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
