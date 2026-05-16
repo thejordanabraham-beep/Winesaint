@@ -62,11 +62,13 @@ async function getProducer(slug: string): Promise<{ producer: Producer | null; w
 
     const wines = wineResult.docs as unknown as Wine[];
 
-    // Fetch reviews to get scores
+    // Fetch reviews for this producer's wines
+    const wineIds = wines.map(w => w.id);
     const reviewResult = await payload.find({
       collection: 'reviews',
+      where: { wine: { in: wineIds } },
       depth: 0,
-      limit: 500,
+      pagination: false,
     });
 
     const reviewsByWine = new Map<number, number>();

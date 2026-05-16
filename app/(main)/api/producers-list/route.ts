@@ -20,7 +20,7 @@ export async function GET() {
     const wineResult = await payload.find({
       collection: 'wines',
       depth: 0,
-      limit: 10000,
+      pagination: false,
     });
 
     const wineCountByProducer = new Map<string | number, number>();
