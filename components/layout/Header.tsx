@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
 import { useState } from 'react';
 import { MobileMenu } from './MobileMenu';
 import RegionsDropdown from './RegionsDropdown';
@@ -9,9 +9,11 @@ import ResourcesDropdown from './ResourcesDropdown';
 
 export function Header() {
   const router = useRouter();
+  const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const isOnSearchPage = pathname === '/search';
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -87,17 +89,21 @@ export function Header() {
               <span>François</span>
               <span className="text-xs bg-[#722F37] text-white px-1.5 py-0.5 rounded-full">AI</span>
             </Link>
-            <span className="text-gray-400 px-1">•</span>
-            <button
-              onClick={() => setSearchOpen(!searchOpen)}
-              className="ml-2 px-3 py-2 bg-[#722F37] text-white hover:bg-[#A64253] transition-colors rounded flex items-center gap-1.5"
-              aria-label="Search"
-            >
-              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-              <span className="text-xs font-semibold uppercase tracking-wide">Search</span>
-            </button>
+            {!isOnSearchPage && (
+              <>
+                <span className="text-gray-400 px-1">•</span>
+                <button
+                  onClick={() => setSearchOpen(!searchOpen)}
+                  className="ml-2 px-3 py-2 bg-[#722F37] text-white hover:bg-[#A64253] transition-colors rounded flex items-center gap-1.5"
+                  aria-label="Search"
+                >
+                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                  </svg>
+                  <span className="text-xs font-semibold uppercase tracking-wide">Search</span>
+                </button>
+              </>
+            )}
           </div>
 
           {/* Mobile menu button */}
